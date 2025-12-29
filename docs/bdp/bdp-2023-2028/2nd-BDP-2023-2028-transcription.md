@@ -3899,3 +3899,1457 @@ Research and development is at the heart of all development pursuits. This progr
 
 **8. Bangsamoro Halal Research Development and Promotion Act.** This policy agenda aims to enact a law that will provide for the development of halal research and innovation in the region.
 
+---
+
+# Chapter 9: Ensuring inclusive and equitable access to quality services for social justice and human capital development
+
+Section 19, Article XII of RA 11054 provides, among others, that the Parliament shall assign the highest budgetary priority to education, health, and social services as may be provided in its appropriation law.
+
+This chapter covers the social development sector that includes the subsectors of education, health, nutrition and sanitation, and social welfare, giving emphasis of the agenda numbers 7 and 9 of the Enhanced 12-Point Priority Agenda of the BARMM.
+
+This chapter aims to contribute to Agenda No. 2 of the 8-Point Socioeconomic Agenda of the Marcos Administration, and SDGs 1, 2, 3, 4, 5, 6, and 10.
+
+This explains the current situation of the social sector and its subsectors, opportunities, and priority challenges. The sectoral framework underscores the desired goal and objectives provided to help achieve the region's overall goal. Corresponding strategies supported by priority intervention are identified to serve as a guide within the planning period.
+
+## Sectoral Assessment
+
+### Sectoral Trends
+
+The education system and structure in the BARMM is different from other regions of the country as it combines the four sectors of basic, higher, technical, and Madaris educations. Each sector has specific level and field of education and learning but all lodged to the Ministry of Basic, Higher, and Technical Educations (MBHTE) based on BAA 13 or the Administrative Code of the BARMM.
+
+#### BARMM lags behind in basic education performance
+
+The BARMM is ranked lowest in functional literacy rate based on 2019 data from PSA as it recorded only 71.0 percent compared to 96.5 percent of the National Capital Region (NCR). It is attributed to high dropout rate in Grades 1 to 6 in the region. For the junior and senior high or Grades 7 to 12, BARMM is ranked number 3. In terms of cohort survival rate, the BARMM is ranked the lowest having 64.75 percent compared to Region II with highest rate at 97.89 percent. For Grades 7 to 12, the BARMM is ranked as the third lowest having 56.66 percent compared to NCR with the highest rate at 92.86 percent.
+
+Moreover, the completion rate for Grades 1 to 6, the BARMM is ranked the lowest with 63.98 percent, far from the highest region with 98.56 percent. For Grades 7 to 12, the BARMM is ranked the third lowest with 56.89 percent compared to highest region with 90.36 percent.
+
+This can be attributed to the prevalence of poverty leaving children with no choice but to help in the family needs, and decades old armed conflict in the region causing displacement and uncertainty. Low level of education limits income-earning opportunities like landing a stable job or opening businesses, which resulted to low family income and cyclical poverty incidence. This also increases the likelihood of becoming children at risk and children in conflict with the law.
+
+**Table 9.1 Basic Education Performance**
+
+| Indicator | BARMM | Philippines | Highest Region Rate | Rank/Rate |
+|-----------|-------|-------------|---------------------|-----------|
+| Functional Literacy Rate | 71.6 | 91.6 | 96.5% | Lowest among regions (PSA 2019) |
+| Dropout Rate for Grade 1 to Grade 7 | 8.36 | 3.76 | 0.39% | Highest among regions |
+| Dropout Rate for Grade 7 to 12 | 10.14 | 6.64 | 1.65% | 3rd highest after NCR and Region V |
+| Cohort Survival Rate for Grades 1 to 6 | 64.75 | 83.02 | 98.89% | Lowest among regions |
+| Cohort Survival Rate for Grades 7 to 12 | 58.66 | 71.30 | 92.46% | 3rd lowest after NCR and Region V |
+| Completion Rate for Grade 1 to 6 | 63.98 | 82.51 | 98.56% | Lowest among regions |
+| Completion Rate for Grade 7 to 12 | 56.89 | 69.32 | 90.36% | 3rd lowest after NCR and Region V |
+
+*Source: PSA 2019, EBEIS SY 2020-2021*
+
+#### Limited education personnel and facilities remain a challenge
+
+The standard ratio of teacher to student are 1:50 for kindergarten, 1:35 for Grades 1 to 3, and 1:40 for Grades 4 to 12. Table 9.2 shows that there is a shortage of teachers in Grades 1 to 3 and Grades 4 to 12. It is worth noting that although the data shows no problem on the ratio of teacher to pupil in Kindergarten, the issue on the deployment of teachers particularly in the far-flung barangays, coupled with the tardiness, and absenteeism of some teachers, substantially affected the quality of education in the BARMM.
+
+According to the joint study of the World Bank and Department of Foreign Affairs and Trade (DFAT) in 2014, the negative impact on the effectiveness and quality of education in the region can also be attributed to the widespread teacher absences and the management of the issue. In a survey conducted in Lanao del Sur, a significant 31.0 percent was confirmed as absent, which indicates a combination of the so-called "ghost teachers" reported as school personnel and actual absences.
+
+The study further noted that the absences of teachers are prevalent in the provincial or rural schools than in the urban schools as verified with the Lanao del Sur survey but may vary across provinces. It was likewise known that male teachers (39 percent) were more likely to be absent than female teachers (30 percent). The school principal was found to have the highest absence rates.
+
+**Table 9.2 Actual Teacher-Student Ratio from Kindergarten to Senior High School, SY 2019-2020**
+
+| Grade Level | Standard | Actual Teacher-Student Ratio |
+|-------------|----------|------------------------------|
+| Kindergarten | 1:50 | 1:26 |
+| Grade 1-3 | 1:35 | 1:38 |
+| Grade 4-12 | 1:40 | 1:42 |
+
+*Source: EBEIS*
+
+As of school year 2020-2021, the BARMM has 2,595 total number of schools with 913,456 learners, 27,885 teachers, and 28,759 classrooms. Among the school divisions, Sulu with 448 schools has the highest total number of schools with 142,413 learners, 4,006 teachers, and 4,186 classrooms. This comprises the whole province unlike Maguindanao and Lanao del Sur with two divisions each.
+
+**Table 9.3 Summary of Learners, Teachers, and Classrooms per Division, SY 2021-2022**
+
+| Division | Total Number of Schools (Public Only) | Total Number of Learners | Teachers as of March 2022 | Classrooms |
+|----------|---------------------------------------|--------------------------|---------------------------|------------|
+| Basilan | 176 | 54,983 | 1,564 | 1,514 |
+| Lamitan City | 55 | 22,197 | 733 | 835 |
+| Cotabato City | 43 | 54,905 | 1,827 | 1,450 |
+| Lanao Sur 1 | 420 | 140,584 | 4,166 | 4,285 |
+| Lanao Sur 2 | 391 | 101,937 | 3,782 | 3,333 |
+| Marawi City | 50 | 25,504 | 1,228 | 862 |
+| SGA | 111 | 42,027 | 1,184 | 1,652 |
+| Sulu | 448 | 142,413 | 4,006 | 4,186 |
+| Tawi-Tawi | 262 | 78,187 | 2,817 | 2,723 |
+| Maguindanao 1 | 337 | 136,786 | 3,531 | 4,417 |
+| Maguindanao 2 | 302 | 113,933 | 3,047 | 3,502 |
+| **Totals** | **2,595** | **913,456** | **27,885** | **28,759** |
+
+*Source: MBHTE, National School Building Inventory (NSBI)*
+
+#### Unserved and school-less barangays in BARMM
+
+There are about 104 unserved and underserved barangays of basic education out of the 2,590 barangays in the BARMM. With affirmative action taken by the MBHTE through its Abot Kaalaman sa Pamilyang Bangsamoro Program (AKAP Program), 106 of these barangays are now provided with early years education via Alternative Delivery Mode (ADM).
+
+Among the barangays reached by the AKAP are the geographically isolated, marginalized, and indigenous communities of Maguindanao and Lanao del Sur and island barangays in BaSulTa. Strategies for delivering education access to the remaining school-less barangays are also being implemented through ADM and other Flexible Learning Options (FLOs). Some of the ADM learning centers are also gradually transitioning into primary public schools.
+
+#### Inadequate assistance to Madaris Education
+
+Unique to the Bangsamoro education system is the presence of Madaris education. It also serves as avenue of preserving beliefs, culture, and identity of the Bangsamoro. Currently, out of 1,679 existing Madaris in the BARMM, only 117 are accredited and enjoying support from the Bangsamoro government. This is due to non-fulfillment of requirements necessary for accreditation. Thus, there is a need to provide support to those not yet accredited to comply with the requirements. Still, enhancement of the existing Madaris curriculum is necessary to keep abreast with societal demands.
+
+**Figure 9.1 Accredited vs. Traditional Madrasah, SY 2021-2022**
+
+*[Pie Chart showing: 1,679 Traditional Madrasah (93%) vs. 117 Accredited Madrasah (7%)]*
+
+*Source: MBHTE-DGME*
+
+Part of the regulatory function of the Directorate General for Madaris Education (DGME) is to assess, monitor, and validate the operation of the madrasahs across the region. Aside from the 117 existing accredited madrasahs in BARMM, a total of 243 madrasahs were inspected and found compliant with the minimum requirement set by the MBHTE and provided with Permit to Operate.
+
+**Figure 9.2 Madrasah with Permit to Operate**
+
+*[Bar Chart showing Madrasah with Permit to Operate in BARMM by location:]*
+- Basilan: 20
+- Cotabato City: 4
+- Lanao Del Sur I: 75
+- Lanao Del Sur II: 64
+- Maguindanao I: 53
+- Maguindanao II: 13
+- Marawi City: 14
+- Special Geographic Area: 0
+
+*Source: MBHTE-DGME*
+
+To ensure gradual institutionalization of Madaris education, the MBHTE hired a total of 4,868 competent Asatidz (Arabic teacher) that are deployed to public schools across the region to strengthen the integration of Islamic Studies and Arabic Language (ISAL) in the basic education.
+
+**Figure 9.3 Distribution of ISAL Asatidz**
+
+*[Bar Chart showing Distribution of ISAL Asatidz per Division:]*
+- Basilan: 285
+- Cotabato City: 178
+- Lamitan: 100
+- Lanao del Sur I: 905
+- Lanao del Sur II: 649
+- Maguindanao I: 850
+- Maguindanao II: 550
+- Marawi City: 214
+- SGA: 285
+- Sulu: 456
+- Tawi-Tawi: 396
+
+*Source: MBHTE-DGME*
+
+#### Low Assessment Rate in Technical Education
+
+Private enterprises are investing in the opening of Technical-Vocational Education and Training (TVET) programs. But the same investment is slowing down in the establishment of accredited assessment centers.
+
+Sixty percent or 15,002 people of the total 25,002 completers/graduates have undergone the National Competency Assessment, with 94 percent or 14,036 people certified as competent.
+
+Graduating students from With Training Regulation (WTR) registered programs must complete mandatory assessments. Private Technical Vocational Institutions (TVIs) designated as assessment venues may conduct assessments in their facilities. Out of the 25,002 completers/graduates, there are 18,193 graduates who took the competency assessment tools (CATs), with 7,465 undergoing assessments for certification, registering a 41.03 percent assessment rate.
+
+The low assessment rate can be attributed to the BARMM's limited number of competency assessment centers and the TESDA representatives who oversee the competency assessment process. The increase in plantilla positions from 71.0 percent during ARMM to 96.0 percent in 2021 is expected to address the long-standing issue of a lack of TESDA representatives during competency assessment.
+
+**Figure 9.4 Number of Enrolled, Graduated, Assessed, and Certified in TVET Education, SY 2021**
+
+*[Funnel/Flow Chart showing:]*
+- No. of persons enrolled: 28,065
+- No. of TVET graduates: 25,002
+- No. of skilled workers assessed: 14,932
+- No. of skilled workers certified as competent: 14,036
+
+*Source: TESDA Training Management Information System (T2MIS)*
+
+**Figure 9.5 Number of TVET Programs Registered by Sector, SY 2020-2021**
+
+*[Bar Chart showing Number of TVET Programs Registered by Sector, with Construction having the highest at approximately 100 programs, followed by Tourism, and Electrical and Electronics sectors]*
+
+*Source: TESDA Training Management Information System (T2MIS)*
+
+#### Limited access to higher education
+
+Currently, the Bangsamoro has only 16 State Universities and Colleges (SUCs) and 110 private Higher Education Institutions (HEIs) operating in the region. The SUCs can help the Bangsamoro in providing affordable, inclusive, and equitable access to quality higher education. However, these institutions have been established many decades before the creation of the Bangsamoro government. Hence, there is a need to upgrade these SUCs to make them competitive with other SUCs in the country.
+
+**Figure 9.6 Number of SUCs vs. Private HEIs, as of SY 2020-2021**
+
+*[Bar Chart showing: Private HEIs: 110, State Universities and Colleges (SUC): 16]*
+
+*Source: MBHTE Higher Education*
+
+### Health
+
+**Health outcomes remain challenging.** The health outcomes in the Bangsamoro region are lagging behind due to limited access to quality health services. Although there has been some progress in the overall healthcare system, however, these issues remain prevalent. Among these issues were low outcome on immunization including COVID-19 vaccination and child health; insufficient support to adolescent and women's health, psychosocial and mental health; limited access to safe drinking water, sanitation, and hygiene services; low coverage of social protection and health insurance; prevalence of malnutrition and inadequate dietary intake; worsened structural and non-structural issues on human resources; results-based financing and perpetuating supply chain data and information management, and monitoring and evaluation. These issues were exacerbated by the impact of the COVID-19 pandemic.
+
+A perpetual issue not only in BARMM, is limited access to professional health care services due to insufficient skilled health care personnel and well-equipped health facilities at the regional and local levels. This is caused by the issue of difficulty of transportation especially in the far-flung areas and worsened by the absence of clear policy guidelines on shared responsibility in the delivery of health care services. Behavioral change remains as an issue as it requires internal motivation to practice health-seeking behavior. It requires the whole community to influence someone get motivated and practice good health seeking behavior.
+
+**Birth and death.** In the Bangsamoro region, the annual number of live births per 1,000 population declined from 20.78 percent in 2015 to 16.7 percent in 2020. Similarly, reduction in the number of deaths in the same period was also observed from 1.59 percent in 2015 to 1.2 percent in 2020.
+
+**Figure 9.7 Crude Birth Rate, Philippines vs. BARMM, 2018-2020**
+
+*[Line Graph comparing Crude Birth Rate between Philippines and BARMM from 2018-2020:]*
+- 2018: Philippines 18.95, BARMM 18.18
+- 2019: Philippines 17.5, BARMM 16.46
+- 2020: Philippines 15.5, BARMM 16.7
+
+*Note: The numerical computation of the graph does not include Cotabato City and 63 barangays from North Cotabato.*
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CO*
+
+**Figure 9.8 Crude Death Rate in Philippines vs. BARMM, 2018-2020**
+
+*[Line Graph comparing Crude Death Rate between Philippines and BARMM from 2015-2020:]*
+- Philippines: 4.43 (2015), 4.28 (2016), 4.25 (2017), 3.53 (2018), 3.72 (2019), increased in 2020
+- BARMM: 1.59 (2015), 1.31 (2016), 1.25 (2017), 1.42 (2018), 1.34 (2019), 1.2 (2020)
+
+*Note: The numerical computation of the graph does not include Cotabato City and 63 barangays from North Cotabato.*
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CO*
+
+**Maternal Mortality Rate (MMR).** MMR in Bangsamoro was lowest in 2018 at 42.35 percent within the 2015-2020 period. However, it started to increase again in 2019. In 2020, BARMM's MMR was at 73.83 percent and was able to surpass the national average of 70.66 percent. Delays in seeking medical care and limited access to health services were among the primary causes of this upward trend.
+
+**Figure 9.9 Maternal Mortality Rate, Philippines vs. BARMM, 2015-2020**
+
+*[Line Graph comparing Maternal Mortality Rate between Philippines and BARMM from 2015-2020, showing BARMM's rate declining to 42.35 in 2018 then rising to 73.83 in 2020]*
+
+*Note: The numerical computation of the graph does not include Cotabato City and 63 barangays from North Cotabato.*
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CO*
+
+**Infant Mortality Rate (IMR).** The present IMR data indicates the need to continuously improve the community's maternal and infant health services. Data from the FHSIS shows that IMR in the BARMM continuously decreased from 7.23 percent in 2015 to 3.76 percent in 2020.
+
+**Figure 9.10 Infant Mortality Rate (IMR), Philippines vs. BARMM, 2015-2020**
+
+*[Line Graph comparing IMR between Philippines and BARMM from 2015-2020:]*
+- Philippines: 7.19 (2015) declining gradually
+- BARMM: 7.23 (2015) to 3.76 (2020)
+
+*Note: The numerical computation of the graph does not include Cotabato City and 63 barangays from North Cotabato.*
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CO*
+
+**Ratio of physicians to population.** Table 9.4 shows that there is a shortage of physicians in the BARMM, specifically in the provinces of Maguindanao, Sulu, and Tawi-Tawi and the city of Marawi. In addition, difficulty of transportation and issue of peace and order in some areas hamper health personnel from delivering health care services.
+
+**Table 9.4 Ratio of Public Physicians to Population in the BARMM, 2021**
+
+| Area | No. of Public Physician | Standard Ratio | Actual Ratio |
+|------|-------------------------|----------------|--------------|
+| BARMM | 94 | 1:50,000 | 1:51,187 |
+| Maguindanao | 24 | 1:50,000 | 1:56,497 |
+| Lanao del Sur | 37 | 1:50,000 | 1:25,477 |
+| Basilan | 7 | 1:50,000 | 1:44,307 |
+| Sulu | 16 | 1:50,000 | 1:58,308 |
+| Tawi-Tawi | 7 | 1:50,000 | 1:59,671 |
+| Marawi City | 2 | 1:50,000 | 1:112,734 |
+
+*Source: MOH*
+
+**Ratio of public nurse to population.** In the case of public nurses, the standard ratio is 1:20,000. Based on Table 9.5, there is no shortage of public nurses in the BARMM. However, the difficulty of transportation, added with the issues of punctuality and limited support of some LGUs, hinder the delivery of health care services particularly in the far-flung areas.
+
+**Table 9.5 Current Ratio of Public Nurse to Population, 2021**
+
+| Area | No. of Public Nurse | Standard Ratio | Actual Ratio |
+|------|---------------------|----------------|--------------|
+| BARMM | 1,511 | 1:20,000 | 1:3,184 |
+| Maguindanao | 493 | 1:20,000 | 1:1,975 |
+| Lanao del Sur | 423 | 1:20,000 | 1:2,228 |
+| Basilan | 187 | 1:20,000 | 1:1,975 |
+| Sulu | 236 | 1:20,000 | 1:3,953 |
+| Tawi-Tawi | 148 | 1:20,000 | 1:2,822 |
+| Marawi City | 22 | 1:20,000 | 1:10,249 |
+
+*Source: MOH*
+
+In the case of midwives, the standard ratio of the public midwives to the population in the BARMM is 1:5,000. Table 9.6 shows that there is no shortage of midwives in the BARMM except in the province of Sulu and Marawi City, wherein the current actual ratio is 1:5,536 and 1:5,822 respectively, which is greater than 1:5,000 standard. However, the issues of deployment, punctuality, and difficulty of transportation hamper the delivery of health care services.
+
+**Table 9.6 Current Ratio of Public Midwife, 2021**
+
+| Area | No. of Public Midwife | Standard Ratio | Actual Ratio |
+|------|----------------------|----------------|--------------|
+| BARMM | 1,144 | 1:5,000 | 1:4,207 |
+| Maguindanao | 366 | 1:5,000 | 1:3,614 |
+| Lanao del Sur | 250 | 1:5,000 | 1:3,700 |
+| Basilan | 132 | 1:5,000 | 1:2,297 |
+| Sulu | 165 | 1:5,000 | 1:5,536 |
+| Tawi-Tawi | 147 | 1:5,000 | 1:2,814 |
+| Marawi City | 38 | 1:5,000 | 1:5,822 |
+| Lamitan City | 46 | 1:5,000 | 1:1,813 |
+
+*Source: MOH*
+
+**Health care facilities.** The health care facilities in the region have significantly increased in number, but with the increasing number of population, health care facilities remain significantly below the standard ratio.
+
+Based on the World Bank Service Availability and Readiness Assessment in 2019, the region needs to increase the Rural Health Units (RHUs) by about 50 percent to meet the national standard of one RHU per 20,000 people. The same is needed with other necessary health facilities. As of 2021, only 117 out of 2,590 barangays of BARMM have Barangay Health Stations (BHS).
+
+**Table 9.7 Health Care Facilities of BARMM, 2021**
+
+| Area | BHS | RHU |
+|------|-----|-----|
+| BARMM | 710 | 117 |
+| Maguindanao | 267 | 36 |
+| Lanao del Sur | 122 | 39 |
+| Basilan | 102 | 11 |
+| Sulu | 105 | 19 |
+| Tawi-Tawi | 96 | 11 |
+| Marawi City | 18 | 1 |
+
+*Source: MOH*
+
+There is still shortage of hospital bed capacity in the BARMM. In 2021, the MOH has issued 48 license to operate (LTO) to hospitals/infirmary with a total of 1,416 bed capacity within the BARMM and one pending LTO. By provincial distribution, Basilan has three, Lanao del Sur has eight, Maguindanao has 12, Sulu has nine, Tawi-Tawi has seven, and Marawi City has 10, with a total of 48 hospitals issued with LTO. By classification, there are 15 private infirmaries and nine government infirmaries.
+
+For level 1 hospitals, there are seven private and 18 government hospitals, respectively. On the other hand, only one hospital was classified as level 2, which is the Maguindanao Provincial Hospital. In 2020, 45 out of 49 hospitals in the BARMM are PhilHealth accredited, while the projected bed capacity needed is 4,183 beds. The region has only 1,416 beds and still needs additional 2,767.
+
+**Table 9.8 Hospital Facilities in BARMM and PhilHealth Accredited by Province**
+
+| Province | Level 2 Gov't | Level 2 Private | Level 1 Gov't | Level 1 Private | Infirmary Gov't | Infirmary Private | Total Gov't | Gov't Bed Capacity | Total Private | Private Bed Capacity | Grand Total Hospital | Total Bed Capacity | PhilHealth Accredited |
+|----------|---------------|-----------------|---------------|-----------------|-----------------|-------------------|-------------|--------------------|--------------|--------------------|---------------------|-------------------|----------------------|
+| Maguindanao | 1 | 0 | 5 | 0 | 1 | 7 | 7 | 509 | 5 | 113 | 12 | 622 | 12 |
+| Lanao del Sur | 0 | 0 | 5 | 1 | 0 | 1 | 6 | 95 | 2 | 40 | 8 | 135 | 8 |
+| Sulu | 0 | 0 | 4 | 0 | 5 | 0 | 9 | 290 | 0 | 0 | 9 | 290 | 7 |
+| Tawi-Tawi | 0 | 0 | 3 | 2 | 2 | 0 | 5 | 120 | 2 | 24 | 7 | 144 | 5 |
+| Lamitan | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 25 | 1 | 26 | 2 | 51 | 2 |
+| Marawi | 0 | 0 | 0 | 3 | 0 | 7 | 0 | 0 | 10 | 149 | 10 | 149 | 10 |
+| Basilan | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 25 | 1 |
+| **BARMM** | **1** | **0** | **18** | **7** | **9** | **15** | **29** | **1,049** | **20** | **352** | **49** | **1,416** | **45** |
+
+*Source: MOH*
+
+**Table 9.9 Government Hospital and Bed Capacity in the BARMM, 2021**
+
+| Area | Infirmary | Level 1 | Level 2 | Bed Capacity |
+|------|-----------|---------|---------|--------------|
+| Maguindanao | 1 | 5 | 1 | 509 |
+| Lanao del Sur | 0 | 5 | 0 | 95 |
+| Sulu | 5 | 4 | 0 | 290 |
+| Tawi-Tawi | 2 | 3 | 0 | 120 |
+| Lamitan | 0 | 1 | 0 | 25 |
+| Marawi | 0 | 0 | 0 | 0 |
+| Basilan | 1 | 0 | 0 | 10 |
+| **BARMM** | **9** | **18** | **1** | **1,049** |
+
+*Source: MOH*
+
+**No clear delineation of health policy implementation.** The issue on the actual transfer of health care services to the LGUs was identified as a major hindrance in the delivery of health care services in the region. The health and nutrition services are generally under the regional government of the BARMM through MOH. This is notable in the provinces of Lanao del Sur, Maguindanao, Sulu, and Tawi-Tawi, except in the province of Basilan and the cities of Marawi and Lamitan, in which the respective provincial and city governments directly lead the implementation of health care services.
+
+This policy issue was not fully addressed even with the passage of RA 11148, also known as the "Kalusugan at Nutrisyon ng Mag Nanay Act" and RA 11223 of Universal Health Care Law that directs the LGUs to include health and nutrition in their nutrition PPAs since its implementation did not resonate well in Bangsamoro.
+
+According to UNICEF report, significant number of LGUs have poor health governance implementation capacity. The LCEs were found to have limited knowledge on the health and nutritional status of their community, have less commitments to their interventions on malnutrition, teenage pregnancy, and poor access to basic sanitation and safe drinking water which led to significant health issues. Most of the LGUs overlook the significant functions of health and nutrition bodies such as the Local Health Board (LHB), and Local Nutrition Committees (LNC), and the integration of health and nutrition and WaSH plans in the LGUs AIP.
+
+**Poor maternal health care.** BARMM's prenatal, delivery, and post-natal care for women rate are inferior when compared to national averages. The 2017 NDHS recorded that 68.6 percent received antenatal care from a skilled provider, the lowest in the country. Upon birth delivery, only 33.6 percent were attended by skilled birth attendants and a very low 28.4 percent by institutional delivery. Post-natal care coverage also followed a similar path with only 63.6 percent (second lowest nationwide) of women aged 15-49 receiving post-natal checkup in the first two days following delivery.
+
+**Sexual and reproductive health.** Access to and use of modern contraceptive methods is another area where BARMM lags behind the national prevalence rates. BARMM's contraceptive prevalence rate (any contraception method) appears to be very low at 26.3 percent for women aged 15 to 49. Naturally, a low average on use of contraception in the region heightens the risk of early pregnancy, which is closely like national trends with 1.6 percent of women already sexually active before the age of 15. There is no significant difference between the teenage pregnancy rate in BARMM and the national prevalence. The 2017 NDHS data reveals that among women aged 15-19 in BARMM, 8.5 percent have begun childbearing, a percentage slightly lower than the national average of 8.6 percent.
+
+**Low birth weight.** It is expected that infants will be born prematurely when the mothers are malnourished or unhealthy during pregnancy or unhealthy. Poor nutrition is one of the factors that can lead to low birth weight and infants with low birth weight (LBW) are at higher risk of complications or serious health problems as they get older.
+
+In 2015, 2.53 percent of newborn babies in Bangsamoro have low birth weights. This has further decreased to 1.49 percent in 2018 but eventually catapulted to 2.37 percent in 2019, a year just before the COVID-19 pandemic hit the region.
+
+**Low immunization coverage.** The 2017 NDHS showed that ARMM (now BARMM) was the lowest in terms of vaccination coverage with only 18 percent of children 12-23 months received all basic vaccine or fully immunized child (FIC). Only 28.9 percent of its children 6-23 months received 3 doses of Diphtheria, Pertussis and Tetanus (DPT 3). The region has also the highest in proportion of unvaccinated children with 43.7 percent.
+
+### Nutrition
+
+**Malnutrition remains prevalent in BARMM.** Malnutrition in BARMM calls for immediate action. Table 9.10 shows the prevalence and magnitude of these various forms of malnutrition in BARMM in compared to the national average. BARMM is the least in the country and the ASEAN region. This comparative position of BARMM have been a worrying feature of the region as well as in the past Philippine Plan of Action for Nutrition (PPANs). The World Bank-UNICEF Report on Child Nutrition and Mothers'/Caregivers' Perception on Stunting revealed that stunting prevalence in BARMM was 39.1 percent and wasting was 10.0 percent. While wasting rates are highest during the first year of life, stunting statistically increased during the second year of life, a pattern like in the entire country.
+
+The high co-existence of wasting and stunting (WaSt) at 3.2 percent, Tawi-Tawi at 3.6 percent, and Sulu at 5.0 percent is equal to or exceeding the 3.6 percent average for fragile and conflict affected states globally. These children, along those with severe wasting at 3.7 percent are at higher risk for severe illness and mortality. Children from the island provinces of BaSulTa had higher rates of stunting and wasting compared to BARMM's mainland areas. The prevalence cited above means for an urgency to respond to the needs of 25,200 severely wasted children 0-59 months and 21,800 children 0-59 months with the combined problem of wasting and stunting.
+
+In addition, the World Bank-UNICEF Report recorded that the situation for pregnant and lactating women is still bleak, with 22.3 percent of pregnant women who are nutritionally-at-risk compared to 24.7 percent of the national average; and 10.4 percent of lactating women are underweight compared to 13.6 percent of the national average. On the positive side, anemia rates among pregnant and lactating women have been declining at 19.6 percent and 11.6 percent, respectively. Of equal concern is the double burden of malnutrition with steadily increasing prevalence of overweight among children.
+
+Equally worrying is the lack of progress being made in nutrition as shown in Table 9.10 contained from data available from the UNICEF sponsored Situation Analysis of Children in BARMM, 2017, The DOST-FNRI ENNS 2018, 2021 the 2019 UNICEF World Bank Study (2019).
+
+**Table 9.10 Comparison of Prevalence of Malnutrition among children 0-59 months old in BARMM and Philippines (UNICEF-World Bank Study 2019)**
+
+| Sex/Age Group/Province | N | Underweight <-2SD | Stunted <-2SD | Wasted <-2SD | Overweight >+2SD | N Underweight and Stunted | % Underweight and Stunted | N Underweight and Wasted | % Underweight and Wasted | N Stunted and Wasted | % Stunted and Wasted | N Stunted and Overweight | % Stunted and Overweight |
+|------------------------|---|-------------------|---------------|--------------|------------------|---------------------------|--------------------------|--------------------------|-------------------------|---------------------|----------------------|-------------------------|-------------------------|
+| **LGUs** | | | | | | | | | | | | | |
+| Basilan | 454 | 27.3 | 43.2 | 12.8 | 4.4 | 76 | 16.7 | 23 | 5.4 | 14 | 3.1 | 7 | 3.7 |
+| Lanao del Sur | 459 | 17.5 | 37.8 | 6.6 | 3.2 | 176 | 12.1 | 37 | 2.5 | 30 | 2.1 | 23 | 1.6 |
+| Maguindanao | 1,900 | 20.6 | 36.4 | 8.3 | 3.1 | 200 | 13.4 | 43 | 2.9 | 42 | 2.8 | 25 | 1.7 |
+| Sulu | 1,045 | 28.3 | 43.8 | 14.2 | 3.4 | 167 | 16 | 49 | 4.7 | 55 | 5.3 | 21 | 2.0 |
+| Tawi-Tawi | 533 | 27 | 41.3 | 18.5 | 4.9 | 90 | 16.9 | 29 | 5.4 | 19 | 3.6 | 16 | 3.0 |
+| **5 BARMM LGUs** | **4,981** | **22.6** | **39.1** | **10.0** | **3.5** | **79** | **8.1** | **42** | **1.81** | **36** | **1.60** | **32** | **1.02** | **20** |
+| North Cotabato BARMM areas | 840 | 23.3 | 40.1 | 8.2 | 1.8 | 131 | 15.6 | 23 | 2.7 | 27 | 3.2 | 10 | 1.2 |
+| Cotabato City | 455 | 20.0 | 24.4 | 9.9 | 2.6 | 49 | 10.8 | 22 | 4.8 | 10 | 2.2 | 5 | 1.1 |
+| Philippines, 2019 (2015)* | | 19.0 | 28.8 | 5.8 | 2.9 | (3.9) | na | na | na | na | | | |
+
+*Note: for reference *ARMM from 2015 NNS, n.b. regional disaggregation not available for 2019 eNNS*
+*Source: 2019 eNNS*
+
+### Water, Sanitation, and Hygiene (WaSH)
+
+**Limited access to safe drinking water.** WaSH is a main public health concern. Access to potable water and sanitary toilets remains a challenge despite the project implementation of numerous water supply facilities in the region and the abundant water resources such as lakes, rivers, springs, streams, and other untapped water resources. Limited potable water, inadequate sanitation, and poor hygiene practices increase vulnerability to diarrhea and other infectious and water-borne diseases, which are direct causes of acute malnutrition.
+
+**Improve access to basic sanitation facilities.** The access to basic sanitation for households in the BARMM is continuously improving. From 2015 to 2018, the proportion of households with access to basic sanitation has increased from 25.04 percent to 33.84 percent. This further increased to 34.11 percent in 2021. On the other hand, 15.94 percent of barangays in the region are certified zero open defecation and slowly emerged as the region with the worst sanitation status in the country. However, this slight improvement still leaves the region with a substantial number of households with access to better sanitation and transform sanitary practice.
+
+**Figure 9.11 Percentage of Households with Basic Sanitation Facilities, Philippines vs. BARMM, 2015-2018**
+
+*[Bar Chart comparing Philippines and BARMM:]*
+- 2015: Philippines 84.18%, BARMM 25.04%
+- 2016: Philippines 83.46%, BARMM 26.97%
+- 2017: Philippines 85.09%, BARMM 33.31%
+- 2018: Philippines 83.93%, BARMM 33.84%
+
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CHO*
+
+**Low access to potable water.** Access to basic safe water supply in BARMM was consistently below the national average from 2016 to 2020. In 2016, 71.7 percent of households have access to potable water, but it went down to 52.71 percent in 2017. It slowly regained an increase until it reached to 61.25 percent in 2020 which is still lower than the 2016 baseline. Similarly, the FHSIS report showed that acute water diarrhea has been the leading cause of morbidity in the region since 2019.
+
+**Figure 9.12 Percentage of Households with Access to Basic Safe Water Supply, 2016-2020**
+
+*[Bar Chart comparing Philippines and BARMM:]*
+- 2016: Philippines 91.06%, BARMM 71.7%
+- 2017: Philippines 90.45%, BARMM 52.71%
+- 2018: Philippines 89.91%, BARMM 55.95%
+- 2019: Philippines 72.61%, BARMM 59.5%
+- 2020: Philippines -, BARMM 61.25%
+
+*Source: FHSIS-MOH, Epidemiology Bureau - DOH-CHO*
+
+**COVID-19 situation in BARMM.** The pandemic caused by COVID-19 that is still challenging the country significantly affected the problematic health care system in the BARMM. As of July 2022, the region still records a 3.50 case fatality rate (CFR) and 4.0 positivity rate, resulting to 19,852 confirmed cases with 693 total deaths.
+
+Aside from poor access to health care facilities and services, the region has registered a low vaccination turnout at 30.55 percent as of the second quarter of 2022. This is attributed to the residents' reluctance to get the vaccine. Some of the concerns expressed include vaccines alleged deadly side effects and ineffectiveness against the coronavirus, and religious beliefs that vaccinations invalidate fasting or are not halal (permitted under Islamic law).
+
+In January 2023, the region was only able to fully vaccinated the 60.77 percent of its population, still below the national target of 70 percent. A new directive was issued to achieve 90 percent of primary series coverage for Priority Group A2 (senior citizens) and 50 percent of the first booster coverage.
+
+**Table 9.11 Percentage and Number of Fully Vaccinated Individuals**
+
+| Province | % of Fully Vaccinated Individuals | No. of Fully Vaccinated Individuals |
+|----------|-----------------------------------|-------------------------------------|
+| Sulu | 39.73 | 251,271 |
+| Basilan | 45.81 | 121,977 |
+| Tawi-Tawi | 57.03 | 160,589 |
+| Maguindanao | 58.19 | 536,982 |
+| Lanao del Sur | 79.64 | 624,621 |
+| Cotabato City | 88.33 | 190,189 |
+| **TOTAL** | **60.77** | **1,885,629** |
+
+*Source: MOH*
+
+### Population and Development
+
+**Unmet needs of the population.** Based on the 2015 census, the BARMM's population was 4,273,149, in which it substantially increased to 4,944,800 in 2020. The region's population growth rate also went up from 2.86 percent in the previous census to 3.26 percent in 2020, which is higher compared to other regions in the country. This simply means that the BARMM has the fastest growing population. As a result, unmet needs of the population are continuously increasing as the number of population is growing faster while the delivery of services remains slow.
+
+The figure below shows the distribution of population by age. It shows that out of the 4,944,800 population of the BARMM, 2,792,892 are working age and the rest are dependents.
+
+**Figure 9.13 Distribution of Total Population by Age-Group and by Sex, ARMM: 2015**
+
+*[Population Pyramid showing distribution by age group (0-4 to 80+) and sex (Women and Men), with highest populations in younger age groups]*
+
+*Source: PSA*
+
+### Social Welfare
+
+The social welfare subsector covers poverty and vulnerability of the poor and marginalized sectors in the region. This includes women, children, older persons, differently-abled persons, indigenous cultural communities, internally displaced persons (IDPs), and those similarly situated by analogy that may benefit from social service interventions to protect and address their needs.
+
+Early child care and development (ECCD) is given emphasis to ensure that the new generation of the Bangsamoro, after decades of struggle, will enjoy their rights of ECCD consistent with their distinct belief, culture, and aspirations.
+
+**Poverty incidence.** According to PSA report on poverty, BARMM has the highest significant improvement from 52.6 percent in 2018 to 29.80 percent in 2021. However, the region remains as poorest compared to other regions in the country and the island provinces of BaSulTa are among the cluster with relatively high incidence of poverty among families. Accordingly, 2 to 3 out of 10 families in the BARMM belong to poor families. Annual per capita poverty threshold in BARMM is at Php14,126.00, which is ranked 10th in the country.
+
+Several factors contributed to this historic drop in poverty in the region. Among them are the various programs, particularly social protection programs, implemented by the Bangsamoro government supplemented by the existing programs of the national government such as Pantawid Pamilyang Pilipino Program (4Ps) and Social Pension. While there has been a significant drop in the poverty incidence or the proportion of poor Bangsamoro whose per capita income is not sufficient to meet their basic food and non-food needs, the value is still higher than the national average of 23.7 percent.
+
+### Social Protection
+
+**Older persons.** The Social Pension for Indigent Senior Citizen Program is implemented to provide indigent senior citizens who are frail, sick, and disabled with a monthly stipend amounting to Php500, as mandated by RA 9994, otherwise known as "Expanded Senior Citizen Act of 2010". The program aims to augment the capacity of indigent senior citizens to meet their daily subsistence and medical requirements, reduce the incidence of hunger, and protect them from neglect, abuse, and deprivation.
+
+As of December 2021, a total of 159,172 indigent senior citizens are enrolled in the program. From 2017-2021, an increasing trend of older persons can be observed across the BARMM.
+
+**Figure 9.14 Number of Indigent Older Persons Served, by BARMM Province, 2017-2021**
+
+*[Stacked Bar Chart showing indigent older persons served by province from 2017-2021:]*
+- Maguindanao: 48,500 (2017) to 51,949 (2021)
+- LSA with Marawi City: 27,548 (2017) to 32,347 (2021)
+- LSB: 25,000 (2017) to 28,814 (2021)
+- Basilan: 13,482 (2017) to 17,959 (2021)
+- Sulu: 13,005 (2017) to 16,360 (2021)
+- Tawi-Tawi: 7,832 (2017) to 11,743 (2021)
+
+*Source: MSSD*
+
+**Child labor rampant in BARMM.** Based on the Situation Analysis Report of UNICEF, as of October 2020, 7.5 percent of working children in the Philippines are found in BARMM, with about 54,200 child laborers in the region. This is attributed to high poverty incidence in the region. Children prefer to engage in livelihood activities to help their parents for daily survival. This also affects the education performance of the BARMM as explained in the education subsector.
+
+**Violence Against Children.** Based on the findings of the Child Protection System Assessment in BARMM, there were 93 cases referred into the child protection system in Lanao del Sur from 2017-2021. While the data from Maguindanao did not provide a comprehensive list of child protection referrals, it did indicate that relatively small numbers of cases are coming before the formal protection system. Between 2016 and 2020, 50 children were provided with an initial assessment and 20 were provided with an in-depth child protection assessment. The data further indicates that services were delivered to 90 children (including financial support, counselling, and parenting training), and 23 children were placed in different forms of alternative care over the six years period.
+
+Furthermore, compounded with poverty, decade of armed conflict and underinvestment in essential services for children resulted to a wide range of other child protection issues such as children in conflict with the law, child trafficking, child early and forced marriage (CEFM), child laborers 5-17 years at 9.1 percent, and birth registration rate remains relatively low at 77 percent in the region.
+
+**BARMM has only 1,310 functional day care centers (DCCs) in 2,590 barangays.** All children have the right to go to school and learn. Education transforms children's lives by helping them overcome poverty. It decreases social inequalities, empowers people, and helps everyone reach their full potential. Early child care and development begin at day care center. Absence of this center manifested the absence of concrete initiative for child development. As of March 2022, BARMM has only 1,310 functional DCCs out of 2,590 barangays in the region.
+
+**Table 9.12 Status of Day Care Children and Centers in the BARMM as of March 2022**
+
+| Province | No. of Functional Day Care Centers | No. of Day Care Children Inside the Center |
+|----------|-----------------------------------|---------------------------------------------|
+| Maguindanao | 231 | 7,920 |
+| Lanao Del Sur A | 211 | 5,410 |
+| Lanao Del Sur B | 158 | 4,817 |
+| Basilan | 170 | 6,510 |
+| Sulu | 326 | 9,490 |
+| Tawi-Tawi | 32 | 1,080 |
+| SGA | 99 | 3,557 |
+| Marawi | 21 | 842 |
+| Cotabato City | 62 | 4,000 |
+| **TOTAL** | **1,310** | **43,626** |
+
+*Source: MSSD*
+
+**Recurring displacement in BARMM.** With the presence of hydrometeorological and geological hazards coupled with human-induced hazards, displacement is recurring in the region. This situation substantially affects the socioeconomic development of the region. Access to education is hampered, protection mechanisms are weakened, and the problem of health services is worsened. Thus, aggravate the pre-existing child protection issues and present new risks and threats such as high prevalence rate of child labor, trafficking, increasing number of out-of-school youth (OSY), illegal recruitment and family separation.
+
+As of September 2022, 914 families (4,570 people) are still displaced due to armed conflict, with a direct effect on children and girls in particular, who become more vulnerable to child marriage when displaced. In addition, children continue to be exposed to grave violations in BARMM provinces, although such instances are in decline. For example, between January 2020 and December 2021, 27 verified incidents of killing and maiming of children were committed in Maguindanao and 14 in Sulu, and one attack on a school in Maguindanao was reported, whereas in 2017, 135 violations were committed, which mostly took place in the Lanao del Sur Province. In addition, the conflict has left behind many orphans of soldiers, or civilians killed. Whilst there is no official data on orphans of war, an unofficial database held by the MILF's Social Welfare Committee (SWC) reportedly "has a list of 8,182 orphans covering 26 out of 47 revolutionary 'provinces' as of April 2019", while "the MILF's Bangsamoro Islamic Women Auxiliary Brigade (BIWAB) is working on a partial list with just over 500 widows and a similar number of orphans as of January 2020."
+
+Based on IDP Durable Solution Report, there are 93,525 IDPs in the BARMM, including the protracted displaced in Marawi City and other areas in the region, which represents 82.5 percent of the total number of IDPs in Mindanao as of August 2022. A total of 329,360 individuals are affected by armed conflict and flooding in Maguindanao.
+
+**Figure 9.15 Number of Families Displaced during Natural and Manmade Disasters Served in BARMM, 2015-2021**
+
+*[Bar Chart showing families displaced:]*
+- 2010: 78,010
+- 2013: 33,608
+- 2014: 128,027
+- 2015: 118,480
+- 2016: 293,346
+- 2019: 454,800
+- 2020: 364,140
+- 2021: 361,190
+
+*Source: MSSD*
+
+**Protection of persons with disability.** There are 53,483 PWDs with increased capacity to meet their daily subsistence and medical requirements. Government programs are carefully laid to ensure their meaningful participation in the society.
+
+**Gender and development (GAD).** There has been progress in terms of compliance at the regional level on the mandated implementation of at least five 5.0 percent of the total annual budget of each ministry and office. A review of the GAD Plans and Budgets (GPBs) at the regional level revealed that for FY 2021, 6.1 percent of the Php75.6 billion appropriation of the regional government, or Php4,661,116,872.32 was utilized for GAD. This was an improvement from 2020's Php255.52 million. The increase in GAD utilization was a result of the improved GAD attribution using the Harmonized GAD Guidelines (HGDG). However, most of the direct GAD interventions in the GPBs were on building and strengthening the capacities of ministries and offices. This is understandable because majority of the personnel are newly hired. However, there should have been a ladderized training program to allow GAD planners and implementers to progress on their GAD knowledge, skills, and attitude. These three competencies are critical to ensuring a more effective and efficient GAD planning, budgeting, implementation, and monitoring and evaluation.
+
+## Development Opportunities
+
+Despite the pressing challenges mentioned above, the Bangsamoro government has identified the following opportunities that can be harnessed to address the identified challenges.
+
+**Commitment of development partners to support BARMM.** Immediately after the passage of the BOL, various international donor institutions renewed and enhanced their support to the new autonomous region. This is to facilitate the implementation of a peace agreement between the GPH and the MILF.
+
+The presence of these development partners is a great opportunity for the Bangsamoro government to fast track the socioeconomic development of the BARMM. They fill in the gaps that cannot be covered by the existing resources of the region, especially in the areas of capacity development, policy formulation, planning, and investment programming. Moreover, development partners pursue public interest agenda and aid government agencies in its peace and development efforts.
+
+**Strong inter-governmental relations and support from the national government.** The creation of National government-Bangsamoro government IGRB under Section 2 of RA 11054 is another opportunity to serve as venue of vertical communication for proper implementation of the peace agreement and to foster clear cooperation and complementation between the national government and the Bangsamoro government. Under the said provision, the IGRB shall exhaust all means to resolve issues brought before it. Unresolved issues shall be elevated to the President, through the Chief Minister.
+
+**Devolution of basic services under Mandanas-Garcia ruling.** The implementation of Mandanas-Garcia Ruling is another opportunity since it strengthens the devolution of delivery of basic services to LGUs. Although EO 138 does not include BARMM, but the principle of devolution of basic services and facilities to the LGUs and the determination of the functional assignments between and among the different levels of government shall be observed.
+
+This is an opportunity for the BARMM to strengthen decentralization and improve social services delivery. Also, it will lead to better coordination in planning and implementation across levels of government because of proper delineation of powers and responsibilities that could contribute in improving the lives of people and communities, especially in far-flung areas.
+
+**Three-year extension transition period.** The extension of transition period to 2025 will help the Bangsamoro government to fully operationalize the government structure, and complete the enactment of remaining priority codes and issuance of policy guidelines, to clearly define and delineate the powers, functions and responsibilities, and strengthening horizontal and vertical coordination and linkages.
+
+**Fiscal autonomy.** Granting of fiscal autonomy to the Bangsamoro government is another opportunity since the BARMM is now authorized to design and finance its own development program according to the region's thrusts and priorities with minimal restrictions.
+
+As provided in the BOL, the Bangsamoro government shall enjoy fiscal autonomy with the end view of attaining economic self-sufficiency and genuine development. The Bangsamoro government is entitled to all fund sources enumerated herein and shall have the power to create its sources of revenues, which shall be spent in a programmatic, transparent, performance-based, and phased manner. It shall prepare its budget and allocate funds in accordance with an annual appropriations law passed by the Parliament.
+
+**Presence of universities, colleges, other formal and informal academic stakeholders.** Utilization of existing universities, colleges, and other formal and informal academic institutions is also considered as an opportunity like MSU-Main in Marawi City and MSU-Maguindanao, and informal education such as a mobile library for street children in Cotabato City, as well as Tahfizul Qur-an in Basilan and Marawi City as these will provide more access to balanced quality education in the BARMM.
+
+**Presence of functional women and youth organizations/cooperatives in the mainland and island provinces.** Their participation in governance representing women and youth sectors will help make the decision-making more inclusive and meaningful.
+
+## Priority Challenges
+
+**Increasing vulnerability due to high poverty and social inequality.** Social injustice hampered the access of people from enjoying basic services. As a consequence, the region is suffering from a low HDI that includes low level of family income, low functional literacy rate, and short life expectancy. Thus, the level of vulnerability to natural and human-induced disasters worsened due to limited adaptive capacity as a result of poverty. In addition, recurring displacement, loss of life, destruction of properties, and cyclical disruption of socioeconomic activities become an undesired usual phenomenon. At the sub-sectoral level, BARMM is confronted with the following challenges:
+
+### Education
+
+**Limited access to quality, responsive, and relevant education** - The BARMM faces serious challenges of poor access to and low-quality education — basic, higher, technical, and Madaris education. Perennial issue on poor educational governance and management at the community level worsens the situation.
+
+a. **Poor access to education** - As a consequence, the region lags behind compared to other regions in most education indicators. The net enrolment rate for the region is posted at 72.63 percent for elementary, and 30.37 percent for secondary compared to the national average of 94.19 percent and 76.0 percent, respectively. The completion rate for primary and secondary are the lowest, while the dropout rate for primary and secondary is the highest in the country. The region has the lowest cohort survival rate of 64.75 percent. Another factor affecting education in the BARMM is the plaguing of poverty as the poor family prefers to let their children help daily earning rather than sending them to school. Also, some students do not have interest in taking up agricultural-related courses.
+
+b. **Low quality education.** Construction of classrooms and provision of learning materials paralleled a fast-growing population is another factor that affects education in the BARMM. Based on a result of consultation with young people, some schools are too dense, teacher and students' ratio are not favorable for learning, not to mention the shortage of classrooms and other facilities. In addition, the poor education management at the grassroot level substantially affects the region's quality education at the different levels. Incomplete institutionalization of Madaris education, weak support for public and private Madrasah, and low salaries of Asatidz particularly in GIDA were also some of the issues confronting the region.
+
+### Health, Nutrition, and WaSH
+
+**Limited access and utilization of quality health service.** The Bangsamoro health sector is confronted with the serious challenge of improving accessibility and providing quality health services. This can be associated with the following key issues such as:
+
+a. **Inefficient healthcare system.** The low turnout of the health outcomes in the region constitutes the inadequacy of skilled human resources and equipped functional health facilities. These can be associated with weak, if not lacking, context-based policies, regulations, and funding. Additionally, the unavailability of data and the poor data management on health, and challenging geography are also among the factors that hamper identification of accurate strategic action to improve the healthcare system in the region.
+
+The limited involvement of the LGUs in delivering health services in their respective communities is also a challenge. The political will, including the budget allocation for health from the LGUs, are an essential factor in improving the health outcomes in the region but remain a challenge despite the moral governance advocacy of the BARMM government.
+
+b. **Limited access to safe drinking water, sanitation, and hygiene services.** Over the years, varying data on the accessibility and availability of sanitation and safe water exhibited poor programming due to the lack of mechanisms that should provide long-term solutions to the existing gaps. The problem also lies in the limited involvement of the LGUs in enforcing existing national and regional ordinances on environmental health and sanitation. Furthermore, the lack of a cohesive environmental plan, especially at the LGU level, highly contributed to the poor health status of the region, especially in water-borne related diseases. A comprehensive Adolescent Health, Nutrition and WASH program is also limited in BARMM.
+
+c. **Inadequate dietary intake.** There are existing policies and plans for FSN in BARMM. However, weak structures and harmonization affect the accuracy of the planning, financing, policymaking, and implementation of programs, projects, and activities. While at the LGU level, the lack of initiatives and efforts to combat malnutrition highly contributed to the poor nutrition situation in the region. Additionally, there is a weak monitoring system for implementing these plans and policies. It has also been identified that the limited opportunities for the livelihood of families in BARMM remain one of the contributors to prevalent nutritional imbalances and food insecurity in the region. The cost of nutritious diet is very high determined by levels of food production, stock, and net trade. The physical and economic access to nutritious food especially among the marginalized sector of the community is limited. Food utilization is also very low.
+
+On the other hand, micronutrient supplementation, supplementary feeding, management of acute malnutrition and overweight prevention and management is a big gap to be addressed in the region.
+
+d. **Behavioral change.** Some Bangsamoro are hesitant to avail health services due to limited awareness on the importance of modern healing methods. This is evident in low turnout of COVID-19 vaccination and other health services. This is worsened by the prevalence of malnutrition, improper sanitation, increasing number of teenage pregnancy and continuously growing number of unmet needs of the population especially at the community level due to poor family planning services, traditional mindset, and poor IEC awareness on family planning.
+
+### Social Welfare
+
+**High number of poor and vulnerable people in the BARMM.** BARMM is challenged with the high number of poor and vulnerable people with limited meaningful participation in the basic sectors. Based on the 2021 poverty incidence released by the PSA, the region recorded the highest decline in poverty incidence among families from 52.60 percent in 2018 to 29.80 percent in 2021. It is worth noting that 3 out of the 5 provinces of BARMM reduced the number of poor families with Lanao del Sur having the highest decrease from 64.2 percent in 2018 to 7.4 percent in 2021. In contrast, two of the region's provinces, Sulu and Tawi-Tawi, increased the number of poor families from 75.3 percent and 15.1 percent in 2018 to 51.0 percent and 28.1 percent respectively in 2021.
+
+Approximately, 408,951 Bangsamoro families live in poverty. With a high volume of inequality, poverty remains to be one of the most significant challenges in the BARMM.
+
+Poor people in the BARMM are more vulnerable to falling further into extreme poverty due to their exposure to disasters. A person's age, sex, disabilities, cultural, and religious identities; access to income opportunities and other safety nets; and level of participation in decision-making processes further amplify their vulnerabilities.
+
+a. **High vulnerability to human-induced and natural disasters.** One of the main contributing factors to BARMM's high poverty incidence is the region's high vulnerability to shocks, with over a third of all households in BARMM affected by at least one emergency in any given year. With limited coping mechanisms at their disposal, most households in BARMM cannot deal with the impact of shocks, further aggravating their dire situation.
+
+Four of the five provinces in BARMM are considered the most drought-prone in the country. These are Sulu, Basilan, Maguindanao and Lanao del Sur. Maguindanao appears to be the province most affected by natural disasters.
+
+BARMM is particularly vulnerable to climate change, which is expected to increase the frequency and severity of extreme weather events. All five provinces in BARMM are either 'vulnerable' or 'highly vulnerable' to El Niño induced drought, temperature increases, and rising sea levels brought about by climate change. The region's poorest and most vulnerable households are highly exposed to naturally occurring hazards and have the least capacity to cope with or adapt to the changing climate. Moreover, vulnerable groups such as women, children, the elderly, and those with disabilities face a range of pre-existing challenges that are often compounded by disasters. For example, natural disasters often negatively impact access to basic services and render children more vulnerable to deprivation of their basic rights.
+
+Amidst vulnerability to extreme weather events, disaster risk management in the BARMM is significantly challenged due to poor mobilization of disaster management and poor disaster allocation; insufficient government initiatives to calamities; poor knowledge of community disaster preparedness programs; and loose compliance to local government code. Moreover, there are no trained community-based DRR for COs; evacuation facilities are absent, and there is a lack of proper utilization of funds which is intended for DRR.
+
+During emergencies and crises, women and girls, children and young people become vulnerable to exploitation and violence due to the breakdown of community networks and structures, and lack of protection mechanisms. GBV is also one of the key drivers of conflict that often escalates into full-scale family feud or rido.
+
+Particular attention must be given to the IDPs in the region to promote their rights and welfare, ensure their safe return, and prevent new or recurrent displacement. In addition, the Bangsamoro government is committed in addressing the high vulnerability of OFWs to maltreatment and trafficking.
+
+b. **Low social protection coverage among poor families.** Social welfare programs in BARMM are composed of both national and regional programs, each of which is designed to a particular vulnerable sector, including orphaned children, individuals living with disabilities, and poor and vulnerable households. The national programs are designed, financed, and overseen by the national government, and include national flagship social protection programs such as the 4Ps, SLP and the social pension.
+
+The regional social welfare programs are implemented and financed by MSSD to ensure that vulnerable sub-groups of the population are protected. These programs are specifically geared to stem social vulnerabilities that arise from personal characteristics such as age, disability, and familial circumstances.
+
+However, the implementation of social programs in the BARMM is not clear in terms of linkages between DRM at the policy level. Disaster risk and vulnerability assessments have not been conducted across all LGUs. A thorough understanding of the different risks faced by different geographic areas and population groups is essential to inform strategies for social protection scale-up.
+
+There is no formal early warning system for conflict. Some informal mechanisms are present at the grassroots level, but these are not systematically adopted into government systems. Many IDPs are without documentation and as such face barriers in accessing services.
+
+Current social transfer programming largely excludes children in the first 1,000 days of their lives, a critical period for investment from an economic and human developmental perspective and has a fragmented regional poverty registry. Developing a BARMM poverty registry will enable the flow and management of information to ensure a more responsive, equitable and inclusive distribution of resources while also increasing efficiency and effectiveness of social protection delivery, thus, better serving the Bangsamoro.
+
+The majority of the population are in the informal sector, with no access to social protection coverage. Based on IDP Durable Solution Report, IDPs have poor access to information affecting their welfare, a finding that was surfaced in a consultative forum. They feel excluded and, sometimes, discriminated. The political and security environment can, in some areas, curtail their ability to properly exercise their rights to vote and be consulted regarding public and peace matters.
+
+c. **Low-income opportunities.** BARMM ranks third with the highest prevalence of child labor in the country according to PSA. Due to poverty, children are forced to work instead of sending them to school. In 2017, net enrollment rates in BARMM fell below the national average by about 20 percentage points at the elementary level and 45 percentage points at the junior high school (JHS) level. The regional school completion rates are equally concerning, particularly for indigenous children. Only 48.5 percent of indigenous children in BARMM attend elementary school while 11.2 percent complete basic education. In 2019, only 10.0 percent of the child population reached at least college level or higher and only 1 out of every 10 students who begin primary education completes JHS on time.
+
+The figures point to a crisis in the delivery of basic education in the BARMM, a crisis that needs to be addressed as a priority to keep children in school and to provide better quality education. Also, a combination of armed conflict, exclusion, marginalization, and child labor have contributed to lagging education.
+
+In addition to poor educational attainment in BARMM is the poor access to educational opportunities such as scholarships and other study grant programs and poor access to livelihood opportunities and disrupted livelihoods due to displacement.
+
+d. **Low meaningful participation of basic sector.** Some LGUs do not recognize the importance or representation of the basic sector, such as women, adolescents and youth, senior citizens, and PWDs, during council meetings, resulting in low meaningful participation of the basic sector. One of the reasons is lack of proper and contextualized engagement that provides truthful representation, lack of basic learning development on organizational, sectoral, and community-based empowerment, the presence of direct and indirect sectoral discrimination or biases, and poor local government initiatives to engage local sectors in every program.
+
+Also putting forward the interests of the young people at the political table is sometimes discounted and overlooked citing it lacks the notion of meaningful participation in local governance. Prevailing laws recognize a fixed 10.0 percent budget for the sector, but it is relatively detached and marked as a less priority. Preferential system in local politics is widely practiced. Similarly, people/children with disabilities are often omitted in the local agendas and the BLGUs do not have a designated desk for them catering to their appeals.
+
+## Sectoral Framework
+
+**Overall Goal:** Empowered, Cohesive, and Progressive Bangsamoro
+
+**Sectoral Goal:** Inclusive, Responsive, and Quality Social Services
+
+**Sectoral Objectives:**
+1. Access to quality, responsive, and relevant education for all Bangsamoro improved
+2. Access and utilization of quality, health, nutrition, and sanitation services ensured
+3. Number of poor and vulnerable people reduced
+
+**Sub-Sector Objectives:**
+
+**4.1 Education:**
+- 4.1.1 Access to quality and equitable education at all levels improved
+- 4.1.2 Effective educational management and administration improved
+- 4.1.3 Madaris education system institutionalized
+- 4.1.4 Stakeholders investments in education sector ensured
+
+**4.2 Health, Nutrition, and WaSH:**
+- 4.2.1 Functional and accessible health care facilities and services delivery ensured
+- 4.2.2 Access to safe drinking water, sanitation and hygiene services improved
+- 4.2.3 Access to nutrition services improved
+- 4.2.4 Unmet needs for reproductive health services reduced
+
+**4.3 Social Welfare:**
+- 4.3.1 Vulnerabilities to human induced and natural disasters decreased
+- 4.3.2 Needs and interest of marginalized sectors addressed
+- 4.3.3 Income opportunities of the poor and vulnerable families improved
+- 4.3.4 Meaningful participation of basic sectors improved
+
+**Overall Strategy:** Gender-Responsive
+
+## Development Goal
+
+**Sectoral Goal:** Inclusive, responsive, and quality social services
+
+### Sectoral and Sub-sector Objectives:
+
+**1. Access to quality, responsive, and relevant education for all Bangsamoro improved**
+
+Sub-sector objectives under this target are:
+- Access to quality and equitable education at all levels improved;
+- Effective educational management and administration improved;
+- Madaris education system institutionalized; and
+- Stakeholders' investments in education sector ensured.
+
+**2. Access and utilization of quality, health, nutrition, and sanitation services ensured**
+
+Sub-sector objectives under this target are:
+- Functional and accessible health care facilities and services delivery ensured;
+- Access to safe drinking water, sanitation, and hygiene services improved;
+- Access to nutrition services improved; and
+- Unmet needs for reproductive health services reduced.
+
+**3. Number of poor and vulnerable people reduced**
+
+Sub-sector objectives under this target are:
+- Vulnerabilities to human induced and natural disasters decreased;
+- Needs and interest of marginalized sectors addressed;
+- Income opportunities of the poor and vulnerable families improved; and
+- Meaningful participation of basic sectors improved.
+
+## Overall Sectoral Strategies
+
+### Priority Strategies
+
+**Overall strategies:** Ensure inclusive and equitable access to quality services for social justice and human capital development.
+
+The Bangsamoro government will ensure inclusive and equitable access to quality social services that include education at all levels, health, nutrition and sanitation, and social services. It is in response to the overall issue on high poverty and social inequality. This strategy contributes primarily to number 7 and 9 of the Enhanced 12-Point Priority Agenda of the BARMM.
+
+In addition, the strategy also supports the attainment of number 2 of the 8-Point Socioeconomic Agenda of President Ferdinand R. Marcos, Jr. as well as the numbers (1) No poverty, (2) zero hunger, (3) good health and well-being, (4) quality education, (5) gender equality, (6) clean water and sanitation, and (10) reduced inequalities of the Sustainable Development Goals of the United Nations.
+
+### Education
+
+**Strategy 1:** Ensure inclusive, equitable access, and participation of Bangsamoro learners through universal access to early childhood education, expansion of technical education and skills development, accessibility to upgraded higher education including scholarship and other learners support programs, adequate education facilities, safe and inclusive learning environment, and improved stakeholders' engagement;
+
+**Strategy 2:** Provide quality, relevant, and responsive education for all learners in the Bangsamoro through strengthening early child care and development, improvement of teaching management and supervision, deliver an adaptive teaching and learning process, strengthen the implementation of Mother Tongue-Based Multilingual Education (MTB-MLE) policy, and standardize contextualized Bangsamoro Curriculum and improved learning systems, and relevant technical skills development taking into consideration the industrial demands here and abroad to improve employability;
+
+**Strategy 3:** Strengthen education management and governance through systems improvement, regular performance monitoring and evaluation assessment, and digitalization;
+
+**Strategy 4:** Systematic and gradual institutionalization and strengthening of Madaris education system in the Bangsamoro through relevant and appropriate strategies, policies, and practices; and ensuring appropriation of resources and public financing in support to Madaris education.
+
+### Health, Nutrition, and WaSH
+
+**Strategy 1:** Ensure accessible, affordable and quality health services through improvement of supply chain, logistics management systems, immunization, nutrition and WaSH interventions, strengthening human resources, enhancement of health facilities, and sustainable financing;
+
+**Strategy 2:** Strengthen local health and nutrition policies and capacities through implementation of health and nutrition policies and ensure investment for capacity development at the local level;
+
+**Strategy 3:** Ensure a comprehensive health system in BARMM through strengthening participatory health policy development and governance; ensuring collaborative health and nutrition services delivery; establishment of integrated monitoring and data management;
+
+**Strategy 4:** Improve access to quality reproductive health services through needs-based and culture-sensitive approach within the context of BARMM;
+
+### Social Welfare
+
+**Main Strategy:** Ensure care, protection, recovery, and rehabilitation of poor and vulnerable individuals and sectors, families, and communities through comprehensive, rights-based, gender-responsive, and evidence-based social protection interventions; disaster mitigation, preparedness, and response; and economic self-sufficiency.
+
+**Strategy 1:** Decrease vulnerabilities to human induced and natural hazards through the implementation of appropriate disaster preparedness and response, strategic and needs responsive livelihood assistance, capacity development for stakeholders, and maximizing community-based organizations;
+
+**Strategy 2:** Address the needs and interests of vulnerable sectors through comprehensive social protection interventions, strengthening local protection structures and systems, and institutionalization of programs and policies;
+
+**Strategy 3:** Increase income of the poor and vulnerable families through expanded need-based livelihood assistance for income-generating or gainful entrepreneurial initiatives;
+
+**Strategy 4:** Increase meaningful participation of vulnerable sectors through inclusive representations, and establishment and institutionalization of learning development systems.
+
+## Priority Programs
+
+### Education
+
+**Inclusive Learning Enhancement and Advancement Program (ILEAP).** This program is composed of different projects namely: Enhanced Abot Kaalaman sa Pamilyang Bangsamoro (E-AKAP), which supports the intensification of the Early Childhood Education implementation, schools' expansion (Elementary, Junior, and Senior High schools) among GIDAs and other unserved communities, provision of appropriate learning resources and facilities, Digitizing Classrooms, provide transportation services for the Teachers and Learners, establishment of Inclusive Learning Resource Centers (ILRC), Energizing Non-Grid Schools, Establishment of E-Libraries, establishment of health facilities, Scholarship Programs, establishment of Higher Education Institutions and provision of Education in Emergencies (EIE) facilities.
+
+**IPEdukado Program.** This program aims to strengthen Indigenous People's Education by increasing access to basic and technical education through the establishment of Indigenous Peoples Education (IPED) Centers across the region. The same program is also aimed to pave the establishment and institutionalization of the first Tribal University providing higher education programs among IP students.
+
+**Expanded Bangsamoro Access to Alternative Learning Services.** This program aims to institutionalize an Inclusive Education Framework underpinning the development of the Special Education (SPED) and Alternative Learning System (ALS) in Bangsamoro including the expansion of the Learning Centers across the region and increasing and professionalization of the SPED and ALS teachers.
+
+**Continuous Support to Oplan Kalusugan sa Bangsamoro (OKB) Program.** These are the projects under this program: School Based Feeding Program (SBFP), School Dental Health Care Program (SHDCP), Wash in School (WinS), Mental Health Campaign, Adolescent Reproductive Health (ARH), National Drug Education Program (NDEP), Medical Services and school for emergencies.
+
+**Madrasah Standardization Program.** This program aims to provide Muslim learners with appropriate and relevant educational opportunities while recognizing their cultural context and unique purposes for participating in the K to 12 Program offerings. This program also intends to integrate content and competencies in the curriculum which are relevant and of interest to Muslim learners. It strengthens the operation of Madrasah in delivering quality balanced education by providing relevant policies and guidelines; financial assistance to the learners to ensure sustainability of the madrasah operation, and the capacitation of madrasah administrators, teachers and Asatidz.
+
+The program consists of different projects namely: Improve Mastery of Literacy in Arabic (IMLA), Teaching and Learning Materials Development Project, Madrasah Learning Assessment Project, Madrasah Accreditation Project, Madrasah Sadaqah System, and Madrasah Based Management Project.
+
+**Madrasah Learning and Development Program.** This program supports the gradual institutionalization of Madrasah Education as a component of National System of Basic Education. This will strengthen the integration of Islamic Studies and Arabic Language in the Basic Education by providing competent Asatidz (teacher) that will be deployed to public schools in BARMM. Further, it includes the continual professional development and growth of Asatidz by providing relevant trainings. The projects under this are the following: Arabic Language Enhancement Project (ALEP), Language Enhance and Pedagogy (LEaP), Mudarris in Service Training (Min-SeT), Accelerated Mudarris Education Program (AMEP), Mudarris Competency Development (MCP).
+
+**Madrasah Institutionalization Program.** This program is composed of two projects namely: MAJMA PROJECT and Madrasah Policy Development.
+
+**TVET Provision.** This program addresses the needs of the Bangsamoro for employable skills and the need of the industries to have a job-ready skilled workforce. Projects included are Bangsamoro Scholarship Program for TVET (BSPTVET) and Kaalaman at Kasanayan Tungo sa Kalidad na Kabuhayan (4K) Project.
+
+**TVET Institutional Development Program.** The TVET Institutional Development Program aims to address the challenges of low quality TVET graduates in the Bangsamoro region through trainer's development, upgrading and modernization of training equipment, curriculum development, and alignment of TVET programs to the industry skills needs. This program shall mainly focus on enhancing the quality of TESD Technology Institutions (TTIs) managed directly by the government by making TTI program offerings more responsive to the industry needs. This program will be implemented through the Angat Tekbok Project and the Modernization of the BARMM Competency Assessment and Certification System.
+
+### Health, Nutrition and WaSH
+
+**Water, Sanitation, and Hygiene (WaSH) Program.** This program aims to ensure accessible and affordable quality health, nutrition, and sanitation interventions through strengthening human resources for health development and management; strengthening data and logistics management systems; health and facility enhancement; and sustainable financing.
+
+The program consists of three projects namely: (1) Water Access, Validation, Expansion and Sustainability (WAVE) Project, (2) Sustainable Sanitation through Harmonized Attitude and Integrated Approach (SSaHAIA) Project, and (3) Hygiene Promotion Project.
+
+**Family Health Cluster.** This program aims to bring quality health care for families in central and rural areas of BARMM and create a sustainable connection with the LGUs that will help bring the health care to the masses. Projects under this are Family Planning, Safe Motherhood, Newborn Care, National Immunization Program, COVID-19 response program and TIYAKAP Bangsamoro.
+
+**Non-Communicable Disease Program.** This program ensuring access to quality to health care and services in all levels of care. It aims to prevent and control chronic diseases such as Cardiovascular disease and Diabetes Mellitus, Lifestyle related disease and Chronic Obstruction and Pulmonary Disease (COPD).
+
+**Infectious Disease Program.** This program provides and strengthen an integrated, responsive, and collaborative health system on emerging and re-emerging infectious diseases towards a healthy and bio-secure country. This include National Tuberculosis (TB), National Dengue Control, and Food and Waterborne Disease.
+
+**Bangsamoro Nutrition Program.** Addressing chronic food insecurity and the high prevalence of malnutrition in Bangsamoro. This program consists of different projects such as implementation of first 1000 days of life (F1k), provision of package of Philippine Integrated Management of Acute Malnutrition (PIMAM), and implementation and complementation of the Bangsamoro Food Security Plan 2023-2028.
+
+**Bangsamoro Sports Development.** This program aims to create a safe environment for athletes, coaches, sports coordinators, and enthusiasts in the provinces, municipalities and cities under the region. The key projects under this program are: (1) Athlete Profiling and Data Banking, (2) Bangsamoro Talent Identification, and (3) Laro't Saya sa Komunidad.
+
+### Social Welfare
+
+**Family and Community Welfare Program (FCWP).** The FCWP worked on improving the well-being of poor and vulnerable families and communities. This directly addresses the strategy of increasing the income of the poor and vulnerable families including households in conflict-affected communities through expanded need-based livelihood assistance, and skills enhancement for income-generating or gainful entrepreneurial initiatives.
+
+FCWP aims to intensify interventions to reduce poor and vulnerable people in the region and consists of different projects namely: (1) Unlad Pamilyang Bangsamoro project that targets to improve the levels of well-being of the poorest households, (2) Bangsamoro Sagip Kabuhayan (BSK) that provides livelihood grants and skills trainings to support the economic recovery and rehabilitation of poor or low-income households, (3) Layag Badjao provides comprehensive and integrated social welfare and protection services to meet their needs; and (4) Matatag na Pamilyang Bangsamoro puts under one umbrella the various interventions of the Ministry in relation to building strong families.
+
+**Child and Youth Welfare Program (CYWP).** The CYWP supported the holistic growth and development of children, adolescents, and young people in the Bangsamoro region. Program interventions addressed the survival, development, protection, and participation needs of at least 84,580 children, adolescents, and young people in BARMM.
+
+The CYWP consists of five projects namely: (1) Kupkop Project, (2) Early Childhood Care and Development (ECCD) project, (3) Children in Conflict with the Law (CICL) and Children at Risk (CAR), (4) Free Birth Registration for Indigent Minors, and (5) Angat Bangsamoro: Kabataan Tungo sa Karunungan (ABK).
+
+**Women's Welfare Program (WWP).** The WWP contributed to the promotion, protection, and fulfillment of the rights of Bangsamoro women, with a special focus on women in especially difficult circumstances (WEDC), including victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention facilities, victims and survivors of rape and incest, and other related circumstances, which have incapacitated them functionally.
+
+This program consists of two projects, namely: (1) Tanggol Kababaihang Bangsamoro and (2) Lakas Kababaihang Bangsamoro.
+
+**Older Persons and Persons with Disability Welfare Program (OPPWDWP).** The OPPWDWP provides comprehensive social protection interventions toward improving the quality of life for older persons and PWDs in the Bangsamoro Region. This contributes to the strategies on addressing the needs and interests of vulnerable sectors and increasing meaningful participation of vulnerable sectors through inclusive representations. Also, the OPPWDWP is guided by its sectoral goal of improving quality life and reducing the number of poor and vulnerable people in the region.
+
+OPPWDWP consist of two projects namely: (1) Kalinga sa May Kapansanan Program, and (2) Hadiya Program.
+
+**Disaster Risk Reduction and Emergency Assistance Program (DRREAP).** This program provides comprehensive emergency assistance and services to displaced families to address life-saving needs, save lives, reduce negative health impacts, and ensure public safety. This is in coherence with the strategy of decreasing vulnerabilities to human-induced and natural hazards through the implementation of appropriate disaster preparedness and response, strategic and needs responsive livelihood assistance, capacity development of stakeholders, and maximizing community-based organizations.
+
+The DRREAP similarly contributes to reducing a number of poor and vulnerable people in the region. This is composed of the different projects namely: (1) Emergency Assistance Project (EAP), (2) Water, Sanitation, and Hygiene (WASH) in Emergencies, (3) Bangsamoro Critical Assistance in Response to Emergency Situations (Bangsamoro CARES), (4) Bangsamoro Lingkod Pamayanan para sa Kapayapaan, and (5) Bangsamoro Humanitarian Assistance and Transfer for Individuals in Distress (HATID).
+
+**Project Tulong Alay sa Bangsamorong Nangangailangan (TABANG).** It is a humanitarian program purposely created to alleviate the situation of Bangsamoro communities a manifestation of the Bangsamoro government's commitment to fulfill its pledge to help the people. It aims to extend immediate and direct services to its constituents, particularly those who are less fortunate, displaced, and/or living in either impoverished, far-flung, calamity and conflict-stricken communities. The Project TABANG has three components: Health, Livelihood, and Small Social Infrastructure.
+
+The health component delivers immediate medical and dental services, food and nutrition services, and other integrated health programs/projects. Some activities involve the conduct of feeding programs and provision of food packs, free medical and dental services, free medicines, hygiene kits, and other essential supplies. The Livelihood component provides livelihood opportunities, capacity-building, and capitalization to qualified beneficiaries as may be identified by relevant agencies. It also includes provision of assistance to the communities in micro-financing, enhancing their productivity, increasing household income, and promoting the value of self-reliance. The Small Social-Infrastructure component provides immediate infrastructure needed by the community.
+
+**Ayudang Medikal mula sa Bangsamoro Government (AMBaG).** The AMBaG, one of the flagship programs of the Chief Minister Ahod Balawag Ebrahim, has been providing much-needed hospitalization and medical assistance to disadvantaged Bangsamoro families. Health benefits package that includes confinement, medicines, dialysis, implant, laboratory, radiation therapy, medical devices, assistive devices, non-and minimal procedures, transplant, rehabilitative therapy, and surgical supplies.
+
+BARMM also intends to form partnerships with other private and public hospitals in BARMM and neighboring regions through AMBaG in order to widen its reach and ensure that underprivileged Bangsamoro and non-Moro people of BARMM receive crucial medical care.
+
+**Coordination and Public Engagement.** This program aims to decrease vulnerabilities to human induced and natural hazards through the implementation of appropriate disaster preparedness and response, strategic and needs responsive livelihood assistance, capacity development of stakeholders, and maximizing community-based organizations, as well as addressing the needs and interests of vulnerable sectors through comprehensive social protection interventions, strengthening local protection structures and systems, and the institutionalization of programs and policies.
+
+The projects under this program include: (1) Strengthening Coordination and Public Engagement Project, (2) Strengthening Resilience in Support to Family Development Project; and (3) Quick Response Project for Women and Girls (KaLiNga Project), and the (4) Tiyakap Project.
+
+**Women's Participation in Political Empowerment.** This program aims to increase income of the poor and vulnerable families through expanded need-based livelihood assistance for income-generating or gainful entrepreneurial initiatives.
+
+The projects under this program include: (1) Women Empowerment for Community Resilience (WECoRe) Project, (2) Women Livelihood Acceleration Project; and (3) Women Organizations Accreditation Project. This project aims to assess and accredit 2,650 Bangsamoro Women Organizations.
+
+**Stakeholders and Partnership Building.** This program aims to increase meaningful participation of vulnerable sectors through inclusive representations, and establishment and institutionalization of learning development systems. The project under this program is Enabling Youth Participation in Development.
+
+**Public Engagement Program.** It aims to increase meaningful participation of vulnerable sectors through inclusive representations, and establishment and institutionalization of learning development systems.
+
+**Housing and Resettlement Program.** Having adequate and affordable housing for Bangsamoro communities has been the priority of the BARMM government. It recognizes the need to have a safe shelter for the communities as a means to enhance development opportunities and improve human development. As a result, the resettlement program has been one of the priority projects to be implemented in the region.
+
+The resettlement program includes the challenges of land acquisition and bureaucracy within the region. The availability of land and the uniqueness of each community contribute to the timely implementation of the projects.
+
+This project will address the issues of high vulnerability to disaster of the target beneficiaries by providing a quality and disaster resilient houses, to resettle them into a low-risk areas, and continuous developing and implementation of durable solutions through the conduct of Community Action Plan to institutionalize required programs and policies.
+
+This program consists of five projects namely: (1) Bangsamoro Social Mobilization Project, (2) Unlad Kaalaman Project (Capacity Building), (3) Solid Waste Management Project, (4) Material Recovery Facilities Project, and (5) Sanitation Project.
+
+**Livelihood Program.** This program aims to increase income of the poor and vulnerable families through expanded need-based livelihood assistance for income-generating or gainful entrepreneurial initiatives. There are two projects under this namely: (1) Suportang Pangkabuhayan Project (Livelihood Support Project), and (2) Urban Gardening Project.
+
+**Workers' Social Protection and Welfare Program.** This major program aims to reduce vulnerability of Bangsamoro workers and their families to trafficking, child labor, forced labor, discrimination, or economic shocks, and advance their rights and welfare through equitable and accessible social protection. It consists of Eight (8) sub-programs/projects, namely: (1) Welfare and Special Concerns Program (Bangsamoro Women Empowerment, FWP, Special Employment Assistance Program for DAP, and Elderly Former MILF, MNLF, and Other Armed Combatant; (2) Child Labor Prevention and Elimination Program (SBM and Project Angel Tree); (3) Pre-Deployment Assistance Program (Pre-PDOS); (4) On-Site Assistance Program (Family Concerns, Legal Referrals and Post Employment Preparation and Opportunities); (5) Assistance Program for Repatriated Abused OBWs; (6) Reintegration Program for Balik Bangsamoro Hanap Trabaho and OBW Social Benefit Program; (7) Campaign Against Illegal Recruitment, Trafficking in Persons and Irregular Migration (CAIRTIM) Program; and (8) MOLE Lingkod Kasambahay Program (MLKP).
+
+## Priority Policy and Legislative Agenda
+
+**1. An act strengthening the Madrasah Education in Philippines Education System and providing government assistance, appropriating funds therefor and for other purposes.**
+
+**2. Bangsamoro Health Code (UHC).** Under the principle of universal health care (UHC), this act aims to guarantee equitable access to quality and affordable health care and nutrition services for all Bangsamoro. UHC requires a systemic approach and clear delineation of roles of key stakeholders in order to progressively realize universal health care.
+
+**3. Water System Act of Bangsamoro.** This act is intended to protect human health, prevent drinking water health hazards, and protect, preserve, and revive the quality of fresh, brackish, and marine waters in the region.
+
+**4. Bangsamoro Population Demographic Dividend Act.** The Act seeks to contribute to increasing the growth potential of the Region by maximizing "demographic dividend" across all the Bangsamoro provinces. The Demographic dividend is the economic growth potential resulting from the shift in the population age structure decline in fertility and mortality and increase in the proportion of the working-age population, combined with effective policies and program interventions (health, education and employment). To achieve the outcome, demographic transition will be accelerated through the reduction of mortality rates and achievement of wanted fertility rates. On the other hand, gains from the demographic dividend will be maximized by improving the quality of human capital, reducing youth unemployment, improving and facilitating savings build-up, and improving integration of population and development in development planning and programming.
+
+**5. Bangsamoro Nutrition Act.** The Bangsamoro government recognizes the importance of nutritional improvement as the key component in human resource development. It is thus the policy of the Bangsamoro government to promote and protect access to adequate food and nutrition among all inhabitants in the Bangsamoro Autonomous Region.
+
+The Bangsamoro government shall establish a mechanism for facilitating collaboration and cooperation among multiple agencies, sectors, and stakeholders in addressing hunger and malnutrition in the region. This shall be carried out through policies, plans, monitoring and programs that are responsive to the needs of its constituents, especially vulnerable groups.
+
+**6. Bangsamoro Population Management and Development Act of 2019.** This act is for the purpose of achieving better health outcomes, furthering social, economic, and political reform for its development; increasing the share of each constituent in the fruits of economic progress and meeting the standing socio-demographic and economic challenges, a policy and program on population and sustainable development integration shall be undertaken.
+
+**7. Internally Displaced Persons' Law.** The bill shall provide for the protection of the rights of internally displaced Bangsamoro people in situations of armed conflict, generalized and/or organized violence, clan wars, violation of human rights, implementation of development projects, and natural, human-induced, and hand-made hazards, during and after displacement, as well as their return, local integration, or resettlement elsewhere.
+
+**8. Magna Carta for PWDs in BARMM.** It aims to institutionalize responsive and sustainable programs and services for the PWD sector.
+
+**9. BARMM Children's Code.** This code is established for the promotion, protection, and fulfillment of children's rights; and address the gaps and efficiently achieve goals for children in the region.
+
+**10. BARMM Gender and Development (GAD) Code.** The BARMM GAD Code intends to help address the needs and interest of marginalized sectors, improve the livelihood opportunities among poor and vulnerable families, and increase the meaningful participation of basic sectors in BARMM. This localized GAD Code intends to Identify interventions which transform unequal gender relations into opportunities which equitably or equally benefit women and men. Further, it aims to provide a set of policies that spells out the BARMM's vision of promoting, protecting, and fulfilling women's rights and equalizing the gender relations of its women and men constituents. It also includes comprehensive interventions that respond to the practical and strategic gender needs of women and men.
+
+**11. Anti-Gender Based Violence Act.** The Act will provide for the protection of victims of gender-based violence; constitute the Anti-Gender-Based Violence Committee; establish the Anti-Gender-Based Violence Fund; and provide for matters connected with, or incidental to the foregoing. It provides for the issuance of protection orders, the creation of shelters for child victims of violence, and for the creation of shelters for adult victims and their children. The Act also seeks to eradicate all types of violence against women and their children.
+
+**12. Child and Youth Welfare Code.** This is a Bangsamoro Law protecting and promoting the rights and welfare of children and youth within the context of BARMM.
+
+---
+
+# Chapter 10: Enhancing and strengthening the peace, public order, safety, and security, and upholding human rights for peaceful, safe, and resilient Bangsamoro communities
+
+The BOL stipulates provisions about transitional justice, Indigenous People's rights, and human rights; roles of the different law enforcement and security agencies; the importance of DRR-CCA; the role of the national government and Bangsamoro government in the normalization process; among others.
+
+This chapter covers four sub-sectors, namely, peace and security, public order and safety, peacebuilding, and human rights.
+
+This chapter supports both SDG 17 - Partnerships for the Goals and SDG 16 — Peace, justice, and strong institutions. Support for the eighth point of President Ferdinand R. Marcos Jr.'s Eight Point Socioeconomic Agenda, "Uphold Public Order and Safety, Peace and Security," is likewise supported by this.
+
+Further, this chapter supports the enhanced 12-Point Priority Agenda of the BARMM particularly Agenda 8 which aims to build the resilience of Bangsamoro communities from human-induced and natural disasters including emerging and re-emerging infectious diseases, and adaptive capacities to climate change by pursuing a holistic approach to disaster prevention and mitigation, preparedness, response, recovery, and rehabilitation; Agenda 10 which aims to provide meaningful and IDP-centered support to the ongoing rehabilitation, reconstruction, and recovery of Marawi City; and Agenda 11 that aims to sustain and improve peace, justice, and security across the BARMM through strong coordination and proactive collaboration with law enforcement agencies, development partners, and other relevant agencies and stakeholders.
+
+Overall, this chapter discusses the BARMM's continual challenges to peace and order, security and threats, public safety, and human rights violations, as well as the specific interventions of the Bangsamoro government to address these interminable issues.
+
+## Sectoral Assessment
+
+The Bangsamoro government has been working on sustaining the gains of the peace process and improving the security of the Bangsamoro. It continues to increase and develop the resiliency of its constituents against natural calamities, human-induced disasters, and pandemics. Further, it ensures the protection and promotion of human rights and continues conflict-sensitive and peace-promoting initiatives for progressive and sustainable development in Bangsamoro.
+
+In achieving lasting peace, the Bangsamoro government has accomplished a lot of things in the past three years. Several programs, projects, activities, and policies were implemented in ensuring peace and security in the region, it has also intensified peacebuilding efforts work. However, there is a lot of work that needs to be done for the Bangsamoro government to maintain public order and safety, and respect for human rights.
+
+### Sectoral Trends
+
+#### Peace and Security
+
+**Sustaining the gains of the peace process.** After the ratification of RA 11054, also known as the BOL in 2019, there was a significant decline in the frequency and intensity of violence in the region. The three-year transition, 2020 to 2022, has been extended by RA 11593, giving the BTA the extension by resetting the BTA election in 2025. It provides enough time for the existing BTA to accomplish the critical plans that were laid down for Bangsamoro in sustaining the gains from the peace agreement over the last years.
+
+**73 cleared barangays in Local Terrorist Group (LTG) Areas.** Even with the extension of BTA, the threat brought by extremist groups continues in some areas of BARMM. Also, some local insurgents still threaten the stability of the peace and order in the provinces of Maguindanao, Lanao del Sur, Basilan, and Sulu.
+
+The challenges posed by the lingering idea of terrorism and violent extremism remain among the major concerns for peace and order, and security in the region. Skirmishes between security forces and LTGs, though in a continuing decline since 2018, have been recorded for the past five years. Violent extremists operating in the region still can terrorize the public through bombing and extortion.
+
+Despite the threats from the LTGs, the security sector has been working on addressing this concern. As of May 2021, there are 73 cleared barangays in LTG Areas as recommended by the Armed Forces of the Philippines (AFP).
+
+**Table 10.1 Number of Cleared Barangays in Local Terrorist Group Areas, 2021**
+
+| Province | Number of Barangay |
+|----------|-------------------|
+| Lanao del Sur | 11 |
+| Maguindanao | 16 |
+| Sulu | 4 |
+| Basilan | 42 |
+| **Total** | **73** |
+
+*Source: MILG*
+
+**Manageable peace and order situation.** The threat brought by extremist groups affects the tranquility and economic stability of the region. The PRO-BAR uses a four-level threat advisory system that assesses the possibility of terror attacks from threat groups. As of October 2021, there are 22 municipalities under high threat terrorism levels while 12 municipalities are under moderate threat levels of terrorism. Despite this, the peace and order situation in the region is manageable through the efforts of the security sector and law enforcement agencies proactive measures.
+
+**Table 10.2 Level of Terrorism Threat, by Province, 2021**
+
+| Province | High | Moderate |
+|----------|------|----------|
+| Lanao del Sur | 5 | 2 |
+| Maguindanao | 13 | 6 |
+| Sulu | 3 | 1 |
+| Basilan | 1 | 3 |
+| Tawi-Tawi | 0 | 0 |
+| **Total** | **22** | **12** |
+
+*Source: MILG*
+
+**Presence of AFP, MILF camps, and the presence of Philippine Coast Guard (PCG) stations in strategic areas of BARMM.** BARMM was also strengthened by the activation of the Joint Peace and Security Team (JPST)- tri-forces composed of elements of AFP, Philippine National Police (PNP), and MILF- Bangsamoro Islamic Armed Forces (MILF-BIAF) which helped in the maintenance of peace, public order, and stability of mutually agreed areas in BARMM and other conflict-affected areas in Mindanao.
+
+**Active private armed groups (PAGs) reduced.** The PRO-BAR recorded a total of 18 PAGs operating in the Bangsamoro region. As of 2021, PAGs are reduced to one through delisting due to inactivity, delisting through voluntary surrender, and delisting through law enforcement operations.
+
+**No crew abductions within Bangsamoro waters.** The PCG reported zero maritime abductions in 2021, compared to five (Indonesian) in 2020 and 22 (Filipinos, Vietnamese, and Indonesians) abductions from 2016 to 2017, showing a gradual decrease in numbers. These maritime incidents pertain to crew abductions from ships for ransom that have been prevalent along the waters of Sulu - Celebes Seas, which also falls under the BARMM. The PCG, in line with its mandate in cooperation and collaboration with its partner agencies, AFP and PNP, and the support of the local government of Sibutu, Tawi-Tawi has contributed to the said decrease.
+
+Furthermore, the PCG established a radar station at Sibutu, Tawi-Tawi that safely monitors 19,563 vessels going North and South in 2021 and 6,694 vessels from January to May 2022 alone. It also implemented the Department of Transportation (DOTr) MC 2017-001 Safety, Security, and Environmental Numbering System for all Philippine vessels with the support of the LGUs of the BARMM.
+
+**29 lupon members and barangay officials awarded with LTIA.** The Bangsamoro government recognizes local officials who have exerted exemplary efforts in governance and leadership, contributing to the promotion of moral governance and peace sustainability. In 2020, there were 29 lupon members and barangay officials awarded with LTIA.
+
+#### Public Order and Safety
+
+**A breakthrough in rido settlement but family feud remains implacable during the BARMM transition period.** In 2021, the Ministry of Public Order and Safety (MPOS) made a breakthrough by successfully resolving a three-decade long rido or family feud between two prominent families in the province of Lanao del Sur. In the record of MPOS, the highest number of rido cases is recorded in Lanao del Sur with a total of 332 cases. The BARMM has profiled a total of 552 cases, with 272 settled between 2019 to 2021.
+
+**Table 10.3 Profiled Rido Cases in BARMM, by Province/City, 2022**
+
+| Province | Number of Cases |
+|----------|-----------------|
+| Lanao del Sur | 332 |
+| Maguindanao | 95 |
+| Sulu | 31 |
+| Basilan | 41 |
+| Special Geographical Area | 26 |
+| Tawi-Tawi | 24 |
+| Cotabato City | 3 |
+| **Total** | **552** |
+
+*Source: MPOS*
+
+**Table 10.4 Settled Rido Cases in BARMM, by Province, October 2022**
+
+| Province | Number of Settled Rido |
+|----------|------------------------|
+| Lanao del Sur | 116 |
+| Lanao del Norte | 6 |
+| Maguindanao | 98 |
+| Basilan | 23 |
+| Sulu | 7 |
+| Tawi-Tawi | 4 |
+| Special Geographic Area | 18 |
+| **Total** | **272** |
+
+*Source: MPOS*
+
+**The Regional Crime Index of BARMM reduced by more than 42 percent in 2021 compared to 2017.** The PNP reported in 2017 a total of 1,676 index crimes in the BARMM covering the five provinces and Cotabato City. Data shows that there was a significant and consistent decrease in crime index in each succeeding annual period. By the end of 2021, a total of 710 crime indexes were reported which was 42 percent less than 2017.
+
+**High crime solution efficiency rate despite the high demand for additional police forces.** The increased number of deployed police forces in the BARMM was considered one of the huge contributory factors towards the said achievement. In 2017, there was 6,703 total police personnel deployed in different areas of Bangsamoro. However, when compared to the national standard ratio, the Bangsamoro region's demand for additional police forces remains high.
+
+**Table 10.5 Police Force, National vs. BARMM, 2017-2022**
+
+| | Standard Ratio | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+|---|----------------|------|------|------|------|------|------|
+| National Police Office | 1:500 | 1:489 | 1:505 | 1:572 | 1:506 | 1:572 | 1:489 |
+| BARMM | 1:500 | 1:532 | 1:516 | 1:507 | 1:553 | 1:566 | 1:574 |
+
+*Source: PRO-BAR*
+
+Nonetheless, the increasing efficiency rate of 51.74 percent in 2017 to 69.50 percent in 2019 shows the effectiveness of PRO-BAR in solving criminalities in the Bangsamoro region. This is a result of the incessant and strong collaboration of law enforcers and the Bangsamoro government together with its constituent Bangsamoro communities. The augmentation provided by the current government of the day strengthened the operational capacity of the LEAs which made them operationally more visible and responsive. Moreover, the whole-of-nation approach adopted by the AFP and the various LEAs in fighting criminalities was also instrumental in the achievement of this goal.
+
+**Table 10.6 Crime Volume, Crime Rate, and Crime Solution Efficiency, by Provinces, 2017-2020**
+
+| Indicator | 2017 | 2018 | 2019 | 2020 |
+|-----------|------|------|------|------|
+| Total Crime Volume | 3,819 | 2,977 | 2,688 | 2,388 |
+| Average Monthly Crime Rate | 7.33% | 5.72% | 5.13% | 4.49% |
+| Total of Crime Solved | 1,976 | 1,903 | 1,808 | 1,625 |
+| Crime Solution Efficiency Rate | 51.74% | 63.92% | 67.77% | 69.50% |
+
+*Source: PRO-BAR*
+
+**Increase in drug-cleared barangays in the region.** The Barangay Drug Clearing Program (BDCP) seeks to lessen the number of barangays that are adversely affected by drugs in the nation by removing drugs from users, removing the allure of illegal drugs, and reducing the effects of the drug problem in the community by enlisting the assistance of all relevant parties and duty bearers.
+
+The BDCP implementation involves the harmonized efforts of the national and local government units in Bangsamoro, as well as of LEAs mandated to implement the anti-drug law in coordination with the Anti-Drug Abuse Council (ADAC) in their respective areas of responsibility. The series of processes involved in the implementation of the program such as the reformation of drug personalities identified by the joint efforts of every Barangay Anti-Drug Abuse Council (BADAC), PNP, AFP, and other law enforcement units, provide considerable contributions to the success of the program. Regardless, other internal hindering factors in the implementation of the program such as the involvement of high-value drug personalities (validation, verification, and adjudication is a very time-consuming process), and the emergence of newly identified drug offenders and surrenderers resulted in the reversion of the status of declared drug-cleared/drug-free barangays to drug-affected barangays during the period covered. This prevents the sustainability of the program in some barangays, thus reducing their efficiency in complying with the requirements of the BDCP.
+
+As of May 2022, out of the 2,590 total barangays in BARMM (with the inclusion of the 63 barangays of the SGA) 1,955 barangays were identified as drug-affected barangays upon the implementation of the BDCP in CY 2017. The Regional Oversight Committee also declared 867 drug-affected barangays as drug-cleared barangays as of May 2022. A total of 1,088 barangays remains under the category of drug-affected barangay. Further, 174 unaffected barangays were certified as drug-free or unaffected barangay by the Regional Oversight Committee and 461 barangays are still to be certified as drug-free or unaffected barangays.
+
+The significant increase in the number of drug-cleared barangays during the period covered can be attributed to the willingness of the LGUs in Bangsamoro region to implement the program. However, due to some other factors such as geographical location, environmental accessibility to deliver the program, and other sociological considerations in the island provinces, the implementation of the BDCP in BaSulTa is considerably behind as compared to the current status of the provinces of Maguindanao and Lanao del Sur.
+
+**Table 10.7 Drug-Cleared/Free Barangay, by Province/City, as of May 2022**
+
+| City/Province | Number of Barangays | Drug Affected Barangays | Drug Cleared Barangay | Remaining Drug Affected Barangays | Certified Unaffected Barangay | Remaining Unaffected Brgy. to be Certified |
+|---------------|---------------------|-------------------------|----------------------|----------------------------------|------------------------------|-------------------------------------------|
+| Cotabato City | 37 | 37 | 8 | 29 | 0 | 0 |
+| Maguindanao | 508 | 442 | 349 | 93 | 24 | 42 |
+| Lanao del Sur | 1,159 | 648 | 342 | 306 | 387 | 124 |
+| Basilan | 210 | 195 | 94 | 101 | 10 | 5 |
+| Sulu | 410 | 304 | 9 | 385 | 13 | 3 |
+| Tawi-Tawi | 203 | 176 | 2 | 174 | 27 | 0 |
+| Special Geographic Areas (SGA) | 63 | 63 | 34 | 29 | 0 | 0 |
+| **Total** | **2,590** | **1,955** | **867** | **1,088** | **461** | **174** |
+
+*Source: PDEA*
+
+**Enhancement of fire safety enforcement of the establishments in BARMM.** From 2017 to 2020, there was an increase in the number of fire-related incidents. Despite this, BFP-BARMM has inspected 63,263 establishments since 2017. There was an increase in the number of establishments adhering to fire safety requirements. This can be seen in the number of inspected establishments in the Bangsamoro which has notably escalated from 9,777 in 2017 to 16,874 in 2021 or a rate of 172.6 percent in four-year time, particularly higher in Maguindanao and Lanao del Sur.
+
+**Figure 10.1 Number of Fire-Related Incidents, by Province, 2017-2021**
+
+*[Bar Chart showing fire-related incidents by province (Basilan, Cotabato, Lanao del Sur, Maguindanao, Sulu, Tawi-Tawi) from 2017-2021]*
+
+*Source: BFP-BARMM*
+
+For fire-related incidents related to human costs, Sulu recorded the highest number of killed and injured in 2021, which is 52 and 58, respectively. These can be attributed to the incident in 2021 Philippine Air Force C-130 crash in Patikul, Sulu.
+
+**Figure 10.2 Killed, Fire-Related Incidents, by Province, 2017-2021**
+
+*[Horizontal Bar Chart showing deaths from fire-related incidents by province from 2017-2021]*
+
+*Source: BFP-BARMM*
+
+The national standard requires that there should be at least one fire station in every municipality or city with adequate personnel, complete firefighting facilities, and equipment. As of 2021, there are 56 cities and municipalities with fire stations and 42 with fire trucks in the BARMM. Maguindanao has 20 fire stations and 19 fire trucks; Lanao del Sur has 19 fire stations and nine fire trucks, Sulu has seven fire stations and seven fire trucks; Basilan with five fire stations and four fire trucks, and Tawi-Tawi has the lowest number of fire stations and fire truck, with four and two, respectively.
+
+**Table 10.8 Number of Municipalities with Fire Stations, by Province/City, 2021**
+
+| Cities/Province | Cities/Mun. with Fire Station | Fire Trucks (BFP Owned and LGU Owned) |
+|-----------------|------------------------------|---------------------------------------|
+| Maguindanao | 20 | 19 |
+| Lanao del Sur | 19 | 9 |
+| Basilan | 5 | 4 |
+| Sulu | 7 | 7 |
+| Tawi-Tawi | 4 | 2 |
+| Cotabato City | 1 | 1 |
+| **TOTAL** | **56** | **42** |
+
+*Source: BFP-BARMM*
+
+**Decrease in the jail population.** The intensified program of Duterte's Administration against illegal drugs compels concerned LEAs to conduct 24/7 operations against violators. Hence, numerous commitment orders were issued by the competent courts directing jail stations in Maguindanao and Cotabato City Jail to accommodate arrested violators.
+
+Further, in August 2019 there was a significant increase in the jail population. This was due to the addition of Cotabato City Jail as a result of the ARMM to BARMM transition. In 2020, there was a steady increase in the jail population, this was due to the movement and commitment restrictions brought about by the COVID-19 pandemic.
+
+**Figure 10.3 Jail Population vs. Ideal Capacity, BARMM, 2019-2022**
+
+*[Line Graph comparing Jail Population vs. Ideal Capacity from 2019-2022, showing jail population consistently exceeding ideal capacity]*
+
+*Source: BJMP-BARMM*
+
+Due to this, numerous members of BJMP-BARMM personnel were assigned to Maguindanao province and Cotabato City. These jail personnel were performing custodial, escorting, security, and paralegal duties at all jail stations of the mentioned province and city.
+
+**Table 10.9 Custodial Service Efficiency of BJMP-BARMM, 3rd Quarter 2022**
+
+| Facility | Jail Population | Congestion Rate (Percent) |
+|----------|-----------------|---------------------------|
+| Cotabato CJ | 237 | 565 |
+| Bongao DJ | 128 | 448 |
+| Lamitan CJ | 55 | 174 |
+| Jolo DJ | 38 | 58 |
+| Upi Mun Jail | 28 | 28 |
+| Parang DJ | 25 | 28 |
+| Wao MJ | 38 | 4 |
+| Malabang DJ | 41 | -27 |
+
+*Source: BJMP-BARMM*
+
+With the easing of the pandemic restrictions in 2021 and the transfer of persons deprived of liberty (PDL) from PNP detention, there was a significant increase in the jail population. From January to September 2022, intensified paralegal services on releases resulted in a decrease in the jail population. The third quarter data on congestion rate shows a decrease to 193 percent from 261 percent.
+
+#### Peacebuilding
+
+The gains of the peace process obtained from the peace agreement must be sustained, thus the promotion of peacebuilding initiatives is one of the priorities of the peace, public order, safety, and security sector.
+
+**Significant accomplishments on peacebuilding towards normalization.** Supplemental to the interventions of the normalization process, peacebuilding programs cater to the former combatants, their families, and communities, as well as those who are not covered by the normalization programs.
+
+The BARMM recorded in 2021 a remarkable accomplishment versus its target peacebuilding programs to vulnerable combatants with 180 against 50, vulnerable widows of martyrs with 47 against 30, and local insurgents with 74 against 30. Interventions comprised of organizing and capacitating former combatants who did not qualify in the decommissioning program of the national government, including the widows and orphans of martyrs left in the margins; and attracting local insurgents to return to the folds of the law and transform them into valuable resources of the Bangsamoro.
+
+The BARMM profiled 33 MILF camps that are subscribed to the MILF Central Committee. These camps are beneficiaries, especially the members of the BIAF who are not part of the decommissioning program of the national government. Combatants who are residing in the camps, who have no sufficient means to support their families and combatants who are vulnerable or prone to be recruited by violent extremists or other lawless elements are prioritized to benefit in the peacebuilding initiatives.
+
+**Table 10.10 Number of Base Camps, BARMM, 2022**
+
+| Province/City | No. of Base Camp | Name of Base Camp |
+|---------------|------------------|-------------------|
+| Regional | 1 | 128th Base Camp |
+| Maguindanao | 6 | 105th Base Camp, 106th Base Camp, 109th Base Camp, 118th Base Camp, General Headquarters, Head Quarters |
+| Lanao del Sur | 12 | 101st Base Camp, 102nd Base Camp, 103rd Base Camp, 116th Base Camp, 119th Base Camp, 120th Base Camp, 121st Base Camp, 122nd Base Camp, 123rd Base Camp, 124th Base Camp, 127th Base Camp, Nat'l Guard Base Command |
+| Sulu | 1 | 118th Base Camp |
+| Basilan | 1 | 114th Base Camp |
+| Tawi-Tawi | 1 | 117th Base Camp |
+| Special Geographic Area (SGA) | - | - |
+| Outside BARMM | 11 | 108th Base Camp, 129th Base Camp, Nat'l Guard Base Command, 104th Base Camp, 107th Base Camp, 111th Base Camp, 112th Base Camp, 113th Base Camp, 115th Base Camp, 125th Base Camp, and 127th Base Camp |
+| **Total** | **33** | |
+
+*Source: MPOS*
+
+**Camp Transformation Plan (CTP) 2020-2026.** One part of the normalization process is transforming the conflict-affected areas into communities that would help the residents achieve their desired quality of life, which includes the pursuit of sustainable livelihoods and political participation. The CTP 2020-2026 is formulated to implement the projects and programs that will transform the camps into productive communities. The target beneficiaries of the CTP 2020-2026 are centered on the six acknowledged MILF Camps, namely: Camp Abu Bakar, Camp Bushra, Camp Omar, Camp Rajah Muda, Camp Badr, and Camp Bilal.
+
+**Commemoration of Bangsamoro History Month.** The promotion of peacebuilding includes the recognition of the historical events commemorated by the Bangsamoro government. The issuance of Proclamation No. 0001 of the OCM, declaring the Bangsamoro History Month every month of March, recognizes the many significant events in the history of the Bangsamoro in pursuit of peace and the right to self-determination. Among these significant events are Jabidah Massacre, Bud Dajo Massacre, Dansalan Declaration, All-Out War against MILF, Comprehensive Agreement on the Bangsamoro, and Inauguration of the BARMM and Inaugural Session of the BTA. These events warrant proper recognition, commemoration, or celebration as part of the peacebuilding effort of the Bangsamoro government.
+
+#### Human Rights
+
+**Decline in human rights violations.** In terms of the horizontal conflicts, land disputes and clan or family feud continue to be the major causes of grave human rights violations, including internal displacement. However, with some notable exceptions, the State, either has failed to investigate the pattern and gravity of these violations or its efforts in this regard have been insufficient. As a result, the State is remiss in its obligation to elicit the facts behind allegations of abuse, to ensure the accountability of perpetrators, and to provide reparation for the victim and survivors.
+
+A significant decrease in human rights violations was recorded in the BARMM from 90 cases in 2019 to 38 cases in 2021. Among the BARMM provinces, Maguindanao registered the highest number of cases with 13, whereas Tawi-Tawi has 10, Lanao del Sur has six, and Basilan has four. While no case was recorded for Sulu.
+
+**Figure 10.4 Number of Human Rights Cases Investigated, by Province, 2017-2021**
+
+*[Bar Chart showing Human Rights Cases Investigated by Province (Maguindanao, Lanao del Sur, Basilan, Sulu, Tawi-Tawi) from 2017-2021]*
+
+*Source: BHRC*
+
+**Building blocks for transitional justice and reconciliation (TJR).** The Bangsamoro government, through the BHRC, has included in its strategic priorities efforts to better understand and articulate the role that transitional justice processes can play. The TJR process is pivotal in sustaining peace, attainment of sustainable development goals, prevention of human rights abuses or violations, and the implications of this on how such processes are conceptualized, designed, and implemented.
+
+**Risk of gender-based violence (GBV) remains high.** A rapid assessment of GBV and child protection concerns was taken on in October 2017 by the GBV Working Group. It has been revealed that children and young women encountered an increased risk of GBV, including sexual abuse, exploitation, and Child Early and Forced Marriage (CEFM). In the GBV report, 45 percent of the conflict-affected areas reviewed have reported that girls were the most affected by sexual violence. The complex interplay of religious, cultural, political, and economic factors extends the culture of silence around the issue of GBV. Meanwhile, the fear of rejection from society deterred the survivors from telling their stories. Marrying off the victim to the perpetrator is the usual form of amicable settlement purportedly to avoid family feuds.
+
+As documented by the BWC, there were 16 cases of VAWC reported in 2019, 18 cases in 2020, and 28 cases in 2021, with 23 involving ages 10 to 40 women and children.
+
+The GAD-GBV remains one of the most prevalent and persistent issues facing women and girls in BARMM. Conflict and other humanitarian emergencies place women and girls at increased risk of many forms of GBV. It includes acts that inflict physical, sexual, or mental harm or suffering, which elevates to becoming a pressing public health issue. Anent to this, it also includes threats of such acts, coercion, and other deprivations of liberty, which too, can greatly affect all cultural identities and socioeconomic classes in the region.
+
+Increasing issues on GBV continue to be a rising problem in BARMM. Most of the recorded cases across the region are denied legal assistance due to excessive poverty and geographic placement, even noting their lack of information about their rights. Most cases result in an amicable settlement because of fear, especially as a precaution against clan feuds, and the like.
+
+As documented by the Commission, there were 16 cases of VAWC reported in 2019, 18 cases in 2020, 28 cases in 2021, and 11 cases from the first quarter of 2022. Women and children between the ages of 10 to 40 years old have reported a total of 23 cases. The reported perpetrators were either their husbands, fathers, aunts, or male neighbors. The abuses include sexual abuse, physical abuse, emotional abuse, psychological violence, financial abuse, and domestic violence.
+
+There is a steady increase in the number of reported cases which may be due to two reasons. One is that these women or young girls are now knowledgeable of the BWC's mandate and underlying services. The other reason for this includes the perpetrator's reduced fear of being penalized because said heinous acts can be settled by their community leaders with very minimal consequence which is alarming.
+
+**Figure 10.5 Number of Reported GBV Cases, BARMM, 2019-2022**
+
+*[Bar Chart showing GBV Cases reported: 2019: 16, 2020: 18, 2021: 28, 2022 Q1: 11]*
+
+*Source: BWC*
+
+The presented figure above only reflects GBV cases reported to the BWC and does not represent the overall reported cases in BARMM.
+
+## Opportunities
+
+**Strengthened linkages and partnerships with the UN, international non-government organizations (INGOs), CSOs, and grassroots groups.** The good relationship between the development partners and the Bangsamoro government is an opportunity to extend the coverage of the development in the region. The complementation of the peace and development programs widened the scope of the beneficiaries, thus, bridging the gaps between the intervention and the communities most affected by the conflicts. The available national and international capacity-building and development opportunities give advantage to BARMM. National and international organizations have been supporting the Bangsamoro region in its transition period and this support has been translated into a plethora of national and international capacity-building and development opportunities. Moreover, the support from national and international bodies strengthened the technical, administrative and management, and operational capacity of the BARMM MOAs, LEAs, and Security Sector.
+
+**Convergence with other ministries and development partners.** The collaboration of ministries and development partners in working for different peace and development programs ensures a variety of peacebuilding efforts. This has resulted in different TWGs, committees, and partnerships working with different development partners.
+
+**Supportive LGUs.** The LGUs have a key role in connecting different stakeholders and communities. The success of the activities of the different peace and development programs and projects would not be possible without the active participation of the LGUs. The LGUs implement different programs and projects in support of the attainment of national and regional goals toward peace and development.
+
+**Established a network of peacebuilders and peacebuilding programs in Bangsamoro.** Government agencies, different development organizations, and CSOs have been at the forefront of the peacebuilding effort in the region. Through the years, these organizations have established a network of peacebuilders working for peace and development.
+
+**National government programs on awards and incentives.** One of the strategies for the efficient and effective implementation of programs on peace and development is providing awards and incentives. In the region, LGUs undergo different evaluations and assessments of their programs on anti-illegal drugs and strengthening peace and order councils. National awards are given to the LGUs who performed satisfactorily.
+
+**Strengthened GAD Focal Point Systems (GFPS) of BARMM MOAs.** GFPS is a mechanism established to ensure, advocate, guide, coordinate, and monitor the development, implementation, review, and updating of their GAD plans and GAD-related PPAs of BARMM MOAs. Gender violence in the region is still prevalent. However, with the GFPS, there is a dedicated team that ensures gender violence will be addressed.
+
+**Active participation of Community Women, Youth, and IPs Organizations across BARMM.** Women, youth, and IPs play an important part in the peacebuilding process in their communities. These community-based organizations are instrumental in the implementation of different peace and development programs and projects for the rightful beneficiaries.
+
+**Strengthened adaptability and broad areas of specialization of assets.** The LEAs have diverse specialized manpower, these agencies can provide all the necessary personnel in every situation and emergency. They can provide medical, structural, and even military support. Members of these agencies are composed of engineers, medical personnel, criminologist, and other professionals that are can be tapped in times of disaster, emergencies, or other needs.
+
+**Available medium for multimedia mileage.** Peace and development in the region have been the subject discussed in the different multimedia platforms. Multimedia is used not only for the promotion of peace and development, but it is also used to communicate and reflect different updates on the topic. One example of how multimedia is used can be seen in the following Facebook live shows such as MPOS Hour, Bangsamoro Youth Hours, and Babae, Usap Tayo.
+
+**Available program on cultural revitalization in settling disputes.** Alternative dispute resolution is one of the methods to settle or addresses disputes in the region. This system relies heavily on cultural and societal traditions, and beliefs. Several programs on cultural revitalization have helped in sustaining the system of ADR.
+
+**Existence of the Memorandum of Agreement between LEAs and the security sector.** Different Memorandum of Agreement has been entered between the BARMM MOAs and LEAs and security sector. These agreements have helped in further strengthening the different programs and projects for peace and development in BARMM.
+
+**Established special development fund (SDF) for the recovery and rehabilitation of the conflict-affected areas in the region, as mandated by the BOL.** Section 2, Article XIV of RA 11054 or the BOL states that the national government shall provide SDF to the Bangsamoro government for the rebuilding, rehabilitation, and development of its conflict-affected communities. The implementation of programs and projects funded under the SDF provides opportunities for the Bangsamoro government to fast-track the recovery and rehabilitation of the areas and communities affected by conflict.
+
+## Priority Challenges to be Addressed in 2023-2028
+
+### Peace and Security
+
+One of the key challenges to be addressed in 2023 to 2028 under peace and security is the **presence of peace and other security threat groups (local threat groups, terrorist groups, and violent extremist groups).** This is caused by:
+
+**Continue penetration of the recruitment force of violent extremist groups.** The problem regarding the penetration of the recruitment force of violent extremism groups persisted because of a lack of coordination by the AFP, LEAs, and LGUs in the implementation of the whole-of-nation approach to preventing and countering violent extremism. This was aggravated by insufficient personnel and equipment which resulted in insufficient monitoring, surveillance, and mobilization forces that could be used to track the recruitment hub and involve personalities involved in violent extremism and terrorism.
+
+Another factor that contributes to the existence of violent extremism is less proper guidance of family members to their children or minors coupled with the use of social media by extremists to spread their misleading ideology that led the youth to be involved in violent extremism activities. Lack of education, income, and financial support for legal proceedings, weak law enforcement, and unfavorable sentence or judgment coupled with fear of persecution, preference of some members of the community to satisfy their needs, and grudges.
+
+The problem was further aggravated by a weak recruitment policy and rampant nepotism which resulted in the hiring of incompetent personnel who are tasked to handle P/CVE. Unfunded and inefficient community awareness campaigns in P/CVE and lack of access to basic services contributed to continuing penetration of the recruitment force of violent extremist groups.
+
+**Presence of Private Armed Groups (PAGs) and Lawless Armed Groups (LAGs).** The prevalence of PAGs and LAGs organized in the region pose terror to the communities of the BARMM. These groups are utilized for purposes of committing acts of violence and/or sowing fear and intimidation or any violations of the law for the advancement and protection of vested economic and/or political interests. Some of the prominent political personalities and families maintain PAGs as protector against their rivals. The LAGs conduct criminal acts that escalate across the region creating alarm and hampering economic activities in some areas in the BARMM.
+
+**Porous borders.** The Sulu Archipelago measures approximately 6,100 kilometers from east to west, making it a formidable task for any single country to undertake extensive maritime enforcement. Hence, Trade and Co-operation Agreement (TCA) brings Indonesia, Malaysia, and the Philippines together to jointly patrol the Sulu-Celebes Sea. The weak implementation of plans and programs addressing border control in the Sulu-Celebes Sea has been the hotbed for crime, piracy, and terrorism, otherwise known as the Tri-Border Area fringed by Malaysia, Indonesia, and the Philippines. Islamist terrorists have exploited the porous borders to supplement conflict zones in Southeast Asia with foreign fighters.
+
+The weak implementation of plans and programs addressing border control in the Sulu-Celebes Sea has been the hotbed for crime, piracy, and terrorism, otherwise known as the Tri-Border Area fringed by Malaysia, Indonesia, and the Philippines. Islamist terrorists have exploited the porous borders to supplement conflict zones in Southeast Asia with foreign fighters. This problem was further aggravated by less prioritization of budget, inadequate numbers of personnel and equipment, and weak implementation of border control by LEAs and AFP.
+
+**Low appreciation of constituents for government efforts.** The slow and inadequate delivery of basic services especially in GIDAs caused by an inadequate number of personnel, equipment, and facilities coupled with untimely to un-responded societal concerns has resulted in a low appreciation of constituents to the government's efforts in P/CVE.
+
+### Public Order and Safety
+
+A core problem that needs to be addressed in 2023 to 2028 under public order and safety is the **Prevalence of public order and safety concerns.** This is mainly caused by:
+
+**Persistence of rido or family feuds.** As of 2022, Lanao del Sur recorded the highest rido cases of 332 out of the 552 total rido cases in the BARMM. The existence of rido is also brought by the recurrence of the previously settled feuds. Some causes of rido or family feuds are land disputes, election-related violence, rivalry for titles, misplaced maratabat or pride, major or minor crimes committed, and other civil disputes.
+
+**Increasing crime rates, due to the proliferation of loose firearms (LFAs), cybercrime, and other illegal activities.** In 2014, Filipinos owned an estimated 3.9 million firearms and 2.1 million or half of these are illegal. In contrast, the PNP and AFP owned less than a million guns. State forces are outgunned. Shooting incidents in BARMM stood out as a common report transmitted to the Critical Events Monitoring System (CEMS) as it tallied 424 cases for 2020 or one case a day.
+
+**Proliferation of illegal drugs.** The presence of PAGs and other LAGs being capitalized and used by some politicians and drug lords to perpetuate their political interests and greed for money, contributed to the increasing crime rates in Bangsamoro region. This situation is aggravated when drug lords become narco-politicians. The low conviction rate and the justice system in the region particularly on drug cases could be attributed to the proliferation of illegal drugs. The illegal drug involvement of narco-politicians, and gambling (both legal and illegal) potentially prevailed in the region although it cannot be identified as a major challenge.
+
+**High fatality rates, injuries, and severe damage to properties.** Fatality rates, injuries, and the amount of property damages are increasing at an alarming rate amidst intensified prevention and mitigation programs and activities. These are brought by the inadequate awareness of the members of the community regarding public safety, and others just do not follow safety measures at all. Furthermore, the congestion of people and households in urban areas and the adverse effect of climate change also contribute to these incidents.
+
+Violence and crime continue to be leading causes of protracted, recurring, and massive forced displacement in the region. About 17,663 families or 88,315 individuals were displaced in 2017 from Marawi, the rest of Lanao del Sur, and other places in the region due to armed conflicts, crime, and violence, and have not been able to return to their places of origin. Of the seven reported cases of forced displacement in BARMM for the month of August 2022, six are human-induced: clan/family feuds, an armed confrontation, and a drug raid. Only one was due to a natural disaster.
+
+### Peacebuilding
+
+A core problem that needs to be addressed under this sub-sector within 2023 to 2028 is the **Volatile peace conditions in the region.** This is associated with the following:
+
+**Unsatisfactory implementation of peace agreements particularly on the normalization track.** One of the important aspects of the peace process is the Normalization track that includes the decommissioning of MILF combatants. Undeniably, the said combatants have played vital roles in the quest of the Bangsamoro people for the right to self-determination which resulted in the establishment of the BARMM. Unfortunately, the decommissioning process has been mired by several challenges, including the ambiguity of the source of the decommissioning package and the slow pace of the process itself, among others. So far, only the cash component amounting to One Hundred Thousand Pesos (Php100,000.00) has been received by those who have already been decommissioned. Many of those combatants have yet to be decommissioned. Moreover, not all MILF combatants are included in the list of those to be decommissioned. Meaning, even assuming that the decommissioning process is completed, there will be numerous combatants who would not be decommissioned. Further, there is rampant misinformation on the decommissioning process and perceived little impact of the implementation of programs in their respective communities.
+
+These problems pose a serious threat not only to the success of the peace process but also to the safety and security of the people of the region. There are several reports to the effect that some disgruntled combatants have already joined, or are in the process of joining, violent extremist groups such as Maute-ISIS and BIFF. On the other hand, some combatants expressed their desire to stay in camps or the forests either due to their exclusion from the normalization or due to their dissatisfaction with how the peace process itself is working.
+
+In this respect, it is worthy to emphasize that the Bangsamoro people have been undergoing protracted peace processes from the MNLF to the MILF - from 1975 to the present to be exact, or for almost 50 years. Although a lot of positive gains have been so far achieved, there are perceived lapses in the process of implementation. For this reason, it is not unlikely that some peace spoilers or dissatisfied individuals or groups might exploit the negative consequences of the delay and unsatisfactory implementation of the peace agreements to advance their personal, ideological, or political agenda. Hence, meaningful programs for former combatants, including peacebuilding training and capacity development, should be among the priorities of the Bangsamoro government.
+
+**Neglect of marginalized and vulnerable sectors and institutions.** There are several groups, institutions, and individuals calling for programs or interventions for marginalized and vulnerable sectors as an effective means of P/CVE. However, the terms 'marginalized' and 'vulnerable' seem to have become overused to refer to almost all sectors, such as women, youth, elderly, poor, widows, and disabled, among others. Consequently, the factual marginalized and vulnerable sectors, such as widows and orphans of rebels or violent extremists, among others, have been overlooked in P/CVE interventions. It must be emphasized in this respect that several orphans of violent extremists have also become members of violent extremist groups as in the case of the "Ajang-ajang" in Sulu who are children of slain Abu Sayyaf Group (ASG) members.
+
+On the other hand, it has been claimed that some Madrasahs or Islamic schools were made breeding or recruitment grounds by violent extremist groups. This allegation has created reactions from the Muslim communities. Whether this claim is true or not, there is a need to address the gap concerning these institutions, such as the inadequacy of support, if any, coming from the government. To give an example, there are Asatidz or religious teachers who are teaching in Madrasahs every Saturday and Sunday but receive only a meager amount of money (Php500.00 to Php3,000.00 a month) even though most of them have graduated from Islamic schools locally or abroad.
+
+Another is the case of active Madrasahs with dilapidated buildings and no basic facilities and equipment such as tables, chairs, and black/white boards. Cases like these are very common in remote areas and if you compare these Madrasahs to typical schools, you will easily recognize the discrepancy in the support they are receiving from the government. For instance, there are several vacant school buildings in different areas of the region. There are also places where a school building is used as Madrasah on Fridays and Saturdays. In terms of marginalization and vulnerability to violent extremism, therefore, these sectors and institutions could be at the top of the list due to their neglected conditions.
+
+**Inadequacy and poor implementation of programs for returning local insurgents or violent extremists and their dependents.** For several decades, the Bangsamoro homeland has been devastated by terrorism or violent extremism. For instance, the island provinces of Basilan and Sulu had experienced their darkest moments in the past during the reign of terror of the ASG.
+
+News of kidnappings and beheadings were usually dominating local and international print and broadcast media and other communication channels. Also, some Philippine Presidents attempted to eradicate the group but failed tremendously. Former President Joseph Estrada even uttered publicly that "pupulbusin ko kayo (I will destroy you, referring to ASG)". Unfortunately, he was ousted from his post without any significant success against the ASG.
+
+In the case of Maguindanao and Lanao del Sur, the BIFF, Maute-ISIS, and other extremist groups continue to be a big threat to the safety and security of those areas. One example is the 2017 Marawi Siege that displaced about three hundred thousand and claimed the lives of more than one thousand individuals, among other damages. Fortunately, it has been observed that the number of surrendering ASG, BIFF, Maute-ISIS, and other violent extremists continue to increase in recent years. This influx of rebel returnees could be due to several reasons, one of which is the government's promise for livelihood, financial, and other assistance for those who will choose to return to the folds of the law. After all, studies suggest that most of those joining extremist and other lawless groups are motivated by monetary considerations.
+
+However, several former local insurgents expressed their disappointment with how the programs for them are being implemented. For instance, they are claiming that what was promised to them, such as housing, livelihood, and other assistance has not been received by them until now leaving them still poor, marginalized, and neglected. Worse, they could not easily reintegrate into mainstream society and resume a peaceful life due to the stigma of being a former member of violent extremist groups.
+
+For this reason, several reports suggesting that some of them returned to being members of such groups. It is for this reason that peacebuilding interventions to sustain the influx of surrendering violent extremists and provide sustainable programs for them and their dependents become imperative if only to establish an enduring peace in the region.
+
+**Inadequacy of peacebuilding interventions to address factors contributing to volatile peace and security in BARMM.** The peace and security condition of BARMM, although improving in recent years as a result mainly of the peace process, has remained unstable and unpredictable. Several factors are contributing to this condition such as the perceived culture of violence, religious intolerance, tribalism, maratabat, and other negative practices or culture.
+
+On the other hand, the absence of positive peace in most areas of the region aggravates the situation. For instance, disrespect for human dignity and values; lack of equal access to resources, services, and opportunities for government positions; extreme poverty; and poor governance, among others, are prevalent in the different areas of the region. These problems continue to hamper any effort for lasting peace and development in the region, thus, must be addressed accordingly.
+
+**Continued displacement of Most Affected Area (MAA) residents of Marawi City.** The MRP is yet to be completed. Many of the MAA residents have not been able to return to their area due to different factors such as lack of housing and rehabilitation in Marawi City. The IDPs of the Marawi siege have been uprooted from their home since 2017, the longest IDPs being displaced.
+
+### Human Rights
+
+The core problem under this sub-sector is the **rampant human rights violation.** This problem is caused by:
+
+**Low knowledge, skills, and attitude on human rights among primary duty bearers.** Central to the idea of human rights is establishing and sustaining the relationship between the rights-holder and the duty-bearer. The duty-bearers have the obligation and responsibility to protect, promote, and fulfill human rights. However, their capacity to uphold human rights is hindered due to a lack of human rights knowledge, skills, attitude, and awareness.
+
+The lack of awareness among corrections officers in some jail detention facilities in BARMM, for instance, denies the PDLs of their rights such as proper nutrition and a healthy lifestyle, in addition to being held in overcrowded cells. According to BJMP-BARMM, these difficulties are mainly because of the lack of financial resources to implement and comply with human rights enshrined in local and international laws and standards.
+
+**Limited access to the justice system.** Another challenge is limited access to the justice system. At the outset, while peacekeeping institutions and human rights agencies are present, this limited access to the justice system is due largely to the existence of the culture of silence at the community level. Despite the prevalence of human rights issues, people do not report them to the institutions and/or agencies concerned, making it difficult for human rights institutions such as the BHRC to address them. According to the results of an IDP Forum, displaced individuals whose human rights have been transgressed may be aware of justice mechanisms but are unsure of the extent of support to the reported cases.
+
+Perhaps this limited access to the justice system is also due to the people's preconceived notion of the selective justice system in the country. Many people, especially the Bangsamoro people, are under the impression that justice is only for the rich. However, what they fail to see is that there is already a Bangsamoro government that takes care of them. There are already ministries, offices, and agencies that render services that they can avail of in times of need. The BHRC, for instance, has a program on financial and legal assistance to the victims of human rights violations and abuses, as well as their families which the people can avail of. Nevertheless, there are still so many communities within BARMM that are suffering from poverty. Hence, the Bangsamoro government still has a lot of work to do to address this concern.
+
+**Insufficient awareness of human rights.** One of the challenges and reasons why human rights cases remain an issue in our communities is because there is a lack of sufficient human rights awareness on the part of the people at large. While ignorance may be bliss, it is not the case concerning human rights. The more there is a lack of awareness, the more the tendency for human rights violations to exist. On the positive note, to develop a human right conscious Bangsamoro society, where people are more aware of their rights, can mitigate cases of human rights abuses and violations, and those who are likely to violate these inherent rights would be more prudent and inclined not to do so since people are already empowered.
+
+Moreover, if there is sufficient awareness of human rights, more resources will be supported to implement human rights advocacies, programs, projects, and activities. The lack of access to basic education, poverty, weak access to social services especially in far-flung areas, and many others, will be addressed.
+
+Also, the lack of human rights desks at the barangay level contributes largely to this challenge. If human rights desks are placed within the reach of the people in their respective communities, the reporting of human rights cases and/or issues will be easily facilitated and provided with solutions. Consequently, it would then be easier for human rights institutions to penetrate these communities and conduct advocacies, programs, projects, and activities intended to make people aware of their basic rights.
+
+The weak access to social services, especially in GIDA, deprived the constituents of sufficient awareness of human rights due to excessive poverty and geographic placement, even noting their lack of information about their rights.
+
+The Bangsamoro region is experiencing an increasing number of situations where women's rights are being violated due to a lack of gender perspective in justice, security, and peace. Violence against women, human trafficking, and rape, among others, are some of the occurrences monitored by the BWC and BHRC, two agencies that are champions of upholding their rights and eliminating all forms of violation and discrimination. Furthermore, other apparent cases recorded, such as GBV and child early and forced marriages, are due to poverty.
+
+The insufficient participation of women in armed conflict security, peace, and development process is among the contributory factors to the insufficient awareness of human rights in terms of inclusion of women, youth, and children concerned with security, peace, and development.
+
+## Strategic Framework
+
+**Overall Goal:** Empowered, Cohesive, and Progressive Bangsamoro
+
+**Sectoral Goal:** Peaceful, Safe, and Resilient Bangsamoro Communities
+
+**Sectoral Objectives:**
+1. Presence of security threat groups reduced
+2. Public order and safety improved
+3. Gains of the peace process sustained
+4. Human rights cases mitigated
+
+**Sub-Sector Objectives:**
+
+**3.1 Peace and Security:**
+- 3.1.1 Incidence of violent extremism reduced
+- 3.1.2 Presence of Private Armed Groups (PAGs) reduced
+- 3.1.3 Borders security in BARMM improved
+- 3.1.4 Peace and security efforts intensified
+
+**3.2 Public Order and Safety:**
+- 3.2.1 Rido cases reduced
+- 3.2.2 Crime rates reduced
+- 3.2.3 Proliferation of illegal drugs reduced
+- 3.2.4 Community-driven safety and security services improved
+
+**3.3 Peacebuilding:**
+- 3.3.1 Full implementation of peace agreement between the Bangsamoro people and GPH ensured
+- 3.3.2 Former combatants, marginalized and vulnerable persons and communities transformed and empowered
+- 3.3.3 Post-conflict peacebuilding interventions increased
+
+**3.4 Human Rights:**
+- 3.4.1 Human rights promotion intensified
+- 3.4.2 Human rights violations reduced
+- 3.4.3 Resolved human rights cases increased
+
+**3.5 Disaster Resilience:**
+- 3.5.1 Impact of disaster risks reduced
+- 3.5.2 Information on risk-assessment and geohazards enhanced
+- 3.5.3 Awareness on natural disaster preparedness improved
+- 3.5.4 Climate change adaptive Bangsamoro Communities toward sustainable development built
+
+**Overall Strategy:** Enhance and strengthen peace, public order, safety and security, and uphold human rights for peaceful, safe, and resilient Bangsamoro communities
+
+## Development Goal
+
+This chapter discusses its sectoral goal of a **peaceful, safe, and resilient Bangsamoro community** that will contribute to the overall goal of having an empowered, cohesive, and progressive Bangsamoro.
+
+### Sectoral and Sub-sector Objectives:
+
+**1. Presence of security threat groups reduced**
+
+Sub-sector objectives under this target are:
+- Incidence of violent extremism reduced;
+- Presence of Private Armed Groups (PAGs) reduced;
+- Borders security in BARMM improved;
+- Peace and security efforts intensified.
+
+**2. Public order and safety improved**
+
+Sub-sector objectives under this target are:
+- Rido cases reduced;
+- Crime rates reduced;
+- Proliferation of illegal drugs reduced;
+- Community-driven safety and security services improved.
+
+**3. Gains of the peace process sustained**
+
+Sub-sector objectives under this target are:
+- Full implementation of the peace agreement between the Bangsamoro people and GPH ensured;
+- Former combatants, marginalized and vulnerable persons, and communities transformed and empowered;
+- Post-conflict peacebuilding interventions increased.
+
+**4. Human rights cases mitigated**
+
+Sub-sector objectives under this target are:
+- Human rights promotion intensified;
+- Human rights violations reduced;
+- Resolved human rights cases increased.
+
+## Priority Strategies and Programs
+
+### Priority Strategies
+
+**Strategy 1:** Ensure holistic participation of all key stakeholders through institutionalizing/adopting the Bangsamoro Convergence Framework on community resilience and other relevant policies.
+
+**Strategy 2:** Strengthen law enforcement and proceedings.
+
+**Strategy 3:** Intensify peace, security & coordination mechanisms, enhance systems, capacities, data management, monitoring, and improve infrastructures and facilities and other collaborative initiatives in addressing violent extremism, terrorism, and other threat groups in BARMM through the whole-of-society approach.
+
+**Strategy 4:** Intensify advocacy on the prevention of violent extremism and terrorism. This strategy will include the promotion of a culture of peace.
+
+**Strategy 5:** ADR to effectively address rido and other horizontal conflicts in the Bangsamoro areas.
+
+**Strategy 6:** Intensify the relationship between and among the Bangsamoro government, LEAs, LGUs, and other stakeholders in implementing laws, policies, and programs on public order and safety operations through the synergy of efforts and plans in ensuring public order and safety in the Bangsamoro.
+
+**Strategy 7:** Provide support to enhance the capability of LEAs operating in BARMM through formulating effective mechanisms, building a strong partnership, and provision of support facilities.
+
+**Strategy 8:** Engage community participation and adapt mechanisms to effectively report and monitor public order and safety issues in the Bangsamoro region.
+
+**Strategy 9:** Intensify advocacy campaign against criminalities (i.e., index and non-index crime, cybercrimes, and other illegal activities) and illegal drugs.
+
+**Strategy 10:** Strengthen cybercrime prevention and improve protection for digital privacy and security.
+
+**Strategy 11:** Develop evolving evidence and research-based solutions and harness a digitalized database management system to provide solutions to the prevailing peace and security problems of Bangsamoro.
+
+**Strategy 12:** Ensure support and commitment of the national government to the peace process through close coordination, consultation, and collaboration with the national government.
+
+**Strategy 13:** Institutionalize peacebuilding interventions to serve the vulnerable and marginalized sectors and institutions in Bangsamoro and reintegrate them into mainstream society through inclusive policy development.
+
+**Strategy 14:** Sustain the gains of the peace process through continued support on the normalization track of the CAB.
+
+**Strategy 15:** Intensify meaningful participation of former combatants, the vulnerable, and the marginalized sector to promote a peaceful society through dialogue and community engagement.
+
+**Strategy 16:** Pursue rebuilding, rehabilitation, and development of conflict-affected communities in Bangsamoro in close coordination and partnership with development stakeholders in BARMM.
+
+**Strategy 17:** Intensify the promotion and implementation of human rights laws, plans, policies, and services through partnerships between the Bangsamoro government and other key stakeholders to reduce the threat of human rights violations and uphold the status, rights, and interests of women, children, youth, persons with disabilities, IPs, settlers, IDPs, and other vulnerable sectors.
+
+**Strategy 18:** Strengthen the protection of human rights and transitional justice through the continuous documentation, investigation, and monitoring of past and present cases of human rights violations and abuses.
+
+**Strategy 19:** Support the improvement and provisions of jail and detention facilities to guarantee compliance with human rights standards and safeguard the rights of PDLs.
+
+**Strategy 20:** Strengthen the referral system between BARMM MOAs.
+
+**Strategy 21:** Institutionalize Regional Action Plan on Youth, Peace, and Security (RAP-YPS) and Regional Action Plan on Women Peace and Security (RAP-WPS) as a significant approach to maintaining and promoting peace and security in the region.
+
+**Strategy 22:** Intensify program implementation through convergence and partnerships with key stakeholders to ensure genuine stakeholder participation and engagement.
+
+### Priority Programs
+
+#### Peace and Security
+
+**Ending Local Armed Conflict (ELAC) Program.** This program aims to ensure the holistic participation of all key stakeholders through institutionalizing, adopting the Bangsamoro Convergence Framework on community resilience, and other relevant policies. It intends to achieve the objective of reducing the presence of security threat groups. Under this program are the Local Government Empowerment Project and Tulong ng Gobyernong Nagmamalasakit (TuGoN) Project.
+
+**Preventing/Countering Violent Extremism (P/CVE).** This program intends to operationalize the intensification of advocacy on the prevention of violent extremism and terrorism. This strategy will include the promotion of a culture of peace. The projects under this program are Capacity Enhancement; Target Vulnerable/Affected Sector Research and Profiling; and Information Awareness and PCVE Advocacy Campaign.
+
+#### Public Order and Safety
+
+**Coordination with Law Enforcement Agency in the Region (CLEAR).** The program will facilitate in enforcing support to the LEAs to improve security measures through the provision of logistic support such as communication support, checkpoints operation equipment, and other COVID-19 pandemic-related assistance. Regular coordinative meetings will be employed also to facilitate a unified reporting system on peace, and public order issues in the region.
+
+This program is composed of four subprograms which are the Coordination Mechanisms with Law Enforcement Agencies, Bangsamoro Public Order and Safety Conference, Assistance to Law Enforcement Agencies, and Training for Law Enforcement Agencies.
+
+**Bangsamoro Community Policing.** This program will intensify relationship between and among the Bangsamoro Government, LEAs, LGUs, and other stakeholders in implementing laws, policies, and programs on public order and safety operations through synergy of efforts and plans in ensuring public order and safety in the Bangsamoro. The projects under this program are Strengthening Local Peace and Order Council (LPOC), Proficiency and Skills Enhancement for Barangay Tanods, People's Law Enforcement Board, and Capability Enhancement for Law Enforcement Agencies.
+
+**Alternative Dispute Resolution Program.** This program seeks to address rido being one of the main impediments to achieving sustainable peace and advancement of the region. It aims to enable a mechanism and stakeholders like local mediators and concerned agencies to effectively implement their rido settlement efforts, conduct research and studies on improving rido settlement in the region, engage in the reduction or settlement of existing rido, and implement programs for the rehabilitation of rido-stricken communities.
+
+Under this program are five sub-programs, namely: Rido Knowledge Management; Interventions for Local Mediators; Rido Settlement; Kambalingan: A rehabilitation Program for Rido-affected Communities; and Support to Institutionalization of Alternative Dispute Resolution in BARMM.
+
+**SAFE BARMM Program.** This program seeks to gather information affecting public order and safety in the region through data gathering and consultations with partner CSOs. This also aims to establish an Early Warning and Early Response (EWER) mechanism to address public order and safety issues in the region. Further, it also aims to provide updated and reliable data and information on public order and safety to proper authorities to help them in planning and formulating effective responses.
+
+The projects under this program are Community-Driven Safety and Security; Mashuawara Kalilintad Project; and Conflict Data Management System.
+
+**Intensification of Law Enforcement Operation.** This program intends to operationalize the strategy to intensify advocacy campaigns against criminalities (i.e., index and non-index crime, cybercrimes, and other illegal activities), and illegal drugs. This includes activities such as Strategic Conduct of Checkpoints, Information Drive and Caravan on Loose Firearms, and Search Warrant Implementation.
+
+**Development Support for Law Enforcement Agencies.** This program will operationalize the provision of support to enhance the capability of LEAs operating in BARMM through formulating effective mechanisms, building strong partnership, and provision of support facilities. The projects under this program are Procurement and Provision of Vehicle, and Construction of Facilities.
+
+**Bangsamoro Anti-Illegal Drug (BAID) Program.** This program will support the national government intensified campaign to curb illegal drugs that will only succeed if carried out on various fronts in BARMM. This program will operationalize the anti-drug strategy through supply reduction efforts that involve aggressive law enforcement and prosecution with strong adherence to the rule of law and observance of human rights, coupled with comprehensive demand reduction initiatives and supported by strong international ties.
+
+The projects under this program are Policy Development, Strengthening Licensed Alcohol and Drug Abuse Counselor (LADAC), Bangsamoro Community-Based Rehabilitation Program (CBRP), and Support to Anti-Illegal Drug Operations.
+
+**Barangay Drug Clearing Program.** This program aims to reduce of drug affectation in the region by taking away drugs from the people, taking people away from the lure of illegal drugs, and impacting the drug problem in the community by integrating the support of stakeholders, and duty bearers, and local chief executives. The ultimate goal is to realize drug-resilient and self-policing communities and produce stigma-free rehabilitated Persons Who Use Drugs (PWUDs) and drug reformists. The projects within this program are Supply Reduction; Demand Reduction; and Harm Reduction.
+
+**Ligtas na Pamayanan Program.** This program intends to operationalize the community engagement and participation and adapt the mechanisms to effectively report and monitor public order and safety issues in the Bangsamoro region. The projects within this program are Safety Awareness, Community-driven Joint Project, and Community Fire Auxiliary Group (CFAG).
+
+#### Peacebuilding
+
+**Peacebuilding Initiatives Program.** The Peace Building Initiatives program will ensure to foster the different peace initiatives of the ministry in the region that includes sustaining the journey to peace, support to normalization, and different religious dialogue that will help assist the former combatants, widows of violent extremists, and martyrs and other local insurgents. Further, dialogue between and amongst different religious groups will foster support the gains of peace. Furthermore, through its Bangsamoro Peace Institute, it will help train and produce peace champions in the region.
+
+The projects within this program are Peace Building Toward Normalization; Sustaining Journey to Peace; Community Peacebuilding and Development Program; Social Transformation Program; Bahay Kapayapaan Program: Assistance to the Displaced in Rido Affected Communities; Balik-Barangay Program; and Community Peacebuilding Advocacy Program.
+
+**Popularization of Bangsamoro Historical Events (PBHE) Program.** This program banks on the idea that TJR is an integral part of post-conflict peacebuilding. The need to revisit the history of the Bangsamoro struggle through learning sessions and study tours, conversations with the victims of massacres, and conduct of commemorative activities, will greatly contribute to finding lasting peace in the Bangsamoro, especially in avoiding the recurrence of similar injustices.
+
+Under this program are the projects namely observance of Bangsamoro History Month; Commemoration of other Historical Events; Transitional Justice and Reconciliation Promotion; and Compendium of Bangsamoro Historical Events.
+
+**Sustaining Journey to Peace.** The objectives of this program are manifold. One, it is intended to augment the normalization efforts of the national government and the Bangsamoro government. Second, it seeks to sustain the gains of the peace process through the conduct of peacebuilding activities that would effectively hamper the efforts of violent extremists toward radicalizing the young people by exploiting the unpredictable socio-economic, political, and peace and order conditions in the region. Third, the program also aims to foster unity, understanding, and peaceful co-existence of all the peoples of the region as prerequisites for a progressive and peaceful Bangsamoro Autonomous Region.
+
+**Women Peace and Security (WPS).** This program intends to operationalize the strategies such as intensifying meaningful participation of former combatants, the vulnerable, and the marginalized sector to promote a peaceful society through dialogues and community engagement.
+
+Under this program is the sub-program entitled Women Empowerment for Community Resilience (WECoRe) which involves the Strengthening Women Awareness Project; and the project entitled Integration of Gender in Women, Peace, and Security projects.
+
+**Bangsamoro Youth Peace and Security Program.** The Bangsamoro Action Plan on Youth Peace and Security (BAP-YPS) has the goal of "Empowered Bangsamoro youth towards holistic and sustainable peace and development anchored in Moral Governance." The action points and the implementation of its specific targets shall serve as the building blocks of the BAP-YPS, ultimately aiming to achieve this goal. It highlights the participation of youth in peace processes, policy development, governance, capacity development, and mainstreaming of GAD. Interventions on community resilience, socioeconomic, and strategic programs shall be implemented through the lens of the culture of peace of empowered youth and religious youth leaders of the Bangsamoro. The Government, development partners, and the youth themselves work together to strengthen YPS-focused partnerships at the local, regional, and global levels. It also ensures the respect and protection of youth rights in Bangsamoro and the involvement of young people in decommissioning and reintegration.
+
+Thus, this Bangsamoro Youth Peace and Security Program intends to operationalize the said action plan and contribute to achieving the goal of sustaining the gains of the peace process by transforming and empowering youth as a vulnerable sector.
+
+There are two projects under this program, namely: Policy Advocacy Campaign and Mainstreaming of BAP-YPS, and M&E of the Implementation of the BAP-YPS.
+
+**Bangsamoro Rebuilding, Rehabilitation, and Development of Conflict-affected Communities Program (BRRDCP).** Section 1, Article XIV of the BOL states that the Bangsamoro government shall intensify efforts for the rehabilitation, reconstruction, and development of the region as part of the normalization process. This program intends to address the needs of the conflicted-affected communities for rebuilding, rehabilitation, and development. It shall consist of priority projects that will focus on the conflict-affected communities, calamity-, and poverty-stricken communities in the Bangsamoro region.
+
+**Marawi Rehabilitation Program (MRP).** The Bangsamoro government created the BARMM-MRP through MC 0003, series of 2020 on October 20, 2020, to support the ongoing, recovery, reconstruction, and rehabilitation of Marawi City by the Special Committee on Marawi Recovery, Reconstruction, and Rehabilitation or also known as the Special Committee on Marawi (SCM) Report. The BARMM-MRP encompasses all BARMM-funded and BARMM-initiated projects and activities for the benefit of the people and localities affected by the Marawi Siege. Activities and projects funded under this program are expected to be responsive to the issues and concerns as summarized and identified in the SCM Report.
+
+Under this program are the projects namely: Accounting of the Dead and the Missing; financial assistance to IDPs excluded from the Kathanor List; Mobile Health Care in Marawi City; WASH Project; and priority infrastructure projects to benefit the IDPs.
+
+#### Human Rights
+
+**Bangsamoro Human Rights Action Center Program.** The Barangay Human Rights Action Centers (BHRAC) program is an initiative taken by the BHRC to ensure that human rights is spread and preserved at the community level. In principle, the BHRAC program is established to increase the reach of the CHR to the populace, in completion of its mandate of promoting and protecting human rights. The barangay, according to the Local Government Code is "the basic political unit serving as the primary implementing unit of government policies, plans, programs, projects, and activities in the community and as a forum wherein the collective views of the people may be expressed, crystallized and considered, and where disputes may be amicably settled." As such, the BHRC has tapped the grassroots to ensure that human rights services are made accessible to the populace and are embedded in the community culture of the Bangsamoro.
+
+Through this program, the Bangsamoro government may partner with concerned institutions, community organizations, and other groups to deliver its message and engage the public in meaningful conversations about human rights. Another important aspect program is its advocacy efforts through engaging with government officials and policymakers to promote laws and policies that support human rights and to hold those who violate these rights accountable. Through its advocacy work, the center seeks to bring about lasting change that will have a positive impact on people's lives.
+
+**Witness Protection Program.** This program is consist of, among others, the provision of security, shelter, relocation, and financial assistance to witnesses and their families to secure their attendance in investigations being conducted by the Commission and to ensure the production and preservation of the integrity of evidence. This initiative offers help to persons who had observed or were victims of human rights abuses, giving them a safe environment to live, work and recuperate from the trauma they had endured. The program provides counseling services, legal representation, and financial support, allowing witnesses to start a new life free from fear. This initiative may inspire many others to come forward and speak out against human rights violations. The human rights witness protection program will provide a crucial safety net for those who were willing to stand up for what is right, even in the face of danger, helping to ensure that justice will be served. Every case that is successfully handled serves as evidence and demonstration of courage and the goodness of humanity, and the value of protecting those who are prepared to speak up against injustice in the hope of bringing about a better society.
+
+**Human Rights Protection Program.** The Bangsamoro administration is adamant about taking a crucial part in the ongoing struggle for human rights, fighting to make sure that everyone can live in dignity, safety, and freedom. This program is vital in promoting and defending the fundamental rights and freedoms of Bangsamoro people, regardless of their tribe, gender, or religion. It is essential in raising awareness about human rights abuses and holding those responsible accountable for their actions. Human rights protection services are those that are designed to compel duty-bearers to fulfill, respect, and protect human rights and peoples from violations and abuses.
+
+One of the key priorities of this program is to bring attention to the plight of marginalized and vulnerable communities who were most at risk of human rights abuses. This included indigenous peoples, refugees and asylum seekers, women and children, and people living in conflict zones. The organization also worked to promote the rights of individuals who were subjected to arbitrary detention, torture, and other forms of ill-treatment.
+
+**Human Rights Promotion Program.** The goals of the program for promoting human rights are to increase awareness and encourage the respect and defense of those rights. This program can be implemented by government agencies in partnership with other institutions, non-governmental organizations (NGOs), international organizations, and other civil society groups.
+
+Human rights promotion initiatives are those that empower individuals, groups, or peoples to assert and claim their human rights, and enable duty-bearers to comply with their obligations. The focus of human rights promotion programs can vary, but some common goals include education and raising awareness among people about their rights and responsibilities through organizing workshops, seminars, and other educational events; capacity building of local organizations and individuals to effectively promote and defend human rights; monitoring and reporting programs about human rights abuses and reporting them to relevant authorities or the public; and advocacy efforts aimed at promoting human rights at all LGU levels, establishments, and institutions by working with decision-makers to adopt laws and policies that better protect human rights, as well as raising awareness among the public about human rights issues.
+
+Overall, the goal of human rights promotion programs is to create a more just and equitable world where everyone's rights are respected and protected.
+
+**Promotion of Indigenous People's Rights and Legal Aid.** This program is composed of four projects: Legal Assistance, Paralegal Training/Workshop; Information Drive and Free Legal Assistance; Empowering Indigenous Peoples' Youth as Advocates and Defendants of IP Rights (IPYAD); Indigenous Peoples' Peacekeeping Force and Responder (IPPFR).
+
+**Indigenous Lands for Indigenous Peoples' Aiming for Development (iLIPAD) Program.** This program will fully materialize many development and security programs for the Indigenous People in the Bangsamoro Region. This will address the following issues such as the lack of strong Intergovernmental coordination between National Commission on Indigenous Peoples (NCIP) and MIPA, as well as other BARMM agencies like MENRE and MAFAR with regards to ancestral domain issues; the weak basis that can be used for ancestral domain concerns and interventions; no clear partnership with the security sector in protecting IP claimants and ancestral domains; no formal Ancestral Domain Comprehensive and Sustainable Development Plan; insufficient community assemblies/workshops for the identification of ancestral domains; and social preparation procedures of the delineation of identified ancestral domains. This program consists of the following projects: Ancestral Domain Driven Development (A3Ds) Project, Indigenous Peoples Protection (i3Ps) Project, and Féfégétuwan (Information Education Communication) Project.
+
+## Priority Policy and Legislative Agenda
+
+**Indigenous Peoples Rights Act in the Bangsamoro.** This aims to recognize, respect, protect, promote, preserve, and support the rights of IPs, empowering the Ministry of Indigenous Peoples' Affairs, establishing Implementing mechanism, and for other purposes. This act shall apply to all IPs within BARMM, such as Teduray, Lambangian, Dulangan Manobo, Erumanen Ne Menuvu, Badjao, Sama, Yakan, Higaonon, and other IPs' tribes that are recognized by the MIPA.
+
+The Bangsamoro government shall guarantee the rights of the Indigenous Peoples to freely pursue their economic, social, and cultural development. Further, it shall consequently establish the means for the full development and empowerment of the Indigenous Cultural Communities/Indigenous People's (ICCs/IPs) own institutions and initiatives, providing resources, therefore, respecting their native titles.
+
+**Public Order and Safety Act in the Bangsamoro.** The legislation intends to address the presence of peace and security threat groups, the prevalence of public order and safety concerns, volatile peace conditions in the region, and rampant human rights violations in Bangsamoro. It intends to establish the Public Order and Safety Act which tackles the localization of ADR.
+
+This legislative agenda intends to localize the Public Order and Safety Act which would be the legislative anchor of many programs for public order and safety.
+
+**Policy on the Security of Maritime Water of BARMM.** This policy agenda intends to improve border security in BARMM.
+
+Porous border in the BARMM is one of the issues in peace and security. This policy intends to address the multifaceted issues that are present in these porous borders.
+
+**Development of Localized Community Service-Oriented Policing.** It intends to improve community-driven safety and security services.
+
+Community Oriented Policing is a law enforcement system where officers build and maintain active, reinforcing relationships with local stakeholders, including citizens and community leaders. This policy intends to strengthen the community-driven safety and security efforts in the region.
+
+**Institutionalization of Bangsamoro Peace Institute (BPI).** This policy agenda targets to sustain the gains of the peace process and increase post-conflict peacebuilding interventions.
+
+BPI is envisioned to become the lead institution that influences key personnel in government agencies, law enforcement agencies, and nongovernment organizations to become catalysts in promoting a culture of peace, and conflict-sensitive and peace-promoting programming. The BPI will be a venue for constructive discussions and learning experiences for grassroots peacebuilders and advocates to promote religious tolerance, peaceful co-existence; transitional justice and reconciliation; conflict mediation, prevention, and management.
+
+**Institutionalizing the Alternative Dispute Resolution.** This policy agenda aims to strengthen the roles of the people involved in traditional mechanisms in addressing conflict and harmonizing the different interventions.
+
+**Creating a Mechanism for The Former Local Combatants.** This policy agenda aims to assist former combatants, marginalized and vulnerable persons, and communities. In the Bangsamoro region, there are multiple regional and provincial interventions for former local combatants. In strengthening and ensuring inclusive intervention for former local insurgents, there is a need to craft a mechanism that would harmonize the different interventions for former local combatants.
+
+**Implementation of the locally-owned Transitional Justice and Reconciliation (TJR) mechanism.** TJR mechanism is one of the provisions stated under the Bangsamoro Organic Law. The policy aims to address the historical injustices experienced by the Bangsamoro people.
+
+**Adoption of National Modernization Policies and Guidelines on Law Enforcement.** This policy agenda aims to support community-driven safety and security services. It will address the concern of high fatality rates, injuries, and severe damage to properties. In ensuring the public safety of the people, this policy agenda will help strengthen the prevention and suppression of all kinds of destructive fires, with the active support of the community.
+
