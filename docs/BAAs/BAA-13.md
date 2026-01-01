@@ -4672,3 +4672,544 @@ Appointment to any vacancy occurring during the term shall only be for the unexp
 
 **Sec. 25. Public Awareness.** - The Commission shall undertake human rights public awareness campaigns, events, seminars, workshops, fora, and summits; engage the mass media, issue press statements, conduct press conferences and interviews; utilize social media and the internet; and employ other means of communication in promoting human rights in public spaces.
 
+**Sec. 26. Publication.** - The Commission shall publish, in print or on-line, newsletters, information, education, and communication materials, training materials, and such other publication necessary for the promotion of human rights.
+
+**HUMAN RIGHTS PROTECTION**
+
+**A. Investigation**
+
+**Sec. 27. Investigation.** - The Commission shall conduct investigations, upon complaint or *motu proprio*, of alleged or purported human rights violations and abuses committed within the Bangsamoro Autonomous Region. Investigations conducted by any other tribunal shall not be a bar to the performance of this function.
+
+The Commission shall likewise investigate, upon complaint or *motu proprio*, violations of international humanitarian law and its implementing statute, Republic Act No. 9851, otherwise known as the Philippine Act on Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity.
+
+The National Commission on Human Rights and the Commission may agree to conduct joint investigations on human rights violations and abuses that occurred either outside the Bangsamoro Autonomous Region when the subject of the investigation involves Bangsamoro, or within the Bangsamoro Autonomous Region when the subject of the investigation is of national complexion.
+
+**Sec. 28. Ancillary Powers.** - The Commission shall have the following ancillary powers in order to effectively conduct proper investigations:
+
+(a) Administer oaths;
+(b) Issue compulsory subpoena in order to:
+	(1) secure the attendance of witnesses; and/or
+	(2) produce documentary or object evidence;
+(c) Require the assistance and cooperation of government or private entities;
+(d) Cite for direct or indirect contempt;
+(e) Petition for the issuance of Writs of *Amparo*, *Habeas Data*, *Habeas Corpus*, or *Mandamus*;
+(f) Issue preventive and mandatory measures, as described in Sec. 30;
+(g) Deputize lawyers, legal aid groups, or medical organizations; and
+(h) Perform such other powers and functions as may be necessary in the effective exercise of its investigative powers and functions.
+
+**Sec. 29. Imprescriptibility.** - No statute of limitation shall apply in the investigation of human rights violations and abuses.
+
+**Sec. 30. Preventive and Mandatory Measures.** - The Commission may issue compulsory measures, incident to its investigation, as follows:
+
+(a) Preventive measures:
+	(1) Preventive Protection Order is a measure ordering respondent to refrain from committing acts that would tend to cause irreparable harm to the victims or complainant, or have the effect of rendering the investigation of the Commission moot and academic;
+	(2) Preventive Transfer Order is an order directing any member of the government or any person acting on its behalf, to immediately desist from hiding, transferring, torturing or abusing victims of human rights violations or abuses; and
+	(3) Preventive Desistance Order is an order prohibiting respondent, any units, personnel, or persons under his/her immediate supervision from entering the vicinity, as may be determined in the order, of the affected area or residence of any person whose human rights are being violated or are in danger of violation, and from searching the victim or his/her belongings;
+
+(b) Mandatory measures:
+	(1) Mandatory Protection Order is an order directing the government to provide specific protection to victims of and witnesses to human rights violations or abuses;
+	(2) Mandatory Access Order is an order directing the government in control of any place of detention or confinement to allow access to persons deprived of liberty by his/her counsel, physician, psychologist, priest, pastor, rabbi, imam, or any spiritual adviser and his/her relatives; and
+	(3) Mandatory Transfer Order is an order directing the government to transfer persons deprived of their liberty or in danger of reprisal or retaliation due to the filing of a complaint in connection with his/her detention, in order to secure the safety of his/her person.
+
+**Sec. 31. Accessibility of Redress.** - The Commission shall make accessible all its mechanisms for redress of human rights violations and abuses. It shall adopt e-filing of complaints or reporting, and provide a hotline open for twenty-four (24) hours. It shall make personnel available during holidays and non-working days in order to perform its mandate. These personnel shall be given the necessary additional compensation for those worked days.
+
+**Sec. 32. Financial and Legal Assistance.** - The Commission shall extend, in the course or as a result of the investigation, financial and/or legal assistance to the victims of human rights violations and abuses whose complaints have been given due course thereby. It shall work with the Public Attorney’s Office, human rights organizations, lawyers’ groups, the civil society, the Integrated Bar of the Philippines, and school-based legal aid clinics for the representation of such victims who are qualified for free legal assistance.
+
+The Commission may engage the services of a private lawyer to represent or render legal service to indigent and detained victims of human rights violations and abuse, whether the cases are heard within or outside the Bangsamoro Autonomous Region. This shall be exempt from the coordination and notification requirements to any instrumentality of the Bangsamoro Government.
+
+**Sec. 33. Witness Protection.** - The Commission shall implement and manage a witness protection program which consists of, among others, provision of security, shelter, relocation, and financial assistance to witnesses and their families in order to secure their attendance in investigations being conducted by the Commission and to ensure the production and preservation of the integrity of evidence.
+
+**B. Monitoring**
+
+**Sec. 34**Sec. 34. Monitoring.** - Monitoring refers to the active collection, verification, and use of documents and information from various relevant sources in order to ascertain the existence or non-existence of certain facts and/or conditions. In the protection of human rights, the Commission shall conduct:
+
+	(a) Policy monitoring or assessing, evaluating, and reviewing the government’s compliance with human rights standard with regard to its legislation, regulations, rules, guidelines, actions, and practices.
+	(b) Thematic monitoring on pervasive, rampant, and widespread human rights violations and abuses;
+	(c) Sectoral monitoring on specific sectoral issues on human rights;
+	(d) Incident monitoring in the event of human rights violations or abuses in a particular location that require urgent action;
+	(e) Progressive realization monitoring of policies, activities, programs, and projects of the government in relation to the full realization of economic, social, and cultural rights to the maximum of their available resources;
+	(f) Facility monitoring, without restriction, of the compliance with human rights standards of government facilities, such as:
+		(1) Government offices;
+		(2) Police and military stations, installations, camps, and bases and their training schools; and,
+		(3) Jails, prisons, detention facilities (including those inside military camps), police lock-up cells, youth homes, and any detention, rehabilitation, confinement, and other similar facilities; and
+	(g) Such other forms of monitoring as may be provided by the Rules of Procedure.
+
+**Sec. 35. Fact-Finding Mission.** - The Commission may create and conduct, at its own initiative, a fact-finding mission to obtain, objectively and impartially, detailed knowledge of relevant facts on human rights violations and abuses.
+
+**Sec. 36. Public Inquiry.** - The Commission may collect evidence, analyze documents, and examine witness testimonies in public inquiry on systemic or general human rights violations.
+
+**Sec. 37. Reporting.** - The Commission shall prepare, issue, and publish reports including but not limited to:
+
+	(a) Annual Reports, containing:
+		(1) Statistics and data indicating the nature of complaints received;
+		(2) Findings, results, and recommendations on the conduct of investigations, monitoring, and fact-finding missions;
+		(3) Identification and analysis of the factors which contributed to the human rights violations and abuses;
+		(4) Assessment of the legal mechanisms of government in providing adequate human rights protection; and
+		(5) Recommendations for legal, legislative, and institutional reforms for the greater promotion, respect, protection, and fulfillment of human rights.
+	(b) Public Inquiry Reports, which identify systemic or general human rights violations and abuses;
+	(c) Financial Reports, containing its financial statements, expenditures, and sources of funds;
+	(d) Special Reports, pertaining to human rights of particular group or specific human rights theme; and
+	(e) Such other reports as may be determined by the Commission.
+
+**Sec. 38. Reporting to International Human Rights Mechanisms.** - The Commission shall actively and regularly engage with the National Commission on Human Rights for sharing of information on the status of compliance with the human rights obligations and commitments for purposes of reporting to international human rights mechanisms such as the Human Rights Council, Special Procedures, Human Rights Committee, Committee on Economic, Social and Cultural Rights, Committee on the Elimination of Racial Discrimination, Committee on the Elimination of Discrimination against Women, Committee against Torture, Committee on Rights of Child, Committee on Migrant Workers, and Committee on Rights of Persons with Disabilities.
+
+**Advising the Government**
+
+**Sec. 39. Power to Advise the Government** - The Commission shall:
+
+	(a) Advise the government, in the form of findings, reports, and/or recommendations on the manner of implementation and compliance with its human rights obligations;
+	(b) Summon the government to explain the measures undertaken by its agency on human rights standards;
+	(c) Recommend international human rights treaties for signature, ratification, or accession by the government; and
+	(d) Submit its Annual Report to the Office of the President, Office of the Chief Minister, and the Parliament.
+
+**Sec. 40. Obligation to Respond.** - The government shall have the duty to respond to the advice of the Commission within a reasonable time. If the advice is addressed to the Parliament, it shall be calendared for parliamentary debate.
+
+**Sec. 41. Research and Policy Development.** - The Commission shall pursue research and policy development on various human rights issues for recommendation of appropriate action to relevant bodies of the government. For this purpose, it shall develop its knowledge, skills, abilities, tools, and technical approaches to research and policy development.
+
+**Protection of Human Rights Defenders**
+
+**Sec. 42. Safe and Enabling Environment.** - The Commission shall render services and assistance to human rights defenders. It shall take steps to ensure that the duty bearers comply with their obligation to create a safe and enabling environment in which human rights defenders, whether individually or in association with others, can operate free from harm, reprisals, hindrance, and insecurity. As such the Commission shall:
+
+	(a) Monitor and investigate the government and other duty bearers, including law enforcers and military forces, in the protection of human rights defenders;
+	(b) Provide free legal assistance to human rights defenders and/or assist in the filing of cases against the duty bearers in courts or administrative bodies;
+	(c) Issue preventive and mandatory measures for the protection of human rights defenders;
+	(d) Petition for the issuance of writs of *habeas corpus*, *Amparo*, or *habeas data* to protect human rights defenders;
+	(e) Recommend to the disciplining authority or the Civil Service Commission any possible administrative action for acts or omissions in the failure to protect human rights defenders;
+	(f) Adopt policies to protect the right to defend human rights; and
+	(g) Assess the effectiveness of and strengthen the government mechanisms for the protection of human rights defenders.
+
+**Transitional Justice Mechanism**
+
+**Sec. 43. Transitional Justice Mechanisms.** - Until such time that a law establishing the transitional justice mechanism for the Bangsamoro is enacted, the Commission shall perform the human rights component of the transitional justice mechanism as provided in Section 1, Article IX of Republic Act 11054. In this capacity, the Commission shall document and investigate past human rights violations; collect testimonial, object, or documentary evidence; provide information, data, and documents in relation thereto; provide research and technical support; and promote the transitional justice mechanism. It may also, at its discretion, conduct public inquiries on transitional justice.
+
+Once the transitional justice mechanism is established, the Commission shall make its terminal report and transfer the documents and other data on transitional justice thereto.
+
+**Coordination and Cooperation**
+
+**Sec. 44. Cooperation and Coordination with the National Commission on Human Rights.** - The Commission and the National Commission on Human Rights may enter into a Memorandum of Agreement (MOA) for cooperation and close coordination on matters of:
+
+	(a) Investigation, monitoring, fact-finding, or public inquiry, which can be pursued jointly;
+	(b) Mutual assistance in the gathering of testimonial, object, or documentary evidence;
+	(c) Mutual support for field duties in their respective areas of responsibilities;
+	(d) Sharing of records on clearances issued to the military, law enforcers, and other government personnel;
+	(e) Sharing of information, data, and documents;
+	(f) Referral of cases when the referring party has no jurisdiction or when there is forum shopping;
+	(g) Exchange of experiences on good practices and lessons learned on the promotion and protection of human rights;
+	(h) Capacity-building, technical assistance, and other forms of support;
+	(i) Dissemination of information, education, and communication materials; and
+	(j) Such other matters that shall ensure the holistic and unobstructed promotion and protection of human rights.
+
+	Pending such Memorandum of Agreement, the MOA entered into between the Regional Human Rights Commission (RHRC), created by virtue of Muslim Mindanao Autonomy (MMA) Act No. 288 otherwise known as ARMM Human Rights Commission Charter of 2012, and the National Commission on Human Rights shall define their relationship.
+
+**Sec. 45. *Civil Society.*** - The Commission shall actively cooperate and coordinate with the civil society and shall meet with civil society organizations quarterly.
+
+**Sec. 46. *International Human Rights Bodies.*** - The Commission shall, when requested, coordinate and cooperate with Human Rights Council, Office of the High Commissioner on Human Rights, Special Procedure, treaty-based bodies, International Committee on Red Cross, other international bodies, International Non-Government Institution, and such other International Organizations.
+
+**HUMAN RIGHTS CLEARANCE**
+
+**Sec. 47. *Human Rights Clearance.*** - In addition to the usual requirements for promotion or appointment of the members of the military, police, other law enforcement agencies, or government officials or employees, no promotion shall be considered by any appointing authority without a certification from the Commission that they have no pending cases therein or they have not been found guilty, by final judgment, of human rights violations or abuses.
+
+**TRANSITION FROM REGIONAL HUMAN RIGHTS COMMISSION TO BANGSAMORO HUMAN RIGHTS COMMISSION**
+
+**Sec. 48. *Transfer of Properties.*** - All assets, capital, records, accounts, contract funds, receivables, equipment, and facilities of the Regional Human Rights Commission (RHRC) of the Autonomous Region in Muslim Mindanao (ARMM) shall be transferred to the Bangsamoro Human Rights Commission. No liabilities shall be absorbed by the Commission.
+
+**Sec. 49. *Hold-Over Capacity.*** - The Chairperson and other responsible officers of the RHRC holding appointive positions shall continue to perform their functions in a hold-over capacity, subject to the implementation of the phase out in the Transition Plan approved by the Bangsamoro Transition Authority. The Chairperson of the RHRC shall not issue new appointments during the hold-over period.
+
+**Sec. 50. *Separation of the RHRC Personnel.*** - The separation of RHRC personnel shall be subject to the applicable incentives provided by Section 10, Article XVI of RA 11054.
+
+**Sec. 51. *Retirement of the RHRC Chairperson and Commissioners.*** - The Chairperson and the Commissioners of the RHRC, whose term of office shall be prematurely terminated, shall receive the same retirement benefits and privileges at a level not lower than those fixed for the Chairperson and Commissioners, respectively, of the RHRC., respectively, of the National Labor Relations Commission, in accordance with Section 10 of Muslim Mindanao Autonomy Act No. 288.
+
+**Chapter 2**
+**Bangsamoro Internal Auditing Body**
+
+**Sec. 52. Bangsamoro Internal Auditing Body.** - The Bangsamoro Internal Auditing Body (BIAB) is hereby created, to be headed by a Director III assisted by support staff.
+
+        The BIAB’s independence as an institution is guaranteed. It shall not be subject to interference, directly or indirectly, from any government or private entity.
+
+**Sec. 53. Mandate.** - Pursuant to Section 2, Article XII of the Bangsamoro Organic Law, the BIAB is established as an auditing body which shall have internal auditing responsibility in accordance with Republic Act No. 3456, otherwise known as the *"Internal Auditing Act of 1992,"* as amended or a similar law to be enacted by the Parliament. The Bangsamoro Government shall implement transparency and accountability mechanisms consistent with open government practices and generally accepted financial management principles.
+
+**Sec. 54. Powers and Functions.** - The Bangsamoro Internal Auditing Body shall have the following powers and functions: Conduct management and operations performance audit of the Bangsamoro Government activities and units and determine the degree of compliance with established objectives, policies, methods and procedures, government regulations, and contractual obligations of the Bangsamoro Government;
+
+        a. Review and evaluate the soundness, adequacy, and application of accounting, financial, and other operating controls in the Bangsamoro Government, and promote the most effective control at reasonable cost;
+        b. Review and appraise systems and procedures, organizational structures, asset management practices, financial and management records, reports, and performance standards of the Bangsamoro Government;
+        c. Analyze and evaluate management deficiencies and assist the Bangsamoro Government by recommending realistic courses of action;
+        d. Consult with relevant stakeholders of the Bangsamoro Government to ascertain the reliability and integrity of operation information reports submitted by the respective Internal Audit Divisions or Offices of BARMM Ministries/Offices/Agencies;
+        e. Maintain constructive cooperation with the Commission on Audit, which has constitutional mandate to perform audit functions; and
+        f. Perform such other related duties and responsibilities as may be assigned or delegated by the Bangsamoro Government, through the Chief Minister, or as may be required by law.
+
+**Sec. 55. Organizational Structure.** - The BIAB is composed of the Office of the Internal Auditor with the rank of Director III, as Head of Office, with two (2) divisions, which are: (a) the Operations Audit Division; and (b) the Management Audit Division, each headed by Division Chiefs.
+
+**Sec. 56. Qualifications.** - No person shall be appointed to the position of Director III in the Office of the Internal Auditor unless s/he is a resident and registered voter of what now constitutes the Bangsamoro Autonomous Region for at least three (3) years prior to appointment, at least 30 years of age, a CertifiedPublic Accountant or a regular member of the Philippine Bar or possesses a Master’s degree in Business Administration or Public Administration or Islamic Studies, with appropriate civil service eligibility, with at least five (5) years supervisory experience in audit operations and related works, and of proven honesty and integrity.
+
+**Sec. 57. Appointment.** - The Director III shall be appointed by the Chief Minister under coterminous status. However, the BIAB shall maintain a level of organizational independence to fulfill its responsibilities objectively.
+
+**Sec. 58. Relationship with Internal Auditors of BARMM Instrumentalities and Parliament.** - The Resident Internal Auditors of the BARMM ministries, offices, instrumentalities, and of the Parliament shall submit their monthly audit reports to the BIAB every tenth day of the succeeding month for consolidation. They shall observe the Bangsamoro Internal Audit Charter and Standards to be developed by the BIAB for uniform application among all ministries, agencies, and offices including the Parliament. For such purpose, the BIAB shall engage with the Resident Internal Auditors regularly to maintain a reporting relationship that is both substantive and communicative.
+
+**Sec. 59. Quarterly and Annual Reports.** - For administrative purposes, the BIAB shall report directly to the Chief Minister. The BIAB shall submit quarterly and annual reports to the Chief Minister and the Speaker of the Bangsamoro Parliament on the findings of the region-wide internal audit.
+
+**TITLE XVIII**
+**ADMINISTRATIVE SERVICES**
+
+**Chapter 1**
+**Human Resource Development and Management**
+
+**Sec. 1. Placement and Hiring Process.** - Appointments in all ministries, offices, agencies, and institutions in the Bangsamoro Government shall observe an independent, strictly merit-based, and credible placement and hiring process, and shall consider gender and ethnic balance.
+
+**Sec. 2. Recruitment.** - The recruitment of employees for appointment in the career and non-career positions in all agencies and offices of the Bangsamoro Government shall be open to all qualified men and women according to the principle of merit, fitness, and equality and shall be in accordance with existing Civil Service rules and regulations.
+
+        All BARMM ministries, agencies and offices shall promulgate their respective Merit Selection Plan (MSP) which shall embody the procedures, scope, and manner in determining the qualified applicant or candidate for appointment to first and second level positions in the career service.
+
+        It shall be guided by the following general policies:
+
+        a. There shall be equal opportunity for men and women at all levels of positions in the BARMM bureaucracy, provided they meet the minimum requirements of the position;
+        b. There shall be no discrimination in the selection of employees on account of his/her gender, civil status, disability, religion, ethnicity or political affiliation;
+        c. An applicant for employment in the first, second, and third level position, who is competent, qualified, and possesses the appropriate civilservice eligibility shall be considered for permanent appointment;
+        d. All candidates for appointment to first and second level positions in the line departments, agencies and offices shall be screened by the Personnel Selection Board (PSB) of the respective agency which shall be created by the agency or office in accordance with existing Civil Service law, rules, and guidelines;
+        e. The comparative competence and qualification of candidates for appointment shall be determined on the basis of:
+
+                i. Education and Training;
+                ii. Experience and Outstanding Accomplishments;
+                iii. Psycho-social Attributes and Personality Traits; and
+                iv. Background.
+
+        f. The appointing authority shall assess the merits of the PSB’s recommendation for appointment and in the exercise of sound discretion, select, in so far as practicable, from among the top five ranking applicants deemed most qualified for appointment to the vacant position; and
+        g. The ministry/office/agency shall submit through the Office of the Chief Minister, its proposed Merit Selection Plan to the Civil Service Commission (CSC) for approval.
+
+        However, recruitment and appointment of officials to third level positions shall be governed by pertinent provisions as provided for in the qualifications set forth in their respective ministries, agencies, commissions or offices. In addition, applicants to said third level positions must possess executive and managerial competence.
+
+**Sec. 3. Procedure.** - The pertinent provisions of the CSC’s Omnibus Rules on Appointments and Other Human Resource Actions shall be observed.
+
+**Sec. 4. Publication.** - The Bangsamoro ministries, agencies, and offices shall publish the vacant positions authorized to be filled and their corresponding qualification standards and plantilla item numbers in the CSC Bulletin of Vacant Positions in the Government in the CSC Website, the Bangsamoro Job Portal and/or through other modes of publication.
+
+        The same shall likewise be posted in three (3) conspicuous places within the Bangsamoro Autonomous Region for at least ten (10) calendar days.
+
+        Publication of a vacant position shall be valid until filled but not to exceed beyond nine (9) months reckoned from the date the vacant position was published. Should no appointment be issued within the 9-month period, the Bangsamoro Government has to cause the republication and reposting of the vacant position.
+
+**Sec. 5. Exemptions.** - The following positions are exempt from the publication requirement:
+
+        a. Primarily confidential;
+        b. Policy determining;
+        c. Highly technical;
+        d. Coterminous with that of the appointing authority/officer including other non-career positions such as contractual and casual identified under Sec. 9, Subtitle A, Title I, Book V of EO 292;
+        e. Reappointment (change of status to permanent) of those appointed on temporary status for Category II positions under CSC MC No. 11, s. 1996, as amended; or
+        f. Those to be filled by the existing regular employees in the agency in case of reorganization/rationalization; provided, the approved staffing pattern is posted in the agency bulletin boards and other conspicuous places in its offices.
+
+**Sec. 6. Basis for Evaluation.** - The selection line up shall reflect the comparative competence and qualification of candidates on the basis of:
+
+        a. Education [30%] – include educational background which must be relevant to the duties of the position to be filled.
+        b. Training [10%] – include successful completion of accredited training courses which must be relevant to the duties of the position to be filled.
+        c. Experience [20%] – include occupational history, relevant work experience acquired either from the government or the private sector, and accomplishments worthy of special commendation.
+        d. Competency [Examination (10%), Interview (10%) and Moral Values (20%)] [40%] – refers to the measurable or observable knowledge, skills, abilities, and behaviors of employees or staff critical to specific desired outcomes defined in every position/item commonly known as successful job performance. This is coupled by the commitment of the personnel to perform and to act in a wide variety of situations. Examination and interview shall be mandatory for positions with Salary Grade 10 and above.
+
+**Sec. 7. Placement to Entry Positions.** -
+
+        a. The Bangsamoro Job Portal shall serve as the main platform for accepting job applications for placement to vacant positions.
+        b. Job applications submitted personally to the ministries and offices must be processed and uploaded to the Bangsamoro Job Portal. For this purpose, a Bangsamoro Job Portal Help Desk must be setup by the respective ministries and offices to assist the prospective applicants.
+        c. Job applications and documents that are not registered and uploaded to the Bangsamoro Job Portal may still be considered.
+        d. Each Ministry, Office, or Agency shall have their respective Recruitment, Selection and Placement Board (RSPB) which shall deliberate the positions, and screen applications.
+        e. A representative from the Office of the Chief Minister shall sit in the RSPB of the respective ministries and offices.
+        f. The RSPB at the level of the ministries, offices, and agencies shall deliberate all positions and screening applications regardless of Salary Grade; however, for positions with Salary Grade 25, the ministries, offices, and agencies shall submit the top five (5) candidates to the Chief Minister for final review, selection, and appointment.
+        g. The duly constituted RSPB/Committee shall, thereafter:
+
+                i. Notify all applicants of the outcome of the preliminary evaluation;
+                ii. Submit the selection line up to the RSPB/Committee for deliberation en banc;
+                iii. The RSPB/Committee en banc shall then make a systematic assessment of the competence and qualifications of candidates for appointment to the corresponding level of positions; and
+                iv. Evaluate and deliberate en banc the qualification of those listed in the selection line up, and submit the list of candidates recommended for appointment, specifying the highest five (5) qualified candidates whose over-all point scores are comparably at par, from which the appointing authority shall choose the applicant to be appointed.
+
+        h. The Appointing Authority shall assess the merit of the RSPB/Committee’s recommendee for appointment and in the exercise of sound discretion, select, in so far as practicable, from among the top five (5) ranking applicants deemed most qualified for appointment to the vacant position;
+        i. The Appointing Authority shall issue appointments in accordance with the provisions of these Code; and
+        j. The RSPB/Committee shall post a notice announcing the appointment of an employee in three (3) conspicuous places in the Bangsamoro Government Center a day after the issuance of the appointment for at least fifteen (15) days.
+
+**Sec. 8. Filling-up of Positions.** - In addition, the following reminders and guidelines are hereby provided in filling up of positions in the Agency’s Staffing Pattern:
+
+        a. The appointing authority shall designate competent and qualified personnel to serve as members of the RSPB/Committee only in cases when there are no appointed/designated personnel holding positions identified to be members of the RSPB as suggested in the 2017 Omnibus Rules on Appointments and Other Human Resource Actions (ORAOHRA); and
+        b. In the event that an RSPB/Committee member is also a candidate for a specific vacant position, the appointing authority shall designate another competent member to replace the concerned member during the deliberations of the specific position.
+
+**Sec. 9. Services to be Outsourced.** - In lieu of filling up vacant items, certain services may be outsourced on a need basis, through the hiring of consultants/job order (JO)/contract of service (COS) personnel, where no employer-employee relationship exists, subject to the availability of funds for Maintenance and Other Operating Expenses (MOOE), and provided it is consistent with the following:
+
+        a. Services/areas, which can be outsourced are limited to utility, building and grounds maintenance, messengerial, security, transportation/mobility, and information technology;
+        b. Pertinent budgetary, civil service, accounting and auditing rules and regulations;
+        c. For functions identified to be performed by regular plantilla items, COS/JO personnel may be allowed to perform the functions. However, heads of offices will not be allowed to fill up the regular plantilla items; and
+        d. Service contract shall follow the existing guidelines on hiring COS and JO employees, i.e. “no work, no pay” basis, no employer-employee relationship.
+
+**Sec. 10. Rehiring of Retired/Separated Personnel.** - As a reiteration of Sec. 10, Art. XVI of RA No. 11054, “affected personnel who are retired or are separated from the service shall not be re-employed in any agency of the Bangsamoro Government or the National Government, including government-owned or -controlled corporations for a period of five (5) years. The retired or separated personnel who are re-employed during the prohibited period shall refund, on a pro-rated basis, the separation incentives they received x x x”.
+
+**Sec. 11. Promotion.** - An employee may be promoted or transferred to a position which is not more than three (3) salary steps or job rate higher than the employee’s present position, except in very meritorious cases, such as, if the vacant position is next-in-rank as identified in the System of Ranking Positions approved by the head of the agency or office, or the lone or entrance position indicated in the agency’s staffing pattern.
+
+        a. Before being considered for promotion, an employee should have rendered at least a very satisfactory performance in his/her present position for the last rating period;
+        b. The appointing authority may appoint an applicant who is not the next-in-rank but possesses superior qualification/s and competence, and has undergone the selection process;
+        c. An employee who is on local or foreign scholarship or training grant or on a maternity leave may be considered for promotion. The performance rating of the concerned employee shall be his/her rating immediately prior to the scholarship or training grant or maternity leave. His/her promotion shall be in effect upon assumption to duty; and
+        d. Promotion within six (6) months prior to compulsory retirement shall not be allowed, except as otherwise provided by law.
+
+**Sec. 12. Grievance.** - Grievance which refers to work related issued giving rise to employee dissatisfaction shall be acted upon by the agency/office based on the following guidelines:
+
+        a. A grievance shall be resolved expeditiously at all times at the lowest level possible in any agency/office of the BARMM. However, if not settled at the lowest level possible, an aggrieved party shall present his/her grievance step by step following the hierarchy of positions;
+        b. All agencies shall establish a Grievance Machinery which is the best way to address grievance between or among government officials and employees to be approved by the Civil Service Commission;
+        c. The aggrieved party shall be assured freedom from coercion, discrimination, reprisal and biased action on grievance;
+        d. Grievance proceedings shall not be bound by legal rules and technicalities. Even verbal grievance must be acted upon expeditiously. The services of a legal counsel shall not be allowed;
+        e. A grievance shall be presented verbally or in writing in the first instance by the aggrieved party to his/her immediate supervisor. The latter shall, within three (3) working days from the date of presentation, inform verbally the aggrieved party of the corresponding action;
+        f. If the party being complained of is the immediate supervisor, the grievance shall be presented to the next higher supervisor;
+        g. A Grievance Committee shall be created by every agency/office and shall be composed of permanent officials and employees, whenever applicable, based on his/her integrity, probity sincerity and credibility;
+        h. The agency Grievance Committee shall develop and implement pro-active measures that would prevent grievance, such as employee assembly which shall be conducted at least every quarter, “talakayan”, counseling, Human Resource Development (HRD) interventions, and other similar activities;
+        i. The Human Resource Management Office, in collaboration with the agency’s Grievance Committee, shall conduct continuing information drive on grievance machinery among its officials and employees;
+        j. The Grievance Committee shall establish its own internal rules, procedures and strategies. Membership in the Committee shall be considered part of the members’ regular duties;
+        k. The following cases are considered as work-related grievance which may be referred to the Committee:
+
+                i. Non-implementation of policies, practices, and procedures on terms and conditions of employment fixed by law, including salaries, incentives, working hours, leave benefits, and other related personnel concerns;
+                ii. Non-implementation of policies, practices and procedures which affect the employees from recruitment to promotion, detail, transfer, retirement, termination, lay-off and other related issues that affect them;
+                iii. Physical working conditions;
+                iv. Interpersonal relationships and linkages;
+                v. Protest on appointment; and
+                vi. All other matters giving rise to employee dissatisfaction and discontentment outside of those cases enumerated above.
+
+        l. The following cases, however, shall not be acted upon through the Grievance Committee:
+
+                i. Disciplinary cases which shall be resolved pursuant to the Uniform Rules on Administration Cases;
+                ii. Sexual harassment cases as provided for in RA 7877, RA 11313 or other similar laws passed by the Parliament; and
+                iii. Union related issues and concerns.
+
+**Sec. 13. Strategic Performance Management System.** - In line with the policies of the Civil Service Commission, all BARMM ministries, agencies, and offices shall adopt a Strategic Performance Management System geared towards continuously fostering improvement of organizational performance, employee effectiveness and efficiency, and provision of an objective performance rating at individual and team levels as basis for performance appraisal and recognition.
+
+        The SPMS shall be guided by the following policies and procedures:
+
+        a. The SPMS shall adhere to a results-based performance approach;
+        b. The agency/office shall operate on the basis of the shared commitments and objective measures of performance results. Performance targets and standards or measures of results are planned and agreed upon by the management, supervisors and employees and in accordance to the agency organizational goals and mandates;
+        c. The SPMS shall recognize the role of multi-stakeholders in its objective assessment and feed-backing on individual employee performance;
+        d. The SPMS shall apply to all employees in the career service in a certain rating period, as may be determined by the agency/office. It may also apply to employees in the non-career service, whenever appropriate;
+        e. A Strategic Performance Management Review Team (SPMRT) shall be created in each agency/office and whose membership shall be determined by the agency/office head. It shall formulate appropriate procedures and mechanism to be observed in implementing the SPMS; and
+        f. The SPMRT shall review the comparative assessments of employees’ performance targets to ensure rationalization of employee workload, particularly of those holding similar positions and working under the same work conditions and recommends necessary modifications or corrective action, if necessary.
+
+**Sec. 14. Incentives.** - The Bangsamoro Government shall adopt the Program on Awards and Incentives for Service Excellence (PRAISE) in line with the Revised Policies on Employee Suggestions and Incentives Awards System (ESIAS) as provided by the Civil Service Commission’s rules and regulations.
+
+        a. The PRAISE shall adhere to the principle of providing incentives and awards based on performance, innovative ideas, and exemplary behavior of the deserving employees;
+        b. It shall encourage, recognize and reward employees, individually or in groups, for their suggestions, innovative ideas, inventions, discoveries, superior accomplishments, heroic deeds, exemplary behavior, extraordinary acts or services in the public interest and other personal efforts which contribute to the efficiency, economy, and improvement in government operations, which lead to organizational productivity;
+        c. It shall be institutionalized in every BARMM ministry/agency/office through the creation of a PRAISE Committee composed of key officials of the agency/office and two (2) representatives from the rank-and-file, one (1) from the first level and one (1) from the second level. The representatives shall be chosen by the employees belonging to their respective level; and
+        d. The Committee shall be responsible for the development, administration, monitoring and evaluation of the awards and incentives system of the agency. The agency, may, however, employ an external or independent body to assist in objectively implementing the system.
+
+**Chapter 2**
+**Procurement Management System**
+
+**Sec. 15. Procurement Policy.** - It is the policy of the Bangsamoro Government to promote greater transparency, accountability, efficiency and equal opportunity in the government procurement system in consonance with the provisions of R.A. 9184 or the Government Procurement Reform Act, aimed to safeguard government public resources against loss or wastage due to graft and corruption, thereby generating substantial savings in the coffers of the Bangsamoro Government.
+
+**Sec. 16. Scope and Coverage.** - The Procurement Management System shall govern all procurement of the Bangsamoro Government, ministries, bureaus, agencies, offices and LGUs in terms of Civil Works, Goods, Supplies, Materials, and related services and consulting services.
+
+**Sec. 17. Creation of Bids and Awards Committee (BAC).** - As a general rule, there shall be a single BAC in each ministry of the Bangsamoro Government with the following functions:
+
+        a. Advertise and/or post the invitation to bid;
+        b. Conduct pre-procurement and pre-bid conferences;
+        c. Determine eligibility of bidders;
+        d. Receive and open bids;
+        e. Conduct evaluation of bids;
+        f. Undertake post-qualification;
+        g. Recommend Award of the Contract to the Head of Procuring Entity (HOPE);
+        h. Recommend the imposition of sanctions; and
+        i. Such other functions as provided by law.
+
+**Sec. 18. Composition of the BAC.** - The BAC shall be composed of five (5) members, three (3) of whom shall be regular members and the two (2) shall be provisional members.
+
+        The Chairperson shall be at least a 3rd ranking official of the Agency and the members shall be at least a 5th ranking permanent personnel.
+
+        **(1) Regular Members:**
+
+                The regular members shall be composed of:
+
+                Chairperson – who shall serve for three (3) years
+                1st Member – who shall serve for two (2) years
+                2nd Member – who shall serve for one (1) year
+                Thereafter, all regular members shall serve for a fixed term of three (3) years.
+
+        Technical, financial and legal areas of the agency shall each be represented in the fixed term/regular members. In case of resignation, retirement, separation, transfer, suspension, leave of at least six (6) months, the replacement shall serve only for the unexpired term. One of the regular members may be designated as Vice-Chairperson.
+
+        **(2) Provisional Members:**
+
+                The two (2) provisional members shall be technical members from the project end-user/Project Management Office.
+
+        **(3) Observers:**
+
+                Aside from the five (5) members of the BAC, there shall be two (2) observers from relevant sectors with no direct or indirect interest in the contact to be bid, who shall sit and monitor in the proceedings. The observers shall sit as non-voting members of the BAC.
+
+**Sec. 19. BAC Secretariat.** - There shall be created a BAC Secretariat who shall act as the main support unit of the BAC. The Head of the Secretariat in the ministries shall be at least a 5th ranking official while in the bureaus and provincial offices s/he shall be at least a 3rd ranking official.
+
+        The BAC Secretariat shall have the following functions:
+
+        a. Provide administrative support for the BAC;
+        b. Organize and make necessary arrangements for the BAC meetings;
+        c. Attend BAC meetings;
+        d. Prepare minutes of the BAC meetings;
+        e. Take custody of procurement documents;
+        f. Manage procurement processes for the BAC;
+        g. Monitor procurement activities and make proper report;
+        h. Make arrangements for pre-procurement, pre-bid and bid-opening; and
+        i. Central channel of communication.
+
+**Sec. 20. BAC Technical Working Group (TWG).** - The BAC shall also create a Technical Working Group which shall assist in the eligibility screening and evaluation of bids. The BAC TWG has a Jury Duty wherein its members shall give utmost priority to BAC assignments over all other duties and responsibilities and shall assist in the continuous procurement process.
+
+**Sec. 21. Administrative Penalties for Bidders and Prospective Bidders.** - The Procurement System of the Bangsamoro Government shall also adopt measures to penalize erring bidders.
+
+**Sec. 22. Grounds for Suspension of Bidders.** - Any of the following shall be a ground to suspend bidders:
+
+        a. Submission of eligibility requirements containing false information or false documents;
+        b. Submission of bids that contain false information or falsified documents, or concealment thereof;
+        c. Use of another name or allowing another bidder to use its name;
+        d. Withdrawal of bid or refusal to accept an award;
+        e. Refusal to post performance bond;
+        f. Termination of the contract due to its default;
+        g. Documented unsolicited attempt by a bidder to unduly influence the outcome of the bidding; and
+        h. Other acts that tend to defeat the purpose of the bidding.
+
+**Sec. 23. Appeal.** - The decision of the BAC in all stages of procurement maybe appealed in writing by the bidders to the Head of the Agency. The appeal shall be made in writing by filing of Position Paper containing the following:
+
+        Name of Bidder:
+        Office Address:
+        Name of Project:
+        Contract Number:
+        Facts of the complaint:
+
+        The decision of the head of agency shall be appealable to the Chief Minister whose decision shall be final.
+
+**Sec. 24. Sanctions and Accountabilities.** - The Procurement Management System of the Bangsamoro Government shall also provide for administrative sanctions and stiffer penalties in terms of fine and imprisonment for all who do not abide by the provisions stated by law.
+
+**Chapter 3**
+**Financial Management System**
+
+**Sec. 25. Fiscal Policy.** - The Bangsamoro Government, in consonance with the budget system of the national government, shall adopt a regional budget system consisting of methods and practices of the government for planning, programming and budgeting. It shall include the adoption of sound economic and fiscal policies and the execution of programs and projects geared towardsthe accomplishment of political, economic, and social objectives. Its primary concern is the availability of use of money to provide the services required as expected from the government.
+
+        The budget system of the Bangsamoro Government shall be interlinked with other systems or techniques of national government to accomplish its objectives. The systems of accounting, personnel administration are essential to the effective operation of the budget system.
+
+        Under this system, the Bangsamoro Government shall carry out all government activities under a comprehensive fiscal plan, which are authorized, developed and executed in accordance with the constitution and the provisions of the Bangsamoro Organic Law, prevailing statutes and the principles of sound public management. It shall provide for periodic review and disclosure of the fiscal position of the government in such detail that fiscal officers entrusted by law with the responsibility of managing the fiscal affairs of the Bangsamoro Government can determine its true financial position.
+
+**Sec. 26. Budgeting Process.** - The budgeting process shall consist of budget preparation, authorization, execution, and accountability. The process shall consist of the following:
+
+        a. Budget Preparation - Preparation of budget estimates
+        b. Budget Authorization - Legislative authorization of the budget
+        c. Budget Execution - Allotment of the appropriations incurrence of obligations
+        d. Budget Accountability - Reporting on actual performance against plans
+
+**Sec. 27. Fiscal Year.** - The fiscal year of the Bangsamoro Autonomous Region shall cover the period January 1 to December 31 of every year, in consonance with the fiscal year of the national government.
+
+**Chapter 4**
+**Property, Facilities and Equipment Management**
+
+**Sec. 28. Property Ownership.** - The land, permanent buildings or structures, facilities and equipment owned, controlled, administered, or in the possession of the Bangsamoro Government, including those transferred and formerly owned, held, administered, or controlled by the defunct autonomous government in Regions IX and XII and the properties and assets of offices previously devolved to the former ARMM shall remain the property of the Bangsamoro Government.
+
+        As much as practicable, these properties shall be saved, retained, developed and managed in pursuit to an effective and efficient delivery of services and governance.
+
+**Sec. 29. Disposition of Real Properties located outside the Bangsamoro Autonomous Region.** - In the event the Bangsamoro Government decides to dispose the real properties owned, controlled and administered by it located outside the Bangsamoro Autonomous Region, these properties shall be disposed in accordance with existing pertinent laws, rules and regulations of the Bangsamoro Government.
+
+**Chapter 5**
+**Gender and Development**
+
+**Sec. 30. Gender and Development.** - In the utilization of public funds, the Bangsamoro Government shall ensure that the needs of the Bangsamoro people, regardless of gender, are adequately addressed. For this purpose, at least five percent (5%) of the total budget appropriation of each ministry, office, and constituent local government unit of the Bangsamoro Autonomous Region shall be set aside for gender-responsive programs, in accordance with a gender and development plan. In the same manner, five percent (5%) to thirty percent (30%) of the official development assistance received by the Bangsamoro Government shall be set aside to complement the gender and development budget allocation.
+
+        The Bangsamoro Government, through the Bangsamoro Women Commission, shall establish a mechanism for consultation with women and local communities to further ensure the allocation and proper utilization of development funds. It shall identify and implement special development programs and laws for women.
+
+**TITLE XIX**
+**NATIONAL GOVERNMENT AGENCIES IN THE BARMM**
+
+**Chapter 1**
+**Civil Service Commission for BARMM**
+
+**Sec. 1. Civil Service Commission for BARMM.** - The Bangsamoro Government recognizes the establishment of the Civil Service Commission for BARMM (CSC for BARMM) that exercises powers and duties granted by the Philippine Constitution and in consonance with Executive Order No. 292.
+
+**Sec. 2. Bangsamoro Civil Service Code.** - The Bangsamoro Parliament shall also enact a Bangsamoro Civil Service Code, as provided in the Bangsamoro Organic Law, subject to the Constitutional mandate of the Civil Service Commission.
+
+        In cases of abolition of positions and the creation of new ones resulting from the abolition of existing positions in the Bangsamoro Government, such abolition or creation shall be made in accordance with Section 10, Article XVI of the Bangsamoro Organic Law. The provisions of civil service laws, rules, and regulations shall apply suppletorily.
+
+**Chapter 2**
+**Bangsamoro Electoral Office**
+
+**Sec. 3. Bangsamoro Electoral Office.** - The Commission on Election shall establish a Bangsamoro Electoral Office under its supervision and control which shall implement and enforce its orders, rulings and decisions. The budget of the Bangsamoro Electoral Office shall be part of the yearly budget of Commission on Elections.
+
+**Sec. 4. First Regular Election.** - The first regular election for the Bangsamoro Government under this Organic Law shall be held and synchronized with the 2022 national elections. The Commission on Elections, through the Bangsamoro Electoral Office, shall promulgate rules and regulations for the conduct of the elections, enforce and administer them pursuant to national laws, this Organic Law and the Bangsamoro Electoral Code.
+
+**Chapter 3**
+**Police Regional Office in the Bangsamoro Autonomous Region**
+
+**Sec. 5. Public Order and Safety.** - The Bangsamoro Government recognizes the establishment by the Philippine National Police of a Police Regional Office in the Bangsamoro Autonomous Region, which shall be organized, maintained, supervised, and utilized for the primary purpose of law enforcement and maintenance of peace and order in the Bangsamoro in accordance with Republic Act No. 6975, otherwise known as the *"Department of Interior and Local Government Act of 1990"* as amended by Republic Act No. 8551, otherwise known as the *"Philippine National Police Reform and Reorganization Act of 1998."* It shall be under the direct operational control and supervision of the Philippine National Police.
+
+**Sec. 6. Police Regional Director.** - The Police Regional Office in the Bangsamoro Autonomous Region shall be headed by a Regional Director who shall, upon consultation with the Chief Minister, be appointed in accordance with Republic Act No. 6975, as amended.
+
+**Sec. 7. Regional Office of the National Police Commission.** - The Bangsamoro Government recognizes the establishment by the National Police Commission of a Bangsamoro Regional Office under its direct control, supervision, and administration, in accordance with Republic Act No. 6975, as amended. The Secretary of the Interior and Local Government shall appoint a Regional Director who shall head the National Police Commission Bangsamoro Regional Office.
+
+        The National Police Commission Bangsamoro Regional Office shall have the power to investigate complaints against members of the Police Regional Office in the Bangsamoro Autonomous Region. Appeals from the decisions of the National Police Commission Bangsamoro Regional Office shall be filed with the National Police Commission. Pending resolution of the appeal, the decision of the National Police Commission Bangsamoro Regional Office may be executed.
+
+**Sec. 8. Consultation with the Chief Minister on Police Matters Affecting the Police Regional Office in the Bangsamoro Autonomous Region.** - The National Police Commission shall consult the Chief Minister on police matters affecting the Police Regional Office in the Bangsamoro Autonomous Region.
+
+**Chapter 4**
+**Jail Management and Penology**
+
+**Sec. 9. Jail Management and Penology.** - The Bangsamoro Government recognizes the establishment by the Bureau of Jail Management and Penology of a regional office in the Bangsamoro Autonomous Region under its direct operational and administrative control and supervision, in accordance with Republic Act No. 6975, as amended, and Republic Act No. 9263, otherwise known as the *"Bureau of Fire Protection and Bureau of Jail Management and Penology Professionalization Act of 2004."* The Bureau of Jail Management and Penology shall support the regional office in the establishment, maintenance, and improvement and procurement of jail facilities, the appropriation for the subsistence of detainees and prisoners, the establishment, maintenance, operation, and management of separate detention homes, and the designation of jail wardens.
+
+**Chapter 5**
+**Fire Protection**
+
+**Sec. 10. Fire Protection.** - The Bangsamoro Government recognizes the establishment by the Bureau of Fire Protection of a regional office in the Bangsamoro Autonomous Region under its direct operational and administrative control and supervision, in accordance with Republic Act No. 6975, as amended and Republic Act No. 9263. The Bureau of Fire Protection shall support the regional office in the establishment maintenance, and improvement and procurement of fire protection and prevention facilities, the enforcement of Republic Act No. 9514, otherwise known as the *"Fire Code of the Philippines of 2008,"* other existing laws on fire safety enforcement, protection and prevention.
+
+**Chapter 6**
+**Coast Guard Services**
+
+**Sec. 11. Coast Guard.** - The Bangsamoro Government recognizes the establishment by the Philippine Coast Guard of a regional office in the Bangsamoro Autonomous Region which shall be organized, maintained, supervised, and utilized for the primary purpose of law enforcement over coast guard matters. It shall be under the direct operational and administrative control and supervision of the Philippine Coast Guard.
+
+**Chapter 7**
+**Local Government Finance**
+
+**Sec. 12. Local Government Finance.** - The Bangsamoro Government recognizes the creation by the Department of Finance of a Bangsamoro Regional Office of the Bureau of Local Government Finance in the Bangsamoro Autonomous Region which shall have the authority to coordinate, assist, and monitor the treasury and assessments operations of constituent local government units within the Bangsamoro Autonomous Region in pursuance of good governance and local autonomy.
+
+        The regional office shall be guided by the standards set by the Department of Finance-Bureau of Local Government Finance including the requirements set for the appointment of local treasurers.
+
+**TITLE XX**
+**GOVERNMENT-OWNED OR -CONTROLLED CORPORATIONS**
+
+**Sec. 1. Creation of Government-Owned or -Controlled Corporations.** – Upon coordination with the national government, the Parliament shall have the power to create government-owned or -controlled corporations in compliance with the provisions of Republic Act No. 10149, otherwise known as the *"GOCC Governance Act of 2011"* by a grant of legislative charter or under Batas Pambansa Blg. 68, otherwise known as *"The Corporation Code of the Philippines”*: Provided, That those duly registered with the Securities Exchange Commission may likewise operate outside the Bangsamoro Autonomous Region.
+
+        The Parliament may create pioneer firms and other business entities to boost economic development in the Bangsamoro Autonomous Region.
+
+**Sec. 2. Existing Government-Owned or -Controlled Corporations Operating Exclusively in the Bangsamoro Autonomous Region.** - The Bangsamoro Government shall have the authority and control over existing government-owned or -controlled corporations operating exclusively in the Bangsamoro Autonomous Region after determination by the Intergovernmental Fiscal Policy Board of their feasibility: Provided, That they shall have the option to transfer their operations outside of the Bangsamoro Autonomous Region, which shall be effected through the necessary changes in their governing boards.
+
+**Sec. 3. Existing Government-Owned or -Controlled Corporations in the Bangsamoro Autonomous Region.** - The Bangsamoro Government shall be represented in the board of directors or in the policy-making bodies of government-owned or -controlled corporations that operate a substantial portion of their business directly or through their subsidiaries in the Bangsamoro Autonomous Region or where the Bangsamoro Government has a substantial interest.
+
+        The Intergovernmental Fiscal Policy Board shall determine the extent of the participation of the Bangsamoro Government as well as its shares from the results of the operations of these corporations and their subsidiaries based on a formula that it shall determine: Provided, That the Bangsamoro Government shall have at least one (1) seat in the governing boards of the said corporations.
+
+**BOOK VII**
+**GENERAL PROVISIONS**
+
+**Chapter 1**
+**Applicability**
+
+**Sec. 1. Scope.** - This Code shall be applicable to all Ministries, Agencies, Commission, Bureaus, and Offices of the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**Sec. 2. Gender.** - Where a masculine noun or pronoun is used in this Code, it shall likewise imply and include the corresponding feminine gender.
+
+**Sec. 3. Collection and Remittance.** - Fees, charges, levies, taxes, dues and other income collected and received by income-generating agencies and GOCCs of the BARMM shall be remitted to the account of the Bangsamoro Treasury Office. The manner and regularity of remittance shall be in accordance with existing laws, rules and regulations relative thereto.
+
+**Chapter 2**
+**Amendments or Revisions**
+
+**Sec. 4. Amendments or Revisions.** - Any amendment to, revision, or repeal of this Code shall be made by law enacted by the Bangsamoro Parliament.
+
+**Chapter 3**
+**Transitory Provisions**
+
+**Sec. 5. Repealing Clause.** - All laws, decrees, orders, rules and regulations, or portions thereof, inconsistent with this Code are hereby repealed or modified accordingly.
+
+**Sec. 6. Separability Clause.** - In the event that any of the provisions of this Code is declared unconstitutional, the validity of the other provisions shall not be affected by such declaration.
+
+**Sec. 7. Effectivity.** - This Code shall take effect fifteen (15) days after its publication in a Newspaper of General or Regional Circulation.
+
+APPROVED.
+
+**ATTY. ALI PANGALIAN M. BALINDONG**
+Speaker
+
+This Act was passed by the Bangsamoro Parliament on October 28, 2020.
+
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+APPROVED:
+
+**AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+Date: 11-09-2020
+
