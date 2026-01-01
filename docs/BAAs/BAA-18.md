@@ -655,3 +655,334 @@ Graduates with honors (*summa cum laude, magna cum laude* and *cum laude*) from 
 
 **Section 121. Madrasah Improvement Program.** – *Madaris* shall be required to use the results of the accreditation as basis for the development of the School/*Madrasah* Improvement Plan (MIP).
 
+**VIII. ALTERNATIVE LEARNING SYSTEM**
+
+**CHAPTER 1**
+**General Provision**
+
+**Section 122. Alternative Learning System for Basic Education (ALS).** – The Ministry shall establish, manage, and supervise the Alternative Learning System as a separate pathway from the formal education systems to provide all Bangsamoro people the chance to have access to and complete basic education that fits their distinct situation and needs.
+
+**Section 123. The Curriculum of the ALS.** – The Ministry shall develop the curriculum for the ALS for basic education, which shall emphasize the inclusion of livelihood subjects and the adoption of a modular scheme of learning.
+
+**Section 124. Community-Based Approach.** – The Ministry shall work closely with the local communities and local government units in the development and operationalization of the ALS Program.
+
+**Section 125. Guidance for ALS Implementation.** – The Ministry shall develop guidelines and provide technical support for the implementation of the ALS.
+
+**Section 126. Equivalency Examination.** – The Ministry shall administer the equivalency exam to certify the completion and achievement of the learners of primary and secondary education levels.
+
+**Section 127. Integration of Tahfidz Al-Quran.** – *Tahfidz Al-Quran* is hereby recognized as an alternative delivery mode of education under the ALS and shall be integrated into the educational framework of the Bangsamoro Autonomous Region. *Tahfidz Al-Quran* Learning Schools shall be regulated and supervised. The Ministry may provide appropriate support to *Tahfidz Al-Quran* Learning Schools. The ministry shall develop and prescribe curriculum for *Tahfidz Al-Quran* and ensure its effective implementation in the region.
+
+**CHAPTER 2**
+**Infrastructure (Community Learning Centers)**
+
+**Section 128. Establishment of Community Learning Centers.** – Community Learning Center refers to a physical space to house learning resources and facilities of a learning program for out-of-school youth and adults. It is a venue for face-to-face learning activities and other learning opportunities for community development and improvement of the people’s quality of life.
+
+The Ministry shall establish at least one (1) Community Learning Center per municipality/city. The Community Learning Centers shall have areas for females, males, young, and old learners in order for them to learn comfortably and effectively.
+
+**IX. HIGHER EDUCATION**
+
+**CHAPTER 1**
+**General Provision**
+
+**Section 129. Declaration of Policy.** – The Bangsamoro Government shall protect, foster, and promote citizens’ right to affordable quality education and shall take appropriate steps to ensure that education shall be accessible to all. The Bangsamoro Government shall likewise provide and protect academic freedom. It shall promote its exercise and observance for the continuing intellectual growth, the advancement of learning and research, the development of responsible and effective leadership, the education of high-level and middle-level professionals, and the enrichment of our historical and cultural heritage.
+
+State-supported institutions of higher learning shall gear their programs to national, regional, or local development plans. Finally, all higher educational institutions shall exemplify through their physical and natural surroundings the dignity and beauty of as well as their pride in, the intellectual and scholarly life.
+
+**Section 130. Coverage.** – The Ministry shall cover all Higher Educational Institutions (HEIs) that were under CHED-ARMM such as State Universities and Colleges (SUCs), CHED-Supervised Higher Educational Institutions (CHEIs), CHED-ARMM/BARMM Supervised Institutions (BSIs), Private Higher Educational Institutions in (PHEIs), Islamic Higher Education and Transnational Higher Education Institutions as well as tertiary degree programs in all post-secondary institutions in the BARMM.
+
+**Section 131. Transfer of Powers and Functions.** – Subject to national policies, the powers and functions devolved to CHED-ARMM pertaining to higher education stipulated in Executive Order No. 315, series of 1996 and its Implementing Rules and Regulations embodied in CHED Administrative Order No. 8, series of 1996, under RA 7722, are hereby transferred to the Ministry. Specifically, such transfer of functions shall include, among others:
+
+All programs and projects of the previous CHED-ARMM, whether locally-funded or foreign-assisted, in the BARMM, earmarked for or to be implemented in the region, including scholarships and grants, shall be transferred to the Ministry, including its corresponding budgets and assets.
+
+The Ministry shall avail of the Higher Education Development Fund (HEDF), established under Section 10 of RA 7722, based on CHED-approved projects and programs. The fund shall be administered in accordance with the guidelines of the CHED. 
+
+The budget and allocations of CHED-ARMM/BARMM supervised Higher Education Institutions in the region shall be transferred to the Ministry.
+
+**Section 132. Powers and Functions of the Ministry.** – The Ministry shall have the following powers and functions:
+
+a. Formulate and recommend to the executive and legislative authorities of BARMM development plans, policies, priorities, grants, and programs on higher education and research, including higher Islamic Education, in the BARMM;
+b. Recommend to the Executive and Legislative authorities of BARMM, priorities, and grants on higher education and research;
+c. Set minimum standards for programs in and institutions of higher learning for the higher Islamic education;
+d. Monitor and evaluate the performance of programs and institutions of higher learning in the BARMM and recommend appropriate incentives as well as the imposition of sanctions such as, but not limited to, a diminution or withdrawal of subsidy, a downgrading or withdrawal of accreditation, program termination, or closure of HEI;
+e. Identify, support, and develop potential centers of excellence in the program areas in the BARMM needed for the development of world-class scholarship, nation-building, and national development;
+f. Direct or re-direct purposive research by institutions of higher learning within BARMM to meet the needs of agro-industrialization and development;
+g. Review the charters of an institution of higher learning and state universities and colleges, and local colleges and universities, including the chairmanship and membership of their governing bodies, and recommend the appropriate measures as the basis for necessary action;
+h. Recommend to the Ministry of Finance, Budget, and Management the budgets of public institutions of higher learning as well as general guidelines for the use of their income;
+i. Rationalize programs and institutions of higher learning and set standards, policies, and guidelines for the creation of new ones as well as the conversion or elevation of schools to institutions of higher learning, subject to budgetary limitations and the number of institutions of higher learning in the province or region where creation, conversation or elevation is sought to be made;
+j. Develop criteria for allocating additional resources such as research and program development grants, scholarships, and other similar programs provided, however, that these shall not detract from the fiscal autonomy already enjoyed by colleges and universities within BARMM;
+k. Devise and implement resource development schemes for higher learning in the BARMM;
+l. Administer the Higher Education Development Fund and other funds intended for the promotion of higher learning in the BARMM;
+m. Create offices in Basilan, Lanao del Sur, Maguindanao, Sulu, Tawi-Tawi, and the cities of Cotabato, Lamitan, and Marawi purposely to monitor and evaluate the performance of a program of higher education institutions in the province or city and submit reports to receive documentary records for and in behalf of the Commission of Higher Education coming from each higher education institution from each province or city, to verify and evaluate enrollment list, promotion report, permanent scholastic records, and other records to be submitted to the Ministry, and to facilitate the issuance of Special Order (SO), Certification, Authentication and Verification (CAV), and other issuances by the Ministry;
+n. Promulgate such rules and regulations and exercise such other powers and functions as may be necessary to carry out effectively the purpose and objectives of this Act;
+o. Perform such other functions as necessary for its effective operations and for the continued enhancement, growth, and development of higher education in BARMM; and
+p. Ensure inclusive education services (and facilities) to learners with special needs, disabilities, and other learning barriers in a way that addresses their individual differences and learning needs.
+
+**Section 133. Regulatory Functions.** – The Ministry shall supervise and regulate private schools, including sectarian and non-sectarian institutions of higher education. The functions of the previous CHED-ARMM prescribed in Executive Order No. 315, series of 1996 and CHED Administrative Order No. 8, series of 1996 about the grant of authority to establish and operate new private schools/programs on higher education in the region, including the cancellation and/or withdrawal of recognition, or restoration of cancelled or revoked government recognition, shall be exercised by the Ministry.
+
+**CHAPTER 2**
+**Representation in National Government and Board of Trustees**
+
+**Section 134. Representation in National Government Agencies.** – Following Article VI, Section 11 of Republic Act No. 11054 (Bangsamoro Organic Law), the Minister or his/her designated representative sits as ex-officio member of the Commission on Higher Education (CHED), the Governing Board of Unified Financial Assistance System for Tertiary Education Act (Republic Act No. 10687), and the Private Education Assistance Committee (PEAC).
+
+The Minister or his/her designated representative is ex-officio member of the Board of Regents and Board of Trustees of state colleges and universities and local universities and colleges within the territorial jurisdiction of BARMM.
+
+**Section 135. Representation in the Governing Boards of SUCs, LUCs, and Non-chartered Public Higher Education Institutions within the Bangsamoro.** – The Minister or his/her designated representative shall act as Chairman of the Board of Regents/Trustees of the Bangsamoro Tribal University System and all regional colleges and universities that may be created by the Bangsamoro Parliament. The Minister shall also act as Chairman of the Boards of Regents/Trustees of all existing non-chartered public higher education institutions within the BARMM.
+
+**CHAPTER 3**
+**Miscellaneous Provisions**
+
+**Section 136. Incentives.** – The Ministry shall provide incentives to institutions of higher education, public and private, whose programs are accredited or whose needs are for accreditation purposes.
+
+**Section 137. Tax Exemptions.** – Any donation, contribution, bequest, and grant which may be made to the Ministry shall constitute an allowable deduction from the income of the donor for income tax purposes. It shall be exempt from donor’s tax, subject to such conditions as provided under the National Internal Revenue Code, as amended, and the Bangsamoro Internal Revenue Code.
+
+**Section 138. Authority of the Minister.** – The Minister shall exercise such authority as may be deemed necessary within its areas of operation to carry out its powers and functions effectively.
+
+**Section 139. Transfer of Personnel and Assets.** – Such personnel, properties, assets and liabilities, functions, and responsibilities of the previous Commission on Higher Education – ARMM, including those for higher and tertiary education and degree-granting vocational and technical programs under the Commission on Higher Education-ARMM, and other existing ARMM entities having functions similar to those of the Commission are hereby transferred to the Ministry.
+
+**Section 140. Authority to Appoint.** – The Minister shall have the authority to appoint its personnel. All regular or permanent employees transferred to the Ministry shall not suffer any loss or seniority or rank or decrease in emoluments subject to the provisions of Republic Act No. 11054 (Bangsamoro Organic Law), Bangsamoro Administrative Code, and the Bangsamoro Civil Service Code: *Provided, however*, That any employee who cannot be accommodated shall be given all the benefits as provided for under the Bangsamoro Organic Law, and existing laws, rules, and regulations.
+
+**Section 141. Integral Part of the Bangsamoro Educational System.** – Any school, college, or university existing in the Bangsamoro Autonomous Region shall be deemed integral components of the educational system of the Bangsamoro Autonomous Region, and shall be governed by their respective charters. The National Government shall continue to support, enhance, and strengthen the Mindanao State University System.
+
+**CHAPTER 4**
+**Jurisdiction**
+
+**Section 142. Jurisdiction over BARMM-supervised post-secondary institutions.** – The Ministry has jurisdiction over BARMM-supervised or non-chartered state-supported post-secondary degree-granting vocational and technical programs, and tertiary institutions shall be transferred to the Ministry, such as:
+
+a. Upi Agricultural School;
+b. Balabagan Trade School;
+c. Unda Memorial National Agricultural School;
+d. Lanao Agricultural College;
+e. Hadji Butu School of Arts and Trades;
+f. Lapak Agricultural College; and
+g. Lapak National School of Fisheries.
+
+The Ministry shall also have jurisdiction over local colleges and universities under its territorial jurisdiction, including the existing Regional *Madrasah* Graduate Academy.
+
+**Section 143. Authority to Organize the Board of Trustees.** – The Ministry shall have the power to organize the Board of Trustees of the above mentioned BARMM-supervised or non-chartered state-supported higher education institutions after massive public consultations.
+
+**Section 144. Jurisdiction Over Existing State Universities and Colleges.** – The following state universities and colleges shall be deemed as integral components of the educational system of the Bangsamoro Autonomous Region in Muslim Mindanao and shall be governed by their respective charters:
+
+a. Mindanao State University (MSU) Main Campus in Marawi City;
+b. Mindanao State University – Lanao National College of Arts and Trades (Marawi City);
+c. Mindanao State University – Maguindanao (Datu Odin Sinsuat, Maguindanao);
+d. Mindanao State University – Sulu Development and Technical College (Jolo, Sulu);
+e. Mindanao State University – Tawi-Tawi College of Technology and Oceanography (Bongao, Tawi-Tawi);
+f. Tawi-Tawi Regional Agricultural College (Bongao, Tawi-Tawi);
+g. Sulu State College (Jolo, Sulu);
+h. Basilan State College (with campuses in Lamitan City, Sta. Clara, and Maluso in Basilan);
+i. Adiong Memorial State Polytechnic College (Ditsa-an Ramain, Lanao del Sur);
+j. Cotabato State University (Cotabato City);
+k. University of Southern Mindanao - Buluan, Maguindanao Campus;
+l. Cotabato Foundation College of Science and Technology (Montawal, Maguindanao Campus); 
+m. Cotabato Foundation College of Science and Technology (Pikit-BARMM side Campus); and
+n. Other institutions that may be created thereafter.
+
+**CHAPTER 5**
+**Tribal University System**
+
+**Section 145. Tribal University System.** – The Tribal University System shall provide better higher education for Indigenous Peoples’ students to be functional citizen of the community. Additionally, it shall provide school system where the Indigenous Peoples’ language, culture, and traditional knowledge of the Elders are incorporated in the curricular and extracurricular activities of the students.
+
+Under the Tribal University System, a Tribal University shall be created which shall be founded upon Indigenous Knowledge Systems and Practices (IKSP). It shall develop educational programs appropriate and relevant to the needs and aspirations of the IPs, and geared towards respect, promotion, protection, and preservation of their cultures and practices. The University shall have programs in arts and sciences to support these aspirations. It shall endeavor to inspire young IPs to serve and become leaders in their ancestral domains and indigenous communities. It shall involve training of teachers to carry out effectively the mandates of the Tribal University.
+
+**Section 146. Establishment of the Tribal University System.** – In accordance with the Bangsamoro Organic Law, the Ministry shall initiate the creation of a tribal university system to address the higher educational needs of indigenous peoples. The Ministry shall undertake studies to contribute effectively to establishing the tribal university system.
+
+**CHAPTER 6**
+**Islamic Higher Education**
+
+**Section 147. Provision of Islamic Higher Education.** – Higher learning for Islamic and Arabic studies may be provided through Islamic study programs, schools, institutes, and universities in the Bangsamoro. Islamic higher learning shall instill Islamic values necessary for the realization of the Bangsamoro education goals.
+
+**Section 148. Islamic and Arabic Teacher Education.** – Islamic higher education institutions shall be responsible for the preparation of teachers for Islamic education and Arabic education in the Bangsamoro.
+
+**Section 149. Compliance with Higher Education Regulations.** – The establishment, operation and regulation of Islamic Higher Education Institutions shall comply with higher education regulations to be adopted under this Code.
+
+**Section 150. Regulation of Islamic Higher Education.** – The Ministry shall regulate the provision of Islamic Higher Education in the Bangsamoro.
+
+**X. TECHNICAL EDUCATION AND SKILLS DEVELOPMENT**
+
+**CHAPTER 1**
+**General Provision**
+
+**Section 151. Declaration of Policy.** – It is the policy of the Bangsamoro Government to provide relevant, accessible, high quality, and efficient technical education and skills development to produce high-quality middle-level manpower in the Bangsamoro.
+
+**Section 152. Mandate.** – The Ministry is mandated to provide quality technical education and skills development to the people of the Bangsamoro.
+
+**Section 153. Coverage.** – Technical Education shall cover all technical education and skills development (TESD) programs, irrespective of delivery systems – whether formal, non-formal and informal – to prepare middle level skilled human resources by providing them with general education, technology-related sciences, and related occupational skills training.
+
+**Section 154. Objectives of the Technical Education and Skills Development (TESD).** – TESD shall instill in the Bangsamoro People technical knowledge, skills and attitudes to enable them to become active and productive members of society and to meet and match industry demand with competent and globally competitive workforce.
+
+**Section 155. Powers and Functions.** – The Ministry shall have the following powers and functions:
+
+a. Manage and regulate the Technical-Vocational Education and Training (TVET) Sector in the BARMM through accreditation and registration of all TVET program offerings, compliance audits, trainers’ and accessors’ training, among others;
+b. Address gaps in the formal TVET sector through the conduct of skills training in its training centers and in the communities;
+c. Ensure TVET quality through the provision of standards and system development services as well as the provision of inclusive services (facilities) to learners with special needs, disabilities, and other learning barriers in a way that addresses their individual differences and learning needs;
+d. Conduct of National Competency Assessment and Certification of workers and TVET graduates;
+e. Develop comprehensive training syllabi incorporating desirable work values through the development of moral character with emphasis on work ethic, discipline, self-reliance, and a deep sense of nationalism;
+f. Formulate the Bangsamoro Manpower and Technical Education and Skills Development Plan (BMTEDSP) to ensure that the skills development system in the Bangsamoro is responsive and relevant to labor market needs, with good coordination between the demand for and supply of skills;
+g. Formulate a Comprehensive BARMM Plan for Middle-level manpower based on the first Bangsamoro Development Plan; and
+h. Promote and encourage partnership with various stakeholders, LGUs, and other civic organizations.
+
+**Section 156. TESD Delivery Systems.** – Technical Education and Skills Development shall be delivered through formal, informal, and alternative learning systems:
+
+a. High School Level – Vocational Strand;
+b. Madrasah Thanawih Level – Vocational Strand;
+c. Higher Education Level – Diploma Degree Program;
+d. Specialized Training Centers and Community-Based Trainings (CBT); and
+e. Other similar schemes.
+
+**XI. INDIGENOUS PEOPLES’ EDUCATION**
+
+**Section 157. Indigenous Peoples’ Education (IPEd).** – Indigenous Peoples within the Bangsamoro shall be provided with an education that promotes their distinct cultural identity, integrity and heritage and ensure the recognition of and respect for all indigenous peoples in the Bangsamoro. Further, Indigenous Peoples’ Education shall be pursued to recognize the values inherent in and practiced by indigenous communities since time immemorial.
+
+**Section 158. IPEd System.** – The IPEd System shall deliver teaching-learning that facilitates intergenerational transmission of indigenous knowledge systems and practices (IKSPs) and indigenous communities’ indigenous learning systems.
+
+**Section 159. Support for IPEd.** – The Ministry shall ensure effective institutional and funding support for IPEd across all Bangsamoro Education System education levels. The Ministry shall provide for regular funding in the Ministry budget for IPEd that will ensure support for curriculum development, capacity building for teaching and learning, and operations.
+
+**Section 160. Education and Cultural Integrity, Identity and Heritage.** – All Indigenous Peoples (IP) learners shall have the right to preserve, promote, and protect their rights, cultural integrity, identity, and heritage through education to ensure their total well-being.
+
+**Section 161. Bangsamoro Indigenous Peoples’ Education Framework (BIPEF).** – The Ministry shall formulate a Bangsamoro Indigenous Peoples’ Education Framework to guide the implementation of initiatives in support of Indigenous Peoples’ Education.
+
+**Section 162. IPEd Teachers.** – In support of the implementation of IPEd in the Bangsamoro, the Ministry may formulate specific policies unique for IPEd teacher education and other related requirements.
+
+**XII. PEACE EDUCATION**
+
+**Section 163. Declaration of Policy.** – Peace education shall be provided to instill in the learners the values and knowledge and develop the attitudes, skills and behaviors to live in harmony with oneself, others, and the natural environment.
+
+**Section 164. Integration of Peace Education.** – Peace education shall be a core component of Bangsamoro education and shall be integrated into the curriculum of all educational levels and all delivery systems.
+
+**Section 165. Peace Education Curriculum.** – The Ministry shall adopt a Peace Education Curriculum designed to instill the culture of non-violence, social justice and respect for human rights, freedom and inclusivity. Additionally, the peace education curriculum shall be a prescribed program for learners at appropriate educational levels.
+
+**Section 166. Support to Peace Education.** – The Ministry shall ensure effective institutional and funding support for Peace Education across all education levels of the Bangsamoro Education System. The Ministry shall provide for regular funding in the Ministry budget for Peace Education that will ensure support for curriculum development, capacity building for teaching and learning, and operations.
+
+**XIII. FUNDING OF EDUCATION INSTITUTIONS**
+
+**CHAPTER 1**
+**General Provisions**
+
+**Section 167. Public Funding.** – Public schools/Madaris and other public educational institutions shall be funded from public funds.
+
+**Section 168. Endowment for Special Education Purposes.** – The Ministry shall establish an endowment (waqaf) fund for advanced education, faculty development, research, and development for the attainment of the Bangsamoro development goals.
+
+**Section 169. Resource Generation.** – The Ministry shall adopt resource generation initiatives to finance and expand access to quality education in the Bangsamoro.
+
+**Section 170. Financial Assistance to Public Schools or Public Madaris.** – The Bangsamoro Government, in collaboration with the National Government, shall extend financial aid and assistance to public schools and public madrasah established and maintained by local governments, including barangay high schools.
+
+**Section 171. Support from Local Governments.** – Provinces, cities, municipalities, and barangays shall be encouraged to appropriate funds in their annual budgets for the operation and maintenance of schools.
+
+**Section 172. Special Education Fund.** – The Ministry of Basic, Higher, and Technical Education, in coordination with the Ministry of Local Government, shall issue policy guidance with respect to the collection, utilization, and monitoring of special education fund and other similar funds.
+
+**CHAPTER 2**
+**Subsidy for Private Education Institutions**
+
+**Section 173. Government Support.** – The Bangsamoro Government may provide assistance to private educational institutions in the form of grants or scholarships, or loans from government financial institutions, in recognition of their complementary role in the educational system: Provided, That such programs meet certain defined educational requirements and standards and contribute to the attainment of Bangsamoro and national development goals.
+
+**Section 174. Tuition and Other Fees.** – Each private education institution shall determine its rate of tuition and other school fees or charges. The rates and charges adopted by private education institutions pursuant to this provision shall be collectible, and their application or use authorized, subject to rules and regulations promulgated by the Ministry.
+
+**Section 175. Income from Other Sources.** – As may be authorized by law, any private education institution duly recognized by the government, may receive any grant and legacy, donation, gift, bequest or devise from any individual, institution, corporation, foundation, trust of philanthropic organization, or research institution or organization.
+
+Furthermore, private education institutions may be authorized to engage in any auxiliary enterprise to generate income primarily to finance their educational operations and/or to reduce the need to increase learners’ fees.
+
+**Section 176. Organizational Funds.** – The proceeds from tuition fees and other institution charges, as well as other income of education institutions, shall be treated as institutional funds. Education institutions may pool their institutional funds, in whole or in part, under joint management for the purpose of generating additional financial resources.
+
+**CHAPTER 3**
+**Education Incentive**
+
+**Section 177. Declaration of Policy.** – The Ministry may provide an incentive program to encourage the participation of the community in the development of the educational sector.
+
+**Section 178. Institution Property.** – In accordance with laws and regulations, the Ministry shall adopt specific guidelines pertaining to the creation and management of a fund to which shall accrue all proceeds from the payment of real property tax on real property directly and exclusively for educational purposes, in accordance with laws and regulations.
+
+**Section 179. Gifts or Donations to Educational Institutions.** – Subject to applicable laws, the Ministry shall adopt specific guidelines pertaining to the tax implication of gifts or donations in favor of any school, college, or university.
+
+**Section 180. Earnings from Scholarship Funds.** – Subject to applicable laws, the Ministry shall adopt specific guidelines pertaining to earnings from the investment of any duly established scholarship fund of any school or educational institution recognized by the government, constituted from gifts to the school, and/or from contributions or other resources assigned to said fund by the school or education institution.
+
+**Section 181. Conversion to Educational Foundations.** – The Ministry shall adopt specific rules governing the conversion of educational institutions into either a non-stock or non-profit educational foundation.
+
+**CHAPTER 4**
+**Assistance to Learners**
+
+**Section 182. Government Assistance to Learners.** – Subject to the provisions of existing laws and in collaboration with relevant national government agencies, the Bangsamoro Government shall provide financial assistance to financially disadvantaged and deserving learners, including learners affected by social, political, and natural disasters. Such assistance may be in the form of government scholarships, grants-in-aid, assistance from the Educational Loan Fund, or subsidized tuition rates in schools, state colleges, and universities.
+
+All the above and similar assistance programs shall provide for reserve quotas for financially needed but academically qualified learners from the cultural communities, including IP learners.
+
+**Section 183. Grant of Scholarship Pursuant to Existing Laws.** – Schools and higher educational institutions shall be encouraged to grant scholarships to learners pursuant to the provisions of existing laws, and such scholarship measures as may hereafter be provided for by law.
+
+**Section 184. Assistance from the Private Sector.** – The private sector, especially educational institutions and the business industry, shall be encouraged to grant financial assistance to learners, especially those undertaking research in the fields of science and technology or in such projects as may be necessary within the context of regional and national development.
+
+**CHAPTER 5**
+**Assistance to Teachers and Learning Facilitators**
+
+**Section 185. Government Assistance to Teachers and Learning Facilitators.** – Subject to the provisions of existing laws and in collaboration with relevant national government agencies, the Bangsamoro Government shall provide financial assistance to teachers and learning facilitators. Such assistance may be in the form of government scholarships, grants-in-aid, assistance from the Loan Fund, or subsidized tuition rates for further studies.
+
+**Section 186. Grant of Scholarship Pursuant to Existing Laws.** – The Bangsamoro Regional Government shall be encouraged to grant scholarships in support of the professional development of teachers and learning facilitators pursuant to the provisions of existing laws and such other scholarship schemes as may hereafter be provided for by law.
+
+**Section 187. Assistance from the Private Sector.** – The private sector, especially educational institutions and the business industry, shall be encouraged to grant financial assistance in support of the professional development of teachers and learning facilitators, especially those undertaking research in the fields of science and technology or in such projects as may be necessary within the context of regional and national development.
+
+**CHAPTER 6**
+**Assistance to Madrasah**
+
+**Section 188. Financial Aid to Public Madrasah.** – The Bangsamoro Government, in collaboration with the National Government, shall extend financial aid and assistance to public schools and public madrasah established and maintained by local governments, including barangay high schools.
+
+**CHAPTER 7**
+**National Education Programs and Projects**
+
+**Section 189. Continuity of National Education Programs and Projects.** – Pursuant to Article VI, Section 13 of the Bangsamoro Organic Law, national education programs and projects shall continue to be funded by the National Government, without prejudice to the power of the Bangsamoro Government to provide for supplemental funding for such programs and projects.
+
+**XIV. MISCELLANEOUS PROVISIONS**
+
+**CHAPTER 1**
+**Regulation of Private Schools, Colleges, and Universities**
+
+**Section 190. Regulatory Functions.** – The Ministry shall supervise and regulate private schools, universities, colleges, and learning centers, including sectarian and non-sectarian institutions of learning.
+
+**Section 191. Right of Participation.** – Three (3) representatives of private schools shall have the right to participate in the Ministry’s deliberations on matters dealing with private schools.
+
+**Section 192. Right to Propagate Religious Beliefs.** – The right of sectarian and educational institutions to propagate their religious beliefs shall not be curtailed. The Ministry shall not discriminate against sectarian educational institutions in any manner or form.
+
+**CHAPTER 2**
+**Penal and Administrative Sanctions**
+
+**Section 193. Penalty Clause.** – Any person upon conviction for an act in violation of the provisions relating to operation of educational institutions and educational programs without authorization, and/or operation thereof in violation of the terms of recognition, shall be punished with a fine of not less than One Hundred Thousand Pesos (Php100,000) nor more than Two Hundred Fifty Thousand Pesos (Php250,000) or imprisonment for a maximum period of three (3) years, or both, in the discretion of the court.
+
+If the act is committed by a school or educational institution, the head of the school or educational institution shall be equally liable.
+
+**Section 194. Administrative Sanction.** – The Ministry may prescribe and impose such administrative sanctions for any of the following causes:
+
+a. Mismanagement of educational institution operations;
+b. Gross inefficiency of the teaching or non-teaching personnel;
+c. Fraud or deceit committed in connection with the application for Ministry permit or recognition;
+d. Failure to comply with conditions or obligations prescribed by this Code or its implementing rules and regulations; and
+e. Unauthorized operation of an educational institution or course, or any component thereof, or any violation of the requirement governing advertisements or announcements of educational institutions.
+
+Sanctions against the educational institution shall be without prejudice to the interest of the learners, teachers, and employees.
+
+**CHAPTER 3**
+**Final Provisions**
+
+**Section 195. Rule-making Authority.** – The Minister of Basic, Higher, and Technical Education, charged with the administration and enforcement of this Code, shall promulgate the necessary implementing rules and regulations of this Act within one year from its passage.
+
+**Section 196. Appropriation.** – The funding necessary for the implementation of this Act shall be included in the annual Bangsamoro Appropriations Act.
+
+**Section 197. Separability Clause.** – Any part or provision of this Act, which may be held invalid or unconstitutional, shall not affect its remaining parts or provisions.
+
+**Section 198. Repealing Clause.** – All laws and issuances pertaining to the Bangsamoro Education Code and the creation of the Ministry of Basic, Higher, and Technical Education (MBHTE) or parts thereof inconsistent with any provision of this Act shall be deemed repealed or modified, as the case may be.
+
+**Section 199. Effectivity.** – This Act shall take effect fifteen (15) days after its complete publication in a newspaper of general or regional circulation in the Bangsamoro Autonomous Region.
+
+**APPROVED.**
+
+(Signed)
+**ATTY. ALI PANGALIAN M. BALINDONG**
+Speaker
+
+This Act was passed by the Bangsamoro Parliament on May 18, 2021.
+
+(Signed)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+**APPROVED.**
+
+(Signed)
+**AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+Date: May 18, 2021
