@@ -3870,5 +3870,805 @@ The Ministers of MAFAR and MOST shall assign technical staff of their ministries
         g. Coordinate with other appropriate government agencies/institutions in the performance of its mandate such as Coast Guard, Bureau of Customs, Bureau of Immigrations and Deportation, Department of Foreign Affairs, Bureau of Quarantine, the Armed Forces of the Philippines, and the Philippine National Police; and
         h. Perform such other function as may be assigned by law or by the higher authorities.
 
-**Sec. 39.
+**Sec. 39.** Composition.** - The BBTC shall be composed of the Minister of Trade, Investments, and Tourism, as Chairperson; the Ministers of Finance, and Budget and Management and of the Agriculture, Fisheries and Agrarian Reform as Vice-Chairpersons; the Minister of the Interior and Local Government; the Director-General of the Bangsamoro Planning the Development Authority; the Executive Director of the Bangsamoro Economic Zone Authority; the Director I (General Manager) of the Bangsamoro Ports Management Authority; and the Director I of the MARINA-BARMM.
+
+**Sec. 40. Secretariat.** - The MTIT shall provide technical, administrative and secretariat support to the BBTC in the exercise of its functions.
+
+**Sec. 41. Allowable Barter Goods.** - Goods traded under the barter trade system shall enter the Bangsamoro territory only through the Barter Ports established for the purpose.
+
+Qualified traders of allowable barter trade goods shall import or export their goods only after securing the required goods declaration or export declaration, clearances, licenses and other requirements prescribed under existing laws. In case of importation, the release of goods from customs custody shall be subject to the submission of requirements under relevant laws, rules and regulations.
+
+**TITLE XV**
+**TRANSPORTATION AND COMMUNICATIONS**
+
+**Chapter 1**
+**General Provisions**
+
+**Sec. 1. Declaration of Policy.** - The Bangsamoro Government is committed to the promotion, maintenance, and expansion of viable, efficient, fast, safe, and dependable transportation and communications systems as effective instruments for regional development and economic progress. It shall not compete as a matter of policy with private enterprise and shall operate transportation and communications facilities only in those areas where private initiatives are inadequate or non-existent.
+
+**Sec. 2. Mandate.** - The Ministry of Transportation and Communications (MOTC) shall be the primary policy, planning, programming, coordinating, implementing, regulating, and administrative entity of the Bangsamoro Government in the promotion, development, and regulation of dependable and coordinated networks of transportation and communications systems, as well as fast, safe, efficient and reliable transportation and communications services.
+
+**Sec. 3. Powers and Functions.** - The Ministry of Transportation and Communications has the following powers and functions:
+
+a. Administer and enforce all transportation and communications laws, rules, and regulations within its jurisdiction and deputize appropriate law enforcement agencies for the purpose;
+	b.	Formulate and recommend regional policies and guidelines on matters relative to transportation and communications;
+	c.	Grant regional franchises, licenses, and permits to and exercise quasi-judicial powers over land, sea, and air transportation plying routes within the Bangsamoro Region;
+	d.	Register land, sea, and air transportation operating exclusively within the Bangsamoro Autonomous Region;
+	e.	Manage navigation in inland waterways within the Bangsamoro Autonomous Region;
+	f.	Manage or supervise the landside operation of ports and airports in the Bangsamoro Autonomous Region, except those in economic zones;
+	g.	Grant regional franchises, licenses, and permits to telecommunication utilities, including radio and television broadcasting companies, whose frequencies are confined to and whose main offices are located within the Bangsamoro Autonomous Region;
+	h.	Issue certificates of public convenience and necessity, special permits, and provisional authority to operate telecommunication companies in the Bangsamoro Autonomous Region;
+	i.	Register telecommunication companies in the Bangsamoro Autonomous Region and exercise quasi-judicial powers over their operation;
+	j.	Register cargo forwarding, courier, and transport ticket sales services in the Bangsamoro Autonomous Region;
+	k.	Monitor the operation of the postal services in the Bangsamoro Autonomous Region and recommend measures for its improvement;
+	l.	Generate revenues and shares from the operations of public transportation and communication utilities and determine or prescribe the pertinent rates or charges, including penalties, except those already fixed by other bodies in accordance with law;
+	m.	Impose duties and fees on vessels registered with the Ministry and on wharves constructed and maintained by the Bangsamoro Government;
+	n.	Ensure, with the National Government, the free movement of vessels, goods, and people in Zones of Joint Cooperation and the interconnectivity of the islands and mainland areas comprising the Bangsamoro Autonomous Region;
+	o.	Exercise all other functions devolved to it by the National Government; and
+	p.	Perform such other functions as may be provided by law or higher authorities.
+
+**Sec. 4. Organizational Structure.** - The Ministry of Transportation and Communications shall consist of the Ministry Proper, Ministry Services and Offices, and such other appropriate divisions or units as may be necessary.
+
+The sectoral offices shall be the: (1) Bangsamoro Telecommunications Commission; (2) Bangsamoro Land Transportation Office; (3) Bangsamoro Land Transportation Franchising and Regulatory Board; (4) Bangsamoro Ports Management Authority; (5) Bangsamoro Maritime Industry Authority; (6) Civil Aviation Authority of the Bangsamoro; (7) Civil Aeronautics Board of the Bangsamoro; and (8) other sectoral offices with specialization in the area of transportation or communications that may be created by law. Each of these sectoral offices shall be headed by a Director I.
+
+**Chapter 2**
+**Ministry Proper**
+
+**Sec. 5. Office of the Minister.** - The Office of the Minister of Transportation and Communications consists of the Minister, the Deputy Minister, and the immediate staff.
+
+**Sec. 6. Powers and Functions of the Minister.** - The Minister shall be vested with the following powers and functions:
+
+	a. Recommend to the Bangsamoro Cabinet policies and programs related to Transportation and Communications;
+	b. Administer the Ministry in accordance with law, relevant executive orders and regulations issued by the Chief Minister;
+	c. Manage the implementation of Ministry’s programs, projects, and activities;
+	d. Establish policies and standards for the operation of the Ministry pursuant to the approved programs of the Bangsamoro Government;
+	e. Promulgate rules and regulations necessary to carry out Ministry’s objectives, policies, functions, plans, programs and projects;
+	f. Promulgate administrative issuances necessary for the efficient administration of the Ministry, and for proper execution of the laws relative thereto. These issuances shall not prescribe penalties for their violation, except when expressly authorized by law;
+	g. Exercise disciplinary powers over officers and employees under the Ministry in accordance with law enacted by the Bangsamoro Parliament, including their investigation and the designation of a committee or officer to conduct such investigation;
+	h. Appoint all officers and employees of the Ministry except those whose appointments are specifically vested in the Chief Minister or in some other appointing authority;
+	i. Exercise jurisdiction over all bureaus, offices, agencies and corporations under the Ministry as are provided by law, and in accordance with the applicable relationships;
+	j. Delegate authority to officers and employees under the Minister's direction in accordance with this Code; and
+	k. Perform such other functions as may be provided by law.
+
+**Sec. 7. Powers and Functions of the Deputy Minister.** - The Deputy Minister shall perform the following powers and functions:
+
+	a. Assist the Minister in implementing the policies of the Ministry;
+	b. Recommend policies for operations and program developments in the Ministry; and
+	c. Perform such other functions as may be delegated by the Minister.
+
+**Sec. 8. The Bangsamoro Director-General.** - The Bangsamoro Director-General shall be the highest career official of the Ministry, with appropriate eligibility. The Office of the Bangsamoro Director-General shall be responsible for overseeing the administration, programs and strategic plan of the ministry. S/he shall be the direct supervisor of the Service Directors of the Ministry.
+
+**Chapter 3**
+**Structure of the Ministry**
+
+**Sec. 9. Structure.** - The Ministry of Transportation and Communications shall be supported by Services, Bureaus, Division, Sections, and Units, such as but not limited to:
+
+	(1) **Legal and Legislative Liaison Services** - The Legal and Legislative Liaison Services shall be headed by a Director II.
+
+	Under the Legal and Legislative Liaison Services are the following: (a) Legislative and Investigation Division; and (b) Adjudication and Enforcement Division.
+
+	Each division shall be headed by a Division Chief.
+
+	(2) **Internal Audit Section** - The Internal Audit Section shall be headed by a Section Head.
+
+	(3) **Information and Communications Division** - The Information and Communications shall be headed by a Division Chief.
+
+	(4) **Administrative and Finance Services** - The Administrative and Finance Services shall be headed by a Director II.
+
+	Under the Administrative and Finance Services are the following: (a) Administrative Division; (b) Finance Division; and (c) Procurement Division.
+
+	Each division shall be headed by a Division Chief.
+
+	(5) **Technical Services** - The Technical Services shall be headed by a Director II.
+
+	Under the Technical Services are the following: (a) Planning, Monitoring and Research Division; and (b) Engineering Division.
+
+	Each division shall be headed by a Division Chief.
+
+**Sec. 10. Land Transportation Services.** - The Land Transportation Services, headed by a Director II shall assist the Minister in the coordination of the programs, projects, activities, strategic communication, and capacity-building of the Bangsamoro Land Transportation Office (BLTO) and the Bangsamoro Land Transportation Franchising and Regulatory Board (BLTFRB).
+
+**Sec. 11. Water Transportation Services.** - The Water Transportation Services, headed by a Director II shall assist the Minister in the coordination of the programs, projects, activities, strategic communication, and capacity-building of the Bangsamoro Maritime Industry Authority (BMARINA) and Bangsamoro Ports Management Authority (BPMA).
+
+**Sec. 12. Air Transportation Services.** - The Air Transportation Services, headed by a Director II shall assist the Minister in the coordination of the programs, projects, activities, strategic communication, and capacity-building of the Civil Aeronautics Board of the Bangsamoro (CABB) and Civil Aviation Authority of the Bangsamoro (CAAB).
+
+
+**Chapter 4**
+**Sectoral Offices**
+
+**Sec. 13. Bangsamoro Land Transportation Office.** - Without prejudice to the transfer of powers and functions from its national counterpart, the Bangsamoro Land Transportation Office (BLTO) shall have the following powers and functions in its area of jurisdiction, in accordance with law:
+
+	a. Issue driver’s license or permit and conductor’s license;
+	b. Register motor vehicles, including motorcycles and motorized tricycles;
+	c. Enforce all land transportation and traffic laws, rules, and regulations and impose fines and penalties as warranted;
+	d. Accredit driving schools and motor vehicle manufacturers, assemblers, importers, and dealers;
+	e. Issue rules and regulations consistent with existing transportation and other relevant laws to govern traffic and land transportation;
+	f. Fix and collect reasonable fees and charges for its services; and
+	g. Perform such related functions as may be provided by law or higher authorities.
+
+**Sec. 14. BLTO Organizational Structure.** - The BLTO shall have three (3) divisions: (1) The Operations Division, under which shall be the BLTO District Offices which shall handle licensing and registration, and the Accreditation Unit based in the BLTO Main Office which shall handle the accreditation of driving schools and manufacturers, assemblers, importers, and dealers; (2) The Law Enforcement Division, based in the BLTO Main Office, which shall handle field enforcement, investigation and adjudication of cases, intelligence gathering, traffic safety, and road safety; and (3) The Management Information Division which shall manage and integrate licensing, registration, accreditation, intelligence, accident, and violation records.
+
+The BLTO shall be headed by a Director I. Each of the three divisions shall be headed by a Division Chief.
+
+The size and staffing of the BLTO District Offices shall be determined based on the number of licensing and registration applicants at ratios to be reviewed and endorsed by the Minister every three (3) years for the approval of the Cabinet.
+
+**Sec. 15. Bangsamoro Land Transportation Franchising and Regulatory Board (BLTFRB).** - Without prejudice to the transfer of powers and functions from its national counterpart, the Board shall have the following powers and functions:
+
+	a. Prescribe and regulate routes and areas of operation of public land transportation services within the Bangsamoro Autonomous Region through franchises or provisional permits;
+	b. Promulgate rules and regulations, including standards and safety requirements, for land transportation utilities operating in the Bangsamoro Autonomous Region, consistent with existing laws and national policies;
+	c. Determine reasonable fares, rates, and other related charges relative to the operation of public land transportation services within the Bangsamoro Autonomous Region;
+	d. Exercise quasi-judicial functions, including the conduct of hearings and the issuance of subpoena and subpoena *duces tecum*, in the enforcement of public service laws on land transportation and BLTFRB rules and regulations and impose lawful fines and penalties after due process;
+	e. Fix and collect reasonable fees and charges for its services; and
+	f. Perform such related functions as may be provided by law or higher authorities.
+
+**Sec. 16. BLTFRB Organizational Structure.** - The Bangsamoro Land Transportation Franchising and Regulatory Board shall be composed of the Board and its Executive Office, the latter to be headed by a Director I. The Board shall be composed of the Minister of Transportation and Communications as Chairperson, the head of the Executive Office, and a representative from the organized transport sector who shall be appointed by the Chief Minister under co-terminous status.
+
+**Sec. 17. Appeal from Board Decisions.** - A party with standing may appeal to the Chief Minister any decision, order, or resolution of the BLTFRB within thirty (30) days from receipt thereof. Even without an appeal, the Chief Minister may review any Board decision before it becomes final.
+
+**Sec. 18. The Executive Office of the Board.** - The Executive Office of the Board shall be composed of two (2) divisions: (1) The Franchising and Regulatory Division which shall receive, conduct due diligence, and process franchise applications for Board approval and implement BLTFRB rules and regulations related to franchising; and (2) The Management Information Division which shall provide the Board the data needed to determine routes, standards and safety requirements, fares and related charges, and BLTFRB service fees. For the purpose of receiving franchise applications and conducting due diligence on uncontested routes, the Franchising and Regulatory Division may set up District Desks.
+
+The Executive Office of the Board shall be headed by a Director I and each of the two divisions shall be headed by a Division Chief. The Board shall have a Secretariat from the Office of the Director I.
+
+**Sec. 19. The Civil Aviation Authority of the Bangsamoro (CAAB).** - Without prejudice to the transfer of powers and functions from its national counterpart, the Civil Aviation Authority of the Bangsamoro (CAAB) shall have the following powers and functions:
+
+	a. Manage, supervise, and control government airports within the Bangsamoro Autonomous Region, except the airside at such airports, where aircraft are controlled and navigational aids and facilities are located, which shall remain under the control and supervision of the National Government;
+	b. Upon close consultation with the Civil Aviation Authority of the Philippines (CAAP), promulgate rules and regulations to promote safety and security in civil aviation in the Bangsamoro Autonomous Region, which shall be consistent with existing laws and international regulations and standards;
+	c. Fix and collect reasonable fees and charges for the use of the airports and related facilities under its control and supervision, as well as for its services;
+	d. Recommend to the CAAP the designation and establishment of airways between airports within and outside the Bangsamoro Autonomous Region;
+	e. Monitor private airport operations within the Bangsamoro Autonomous Region and extend technical assistance, upon request;
+	f. Maintain and operate aircrafts owned by the Bangsamoro Government;
+	g. Design, construct, maintain, and repair airports in the Bangsamoro Autonomous Region in accordance with national standards set by the CAAP;
+	h. Enforce RA 776 and other air transportation laws, rules, and regulations and, upon observance of due process, impose penalties for violations thereof; provided that, on appeal, the President of the Philippines shall cause the CAAP to review the findings and conclusions of the CAAB and to make recommendations relative thereto; and
+	i. Perform such functions related to civil aviation as may be provided by law or higher authorities.
+
+**Sec. 20. CAAB Organizational Structure.** - The CAAB shall be composed of the following: (a) the Office of the Director; (b) the Airport Development Division which shall study and recommend airways, plan and implement airports development, and monitor private airport operations; and (c) the Airport Teams.
+
+Each Airport Team shall be headed by an Airport Manager and shall have three (3) units: (1) The Airport Management Unit, which shall manage the landside operations of the airport; (2) The Security and Intelligence Unit, which shall be responsible for the security of the landside area of the airport and intelligence networking to avert threats to airport security; and (3) The Aerodome Area Unit, which shall be responsible for compiling and analyzing airport statistics, awarding contracts for concessions in airports, and repairing, maintaining, and developing airport facilities. The size and staffing of an Airport Team shall be determined by the Minister of Transportation and Communications based on the volume of passengers and cargoes and the number of flights in the airport upon approval of the Cabinet.
+
+For the purpose of coordinating and consolidating intelligence gathering, there shall be an Intelligence Officer in the Office of the CAAB Director in addition to the immediate support staff. Similarly, there shall be a Management Information Officer for consolidating and analyzing statistics on passengers, cargo, and aircraft movement.
+
+An Aircraft Management Division may be added to the CAAB organizational structure by the Cabinet upon acquisition of aircraft by the Bangsamoro Government.
+
+**Sec. 21. The Civil Aeronautics Board of the Bangsamoro (CABB).** - Without prejudice to the transfer of powers and functions from its national counterpart, the Civil Aeronautics Board of the Bangsamoro (CABB) shall have the following powers and functions:
+
+	a. Regulate the activities of air carriers, air freight forwarders, ticket sales agents, and cargo sales agents operating in the BARMM, consistent with existing laws;
+	b. Issue Certificate of Public Convenience to all private commercial airlines and air freight and air cargo companies engaged in the commerce of air transportation in the BARMM;
+	c. Enforce laws, rules and regulations for the preservation and safety of life and limb and the enforcement of the rights of air travelers;
+	d. Determine reasonable fares, rates, and other related charges relative to the operation of air transportation services within the Bangsamoro Autonomous Region;
+	e. Exercise quasi-judicial functions in the enforcement of public service laws on air transportation and CABB rules and regulations and impose lawful fines and penalties after due process;
+	f. Fix and collect reasonable fees for its services; and
+	g. Perform such related functions as may be provided by law or higher authorities.
+
+**Sec. 22. CABB Organizational Structure.** - The CABB shall be composed of the Board and its Executive Office. The Board shall be composed of the Minister of Transportation and Communications as Chairperson, the Minister of Trade, Investments, and Tourism as Vice-Chairperson, the Director I who heads the Executive Office, a representative from the airline sector, and a representative from the air freight and cargo sector. The two (2) sector representatives shall be appointed by the Chief Minister for a coterminous term.
+
+**Sec. 23. Appeal from Board Decisions.** - A party with standing may appeal to the Chief Minister any decision, order, or resolution of the CABB within thirty (30) days from receipt thereof. Even without an appeal, the Chief Minister may review any Board decision before it becomes final.
+
+**Sec. 24. The Executive Office of the Board.** - The Executive Office of the Board shall be composed of three (3) divisions: (1) The Air Carriers Accounting Division which shall receive,conduct due diligence, and process applications for permits from off-line carriers, air freight forwarders, general/cargo sales agents, and cargo sales/break-bulk agents of air freight forwarders for Board approval; (2) The Management Information Division which shall provide the Board the data needed to determine routes, standards and safety requirements, fares and related charges, and CABB service fees; and (3) The Passenger Rights Division which shall maintain a Passenger Rights Action Desk in each public airport. For the purpose of receiving applications for permits and conducting due diligence, the Air Carriers Accounting Division may set up District Desks.
+
+The Executive Office of the Board shall be headed by a Director I and each of the three (3) divisions shall be headed by a Division Chief. The Board shall have a Secretariat from the Office of the Director I.
+
+**Sec. 25. The Bangsamoro Maritime Industry Authority (BMARINA).** - Without prejudice to the transfer of powers and functions from its national counterpart, the BMARINA shall have the following powers and functions:
+
+	a.	Issue Certificate of Public Convenience (CPC) or Provisional Authority (PA) to vessels home-ported and operating exclusively within the Bangsamoro Autonomous Region;
+	b.	Issue Special Permit (SP) to all vessels operating within the Bangsamoro Autonomous Region;
+	c.	Issue Special Permit for the temporary utilization of domestic vessels in the Brunei-Darussalam, Indonesia, Malaysia and Philippines-East ASEAN Growth Area (BIMP-EAGA) routes;
+	d.	Accredit *banca* operators whose principal office is located within the Bangsamoro Autonomous Region;
+	e.	Register vessels of all tonnages home-ported within the Bangsamoro Autonomous Region;
+	f.	Conduct safety inspection of vessels operating within the jurisdiction of the Bangsamoro Autonomous Region so as to determine compliance with Safety of Life at Sea (SOLAS) and manning requirements;
+	g.	Issue Coastwise License, Bay and River License, and Pleasure Yacht License on all domestic vessels home-ported within the Bangsamoro Autonomous Region;
+	h.	Issue Motorboat Operator’s License for operators of vessels weighing three (3) Gross Registered Tonnages (GRT) and below which are home-ported and are operating exclusively within the Bangsamoro Autonomous Region;
+	i.	Issue licenses to shipyards within the Bangsamoro Autonomous Region, subject to existing guidelines;
+	j.	Issue Domestic Seafarer’s Identification and Record Book (SIRB), subject to existing MARINA rules and regulations;
+	k.	Determine reasonable fares, rates, and other related charges relative to the operation of maritime transportation services within the Bangsamoro Autonomous Region;
+	l.	Fix and collect reasonable fees and charges for its services;
+	m.	Exercise quasi-judicial functions, including the conduct of hearing and the issuance of subpoena and subpoena *duces tecum*, in the enforcement of maritime laws, rules and regulations, and impose lawful fines and penalties;
+	n.	Approve the BMARINA trust fund, annual plan and budget for the utilization of its Fifty Percent (50%) share in its revenues remitted to the Bangsamoro Treasury and submit the same for legislative appropriation; and
+	o. Perform such related functions as may be provided by law or higher authorities.
+
+**Sec. 26. BMARINA Organizational Structure.** - The BMARINA shall be composed of the MARINA Board and its Executive Office. The Board shall be composed of the Minister of Transportation and Communications as Chairperson, the BMARINA Director I, the General Manager of the Bangsamoro Ports Management Authority, and a representative from each of the following: the Philippine Coast Guard, the Ministry of Trade, Investments, and Tourism, the Office of the Chief Minister, and private maritime sector. The private sector representative shall be appointed by the Chief Minister for a coterminous term.
+
+**Sec. 27. Appeal from Authority Decisions.** - A party with standing may appeal to the Chief Minister any decision, order, or resolution of the Authority within thirty (30) days from receipt thereof. Even without an appeal, the Chief Minister may review any decision of the Authority before it becomes final.
+
+**Sec. 28. The Executive Office of BMARINA.** - The Management of BMARINA shall be vested in the Office of the Director I. It shall be composed of the following: **(1) Planning Division**, which shall be responsible for formulating and implementing an integrated, practicable, coordinated and gender-sensitive Maritime Industry Development Program (MIDP) taking into consideration developments and challenges in the national, regional and global maritime industry environment; developing and carrying out a system for measuring and assessing the progress of implementation of the MIDP and its impact on the maritime industry; formulating, adopting and implementing a standard performance management system for evaluating and reviewing office and organizational performance; formulating, updating and recommending policies, rules and regulations of the Authority and undertakes periodic review and assessment of the effectiveness of policies and submits appropriate recommendations thereof; conducting researches and studies relevant to plan formulation and updating; policy development, review and revision; project development and evaluation; and preparing a coordinated position on issues that pertain to proposed, new and existing maritime industry rules and regulations; **(2) Operations Division**, which shall handle the registration, franchising, licensing, accreditation, regulation and enforcement operations; and the **(3) Provincial Offices**.
+
+The size and staffing of these Provincial Offices shall be determined, based on the workload, by the Minister of Transportation and Communications subject to the approval of the Cabinet.
+
+The Executive Office of BMARINA shall be headed by the Director I. Each division shall be headed by a Division Chief.
+
+**Sec. 29. The Bangsamoro Ports Management Authority (BPMA).** – The Bangsamoro Ports Management Authority shall be composed of the Governing Board and its Executive Office. The Governing Board shall be composed of the Minister of Transportation and Communications as Chairperson; the BPMA Director I (General Manager); the BMARINA Director I; the Minister of Finance, and Budget and Management; the Minister of Trade, Investments, and Tourism; the Minister of Agriculture, Fisheries, and Agrarian Reform; the Minister of Public Works; the Minister of Environment, Natural Resources, and Energy; the Director-General of the Bangsamoro Planning and Development Authority; and a private sector representative who shall be appointed by the Chief Minister for a coterminous term.
+
+**Sec. 30. Powers and Functions of the BPMA.** - In pursuing its mandate to align all port facilities in the Bangsamoro Autonomous Region as vibrant links in the nation’s overall Maritime Transport Chain, the BPMA as a whole shall have the following powers and functions:
+
+	a. Manage all public ports in the Bangsamoro Autonomous Region, including those in special economic zones;
+	b. Prescribe rules and regulations, procedures, and guidelines governing the establishment, construction, maintenance, and operation of private ports in the BARMM;
+	c. Regulate construction within a Port District;
+	d. Provide services (whether on its own or by contract) within the Port District and the approaches thereof, including but not limited to: berthing, towing, mooring, moving, slipping, or docking any vessel, loading or discharging any vessel; sorting, weighing, measuring, warehousing, or otherwise, handling goods;
+	e. Exercise control over foreshore rights or leases vested in the BPMA;
+	f. Control, regulate, and supervise pilotage and the conduct of pilots in any port in the BARMM;
+	g. Exercise police powers vested in the BPMA;
+	h. Collect fees and charges for the use of the premises, works, appliances, facilities, or for services provided by or belonging to the BPMA or BPMA contractors; and
+	i. Generally, exercise the powers of a corporation under the Corporation Law in so far as they are not inconsistent with the provisions of the Bangsamoro Organic Law, this Administrative Code, and other laws passed by the Parliament.
+
+**Sec. 31. Powers and Functions of the BPMA Governing Board.** - The BPMA Governing Board shall have the following powers and functions:
+
+	a. Prescribe guidelines, rules, and regulations governing the establishment and management of ports and the use of lands and properties within Port Districts, as well as the exercise of eminent domain;
+	b. Prescribe fees and charges to be collected by the BPMA;
+	c. Approve the BPMA trust fund annual plan and budget for the utilization of its Forty Percent (40%) share in its revenues remitted to the Bangsamoro Treasury and submit the same for legislative appropriation;
+	d. Award major contracts, such as for major construction and arrastre services;
+	e. Authorize the Chairperson or the General Manager to enter into contracts;
+	f. Evaluate the performance of the BPMA Executive Office; and
+	g. Formulate the strategic plan of the BPMA.
+
+**Sec. 32. BPMA Executive Organizational Structure.** - The BPMA shall be composed of the following offices: (a) the Port Management Offices; (b) the Terminal Management Offices; and the following divisions: (1) **The Ports Development Division**, which shall identify ports for development, assess their feasibility, prepare the acquisition and development plans, andmonitor port establishment; (2) **The Security and Intelligence Division**, which shall formulate guidelines, systems, and procedures on port security and evaluate port security plans and their implementation; (3) **The Management Information Division**, which shall provide the Governing Board the data needed to formulate guidelines, rules, and regulations, as well as to prescribe fares and charges and port service fees; consolidate statistics on port operations, including volume of passengers and cargo and ship movement and specifications; and act as the monitoring arm of the General Manager; and (4) **The Engineering Division**, which shall handle the repair and expansion of port facilities and other public works in the Port District and advise the General Manager in the procurement of port equipment.
+
+	Each Division shall be headed by a Division Chief.
+
+	The executive function of the BPMA shall be lodged in the Office of the Director I (General Manager).
+
+	The Governing Board shall be supported by a Secretariat from the Office of the Director I (General Manager).
+
+**Sec. 33. Port Management Offices and Sub-Port Management Offices.** - Port Management Offices shall be established in all major ports in the BARMM while Sub-Port Management Offices shall be established in out-ports, feeder ports, and municipal ports, wherever practicable.
+
+The Port Management Office, headed by the Port Manager with a rank of Section Head, shall be composed of the following units: (1) The Facility Management Unit, headed by the Harbor Master, which shall direct the movement of people and cargo in the port, maintain port facilities, and award concessions in ports; and (2) The Port Security Unit, which shall be in charge of regulating entry to and exit from the Port District, ensuring the safety of passengers, workers, and cargo while they are in the port, and protecting port facilities from human-caused harm.
+
+**Sec. 34. The Bangsamoro Telecommunications Commission (BTC).** - The Bangsamoro Telecommunications Commission shall be composed of the Commission and its Executive Office. The Commission shall be composed of a Commissioner with a rank of Director II and two (2) Deputy Commissioners with a rank of Director I, all of whom shall be appointed by the Chief Minister for a six-year term. One Deputy Commissioner shall be a lawyer while the other one shall be an electronics engineer.
+
+For the first appointees, the term of office shall be staggered. The Commissioner shall hold office for six (6) years and the two (2) Deputy Commissioners shall serve for five (5) and three (3) years, respectively.
+
+**Sec. 35. Powers and Functions of the Commission.** - The Bangsamoro Telecommunications Commission, *en banc*, shall exercise the following powers and functions:
+
+	a. Exercise regulatory and quasi-judicial functions as an attached agency under the Ministry of Transportation and Communications and prescribe guidelines, rules, and regulations covering the exercise of those functions;
+	b. Issue Certificates of Public Convenience (CPC) for the operation of communication utilities and services, radio communication systems, wire or wireless telephone or telegraph systems, radio and television broadcasting systems, and other similar public utilities in the Bangsamoro Autonomous Region;
+	c.c. Prescribe and regulate areas of operation of particular operators of public service communications within the Bangsamoro Autonomous Region, and determine and prescribe pertinent charges or rates except when already established by law or convention;
+	d. Grant permit for the use of radio frequencies, in proper coordination with the National Telecommunications Commission, for wireless telephone and telegraph systems and radio communication systems including amateur radio stations and radio and television broadcasting systems in the Bangsamoro Autonomous Region, in accordance with national laws;
+	e. Administer the examination and licensing of radio operators in the Bangsamoro Autonomous Region;
+	f. Fix reasonable fees and charges for BTC services;
+	g. Approve the BTC trust fund annual plan and budget utilizing its Forty Percent (40%) share in its revenues remitted to the Office of the Regional Treasurer and submit the same to the Minister of Transportation and Communications for indorsement for legislative appropriation; and
+	h. Perform such related functions as may be prescribed by law.
+
+**Sec. 36. Appeal from Commission Decisions.** - A party with standing may appeal to the Chief Minister any decision, order, or resolution of the Commission within thirty (30) days from receipt thereof. Even without an appeal, the Chief Minister may review any Commission decision before it becomes final.
+
+**Sec. 37. The Executive Office of the Commission.** - The Executive Office of the BTC shall be composed of the Office of the Commissioner, the Provincial Coordinating Offices, and the following divisions: (1) The Regulation Division, which shall receive, conduct due diligence, and process applications for Certificates of Convenience, permits to use radio frequencies, licenses for Commission approval; (2) The Enforcement and Operations Division, which shall inspect all telecommunication and broadcast facilities, including cable television systems and other forms of radio services, and enforce laws against illegal possession, ownership, or operation, as well as failure to comply with technical regulations and standards; and (3) The Spectrum Planning and Management Division, which shall study spectrum demand in the Bangsamoro Autonomous Region and request, if needed, or assign specific frequencies. Each Division shall be headed by a Division Chief.
+
+The Provincial Coordinating Office shall assist the Regulation Division and the Enforcement and Operations Division in the performance of their functions. The size and staffing of the Provincial Coordinating Offices shall be determined, based on workload, by the Minister of Transportation and Communications every three (3) years, subject to the approval of the Cabinet.
+
+**TITLE XVI**
+**BANGSAMORO COMMISSIONS**
+
+**Chapter 1**
+**Bangsamoro Women Commission**
+
+**Sec. 1. Declaration of Policy.** - The Bangsamoro Government reaffirms the vital role of women in nation building and regional development in Republic Act No. 11054 otherwise known as the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+The Bangsamoro Government recognizes, promotes, protects, and upholds the fundamental rights of women to representation in all levels of governance, to engage in lawful employment and be protected from exploitation, abuse or discrimination, as embodied in the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW). It shall also ensure the representation and participation of women in governance as provided for under Section 5, Article XIII of Republic Act No. 11054.
+
+The Bangsamoro Government ensures that women are at the forefront of all peace-building efforts, including conflict prevention, conflict resolution and conflict management, in keeping with its commitment under United Nation Security Council Resolution (UNSCR) 1325.
+
+**Sec. 2. The Bangsamoro Women Commission; Mandate.** - Pursuant to Bangsamoro Autonomy Act No. 8, The Bangsamoro Women Commission (BWC) is the primary policy-making, coordinating, and monitoring body of women, gender and development in the Bangsamoro Autonomous Region.
+
+The BWC shall promote, protect, and uphold women’s rights as human rights, work for the elimination of all forms of discrimination against women, ensure that legal measures are taken to promote gender justice, women’s rights and welfare, and promote gender and development including the meaningful participation of women in all levels of governance, policy and decision-making.
+
+It is attached an agency of the Office of the Chief Minister.
+
+**Sec. 3. Composition.** - The Commission shall be composed of seven (7) Commissioners, five (5) of whom shall represent the political units in the territorial jurisdiction of the Bangsamoro Autonomous Region, namely, the province of Basilan including Lamitan City, Sulu, Tawi-Tawi, Lanao del Sur including Marawi City, and Maguindanao including Cotabato City and the Special Geographic Area comprising of the 63 barangays that joined the Region. One of these five (5) Commissioners shall be appointed as Chairperson.
+
+The two (2) *ex officio* Commissioners shall represent the non-Moro indigenous peoples and settler communities. For this purpose, the heads of the Ministry of Indigenous Peoples’ Affairs and the Office for Settler Communities, or if unqualified, their representatives, shall be designated as *ex officio* Commissioners. The *ex officio* Commissioners shall have the right to vote.
+
+**Sec. 4. Qualifications.** - No person shall be appointed as Chairperson or a Commissioner, unless she possesses the following qualifications:
+
+	(1) A citizen of the Philippines;
+	(2) At least 25 years of age at the time of appointment;
+	(3) A resident of the Bangsamoro Autonomous Region at least five (5) years prior to the date of appointment;
+	(4) A registered voter in the Bangsamoro Autonomous Region;
+	(5) Have occupied positions of responsibility and leadership in the government, duly registered women’s organizations, or women-serving organizations and/or institutions; and
+	(6) Have not been convicted of any crime involving moral turpitude.
+
+A majority of the Commissioners shall hold a bachelor’s degree or its equivalent.
+
+**Sec. 5. Appointment and Term of Office.** - The Chief Minister shall appoint the Chairperson and the four Commissioners of the Bangsamoro Women Commission.
+
+Of those first appointed under this Act, the chairperson shall hold office for five (5) years, two (2) members for four (4) years and two (2) members for three (3) years. The succeeding appointment after the expiration of the term of the first in appointees under this act shall serve the term of three (3) years. In all cases, no member of the commission including the chairperson shall serve for more than two (2) consecutive terms.
+
+**Sec. 6. Powers of the Commission.** - In the performance of its functions, the Commission shall have the following powers:
+
+1. To select, hire and promote the Division Chief and other personnel lower than Salary Grade 25 of the Commission subject to civil service rules and regulations;
+2. To suspend, dismiss or otherwise discipline for a cause officials and employees of the Commission except officials and employees from Salary Grade 25 and up;
+3. To enter into contract in relation to their mandates;
+4. To acquire, possess, and dispose of real and personal properties in furtherance of its mandates;
+5. Solicit and accept grants, aid, donations and gift, in cash or in kind, or enter into agreements with any legitimate entity, local or foreign, consistent with its mandate;
+6. To accredit women and people’s organizations operating in the Bangsamoro engaged in women’s rights protection and promotion; and
+7. To perform any and all other acts incident to or required by virtue of its creation
+
+**Sec. 7. Functions of the Commission.** - the Commission shall have the following functions:
+
+1. Policy Formulation and Technical Assistance:
+
+	a) Issue guidelines for the formulation of gender development plans of the Bangsamoro Government and of the local government units within the Bangsamoro Autonomous Region;
+	b) Prepare the Bangsamoro Gender and Development Plan with relevant ministries, agencies, offices and other stakeholders;
+	c) Conduct research to support the development of policies for women designed to promote, uphold, protect the welfare and rights of women;
+	d) Pilot special programs for women that can be replicated in the Bangsamoro;
+	e) Recommend policies and legislations to the Bangsamoro Parliament relating to women, in coordination with concerned ministries, offices and agencies; and
+	f) Provide technical assistance and capacity building to the Bangsamoro Government agencies, local government units and stakeholders.
+
+2. Ensure and Monitor Compliance:
+
+	a) Monitor, assess and ensure compliance of Bangsamoro Government agencies with the issued guidelines and implementation of their Gender and Development (GAD) plans. For this purpose, the Commission may require all ministries, agencies and offices of the Bangsamoro Government to submit their GAD plan and budget as well as regular reports on the status of implementation and utilization thereof;
+	b) Recommend polices to the Bangsamoro Government measures for the successful implementation of GAD plans;
+	c) Monitor and assess the compliance of the Bangsamoro Government on CEDAW, UNSCR 1325, and all other international instruments to which the Philippines is a signatory; and
+	d) Participate in the reporting to international bodies tasked to monitor implementation of CEDAW and other instruments.
+
+3. Coordination with Bangsamoro Government, local government units and stakeholders:
+
+	a) Closely work with and coordinate with the Bangsamoro Planning and Development Authority (BPDA) to generate sex dis-aggregated data in furtherance of evidence-based policies for the welfare of women;
+	b) Refer specific cases of women needing assistance and interventions to Bangsamoro Government agencies, national government agencies and other stakeholders;
+	c) Work with law enforcement agencies, Shari’ah and regular courts, and other institutions and stakeholders to address gender-based violence, and other women’s issues;
+	d) Convene an advisory council composed of representatives from Bangsamoro ministries and other offices including representatives from local government units in the BARMM and one woman representative each from the following stakeholders: youth, civil society organizations, traditional leaders, Bangsamoro communities outside BARMM and religious leaders. For this purpose, the Commission shall issue guidelines for the convening of the Council; and
+	e) Coordinate and cooperate with the Bangsamoro Human Rights Commission on matters pertaining to human rights monitoring, investigation, and reporting.
+
+In addition, the Commission may perform any and all other acts incidental to delivery of its mandate.
+
+**Sec. 8. The Commission as a Collegial Body.** - As a collegial body, the Commission shall promulgate rules, orders, and resolutions necessary for the efficient conduct of its business and administration towards the performance of its mandates.
+
+In the exercise of its powers and functions, the Commission shall sit and render its order and resolution *en banc*. Every such order or resolution of the Commission must bear the concurrence and signature of majority of Members thereof.
+
+The Commission shall meet regularly. A majority of the Members constitutes a quorum needed in any *en banc* meeting of the Commission.
+
+**Sec. 9. Structural Organization of the Commission.** - The Commission shall have the following offices and units:
+
+1. Office of the Chairperson;
+2. Office of the Commissioners;
+3. Office of the Executive Director, which shall be the head Secretariat of the Commission and shall also be in charged with the over-all supervision of the operations of the Commission;
+4. Administrative and Finance Services Division, which shall provide administrative support services to the Commission and to its divisions and offices; and
+5. Technical Services Division, which shall be responsible for providing the Commission with efficient and effective services in terms of planning, implementation, monitoring and evaluation. It shall be composed of three (3) units, namely: Policy and Program Development Unit (PPDU), Monitoring and Evaluation Unit (MEU), and Coordinating and Public Engagement Unit.
+
+**Sec. 10. Salaries.** - The Chairperson and the regular Commissioners shall receive compensation equivalent to Salary Grades 28 and 27, respectively.
+
+**Sec. 11. Offices of the Commissioners.** - Each Commissioner shall have an office in the province that she represents.
+
+**Sec. 12. Access to Funds.** - The budget allocated for the Commission shall be directly transferred to the Commission, for efficiency of operation, subject to usual accounting and auditing rules and regulations.
+
+**Chapter 2**
+**Bangsamoro Youth Commission**
+
+**Sec. 13. The Bangsamoro Youth Commission; Mandate.** - Pursuant to Bangsamoro Autonomy Act No. 10, the Bangsamoro Youth Commission (BYC) is an attached agency of the Office of the Chief Minister.
+
+The BYC shall be the primary policy-making and coordinating body of the Bangsamoro Government in all matters affecting the youth. It shall ensure compliance therewith by all ministries, agencies, offices, and other instrumentalities of the Bangsamoro Government that are mandated to implement programs, projects, and activities affecting the youth of the Bangsamoro Autonomous Region.
+
+**Sec. 14. Powers of the Commission.** - To carry out its mandate, the Commission shall exercise the following powers:
+
+	a) Provide leadership in the formulation and initiation of regional policies and plans, and in the setting of priorities and direction on youth promotion and development programs and activities;
+
+b) Establish a consultative mechanism which shall provide a forum for continuing dialogue between the Bangsamoro Government and the youth sector on the proper planning and evaluation of the policies, programs and projects affecting the youth, convening for this purpose representatives of all youth organizations and institutions, including the *Sangguniang Kabataan*;
+	c) Issue rules and regulations in pursuance of the provisions of this Act
+	d) Accredit, register, and oversee youth organizations and youth-serving organizations within the Bangsamoro Autonomous Region and/or facilities and help in their establishment;
+	e) Promulgate its own rules of procedures;
+	f) Suspend, dismiss, or otherwise discipline for cause, any employee, subject to the mechanisms or processes that may be provided by the Commission
+	g) Enter into contracts;
+	h) Acquire, use, and purchase any land, building, facilities, equipment, instrument, tools, and rights required or otherwise necessary for the accomplishment of the objectives of the Commission
+	i) Acquire, own, possess, and dispose of any real or personal property;
+	j) Accept donations, gifts, bequests, and grants;
+	k) Convene a youth advisory council composed of youth representatives from local government units in the BARMM, women sector, civil society organizations, traditional leaders, Bangsamoro communities outside BARMM, and religious leaders. For this purpose, the Commission shall issue guidelines for the convening of the council; and
+	l) Perform any and all other acts incidental to the delivery of its mandate.
+
+**Sec. 15. Functions of the Commission.** - To carry out its mandates, the Commission shall exercise the following functions:
+
+	a) Assist and coordinate with governmental and non-governmental organizations or institutions in the implementation of all laws, policies, programs and projects relative to youth promotion and development, ensuring that the various government ministries, agencies, offices, and other instrumentalities implement the youth development projects and activities in accordance with their respective annual budget;
+	b) Support any government agency, office or instrumentality including government-owned or -controlled corporations, local government units as well as non-governmental organizations or institutions in pursuance of its policies, programs and projects for the youth;
+	c) Plan, implement, and oversee a regional integrated youth promotion and development program;
+	d) Coordinate, implement, regulate and administer youth programs consistent with the declared policies of this Act;
+	e) Establish and maintain linkages with national and international youth organizations or institutions and counterpart agencies of foreign governments in order to facilitate and ensure the participation of Bangsamoro youth in national and international functions and affairs;
+	f) Conduct scientific, interdisciplinary, and policy-oriented research and studies on youth-related matters;
+	g) Organize trainings, seminars, and workshops that will enhance the skills and leadership potentials of the youth, instilling in them nationalism and patriotism, with particular emphasis on Bangsamoro culture and Islamic values;
+	h) Conduct promotional and fund-raising campaigns to support youth-related programs and projects in accordance with existing laws;
+	i) Extend and provide support or assistance to deserving youth and youth organizations including scholarship grants;
+	j) Initiate peace building activities and programs;
+	k) Administer youth exchange programs as well asmonitor and coordinate all foreign-sponsored youth programs and projects in the region;
+	l) Participate in national and international for a, symposia and activities of organizations; and
+	m) Perform any and all other acts incident to or required by virtue of its creation.
+
+**Sec. 16. Powers of the Chairperson.** - The Chairperson:
+
+	a) Convenes and presides over regular and special sessions and meetings of the Commission and Divisions thereof that it may constitute;
+	b) Represents the Commission in all its business transactions, and signs, on its behalf, contracts, and obligations, and such other documents pursuant to a resolution of the Commission Proper;
+	c) Acts as the focal point of communication of the Commission;
+	d) Appoints the employees and other personnel of the Commission whose Salary Grades are 24 or below;
+	e) Approve or disapprove the transfer or detail of employees, subject to the provisions of existing laws and regulations; and
+	f) Performs such other powers that may be vested by the Commission Proper.
+
+**Sec. 17. Composition.** - The Commission shall be composed of one (1) Chairperson and four (4) regular Commissioners representing the major political subdivisions of the Bangsamoro Autonomous Region, namely:
+
+	a) Maguindanao, including Cotabato City and the Special Geographic Area comprising of the 63 barangays that joined the Bangsamoro Autonomous Region;
+	b) Lanao del Sur, including Marawi City;
+	c) Sulu;
+	d) Basilan, including Lamitan City; and
+	e) Tawi-Tawi.
+
+There shall be two (2) *ex officio* Commissioners coming from the non-Moro indigenous peoples and settler communities. For this purpose, the respective heads of the Ministry of Indigenous Peoples Affairs and the Office for Settler Communities, shall designate their *ex officio* Commissioner from their offices. The *ex officio* Commissioners shall have the right to participate and the right to vote. At least two (2) of the Commissioners shall be women.
+
+**Sec. 18. Appointments.** - The Chairperson and the Commissioners shall be appointed by the Chief Minister.
+
+The Chairperson, as a matter of policy, shall be rotated every term in accordance with the representations in the major geographical subdivisions.
+
+For the first set of appointees to the positions of the Chairperson and the Commissioners, the Chief Minister shall select from the list of nominees submitted by youth groups, youth organizations or youth-serving organizations operating within the BARMM and which have been in existence for at least three (3) years as of the approval of this Code.
+
+For the succeeding appointees, the Chief Minister shall select from a list containing between three (3) and five (5) names for each position, submitted by youth groups, youth organizations or youth-serving organizations in their respective areas as duly accredited by the Commission. Nominating youth groups, youth organizations or youth-serving organizations should have been in existence for at least three (3) years at the time of the submission of the nomination.
+
+**Sec. 19. Term of Office and Compensation.** - Of those first appointed under this Code, the Chairperson shall hold office for five (5) years, two (2) members for four (4) years, and two (2) members for three (3) years.
+
+Thereafter, all succeeding appointees shall serve for a term of three (3) years. They may be re-appointed for another term, provided that they shall not exceed the age limit at the time of their reappointment. In no case shall any member be appointed, re-appointed more than once, nor designated in a temporary or acting capacity.
+
+The term of the Chairperson and Members of the Commission shall commence on the day immediately succeeding the end of the previous term, regardless of the date of appointment. Appointees to any vacancy occurring during the term shall serve only for the remaining portion of the term.
+
+The Chairperson and the regular Commissioners shall receive compensation equivalent to Salary Grades 28 and 27, respectively.
+
+**Sec. 20. Qualifications.** - The Chairperson and the Commissioners, including the regular and *ex officio* Commissioners, shall have the following qualifications:
+
+a) A citizen of the Philippines;
+b) A registered voter of the BARMM and, in the case of the Chairperson and the regular Commissioners, a registered voter of the major political subdivision s/he represents;
+c) A resident of what now constitutes as the BARMM for a period of two (2) years;
+d) Must have exercised positions of responsibility and have shown leadership in any youth and/or youth-serving organizations or institutions;
+e) Must be of good moral character and not have been convicted of a crime involving moral turpitude;
+f) Must have at least one (1) year exposure to youth affairs, projects, and programs management; and
+g) Not more than forty (4) years of age at the of his/her appointment
+
+Majority of the Commissioners including the Chairperson shall be holders of bachelor's degree or its equivalent.
+
+**Sec. 21. Commission Secretariat and Executive Director.** - The Commission shall be supported by a Secretariat headed by an Executive Director who shall also be the Secretary of the Commission. The Executive Director shall be appointed by the Chief Minister upon the recommendation of the Commission. S/he shall exercise direct supervision over the Administrative and Finance Division and the Technical Service Division.
+
+The Secretariat shall assist the Commission Proper in the performance of its policy-making function, as well as its other functions.
+
+The staffing pattern and compensation schedule of the secretariat shall be in accordance with existing laws, rules,and regulations;
+
+**Sec. 22. Duties and Responsibilities of the Secretariat.** - The secretariat shall be responsible for:
+
+(a) the effective and efficient performance of the functions of the Commission and implementation of its programs;
+(b) assisting the Commission in identifying priority programs for fund allocation;
+(c) submission of periodic accomplishment reports to the Commission;
+(d) preparation of annual reports of the Commission; and
+(e) exercising such other functions as the Commission may direct.
+
+**Sec. 23. Organizational Structure.** - The Commission shall be composed of the following divisions:
+
+1. Technical Services Division which shall consist of the following sub-units:
+	a. Planning and Development Unit;
+	b. Research Service Unit;
+	c. Project Management, Monitoring and Evaluation Unit; and
+	d. Public Relations Unit.
+
+2. Administrative and Finance Division.
+
+**Sec. 24. Offices of the Commissioner.** - Each Commissioner shall have an office in the province that s/he represents.
+
+**Sec. 25. Powers and Functions of the Offices of the Commissioner.** - The Offices of the Commissioner shall have the following powers and functions:
+
+a. Coordinate with provincial offices of ministries and agencies for youth programs;
+b. Coordinate with local government units concerning youth affairs; and
+c. Perform other powers and fractions as may be vested by the Commission proper.
+
+**Sec. 26. Bangsamoro Youth Coordinating Council.** - There shall be a Youth Coordinating Council which shall:
+
+a. Be the venue for coordination between the Commission and the ministries and other instrumentalities of the Bangsamoro Government in the implementation of youth-related projects, programs, and activities;
+b. Be the mechanism for monitoring the compliance of the ministries and other instrumentalities of the Bangsamoro Government on youth-related policies;
+c. Be the forum for the discussions in relation to the Commission's formulation and issuance of youth-related policies, standards, rules, and guidelines; and
+d. Be the body that may be consulted by the Commission for advice, guidance, and assistance on important matters relating to youth affairs, welfare and development.
+
+The Council shall beheaded by the Chairperson of the Commission and composed of the senior officers and representatives of the agencies with policy formulating functions of the following: Ministries of Basic, Higher and Technical Education; Science and Technology; Social Services and Development; Interior and Local Government; Environment, Natural Resources and Energy; Labor and Employment; Agriculture, Fisheries, and Agrarian Reform; Health; Trade, Investments, and Tourism; Indigenous Peoples' Affairs; Bangsamoro Women Commission; Office of Settler Communities; Sports; and Religious Affairs, and such other ministries, offices, commissions, and other instrumentalities that have relevant programs as may be determined by the Chief Minister.
+
+The Council shall meet twice a year or as often as may be necessary upon call of the Chairperson.
+
+**Chapter 3**
+**Bangsamoro Sports Commission**
+
+**Sec. 27. *Declaration of Policy.*** - The Bangsamoro Government shall promote physical education and encourage sports programs, league competitions, and amateur sports including training for regional, national, and international competitions, to foster self-discipline, teamwork, and excellence for the development of a healthy and alert citizenry.
+
+It shall develop innovative and productive individuals, promote sportsmanship, cooperation, encourage and support indigenous games, martial arts and amateur sports. It shall further recognize the diverse cultures of the region and consider gender, culture and religious sensitivity.
+
+**Sec. 28. *The Bangsamoro Sports Commission (BSC) Mandate.*** - The Bangsamoro Sports Commission (BSC) is mandated to formulate policy, promote, regulate, coordinate, and implement programs for sports. It shall also provide for system, support and assistance in the development of sports. It shall, as a policy, make sure that sports is a tool for peace and transitional justice.
+
+**Sec. 29. *Nature of the Commission.*** - The Commission shall exercise corporate powers. It shall have a seal, may sue and be sued, and shall be the policy-making and coordinating body of all amateur sports development programs and institutions in the Bangsamoro: *Provided*, That in the case of the school sports development program, the same shall be formulated and implemented by the Ministry of Basic, Higher and Technical Education (MBHTE) with the assistance of the Commission within the framework of the regional and national sports development program.
+
+It is an attached agency of the Office of the Chief Minister.
+
+**Sec. 30. *Powers and Functions of the BSC.*** - The BSC shall have the following powers and functions:
+
+(a) On Plan and Policy-Making:
+
+	1. Prepare the Bangsamoro Sports and Development Plan with the participation of relevant ministries, agencies, offices and other stakeholders;
+	2. Recommend sports policies for legislations by the Parliament;
+	3. Undertake basic and applied research on sports development including the promotion and preservation of indigenous sports;
+	4. Conduct research that seeks to develop sports and promote, uphold, and protect the rights and welfare of Bangsamoro athletes;
+	5. Undertake research in making sports as instrument to fight against criminalities, drugs, and violent extremism; and as a vehicle for peace;
+	6. Pilot special programs for the development of sports in the Bangsamoro for appropriate action by the Bangsamoro Government; and
+	7. Make sports as a tool for peace and transitional justice.
+
+(b) On Coordination and Sports Promotion:
+
+	1. Coordinate and maintain linkages with the Philippine Sports Commission, National Sports Commission or organizations of other countries, and other local or foreign non-governmental organizations whose main objective is sports promotion and development;
+	2. Coordinate with the Ministry of Basic, Higher and Technical Education (MBHTE) regarding the *Palarong Pambansa*, BARMMAA, and other athletic competitions;
+	3. In coordination with the Bangsamoro Youth Commission and the Ministry of Social Services and Development, engage with organizations dealing youth, out-of-school youth, marginalized children, persons with disability, and other vulnerable sectors to develop their potential in sports;
+	4. Convene appropriate sports from both public and private schools;
+	5. Assist in the establishment of regional, provincial, municipal, barangay, or school district sports promotion and development councils which shall initiate, conduct, and coordinate sports activities in their respective jurisdictions;
+	6. Assist local government units in promoting sports at the community level especially those included in the calendar of events of regional, national, and international competitions;
+	7. Provide technical assistance and capacity-building to relevant stakeholders;
+	8. Participate in the reporting to international bodies tasked to monitor the implementation of sports programs;
+	9. Provide such incentives, recognition, and awards to deserving athletes and other persons and entities involved in/or supporting sports development as may be permissible under the rules of amateurism; and
+	10. Refer specific cases of athletes needing assistance and interventions to concerned Bangsamoro Government Agencies, National Government Agencies and other stakeholders; and as far as practicable, establish, supervise, manage and maintain fully-equipped sports facilities and centers in strategic places in the Bangsamoro Region.
+
+(c) On Regulation:
+
+	1. Impose sanctions upon any regional sports association, institution, association, body, entity, and team including athletes and sports officials for violation of its policies, rules, and regulations;
+	2. Accredit sports club and people’s organizations operating in the Bangsamoro engaged in the protection and promotion of sports;
+	3. Acquire, procure and distribute sportswear, equipment, instruments, tools and other sports necessities required for the training of a regional pool of athletes;
+	4. Define and delineate areas of responsibilities in different sports competitions of all sectors involved in sports promotion and development; and
+	5. Monitor, assess and ensure compliance of Bangsamoro Government agencies with the issued guidelines and implementation of their sports programs. For this purpose, the BSC may require all ministries, agencies and offices of the Bangsamoro Government to submit their sports plan and budget as well as regular reports on the status of implementation and utilization thereof.
+
+(d) To enter into contracts in relation to its mandates;
+(e) To acquire, possess, and dispose of real and personal properties in furtherance of its mandates;
+(f) In close coordination with the Office of the Chief Minister (OCM), solicit and accept grants, aid, donations and gifts, in cash or in kind, or enter into agreements with any legitimate entity, local or foreign, consistent with its mandate subject to the limitations as set for under Section 26, Article 12 of the Bangsamoro Organic Law;
+(g) To acquire, use and control any land, building, facilities, equipment, instruments, tools and rights required or otherwise necessary for the accomplishment of the purposes of the BSC; and
+(h) Ensure the implementation by various government departments and agencies of their sports promotion and development programs as indicated in their respective budgets.
+
+The BSC may perform any and all other acts incidental to the delivery of its mandate.
+
+**Sec. 31. *Organizational Structure.*** - The BSC shall have the following organizational structure: (a) Commission Proper; (b) Office of the Chairperson; (c) Office of the Secretariat.
+
+**Sec. 32. *Commission Proper.*** - The Commission Proper shall consist of the Chairperson, four (4) regular Commissioners, and two (2) *ex officio* Commissioners sitting as a collegial body. It shall be the highest policy and decision-making body of the BSC and shall exercise the mandate, powers, and functions of the BSC as hereinafter provided. It shall transact its official business upon the decision of the majority with the presence of a quorum. A quorum shall be considered to exist when a majority of the members are present. It shall promulgate its own internal rules thirty (30) days from its first meeting.
+
+**Sec. 33. *Presiding Officer.*** - The Chairperson shall preside over the meetings of the Commission. In his/her absence, the regular Commissioner most senior in the order of appointment shall preside.
+
+**Sec. 34. *Regular and Special Meetings.*** - The BSC, without need of prior call, shall conduct regular meetings every first and third Monday of the month at its principal office or at any other place it may determine. If it falls on a non-working day, the meeting shall be held on the following working day without need for a call. Special meetings may be called, for good cause, by the Chairperson or by any Commissioner.
+
+**Sec. 35. *Office of the Chairperson.*** - The Chairperson shall ensure that the powers and functions of the Commission will be carried out.
+
+**Sec. 36. *Vacancy in the Office of the Chairperson.*** - In case of vacancy in the Office of the Chairperson, the regularCommissioner most senior in the order of appointment shall automatically assume as Acting Chairperson without need of appointment. Such acting capacity shall be automatically terminated upon the assumption to office of the newly appointed Chairperson.
+
+**Sec. 37. Commissioners.** - The powers and functions of the regular and *ex officio* Commissioners are limited to policy-making as members of the Commission Proper. The Commissioners as such shall not exercise executive powers and functions except when designated, in an official order, by the Chairperson as Officer-in-Charge. A Commissioner may also be designated by the Chairperson as focal person for any mandated subject matter.
+
+**Sec. 38. Terms of Office.** - Of the first members of the Commission appointed under this Act, the Chairperson shall hold office for five (5) years, two (2) members for four (4) years, and two (2) members for three (3) years. Thereafter, all succeeding appointees shall serve for a term of three (3) years fixed term.
+
+**Sec. 39. Office of the Secretariat of the Commission.** - There shall be an Office of the Secretariat of the Commission whose function is to assist and support the Commission Proper. It shall be headed by an Executive Director with Salary Grade 26. It shall be composed of three (3) divisions such as: (1) Policy, Research and Development Division; (2) Regulatory, Promotion and Coordination Division; and (3) Financial and Administrative Division.
+
+**Sec. 40. Powers and Functions of the Executive Director.** - The following are the powers and functions of the Executive Director:
+
+(a) Exercise full supervision and oversee the implementation of all programs, projects, services, and activities of the BSC;
+(b) Exercise supervision and control over all officials and employees of the BSC except the Commissioners;
+(c) Exercise personnel action of appointment, hiring, designation, reassignment, rotation, secondment, detail, and disciplining: *Provided*, That when the action involves the appointment or removal of personnel, it should be with the concurrence of the Commission Proper;
+(d) Represent the BSC in all its business transactions and sign, on its behalf, contracts and obligations, and such other documents made pursuant to a resolution of the Commission Proper; and
+(e) Perform such other powers as may be vested by the Commission Proper.
+
+**Sec. 41. Policy, Research, and Development Division.** - The Policy, Research and Development Division, which shall be headed by a Division Chief, shall assist the BSC in research, policy formulation, and development of sports in the Bangsamoro. It shall also develop knowledge, skills, abilities, tools, and technical approaches of the BSC.
+
+**Sec. 42. Regulatory, Promotion, and Coordination Divisions.** - The Regulatory, Promotion and Coordination Division,which shall be headed by a Division Chief, shall assist the BSC in the exercise of its regulatory powers, such as issuance of rules and regulations, guidelines, compliance, monitoring and evaluation, and other related matters. It shall also be responsible for sports education and training, programming, technical assistance, public information and production, coordination and cooperation, and linkages with other sports associations, commissions or organizations.
+
+**Sec. 43. Financial and Administrative Division.** - The Financial and Management Division which shall be headed by a Division Chief, shall provide advice, support, and assistance to the BSC on matters of budget, finance, planning, management, information technology, personnel, records, supplies and equipment, and other support and administrative services.
+
+**Sec. 44. Assistance by Bangsamoro Government Entities.** - The BSC may call upon any Bangsamoro Government entity for assistance in the performance of its functions and duties. All heads of ministries, agencies, and offices of the Bangsamoro Government hereby enjoined to render full assistance and cooperation to the BSC to ensure the attainment of its mandates.
+
+**Sec. 45. Access to Funds.** - The budget allocated for the Commission shall be directly transferred to the Commission, for efficiency of operation, subject to usual accounting and auditing rules and regulations.
+
+**Chapter 4**
+**Bangsamoro Commission for the Preservation of Cultural Heritage**
+
+**Sec. 46. Bangsamoro Commission for the Preservation of Cultural Heritage.** - The Bangsamoro Commission for the Preservation of Cultural Heritage (BCPCH) is hereby created, composed of a Chairperson and six (6) Commissioners. It shall have the same status as the other agencies or offices of the Bangsamoro Government attached to the Office of the Chief Minister.
+
+**Sec. 47. Mandate.** - Pursuant to the Bangsamoro Organic Law, the BCPCH shall have the primary responsibility to write the history of the Bangsamoro people and to establish and sustain the cultural institutions, programs, and projects in the Bangsamoro Autonomous Region. The Commission shall coordinate and work closely with the National Commission for Culture and the Arts, National Historical Commission of the Philippines, National Museum of the Philippines, and other concerned cultural agencies for the preservation of cultural heritage, shall establish libraries and museums, declare and restore historical shrines and cultural sites to preserve the Bangsamoro heritage for posterity. The Commission shall ensure the inclusion of Philippine history, culture and heritage in the establishment of museums and similar institutions, programs and projects to foster unity among the Filipinos.
+
+**Sec. 48. Management of Bangsamoro Historical and Cultural Sites.** - The National Government shall transfer the management of Bangsamoro historical and cultural sites currently under the jurisdiction of the National Museum of the Philippines, National Historical Commission of the Philippines, and other agencies of the National Government to the BCPCH through intergovernmental relations mechanisms. The BCPCH shall coordinate with relevant agencies of the National Government on the regulation, excavation, and preservation of cultural artifacts and on the recovery of lost historical and cultural heritage.
+
+**Sec. 49. Powers of the BCPCH.** - To carry out its mandate, the Commission shall exercise the following powers:
+
+	a. Identify, declare, validate, and monitor historical shrines and sites, including the institution or markers and landmarks in the Bangsamoro Region in close coordination with the relevant national agencies concerned;
+	b. Recommend to the Bangsamoro Government regional policies and legislation on culture, arts, heritage promotion and development programs and activities;
+	c. Establish consultative mechanisms which shall provide platforms for continuing dialogue between the Bangsamoro Government and the cultural groups on the proper planning and evaluation of the policies, programs, and projects affecting the culture, arts, and heritage of the Bangsamoro people, convening for this purpose representative of all cultural groups and institutions, including the cultural cooperatives;
+	d. Accredit, register, and oversee cultural mapping initiatives and registry of cultural property;
+	e. Solicit and accept donations, gifts, requests, and grants in cash and in kind, or enter into agreements with any legitimate entity, local or foreign, subject to the approval of the Cabinet; and
+	f. Perform any and all other acts incident to or required by virtue of its creation.
+
+**Sec. 50. Functions of the BCPCH.** - To conserve and promote the Bangsamoro’s historical and cultural heritage, the BCPCH shall have the following functions:
+
+	a. Support, monitor and systematize the retrieval and conservation of artifacts of Bangsamoro culture and history and all Bangsamoro cultural treasures from all over the Bangsamoro Autonomous Region and the Philippine Archipelago;
+	b. Encourage and support the study, recognition and preservation of endangered human cultural resources such as weavers, chanters, dancers, and other craftsmen as well as the conservation and development of artistic, linguistic and occupational skills that are threatened with extinction;
+	c. Support and promote the establishment and preservation of cultural and historical monuments, markers, names and sites;
+	d. Encourage and support the establishment and/or maintenance all over the Bangsamoro Autonomous Region of museums, libraries, archives, private or public, as repositories, respectively of all cultural/historical artifacts and artistic creation, printed works, archival records and all other materials indispensable to the study and evaluation of Bangsamoro culture and history;
+	e. Encourage the private sector to establish and maintain private museums and libraries;
+	f. Encourage and support scholarly research into and documentation of Bangsamoro cultural traditions, arts and crafts, as well as significant cultural movements, achievements and personalities especially in the literary, visual and performing arts, and in mass media, as well as the various aspects of Bangsamoro culture;
+	g. Encourage and support the writing of history from the Bangsamoro perspective; and
+	h. Ensure that standards of excellence are pursued in programs and activities implementing policies herein stated, it shall encourage and support continuing discussion and debate through symposia, workshops, and publications on the highest norms available in the matrix of Bangsamoro culture.
+
+**Sec. 51. Composition.** - The Commission *en banc* shall be composed of seven (7) Commissioners. Five (5) Commissioners shall be representative of the major political subdivisions of the Bangsamoro Autonomous Region, namely:
+
+	a. Maguindanao, including Cotabato City and the 63 barangays that joined the Bangsamoro Autonomous Region;
+	b. Lanao del Sur, including Marawi City;
+	c. Sulu;
+	d. Basilan, including Lamitan City;
+	e. Tawi-Tawi
+
+The Chair of the Commission shall come from one of these five representatives.
+
+The two (2) other *ex officio* Commissioners shall come from the non-Moro indigenous peoples and settler communities. For this purpose, the respective heads of the Ministry of Indigenous people’s Affairs and Office for Settler Communities shall designate the *ex officio* Commissioner from their offices. The *ex officio* Commissioners shall have the right to vote.
+
+At least two (2) of the Commissioners shall be women.
+
+**Sec. 52. Appointments.** - The Chairperson and the four (4) Commissioners representing the political subdivisions shall be appointed by the Chief Minister.
+
+The Chairperson, as a matter of policy, shall be rotated every term in accordance with representations in the major geographical subdivisions.
+
+**Sec. 53. Term of Office.** - Of those first appointed under this Act, the Chairperson shall hold office for a fixed term of five (5) years, two (2) members for fixed terms of four (4) years, and three (3) members for three (3) years fixed term.
+
+Thereafter, all succeeding appointees shall serve for a term of three (3) years fixed term. They may be re-appointed for another term.
+
+The term of the Chairperson and members of the Commission shall commence on the day immediately succeeding the end of the previous term, regardless of the date of appointment.
+
+Appointees to any vacancy occurring during the term shall serve only for the remaining portion of said term.
+
+**Sec. 54. Qualifications.** - The Chairperson and the Commissioners, including the regular and *ex officio* Commissioners, shall have the following qualifications:
+
+	a. A citizen of the Philippines;
+	b. A registered voter of the BARMM and, in the case of the Chairperson and the regular Commissioners, a registered voter of the major political subdivision he/she represents;
+	c. For the *ex officio* members, must belong to the sector that they represent, i.e., non-Moro indigenous peoples and settlers
+	d. A resident of the BARMM for a period of two (2) years;
+	e. Holders of a Master’s degree and/or Doctoral degree;
+	f. Of good moral character;
+	g. Must have at least three (3) years of exposure to cultural affairs, history, project and program management;
+	h. Must have at least four years (4) years of managerial experience; and
+	i. At least 35 years of age at the time of his/ her appointment.
+
+**Sec. 55. Powers of the Chairperson.** - The Chairperson shall:
+
+	a) convene and preside over regular and special sessions and meetings of the Commission and divisions it may constitute;
+	b) represent the Commission in all its business transactions and signs, on its behalf, contracts, and obligations, and such other documents pursuant to a resolution of the Commission proper;
+	c) act as a focal point of communication of the Commission;
+	d) appoint the employees and other personnel of the Commission for Salary Grade 24 and below;
+	e) approve or disapproves the transfer or detail of employees subject to the provisions of existing laws and regulations; and
+	f) perform such other powers as may be vested by the Commission proper.
+
+**Sec. 56. Offices of the Commissioners.** - Each Commissioner shall head an office in the province s/he represents.
+
+**Sec. 57. Powers and Functions of the Offices of the Commissioners.** - The Offices of the Commissioners shall have the following powers and functions:
+
+	a. To lead the execution of the cultural development programs, activities, and projects at the provincial level;
+	b. Coordinate with provincial offices of ministries, agencies, and civil society organizations for cultural development programs;
+	c. Coordinate with LGUs concerning cultural affairs; and
+	d. Perform other powers and functions as may be vested by the Commission proper.
+
+**Sec. 58. The Executive Director; Functions; Term of Office.** - There shall be an Executive Director, appointed by the Chief Minister, who shall be responsible for implementing the policies, rules, regulations and directives of the BCPCH and shall direct and supervise its day-to-day operation. The Executive Director shall have supervision and control over the Coordination and Support Services Division, and Administrative and Finance Division.
+
+The specific functions of the Executive Director are as follows:
+
+	a. Execute the policies and measures approved by the Commission en banc and be responsible for the efficient and effective day-to-day management of the operations of the BCPCH;
+	b. Prepare the annual budget for the operations of BCPCH for submission to the Commission en banc;
+	c. Prepare an annual report on the accomplishments of BCPCH for submission to the Commission en banc, the Parliament and other appropriate agencies of the Bangsamoro Government; and
+	d. Perform such other duties as may be assigned to him by the Commission en banc.
+
+The Executive Director shall serve for a fixed term of four (4) years, subject to reappointment.
+
+**Sec. 59. Qualifications of Executive Director.** - No person shall be appointed as Executive Director of the Commission unless a citizen of the Philippines, a resident of the Bangsamoro Autonomous Region, at least 30 years of age, of good moral character, a college graduate, and has at least three (3) years of relevant experience in any of the following fields: law; economics; public administration, commerce; management; social services; or finance.
+
+**Sec. 60. Access to Funds.** - The budget allocated for the Commission shall be directly transferred to the Commission, for efficiency of operation, subject to usual accounting and auditing rules and regulations.
+
+**TITLE XVII**
+**OTHER COMMISSIONS AND BODIES**
+
+**Chapter 1**
+**Bangsamoro Human Rights Commission**
+
+**Sec. 1. Declaration of Policy.** - The Bangsamoro Government values the dignity of every human person and guarantees full respect for human rights. It shall give the highest priority to the enactment of measures to protect and enhance the right of all people to human dignity at all stages of human life.
+
+**Sec. 2. The Bangsamoro Human Rights Commission.** - Pursuant to Bangsamoro Autonomy Act No. 4, the Bangsamoro Human Rights Commission (BHRC) shall be the human rights institution in the Bangsamoro Government.
+
+**Sec. 3. Mandate.** - As the human rights institution of the Bangsamoro, the BHRC shall promote and protect human rights, and during armed conflict, uphold international humanitarian law.
+
+**Sec. 4. Independence.** - The BHRC’s independence is guaranteed. It shall not be subject to interference, directly or indirectly, from any government or private entity.
+
+**Sec. 5. Fiscal Autonomy.** - The BHRC shall have fiscal autonomy. It shall be provided with adequate funding which shall be regularly and automatically released. Annual appropriation of funds to the Commission shall not be reduced from the amount it received in the preceding fiscal year. The compensation, emoluments, privileges, or any other benefits enjoyed by the Chairperson, Commissioners, and all its officials and employees under this Act shall not be decreased.
+
+**Sec. 6. Composition.** - The Commission shall be composed of a Chairperson and two (2) Commissioners.
+
+**Sec. 7. Qualifications.** - The Chairperson and the Commissioners shall possess the following qualifications:
+
+	(a) Must be of proven integrity, professional competence, probity, and independence;
+	(b) Must be residents of what constitutes the Bangsamoro Autonomous Region for at least two (2) years on the date of the appointment;
+	(c) Must be natural-born citizens of the Philippines;
+	(d) Must beat least thirty (30) years of age at the time of appointment;
+	(e) Must have at least five (5) years of relevant experience in human rights promotion and protection;
+	(f) For the Chairperson, must be a regular member of the Philippine Bar who has been engaged in the practice of law for at least five (5) years; and
+	(g) For the Commissioners, must be holders of a bachelor’s degree from colleges and universities recognized by the National Government, and preferably be members of the Philippine Bar.
+
+**Sec. 8. Disqualifications.** - The following persons are disqualified from appointment as Chairperson or Commissioner of the Commission:
+
+	(a) Those who have been:
+		1) Found culpable of human rights violations or abuse;
+		2) Sentenced by final judgment of any offense involving moral turpitude; or
+		3) Removed from office or suspended for at least one (1) year as a result of disciplinary action from the government or private sector;
+
+	(b) Those with dual citizenship;
+	(c) Those who are fugitives from justice;
+	(d) Those who have acquired the privilege to reside abroad; or
+	(e) Those who are otherwise disqualified by law.
+
+**Sec. 9. Appointment and Term of Office.** - The President shall appoint the Chairperson and Commissioners of the Commission from a list of three recommendees for each position from the Chief Minister. They shall serve for a term of seven (7) years.
+
+For the first appointees under this Act, the term of office shall be staggered. The Chairperson shall hold office for seven (7) years and the two (2) Commissioners shall serve for five (5) and three (3) years, respectively.
+
+The term of the Chairperson and Commissioners shall start on the day immediately after the end of the previous term, regardless of the date of appointment. No person herein appointed shall be eligible for reappointment either as Chairperson or Commissioner, except as provided below, nor be designated in a temporary or acting capacity.
+
+Appointment to any vacancy occurring during the term shall only be for the unexpired portion thereof. Such appointee shall not be eligible for reappointment except when the latter served for less than two (2) years.
+
+**Sec. 10. Prohibition.** - The Chairperson or Commissioners shall, during their tenure:
+
+	(a) not hold any other office or employment in any government or private institution;
+	(b) not engage in the practice of any profession or in the active management or control of any business;
+	(c) not be financially interested, directly or indirectly, in any contract with or in any franchise or privilege granted by the government; and
+	(d) avoid conflict of interest in the conduct of their office.
+
+**Sec. 11. Salary Retirement, Benefits and Other Privileges of the Chairperson and the Commissioners.** - The Chairperson shall receive a compensation equivalent to Salary Grade 28 along with the privileges, emoluments, and benefits attached thereto. The Commissioners shall receive a compensation equivalent to Salary Grade 27 along with the privileges, emoluments, and benefits attached thereto.
+
+**Sec. 12. Organizational Structure.** - The Commission shall have the following organizational structure:
+
+	(a) Commission Proper;
+	(b) Office of the Chairperson;
+	(c) Office of the Secretariat of the Commission;
+	(d) Provincial Director’s Offices; and
+	(e) Such other offices as may be required by the performance of its mandate, powers, and functions.
+
+**Sec. 13. Commission Proper.** - The Commission Proper shall consist of the Chairperson and the two Commissioners, sitting as a collegial body. It shall be the highest decision-making body of the Commission and shall exercise the mandate, powers, and functions of the Commission. It shall transact its official business upon the decision of the majority with the presence of a quorum. The quorum shall be considered to exist when a majority of the appointed members are present.
+
+**Sec. 14. Presiding Officer.** - The Chairperson shall preside over the meetings of the Commission. In his/her absence, the Commissioner more senior in the order of appointment shall preside.
+
+**Sec. 15. Regular and Special Meetings.** - The Commission, without prior call, shall conduct regular meetings every first and third Monday of the month at its principal office or at any other place as it may determine. If it falls on a non-working day, the meeting shall be held on the following working day without a call. Special sessions may be called, for good cause, by the Chairperson or by any Commissioner.
+
+**Sec. 16. Open Meeting.** - All investigative sessions shall be open to the public except when confidentiality is necessary. Meetings that pertain to administrative and internal matters shall be held in executive session.
+
+**Sec. 17. Office of the Chairperson.** - The Chairperson shall be the Chief Executive of the Commission, vested with the following powers and functions:
+
+	(a) Exercise the power of control and supervision over all officials and employees of the Commission, except the Commissioners. including on matters of hiring, designation, reassignment, rotation, secondment, detail, and disciplining: Provided, That when the action involves the removal of a personnel, it should be with the concurrence of the Commission Proper;
+	(b) Approve authority to travel, local or abroad, of the Commissioners: Provided, That in case of the Chairperson, approval shall be obtained from any Commissioner with the attestation of the Director of the Office of the Secretariat of Commission;
+	(c) Exercise full supervision and oversee the implementation of all programs, projects, services, and activities of the Commission;
+	(d) Represent the Commission in all its business transactions and signs, on its behalf, contracts, and obligations, and such other documents made pursuant to a resolution of the Commission Proper;
+	(e) Act as the focal point of communication of the Commission; and
+	(f) Perform such other powers as may be vested by the Commission Proper.
+
+**Sec. 18. Vacancy in the Office of the Chairperson.** - In case of vacancy in the Office of the Chairperson, the Commissioner more senior in appointment or the lone remaining Commissioner shall automatically act as Chairperson without need of appointment. Such acting capacity shall be automatically terminated upon the assumption to office of the newly appointed Chairperson.
+
+**Sec. 19. Commissioners.** - The powers and functions of the two Commissioners are limited to policy-making as members of the Commission Proper. The Commissioners as such shall not exercise executive powers and functions except when designated, in an official order, by the Chairperson as Officer-in-Charge. A Commissioner can also be designated as focal person for any mandated subject matter by the Chairperson.
+
+**Sec. 20. Powers and Functions.** - In the fulfillment of its mandate, the Commission shall exercise the following powers and functions:
+
+	a) Promote human rights through education and training, public awareness and publications;
+	b) Protect human rights and uphold international humanitarian law through conducting investigations, monitoring, fact-finding missions, and public inquiries, reporting the results of the same, and proceeding with prosecution when warranted;
+	c) Advise the government, at its own instance or upon request, on the promotion and protection of human rights and international humanitarian law;
+	d) Protect human rights defenders;
+	e) Act as the transitional justice mechanism;
+	f) Perform administrative functions, particularly:
+		1. implement its organizational structure and staffing pattern;
+		2. adopt:
+			(i) An annual budget for the approval of the Parliament;
+			(ii) Strategic plans taking into account the context on which it operates, for purposes of setting its priorities and for the proper allocation of its financial and human resources;
+			(iii) Programs, activities, projects, services, and initiatives pursuant to its mandate, powers, and functions;
+			(iv) Communications and information plans;
+			(v) Monitoring and evaluation mechanisms;
+			(vi) A manual of operations; and
+			(vii) A seal and logo.
+	g) Approve core services in accordance with its mandate, powers, and functions;
+	h) Conduct performance audit over investigation personnel and administrative staff:
+	i) Solicit and accept grants, aid, donations, and gifts, in cash or in kind, or enter into agreements with any legitimate entity, local or foreign, consistent with its mandate, provided that it will not undermine its independence;
+	j) Acquire, possess, and dispose of real and personal properties in furtherance of its mandate; and
+	k) Perform such other powers and functions as may be provided by law, consistent with its mandate, independence, and fiscal autonomy.
+
+**Sec. 21. Gender and Development Ombud.** - The Commission shall act as the Gender and Development Ombud for the Bangsamoro. It shall undertake measures relating to promotion and protection of women’s rights under said law and international human rights instruments.
+
+**Sec. 22. Children Ombud.** - The Commission shall act as the Children Ombud for the Bangsamoro. It shall ensure that the status, rights, and interests of children are upheld in accordance with the statutes, Constitution, and international instruments on human rights.
+
+**Sec. 23. Powers of the Commission as Gender and Development Ombud and Children Ombud.** - Pursuant to the foregoing two preceding sections, the Commission shall:
+
+	(a) Monitor the government in developing indicators and guidelines in compliance with their duties related to respecting, promotion, and fulfillment of the human rights of women and children;
+	(b) Investigate human rights violations relating to women and children;
+	(c) Establish guidelines and mechanisms, among others, that will facilitate access of women and children to legal remedies and related laws, and enhance the protection and promotion of their rights, especially those who are marginalized;
+	(d) Assist in the filing of cases against individuals, agencies, institutions, or establishments that violate the provisions of the Magna Carta of Women and the Juvenile Justice and Welfare Act, or any similar laws that may be passed by the Parliament; and
+	(e) Recommend to the disciplining authority or the Civil Service Commission any possible administrative action based on non-compliance or failure to implement the provisions of the Magna Carta of Women or the Juvenile Justice and Welfare Act or any such similar laws that may be passed by the Parliament.
+
+**HUMAN RIGHTS PROMOTION**
+
+**Sec. 24. Education and Training.** - The Commission shall conduct regular education and training for the promotion of human rights with the objective of informing all people of their rights including the redress mechanisms in case of violation and abuse, and inculcating upon them the human rights of others and their corresponding responsibilities in the promotion and protection thereof.
+
+**Sec. 25. Public Awareness.** - The Commission shall undertake human rights public awareness campaigns, events, seminars, workshops, fora, and summits; engage the mass media, issue press statements, conduct press conferences and interviews; utilize social media and the internet; and employ other means of communication in promoting human rights in public spaces.
 
