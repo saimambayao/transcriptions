@@ -1,0 +1,51 @@
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Bangsamoro Government Center, Cotabato City
+
+**FIRST REGULAR SESSION**
+
+**RESOLUTION NO. 314**
+
+**RESOLUTION EXPRESSING THE SINCERE APPRECIATION OF THE BANGSAMORO TRANSITION AUTHORITY PARLIAMENT TO THE PHILIPPINE SUPREME COURT AND THE HONORABLE CHIEF JUSTICE ALEXANDER G. GESMUNDO FOR INCLUDING THE STRENGTHENING OF SHARI’AH JUSTICE IN THE JUDICIARY’S LONG-TERM STRATEGIC PLAN FOR JUDICIAL INNOVATIONS (SPJI) 2022-2027**
+
+**WHEREAS**, on 14 October 2022, in a special *En Banc* Session, the Supreme Court of the Philippines formally launched the Judiciary’s five-year reform program, the Strategic Plan for Judicial Innovations 2022-2027 (SPJI);
+
+**WHEREAS**, the SPJI is a policy document that aims to establish new frameworks and adopt new approaches, but at the same time, build on and re-purpose existing ones, to achieve the longtime aspiration of delivering responsive and real-time justice;
+
+**WHEREAS**, the five-year plan is anchored on four guiding principles: Timely and Fair Justice, Transparent and Accountable Justice, Equal and Inclusive Justice, and Technologically Adaptive Management;
+
+**WHEREAS**, these guiding principles are intended to steer the SPJI to accomplish the following outcomes:
+
+*   **Outcome 1:** Efficiency through streamlined courts systems, both adjudicative and administrative, and effective monitoring and evaluation of the performance of justices, judges, and court officials and personnel.
+*   **Outcome 2:** Innovations through the creation of an Information and Communications Technology Infrastructure for the Judiciary.
+*   **Outcome 3:** Access through inclusivity, transparency, and accountability in court adjudicative and administrative systems and procedures.
+
+**WHEREAS**, Objective 3, Outcome 3 of the SPJI, titled “Strengthen the Foundations of Shari’ah Justice”, provides that in the exercise of the supervisory powers of the Supreme Court over the Shari’ah Courts and in support of the Bangsamoro justice system, the Supreme Court will constitute a Committee on Shari’ah Justice to pursue an integrated effort to institute reforms and initiatives that will contribute to the facilitation of justice and the rule of law in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM);
+
+**WHEREAS**, the Shari’ah Justice, as enunciated in Article X of Republic Act No. 11054, is one of the pillars of the Bangsamoro justice system, which shall be administered in accordance with the unique cultural and historical heritage of the Bangsamoro;
+
+**WHEREAS**, the inclusion of the Shari’ah Justice in the SPJI upholds the commitment of the Supreme Court, under the leadership of Chief Justice Alexander G. Gesmundo, not just to the improvement of the Shari’ah legal system and the Bangsamoro justice system, but also to the advancement of the Mindanao peace agenda;
+
+**WHEREAS**, the Bangsamoro Transition Authority (BTA) Parliament has consistently commended individuals and institutions that have made laudable contributions to peace and development in the region:
+
+**NOW, THEREFORE**, be it
+
+**RESOLVED**, as it is hereby resolved by the Bangsamoro Transition Authority, To express the sincere appreciation of the BTA Parliament to the Supreme Court of the Philippines and the Honorable Chief Justice Alexander G. Gesmundo for including the strengthening of Shari’ah Justice in the Judiciary’s Strategic Plan for Judicial Innovations (SPJI) 2022-2027.
+
+**RESOLVED, FURTHER**, That a copy of this Resolution be presented to the Supreme Court of the Philippines and Honorable Chief Justice Alexander G. Gesmundo, for information.
+
+**ADOPTED**, *Rajab* 04, 1444/January 26, 2023.
+
+Certified Correct:
+(sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested:
+(sgd.)
+**ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
+/PR159
