@@ -1,0 +1,195 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA Parliament**
+**BTA BILL No. 387**
+
+Introduced by:
+**HON. RASOL Y. MITMUG, JR., HON. SUSANA S. ANAYATIN,**
+
+Co-Authors:
+**HON. LAISA M. ALAMIA, HON. SUHARTO M. AMBOLODTO, HON. BAINTAN ADIL-AMPATUAN, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA A. LOONG, HON. ISHAK V. MASTURA**
+
+**"AN ACT INSTITUTIONALIZING THE ADMINISTRATIVE AND FINANCE DIVISIONS AND GRANTING FISCAL AUTONOMY TO THE OFFICE FOR SETTLER COMMUNITIES (OSC), BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE (BICTO), BANGSAMORO INFORMATION OFFICE (BIO), AND THE BANGSAMORO DARUL-IFTA' (BDI), AND FOR OTHER PURPOSES, AND PROVING FUNDS THEREFOR"**
+
+**EXPLANATORY NOTE**
+
+The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) is committed to building an efficient, transparent, and accountable government that responds effectively to the needs of its people. A key component of this commitment is the strengthening of institutional capacities within agencies under the **Office of the Chief Minister (OCM).**
+
+There are currently **eleven (11)** offices directly under the OCM. Of these, **four (4)** have already been granted **fiscal autonomy**, empowering them to manage their resources more independently and efficiently. However, the remaining **five (5)**—including the **Office for Settler Communities (OSC), Bangsamoro Information and Communications Technology Office (BICTO), Bangsamoro Information Office (BIO), and the Bangsamoro Darul-Ifta' (BDI)**—have not yet been granted fiscal autonomy, and continue to rely on other OCM units for administrative and financial transactions. This dependency has often resulted in delays in program implementation, low budget utilization, and reduced efficiency in service delivery.
+
+The **Office for Settler Communities (OSC)**, created under Section 35, C, Chapter 3, Title III of Bangsamoro Autonomy Act No. 13, is the primary agency tasked with promoting the welfare and addressing the concerns of settler communities in BARMM. However, the OSC currently operates without a dedicated **Administrative and Finance Division**, which hinders timely disbursement, procurement, and implementation of programs. The lack of direct fiscal control delays supplier payments, causes administrative bottlenecks, and limits the efficiency of its service delivery. The establishment of this division will significantly enhance its operational performance and allow the OSC to fully exercise its mandate while remaining under the supervision of the Office of the Chief Minister.
+
+Similarly, the **Bangsamoro Information and Communications Technology Office (BICTO)** serves as BARMM’s policy, planning, coordinating, and implementing agency for ICT infrastructure and digital transformation. This measure proposes the creation of an **Administrative and Finance Division** to empower BICTO to efficiently manage resources and fulfill its role as the government’s digital governance arm. The grant of **fiscal autonomy** will enable BICTO to accelerate digital development programs across BARMM.
+
+The **Bangsamoro Information Office (BIO)** plays a vital role in information dissemination, promoting transparency, public engagement, and accountability. As its responsibilities grow, a dedicated **Administrative and Finance Division** is crucial for managing resources, planning budgets, and supporting the delivery of consistent and professional communication across BARMM. The grant of **fiscal autonomy** will further strengthen BIO’s responsiveness and institutional capacity.
+
+Finally, the **Bangsamoro Darul-Ifta' (BDI)**, as the primary institution for Islamic jurisprudence and guidance, also faces increasing demands in fulfilling its religious and advisory mandates. This proposed measure amends the Bangsamoro Autonomy Act No. 13 to establish an **Administrative and Finance Division** within the BDI. This will strengthen its internal operations and allow it to function more efficiently in support of its spiritual mission.
+
+This bill not only institutionalizes the **Administrative and Finance Divisions** across these four key agencies but also grants them **fiscal autonomy**, ensuring that funds are **automatically and regularly released, and are not reduced below the previous year’s appropriations.** Each Administrative and Finance Division will include standardized sections—such as **Supply and Property Procurement, Cash, Accounting, Budget, and Management and Audit**—to promote internal efficiency and compliance with Bangsamoro financial rules and regulations.
+
+In view of the foregoing, the **immediate passage of this bill** is earnestly sought to equip these agencies with the structural and fiscal capacity needed to deliver effective, timely, and accountable services to the Bangsamoro people.
+
+**ATTY RASOL Y. MITMUG, JR.**
+Deputy Floor Leader
+Member of the Parliament – BTA
+
+**DR. SUSANA SALVADOR ANAYATIN**
+Member of the Parliament – BTA
+Executive Director, Office for Settler Communitites
+
+Chunk Complete. Ready for next group of provisions starting at [Article I].
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA Parliament**
+**BTA BILL No. 387**
+
+Introduced by:
+**HON. RASOL Y. MITMUG, JR., HON. SUSANA S. ANAYATIN,**
+
+Co-Authors:
+**HON. LAISA M. ALAMIA, HON. SUHARTO M. AMBOLODTO, HON. BAINTAN ADIL-AMPATUAN, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA A. LOONG, HON. ISHAK V. MASTURA**
+
+**"AN ACT INSTITUTIONALIZING THE ADMINISTRATIVE AND FINANCE DIVISIONS AND GRANTING FISCAL AUTONOMY TO THE OFFICE FOR SETTLER COMMUNITIES (OSC), BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE (BICTO), BANGSAMORO INFORMATION OFFICE (BIO), AND THE BANGSAMORO DARUL-IFTA' (BDI), AND FOR OTHER PURPOSES, AND PROVING FUNDS THEREFOR"**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**ARTICLE I**
+**I. GENERAL PROVISIONS**
+
+**Section 1. Short Title.**
+This Law shall be known as the “2025 Act Institutionalizing the Administrative and Finance Divisions and Granting Fiscal Autonomy to OSC, BICTO, BIO, and BDI.”
+
+**Section 2. Declaration of Policy.**
+It is the policy of the Bangsamoro Government to institutionalize transparent, accountable, and efficient financial and administrative systems within its offices. To this end, the creation of Administrative and Finance Divisions and the grant of fiscal autonomy to Office for Settler Communities (OSC), Bangsamoro Information Office (BIO), and Bangsamoro Darul-Ifta’ (BDI) are hereby adopted to strengthen the internal capacities of these agencies under the Office of the Chief Minister (OCM).
+
+**Section 3. Coverage.**
+This Act shall apply to the following agencies under the OCM:
+a. Office for Settler Communities (OSC);
+b. Bangsamoro Information and Communications Technology Office (BICTO);
+c. Bangsamoro Information Office (BIO); and
+d. Bangsamoro Darul-Ifta’ (BDI).
+
+**II. ADMINISTRATIVE AND FINANCE DIVISION**
+
+**SECTION 4. Institutionalization of Administrative and Finance Division.**
+There is hereby created in the Office for Settler Communities (OSC), the Bangsamoro Information and Communications Technology Office (BICTO), the Bangsamoro Information Office (BIO); and the Bangsamoro Darul-Ifta’ (BDI), a dedicated **Administrative and Finance Division** to manage their internal operations, financial transactions, and personnel systems in a professional and compliant manner.
+
+***Administrative and Finance Division.*** — The Administrative and Finance Division in each of the Bangsamoro Information Office (BIO), the Office for Settler Communities (OSC), the Bangsamoro Darul-Ifta’ (BDI) and the Bangsamoro Information and Communications Technology Office (BICTO), has the following functions:
+
+1. Manage and direct the administrative and financial operations of the Office;
+2. Oversee and enforce the governing laws, policies, procedures, systems, rules and regulations of the human resource, property and procurement, records and other facilities rehabilitation and maintenance operations of the Office;
+3. Formulate, develop and implement the Office’s operational activities on human resource planning, acquisition of equipment, supplies and materials, movement of employees, timekeeping, leave administration, employees health and safety conditions, rewards and sanctions, performance monitoring/evaluation, benefits and salary administration, management-employee relations, counselling, personnel career planning, training and development and personnel records;
+4. Monitor the Office’s accomplishment reports, efficient and effective administration, fiscal management and performance output and maintenance of performance, protection and maintenance of assets;
+5. Ensure the Office’s compliance to the existing legal and reportorial requirements, accounting and auditing rules and regulations;
+6. Consolidate the Office’s financial and administrative reports as well as proper maintenance of financial accounts;
+7. Prepare, monitor and evaluate the implementation and utilization of the Office’s annual operating budgets; and
+8. Submit the Office’s reports’ data, and information on a regular basis.
+
+**SECTION 5. Internal Structure of the Administrative and Finance Division.**
+The Administrative and Finance Division in each agency shall be composed of the following **standard sections**:
+
+**a. Administrative Section** – The Administrative Section shall have the following functions:
+1. Manage and direct the administrative operations of the Office;
+2. Oversee and enforce the governing laws, policies, procedures, systems, rules and regulations of the human resource, property and procurement, records and other facilities rehabilitation and maintenance operations of the Office;
+3. Formulate, develop and implement the operational activities of the Office on human resource planning, movement of employees, timekeeping, leave administration, employees health and safety conditions, rewards and sanctions, performance monitoring/evaluation, benefits and salary administration, management-employee relations, counselling, personnel career planning, training and development and personnel records;
+4. Monitor the accomplishment reports, efficient and effective administration and performance output and outcome pertaining to human resource development, protection and maintenance of properties, equipment, facilities, and other assets of the Office; and
+5. Ensure the Office’s compliance to the existing legal and reportorial requirements;
+
+**b. Supply and Property Procurement Section** – The Supply and Property Procurement Section shall have the following functions:
+1. Develop and maintain a sound property and supply management program for the Office;
+2. Formulate and develop a system on supply and property management needed to establish an effective means from acquisition to disposition of Office’s properties;
+3. Store and distribute supplies and materials, tools and equipment for the use by the Office;
+4. Formulate, develop and implement procurement plans and programs for the Office’s operation;
+5. Develop a scheme in maintenance of all Office’s facilities to lengthen their life span;
+6. Update and reconcile property accountabilities with the accounting section; and
+7. Perform other related functions that maybe assigned by the Administrative and Finance Division Chief and by the Head of the Office.
+
+**c. Cash Section** – The Cash Section shall have the following functions:
+1. Maintain timely, accurate and effective communication with all other division/s, sections and units of the Office about the releases of checks;
+2. Update the concerned division/s, sections and units for all payment receipts in a timely and accurate manner; and
+3. Perform other functions as maybe directed by the Administrative and Finance Division Chief and the heads of the other division/s, sections and units.
+
+**d. Accounting Section** – The Accounting Section has the following functions:
+1. Keep an accurate record of financial transactions of Office;
+2. Create a journal of expenditure of the Office; and
+3. Perform other functions as maybe directed by the Administrative and Finance Division Chief and the Head of the Office.
+
+**e. Budget Section** – The Budget Section has the following functions:
+1. Prepare the Office annual budget proposal and briefing materials for submission to the OCM, MFBM, other concerned entities and stakeholders in the BARMM;
+2. Closely coordinate with its counterpart in the OCM for the Office’s appropriate and timely budget utilization; and
+3. Perform other related functions that maybe assigned by the Administrative and Finance Division Chief and by the Head of the Office.
+
+**f. Management and Audit Section** – The Management Audit Section has the following functions:
+1. Provide assistance in the Office’s management in all matters relating to risk management, operations, and management control through the independent appraisal of the adequacy and effectiveness of internal controls and the conduct of management operations audit to add value and improve the operations and the processes within the Office.
+2. Conduct the review, examination, and identification of gaps in processes and systems design and structure, and other related functions.
+3. Ensure the availability of resources in the conduct of activities, manpower requirements and logistical support in the Office;
+4. Conduct coordination to the division/s, sections and units during meetings and follow through on their commitments;
+5. Review and recommend operational support service improvements;
+6. Oversee the overall working condition of the Office and staff; and
+7. Perform other related tasks as maybe assigned by the Administrative and Finance Division Chief and by the Head of the Office.
+
+The Bangsamoro Human Resource and Development Office (BHRDO), in coordination with the Ministry of Finance, and Budget and Management (MFBM), shall assist in defining position titles, plantilla allocations, and qualification standards for each section.
+
+Chunk Complete. Ready for next group of provisions starting at [Article III].
+
+***
+
+**III. FISCAL AUTONOMY**
+
+**SECTION 6. Fiscal Autonomy.**
+The OSC, BICTO, BIO, and BDI shall be granted **fiscal autonomy.** Funds appropriated to them shall be **automatically and regularly released** and **shall not be less than** the amount appropriated in the preceding fiscal year, subject to applicable budgeting, accounting, and auditing laws and regulations.
+
+**IV. IMPLEMENTATION AND FUNDING**
+
+**SECTION 7. Appropriations.**
+The initial implementation of this Act shall be sourced from existing appropriations of the covered agencies. Thereafter, the necessary amounts shall be included in the annual budget of the Bangsamoro Government.
+
+**SECTION 8. Implementing Rules and Regulations.**
+Within sixty (60) days from the effectivity of this Act, the Chief Minister, through the MFBM and BHRDO, shall promulgate the necessary rules and regulations to implement the provisions of this Act.
+
+**V. FINAL PROVISIONS**
+
+**SECTION 9. Separability Clause.**
+If any provision of this Act is held invalid or unconstitutional, the remaining provisions shall continue to be in full force and effect.
+
+**SECTION 10. Repealing Clause.**
+All laws, executive orders, rules, and regulations or parts thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+**SECTION 11. Effectivity Clause.**
+This Act shall take effect fifteen (15) days after its publication in the Bangsamoro Gazette or in a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+**APPROVED,**
+
+AUTHOR/S:
+
+**ATTY RASOL YAP MITMUG, JR.**
+Deputy Floor Leader
+Member of Parliament
+
+**DR. SUSANA S. ANAYATIN**
+Member of the Parliament
+Executive Director, Office for Settler Communitites
+
+Certified correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
