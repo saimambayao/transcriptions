@@ -1,0 +1,236 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+**SECOND PARLIAMENT**
+Fourth Regular Session
+
+BTA Parliament Bill No. **409**
+
+Introduced by:
+**MP JOHN ANTHONY L. LIM, MP KITEM D. KADATUAN JR., MP NABIL A. TAN, MP JOSE I. LORENA, MP BAINTAN A. AMPATUAN**
+
+**EXPLANATORY NOTE**
+
+The first national office including its powers and functions to be devolved to the defunct Autonomous Region in Muslim Mindanao under the first Organic Act, Republic Act No. 6734, was the Board of Investments, establishing for this purpose the Regional Board of Investments (RBOI) office, as provided by Executive Order (E.O.) No. 458, Series of 1991 of then President Corazon Aquino. This devolution signified the importance put by the national government and autonomous regional government officials in the primary role of the private sector in economic development, creation of employment and productive economic activity that generates taxes for the government. It has been said time and again that taxes are the life blood of government but without the private enterprises and business investments by the private sector there would be no tax revenues that will be generated and nothing to tax.
+
+It is also worth noting that the Omnibus Investment Code was passed into law and was one of the very first laws that then President Corazon Aquino crafted during the Freedom Constitution after the EDSA revolt so that it passed under the executive fiat of Executive Order No. 226, otherwise known as the Omnibus Investment Code of 1987. Together with the first Administrative Code, as promulgated into law by Executive Order No. 292, Series of 1987, under President Corazon Aquino, they have remained as the oldest codes and laws still in the books from that time and hardly changed by later legislation, if at all. In fact, the Omnibus Investment Code even predated the Administrative Code under President Corazon Aquino underlining the importance put by the fledging administration of President Corazon Aquino in bringing in private investments in support of stability and continuity of the Philippine State.
+
+In the case of the autonomous region, the RBOI (now BBOI) has remained as the primary agency in dealing with private sector investments because it is the only agency recognized by national government agencies that is allowed to grant fiscal incentives under the Omnibus Investment Code now amended by Republic Act No. 12066, otherwise known as the Corporate Recovery and Tax Incentives for Enterprises to Maximize Opportunities for Reinvigorating the Economy (CREATE MORE) Act. These are the following reasons why BBOI continues to be relevant and needs to be maintained by the autonomous region: 1. National Taxes such as Income Taxes and Tariffs and Custom Duties remain within the purview of national government and they are inherently “national” by nature and as such granting of fiscal incentives involving them such as Income Tax Holiday or reduced Custom Duties requires the consent of the national government; 2. While the autonomous region has been granted the power to create its own sources of revenue, national taxes such as income taxes and tariffs and custom duties, have not been devolved to the autonomous regions and it follows that the autonomous region cannot provide for fiscal incentives relating to them except as provided in the terms of devolution of the RBOI; 3. The Bureau of Internal Revenue and the Bureau of Customs have not been devolved to the autonomous region and as such, they only follow national legislation and not regional legislation; and lastly, 4. the BBOI functions and mandate has a direct link to the President because it is the only agency in the autonomous region, which in a regular fashion submits its Regional Investment Priorities Plan together with the national Investment Priorities Plan, now the Strategic Investment Priorities Plan under the CREATE law (RA 11534) for the approval of the President signifying that it is actually the President’s power and prerogative to grant these fiscal incentives involving national taxes and tariffs and custom duties to investors.
+
+By the terms of the devolution of the RBOI under E.O. 458, the governing law for the grant of fiscal incentives to investors involving national taxes and tariffs and custom duties in the autonomous region is the Omnibus Investment Code of 1987 and what was devolved to the autonomous region was the BOI powers and functions in the region. The jurisdiction over fiscal incentives involving national taxes and tariffs and custom duties was not given to the autonomous region except in accordance to the specific grant under E.O. 458. As such, E.O. 458 is very specific that the rules and regulations governing the grant of fiscal incentives must follow the BOI rules and regulations without prejudice to RBOI’s own rules and regulations as long as it is within the ambit of the Omnibus Investment Code. In fact, Section 5 of E.O. 458, as a condition to the devolution of the BOI’s powers and function, withheld the power to approve applications for fiscal incentives in the autonomous region until personnel of the RBOI are trained by the BOI.
+
+Ultimately, the power to grant fiscal incentives to investors involving national taxes and tariffs and custom duties lies with the President and it is considered a power of the President by the clear terms of the Omnibus Investment Code as amended by the CREATE law and now, CREATE MORE law in giving the President the final say in determining the list of industries and economic activities under the Investment Priorities Plan crafted by the BOI and promulgated by the President. The autonomous region is privileged thru the BBOI in being given the power to determine its own Regional Investment Priorities Plan for the grant of fiscal incentives but subject to its incorporation and integration in the annual national Strategic Investment Priorities Plan (SIPP) and subject to final approval and promulgation by the President of the SIPP. No other region in the country enjoys this privilege.
+
+Comes now, Republic Act No. 11054, otherwise known as the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), which provides under Article XII, Section 8 on Tax Incentives that the BBOI grant of tax exemptions and fiscal incentives under the terms of its devolution in E.O. 458 shall continue to apply. Under the Organic Law of the BARMM, the Bangsamoro Parliament is not precluded to grant fiscal incentives as long as it does not diminish national revenues effectively precluding the grant of fiscal incentives involving national taxes and tariffs and custom duties. The Bangsamoro Parliament in its wisdom may still pass its own Bangsamoro Investment Code with fiscal incentives for investors involving regional taxes and this can be added to the functions of the BBOI. However, with the passage of the CREATE law and amended by CREATE MOE law, the BBOI-BARMM was specifically mentioned as one of the Investment Promotion Agencies (IPAs) covered by the CREATE law and subject to the Oversight of the Fiscal Incentives Review Board (FIRB) co-chaired by the Secretaries of the Department of Finance and the Department of Trade and Industry. Hence, as to the application of national fiscal incentives the BBOI-BARMM has to conform to the CREATE law.
+
+On December 03, 2020, the Bangsamoro Autonomy Act No. 13, otherwise known as the “Bangsamoro Administrative Code” became effective. The BARMM Administrative Code reorganized the RBOI and renamed it as the Bangsamoro Board of Investments (BBOI). The essential change in the BARMM Administrative Code was in the composition of its Board of Governors with ex-officio members coming from the Ministry of Trade, Investment and Tourism, Ministry of Agriculture, Finance and Agrarian Reform and Ministry of Finance, and Budget and Management. The functions and mandate of the Bangsamoro Board of Investments remained the same in accordance with the provisions of the BOL regarding the BBOI.
+
+Last but not least is that the registration of business investors with the BBOI is the primary mechanism wherein corporations and corporate entities become recognized by the Bureau of Internal Revenue as regional tax payers because only investors in the region may register for fiscal incentives with BBOI. After their fiscal incentives from the BBOI expires, the autonomous regional government will partake of its share of the taxes levied on such investors as provided in Article XII, Section 12 on Payment by Corporations, Partnerships or Firms of the Organic Law. The CREATE law, as amended by the CREATE MORE specifically includes the BBOI as among the Investment Promotion Agencies recognized and covered by the law. For these and the foregoing reasons and premises this bill is submitted to the Bangsamoro Parliament for its urgent and priority enactment into law.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Third Regular Session
+
+**BTA PARLIAMENT**
+
+**PROPOSED BILL NO. 409**
+
+Introduced by:
+**MP JOHN ANTHONY L. LIM, MP KITEM D. KADATUAN JR., MP NABIL A. TAN, MP JOSE I. LORENA, MP BAINTAN A. AMPATUAN**
+
+**AN ACT PROVIDING FOR THE CREATION OF NEW PLANTILLA POSITIONS AND ORGANIZATIONAL STRUCTURE OF THE BANGSAMORO BOARD OF INVESTMENTS OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, AMENDING FOR THE PURPOSE BANGSAMORO AUTONOMY ACT NO. 13, AND PROVIDING FUNDS THEREFOR**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Title.** – This Act shall be known and cited as the **“Bangsamoro Board of Investments Act of 2025”**
+
+**SECTION 2. Purpose.** – This Act is promulgated to provide for the creation of new plantilla positions in the office of the Bangsamoro Board of Investments in addition to those currently occupied and to organize a new structure or staffing pattern thereof so as to achieve and fulfill easefully its specific mandates under existing laws.
+
+**SECTION 3. Declaration of Investment Policies.** – In accordance with Bangsamoro Autonomy Act No. 13 or the Bangsamoro Administrative Code provision for the continuity of national fiscal incentives for investors in the Bangsamoro Autonomous Region in Muslim Mindanao, the Regional Board of Investments is hereby renamed and reorganized as the Bangsamoro Board of Investments, or BBOI-BARMM and shall be attached to the Office of the Chief Minister, solely for purposes of policy coordination, the Chief Minister being the principal promoter of private investments in the region. The BBOI-BARMM is hereby mandated to promote investments in the region and render fiscal incentives-giving services for the development of the regional and national economy in consonance with the principles and objectives of achieving regional and global competitiveness; fostering economic efficiency; encouraging and supporting investments that promote region-wide development and create productive and quality employment.
+
+**TITLE 1**
+**ORGANIZATION AND FUNCTIONS OF THE BANGSAMORO BOARD OF INVESTMENTS – BARMM**
+
+**SECTION 4. THE BANGSAMORO BOARD OF INVESTMENTS** – Pursuant to Article XII, Section 8 of the Bangsamoro Organic Law and consistent with the provisions of the Bangsamoro Autonomy Act, the Bangsamoro Board of Investments shall be the regulatory board of the Bangsamoro Region on Investments attached to the Office of the Chief Minister.
+
+The Bangsamoro Board of Investments (BBOI) is recognized as an Investment Promotion Agency (IPA) under the oversight of the Fiscal Incentives Review Board (FIRB), enabling it to grant certain tax incentives outlined in the Republic Act No. 12066, otherwise known as the Corporate Recovery and Tax Incentives for Enterprises to Maximize Opportunities for Reinvigorating the Economy (CREATE MORE) Act.
+
+**SECTION 5. COMPOSITION OF THE BOARD OF GOVERNORS** – The Board of Governors shall be composed of the BBOI Chairperson as Chair, the Minister of Trade, Investments and Tourism as ex-officio Vice-Chair, the Minister of Finance, and Budget and Management and Minister of Agriculture, Fisheries, and Agrarian Reform as ex-officio members, and two (2) member-Governors. The Chairperson and the two (2) member-Governors shall be appointed by the Chief Minister to serve a fixed term of six (6) years and shall hold office until their successors shall have been appointed.
+
+The Board Secretary VI, shall be designated as a permanent member of the Board and shall possess full voting rights on all matters and decisions put before the Board. The position of Board Secretary VI within the office will be FIXED TERM of six (6) years in nature.
+
+The Chief Minister shall appoint members of the Board. The appointment of the members of the Board shall be conferred by the Bangsamoro Parliament.
+
+**SECTION 6. QUALIFICATIONS OF GOVERNORS OF THE BOARD** – The governors of the Board shall be citizens of the Philippines, a resident of the Bangsamoro Autonomous Region in Muslim Mindanao for at least six (6) months prior to their appointment, at least thirty (30) years old, of good moral character and of recognized competence in any of the following fields: law, economics, finance, banking, commerce, industry, agriculture, engineering, management or labor.
+
+**SECTION 7. APPOINTMENT OF BOARD PERSONNEL** – The Board shall appoint its technical staff and other personnel subject to Civil Service laws, rules and regulations including positions that will be created under this Act. The new positions are spelled out in the attached Organizational Chart.
+
+The positions, rights, and security of tenure of all incumbent personnel of the Bangsamoro Board of Investments (BBOI) shall be fully respected in accordance with applicable laws and regulations.
+
+Incumbent BBOI personnel shall be entitled to continue their service in their current positions without prejudice. This includes the preservation of their rights and benefits as provided by law.
+
+**SECTION 8. POWERS AND DUTIES OF THE BOARD** – Pursuant to Executive Order No. 226, otherwise known as the Omnibus Investments Code of 1987, the powers and duties of the Board are exclusively delineated therein. The Board shall be responsible for the regulation and promotion of investments in the Bangsamoro Autonomous Region in Muslim Mindanao. The powers and functions of the Board shall include but not limited to the following:
+
+1) Promulgate such rules and regulations as may be necessary to implement the intent and provisions of this Act;
+2) Process and approve, deny, suspend, revoke applications for registration with the Board, imposing terms and conditions as it may deem necessary to promote the objectives of this Act, including the refund and forfeiture of incentives when appropriate, restricting availment of certain incentives not needed by the project upon determination of the Board, requiring performance bonds from BBOI – accredited bonding companies, and payment of application, registration, publication and other necessary fees when warranted;
+3) After due hearing, decide controversies concerning the implementation of the relevant provisions of this Act that may arise between registered enterprises or investors therein and government agencies, within thirty (30) days after the controversy has been submitted for decision; Provided, That the investors or the registered enterprise may appeal the decision of the Board within thirty (30) days from receipt thereof to the Chief Minister for decision. The Board shall have the power to subpoena witnesses, administer oaths, and compel the production of books, papers, and other evidences, and to cite for contempt any person/organization that fails to comply with the aforestated processes. Provided, further, That the Board may grant immunity from prosecution to any person whose testimony or documents or other evidence is necessary or relevant to determine such truth in any investigation;
+4) Recommend to the Department of Foreign Affairs (DFA) the entry into the Philippines for employment of foreign national under this Act;
+5) Periodically check and verify, either by inspection of the books or by requiring regular reports, the proportion of the participation of Philippine nationals in a registered enterprise to ascertain compliance with its qualification to retain registration under this Act;
+6) Verify annually the compliance by registered enterprises with the relevant provisions of this Act, the rules and regulations promulgated under this Act and the terms and conditions of its registration;
+7) After due notice and hearing, cancel the registration or suspend the enjoyment of incentives benefits of any registered enterprise and/or require refund of incentives enjoyed by such enterprise including interest and monetary penalties, and levy properties of the registered enterprise, if appropriate, or (a) failure to maintain the qualifications required by this Act for registration with the Board or (b) for violation of any provisions of this Act, the rules and regulations issued under this Act, the terms and conditions of registration: Provided, That the registration of an enterprise whose project timetable, as set by the Board is delayed by one year, shall be considered automatically cancelled unless otherwise reinstated as a registered enterprise by the Board;
+8) Determine the new organizational structure taking into account Section 5 of this Act; appoint, discipline and remove its personnel consistent with the provisions of the Civil Service Law, Rules and Regulations;
+9) Prepare feasibility and other pre-investment studies, either upon its own initiative or upon the request of the investor under the terms and conditions mutually agreed upon;
+10) Formulate and implement industrial programs that would hasten economic growth and development including those relating to the implementation of international trade, investments and environmental agreements and protocols;
+11) Prepare industry and sectoral development programs, the Regional Investment Priorities Plan (RIPP) and gather and compile statistical, technical, marketing, financial and other data required for the effective implementation of this Act;
+12) Collate, analyze and compile pertinent information and studies concerning activities/ industries/ sector that have been or may be in the Regional Investment Priorities Plan;
+13) Enter into agreements with other agencies of government for the simplification and facilitation of systems and procedures involved in the promotion of investments, operation of economic zones and registered enterprises, and other activities necessary for the effective implementation of this Act;
+14) Prepare the BARMM Investment Priorities Plan for inclusion in the National Strategic Investment Priorities Plan for approval of the President of the Republic of the Philippines;
+15) Generally, exercise all the powers necessary or incidental to attain the purposes of this Act and other laws vesting additional functions on the Board.
+
+**SECTION 9. POWER AND DUTIES OF THE BOARD CHAIRPERSON AND MANAGING HEAD** – The Chairperson and Managing Head shall have the following powers and duties:
+
+1) To preside over the meetings of the Board;
+2) To execute all acts of administration;
+3) To prepare the agenda for the meetings of the Board and submit for its consideration and approval the policies and measures which he deem necessary and proper to carry out the provisions of this Act;
+4) To act as liaison between investors seeking joint venture arrangements in particular areas of investments;
+5) Assist registered enterprises and prospective investors to have papers processed with dispatch by all government agencies, instrumentalities and financial institutions;
+6) Recommend to the Board such policies and measures he may deem necessary to carry out the objectives of this Act;
+7) To coordinate domestic and international investment missions for and act as the head of the delegations to said undertakings; and
+8) Generally, to exercise such other powers and perform such other duties as may be directed by the Board from time to time.
+
+**SECTION 10. TECHNICAL ASSISTANCE.** – In accordance with Section 5 of Executive Order No. 458, Series of 1991, the Bangsamoro Board of Investments shall continue to invoke that the Board of Investments shall provide technical assistance to the Bangsamoro Board of Investments office and in the training of its personnel.
+
+**SECTION 11. SECRETARIAT TO THE BBOI-BARMM**- The BBOI-BARMM Secretariat shall provide technical support to the Board, and shall be headed by a Board Secretary VI, with support staff.
+Its functions include:
+a) Preparing the agenda and all other necessary documents and materials for the meetings of the Board;
+b) Notifying Board members of the meeting and recording their attendance;
+c) Recording each action taken up during the meetings; preparing and signing appropriate resolutions, if needed;
+d) Maintaining all records of the Board; and
+e) Performing other related functions as may be directed by the Board thru the Chairperson.
+
+**SECTION 12. ORGANIZATIONAL STRUCTURE.** – The Board shall be headed by the Board Chairman to be assisted by the members of the Board of Governors, one (1) Executive Director and three (3) Division Chiefs. The BBOI shall be composed of the following divisions:
+
+A. Evaluation and Incentives Division – This division will serve as the technical division and is responsible for evaluating, registering, supervising and monitoring investment project eligible for incentives. This division is also responsible for monitoring conditions for availment of incentives and other privileges.
+
+B. Promotion and Aftercare Division – This division is responsible for preparing the BARMM Investments Priorities Plan. It is also responsible in formulating policies and develops programs, business plans and roadmaps that will hasten and sustain the development of key industry and service sectors with emphasis on human resources development, technology acquisition, industry linkaging and commercialization.
+
+C. Administrative Division – This division is responsible in establishing the financial function of the office particularly in processes and system unit that ensure the use of sound planning, budgeting and accounting process. It will also provide services relative to personnel, records management, allocation of properties and supplies.
+
+**TITLE II**
+**DEFINITION OF TERMS**
+
+**SECTION 13. DEFINITION OF TERMS.** As used herein, the following terms shall mean –
+
+a) “BBOI-BARMM” or Board shall mean the Bangsamoro Board of Investments – Bangsamoro Autonomous Region in Muslim Mindanao (BBOI-BARMM) created under the Bangsamoro Autonomy Act No. 13 or the Bangsamoro Administrative Code. BBOI was specifically mentioned as one of the Investment Promotion Agencies (IPAs) covered by the CREATE MORE law and subject to the Oversight of the Fiscal Incentives Review Board (FIRB);
+b) “Registered Enterprise” shall mean any individual, partnership, cooperative, corporation or other entity incorporated and/or organized and existing under Philippine laws engaged in any activities listed in the SIPP as herein after defined and registered for such other activity with the Board in accordance with this Act;
+c) “Regional Investment Priorities Plan” (RIPP) shall refer to the list of industries, services and other activities prepared by the BBOI-BARMM in consultation with other appropriate government agencies and private sectors for submission to BOI National for inclusion in the Strategic Investment Priorities Plan (SIPP), which will be eligible for registration with the Board, which includes industries with high comparative advantage, activities that will produce new product/service and export-oriented industries.
+d) An “Export Enterprises” shall mean a registered enterprise which is a manufacturer, processor that exports or supplies to exporters fifty percent (50%) or more of its output and its activity is listed in the IPP. The Information Technology (IT) industry shall automatically be considered as Export enterprise if at least fifty percent (50%) of its services are paid for in freely convertible currency. An export trader which is a registered enterprise that buy and sells on its account products of micro-enterprises and small and medium enterprises and earns one hundred percent (100%) of its annual sales from exports of the same shall be deemed to be an export enterprise.
+e) A “Domestic Enterprise” shall mean a registered firm which produces goods for sale, or renders services exclusively or does not export fifty percent (50%) or more of its output.
+f) “Processing” shall mean converting of raw materials into marketable form through physical, mechanical, chemical, electrical, biochemical, biological or other means or by a special treatment or a series of actions, such as slaughtering, milling, pasteurizing, drying or desiccating, quick freezing, that results in a change in the nature or state of the products. Merely packing or packaging shall not constitute processing.
+
+**TITLE III**
+**INVESTMENTS WITH INCENTIVES**
+
+**CHAPTER I – QUALIFIED ACTIVITIES**
+
+**SECTION 14. Strategic Investment Priorities Plan.** – The BBOI-BARMM shall be guided by the national Strategic Investments Priorities Plan as promulgated by the President of the Philippines in the determination of incentives to be granted to investors in relation to national taxes, tariffs and customs duties, as provided in the Omnibus Investment Code, as amended by the CREATE MORE law.
+
+**SECTION 15. Regional Investment Priorities Plan.** – In accordance with the terms of devolution to the Bangsamoro Board of Investments and following Article XII, Section 8 of Republic Act No. 11054, or the BOL, it shall prepare a Regional Investment Priorities Plan consistent with the Omnibus Investment Code, as amended by the CREATE MORE law.
+
+The preferred areas of investment to be listed in the Regional Investment Priorities Plan shall be based on a long-run comparative advantage, taking into account the value of social objectives and employing economic criteria along with market, technical, and financial analysis.
+
+The Regional Investment Priorities Plan as formulated shall be integrated in the national Strategic Investment Priorities Plan and upon the approval of the President.
+
+**SECTION 16. AMENDMENTS** – Subject to publication requirements and the criteria for investment priority determination, the Bangsamoro Board of Investments-BARMM, in a recorded consultation with and certified in writing by appropriate government agencies may, at any time, recommend to the President thru the Chief Minister to add additional areas in the SIPP, alter any of the terms of the declaration of an investment area or terminate the status of preference. In no case, however, shall any amendment of the SIPP impair whatever rights that may have already been legally vested in qualified enterprises which shall continue to enjoy such rights to the full extent allowed under this Act. The Board shall not accept applications in an area of investment prior to the approval of the same as a preferred area nor after approval of its deletion as a preferred area of investment.
+
+**CHAPTER II – INCENTIVES TO REGISTERED ENTERPRISES**
+
+**SECTION 17. GOVERNING INCENTIVE PROVISION FOR REGISTERED ENTERPRISES.** Executive Order No. 226, also known as the Omnibus Investments Code of 1987, provides for the grant of incentives to registered enterprises. Thus, the Bangsamoro Board of Investments - BARMM is vested solely with the power to grant incentives provided in this Act.
+
+**SECTION 18. INCENTIVES TO REGISTERED ENTERPRISES.** BBOI – BARMM may Grant the following incentives to their respective registered enterprises to the extent of the activity/project:
+
+A. Income tax holiday (ITH) for four to seven years, depending on the combination of both location and industry priorities, as determined in the SIPP.
+B. ITH shall be followed by:
+• A ten-year 5% special CIT on gross income in lieu of all national and local taxes or enhanced deductions, at the option of the qualified exporters.
+• Five-year enhanced deductions for qualified domestic market enterprises.
+C. Subject to certain conditions, the additional deductions or enhanced deductions list are as follows:
+• Depreciation of qualified capital expenditure (10% for buildings and 20% for machinery and equipment)
+• Labour expense (50%)
+• Research and development (100%)
+• Training expense (100%)
+• Domestic input expense (50%)
+• Power expense (50%)
+• Reinvestment allowance for manufacturing industry (maximum of 50% and can be deducted within a period of five years from the time of such reinvestment)
+• Net operating loss carry over during the first three years from the start of commercial operations may be claimed for the next five consecutive years immediately after such loss.
+D. Customs duty exemption for importations of capital equipment, raw materials, spares parts, or accessories.
+E. VAT exemption on importation and VAT zero-rating on domestic purchases.
+F. Additional two years ITH shall be granted to projects or activities of registered enterprises located in areas recovering from armed conflict or a major disaster.
+G. Additional three years ITH shall be granted to projects or activities of registered entities prior to the effectivity of CREATE, or under the incentive system when such entities relocate from the National Capital Region (NCR). For the second classification, the ITH period shall only commence at the completion of the relocation of operations.
+
+The period of availment shall commence from the actual start of commercial operations, with the registered business enterprise availing of the tax incentives within three years from the date of registration, unless otherwise provided in the SIPP.
+Qualified expansion or entirely new project or activity may qualify to avail of incentives, subject to the qualifications in the SIPP and performance review by the Fiscal Incentives Review Board.
+
+Entities that are registered with the investment promotion agencies (IPAs) that are still enjoying incentives prior to the effectivity of the CREATE Law will be allowed to continue the said enjoyment, subject to the following rules:
+• Those granted only an ITH prior to the effectivity of CREATE shall be allowed to continue with their availment for the remaining period.
+• Those that have been granted the ITH but have not yet availed of the incentive upon the effectivity of CREATE may use the ITH for the period specified in the terms and condition of their registration.
+• Those granted ITH prior to effectivity of CREATE and entitled to 5% tax on gross income earned after the ITH shall be allowed to continue to avail of the 5% gross earned income incentive for ten years.
+• Those availing of the 5% tax on gross earned income prior the effectivity of CREATE shall be allowed to continue availing the said incentive for ten years.
+
+**CHAPTER III. REGISTRATION OF INVESTORS**
+
+**SECTION 19. QUALIFICATIONS OF A REGISTERED ENTERPRISE.** – To be entitled to register to avail of incentives, an applicant must satisfy the following conditions:
+A. He is a citizen of the Philippines, in case the applicant is a natural-person, or in case of a corporation of partnership or any other association, it must be organized and existing under Philippine laws and that it must comply with all the qualifications provided under this Act;
+B. That it will engage in an activity included in the IPP.
+
+**CHAPTER IV. ADMINISTRATION OF INCENTIVES**
+
+**SECTION 20. DUTIES AND RESPONSIBILITIES.** The BBOI – BARMM shall have the following duties and responsibilities under this Act:
+a) to adopt consistent procedures of administering incentives in accordance with the guidelines established by the Board;
+b) to adopt and implement systems and procedures affecting trade and customs policies in accordance with the requirements established by the DOF and the Board;
+c) to submit data and information to the Board as required by any of these agencies to ascertain consistency of investments policies and incentives, including their implementation as provided in (a) and to ensure the proper implementation of systems and procedures affecting trade and custom policies as provided in (b) and to perform all other duties and responsibilities, as be required by the higher authorities.
+
+**SECTION 21. ADMINISTRATION, IMPLEMENTATION AND MONITORING OF INCENTIVES.** BBOI – BARMM shall be responsible for the administration and implementation of the incentives granted to respective registered enterprise.
+
+**TITLE IV. FINAL PROVISION**
+
+**SECTION 22. TRANSITORY PROVISION.** Upon approval of this Act, the incumbent Chairperson and the two (2) governors appointed by the Interim Chief Minister shall be reappointed and continue to office until the expiration of their term.
+
+**SECTION 23. APPROPRIATION OF FUNDS.** – The funds necessary for the implementation of this Act shall be included in the annual and other budgetary allocations from the General Appropriations Act of the Bangsamoro. Additional funding requirements, if any, shall be sourced from available funds or supplementary appropriations as deemed necessary by the Bangsamoro Parliament.
+
+**SECTION 24. AUTOMATIC RELEASE OF FUNDS FROM THE MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT TO THE BBOI.** – The Ministry of Finance, Budget and Management (MFBM) shall automatically release to the BBOI its approved annual budget upon submission of the required documents.
+
+**SECTION 25. IMPLEMENTING RULES AND REGULATIONS.** – Within ninety (90) days from the effectivity of this Act, the BBOI, in coordination with the MFBM and other relevant agencies, shall formulate the necessary implementing rules and regulations to effectively carry out the provisions of this Act.
+
+**SECTION 26. SEPARABILITY CLAUSE.** – If any provision of this Act is declared unconstitutional or invalid, the remaining provisions not affected thereby shall continue to be in full force and effect.
+
+**SECTION 27. REPEALING CLAUSE.** – All regional acts, decrees, rules, and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 28. EFFECTIVITY.** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette of the Bangsamoro Government or in at least two (2) newspapers of regional circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Approved,
+
+**HON. ABDULRAOF A. MACACUA**
+Chief Minister
+
+Certified correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**HON. MOHAMMAD S. YACOB**
+Speaker
+
+APPROVED:
+
+Author: [Signature]
+**MP ATTY. JOHN ANTHONY “JET” L. LIM, AL-HAJ, MNSA**
+
