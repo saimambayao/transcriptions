@@ -1,0 +1,150 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Bangsamoro Government Center, Cotabato City
+
+**SECOND PARLIAMENT**
+**FOURTH REGULAR SESSION**
+
+**PARLIAMENT BILL NO. 421**
+
+Authored by:
+**MP ATTY. SHA ELIJAH B. DUMAMA-ALBA**
+
+Co-authors:
+**MP ABDULLAH B. HASHIM, MP ALI O. SALIK, MP MOSBER ALAUDDIN, MP MATARUL ESTINO, MP SAID SHIEK, MP SUHARTO S. ESMAEL**
+
+**Explanatory Note**
+
+The recent global health crises – most notably the COVID-19 pandemic – have underscored the urgent need for proactive, coordinated, and culturally responsive public health systems in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+These events revealed critical gaps in the region's capacity to prevent, detect, and respond to emerging infectious diseases (EID), particularly at points of entry such as airports, seaports, and land borders.
+
+The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) currently functions without a statutory quarantine agency empowered to manage infectious disease surveillance. The absence of this quarantine agency impedes timely responses to emerging health threats and undermines compliance with International Health Regulations under World Health Organization’s frameworks.
+
+Section 2 (rr), Article V of the RA 11054 provides that the Bangsamoro Government shall exercise its authority over quarantine regulations.
+
+Without a specialized and empowered regional agency dedicated to quarantine and control diseases, the region remains vulnerable to outbreaks that can rapidly overwhelm local health systems, disrupt economic activity, and endanger lives. The impact of such events transcends health—it touches upon the security, dignity, and collective well-being of the Bangsamoro people.
+
+In response to this urgent need, this bill seeks to establish the Bangsamoro Bureau of Quarantine, an agency attached to the Ministry of Health (MOH). It shall be mandated to lead the region's quarantine operations, disease surveillance, health screening at ports of entry and exit, contact tracing, outbreak response, and public health emergency preparedness. The Bureau shall operate in alignment with the International Health Regulations (IHR) of the World Health Organization (WHO) and in close coordination with the national Bureau of Quarantine and other relevant agencies.
+
+The Bureau's creation is not merely an administrative measure; it is an instrument of public health justice. By institutionalizing disease control and quarantine functions within BARMM, the region affirms its commitment to safeguard public health. The Bureau shall ensure that all quarantine protocols, surveillance mechanisms, and public health interventions are scientific-based, culturally sensitive, and religiously appropriate, thereby upholding the dignity, rights, and welfare of all Bangsamoro citizens.
+
+From an Islamic perspective, the practice of quarantine is not foreign; it is rooted in the teachings of the Prophet Muhammad (peace be upon him), who said:
+
+"If you hear that a plague is in a land, do not go to it; and if it occurs in a land while you are in it, do not leave it." (Sahih al-Bukhari, Hadith 5728)
+
+This hadith is recognized by scholars as a foundational basis for modern quarantine and containment measures. Islam promotes not only faith, but also sound action in the face of danger—values that this bill seeks to integrate into the public health governance of BARMM.
+
+The Bangsamoro Government holds a moral and constitutional duty to ensure that disease outbreaks and public health emergencies do not undermine the region's development, security, and unity. Through this legislative measure, we take a vital step toward institutionalizing a resilient, responsive, and ethically guided quarantine system that is built on both science and timeless Islamic principle.
+
+Establishing the Bangsamoro Bureau of Quarantine is no longer optional—it's fundamental for safeguarding public health, and ensuring BARMM's readiness for future pandemics.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+Chunk Complete. Ready for next group of provisions starting at [Proposed Bill No. 421 Title].
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Bangsamoro Government Center, Cotabato City
+
+**Second Parliament**
+**Fourth Regular Session**
+
+**Proposed Bill No. 421**
+
+Authored by:
+**MP ATTY. SHA ELIJAH B. DUMAMA - ALBA**
+
+Co-authors:
+**MP ABDULLAH B. HASHIM, MP ALI SALIK, MP MOSBER ALAUDDIN, MP MATARUL ESTINO, MP SAID SHIEK, MP SUHARTO ESMAEL**
+
+**AN ACT CREATING THE BANGSAMORO BUREAU OF QUARANTINE, DEFINING ITS FUNCTIONS, POWERS, AND RESPONSIBILITIES, APPROPRIATING FUNDS THEREOF, AND FOR OTHER PURPOSES**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** – This Act shall be known as the “Bangsamoro Quarantine Act of 2025.”
+
+**SECTION 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro Government to safeguard public health and promote disease prevention, through an empowered regional agency equipped to detect, prevent, control, and respond to contagious diseases and public health risks within Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) territory.
+
+**SECTION 3. Bangsamoro Bureau of Quarantine.** – There is hereby created a Bangsamoro Bureau of Quarantine, hereinafter referred to as the “Bureau,” under the administrative supervision of the Ministry of Health (MOH). The Bureau shall be headed by a Bureau Director with the rank of Director III, who shall be appointed by the Chief Minister.
+
+**SECTION 4. Jurisdiction and Functions of the Bureau.**
+
+(a) The Bureau shall have the power to examine the ports of entry and exit in BARMM of incoming and outgoing vessels and aircraft, the necessary surveillance over their sanitary conditions, as well as over their cargoes, passengers, crews, and all personal effects, and the issuance of quarantine certificates, bills of health, or other equivalent documents shall be vested in and be conducted by the Bureau.
+
+This Bureau shall have authority over incoming and outgoing vessels both domestic and foreign, including those of the army and navy, their wharfage and anchorage, and over aircraft and airports, insofar as it is necessary for the proper enforcement of the provisions of this Act.
+
+(b) The Bureau shall have the power to require the mandatory reporting of diseases and public health concern from all healthcare providers and institutions in BARMM, and to establish and maintain disease surveillance systems to promptly detect, monitor, and respond to outbreaks or emerging threats.
+
+(c) The Bureau shall have the power to order contact tracing activities, and to impose quarantine and isolation measures on individuals who are infected, or have been exposed to communicable diseases or infections in order to prevent further transmission.
+
+(d) The Bureau may recommend to the Chief Minister the imposition of localized lockdowns or community quarantines in specific areas in BARMM experiencing disease outbreaks or other public health emergencies, to contain and mitigate the spread of infection.
+
+**SECTION 5. Authority to Promulgate and Enforce Rules and Regulation and Provide Penalties for Their Violations.**
+
+(a) The Director of the Bureau with the approval of the Minister of Health, is authorized to promulgate and enforce rules and regulations as in his judgment are necessary to prevent the introduction, transmission or spread of “public health emergencies of international concern” from foreign countries into BARMM or from one (1) domestic seaport/airport to another.
+
+For purposes of implementing these regulations, the Director of the Bureau may provide intervention strategies such as health education and advisories, inspections, fumigation, disinfection, pest extermination, vaccination for international travel, medical examination of aliens/foreigners for immigration purposes and destruction of animals or articles found to be infected or contaminated as to be sources of infection to human beings in coordination with other concerned quarantine agencies such as the national Bureau of Quarantine (BOQ), veterinary quarantine, plant quarantine, etc. and other measures as in his judgment may be necessary.
+
+(b) Regulations prescribed under this section shall provide for the apprehension, detention or surveillance for the purpose of preventing the introduction, transmission or spread of such public health emergencies of international concern as may be specified from time to time in Ministry Orders by the Minister of Health upon the recommendation or direction of the national BOQ or international health surveillance through the national Department of Health.
+
+(c) Whenever it is deemed necessary for the protection of the public health of the Bangsamoro from public health emergencies of international concern, immunization and other preventable measures against these diseases shall be mandatory on all persons arriving at any seaport/airport of entry in BARMM.
+
+(d) The Minister of Health upon the recommendation of the Director of the Bureau may prescribe medical examination of any individual believed to be infected with a disease of international concern on board vessels and aircraft entering any seaport or airport in BARMM. Such rules and regulations may provide that if upon examination, any such individual is found to be infected or has been exposed to infection considered as dangerous contact, he may be isolated aboard a vessel, in a hospital with facilities for infectious diseases, at a quarantine station, or at any isolation facility, and in such a manner as may be proscribed by the said regulations.
+
+**SECTION 6. Prohibition of Entry of Hazardous Cargo and Materials.** – Whenever the Director of the Bureau determines that there is an existence of any public health emergency of international concern in a foreign country and that there is imminent danger of the introduction of hazardous cargoes or materials into BARMM Region, he/she, in coordination with the DOH and its Bureau of Quarantine, Bureau of Customs and other concerned agencies, may recommend to the BARMM Chief Minister through the Minister of Health, the prohibition of its entry to the BARMM areas for public health interest.
+
+**SECTION 7. Quarantine Stations.** – The Director of the Bureau shall control, direct and manage all quarantine stations, grounds and anchorages, and designate their boundaries. With the approval of the Minister of Health, he/she shall establish such additional quarantine stations, grounds and anchorages if, in his judgment, these are necessary to prevent the introduction of diseases of international concern into the country. The Bureau Director, in the same manner, may also order the closure of non-functional quarantine stations, grounds and anchorages.
+
+**SECTION 8. Quarantine Documents/Clearances of Vessels and Aircraft.**
+
+(a) All vessels or aircraft from foreign ports arriving at any port of the BARMM shall be required to submit the required maritime declaration of health/general declaration and other documents as prescribed by this regulation.
+
+(b) All ocean-going vessels or international aircraft from foreign seaports/airports calling at any seaport or airport in BARMM to disembark its passengers or discharge its cargo, or for other purposes must secure a quarantine clearance in compliance with the health regulations imposed by the Bureau. This quarantine certificate/clearance (Pratique) shall be a prerequisite to customs clearance.
+
+(c) After compliance with the quarantine laws and regulations, all vessels or aircraft leaving any seaport or airport of BARMM shall secure quarantine outgoing clearance. This certificate/clearance shall also be a prerequisite to customs clearance of outgoing vessels and aircraft.
+
+**SECTION 9. Penalties.**
+
+(a) Any person who violates any regulation prescribed in this Act shall forfeit to the Bureau a fine of not less than Ten thousand pesos (P10,000.00) but not more than Fifty thousand pesos (P50,000.00) or be imprisoned for not more than one (1) year or both at the discretion of the court of competent jurisdiction.
+
+(b) Any vessel or aircraft that violates any provision of this Act shall forfeit to the Bureau a fine of not less than One Hundred Thousand pesos (P100,000.00) but not more than Five Hundred thousand pesos (P500,000.00).
+
+Chunk Complete. Ready for next group of provisions starting at [SECTION 10. Authority to Utilize Income].
+
+***
+
+**SECTION 10. Authority to Utilize Income.** - The Bureau shall be authorized to use at least fifty percent (50%) of the income generated subject to accounting and auditing rules and regulations.
+
+**SECTION 11. Appropriation.** – The initial funding for the operation of the Bureau is Fifteen Million Pesos (₱15,000,000.00). Thereafter, such amount as may be necessary for its continued operation shall be included in the annual General Appropriations Act.
+
+**SECTION 12. Intergovernmental and International Coordination.** – To ensure effective implementation of this Act, the Bangsamoro Bureau of Quarantine, in coordination with other designated representatives to the Intergovernmental Relations Body (IGRB), as provided under Section 2, Article VI of Republic Act No. 11054, to maintain coordination with the national government, including the Department of Health (DOH), the national Bureau of Quarantine (BOQ), and other relevant agencies.
+
+It shall likewise ensure alignment with international commitments and standards, including the International Health Regulations (IHR) of the World Health Organization (WHO), and other applicable international treaties or protocols to which the Philippines is a party. The Bureau shall actively participate in national and international efforts to prevent, detect, and respond to communicable diseases and public health emergencies.
+
+**SECTION 13. Establishment of a Quarantine Management Information System (QMIS).** – To strengthen the capacity of the Bureau in disease prevention and response, it shall develop, establish, and maintain a Quarantine Management Information System (QMIS) to serve as the central database for disease surveillance and monitoring, digital health declarations and clearances, contact tracing and exposure notification, public health advisory system, data integration and decision support. The development and implementation of the QMIS shall be undertaken in strict compliance with the principles of data privacy, pursuant to the Data Privacy Act of 2012 (Republic Act No. 10173).
+
+**SECTION 14. Implementing Rules and Regulations.** – Within ninety (90) days from the effectivity of this Act, the MOH, in consultation with relevant stakeholders, shall promulgate the necessary rules and regulations for the implementation of this Act.
+
+**SECTION 15. Separability Clause.** – If any part, section, or provision of this Act is declared invalid or unconstitutional, the remaining provisions shall continue to be in full force and effect.
+
+**SECTION 16. Repealing Clause.** – All regional laws, decrees, orders, rules, regulations, and other issuances, or parts thereof that are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 17. Effectivity.** – This Act shall take effect fifteen (15) days after its publication in the Bangsamoro Gazette or in a newspaper of regional circulation within BARMM.
+
+(Sgd.)
+**MP ATTY. SHA ELIJAH B. DUMAMA - ALBA**
+
+Co-authors:
+
+**MP ABDULLAH HASHIM**
+**MP ALI SALIK**
+**MP MOSBER ALAUDDIN**
+**MP MATARUL ESTINO**
+**MP SAID SHIEK**
+**MP SUHARTO ESMAEL**
+
