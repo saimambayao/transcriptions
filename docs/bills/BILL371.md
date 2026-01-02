@@ -1,0 +1,58 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Fourth Regular Session
+
+Proposed Bill No. **371**
+
+Authored by: MPs Suharto S. Esmael, Sha Elijah B. Dumama-Alba, Matarul M. Estino, and Amiroddin Y. Gayak
+
+Co-authors: MPs Amenodin U. Sumagayan, Abdulwahab M. Pak, Atty. Amer Zaakaria A. Rakim, Mosber E. Alauddin, Amir A. Ahmad, Don Mustapha A.Loong, Tawakal B. Midtimbang, Hatimil E. Hassan, Haber A. Asarul, Ahmad Amir A. Balindong, Romeo K. Sema, Matarul M. Estino, and Kadil M. Sinolinding, Jr.
+
+**AN ACT MANDATING ALL LOCAL GOVERNMENT UNITS (LGUs) IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) TO ESTABLISH PUBLIC CEMETERIES TO ALLOCATE AN ADEQUATE LAND FOR SUCH PURPOSE, PROVIDING FOR ITS MANAGEMENT, APPROPRIATION, AND OTHER RELATED PURPOSES**
+
+*Be it enacted by the Bangsamoro Parliament in session assembled:*
+
+**Section 1. Title.** - This Act shall be known as the “*Bangsamoro Public Cemetery Act*.”
+
+**Section 2. Declaration of Policy.** - The Bangsamoro Government shall ensure every Filipino citizen in its territorial jurisdiction the provision of the basic necessities and equal opportunities in life. Social justice shall be promoted in all aspects of life and phases of development in the Bangsamoro Autonomous Region.
+
+The Bangsamoro Government shall protect and promote the right to health of the people and instill health consciousness among them. It shall also uphold the peoples' right to have access to essential goods, health, and other social services that promote their well-being.
+
+**Section 3. Purpose.** It is the purpose of this Act to mandate the Bangsamoro Government to allocate suitable land for the establishment of public cemeteries, in recognition of the distinct religious beliefs and burial customs of the Bangsamoro people. This measure seeks to promote mutual respect, cultural sensitivity, and the protection of Bangsamoro People burial practices, while supporting initiatives essential to the general welfare and dignity of the Bangsamoro communities.
+
+**Section 4. Mandatory Land Allocation for Bangsamoro Public Cemeteries.** - All Local Government Units (LGUs) within the Bangsamoro Autonomous Region shall allocate a minimum of three (3) hectares of land for every one thousand (1,000) population, specifically for the establishment of a Bangsamoro public cemetery. The identified land shall be suitable for burial purposes and must be incorporated into the LGU’s respective Comprehensive Land Use Plan (CLUP) or zoning ordinance, subject to the approval of the appropriate Sanggunian. Accordingly, at least twenty-five percent (25%) of the total area acquired for cemetery purposes shall be designated for the use of non-Muslim constituents.
+
+For the purpose of identifying suitable land for the establishment of public cemeteries, LGUs may seek technical assistance from the appropriate BARMM agencies, such as the Ministry of Environment, Natural Resources, and Energy (MENRE-BARMM).
+
+LGUs may also acquire land through donations from private individuals, groups, or organizations. To encourage such contributions, LGUs are encouraged to formulate programs that provide recognition and offer incentives, such as tax exemptions or other appropriate benefits, to donors.
+
+**Section 5. Authority and Oversight in the Establishment and Management of Bangsamoro Public Cemeteries.**- Local Government Units (LGUs) within the Bangsamoro Autonomous Region shall have the authority to establish, maintain, and operate Bangsamoro public cemeteries within their respective territorial jurisdictions. In doing so, LGUs shall ensure full compliance with applicable design standards, sanitation requirements, and safety regulations, while also upholding Islamic rites, traditions, and burial practices in accordance with the religious and cultural beliefs of the Bangsamoro people.
+
+The overall control and supervision of the construction, operation, and maintenance of all Bangsamoro public cemeteries established under this Act shall be vested in the Ministry of the Interior and Local Government (MILG), in coordination with relevant BARMM ministries and agencies, to ensure alignment with Islamic and regional standards.
+
+**Section 6. Appropriations.** - Upon effectivity of this Act, such sums as may be necessary for its implementation shall be sourced from the MILG’s annual budget.
+
+Supplementary funding may be drawn from:
+
+a. Annual subsidies from the Bangsamoro Government;
+b. Appropriations from local funds of LGUs;
+c. Legitimate donations whether in cash or in kind from both the public and private sectors/entities received through the BARMM government.
+
+**Section 7. Separability clause.** - If any provision of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall remain in full force and effect.
+
+**Section 8. Repealing clause.** - All regional laws, decrees, orders, rules, and regulations, or parts thereof, inconsistent with this Act are hereby repealed or amended accordingly.
+
+**Section 9. Implementing Rules and Regulations.** - The Ministry of Interior and Local Government, in close consultation with all constituent local government units in the Bangsamoro Autonomous Region, the Bangsamoro Darul-Ifta' , the Ministry of Environment and Natural Resources, and the Ministry of Health shall promulgate the Implementing Rules and Regulations of this Act, monitor LGU implementation, and provide technical and logistical support to LGUs.
+
+**Section 10. Penalties.** - Local Government Units (LGUs) within the Bangsamoro Autonomous Region that fail to comply with this Act within three (3) years from its effectivity shall be subject to appropriate administrative sanctions, including possible restrictions on access to regional assistance programs, as may be determined by the Ministry of the Interior and Local Government (MILG) in accordance with applicable laws, rules, and regulations.
+
+**Section 11. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation in BARMM.
+
+Approved; ____ / ____ / ____
+
+**Suharto S. Esmael, MSc.**
+Member of the Parliament
+
