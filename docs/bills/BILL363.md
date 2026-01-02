@@ -1,0 +1,187 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **363**
+
+Principal Author: **MP Laisa Masuhud Alamia**
+
+**EXPLANATORY NOTE**
+
+The establishment of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) marks a significant milestone in the pursuit of self-determination and the realization of a just and equitable society for the Bangsamoro people. Central to this vision is a robust and independent justice system that effectively serves the populace, particularly through the application of Shari'ah law, which holds profound importance in the lives of the Muslim inhabitants of the region.
+
+The Bangsamoro Organic Law (Republic Act No. 11054) provides for a Shari'ah system that complements the conventional justice system, recognizing the unique cultural and religious identity of the Bangsamoro. For this Shari'ah system to function optimally and to command the respect and trust of the people, its practitioners — the Shari'ah justices, judges, court personnel, and legal professionals — must possess not only profound knowledge of Islamic jurisprudence but also the highest standards of judicial ethics, competence, and modern legal practices.
+
+Presently, while academic institutions offer Shari'ah law degrees, and certain entities provide specialized training, there is no centralized, formal, and continuous judicial academy specifically dedicated to the professional development and continuing education of Shari'ah legal professionals across the country. This gap particularly poses a significant challenge to ensuring uniformity, excellence, and adherence to evolving legal standards, especially within the Bangsamoro Shari'ah courts.
+
+Drawing inspiration from successful models such as the Philippine Judicial Academy (PhilJA), as the training arm of the Supreme Court of the Philippines, as well as Shari'ah judicial training initiatives in other Muslim-majority jurisdictions like Indonesia, Maldives, and Saudi Arabia, this Bill proposes the creation of the Bangsamoro Shari'ah Judicial and Legal Academy (BSJLA).
+
+The BSJLA shall serve as the primary institution for the comprehensive and continuing education of Shari'ah justices, judges, court personnel, Shari'ah lawyers, and aspirants to judicial posts within the Bangsamoro Autonomous Region. It aims to elevate the standards of judicial professionalism, enhance the administration of justice in Shari'ah courts, and ensure that the Bangsamoro justice system remains dynamic, responsive, and grounded in both Islamic legal tradition and contemporary legal principles.
+
+This Bill seeks to establish the BSJLA as an independent entity directly relevant to the Judiciary it serves. It outlines the Academy's powers, functions, organizational structure, and funding mechanisms, consistent with the Bangsamoro Government's autonomous powers and its commitment to developing its justice system.
+
+It is recognized that the formal organization of the Shari'ah High Court remains within the purview of the Supreme Court, as provided for in the Bangsamoro Organic Law. Nonetheless, this Bill aims to proactively initiate parliamentary discussion and action towards further strengthening the Bangsamoro justice system, consistent with the spirit and intent of the Organic Law. The Bangsamoro Transition Authority Parliament has passed measures calling for the complete organization of said court, and the Supreme Court has likewise undertaken various initiatives towards this end. This Bill is a modest contribution to these ongoing and collaborative efforts, as we continue to coordinate with the Supreme Court and other national authorities on matters concerning our distinct justice system, recognizing its urgent need for the full establishment of Shari'ah courts at all levels.
+
+By investing in the continuous education and professional development of its Shari'ah legal professionals, we can reaffirm the Bangsamoro Government's dedication to upholding justice, protecting rights, and fostering peace and order through a competent, ethical, and respected Shari'ah judiciary.
+
+In view of the foregoing, the passage of this Bill is earnestly sought.
+
+**Atty. LAISA MASUHUD ALAMIA**
+Member of Parliament
+
+***
+
+**AN ACT ESTABLISHING THE BANGSAMORO SHARI’AH JUDICIAL AND LEGAL ACADEMY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FOR ITS GOVERNANCE AND SUPPORT, AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Bangsamoro Transition Authority in session assembled:*
+
+**Section 1. Short Title.** — This Act shall be known as the "Bangsamoro Shari’ah Judicial and Legal Academy Act of 2025."
+
+**Section 2. Declaration of Principles and Policies.** — It is hereby declared the policy of the Bangsamoro Government to:
+
+(a) Uphold the independence of the Bangsamoro Shari’ah judiciary and legal profession.
+
+(b) Ensure that Shari’ah justices, judges, court personnel, lawyers, and aspirants to judicial posts possess the highest standards of competence, integrity, and ethical conduct.
+
+(c) Provide for a continuing and comprehensive judicial and legal education program for all members of the Bangsamoro Shari’ah justice system to enhance their professional skills, deepen their understanding of Islamic jurisprudence, and adapt to evolving legal landscapes.
+
+(d) Promote research and development in Shari’ah law and its administration, fostering a dynamic and progressive Shari’ah justice system in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+(e) Contribute to the effective, efficient, and impartial administration of justice within the Bangsamoro Shari’ah courts.
+
+**Section 3. Creation of the Bangsamoro Shari’ah Judicial and Legal Academy.** — There is hereby created, within the Bangsamoro territorial jurisdiction, the Bangsamoro Shari’ah Judicial and Legal Academy, hereinafter referred to as the "Academy," which shall operate as an independent academic institution under the supervision of the Supreme Court of the Philippines.
+
+**Section 4. Powers and Functions of the Academy.** — The Academy shall have the following powers and functions:
+
+(a) To serve as the primary training and continuing education center for:
+	(i) Shari’ah Justices of the Shari’ah High Court.
+	(ii) Shari’ah Circuit Court Judges and Shari’ah District Court Judges within the Bangsamoro Autonomous Region.
+	(iii) Shari’ah Court personnel, including Clerks of Court, Process Servers, and other administrative staff within the Bangsamoro Autonomous Region.
+	(iv) Shari’ah counselors-at-law, and members of the Philippine Bar who are eligible to practice before Shari’ah courts, practicing within the Bangsamoro Autonomous Region.
+	(v) Aspirants to Shari’ah judicial posts in the Bangsamoro Autonomous Region.
+
+(b) To design, develop, and implement a curriculum for judicial education, training, and professional development in Shari’ah law, Islamic jurisprudence, judicial ethics, court management, and other relevant subjects.
+
+(c) To conduct seminars, workshops, colloquia, conferences, and other training programs for its target beneficiaries, including mandatory and optional courses.
+
+(d) To undertake and support researches and studies on Shari’ah law, judicial administration, and related subjects.
+
+(e) To publish and disseminate materials relating to Shari’ah law, judicial education, and the administration of justice.
+
+(f) To serve as a forum for the exchange of ideas and experiences among Shari’ah legal professionals.
+
+(g) To establish linkages and enter into consortia agreements with local and international judicial academies, universities, and other organizations for the purpose of enhancing its programs and activities.
+
+(h) To recommend to the Supreme Court the policies and standards for Shari’ah judicial education, training, and certification for purposes of judicial appointment, promotion, and professional development.
+
+(i) To provide recommendations and conduct studies of a purely educational nature to support the Supreme Court in any efforts towards the organization or enhancement of rules for the integration of the Shari’ah Bar to raise the standards of profession and improve the administration of justice in the Bangsamoro Autonomous Region.
+
+(j) To administer funds and manage its own affairs, subject to the provisions of this Act and other applicable laws.
+
+(k) To receive gifts, grants, donations, and legacies from local and foreign sources, which shall constitute a special fund for the Academy.
+
+**Section 5. The Board of Trustees.** — The Academy shall be governed by a Board of Trustees, hereinafter referred to as the "Board," composed of the following:
+
+(a) The Chief Justice of the Supreme Court, as ex-officio Chairperson.
+
+(b) The Presiding Justice of the Shari’ah High Court, as ex-officio Vice-Chairperson.
+
+(c) Two (2) incumbent Shari’ah Circuit Court Judges, appointed by the Supreme Court upon recommendation of Shari’ah High Court, as ex-officio members, based on the criteria and guidelines to be determined by the Board.
+
+(d) The Chancellor of the Academy, as ex-officio member.
+
+(e) The Bangsamoro Attorney-General, as ex-officio member.
+
+(f) The Mufti of the Bangsamoro Darul Ifta’, as ex-officio member.
+
+(g) Two (2) respected Shari’ah legal practitioners or academicians, appointed by the Supreme Court upon recommendation of Shari’ah High Court, as ex-officio members, based on the criteria and guidelines to be determined by the Board.
+
+*And, upon the invitation of the Supreme Court:*
+
+(h) The Secretary of the National Commission on Muslim Filipinos (NCMF), as ex-officio member.
+
+(i) The Chancellor of the Philippine Judicial Academy (PhilJA).
+
+*Provided, That the appointive members of the Board shall serve for a term of three (3) calendar years, without prejudice to reappointment, while the ex-officio members shall serve as such for the duration of their incumbency in their respective offices.*
+
+*Provided further, That all members shall serve without compensation but shall be entitled to reasonable honoraria/allowance for the performance of their duties.*
+
+**Section 6. Powers and Functions of the Board.** — The Board shall have the following powers and functions:
+
+(a) To formulate policies, rules, and regulations necessary for the effective operation of the Academy.
+
+(b) To fix the compensation and privileges of the Chancellor, Vice-Chancellor, and other officials and personnel of the Academy, subject to existing civil service laws and regulations.
+
+(c) To approve the proposed budget of the Academy and endorse the same to relevant authorities for its inclusion in the annual appropriations of the Bangsamoro Government.
+
+(d) To approve the programs, institutional plans, and annual reports of the Academy, including, but not limited to, the curriculum, academic courses, and the publication of a Judicial Journal and other legal writings, as determined by the Chancellor in consultation with the Corps of Professorial Lecturers.
+
+(e) To establish an organizational structure and staffing pattern for the Academy.
+
+(f) To accept and receive grants, donations, and other contributions from any source, local or foreign, for the benefit of the Academy.
+
+(g) To perform such other functions as may be necessary to carry out the purposes of this Act.
+
+**Section 7. The Executive Officials of the Academy.** — The Executive Officials of the Academy shall be composed of a Chancellor, Vice-Chancellor and an Executive Secretary, to be appointed by the Supreme Court, upon the recommendation of the Shari’ah High Court, for a term of three (3) years and without prejudice to subsequent reappointments. The executive officials shall not engage in the private practice of any profession.
+
+For purposes of retirement privileges, seniority, and other benefits, service of the executive officials in the Academy shall be considered as service in the Judiciary except in those cases not allowed by law.
+
+**Section 8. The Chancellor.** — The Chancellor of the Academy shall be a person of unquestionable integrity, with proven competence in Shari'ah law, judicial administration, or legal education. The Chancellor shall have as requisite qualifications, unless otherwise provided by the Supreme Court, meritorious service as a Shari’ah Circuit Court Judge for at least ten (10) years, or as Shari’ah District Court Judge for at least five (5) years and, in all these instances, meritorious service as teacher of law in a reputable school for at least five (5) years. The Chancellor shall have the following powers and functions:
+
+(a) To act as the chief executive officer of the Academy.
+
+(b) To implement the policies, programs, and decisions of the Board.
+
+(c) To recommend to the Board the appointment, removal, and compensation of Academy personnel.
+
+(d) To prepare and submit the annual budget and report of the Academy to the Board.
+
+(e) To represent the Academy in official functions.
+
+(f) To exercise such other powers and perform such other functions as may be delegated by the Board.
+
+**Section 9. The Vice-Chancellor.** — The Vice-Chancellor of the Academy shall assist the Chancellor in the discharge of the latter’s duties and responsibilities. The Vice-Chancellor shall possess the same qualifications as the Chancellor as provided in Section 8 of this Act.
+
+**Section 10. The Executive Secretary.** — The Executive Secretary of the Academy shall serve on a full-time basis and shall be the Recorder-Secretary of the Board of Trustees. The Executive Secretary shall have the same requisite qualifications as a Shari’ah Circuit Court Judge.
+
+**Section 11. Corps of Professorial Lecturers.** — The Academy shall have a Corps of Professorial Lecturers composed of eminent Shari’ah justices, judges, legal scholars, academicians, and other experts in Shari’ah law, judicial administration, and related fields. A Lecturer shall be nominated by any member of the Board. Upon a majority vote, the nomination shall be submitted to the Supreme Court for approval and formal appointment for a term of two (2) years without prejudice to subsequent reappointments.
+
+**Section 12. Selection and Admission of Participants.** — The criteria for the selection and admission of participants shall be determined by the Chancellor in consultation with the Corps of Professorial Lecturers and approved by the Board. *Provided, That* the Academy shall endeavor to open its doors to Shari’ah practitioners from outside the Bangsamoro Autonomous Region, ensuring that they shall not be prejudiced in their admission to programs and services, subject to the Academy’s capacity and relevant intergovernmental agreements.
+
+**Section 13. Qualification for Judicial Appointment or Promotion.** — As soon as the Academy shall have been fully organized with the composition of its Corps of Professorial Lecturers and other personnel, participants who have completed the programs prescribed by the Academy and have satisfactorily complied with all the requirements incident thereto shall be eligible for consideration for appointment or promotion by the Supreme Court to any position or vacancy in the Bangsamoro Shari'ah Judiciary.
+
+**Section 14. Intergovernmental Relations.** — The Academy may coordinate with national judicial training institutions, such as the Philippine Judicial Academy, and other relevant government agencies, for purposes of sharing expertise, resources, and best practices, consistent with the Bangsamoro Organic Law and the principles of intergovernmental relations.
+
+**Section 15. The Bangsamoro Shari’ah Judicial and Legal Academy Fund.** — There shall be a special fund to be known as the “Bangsamoro Shari’ah Judicial and Legal Academy Fund,” which shall be administered and disbursed by the Board exclusively for the purposes of this Act. The special fund shall be constituted from the following sources:
+
+(a) Grants, donations, contributions, and endowments from local and foreign sources.
+
+(b) Fees and charges for services rendered by the Academy.
+
+(c) Other income generated from the Academy's operations.
+
+**Section 16. Tax Exemption.** — All grants, donations, contributions, and endowments to the Academy shall be exempt from donor’s tax and shall be deductible in full from the gross income of the donor for income tax purposes, subject to the provisions of applicable regional laws.
+
+**Section 17. Appropriations.** — The amount necessary to carry out the purposes of this Act, including the annual operation, maintenance, and improvement of the Academy, shall be included in the General Appropriations Act of the Bangsamoro Government. This annual appropriation shall be without prejudice to any national support that may be extended under the program of the Supreme Court.
+
+For the initial operating expenses of the Academy to effectively carry out the mandate of this Act, the amount of Fifty Million Pesos (PhP 50,000,000.00) is hereby appropriated from the Contingent Fund.
+
+**Section 18. Implementing Rules and Regulations.** — Within ninety (90) days from the effectivity of this Act, the Bangsamoro Attorney-General’s Office in close coordination with the Supreme Court, shall prepare and issue the necessary rules and regulations for the effective implementation of this Act.
+
+**Section 19. Transitory Provision.** — The Bangsamoro Shari'ah Judicial and Legal Academy shall be immediately established and shall commence its operations upon the effectivity of this Act. In recognition of the ongoing efforts for the formal organization of the Shari’ah High Court, the Supreme Court may consider attaching the Academy as a component unit of the said High Court upon its complete organization, as may be deemed appropriate to further enhance judicial education and the administration of justice in the Bangsamoro Autonomous Region.
+
+Until the full organization of the Shari'ah High Court, any reference in this Act to the Shari’ah High Court concerning membership in the Board of Trustees or other specific functions where its immediate involvement is required shall be interpreted as referring to the Supreme Court or its designated judicial body or office for the purpose of the Academy's operations, as determined by the Supreme Court.
+
+**Section 20. Repealing Clause.** — All laws, orders, issuances, rules, and regulations inconsistent herewith are repealed or modified accordingly.
+
+**Section 21. Repealing Clause.** — If any part or provision of this Act shall be declared unconstitutional or invalid, the other provisions hereof which are not affected thereby shall remain in full force and effect.
+
+**Section 22. Effectivity.** — This Act shall take effect fifteen (15) days after its publication in the Official Gazette of the Bangsamoro Autonomous Region in Muslim Mindanao or a newspaper of regional circulation.
+
+**Atty. LAISA MASUHUD ALAMIA**
+Member of Parliament
+
