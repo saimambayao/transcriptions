@@ -1,0 +1,144 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **367**
+
+Principal Author: MP Abrar Jainuddin Hataman
+
+**AN ACT INSTITUTIONALIZING INCLUSIVE EDUCATION THROUGH THE CREATION OF ONE (1) SPECIAL EDUCATION AND DEVELOPMENT CENTER FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS IN EVERY PROVINCE OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR STANDARDS AND GUIDELINES, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Section 1, Article XIV of the 1987 Constitution provides that the State shall protect and promote the right of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all.
+
+It likewise provides in Section 2.4, Article XIV that the State shall encourage non-formal, informal, and indigenous learning systems, as well as self-learning, independent, and out-of-school study programs particularly those that respond to community needs.
+
+The Philippine education system, despite the attention given to Special Education (SPED) programs, has proven insufficient to cater to the educational needs of differently-abled youth. Recognizing the urgency on the matter, the Philippines has ratified international treaties and passed laws to protect the rights of disabled children and adopted SPED as a new educational paradigm, yet efforts at implementation remain lacking.
+
+The evident absence of inclusive education for indigenous children and youth with special needs is most prevalent in rural settings, where the lack of government support and intervention is most felt. Consequently, rural schools are ill-equipped to teach SPED programs. They often lack the budget to implement SPED measures, are unable to access SPED curriculum guides and teaching materials, and do not have the necessary facilities and equipment to carry out SPED programs.
+
+Given the urgency of fulfilling the constitutional mandate quoted above, the Bangsamoro government along with the local government units within its territorial jurisdiction are encouraged to work together in upholding the rights of the children and the disabled by providing a legal framework for inclusive education and enforcing it with effective government intervention.
+
+The attached bill recognizes the importance of making education inclusive for everyone, highlighting the needs of those with learning disabilities, and making quality and appropriate education accessible for the marginalized. The bill proposes the expansion of the scope of Special Education schools in BARMM, providing centers in every province and an extension center in far-flung areas. In view of the foregoing, the approval of this bill is earnestly sought.
+
+**ABRAR J. HATAMAN**
+Author
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **367**
+
+Principal Author: MP Abrar Jainuddin Hataman
+
+**AN ACT INSTITUTIONALIZING INCLUSIVE EDUCATION THROUGH THE CREATION OF ONE (1) SPECIAL EDUCATION AND DEVELOPMENT CENTER FOR CHILDREN AND YOUTH WITH SPECIAL NEEDS IN EVERY PROVINCE OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR STANDARDS AND GUIDELINES, AND APPROPRIATING FUNDS THEREFOR**
+
+**Section 1. Title.** This Act shall be known as the **“BARMM Special Education and Development Act”**
+
+**Section 2. Declaration of Policy.** It is hereby the policy of the Bangsamoro Government, in accordance with the State’s responsibility, to safeguard and promote the rights of Children and Youth with Special Needs (CYSN) on accessing quality education and on taking necessary mechanisms in making such education possible to them. The Bangsamoro Government recognizes their role in society, hence integrating their needs into regional development strategies.
+
+It is also the policy of the Bangsamoro Government, in accordance with the State, to render full support for their welfare and development by ensuring their integration into society and facilitating their right to participate in the political affairs of BARMM.
+
+This is pursuant to Section 13 Article II and Section 13 Article XIII of the 1987 Constitution; Article 3 of Presidential Decree No. 603, also known as the “Child and Youth Welfare Code”; Sections 12 to 14 of Republic Act No. 7277, as amended, known as the “Magna Carta for Disabled Persons”; United Nations Convention on the Rights of the Child; United Nations Convention on the Rights of Persons with Disabilities; Incheon Strategy to Make the Rights Real for Persons with Disability in Asia and the Pacific, along with other relevant laws.
+
+**Section 3. Purpose.** – This Act seeks to institutionalize a comprehensive, inclusive, and sustainable approach to special education by establishing at least one (1) Special Education Development Center in every province of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). It aims to provide equitable access to quality education and developmental opportunities for Children and Youth with Special Needs (CYSN), ensuring that no child is left behind due to disability, geographic location, or socio-economic constraints. The Act further envisions empowering families, communities, and institutions to collectively uphold the rights, dignity, and potential of every learner with special needs as a cornerstone of inclusive regional development.
+
+**Section 4. Objectives.** This Act shall pursue the following:
+
+a) Provide CYSNs with access to appropriate education and related services in accordance with their needs, namely the visually impaired, hearing impaired, gifted/talented, the mentally challenged, the speech defective, the learning disabled, children with behavior problems, the physically handicapped, the autistic children, and those with health problems;
+
+b) Provide CYSNs access to basic education through formal and alternative delivery services in education;
+
+c) Ensure that CYSNs develop their talents, abilities, and interests to become productive members of society and efficient partners in all affairs of the country;
+
+d) Provide parents and other caretakers the opportunity to make an informed choice for their children by giving them information about placement options in educational programs for their children and opportunities to participate in the creation of such opportunities;
+
+e) Train and equip principals/administrators, special education teachers, regular teachers, non-teaching staff of the school, and caregivers with primary sources of care, advancement, and education of CYSNs;
+
+f) Secure the commitment of local government units, private groups, regional and national agencies other than the Department of Education along with its regional counterpart the Ministry of Basic, Higher, and Technical Education, to the inclusion of CYSNs in the development of our education system;
+
+g) Cultivate positive community attitudes and perception towards disability and the necessity of providing special education and other related services to CYSNs.
+
+**Section 5. Definition of Terms.** The used terms are defined as follows, for the purposes of this Act:
+
+a) Children and Youth with Special Needs (CYSN) refers to children and youth that have specialized needs in education, whose neuropsychological traits, sensory and physical abilities, and social characteristics differ to such an extent that only modified specialized education or school practices are required for their full development. They may be classified further as:
+
+i) Children with disabilities - Refers to persons below 18 years old experiencing long-term physical, mental, intellectual, or sensory impairments which hinder their full participation in society;
+
+ii) Youth with disabilities are persons aged 15 to 30 years old experiencing long-term physical, mental, intellectual, or sensory impairments which hinder their full participation in society.
+
+b) Disability means 1) physical, mental, intellectual, and sensory impairment. 2) limitation in encountering and executing a task, and 3) any hindrance to an individual’s ability to navigate real life situations.
+
+c) Basic Education refers to a program of instruction intended to meet the basic learning needs which provide the foundation on which subsequent learning can be based. It encompasses kindergarten, elementary and secondary education of all learners, including those with disabilities, as well as Alternative Learning Systems (ALS) as provided in Republic Act No. 11510, and Republic Act No. 10533, or the "Enhanced Basic Education Act of 2013"
+
+d) Inclusive education is a procedure of addressing and catering to the diversity of students’ needs through increased participation in cultures, learning, and communities. It focuses on relevant and appropriate education for all learners and the development of a conducive and inclusive learning environment.
+
+e) Special Education (SPED) refers to a modified instructional program or service which is designed to cater the individual needs of CYSNs that beget the usage of aids, services, and teaching strategies in the classroom and in non-academic settings.
+
+f) Private sector participation refers to the meaningful participation of private individuals, non-government organizations, partnerships or groups in delivering quality and accessible education to CYSNs.
+
+**Section 6. Coverage.** This act shall cover children and youth with special needs in BARMM.
+
+**Section 7. Creation of Special Education and Development Centers in All BARMM Provinces.** At least (1) SPEDD Center shall be established in the provincial center of all BARMM provinces. In island municipalities and far-flung areas that post logistics and transportation hindrances, there should be at least (1) SPEDD Extension Center.
+
+**Section 8. Functions of the Special Educational Center.** The Center shall function as a resource center which will assist in developing inclusive education for CYSNs in their respective localities. Their duties shall include but are not limited to the following:
+
+a) Ensure that CYSNs have access to and are receiving the services granted to them under our laws;
+
+b) Provide SPED training to teachers, non-teaching staff, parents, and administrators in their respective localities;
+
+c) Supply schools with learning materials for CYSNs;
+
+d) Spearhead the conduction of school-based orientation of CYSNs and their caregivers on the rights of CYSNs;
+
+e) Ensure access to non-educational auxiliary aids for CYSNs.
+
+**Section 9. Hiring and Benefits for Personnel and Staff of the Center.** In addition to hiring teachers with experience and expertise in handling CYSNs and to assure the implementation of the provisions of this Act, MBHTE may hire the necessary personnel and support staff to oversee the Center. MBHTE shall ensure that the rights of the teachers and instructors are upheld by providing them with benefits such as scholarship and training grants, allowances, incentives, and exchange programs and means deemed necessary to fulfilling their job to the satisfaction of the MBHTE.
+
+**Section 10. Authority of the MBHTE Minister.** The Minister of MBHTE shall spearhead the development of programs and enter into negotiations with the private sector and key stakeholders for the management of the Centers and institutionalization of inclusive education in the education system. These programs may include but are not limited to the following:
+
+a) Technical support to Center teachers preparing to serve or are currently serving CYSNs;
+
+b) Localizing successful innovative strategies in providing educational or related services to CYSNs;
+
+c) Develop the involvement of parents and caregivers in the education of CYSNs; d) Provision of training for professionals or related personnel;
+
+e) Enter into agreements with medical and allied medical groups.
+
+**Section 11. Incentives for Private Sector Participation.** Public-Private Partnerships which cater to the educational needs of children and youth with disabilities shall be encouraged. A scheme to provide incentives and benefits to the private sector and individuals which will include tax deductions and loan assistance will be drafted in coordination with the Ministry of Finance, Budget and Management and the Ministry of Interior and Local Governance.
+
+**Section 12. Provincial Government Unit Participation.** The PLGUs may allocate a portion of their Special Education Fund for the following:
+
+a) Provision of centers or buildings where there are no existing facilities that will house the special education of CYSNs;
+
+b) Provision of funds for the trainings and seminars of parents, teachers, and other caretakers on needs and care programs for CYSNs;
+
+c) Coordinate and tap private organizations and individuals for funding of SPED programs, special learning equipment, and information dissemination campaigns.
+
+**Section 13. Public Information and Communication.** A regional information dissemination campaign on the early identification, detection, prevention, and interventions for CYSNs shall be boosted. This will fall along with the responsibility of the Ministry of Transportation and Communication, Philippine Information Agency, National Council for Disability Affairs, and the Council for the Welfare of Children. The MBHTE, in collaboration with the LGUs shall disseminate information on education for CYSNs. Media outlets and organizations are welcome to participate in the dissemination campaign of inclined materials and information on education, training, and working with CYSNs.
+
+**Section 14. Appropriations.** The Minister of the Ministry of Basic, Higher, and Technical Education shall immediately include in their programs the implementation of this Act, the funding shall be incorporated in the annual General Appropriations Act and a separate line for item budget for CYSNs shall be included in the budget.
+
+**Section 15. Implementation.** The Ministry of Basic, Higher, and Technical Education, through the approval of its national counterpart which is the Department of Education, in coordination with the Ministry of Interior and Local Government, Ministry of Finance, Budget and Management along with national councils such as the National Council for the Welfare of Disabled Persons and the Council for the Welfare of Children, shall disseminate and issue the essential guidelines for the creation and operation of SPED Centers in within seven (7) days after the effectivity of this Act.
+
+**Section 16. Separability Clause.** If any provision or part of this Act is held invalid or unconstitutional, the provisions not otherwise affected hereby shall remain valid and subsisting.
+
+**Section 17. Repealing Clause.** All laws, presidential decrees, executive orders, proclamations, administrative orders. rules and regulations, or parts thereof contrary or inconsistent herewith are hereby repealed or modified accordingly.
+
+**Section 18. Effectivity Clause.** This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+
+**ABRAR J. HATAMAN**
+Author
+
