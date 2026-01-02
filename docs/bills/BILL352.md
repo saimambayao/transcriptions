@@ -1,0 +1,286 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Introduced by:
+**THE GOVERNMENT OF THE DAY**
+
+BILL NO. 352
+
+**AN ACT PROVIDING FOR THE SUSTAINABLE MANAGEMENT, DEVELOPMENT, AND CONSERVATION OF LAKE LANAO AND ITS WATERSHED, CREATING FOR THIS PURPOSE THE LAKE LANAO MANAGEMENT AUTHORITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be it enacted by the Members of the Parliament assembled:
+
+**CHAPTER I**
+**GENERAL PROVISIONS**
+
+**Section 1. Short Title.** This Act shall be known as the “Lake Lanao Management Act.”
+
+**Section 2. Declaration of Policy.** It is hereby declared the policy of the Bangsamoro Government to protect, develop, and conserve its natural resources in accordance with the constitutional right of its people to a balanced and healthful ecology in accord with the rhythm and harmony of nature. Towards this end, it shall effectively manage Lake Lanao and its watershed, taking into account the need to safeguard its resources while at the same time spurring socio-economic development and ensuring that the benefits of Lake Lanao are enjoyed by the Bangsamoro people.
+
+**Section 3. Definition of Terms.** For the purposes of this Act:
+
+(a) “Authority” - shall mean the Lake Lanao Management Authority as created under this Act.
+
+(b) “Bangsamoro” - shall refer to those who, at the advent of the Spanish colonization, were considered natives or original inhabitants of Mindanao and the Sulu archipelago and its adjacent islands, whether of mixed or full blood.
+
+(c) “Board” - shall mean the Board of Directors of the Lake Lanao Management Authority as created under this Act.
+
+(d) “Fisheries” - shall refer to all activities relating to the act or business of fishing, culturing, preserving, processing, marketing, developing, conserving, and managing aquatic resources and the fishery areas, including the privilege to fish or take aquatic resources thereof.
+
+(e) “Lake Lanao Area” - shall refer to the combined areas of Lake Lanao and the Lake Lanao Watershed;
+
+(i) “Lake Lanao” - shall refer to the water reservoir located in the province of Lanao del Sur where the water from the five river systems and tributaries are collected;
+
+(ii) “Lake Lanao Watershed” - shall mean the area established and defined under Proclamation No. 871, s. 1992, including all rivers and tributaries leading to Lake Lanao;
+
+(f) “Management Plan” - shall refer to the Lake Lanao Area Management Plan;
+
+(g) “Special Management Area” - shall refer to an identified portion of land and water placed under specific management measures under this Act by reason of its unique physical and biological diversity and its cultural and historical significance; and
+
+(h) “Zoning” - shall refer to the process of delineating the specific regimes for lands and waters in accordance with the approved Master Plan within the territorial jurisdiction specified under Section 4 herein, subject to the limitations imposed by law and the competent authorities.
+
+**Section 4. Geographical Coverage.** This Act shall cover the combined areas of Lake Lanao and the Lake Lanao Watershed. Provided, that in areas within the territorial jurisdiction of the province of Lanao del Sur and its cities and municipalities, the policies, rules, and programs enacted under this Act shall be undertaken in coordination with the relevant local government units.
+
+**CHAPTER II**
+**MANAGEMENT OF THE LAKE LANAO AREA**
+
+**Section 5. Lake Lanao Area as a Special Management Area.** The Lake Lanao Area is hereby declared to be a special management area, subject to zoning and other protective measures to be determined in accordance with the Lake Lanao Area Management Plan.
+
+**Section 6. Lake Lanao Area Management Plan.** The Lake Lanao Management Authority, as provided for in this Act, through its Research and Planning Service, shall prepare a comprehensive Lake Lanao Area Management Plan, with the advice of the Scientific Advisory Committee and in coordination with all concerned government agencies, local government units, and stakeholders.
+
+The plan shall be evidence-based, taking into account available scientific data, and shall espouse a holistic approach that considers ecological, socio-economic, and cultural factors in the formulation of policies. It shall be guided by the following principles:
+
+(a) Environmental Protection and Conservation: Ensuring the protection and conservation of Lake Lanao’s water quality, biodiversity and ecological integrity;
+
+(b) Sustainable Management and Use: Promoting sustainable development initiatives and management practices that support the socio-economic growth and well-being of local communities while preserving Lake Lanao’s resources;
+
+(c) Cultural Preservation: Respecting and integrating the cultural heritage and traditional knowledge of local and indigenous communities in the management practices;
+
+(d) Stakeholder Participation: Actively involving local communities, indigenous peoples, and relevant stakeholders in decision-making processes to ensure their rights and interests are represented; and
+
+(e) Research and Education: Supporting multidisciplinary research and providing educational programs that enhance understanding and awareness of Lake Lanao’s ecological, cultural, and economic importance.
+
+The Management Plan shall serve to guide the Bangsamoro Government and the local government units concerned in the formulation and implementation of plans, programs, and projects affecting said Lake Lanao Area.
+
+Within twelve (12) months from the organization of the Authority, the draft Management Plan shall be submitted to the Board for its review and approval.
+
+**Section 7. Content of Lake Lanao Area Management Plan.** The Management Plan shall contain, among others:
+
+(a) comprehensive planning and management, which shall include spatial planning, pollution prevention, and water allocation, for the Lake Lanao Area, in coordination with local government units, as appropriate;
+
+(b) zoning of the Lake Lanao Area into protected areas, controlled use areas, multiple use areas, and other categories as may be necessary to implement the purposes of this Act;
+
+(c) guidance for sustainable fisheries, conservation of living resources, and maintenance or rehabilitation of habitats within the lake;
+
+(d) guidance for the sustainable management of land-based activities along the lake shore by the local government units;
+
+(e) standards for the issuance, screening, and approval of all development and resource-use activities within the Lake Lanao Area and adequate protection and restoration of endangered species and fragile ecosystems;
+
+(f) site management strategy including, but not limited to, establishment of clear and simplified guidelines on the activities that can be allowed within the zones, including the buffer zones;
+
+(g) major management activities such as, but not limited to, enforcement of laws, habitats and wildlife management, sustainable-use management, infrastructure development and maintenance, fire prevention, pest and disease control, and disaster management;
+
+(h) mechanisms for the protection, regulation, and prohibition of activities within the Lake Lanao Area; and
+
+(i) mechanisms to ensure consultative and participatory decision-making processes.
+
+The Management Plan shall be consistent with the nature of the Lake Lanao Area as a special management area. It shall be applicable for a period of ten (10) years subject to mandatory periodic review every five (5) years, to be ordered by the Board.
+
+**Section 8. Minimum Rules and Principles for Management.** In the development and implementation of the Management Plan, the Authority shall observe the following minimum rules and principles:
+
+(a) The Authority will adopt an ecosystem approach and policies consistent with Integrated Lake Basin Management;
+
+(b) The Authority will prioritize the maintenance of water quality as appropriate for the sustainable use of Lake Lanao and maintenance of its ecological integrity;
+
+(c) The Authority shall ensure that the right of the people to a healthful and balanced ecology is respected and enhanced through its policies and decisions;
+
+(d) The Authority shall work towards sustainable development according to relevant laws, regulations, and international instruments including the Sustainable Development Goals;
+
+(e) The Authority shall pursue inclusive economic development in accordance with social justice and other principles enshrined in the Constitution; and
+
+(f) The Authority shall respect traditional cultural values and customs.
+
+**Section 9. Implementation of Lake Lanao Area Management Plan.** The Management Plan shall take into account the following elements:
+
+a. Establishment of an inter-agency and multi-sectoral mechanism to coordinate the efforts of different agencies, sectors, and administrative levels;
+
+b. The conduct of public awareness programs to increase the level of understanding of, and appreciation for, the natural resources of Lake Lanao, and to promote a shared responsibility among stakeholders in the planning and implementation of the Management Plan;
+
+c. Mainstreaming the Management Plan into the national and local governments’ planning and socio-economic development programs and allocating adequate financial and human resources for implementation;
+
+d. The conduct of integrated environmental monitoring for the purpose of measuring the status, progress, and impacts of the Management Plan against sustainable development indicators, as may be established, and for use in decision-making, public awareness, and performance evaluation; and
+
+e. Implementation of integrated waste management, including the use of water treatment and sewage treatment plants, required under existing national and Bangsamoro laws, including the Clean Air Act, Clean Water Act, and the Solid Waste Management Act.
+
+**Section 10. Clearance Requirement.** No project or activity with potentially significant adverse impact to the environment may be undertaken by any project proponent without prior clearance from the Authority that the said project or activity is consistent with the implementation and objectives of the Management Plan. Provided, that an application for clearance shall be deemed granted if not acted upon within thirty (30) days from the filing of the application and submission of complete requirements.
+
+No Environmental Compliance Certificate or other permits shall be issued by the Ministry of Environment, Natural Resources, and Energy or other relevant agencies under the jurisdiction of BARMM to a project proponent without submission of the clearance or proof of filing and subsequent inaction. Provided, that the issuance of the clearance does not mean that an Environmental Compliance Certificate or other permits shall be automatically granted, nor does such clearance absolve the proponent of the obligations of compliance with other laws and requirements.
+
+**Section 11. Intergovernmental Energy Board Participation.** The Authority shall be among the representatives of the Ministry of Environment, Natural Resources, and Energy in the Intergovernmental Energy Board created under Article VI, Section 7 of the Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law. It shall have the authority to participate in decision-making and resolution of issues with the national government pertaining to energy matters pursuant to the relevant provisions of the Bangsamoro Organic Law.
+
+**CHAPTER III**
+**THE LAKE LANAO MANAGEMENT AUTHORITY**
+
+**Section 12. Creation of the Lake Lanao Management Authority.** There is hereby created a body corporate with regulatory, quasi-judicial, and quasi-legislative powers to be known as the Lake Lanao Management Authority attached to the Ministry of Environment, Natural Resources, and Energy for the purpose of policy coordination. For this purpose, the Lake Lanao Development Authority created under the provisions of Muslim Mindanao Autonomy Act 93 is hereby abolished.
+
+The Authority shall be considered a government instrumentality with corporate powers/government corporate entity, in accordance with Republic Act No. 10149 or the GOCC Governance Act.
+
+**Section 13. Organizational Structure of the Authority.** Within fifteen (15) days from the appointment of and acceptance by all members of the Board and the Director General of their respective appointments, the Board, in consultation with the Director General, shall meet to draw-up the Authority’s organizational structure.
+
+The Board shall establish the following permanent offices:
+
+(a) Research and Planning Service;
+
+(b) General Administration Service;
+
+(c) Legal Service;
+
+(d) Licensing and Enforcement Service; and
+
+(e) Development and Management Service.
+
+**Section 14. Principal Office.** The Authority shall have its principal office in Marawi City, Lanao del Sur. It may establish sub-offices elsewhere in the province of Lanao del Sur and other areas as it may deem necessary.
+
+**Section 15. Fiscal Autonomy.** The Authority shall enjoy fiscal autonomy. Fifty *per centum* (50%) of the monies earned by the Authority from the collection/levy of any and all such fees, charges, dues, assessments, and fines it is empowered to collect/levy under this Act shall be used solely to fund the operations of the Authority.
+
+The utilization of any funds coming from the collection and/or levy of the Authority shall be subject to the examination of the Bangsamoro Parliament or its duly-authorized committee.
+
+The Parliament shall appropriate the funds necessary for the operation of the Authority, to the extent that it exceeds the funds available under the preceding paragraphs of this Section.
+
+**Section 16. Schedule of Fees and Charges.** The Authority shall adopt and publish its schedule of fees and charges. The Authority shall hold such public hearings or consultative meetings with stakeholders in the industry before adopting its schedule of fees and charges. The Authority shall not revise its schedule of fees and fines more often than once every three (3) years.
+
+**CHAPTER IV**
+**POWERS OF THE AUTHORITY**
+
+**Section 17. Powers and Functions.** The Authority and its component offices shall exercise such powers and functions as are granted under the provisions of this Act.
+
+**Section 18. Corporate Powers.** The Authority, acting through the Board, shall have the following corporate powers:
+
+(a) To succeed in its corporate name, to sue and be sued in such corporate name, and to adopt, use, and alter its corporate seal, which shall be judicially noticed;
+
+(b) To adopt, amend, or repeal its bylaws;
+
+(c) To enter into, make, perform, and carry out contracts of every class, kind and description, which are necessary or incidental to the realization of its purposes, with any person, domestic or foreign private firm, or corporation, local or national government office, agency, and international institution or foreign government;
+
+(d) To construct, acquire, own, hold, operate, maintain, administer, and lease personal and real properties, including buildings, machinery, equipment, other infrastructure, agricultural land, and its improvements, property rights, and interests therein, and to encumber, mortgage, dispose, sell, or alienate or otherwise dispose the same at the fair market value it may deem appropriate; to lease its machinery, equipment, or goods not immediately required by it; Provided, that no real property thus acquired and any other real property shall be sold without the approval of the Chief Minister;
+
+(e) To receive gifts, donations, grants, bequests, services, properties, whether personal or real, and assistance of all kinds, from private and public sources, firms, institutions, domestic and foreign governments, and international institutions, and utilize the same for the purposes set forth in this Act;
+
+(f) To settle, under such terms and conditions most advantageous to it and in accordance with the provisions of this Act, any claim by or against it;
+
+(g) To determine and keep its own system of accounts following generally accepted principles of accounting, as well as the forms and contents of its contracts and other business documents; and
+
+(h) To perform such other acts as are necessary or convenient in connection with the performance of its functions to carry out the purposes of this Act.
+
+**Section 19. Administrative Powers.** The Authority, acting through the Board, shall have the following administrative powers:
+
+(a) To exercise regulatory power and control over the Lake Lanao Area;
+
+(b) To issue a Clearance over any project or activity with potentially significant adverse impact to the environment as a prerequisite for the issuance of an Environmental Compliance Certificate or Certificate of Non-Coverage by the Ministry of Environment, Natural Resources, and Energy or other permits issued by relevant agencies under the jurisdiction of BARMM;
+
+(c) To issue water and other resource permits and licenses for the use of the Lake Lanao waters, on activities not covered by (b);
+
+(d) To coordinate with the LGUs in the implementation of the Management Plan in zoning ordinances, projects, and other interventions initiated by the LGUs;
+
+(e) To regulate the utilization, management, development, conservation, and allocation of forestry, fisheries, and aquatic resources in coordination with relevant national, Bangsamoro, and local agencies and LGUs;
+
+(f) To fix, impose, collect, and periodically review and adjust reasonable fees and other charges in respect of clearances, certificates, licenses, and all other permits authorized to be issued under this Act and all services performed by the Authority;
+
+(g) To require the building of water treatment facilities pursuant to the Management Plan; and
+
+(h) To exercise all the functions and powers necessary or incidental to attain the purposes and objectives of this Act.
+
+**Section 20. Rule-Making Powers.** The Authority, acting through the Board, shall have the following rule-making powers:
+
+(a) To set environmental compliance standards for fisheries, forestry, agro-industrial, power plants, irrigation projects, and any other activities that may be undertaken in or around Lake Lanao, consistent with national laws and Bangsamoro legislation, and internationally-accepted scientific standards;
+
+(b) To establish and regulate different types of aquatic and lakeshore zones as may be identified in the Management Plan;
+
+(c) To establish anti-pollution and water quality standards and systems; and
+
+(d) To enact policies, rules, and regulations as may be necessary to create and implement a Management Plan, in coordination with local government units and other relevant stakeholders, as further elaborated in Chapter II of this Act.
+
+**Section 21. Enforcement Powers.** The Authority, acting through the Board, shall have the following enforcement powers:
+
+(a) To participate in the conduct of inspections and the exercise of visitorial powers, subject to reasonable standards and safeguards, to determine compliance with rules and standards formulated by the Authority and under this Act;
+
+(b) To deputize or request the assistance of other government agencies in the exercise of the functions authorized by this Act;
+
+(c) To conduct administrative proceedings and impose administrative penalties for the commission of prohibited acts defined under this Act;
+
+(d) To file appropriate criminal, civil, and administrative cases for violations of relevant environmental laws with the proper tribunals or agencies;
+
+(e) To implement court orders on relevant cases in coordination with the relevant agencies; and
+
+(f) To demolish non-compliant structures, halt non-compliant activities, and undertake any other necessary measures to ensure the preservation of Lake Lanao, consistent with the provisions of this Act and the Management Plan.
+
+**Section 22. Quasi-Judicial Powers.** The Authority, acting through the Board, shall have the following quasi-judicial powers:
+
+(a) To exercise appellate jurisdiction over the decisions of the Director General;
+
+(b) To impose reasonable administrative penalties and fines for activities contrary to the standards established by the Authority and plans made under this Act, observing due process, without prejudice to fines and penalties under other laws; and
+
+(c) To issue notices, show cause orders, and cease-and-desist orders for violations of the Management Plan.
+
+**CHAPTER V**
+**THE BOARD OF DIRECTORS**
+
+**Section 23. Composition of the Board Members.** The Authority shall be governed by a Board of Directors composed of the following or their duly-designated representatives:
+
+Chairperson *ex officio*: Minister of Environment, Natural Resources, and Energy
+
+Vice Chairperson *ex officio*: Governor of the Province of Lanao del Sur
+
+Members:
+
+a. Minister of Agriculture, Fisheries, and Agrarian Reform;
+
+b. Minister of Public Works;
+
+c. Director General of the Authority;
+
+d. Director General of the Bangsamoro Planning and Development Authority; and
+
+e. President of the Mindanao State University.
+
+The above-enumerated members of the Board may designate in writing representatives to the Board from among the permanent officials of their respective agencies, who shall be deemed full members of the Board for the purposes of voting, quorum, and entitlement to *per diems* and other emoluments.
+
+**Section 24. Board Meetings.** The Board shall meet regularly once a month and may hold special meetings to consider urgent matters upon call of the Chairperson or upon the initiative of five (5) members. Internal rules of procedure on the conduct of Board meetings shall be as prescribed by the Board, including on the conduct of online or hybrid meetings.
+
+**Section 25. Quorum.** The presence of at least five (5) members of the Board shall constitute a quorum. A consensus of the members present in a meeting where a quorum is met shall be necessary for the adoption of any rule, ruling, order, resolution, decision, or other act of the Board in the exercise of its functions. In case a consensus cannot be reached, a majority vote shall be required.
+
+**Section 26. Per Diems.** The members of the Board shall receive a per diem for each meeting actually attended. The per diems of the members of the Board shall be determined pursuant to a resolution adopted by the Board subject to compliance with the guidelines duly existing and applicable issued by the Commission on Audit and other relevant institutions.
+
+**CHAPTER VI**
+**POWERS AND FUNCTIONS OF THE BOARD**
+
+**Section 26. Powers and Functions of the Board.** The Board of Directors shall have the following powers and functions, in addition to the preceding Section:
+
+(a) Approve the Management Plan as provided under Section 6 of this Act and its component water zoning plan as provided under Section 7 of this Act;
+
+(b) Oversee the implementation of the Management Plan;
+
+(c) Decide the objectives, strategies, and policies of the Authority in accordance with the provisions of this Act;
+
+(d) Prescribe rules and regulations to govern the conduct of business of the Authority;
+
+(e) Recommend to the Ministry of Finance, and Budget and Management the Authority’s organizational structure and corresponding staffing pattern, in accordance with the provisions of this Act and other applicable laws of the national and Bangsamoro governments;
+
+(f) Review, modify, affirm, or reverse any decisions, findings, and rulings of the Director General or authorized hearing officers on administrative investigations conducted pursuant to the delegation by the Board;
+
+(g) Issue subpoena *ad testificandum* or subpoena *duces tecum* requiring the attendance and testimony of witnesses in any matter or inquiry pending before the Board and require the production of books, papers, contracts, agreements, and all other documents submitted for purposes of this section to be under oath and verified by the person in custody thereof as to the truth and correctness of data appearing in such books, papers, contracts, agreements, and all other documents;
+
+(h) Exercise appellate powers to order the taking of depositions in any proceeding or investigation pending before the Board, at any stage of such proceeding or investigation;
+
+(i) By a majority vote of all members of the Board, suspend, remove, or otherwise discipline for just cause all officials appointed by the Board in accordance with relevant civil service laws and rules;
+
+(j) Approve the annual working program and budget of the Authority, subject to the legislative budgetary process;
+
+(k) Use available services, equipment, personnel, and facilities of other agencies of the Bangsamoro Government, on a reimbursable basis when appropriate and, on a similar basis, to cooperate with those agencies in the establishment and use of services, equipment and facilities of the Authority;
+
+(l) Use the property of the Authority in such a manner as may appear to the Authority to be requisite, advantageous, or convenient with a view to making the best use of any of the property of the Authority in relation to its functions under this Act; and
+
+(m) Perform such other acts and functions as may be necessary to carry out the provisions of this Act.
+
