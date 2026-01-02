@@ -1,0 +1,82 @@
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+BANGSAMORO TRANSITION AUTHORITY PARLIAMENT
+Bangsamoro Government Center, Cotabato City
+
+SECOND REGULAR SESSION
+
+RESOLUTION NO. 336
+
+RESOLUTION ADOPTING THE CALENDAR OF SESSION FOR THE SECOND REGULAR SESSION OF THE SECOND BANGSAMORO TRANSITION AUTHORITY (BTA) PARLIAMENT
+
+WHEREAS, Section 6, Rule III of the Rules, Procedures, and Practices of the Bangsamoro Transition Authority Parliament (BTA Resolution No. 268) provides that:
+
+“The Parliament shall convene its regular session once every year on the second Tuesday of the month after Eid’l Fitr and not later than thirty (30) days before the opening of the next regular session. xxx”
+
+WHEREAS, Section 3(b), Rule VI of BTA Resolution No. 268 provides that regular sessions are sessions conducted by the Parliament based on its annual calendar schedules;
+
+WHEREAS, Section 4, Rule VI of BTA Resolution No. 268 provides that:
+
+“Plenary sessions shall commence at one o’clock in the afternoon on Mondays through Thursdays of the third and fourth week of the month except when the Parliament decides otherwise. xxx”
+
+WHEREAS, adopting a Calendar of Session will guide the Members of the Bangsamoro Transition Authority Parliament in the performance of their legislative and constituency-serving functions:
+
+NOW, THEREFORE, be it
+
+RESOLVED, as it is hereby resolved by the Bangsamoro Transition Authority, To adopt the following Calendar of Session for the Second Regular Session of the Second BTA Parliament.
+
+1. Commencement of the Second Regular Session - May 15, 2023
+2. Adjournment of Session - May 18, 2023
+3. Resumption of Session - May 22, 2023
+4. Adjournment of Session - May 25, 2023
+5. Resumption of Session - June 19, 2023
+6. Adjournment of Session - June 22, 2023
+7. Resumption of Session - June 26, 2023
+8. Adjournment of Session - June 29, 2023
+9. Resumption of Session - July 17, 2023
+10. Adjournment of Session - July 20, 2023
+11. Resumption of Session - July 24, 2023
+12. Adjournment of Session - July 27, 2023
+13. Resumption of Session - August 14, 2023
+14. Adjournment of Session - August 17, 2023
+15. Resumption of Session - August 21, 2023
+16. Adjournment of Session - August 24, 2023
+17. Resumption of Session - September 18, 2023
+18. Adjournment of Session - September 21, 2023
+19. Resumption of Session - September 25, 2023
+20. Adjournment of Session - September 28, 2023
+21. Resumption of Session - October 16, 2023
+22. Adjournment of Session - October 19, 2023
+23. Resumption of Session - October 23, 2023
+24. Adjournment of Session - October 26, 2023
+25. Resumption of Session - November 13, 2023
+26. Adjournment of Session - November 16, 2023
+27. Resumption of Session - November 20, 2023
+28. Adjournment of Session - November 23, 2023
+29. Resumption of Session - December 18, 2023
+30. Adjournment of Session - December 21, 2023
+31. Resumption of Session - December 26, 2023
+32. Adjournment of Session - December 28, 2023
+33. Resumption of Session - January 15, 2024
+34. Adjournment of Session - January 18, 2024
+35. Resumption of Session - January 22, 2024
+36. Adjournment of Session - January 25, 2024
+37. Resumption of Session - February 19, 2024
+38. Adjournment of Session - February 22, 2024
+39. Resumption of Session - February 26, 2024
+40. MANDATORY ADJOURNMENT - February 29, 2024
+
+ADOPTED, Shawwal 27, 1444/May 18, 2023.
+
+Certified Correct:
+
+PROF. RABY B. ANGKAL
+Secretary-General
+
+Attested:
+
+ATTY. PANGALIAN M. BALINDONG
+Speaker
+
+/PR243
