@@ -1,0 +1,305 @@
+Republic of the Philippines
+**Bangsamoro Autonomous Region in Muslim Mindanao**
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Bangsamoro Government Center, Cotabato City
+
+**SECOND PARLIAMENT**
+**FOURTH REGULAR SESSION**
+
+**PARLIAMENT BILL NO. 351**
+**(Government Bill)**
+
+Introduced by:
+
+**THE GOVERNMENT OF THE DAY**
+
+**AN ACT RECONSTITUTING THE PARLIAMENTARY DISTRICTS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, AMENDING FOR THE PURPOSE BANGSAMORO AUTONOMY ACT NO. 58, ENTITLED “AN ACT PROVIDING FOR THE CREATION OF THE PARLIAMENTARY DISTRICTS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO”**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** – This Act shall be known as the “Bangsamoro Parliamentary Redistricting Act of 2025.”
+
+**SECTION 2.** Section 4 of Bangsamoro Autonomous Act No. 58, otherwise known as “An Act Providing for the Creation of the Parliamentary Districts in the Bangsamoro Autonomous Region in Muslim Mindanao” is hereby amended to read as follows:
+
+“**SEC. 4. Redistricting for Parliamentary Seats.** - For purposes of the election of district representatives in the Bangsamoro Parliament, the provinces, cities, municipalities, and geographical areas in the BARMM, the thirty-two (32) single-member parliamentary districts are hereby reapportioned as follows:
+
+**Province of Basilan (4 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **426, 207**
+
+**Parliamentary District**      **City/Municipality**                                        **Population**
+
+**1st District**                         Lamitan City                                                   **100, 150**
+
+**2nd District**                                                                                      **Total: 121,732**
+                                              Tuburan                                                            24,742
+                                              Hadji Mohammad Ajul                                     24,625
+                                              Akbar                                                                23,098
+                                              Al-Barka                                                            23,736
+                                              Tipo-Tipo                                                           25,531
+
+**3rd District**                                                                                       **Total 100,688**
+                                              Ungkaya Pukan
+                                              Sumisip                                                             47,345
+                                              Tabuan Lasa                                                     29,327
+
+**4th District**                                                                                       **Total 103,637**
+                                              Maluso
+                                              Lantawan                                                          31,040
+                                              Hadji Muhtamad                                               26,867
+
+**Chunk Complete. Ready for next group of provisions starting at Province of Lanao Del Sur.**
+
+***
+
+**Province of Lanao Del Sur (9 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                         **1,195,518**
+
+**Parliamentary District**      **City/Municipality**                                        **Population**
+
+**1st District**                         Marawi City                                                     **207,010**
+
+**2nd District**                                                                                      **Total 127,790**
+                                              Saguiaran
+                                              Kapai                                                                20,581
+                                              Piagapo                                                             30,132
+                                              Tagoloan II                                                       12,602
+                                              Marantao                                                           37,763
+
+**3rd District**                                                                                       **Total 119,336**
+                                              Ditsaan Ramain
+                                              Bubong                                                             26,514
+                                              Buadipuso Buntong                                          18,046
+                                              Maguing                                                            30,436
+                                              Mulundo                                                           19,932
+
+**4th District**                                                                                       **Total 108,399**
+                                              Wao                                                                  50,366
+                                              Amai Manabilang                                              12,124
+                                              Lumba Bayabao                                                45,909
+
+**5th District**                                                                                       **Total 123,979**
+                                              Masiu
+                                              Poona Bayabao                                                 31,141
+                                              Tamparan                                                           32,074
+                                              Taraka                                                               27,184
+
+**6th District**                                                                                       **Total 115,388**
+                                              Butig
+                                              Lumbayanague                                                 19,091
+                                              Lumbatan                                                          22,780
+                                              Sultan Dumalondong                                        12,500
+                                              Lumbaca Unayan                                               8,131
+                                              Morogong                                                          30,118
+
+**7th District**                                                                                       **Total 115,388**
+                                              Calanogas                                                         14,985
+                                              Malabang                                                           49,088
+                                              Picong                                                               18,907
+                                              Balabagan                                                          29,863
+                                              Kapatagan                                                         20,498
+
+**8th District**                                                                                       **Total 143,534**
+                                              Madamba
+                                              Pualas
+                                              Madalum                                                           26,478
+                                              Bacolod Kalawi                                                 23,129
+                                              Tugaya                                                               24,778
+                                              Balindong                                                         32,573
+
+**9th District**                                                                                       **Total 116,743**
+                                              Tubaran                                                            16,896
+                                              Pagayawan                                                        15,057
+                                              Ganassi                                                             30,802
+                                              Binidayan                                                         25,965
+                                              Bayang                                                              28,023
+
+**Chunk Complete. Ready for next group of provisions starting at Province of Maguindanao Del Norte.**
+
+***
+
+**Province of Maguindanao Del Norte (5 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **618,421**
+
+**Parliamentary District**      **City/Municipality**                                        **Population**
+
+**1st District**                                                                                       **Total 111,861**
+                                              Matanog
+                                              Barira                                                                36,143
+                                              Buldon                                                              39,684
+
+**2nd District**                                                                                      **Total 128,245**
+                                              Parang                                                               102,914
+                                              Sultan Mastura                                                 25,331
+
+**3rd District**                         Sultan Kudarat                                                **105,121**
+
+**4th District**                                                                                       **Total 138,963**
+                                              Northern Kabuntalan                                        26,277
+                                              Kabuntalan                                                        25,439
+                                              Upi                                                                    59,004
+                                              Datu Blah T. Sinsuat                                         28,243
+
+**5th District**                                                                                       **Total 132,231**
+                                              Datu Odin Sinsuat                                            116,768
+                                              Talitay                                                               17,463
+
+**Province of Maguindanao Del Sur (5 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **723,758**
+
+**Parliamentary District**      **City/Municipality**                                        **Population**
+
+**1st District**                                                                                       **Total 157,170**
+                                              Datu Anggal Midtimbang                                 28,224
+                                              Talayan                                                             34,156
+                                              Guindulungan                                                   24,933
+                                              Datu Hoffer Ampatuan                                     26,660
+                                              South Upi                                                          43,197
+
+**2nd District**                                                                                      **Total 116,205**
+                                              Datu Piang                                                         28,380
+                                              Datu Salibo                                                        18,795
+                                              Datu Saudi Ampatuan                                      31,060
+                                              Datu Unsay                                                        12,890
+                                              Shariff Saydona Mustapha                                25,080
+
+**3rd District**                                                                                       **Total 120,847**
+                                              Ampatuan                                                         28,941
+                                              Datu Abdullah Sangki                                      30,117
+                                              Mamasapano                                                     27,807
+                                              Shariff Aguak                                                    33,982
+
+**4th District**                                                                                       **Total 167,162**
+                                              Datu Montawal                                                 37,314
+                                              G.S.K. Pendatun                                               31,263
+                                              Pagalungan                                                        46,277
+                                              Rajah Buayan                                                    27,832
+                                              Sultan Sa Barongis                                           24,476
+
+**5th District**                                                                                       **Total 162,374**
+                                              Buluan                                                               57,406
+                                              Datu Paglas                                                        33,682
+                                              Mangudadatu                                                    26,203
+                                              Paglat                                                                18,727
+                                              Pandag                                                               26,356
+
+**Chunk Complete. Ready for next group of provisions starting at Province of Tawi-Tawi.**
+
+***
+
+**Province of Tawi-Tawi (4 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **440, 276**
+
+**Parliamentary District**      **Municipality**                                               **Population**
+
+**1st District**                         Bongao                                                             **116,118**
+
+**2nd District**                                                                                      **Total 114,734**
+                                              Languyan                                                          37,096
+                                              South Ubian                                                      29,583
+                                              Panglima Sugala                                               48,055
+
+**3rd District**                                                                                       **Total 102,141**
+                                              Tandubas                                                          34,316
+                                              Sapa-Sapa                                                         33,580
+                                              Simunul                                                            34,245
+
+**4th District**                                                                                       **Total 107,283**
+                                              Mapun                                                               30,038
+                                              Sitangkai                                                           37,319
+                                              Sibutu                                                                34,243
+                                              Turtle Islands                                                    5,683
+
+**Special Geographical Area (2 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **215,433**
+
+**Parliamentary District**      **Barangay**                                                     **Population**
+
+**1st District**                                                                                       **Total 111,343**
+                                              Malidegao                                                         36,438
+                                              Ligawasan                                                         29,784
+                                              Old Kaabakan                                                   16,658
+                                              Kapalawan                                                        28,463
+
+**2nd District**                                                                                      **Total 104,090**
+                                              Kadayangan                                                      25,573
+                                              Nabalawag                                                        28,239
+                                              Pahamuddin                                                      19,627
+                                              Tugunan                                                            30,651
+
+**City of Cotabato (3 Parliamentary Districts)**
+
+**TOTAL POPULATION**                                                                          **325,079**
+
+**Parliamentary District**      **Barangay**                                                     **Population**
+
+**1st District**                                                                                       **Total 100,777**
+                                              Mother Tamontaka                                           14,099
+                                              Tamontaka I                                                      4,848
+                                              Tamontaka II                                                     5,980
+                                              Tamontaka III                                                    3,191
+                                              Tamontaka IV                                                   4,210
+                                              Tamontaka V                                                    1,595
+                                              Poblacion IX                                                     7,062
+                                              Kalagangan I                                                    6,546
+                                              Kalagangan II                                                   6,578
+                                              Rosary Heights X                                             16,597
+                                              Rosary Heights XI                                            8,613
+                                              Rosary Heights XII                                           5,092
+                                              Kalanganan                                                       16,366
+
+**2nd District**                                                                                      **Total 116,816**
+                                              Mother Bagua                                                   19,987
+                                              Bagua I                                                              10,050
+                                              Bagua II                                                             19,998
+                                              Mother Poblacion                                             21,579
+                                              Poblacion I                                                        6,074
+                                              Poblacion V                                                       3,375
+                                              Poblacion VII                                                    16,293
+                                              Mother Rosary Heights                                     15,107
+                                              Rosary Heights I                                               4,353
+
+**3rd District**                                                                                       **Total 101,872**
+                                              Bagua III                                                            7,006
+                                              Poblacion II                                                       6,788
+                                              Poblacion III                                                      3,445
+                                              Poblacion IV                                                      6,947
+                                              Poblacion VI                                                      5,288
+                                              Poblacion VIII                                                   9,077
+                                              Rosary Heights II                                              4,400
+                                              Rosary Heights III                                             12,127
+                                              Rosary Heights IV                                             4,627
+                                              Rosary Heights IX                                             8,462
+                                              Rosary Heights V                                              6,073
+                                              Rosary Heights VI                                             7,539
+                                              Rosary Heights VII                                            10,146
+                                              Rosary Heights VIII                                           9,947
+                                              Rosary Heights XIII                                          5,614
+
+**Chunk Complete. Ready for next group of provisions starting at SECTION 3.**
+
+***
+
+**SECTION 3. Filing of Candidacy for Parliamentary Districts.** The Commission on Elections shall issue appropriate guidelines on the filing of candidacies for parliamentary district representatives.
+
+**SECTION 4. Separability Clause.** – If any provision of this Act is declared unconstitutional or inconsistent with Republic Act No. 11054, otherwise known as the “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao”, the provisions not affected thereby shall remain valid and effective.
+
+**SECTION 5. Repealing Clause.** – All other regional laws, executive orders, memoranda, and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+**SECTION 6. Effectivity.** – This Act shall take effect fifteen (15) days after the completion of its publication in the Bangsamoro Gazette or in at least one (1) newspaper of general circulation in the BARMM.
+
+**APPROVED**
+
+(Signed)
+**ABDULRAOF A. MACACUA**
+Chief Minister
+
+Date: _______________
+
+**xxx**
+
