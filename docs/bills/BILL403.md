@@ -1,0 +1,302 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+**THIRD PARLIAMENT**
+**FOURTH REGULAR SESSION**
+
+**PARLIAMENT BILL NO. 403**
+
+Introduced by:
+**MP Atty Suharto Ambolodto MNSA, DS Engr Baintan Ampatuan MNSA, DS Atty Odin Sumagayan, DS Atty Ishak Mastura, DFL Ameer Zaakaria Rakim, MP Engr Rashdi Adiong, MP Atty Alirakim Munder**
+
+**AN ACT**
+**PROVIDING FOR THE CREATION OF THE PARLIAMENTARY DISTRICTS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament Assembled:
+
+**SECTION 1. Short Title.** – This Act shall be known as the “Bangsamoro Parliamentary Redistricting Act of 2025.”
+
+**SECTION 2. Declaration of Policy.** - It is the declared policy of the Bangsamoro Government that the Bangsamoro Parliament shall ensure the equitable representation of the inhabitants of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) in the apportionment of parliamentary districts.
+
+**SECTION 3. Criteria in the Apportionment of Parliamentary Districts.** - Parliamentary districts shall be apportioned among the provinces, cities, municipalities, and geographical areas of the BARMM based on population and geographical area. Each parliamentary district shall comprise, as far as practicable, of a population of at least one hundred thousand (100,000) in a contiguous, compact, and adjacent territory.
+
+**SECTION 4. Creation of Parliamentary Districts.** - For purposes of the election of district representatives in the Bangsamoro Parliament, the provinces, cities, municipalities, and geographical areas in the BARMM are hereby apportioned to create thirty-two (32) single-member parliamentary districts as follows:
+
+**BARMM POPULATION:** **4,545,489**
+
+A. Province of Basilan (4 Parliamentary Districts)
+
+**TOTAL POPULATION** **541,947**
+
+Parliamentary District City/Municipality Population
+
+**(1) 1st District** **Total: 116,652**
+(a) Lamitan City 116,652
+
+**(2) 2nd District** **Total: 153,796**
+(a) Tuburan 30,027
+(b) Hadji Mohammad Ajul 32,806
+(c) Akbar 27,911
+(d) Al-Barka 30,318
+(e) Tipo-Tipo 32,734
+
+**(3) 3rd District** **Total: 125,783**
+(a) Ungkaya Pukan 31,041
+(b) Sumisip 55,778
+(c) Tabuan Lasa 38,964
+
+**(4) 4th District** **Total: 145,716**
+(a) Maluso 66,817
+(b) Lantawan 48,777
+(c) Hadji Muhtamad 30,122
+
+B. Province of Lanao Del Sur (9 Parliamentary Districts)
+
+**TOTAL POPULATION** **1,368,137**
+
+Parliamentary District City/Municipality Population
+
+**(1) 1st District** **Total: 259,993**
+(a) Marawi City 259,993
+
+**(2) 2nd District** **Total: 137,228**
+(a) Kapai 21,630
+(b) Saguiaran 28,807
+(c) Piagapo 40,558
+(d) Marantao 46,233
+
+**(3) 3rd District** **Total: 129,069**
+(a) Tagoloan II 12,843
+(b) Bubong 28,733
+(c) Ditsaan Ramain 26,918
+(d) Buadipuso Buntong 23,283
+(e) Maguing 37,292
+
+**(4) 4th District** **Total: 160,017**
+(a) Molundo 23,159
+(b) Taraka 29,558
+(c) Tamparan 37,190
+(d) Poona Bayabao 33,307
+(e) Masiu 36,803
+
+**(5) 5th District** **Total: 116,877**
+(a) Lumba Bayabao 50,959
+(b) Amai Manabilang 14,837
+(c) Wao 51,081
+
+**(6) 6th District** **Total: 144,765**
+(a) Butig 25,394
+(b) Lumbayanague 21,469
+(c) Lumbatan 24,988
+(d) Lumbaca Unayan 8,768
+(e) Sultan Dumalondong 12,984
+(f) Marogong 33,595
+(g) Tubaran 17,567
+
+**(7) 7th District** **Total: 124,834**
+(a) Bayang 30,227
+(b) Binidayan 27,031
+(c) Pagayawan 15,659
+(d) Ganassi 33,897
+(e) Pualas 18,020
+
+**(8) 8th District** **Total: 145,641**
+(a) Madamba 24,886
+(b) Madalum 30,044
+(c) Bacolod Kalawi 24,381
+(d) Tugaya 26,283
+(e) Balindong 40,047
+
+**(9) 9th District** **Total: 149,713**
+(a) Calanogas 17,585
+(b) Picong 19,296
+(c) Malabang 58,377
+(d) Balabagan 31,227
+(e) Kapatagan 23,228
+
+C. Province of Maguindanao Del Norte (5 Parliamentary Districts)
+
+**TOTAL POPULATION** **741,428**
+
+Parliamentary District City/Municipality Population
+
+**(1) 1st District** **Total: 130,123**
+(a) Matanog 41,146
+(b) Barira 43,301
+(c) Buldon 45,676
+
+**(2) 2nd District** **Total: 123,209**
+(a) Parang 123,209
+
+**(3) 3rd District** **Total: 155,793**
+(a) Sultan Mastura 30,828
+(b) Sultan Kudarat 124,965
+
+**(4) 4th District** **Total: 81,945**
+(a) Talitay 19,750
+(b) Kabuntalan 31,863
+(c) Northern Kabuntalan 30,332
+
+**(5) 5th District** **Total: 250,358**
+(a) Datu Odin Sinsuat 152,907
+(b) Upi 65,363
+(c) Datu Blah T. Sinsuat 32,088
+
+D. Province of Maguindanao Del Sur (5 Parliamentary Districts)
+
+**TOTAL POPULATION** **813,243**
+
+Parliamentary District City/Municipality Population
+
+**(1) 1st District** **Total: 180,592**
+(a) Datu Anggal Midtimbang 35,243
+(b) Talayan 39,182
+(c) Guindulungan 28,471
+(d) Datu Hoffer Ampatuan 27,678
+(e) South Upi 50,018
+
+**(2) 2nd District** **Total: 132,625**
+(a) Datu Piang 31,063
+(b) Datu Salibo 21,295
+(c) Datu Saudi Ampatuan 33,374
+(d) Datu Unsay 17,186
+(e) Shariff Saydona Mustapha 29,707
+
+**(3) 3rd District** **Total: 137,102**
+(a) Ampatuan 31,560
+(b) Datu Abdullah Sangki 35,274
+(c) Mamasapano 32,831
+(d) Shariff Aguak 37,437
+
+**(4) 4th District** **Total: 157,132**
+(a) Buluan 60,931
+(b) Datu Paglas 38,446
+(c) Mangudadatu 28,511
+(d) Pandag 29,244
+
+**(5) 5th District** **Total: 205,792**
+(a) Datu Montawal 42,181
+(b) G.S.K Pendatun 33,710
+(c) Pagalungan 49,326
+(d) Rajah Buayan 31,329
+(e) Sultan Sa Barongis 27,929
+(f) Paglat 21,317
+
+E. Province of Tawi-Tawi (4 Parliamentary Districts)
+
+**TOTAL POPULATION** **482,645**
+
+Parliamentary District Municipality Population
+
+**(1) 1st District** **Total: 131,887**
+(a) Bongao 131,887
+
+**(2) 2nd District** **Total: 126,186**
+(a) Languyan 41,587
+(b) South Ubian 31,942
+(c) Panglima Sugala 52,657
+
+**(3) 3rd District** **Total: 107,447**
+(a) Tandubas 34,702
+(b) Sapa-Sapa 37,129
+(c) Simunul 35,616
+
+**(4) 4th District** **Total: 117,125**
+(a) Mapun 29,218
+(b) Sitangkai 42,172
+(c) Sibutu 38,070
+(d) Turtle Islands 7,665
+
+F. Special Geographic Area (2 Parliamentary Districts)
+
+**TOTAL POPULATION** **214,703**
+
+Parliamentary District Barangay Population
+
+**(1) 1st District** **Total: 104,582**
+(a) Kadayangan 26,099
+(b) Nabalawag 25,500
+(c) Pahamuddin 19,262
+(d) Tugunan 33,721
+
+**(2) 2nd District** **Total: 110,121**
+(a) Malidegao 36,427
+(b) Ligawasan 28,322
+(c) Old Kaabakan 16,181
+(d) Kapalawan 29,191
+
+G. City of Cotabato (3 Parliamentary Districts)
+
+**TOTAL POPULATION** **383,383**
+
+Parliamentary District Barangay Population
+
+**(1) 1st District** **Total: 138, 628**
+(a) Rosary Heights Mother 16,769
+(b) Rosary Heights I 6,832
+(c) Rosary Heights II 5,321
+(d) Rosary Heights III 13,411
+(e) Rosary Heights IV 5,428
+(f) Rosary Heights V 6,383
+(g) Rosary Heights VI 10,765
+(h) Rosary Heights VII 11,742
+(i) Rosary Heights VIII 9,830
+(j) Rosary Heights IX 9,477
+(k) Rosary Heights X 18,807
+(l) Rosary Heights XI 10,454
+(m) Rosary Heights XII 6,420
+(n) Rosary Heights XIII 6,898
+
+**(2) 2nd District** **Total: 103, 263**
+(a) Bagua Mother 23,439
+(b) Bagua I 15,582
+(c) Bagua II 22,966
+(d) Bagua III 6,770
+(e) Kalanganan Mother 18,960
+(f) Kalanganan I 7,616
+(g) Kalanganan II 7,930
+
+**(3) 3rd District** **Total: 141, 492**
+(a) Tamontaka Mother 19,025
+(b) Tamontaka I 8,043
+(c) Tamontaka II 7,482
+(d) Tamontaka III 4,442
+(e) Tamontaka IV 4,847
+(f) Tamontaka V 1,781
+(g) Poblacion Mother 25,293
+(h) Poblacion I 6,666
+(i) Poblacion II 8,126
+(j) Poblacion III 3,877
+(k) Poblacion IV 7,052
+(l) Poblacion V 3,235
+(m) Poblacion VI 5,806
+(n) Poblacion VII 16,773
+(o) Poblacion VIII 10,703
+(p) Poblacion IX 8,432
+
+**SECTION 5. Separability Clause.** – If any provision of this Act declared unconstitutional or inconsistent with Republic Act No. 11054, otherwise known as the “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao”, the provisions not affected thereby shall remain valid and effective.
+
+**SECTION 6. Repealing Clause.** – All other regional laws, executive orders, memoranda, and other issuances or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+**SECTION 7. Effectivity.** – This Act shall effect immediately upon its publication in the Bangsamoro Gazette or in its official website.
+
+AUTHOR:
+
+(Sgd.)
+**MP Atty Suharto Ambolodto MNSA**
+
+(Sgd.)
+**DS Engr Baintan Ampatuan MNSA**
+
+**DS Atty Odin Sumagayan**
+
+**DS Atty Ishak Mastura**
+
+**DFL Ameer Zaakaria Rakim**
+
+**MP Engr Rashdi Adiong**
+
+**MP Atty Alirakim Munder**
+
