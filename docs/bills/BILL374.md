@@ -1,0 +1,352 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+Third Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **374**
+
+Introduced by:
+**MP Dr. Hashemi N. Dilangalen, CHA,**
+
+Co-authored by:
+**MPs Atty. Nabil Tan, Zulfikar-Ali S. Bayam, Atty. John Anthony L. Lim, Michael Midtimbang, Mudjib C. Abu, Suwaib Oranon, Tawakal Midtimbang**
+
+**AN ACT ESTABLISHING A COMMUNITY-BASED PHYSICAL AND REHABILITATION MEDICINE (CBPRM) PROGRAM IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR DECENTRALIZED, ACCESSIBLE, AND INCLUSIVE REHABILITATIVE HEALTH SERVICES, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Access to rehabilitation is not a privilege but a fundamental component of the right to health. The World Health Organization (WHO) underscores that at least **1 in 3 people worldwide** requires rehabilitation at some point in their lives, yet **more than half** do not receive the services they need, particularly in low- and middle-income countries.¹
+
+In the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), the need for rehabilitation is not only widespread—it is also urgent. BARMM continues to experience a disproportionately high burden of untreated injuries, post-stroke disability, congenital and developmental impairments, and war-related trauma. Despite this, rehabilitation remains one of the least accessible health services in the region.
+
+According to the Department of Health and World Bank, BARMM consistently ranks lowest in health outcome indicators. Life expectancy in BARMM is estimated at **63.2 years**—the lowest among all Philippine regions, compared to the **national average of 71.3 years.**² Rehabilitation services, where available, are mostly centralized in a few urban tertiary facilities and largely inaccessible to rural populations, particularly in conflict-affected or geographically isolated areas.
+
+Furthermore, the shortage of trained rehabilitation professionals is staggering. As of 2023, the Philippines continues to face a national shortage of rehabilitation professionals, including Physiatrists, Physical Therapists, and Occupational Therapists. These gaps are even more pronounced in underserved and conflict-affected regions, where many municipalities have limited or no access to physical medicine and rehabilitation services. This severe human resource gap results in long delays in care, poor recovery outcomes for stroke survivors, and unmet rehabilitation needs among children with disabilities and elderly persons. The situation is compounded by poor infrastructure, intermittent transport links, and LGU-level capacity limitations in service delivery.
+
+According to the 2020 Census, senior citizens comprise **only 3.8%** of BARMM’s total population—approximately **166,700 individuals.**³ While this is lower than the national average of 8.5%, it reflects underlying trends of high fertility and lower life expectancy rather than lower need. As health outcomes improve and the elderly population grows, there is a critical need to invest in age-appropriate rehabilitative care, fall prevention, and functional independence for older adults.
+
+The current system in BARMM lacks an institutionalized, region-wide program for community-based rehabilitation. While some LGUs and NGOs have piloted mobile or home-based models, these efforts are often fragmented, unsustained, or unsupported by policy and budget. Without a dedicated framework, rehabilitation remains sidelined in the regional health strategy.
+
+This bill seeks to establish the **Bangsamoro Community-Based Physical and Rehabilitation Medicine (CBPRM) Program**—a culturally respectful, decentralized, and inclusive model of delivering rehabilitation services across the region. The CBPRM model includes fixed-site services, mobile outreach teams, and home-based rehabilitation for the bedridden and functionally impaired. It also empowers community health workers and caregivers as support actors in delivering and sustaining care.
+
+The CBPRM Program shall be operationalized through a multi-level structure: from the Ministry of Health (MOH) to Integrated Provincial Health Offices (IPHOs), down to municipal-level focal persons in partnership with Municipal Health Offices (MHOs). While respecting LGU autonomy, the bill includes fallback provisions to ensure that rehabilitation services can reach even the most underserved areas when local capacity is absent.
+
+This measure is aligned with national and global mandates. It supports the implementation of **Republic Act No. 11223** or the Universal Health Care Act, which affirms the right to rehabilitation as part of the health continuum. It advances the guarantees of **Republic Act No. 7277** or the Magna Carta for Persons with Disabilities, which mandates equal access to rehabilitative care. It fulfills the spirit of **Republic Act No. 11054**, the Bangsamoro Organic Law, by establishing a regional program responsive to local health realities and cultural contexts. It also adheres to WHO’s Rehabilitation 2030 strategy calling for rehabilitation integration at all levels of health systems.⁴
+
+More than a health measure, this bill is a commitment to equity and social justice. It ensures that **stroke survivors, persons with disabilities, conflict survivors, and elderly Bangsamoro residents** receive not just clinical care—but the chance to regain function, live with dignity, and participate in community life.
+
+By institutionalizing CBPRM in BARMM, the Bangsamoro Government asserts that healing, recovery, and inclusion must extend to every barangay, not just hospital corridors.
+
+In light of the foregoing, the immediate passage of this bill is earnestly sought.
+
+(Signed)
+**DR. HASHEMI N. DILANGALEN, CHA**
+Author
+
+***
+
+¹ World Health Organization. (2019). Rehabilitation 2030: A Call for Action.
+² World Bank. (2023). Philippine Human Capital Review.
+³ PSA. (2020). Census of Population and Housing.
+⁴ WHO. (2023). Rehabilitation in Health Systems: Guide for Action.
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**Section 1. Short Title.** – This Act shall be known as the "Bangsamoro Community-Based Physical and Rehabilitation Medicine (CBPRM) Act of 2025."
+
+**Section 2. Declaration of Policy.** – It is the policy of the Bangsamoro Government to protect and promote the right to physical, functional, and social rehabilitation of persons with disabilities, stroke survivors, elderly persons, and other individuals requiring rehabilitative care. In accordance with moral governance, Islamic values, and the principles of inclusive development, the Bangsamoro Government shall institutionalize an accessible, community-based, and culturally respectful rehabilitation program. This policy is also aligned with Republic Act No. 11223 (Universal Health Care Act), and RA 7277 (Magna Carta for PWDs).
+
+**Section 3. Objectives.** – This Act aims to:
+(a) Establish a region-wide Community-Based Physical and Rehabilitation Medicine Program in BARMM;
+(b) Integrate physical rehabilitation services into local health systems and rural outreach mechanisms;
+(c) Ensure equitable access to PRM services for persons with disabilities, stroke survivors, elderly individuals, and other target populations;
+(d) Build the capacity of health professionals and community workers in physical and rehabilitation medicine;
+(e) Promote functional independence, social inclusion, and improved quality of life among individuals with physical impairments;
+(f) Ensure that all rehabilitation services are delivered in a manner that is culturally appropriate, respectful of indigenous and Islamic values, and responsive to the needs of diverse communities.
+
+**Section 4. Definition of Terms.** – For the purposes of this Act, the following terms are defined as follows:
+(a) **Assistive Devices** refer to equipment or tools designed to enhance mobility, communication, or daily living functionality of individuals with impairments, such as wheelchairs, walkers, crutches, braces, prosthetics, and adaptive tools.
+(b) **Caregiver** refers to any family member, household companion, trained volunteer, or hired individual who provides physical assistance, emotional support, and/or basic medical supervision to a person undergoing rehabilitation or living with disability.
+(c) **CBPRM Focal Units** refer to the designated units or personnel within Integrated Provincial Health Offices (IPHOs) and Municipal Health Offices (MHOs) tasked with overseeing the local implementation of the CBPRM Program. These focal units shall coordinate with LGUs, supervise CBPRM Teams, and ensure timely data submission and service delivery at the community level.
+(d) **CBPRM Program** refers to the Community-Based Physical and Rehabilitation Medicine Program established under this Act, which delivers decentralized, accessible, and culturally respectful rehabilitative services across the Bangsamoro Region, through facility-based, mobile, and home-based mechanisms.
+(e) **CBPRM Teams** refer to the multi-disciplinary rehabilitation teams deployed under the CBPRM Program to deliver rehabilitative services at the community level. These teams are composed of, but not limited to, physiatrists, physical and occupational therapists, speech-language pathologists, community therapy aides, and support staff. They may operate through health facilities, mobile outreach, or home-based visits.
+(f) **CBPRM Unit** refers to the program management and coordinating office established at the regional level within the Ministry of Health. It shall be responsible for the overall planning, policy development, inter-agency coordination, budgeting, procurement, monitoring, evaluation, and reporting related to the CBPRM Program.
+(g) **Community-Based Rehabilitation (CBR)** refers to a multi-sectoral strategy that promotes rehabilitation, equalization of opportunities, and social inclusion of all persons with disabilities within their local communities using available local resources and community participation.
+(h) **Culturally Respectful Services** are services that are sensitive to, and aligned with, the client’s religious, cultural, tribal, and community practices, including the observance of Islamic and indigenous norms in caregiving, gender interaction, and communication.
+(i) **Functional Capacity** refers to an individual’s ability to perform activities of daily living, engage in meaningful social roles, and participate in economic or cultural life, with or without the use of assistive devices.
+(j) **Geographically Isolated and Disadvantaged Areas (GIDAs)** refer to communities with physical remoteness, high poverty incidence, or security challenges that limit access to health and rehabilitation services, as identified by the MOH or other regional authorities.
+(k) **Home-Based Rehabilitation** refers to PRM services provided at the patient’s home or residence, particularly for individuals with mobility limitations, chronic illness, or post-acute care needs.
+(l) **Inclusive Health Services** refer to services designed and delivered in a manner that ensures access, equity, and participation for all persons, particularly those who are vulnerable or marginalized due to disability, gender, age, religion, or geographic location.
+(m) **Mobile Rehabilitation Team** refers to an interdisciplinary group of health professionals and support staff deployed to deliver PRM services in remote, underserved, or conflict-affected areas through outreach visits and temporary service points.
+(n) **Persons with Disabilities (PWDs)** are individuals with long-term physical, mental, intellectual, or sensory impairments which, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others.
+(o) **Physical and Rehabilitation Medicine (PRM)** refers to a branch of medicine focused on improving and restoring functional ability and quality of life to individuals with physical impairments, disabilities, or injuries through diagnosis, treatment, and comprehensive rehabilitation services.
+(p) **Rehabilitation Plan of Care** refers to an individualized and medically guided document outlining the goals, interventions, frequency, duration, and expected outcomes of physical rehabilitation services tailored to a specific patient’s condition.
+(q) **Tele-rehabilitation** refers to the use of telecommunication technologies and digital platforms to provide PRM services remotely, including virtual consultations, therapy sessions, patient monitoring, and caregiver training.
+
+**Section 5. Coverage.** – The CBPRM Program shall be implemented region-wide and shall cover all provinces, chartered cities, municipalities, and barangays within the territorial jurisdiction of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), in accordance with the principles of accessibility, equity, and moral governance.
+
+All persons requiring physical and rehabilitation services, regardless of income, religion, ethnicity, or geographic location, shall be eligible to avail of services under the Program, subject to a medically determined need or referral from an accredited health professional or local government unit.
+
+In the implementation of the Program, the MOH, in coordination with Local Government Units (LGUs) and relevant stakeholders, shall prioritize service delivery to the following groups and areas:
+
+(a) **Geographically Isolated and Disadvantaged Areas (GIDAs)** – Remote, upland, or island communities identified by the MOH or relevant agencies as lacking access to basic rehabilitation and health infrastructure;
+(b) **Conflict-Affected Communities** – Areas recently or historically affected by armed conflict, displacement, or clan-related violence (*rido*), whose residents are at increased risk of injury, trauma, and interrupted care;
+(c) **Moro and Non-Moro Indigenous Peoples** – Indigenous cultural communities, including but not limited to Moro tribes, Teduray, Lambangian, Dulangan Manobo, and other non-Moro Indigenous Peoples (NMIPs), especially those living in ancestral domains or underserved territories;
+(d) **Urban Poor Settlements** – Densely populated, low-income areas, including informal settlements, where physical rehabilitation services are limited or inaccessible;
+(e) **Internally Displaced Persons (IDPs)** – Individuals or families who have been displaced due to armed conflict, disasters, or forced eviction, and who may suffer from injury, trauma, or long-term physical impairment;
+(f) **Medically Vulnerable Individuals**, including but not limited to:
+* **Stroke survivors** needing structured rehabilitation and follow-up;
+* **Trauma victims** such as those injured in accidents, blasts, or violence;
+* **Persons with physical, sensory, or developmental disabilities**;
+* **Elderly individuals** with mobility decline or chronic conditions;
+* **Children with neurodevelopmental delays, congenital conditions**, or musculoskeletal disorders.
+
+The MOH, in coordination with the MSSD, Local Government Units (LGUs), barangay health workers (BHWs), and other relevant partners, shall establish **community-based outreach, eligibility verification, and referral systems** to identify, assess, and serve individuals in need of rehabilitation services under the Program.
+
+These systems shall include, but not be limited to:
+* Conduct of barangay-level screening activities and medical missions;
+* Use of mobile rehabilitation teams for home visits and field assessment;
+* Deployment of trained BHWs and community volunteers to identify and refer clients;
+* Integration with existing health and social registries, including the Persons with Disability (PWD) Registry, Social Pension lists, and LGU population data;
+* Development of simplified intake forms, case profiling tools, and referral slips for use in rural areas;
+* Provision of support for clients lacking formal identification or documentation, through barangay certification, house-to-house validation, or alternative case verification.
+
+**Provided**, That no person who otherwise meets the medical criteria for rehabilitation shall be denied access to CBPRM services solely on the basis of poverty, lack of documentary proof of identity or residence, ethnicity, gender, religious belief, tribal affiliation, or geographic location.
+
+The MOH shall adopt flexible, culturally sensitive protocols for enrollment, including the recognition of oral verification from barangay or tribal leaders, in line with the inclusive and participatory principles of the Bangsamoro Government.
+
+The MOH may expand service coverage based on emerging regional health priorities, epidemiological trends, and community consultations.
+
+**Section 6. CBPRM Approach. -** The CBPRM Program shall utilize a Community-Based Rehabilitation (CBR) framework, rooted in accessibility, cultural integrity, and multisectoral collaboration. The approach shall emphasize care delivered at the barangay and household level, involving families, communities, and the broader health and social service network.
+
+The approach shall be characterized by:
+
+(a) **Decentralized Delivery:** Bringing rehabilitation services closer to where people live, through barangay health posts, mobile outreach, or home visits.
+(b) **Family and Community Engagement:** Empowering caregivers and family members through capacity-building, health education, and shared goal setting.
+(c) **Cultural Respect and Sensitivity:** Adhering to Islamic and indigenous norms in rehabilitation, including gender-sensitive practices, consent, and communication styles.
+(d) **Inclusive and Equitable Access:** Ensuring that services reach the most marginalized — PWDs, the elderly, women, children, and those in GIDAs.
+(e) **Outcome-Oriented Rehabilitation:** Focusing on restoring functional capacity, independence, and reintegration into family and community life.
+(f) **Intersectoral Collaboration:** Partnering with schools, civil society, traditional leaders, and faith-based organizations in planning, implementation, and advocacy.
+
+This approach ensures that PRM services are not limited to facility-based care but are deeply embedded in the social and cultural realities of the Bangsamoro.
+
+**Section 7. CBPRM Services. -** The CBPRM Program shall provide a comprehensive, inclusive, and culturally respectful package of services aimed at restoring, maintaining, and improving the functional capacity of individuals affected by physical, sensory, or developmental impairments.
+
+The Program shall include, but shall not be limited to, the following services:
+
+(a) **Initial and Periodic Assessment -** Comprehensive functional evaluation of patients conducted by a licensed physiatrist or other accredited medical professionals trained in rehabilitation medicine to determine impairments, functional limitations, and rehabilitation goals;
+(b) **Development of Individualized Rehabilitation Plan of Care -** Creation of tailored intervention plans in coordination with patients, caregivers, and health providers, specifying recommended therapies, duration, goals, home-based instructions, and monitoring protocols;
+(c) **Provision of Rehabilitation Therapy Services -** Delivery of physical therapy, occupational therapy, and speech and language therapy by licensed practitioners, either in community facilities or through home-based sessions, to improve mobility, communication, coordination, and self-care abilities;
+(d) **Home-Based Rehabilitation Services -** In-home therapy and follow-up care for patients who are bedridden, non-ambulatory, living alone, or unable to travel due to distance, disability, or poverty, conducted by CBPRM mobile teams or barangay-based health staff under supervision;
+(e) **Tele-rehabilitation and Virtual Consultations -** Use of digital platforms, mobile applications, or other communication technologies to conduct assessments, therapy guidance, caregiver training, and patient monitoring, especially for clients in geographically isolated and disadvantaged areas (GIDAs);
+(f) **Capacity-Building for Barangay Health Workers and Caregivers -** Conduct of structured training, skills-building sessions, and continuous education for barangay health workers, family caregivers, and community volunteers to support rehabilitation efforts and improve home-based care practices;
+(g) **Community Awareness and Prevention Campaigns -** Implementation of advocacy activities, information drives, and behavior-change communication campaigns to promote early detection of disability, prevent complications, and encourage community support for persons undergoing rehabilitation;
+(h) **Referrals to Higher-Level Facilities -** Timely and organized referral of patients to tertiary hospitals, specialty centers, or regional rehabilitation institutions for further evaluation, assistive device fitting, diagnostics, or advanced care beyond the scope of local CBPRM teams;
+(i) **Provision of Assistive Devices and Functional Aids -** Distribution and proper fitting of mobility devices (e.g., canes, walkers, crutches, wheelchairs), prosthetic or orthotic devices, communication aids, and other tools necessary for daily function and independent living, subject to medical evaluation and availability;
+(j) **Monitoring and Evaluation -** Regular follow-up and outcome tracking using standardized tools and reporting systems to assess client progress, ensure adherence to care plans, and adjust therapy as needed.
+
+All services shall be provided in accordance with applicable clinical standards, human rights principles, gender sensitivity, and the religious and cultural contexts of the client. All services under this Section shall be provided **free of charge** at the point of delivery in public health facilities or during authorized outreach activities, subject to the availability of funds and program guidelines.
+
+**Section 8. CBPRM Organizational Structure.-** To ensure an effective, decentralized, and well-coordinated implementation of the CBPRM Program, the following organizational structure shall be adopted:
+
+(a) **Ministry of Health (MOH) Central Office -** The MOH shall have overall responsibility for the strategic direction, policy formulation, planning, and oversight of the CBPRM Program. It shall allocate resources, set standards, and issue implementing rules and guidelines.
+(b) **CBPRM Unit -** This is the central coordinating office for the CBPRM Program to be established within the MOH. It shall be composed of a Program Manager, technical staff, and administrative personnel, and shall be responsible for the overall management and strategic implementation of the Program. The specific functions and responsibilities of the CBPRM Unit are set forth under Section 9 of this Act.
+(c) **CBPRM Provincial and Municipal Focal Units -** These refer to the designated units established at the provincial and municipal levels of the MOH, preferably within the Integrated Provincial Health Offices (IPHOs) and Municipal Health Offices (MHOs), in accordance with Section 10 of this Act. These units shall support the local implementation of the CBPRM Program and carry out such functions as may be provided therein.
+(d) **CBPRM Teams -** These refer to multidisciplinary rehabilitation teams deployed at the community level to deliver services under the Program, in accordance with Section 11 of this Act. They may operate through health facilities, mobile outreach, or home-based visits, and shall perform functions as outlined therein.
+
+The MOH shall issue detailed guidelines on staffing, coordination mechanisms, reporting lines, and performance management for all levels of the CBPRM structure.
+
+**Section 9. Establishment of CBPRM Units.-** To institutionalize the effective management and coordination of rehabilitation services in the Bangsamoro Autonomous Region, the MOH shall establish a dedicated CBPRM Unit within its organizational structure.
+
+This Unit shall serve as the primary program management and technical coordinating office for the implementation of the CBPRM Program across all provinces, chartered cities, and municipalities in BARMM.
+
+The CBPRM Unit shall be mandated to perform the following core functions:
+
+(a) **Program Oversight and Supervision -** Provide overall direction and operational guidance for the planning, implementation, and evaluation of CBPRM activities in coordination with provincial and municipal health offices;
+(b) **Standards and Protocol Development -** Formulate clinical and operational guidelines, referral protocols, assessment tools, and service delivery standards for all CBPRM facilities and teams, consistent with national and international rehabilitation practices;
+(c) **Human Resource Planning and Support -** Coordinate with the Human Resource Division of MOH for the staffing, deployment, training, and career development of CBPRM personnel, including coordination with the Civil Service Commission (CSC), the Professional Regulation Commission (PRC), and partner institutions;
+(d) **Data Management and Reporting -** Maintain a centralized CBPRM information system integrated with the regional health database, and ensure the timely collection, analysis, and submission of service data, outcome indicators, and monitoring reports to the Office of the Minister and the Bangsamoro Parliament;
+(e) **Stakeholder Coordination -** Serve as the liaison unit between the MOH and other ministries, LGUs, academic institutions, development partners, civil society organizations, and national specialty centers engaged in the promotion of rehabilitative health services;
+(f) **Resource Mobilization and Budget Planning -** Prepare and consolidate annual investment plans, program-based budgets, and proposals for internal and external funding support, including partnerships with donor agencies, NGOs, and zakat- or waqf-supported initiatives;
+(g) **Policy Research and Development -** Conduct and support evidence-based research, regional studies, and pilot models for rehabilitation services adapted to the cultural and geographic contexts of BARMM, and recommend appropriate policy enhancements.
+
+**Section 10. CBPRM Focal Units at the Provincial and Municipal Levels. -** To support the implementation of the CBPRM Program, the MOH shall establish Provincial CBPRM Focal Units housed within the IPHOs. These units shall coordinate provincial-level implementation and serve as the primary link between the MOH and municipal operations.
+
+At the municipal level, CBPRM Focal Units may be designated in coordination with Local Government Units and, whenever feasible, assigned within existing Municipal Health Offices. Such designation shall be subject to the LGU’s concurrence and may be formalized through a Memorandum of Agreement (MOA) between the MOH and the concerned LGU. This arrangement shall respect the autonomy of local governments and shall not infringe upon their authority over local appointments, personnel, or organizational structure.
+
+In cases where the concerned LGU declines or is unable to designate a CBPRM Focal Person within a reasonable period, the Ministry of Health, through the CBPRM Unit, may assign a qualified personnel as an Acting CBPRM Focal Officer for a period not exceeding one (1) year, renewable as necessary. Such assignment shall be without prejudice to the continuing authority of the LGU to appoint or assign its own personnel at any time.
+
+For purposes of this Section, a “reasonable period” shall mean a period of sixty (60) calendar days from the date of formal written request by the Ministry of Health to the concerned Local Government Unit for designation of a CBPRM Focal Person.
+
+Failure of the LGU to respond within this period shall authorize the MOH to assign an Acting CBPRM Focal Officer pursuant to this Section, without prejudice to subsequent LGU action.
+
+The Ministry may also provide honoraria, training, or logistical support for LGU-designated CBPRM Focal Persons, subject to available funds and existing rules, to ensure program implementation at the local level.
+
+Focal units and personnel shall:
+* Coordinate the rollout of CBPRM services within their jurisdiction;
+* Supervise and provide technical support to deployed CBPRM Teams;
+* Facilitate inter-agency collaboration and community engagement;
+* Monitor local implementation and report to the MOH CBPRM Unit.
+
+The MOH may issue supplemental guidelines, in consultation with LGUs, to detail the coordination mechanisms, reporting structures, and capacity-building needs of focal units, while observing the mandates and organizational independence of local government units.
+
+**Section 11. Deployment of Multidisciplinary Rehabilitation Teams (CBPRM Teams). -** The CBPRM Program shall be operationalized at the local level through the deployment of multidisciplinary CBPRM Teams. These teams shall be composed of licensed and trained rehabilitation professionals and support staff, and shall deliver services through fixed facilities, mobile outreach, or home-based visits.
+
+CBPRM Teams shall function under the technical guidance of the CBPRM Unit and the coordination of Provincial CBPRM Focal Units. At the municipal level, their deployment and activities shall be coordinated in partnership with the MHOs, respecting the role of LGUs in health service delivery.
+
+Each CBPRM Team shall be composed of the following core personnel:
+
+(a) **Physiatrist or PRM Consultant -** Responsible for medical evaluation, diagnosis, and prescription of rehabilitation plans;
+(b) **Physical Therapist (PT) –** Responsible for mobility restoration and functional rehabilitation;
+(c) **Occupational Therapist (OT) –** Responsible for restoring self-care skills and daily function;
+(d) **Speech and Language Pathologist (SLP) –** As needed, provides therapy for communication and swallowing disorders;
+(e) **Rehabilitation Aide or Community Therapy Assistant –** Assists licensed professionals during therapy and patient support;
+(f) **Program Coordinator or Administrative Officer –** Handles logistics, coordination, documentation, and team support.
+
+Deployment and operations of CBPRM Teams shall adhere to the following principles:
+
+1. **Geographic Responsiveness –** Teams shall be prioritized for deployment in conflict-affected, geographically isolated, and underserved areas, based on regional health needs and in consultation with concerned LGUs.
+2. **Coordination with Local Health Systems –** CBPRM Teams shall coordinate with existing LGU health infrastructure, including RHUs and BHS, with full respect for the administrative authority of LGUs over their personnel and facilities.
+3. **Respect for LGU Autonomy –** The deployment of CBPRM Teams at the local level shall be undertaken in coordination with concerned LGUs, and may be formalized through MOAs or similar collaborative arrangements. Such deployment shall not infringe upon the appointing powers or internal processes of local health offices.
+  a. In cases where the concerned Local Government Unit does not respond to the Ministry’s formal written request for coordination on CBPRM Team deployment within a reasonable period, the MOH, through its CBPRM Unit, may proceed to deploy the necessary CBPRM Teams in coordination with the Provincial Focal Unit.
+  b. For this purpose, a “reasonable period” shall mean sixty (60) calendar days from receipt of the Ministry’s formal written request. Failure to act within this period shall not preclude the Ministry from ensuring the delivery of essential rehabilitation services, particularly in GIDAs, conflict-affected areas, or underserved communities.
+  c. This provision shall be without prejudice to any subsequent engagement or cooperation by the LGU, and shall not diminish the authority of local governments to exercise control over their health personnel and facilities.
+4. **Flexible Engagement –** Team members may be engaged full-time, part-time, on contract, or as consultants, depending on available resources and service needs. Engagement schemes shall consider alignment with LGU policies, whenever applicable.
+5. **Capacity Development and Supervision –** All CBPRM Team members shall undergo standardized training in culturally respectful care, disability inclusion, and community-based rehabilitation. Technical supervision shall be provided by the MOH in coordination with local health officials.
+6. **Community Participation –** BHWs, caregivers, and community volunteers may be trained and mobilized to support CBPRM Teams in patient follow-up, caregiver training, and rehabilitation education, subject to coordination with LGU authorities.
+7. **Logistical Support –** Each CBPRM Team shall be equipped with rehabilitation tools, PPE, and mobile kits. Where feasible, transportation support may be arranged through collaboration with LGUs or development partners for remote deployments.
+8. **Service Reporting –** Teams shall maintain patient records, therapy progress logs, and submit regular reports to the CBPRM Unit and provincial focal offices, consistent with Section 14 and subject to coordination with the relevant LGU.
+
+**Section 12. CBPRM Operations and Support Structure. -** The CBPRM Program shall operate through a multi-level structure composed of a central CBPRM Unit, provincial and municipal focal units, and deployed CBPRM Teams, in coordination with local government units and existing public health infrastructure.
+
+(a) **CBPRM Unit.** The CBPRM Unit shall be housed within the central office of the Ministry of Health. It shall function as the primary coordinating and oversight body for the Program, responsible for planning, budget execution, training, monitoring, and inter-agency coordination, as provided in Section 10. Its operations and staffing shall be supported by the regular appropriations of the Ministry or supplemented through external programs, subject to applicable laws and administrative guidelines.
+
+(b) **Provincial and Municipal CBPRM Focal Units.** At the provincial level, CBPRM Focal Units shall be established within the IPHOs. In areas where IPHOs are not present or are not yet fully functional, such focal units may be designated within Provincial Health Offices (PHOs), in coordination with the Ministry.
+
+At the municipal level, CBPRM Focal Persons may be designated in coordination with local government units, and, whenever feasible, assigned within MHOs. Such designation shall be undertaken with due respect for the autonomy of LGUs and shall not affect the appointing authority or internal administrative structures of local health offices.
+
+Focal personnel may be drawn from existing MOH staff, with additional staff hired or contracted by the Ministry as necessary, subject to budgetary availability and government hiring rules.
+
+(c) **CBPRM Teams.** CBPRM Teams shall be deployed across provinces, cities, and municipalities to deliver services through health facilities, outreach missions, and home-based interventions. Teams shall be based in RHUs, BHS, or other appropriate facilities identified by the Ministry in coordination with LGUs.
+
+Team members may be engaged through plantilla positions, job orders, consultancy, or other allowable contractual schemes, depending on available funds and regional needs. Their deployment and operations shall be guided by the principles set forth in Section 11, including flexible engagement, local coordination, and community involvement.
+
+(d) **Local Coordination and Logistical Support.** Local government units are encouraged to support CBPRM implementation by providing venues, logistical resources, and coordination assistance. The Ministry may enter into formal agreements with LGUs or development partners to strengthen operational capacity, particularly in underserved, remote, or conflict-affected areas. Such collaboration shall be undertaken in a manner that upholds the administrative independence and legal mandates of the LGUs.
+
+(e) **Service Delivery Base.** CBPRM service delivery shall be anchored in existing public health infrastructure, including RHUs, BHS, and community health centers. Mobile and home-based services shall be organized in partnership with LGUs, BHWs, and accredited community volunteers to ensure accessible, continuous, and culturally respectful care.
+
+**Section 13. Implementing Agencies. -** The MOH shall serve as the lead implementing agency of the CBPRM Program. In line with its mandate under the Bangsamoro Organic Law and the Universal Health Care Act, the MOH shall be responsible for the overall planning, implementation, monitoring, and evaluation of the Program.
+
+To ensure effective and decentralized service delivery, the MOH shall coordinate and collaborate with the following ministries and institutions:
+
+(a) **MSSD** – for the identification and profiling of persons with disabilities, elderly individuals, displaced families, and other vulnerable groups; the integration of CBPRM into existing social welfare programs; and the mobilization of social workers to support rehabilitation and follow-up care;
+
+(b) **MILG** – for policy coordination with LGUs, capacity development of local officials, and integration of CBPRM into local health and development planning;
+
+(c) **Ministry of Indigenous Peoples’ Affairs (MIPA)** – for culturally appropriate outreach and engagement with Moro and non-Moro Indigenous communities, as well as alignment with indigenous protocols and ancestral domain concerns;
+
+(d) **Local Government Units** – including provincial, city, municipal, and barangay governments, for the establishment of local CBPRM hubs or service points, provision of personnel and logistical support, and integration of rehabilitation services into the Local Development Investment Programs (LDIPs) and Annual Operational Plans;
+
+(e) **Civil Society Organizations (CSOs), Community-Based Organizations (CBOs), Faith-Based Organizations (FBOs), and Academic Institutions** – for community mobilization, research support, training of caregivers and health personnel, technical assistance, and supplemental service delivery;
+
+(f) **Department of Health and other PRM-accredited national specialty centers** – for technical support, standards development, clinical supervision, and referral of complex rehabilitation cases that require tertiary-level care.
+
+The MOH shall also ensure that implementing guidelines, training manuals, referral protocols, and data reporting tools are developed and disseminated to all participating agencies and LGUs to standardize service delivery across the region.
+
+**Section 14. Program Monitoring, Evaluation, and Reporting. -** To ensure transparency, accountability, and continuous improvement in the implementation of the CBPRM Program, the MOH, through its CBPRM Unit, shall establish a region-wide monitoring and evaluation (M&E) system aligned with national and regional health information frameworks.
+
+The M&E system shall be designed to assess program effectiveness, service quality, resource utilization, health outcomes, and client satisfaction, and shall guide policy refinements and evidence-based planning.
+
+The MOH shall undertake the following functions:
+
+(a) **Establish Performance Indicators** - Develop and regularly update a results-based performance framework, including quantitative and qualitative indicators to measure reach, efficiency, impact, equity, and client experience in CBPRM service delivery;
+
+(b) **Maintain a CBPRM Information System** - Integrate data collection and reporting, with real-time data entry from provincial and municipal CBPRM Teams and health facilities. This system shall include patient-level records, therapy outcomes, and geographic and demographic disaggregation;
+
+(c) **Conduct Periodic Assessments** - Implement annual program reviews, midterm performance assessments, and post-deployment evaluations to assess operational challenges, good practices, and gaps in delivery;
+
+(d) **Client Feedback and Community Validation** - Institutionalize mechanisms for collecting patient and caregiver feedback, including post-treatment surveys, exit interviews, and community consultations, with attention to gender, age, disability, and cultural identity;
+
+(e) **Submit Annual CBPRM Performance Report** - The MOH shall submit to the Bangsamoro Parliament, through the Committee on Health and other appropriate committees, an **Annual CBPRM Performance Report** not later than March 30 of the following year. This report shall include:
+* Total number of individuals served, by province and service type;
+* Distribution of deployed CBPRM teams and facilities;
+* Inventory of assistive devices distributed;
+* Therapy completion rates and documented health outcomes;
+* Budget utilization and resource gaps;
+* Policy and legislative recommendations for program improvement.
+
+**As an annex to this report, the MOH shall also submit an Annual CBPRM Team Deployment and Coverage Report, detailing:**
+* The number of deployed teams;
+* Their provincial, municipal, and barangay-level distribution;
+* Client population served by area;
+* Human resource requirements and deployment gaps; and
+* Service delivery outcomes achieved.
+
+The CBPRM Performance Report shall serve as the dedicated annual report of the Ministry of Health to the Bangsamoro Parliament, specifically on the implementation of this Act. It shall be submitted as a standalone document, separate from the Ministry’s general annual report, and may be published or made available to the public through the MOH website or other appropriate platforms, subject to applicable data privacy and disclosure regulations.
+
+Copies of the CBPRM Performance Report shall be furnished to the Office of the Chief Minister, the Ministry of Finance, Budget and Management (MFBM), the Bangsamoro Planning and Development Authority (BPDA), and other oversight or coordinating agencies, for purposes of planning, funding, and monitoring.
+
+(f) **Coordinate with Oversight and Audit Bodies** – Collaborate with the MFBM, Committee on Health of the Bangsamoro Parliament, and the Bangsamoro Planning and Development Authority (BPDA) to align M&E tools with regional results frameworks and development goals.
+
+All data gathering, processing, and reporting under this section shall observe strict compliance with Republic Act No. 10173 (Data Privacy Act of 2012), and related policies of the National Privacy Commission.
+
+**Section 15. Funding and Appropriations.** – The initial implementation of the CBPRM Program shall be funded from the current appropriations of the MOH, as may be identified in its Annual Investment Plan and endorsed by the Bangsamoro Planning and Development Authority (BPDA) and the Ministry of Finance, Budget and Management (MFBM).
+
+Thereafter, the amount necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act of the Bangsamoro (GAAB), under a dedicated program allocation for CBPRM, to be administered by the MOH.
+
+**Section 16. Parliamentary Oversight.** – In accordance with the principles of transparency, accountability, and participatory governance, the **Bangsamoro Parliament, through its Committee on Health**, and in coordination with the **Committee on Social Services** and other relevant standing committees, shall exercise oversight over the implementation of this Act and the CBPRM Program.
+
+For this purpose, the MOH shall submit to the Parliament an **Annual CBPRM Performance Report**, not later than **March 30** of the following year, as provided under Section 14 (e) of this Act. The Parliament shall ensure that recommendations arising from oversight activities are transmitted to the MOH within sixty (60) days from submission of the Annual Report.
+
+The Parliament may, through its Committees, convene public hearings, initiate field validation visits, or require clarificatory briefings from MOH officials and LGU implementers to assess compliance with the Act and the effectiveness of CBPRM service delivery.
+
+**Section 17. Implementing Rules and Regulations (IRR).** – Within ninety (90) days from the effectivity of this Act, the MOH, in coordination with the MSSD, the MILG, and other relevant agencies, shall promulgate the necessary Implementing Rules and Regulations (IRR) to carry out the provisions of this Act.
+
+The IRR shall include, but shall not be limited to, the following:
+
+(a) Detailed operational guidelines for the establishment and functions of the CBPRM Unit within MOH;
+
+(b) Procedures for the recruitment, deployment, supervision, and training of CBPRM personnel and multidisciplinary rehabilitation teams;
+
+(c) Standardized service packages, referral protocols, and quality assurance mechanisms for community-based, home-based, and mobile rehabilitation services;
+
+(d) Systems for patient identification, eligibility validation, and case management at the barangay and municipal levels;
+
+(e) Guidelines for the procurement and distribution of assistive devices, therapeutic equipment, and outreach logistics;
+
+(f) Data collection, monitoring, evaluation, and reporting frameworks, in compliance with data privacy laws and existing regional health information systems;
+
+(g) Budget execution and fund utilization rules in accordance with regional accounting and audit regulations;
+
+(h) Procedures for engagement with Local Government Units, civil society partners, Indigenous and Moro community representatives, and academic institutions in CBPRM planning and delivery.
+
+(i) Guidelines for the mobilization of volunteer caregivers, health workers, and private sector partners.
+
+The IRR shall be developed through an inclusive and consultative process involving stakeholders from the health sector, disability rights organizations, professional associations, development partners, and representatives of marginalized groups, including persons with disabilities (PWDs), Indigenous Peoples, and elderly persons.
+
+**Section 18. Repealing Clause.** - All regional laws, rules, executive orders, administrative issuances, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly. This repeal shall be without prejudice to any existing program, benefit, or service for senior citizens in BARMM that is consistent with or complementary to the objectives of this Act.
+
+**Section 19. Separability Clause.** - If any provision of this Act is declared unconstitutional or invalid, the other provisions not affected shall remain in full force and effect.
+
+**Section 20. Effectivity.** – This Act shall take effect fifteen (15) days after the completion of its publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Adopted.
+
+(Signed)
+**DR. HASHEMI N. DILANGALEN, CHA**
+Member of the Parliament
+
+Certified correct:
+
+(Signed)
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+
+(Signed)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
