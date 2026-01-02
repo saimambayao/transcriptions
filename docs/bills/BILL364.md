@@ -1,0 +1,130 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **364**
+
+Introduced by:
+**MP Engr. Baintan Adil-Ampatuan, MNSA**
+
+**AN ACT**
+**MANDATING THE PROGRAMMATIC INCLUSION OF RIGHT-OF-WAY INDEMNIFICATION IN ALL INFRASTRUCTURE PROJECTS TO BE UNDERTAKEN BY THE BANGSAMORO GOVERNMENT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**Explanatory Note**
+
+Section 9, Article III of the 1987 Philippine Constitution guarantees that private property shall not be taken for public use without just compensation.
+
+As a newly established region, infrastructure development in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) is crucial to its socio-economic growth and prosperity. It improves quality of life by providing better access to essential services such as clean water and electricity. Infrastructure also facilitates the flow of goods, people, and information, and supports critical services such as energy and water, which are the foundation of daily life and economic activity.
+
+Moreover, the timely completion of infrastructure projects is essential. Delays in construction often result in traffic congestion, hinder regional development, and expose the Bangsamoro Government to avoidable expenses.
+
+In one case decided by the Supreme Court, *Quimen v. Court of Appeals*, the Court held:
+
+> “A right of way in particular is a privilege constituted by covenant or granted by law to a person or class of persons to pass over another’s property when his tenement is surrounded by realities belonging to others without an adequate outlet to the public highway. The owner of the dominant estate can demand a right of way through the servient estate provided he indemnifies the owner thereof for the beneficial use of his property.”
+
+However, payment of indemnity to affected property owners does not transfer ownership of the said property to the implementing agency or the Bangsamoro Government. It is compensation solely for the use of the right-of-way.
+
+In BARMM, infrastructure development remains a vital element for social and economic advancement. Yet, the acquisition of property to be used as right-of-way (ROW) has often been a lengthy and cumbersome process, which has significantly hindered project implementation to the detriment of the general public.
+
+According to the Bangsamoro Planning and Development Authority (BPDA), more than 60% of infrastructure projects scheduled between 2021 and 2023 experienced delays, with right-of-way issues cited as one of the top three causes. In a 2022 report by the Ministry of Public Works (MPW), at least ₱1.2 billion worth of projects were delayed due to unresolved ROW claims, resulting in cost overruns and scheduling setbacks.
+
+Although existing laws such as Republic Act No. 10752, otherwise known as the “Right-of-Way Act,” facilitate ROW acquisition, delays in the computation and payment of just compensation to affected property owners remain a major challenge. When the State appropriates private property for public use, the owner must receive just compensation—meaning not only the fair market value of the property but also prompt payment. Timely compensation ensures that landowners continue to benefit from the income-generating potential of their land.
+
+Delayed payments also impact community support and cooperation. A 2023 MPW-BARMM field assessment revealed that over 70% of affected landowners in Maguindanao del Norte and Lanao del Sur were hesitant to allow access to their lands due to uncertainties in compensation timelines.
+
+This bill seeks to simplify and expedite the process of compensating property owners affected by the acquisition of right-of-way for infrastructure projects undertaken by the Bangsamoro Government. It will ensure the prompt, fair, and timely payment of compensation to affected landowners, thereby reducing delays in project implementation.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+**MP ENGR BAINTAN ADIL-AMPATUAN, MNSA**
+Deputy Speaker
+Author
+
+Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **364**
+
+Introduced by:
+**MP Engr. Baintan Adil-Ampatuan, MNSA**
+
+**AN ACT**
+**MANDATING THE PROGRAMMATIC INCLUSION OF RIGHT-OF-WAY INDEMNIFICATION IN ALL INFRASTRUCTURE PROJECTS TO BE UNDERTAKEN BY THE BANGSAMORO GOVERNMENT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:*
+
+**Section 1. Title.** – This Act shall be known as the “Bangsamoro Right-of-Way Indemnity Act of 2025.”
+
+**Section 2. Declaration of Policy.** – The Bangsamoro Government affirms that private property shall not be taken for public use without just compensation. It shall ensure that owners of real property acquired for regional government infrastructure projects are promptly paid just compensation to expedite the acquisition of the right-of-way for such projects.
+
+Further, the Bangsamoro Government recognizes the importance of private sector participation in delivering public services. Towards this end, it shall pursue policies that encourage private enterprise involvement and facilitate the acquisition of right-of-way sites or locations for private infrastructure projects intended for public use to promote the efficient and timely delivery of public services.
+
+**Section 3. Definition of Terms.** - As used in this Act, the following terms or phrases are defined as follows:
+
+a) **“Implementing Agency”** refers to any Bangsamoro ministry, office, or agency (BMOA) and/or instrumentality of the Bangsamoro Government, including any government-owned or -controlled corporation, or state college or university authorized by law or its respective charter to undertake regional infrastructure projects;
+
+b) **“Indemnity”** refers to the compensation paid to the owner of the affected property in the acquisition of right-of-way for the infrastructure projects of the Bangsamoro Government. It shall be used interchangeably with “compensation” in this Act;
+
+c) **“Infrastructure Project”** means the construction, improvement, rehabilitation, demolition, repair, restoration or maintenance of roads, bridges, railways, airports, seaports, communication facilities, civil works components of information technology projects, irrigation, flood control and drainage, water supply, sanitation, sewerage and solid waste management systems, shore protection, energy/power and electrification facilities, government buildings, school buildings, hospital buildings, or other related construction project of the Bangsamoro Government;
+
+d) **“Market Value”** refers to the estimated amount for which a real property shall exchange on the valuation date between a willing buyer and a willing seller in arm’s length transaction, after proper marketing, wherein the parties had each acted knowledgeably, prudently, and without compulsion;
+
+e) **“Program of Work”** refers to a document that describes the sequence in which tasks must be carried out so that a project or part thereof can be completed on time. It shall include, among others, estimates of the work items, quantities and costs, and the schedule of project activities and disbursements;
+
+f) **“Property”** refers to the land affected by the right-of-way, and the structures/improvements and crops/trees on the land; and
+
+g) **“Right-of-way”** refers to a part or the entirety of a property, site or location, with defined physical boundaries, used or required by a regional government project.
+
+**Section 4. Scope of Application.** – This Act shall apply to all government infrastructure projects, including, but not limited to, roads, bridges, power lines, water systems, communication facilities, and other public works funded wholly or partially by the Bangsamoro Government.
+
+**Section 5. Automatic Inclusion of Indemnity in the Program of Work.** - All regional infrastructure projects, regardless of funding source or implementing agency, shall include the payment of indemnity to property owners or affected individuals, as provided in Section 7 of this Act. The indemnity cost shall be reflected in the project’s approved Program of Work (POW).
+
+**Section 6. Modes of Acquiring Real Property.** - In accordance with Section 4 of Republic Act No. 10752, otherwise known as the "Right-of-Way Act," the Bangsamoro Government may acquire real property needed as a right-of-way site or location for any regional government infrastructure project through donation, negotiated sale, expropriation, or any other lawful mode of acquisition.
+
+**Section 7. Rules on Determining Indemnity.** - The implementing agency may offer to acquire, through negotiated sale, the right-of-way site or location for a regional government infrastructure project under the following rules:
+
+1) The implementing agency shall offer the property owner, as compensation, the sum of:
+
+	a. In cases involving agricultural land, the current market value of crops and trees thereon; and
+
+	b. In cases of new right-of-way sites, the current market value or the zonal value of the land, whichever is lower.
+
+2) In cities and municipalities where an existing road right-of-way is already integrated into a subdivision or development plan, no additional indemnity shall be required for the said site.
+
+**Section 8. Non-Diminution of Rights.** - Nothing in this Act shall be construed to diminish or impair the right of property owners to just compensation under the Bangsamoro Organic Law, the Philippine Constitution, or existing national laws.
+
+**Section 9. Annual Report to the Parliament.** - The Ministry of Public Works (MPW) shall submit a report to the Parliament within one (1) year from the implementation of this Act, and annually thereafter, detailing the implementation progress, challenges encountered, total funds disbursed for indemnity, and the number of properties affected and compensated.
+
+**Section 10. Implementing Rules and Regulations.** - Within ninety (90) days from the effectivity of this Act, the Ministry of Public Works (MPW) shall promulgate, in consultation with relevant stakeholders, the necessary rules and regulations for the effective implementation of this Act.
+
+**Section 11. Mandatory Review.** - Every five (5) years from the effectivity of this Act, the Chief Minister shall constitute an independent panel of experts to conduct a comprehensive review of the implementation of this Act and submit its findings and recommendations to the Parliament.
+
+**Section 12. Appropriations.** - The amount necessary to implement the provisions of this Act shall be included in the General Appropriations Act of the Bangsamoro (GAAB).
+
+**Section 13. Separability Clause.** - If any provision of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall remain in full force and effect.
+
+**Section 14. Transitory Clause.** - The provisions of this Act shall apply to all right-of-way transactions of the Bangsamoro Government, except those for which a written agreement on compensation has been duly executed prior to the effectivity of this Act.
+
+**Section 15. Repealing Clause.** - All laws, orders, rules, and regulations inconsistent with this Act are hereby repealed, modified, or amended accordingly.
+
+**Section 16. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Adopted,
+
+**MP ENGR BAINTAN ADIL-AMPATUAN, MNSA**
+Deputy Speaker
+Author
+
