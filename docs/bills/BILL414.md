@@ -1,0 +1,154 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **414**
+
+Introduced by:
+**MP Engr. Baintan Adil-Ampatuan**
+
+Co-Authored by:
+MP Atty. Sittie Fahanie S. Uy-Oyod; MP Khalid Ma-Ampor Hadji Abdullah; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Engr. Don Mustapha A. Loong, MNSA; MP Rasul E. Ismael, EMDRCM; MP Atty. Rasol Mitmug, Jr., CESE; MP Tawakal B. Midtimbang; MP Jaafar Apollo Mikhail L. Matalam; and MP Michael E. Midtimbang.
+
+**AN ACT**
+**ESTABLISHING A COLLEGE EDUCATION BRIDGING FUND TO SUPPORT QUALIFIED STUDENTS FROM LOW-INCOME FAMILIES IN THE BANGSAMORO REGION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+Access to quality and affordable higher education remains a challenge for many students from low-income families in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). While existing scholarship programs provide support to deserving students, many still fall through the cracks due to limited coverage, strict eligibility requirements, or economic hardship that prevents them from sustaining their education.
+
+This bill is anchored on key provisions of Republic Act No. 11054, or the Bangsamoro Organic Law, specifically:
+
+a) Article IX, Section 2 mandates the Bangsamoro Government to "establish, maintain, and support a complete and integrated system of quality education" that is "relevant and responsive to the needs, ideals, and aspirations of the Bangsamoro people."
+
+b) Section 4 of the same Article grants the Bangsamoro Government the authority to establish and support education systems responsive to the region's specific needs.
+
+c) Section 6 provides that the Bangsamoro Government "shall provide for a program of scholarships and other affirmative actions to uplift the marginalized and disadvantaged sectors, particularly the poor."
+
+d) Furthermore, Article XII, Section 7 emphasizes that the Bangsamoro Government shall give priority to education in the allocation and use of its funds, thereby supporting the appropriation proposed in this measure.
+
+Through this bill, we aim to uphold the constitutional mandate of making education accessible to all and fulfill our moral and legal duty to ensure that no Bangsamoro student is left behind due to poverty. The passage of this bill will contribute to building a more equitable and educated Bangsamoro society.
+
+According to the 2023 Labor Force Survey released by the Philippine Statistics Authority, BARMM has the lowest tertiary education attainment rate in the country, with only 9.6% of the population aged 25 years and older having completed a college degree—far below the national average of 24.9%. The same report also notes that BARMM continues to register one of the highest poverty incidences in the Philippines, with over 50% of the population living below the poverty threshold as of 2021. These figures underscore the direct correlation between poverty and limited access to higher education.
+
+While tuition in public colleges and universities is covered under the Universal Access to Quality Tertiary Education Act (RA 10931), many Bangsamoro students still struggle with incidental expenses such as transportation, dormitory accommodations, food, learning materials, and internet connectivity—factors that often lead to dropout or delayed graduation.
+
+This proposed measure seeks to establish a College Education Bridging Fund (CEBF) to provide financial assistance to qualified students from low-income families in the Bangsamoro region. The fund is envisioned as a supplemental support mechanism for students who have already completed at least their third year in college but are at risk of dropping out due to financial constraints. It aims to help them complete their degrees and unlock greater opportunities for productive employment, empowerment, and participation in the regional development.
+
+The Ministry of Basic, Higher, and Technical Education (MBHTE-BARMM), which currently implements regional scholarship and student assistance programs, shall be authorized to administer the Fund in coordination with relevant stakeholders. Its Higher Education Department may allocate a portion of its annual budget—or receive additional appropriations through this Act—to implement the CEBF. Furthermore, the Ministry may explore partnerships with local government units (LGUs), private institutions, development agencies, and other organizations to strengthen and sustain the Fund.
+
+The CEBF aims to:
+
+a) Bridge financial gaps that prevent deserving students from accessing or completing their college education;
+
+b) Improve student retention and graduation rates, especially in geographically isolated and disadvantaged areas;
+
+c) Support peacebuilding and regional development by empowering the next generation through education;
+
+d) Contribute to the Bangsamoro Government's vision of building a more educated, skilled, and competitive workforce.
+
+The establishment of this Fund is consistent with the Bangsamoro Education Code of 2021, the Bangsamoro Development Plan 2023–2028, and the 12-Point Priority Agenda of the Bangsamoro Government—all of which underscore the importance of inclusive, accessible, and equitable education for all.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+**ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
+Chunk Complete. Ready for next group of provisions starting at the main text of the Act.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **414**
+
+Introduced by:
+**MP Engr. Baintan Adil-Ampatuan**
+
+Co-Authored by:
+MP Atty. Sittie Fahanie S. Uy-Oyod; MP Khalid Ma-Ampor Hadji Abdullah; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Engr. Don Mustapha A. Loong, MNSA; MP Rasul E. Ismael, EMDRCM; MP Atty. Rasol Mitmug, Jr., CESE; MP Tawakal B. Midtimbang; MP Jaafar Apollo Mikhail L. Matalam; and MP Michael E. Midtimbang.
+
+**AN ACT**
+**ESTABLISHING A COLLEGE EDUCATION BRIDGING FUND TO SUPPORT QUALIFIED STUDENTS FROM LOW-INCOME FAMILIES IN THE BANGSAMORO REGION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:*
+
+**SECTION 1. Short Title.** - This Act shall be known as the "College Education Bridging Fund Act of 2025."
+
+**SECTION 2. Declaration of Policy.** - It is the policy of the Bangsamoro Government to uphold the right of every Bangsamoro to accessible and equitable quality education. The Bangsamoro Government recognizes the critical need to address financial barriers that hinder students, particularly those from low-income families, from accessing and completing tertiary education. Toward this end, the Bangsamoro Government shall establish a College Education Bridging Fund to provide financial support to deserving students from poor households across the region.
+
+**SECTION 3. Definition of Terms.** - For the purpose of this Act, the following terms are defined as follows:
+
+a) Bridging Fund refers to financial assistance granted to students to cover tuition, non-tuition, and incidental expenses that are not fully covered by existing scholarships or education subsidy programs.
+
+b) Low-Income Families refers to households classified as poor or near-poor based on the poverty threshold set by the Philippine Statistics Authority.
+
+c) Qualified Student refers to a bona fide resident of BARMM who has completed his or her third year in an accredited college or university and meets the eligibility criteria set by the implementing rules and regulations.
+
+**SECTION 4. College Education Bridging Fund (CEBF).** - There is hereby created a College Education Bridging Fund (CEBF) under the Ministry of Basic, Higher, and Technical Education (MBHTE), which shall provide supplemental financial assistance to qualified students from low-income families in the Bangsamoro region.
+
+**SECTION 5. Scope of Coverage.** - The CEBF shall be available to:
+
+a) Students enrolled in public or private colleges and universities within or outside BARMM;
+
+b) Students who are not recipients of scholarships or existing recipients of scholarships but require additional support for non-tuition expenses;
+
+c) Incoming fourth year college students who are unable to enroll due to financial constraints.
+
+**SECTION 6. Allowable Uses of the Fund.** - The financial assistance from the CEBF may cover the following:
+
+a) Transportation and mobility expenses;
+
+b) Board and lodging or dormitory rental;
+
+c) Books, learning materials, and supplies;
+
+d) Internet connectivity and digital learning devices;
+
+e) Food and daily subsistence;
+
+f) Other essential academic-related expenses as may be determined by MBHTE.
+
+Chunk Complete. Ready for next group of provisions starting at SECTION 7.
+
+***
+
+**SECTION 7. Eligibility Criteria and Application.** - The MBHTE shall formulate the guidelines on eligibility, documentary requirements, selection process, and disbursement mechanisms, giving priority to:
+
+a) Students from low-income and conflict-affected communities;
+
+b) Students belonging to indigenous peoples (IPs), orphans, or persons with disabilities (PWDs);
+
+c) Students enrolled in degree programs aligned with regional development priorities and labor market demands of the Bangsamoro Autonomous Region.
+
+**SECTION 8. Allowable Education Support.** - Each student shall be entitled to a minimum of Fifty Thousand Pesos (P50,000.00) in educational assistance. The MBHTE shall issue specific guidelines on the availment of this fund.
+
+**SECTION 9. Administration and Implementation.** - The MBHTE, through its Higher Education Department, shall administer the Fund and ensure transparency, accountability, and equity in its implementation. It may partner with LGUs, state and private higher education institutions, civil society organizations, and donor institutions.
+
+**SECTION 10. Appropriations.** - An initial amount of Fifty Million Pesos (P50,000,000.00) for the initial implementation of this Act shall be charged against the Contingent Fund of the Bangsamoro Government. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual Bangsamoro Expenditure Program of the MBHTE.
+
+**SECTION 11. Monitoring and Evaluation.** - The MBHTE shall submit to the Bangsamoro Parliament an annual report on the implementation of the Fund, including the number of beneficiaries, fund utilization, and outcomes. Independent audits and performance evaluations may be conducted to ensure the effectiveness of the program.
+
+**SECTION 12. Implementing Rules and Regulations.** - Within ninety (90) days from the effectivity of this Act, the MBHTE, in coordination with the Ministry of Finance, Budget, and Management (MFBM), shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+**SECTION 13. Separability Clause.** - If any provision of this Act is declared unconstitutional or invalid, the remaining provisions shall remain in full force and effect.
+
+**SECTION 14. Repealing Clause.** - All laws, decrees, executive orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 15. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Bangsamoro Gazette or in a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+Approved,
+
+**ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
