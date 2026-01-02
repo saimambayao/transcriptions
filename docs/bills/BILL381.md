@@ -1,0 +1,170 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Fourth Regular Session
+
+BTA Bill No. **381**
+
+Introduced by:
+**MP ABDULKARIM T. MISUARI, MP NURREDHA I. MISUARI, MP RANDOLPH C. PARCASIO, MP ROMEO K. SEMA, MP SARIPUDDIN D. JIKIRI**
+
+**AN ACT INSTITUTIONALIZING THE EMPOWERMENT AND WELFARE OF ULAMA, USTADHS, USTADHAS, INDIGENOUS SPIRITUAL LEADERS, AND OTHER FAITH-BASED COUNSELORS IN THE BANGSAMORO AUTONOMOUS REGION, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+The Doctors of the Soul Act of 2025 represents a landmark legislative initiative aimed at institutionalizing the indispensable role of Ulama, Ustadhs, Ustadhas, Indigenous spiritual leaders, priests, pastors, and other faith-based counselors as primary providers of psycho-spiritual support within the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). Fundamentally recognizing the holistic nature of health, this Act seeks to integrate spiritual guidance into the broader framework of mental health and psychosocial support (MHPSS). Consequently, it aspires to enhance community well-being, strengthen social unity, and contribute meaningfully to peacebuilding efforts in the region.
+
+To justify the enactment of this law, this explanatory note delineates the legal, constitutional, and theological foundations underpinning the Act. Notably, it highlights the alignment of the legislation with BARMM's foundational documents as well as key Islamic ethical principles, thereby affirming its contextual and normative legitimacy.
+
+Foremost, the Bangsamoro Organic Law (Republic Act No. 11054), which serves as the foundational legal framework for BARMM, explicitly mandates the promotion of moral governance and cultural identity. In this regard, the Act concretizes these mandates in several significant ways. For instance, Section 3, Article XII of the Bangsamoro Organic Law charges the Bangsamoro Government with the responsibility to promote moral governance and cultural preservation. By formally recognizing and empowering Ulama and religious leaders as "Doctors of the Soul," the Act institutionalizes Islamic moral and ethical teachings within government programs, thereby ensuring that development initiatives are reflective of the values and faith of the Bangsamoro people.
+
+Furthermore, Section 5, Article IX of the Bangsamoro Organic Law authorizes BARMM to administer social welfare services in a manner consistent with Islamic values and indigenous traditions. In response, this legislation establishes mechanisms for the certification, welfare, and deployment of faith-based counselors, thus integrating culturally appropriate psycho-spiritual support into the region's social services framework.
+
+In addition to the Bangsamoro Organic Law, the BARMM Charter reinforces the legal basis for this Act. Specifically, Section 2, Article VII directs BARMM to provide culturally appropriate social services. This legislation fulfills that mandate by institutionalizing spiritually rooted counseling services that are congruent with the cultural and religious contexts of the Bangsamoro people, thereby enhancing the accessibility and cultural acceptability of mental health support. Moreover, Section 1, Article IV enshrines moral governance as a core principle of the Bangsamoro government. By formally incorporating Ulama and spiritual counselors into government efforts, the Act strengthens the moral component of society through the promotion of ethical and compassionate guidance.
+
+The Act is also grounded in the traditional Islamic legal framework of Maqasid al-Shariah, which aims to preserve essential human interests. In particular, the Act upholds the preservation of religion (Hifz al-Din) by empowering Ulama and religious teachers to protect and continue Islamic faith and spiritual welfare. Simultaneously, it addresses the protection of the mind (Hifz al-’Aql) by integrating psycho-spiritual counseling as a culturally sensitive method to safeguard mental and emotional health. Lastly, it supports the preservation of life (Hifz al-Nafs) through a holistic approach to well-being that aligns with Islamic ethics and promotes the sanctity of life.
+
+Moreover, the Islamic principle of rahmah (compassion) commands care for the vulnerable, including individuals experiencing psychological distress. The Prophet Muhammad (peace be upon him) emphasized spiritual healing and counseling as essential components of individual and communal well-being. Accordingly, this Act institutionalizes that prophetic wisdom by formally recognizing and supporting trusted spiritual guides as key contributors to mental health and psychosocial support in BARMM.
+
+It is important to note that BARMM is characterized by a diverse ethno-religious composition, in which communities have traditionally relied on faith-based counselors for guidance, particularly concerning mental, emotional, and moral matters. Despite their critical role, these spiritual leaders have historically operated without formal recognition or adequate support from governmental systems. This legislation remedies such gaps by institutionalizing and professionalizing the role of Ulama, Ustadhs, Ustadhas, Indigenous spiritual leaders, and faith-based counselors without creating additional bureaucratic layers. In addition, the Act integrates their services into formal government programs across health, education, social welfare, and peacebuilding sectors to expand their reach and impact.
+
+Moreover, the Act provides structured welfare benefits, training, and certification systems designed to enhance the effectiveness and sustainability of faith-based counselors. It also promotes gender inclusivity and respects Indigenous cultural practices. Through these provisions, the legislation strengthens social healing, resilience, and peacebuilding efforts by offering culturally congruent psycho-spiritual care.
+
+Finally, the Doctors of the Soul Act of 2025 is a constitutionally grounded, culturally and religiously principled legislative framework that elevates psycho-spiritual care as a fundamental component of BARMM’s social services. By institutionalizing the empowerment, welfare, and integration of faith-based counselors, the Act affirms the Bangsamoro Government’s unwavering commitment to moral governance, holistic well-being, and the strengthening of community bonds. Ultimately, this legislation serves as a testament to BARMM’s aspiration for governance rooted in faith, ethics, and compassion, ensuring that mental health and spiritual welfare receive prioritization alongside physical and social development.
+
+(Signed)
+**NURREDHA I. MISUARI**
+Member of the Parliament
+
+**CHAPTER I**
+**GENERAL PROVISIONS**
+
+**Section 1. Short Title.** – This Act shall be known as the “Doctors of the Soul Act of 2025.”
+
+**Section 2. Declaration of Policy.** - It is hereby declared the policy of the Bangsamoro Government to institutionalize the empowerment, protection, and welfare of Ulama, Ustadhs, Ustadhas, Indigenous spiritual leaders, and other faith-based counselors, including priests and pastors, in recognition of their important role in nurturing the mental, emotional, moral, and spiritual well-being of individuals, families, and communities in BARMM.
+
+Guided by the principles of moral governance, cultural inclusivity, and community-driven development, the Bangsamoro Government affirms the unique moral authority and cultural relevance of these spiritual leaders as “doctors of the soul” who serve as counselors, peacemakers, educators, and moral compasses in times of crisis, conflict, and transformation.
+
+This Act aims to integrate faith-based counseling and spiritual care into the broader frameworks of social services, education, health, and peacebuilding. The Bangsamoro Government shall develop policies, programs, and mechanisms to:
+a) ensure their meaningful participation in the design and delivery of psychosocial and spiritual support services;
+b) recognize and institutionalize their contributions through accreditation, capacity-building, and deployment;
+c) uphold gender and cultural sensitivity; and
+d) provide adequate support and safeguards for their welfare, safety, and continuous development.
+
+In pursuing this policy, the Bangsamoro Government commits to building inclusive systems that value diverse spiritual and Indigenous traditions, promote interfaith dialogue, and strengthen the moral and cultural foundations of the Bangsamoro society.
+
+**Section 3. Objectives** – this Act seeks to:
+a) Recognize and institutionalize the role of Ulama, Ustadhs, Ustadhas, priests, and Indigenous spiritual leaders as essential community-based support agents;
+b) Establish a multi-agency mechanism for the training, accreditation, deployment, and support of faith-based counselors;
+c) Strengthen the integration of psycho-spiritual guidance in BARMM’s social services, health, education, and peacebuilding programs;
+d) Promote culturally respectful, faith-based, and gender-sensitive psychosocial interventions;
+e) Build community resilience and social healing through faith-based and Indigenous spiritual practices;
+f) Provide sustainable support mechanisms, including training, welfare, and honoraria for accredited counselors;
+g) Encourage interfaith and intergenerational dialogue for inclusive peace and moral governance;
+h) Address trauma and post-conflict psychosocial needs through culturally relevant approaches;
+i) Institutionalize spiritual and ethical guidance as preventive support in education, health, social welfare, and local governance systems.
+
+**Section 4. Definition of Terms** – For the purposes of this Act, the following terms shall have the meanings hereunder:
+a) **Ulama** – Qualified Islamic scholars with formal religious education authorized to provide moral, theological, and legal guidance in the Muslim community.
+b) **Ustadh/Ustadha** – Islamic educators and preachers who may not hold the same jurisprudential authority as Ulama but are trained in Islamic disciplines and serve teaching, counseling, or da’wah functions.
+c) **Indigenous Spiritual Leaders** – Community-recognized elders among Indigenous Peoples (IPs) who provide guidance, rituals, and moral authority grounded in Indigenous knowledge systems and cultural traditions.
+d) **Faith-Based Counselors** – Individuals who offer counseling and guidance anchored in religious traditions, including priests, pastors, imams, missionaries, and lay religious workers.
+e) **Psycho-Spiritual Support** – A form of care that addresses mental, emotional, and spiritual well-being, often rooted in religious or traditional frameworks.
+f) **Accreditation** – The process by which counselors are recognized by the BARMM government, through authorized agencies, as qualified to provide community-based psycho-spiritual support.
+g) **Multi-Agency Approach** – A coordinated mechanism involving various ministries and sectors to implement a holistic and inclusive program.
+h) **Deployment** – The structured assignment and engagement of accredited counselors in various community programs and institutions based on assessed needs.
+i) **Capacity Building** – The process of strengthening the knowledge, skills, values, and resources of individuals and institutions involved in providing psycho-spiritual support.
+
+**Section 5. Lead Implementing Agency** - The Ministry of Social Services and Development (MSSD) shall serve as the lead implementing agency for this Act. MSSD shall be responsible for overall program coordination, policy formulation, capacity building, and implementation oversight.
+
+MSSD shall ensure that the implementation of this Act aligns with BARMM’s principles of moral governance, equity, cultural inclusivity, and gender sensitivity. The MSSD shall also establish a dedicated unit within the Ministry to oversee the coordination and monitoring of this program, including maintaining a database of accredited counselors.
+
+**Section 6. Multi-Agency Implementation Mechanism** – A Technical Working Group (TWG) shall be created within sixty (60) days from the effectivity of this Act. This TWG shall be chaired by the MSSD and composed of the following agencies:
+a. Ministry of Health (MOH);
+b. Ministry of Basic, Higher, and Technical Education (MBHTE);
+c. Bangsamoro Darul-Ifta' (BDI);
+d. Ministry of Indigenous Peoples' Affairs (MIPA);
+e. Ministry of Interior and Local Government (MILG);
+f. Bangsamoro Youth Commission (BYC);
+g. Bangsamoro Women Commission (BWC);
+h. Bangsamoro Human Rights Commission (BHRC);
+i. Civil Society Organizations and Religious Institutions;
+j. Academe and Technical Experts.
+
+The TWG shall be tasked to:
+a. Draft the Implementing Rules and Regulations (IRR);
+b. Develop culturally appropriate accreditation standards and ethical guidelines;
+c. Formulate training and continuing education modules on psycho-spiritual support;
+d. Create mechanisms for inter-agency coordination and program delivery;
+e. Ensure gender, disability, and cultural sensitivity across interventions;
+f. Promote Indigenous and faith-based healing practices aligned with human rights standards;
+g. Institutionalize monitoring and data collection mechanisms for policy improvement.
+
+**Section 7. Accreditation and Certification of Doctors of the Soul** – is hereby established a Doctors of the Soul Accreditation Board (hereinafter referred to as the Accreditation Board), which shall be responsible for the development, administration, and oversight of the accreditation and certification process of Ulama, Ustadhs, Ustadhas, and similarly qualified faith-based counselors under this Act.
+
+The Accreditation Board shall be composed of representatives from the following agencies and institutions:
+1. The BDI, as the regional Islamic advisory council, shall serve as the primary authority on the Islamic qualifications, moral character, and theological integrity of applicants. The BDI shall determine acceptable forms of Islamic education, credentials, and faith-based endorsement, and may constitute a panel of Ulama to conduct examinations or interviews.
+2. The MSSD, as the lead implementing agency, shall co-chair the Accreditation Board and provide technical guidance on psychosocial support standards, community engagement, and program integration.
+3. The MBHTE shall assist in the development and delivery of training modules on Mental Health and Psychosocial Support (MHPSS), including coordination with educational institutions, madaris, and relevant training providers.
+4. The MOLE shall provide support on employment classification, remuneration guidelines, and labor standards concerning accredited Doctors of the Soul.
+5. The CSC-BARMM shall advise on the establishment of civil service eligibility standards, including the possible creation of a special qualification category for accredited Doctors of the Soul, thereby enabling their appointment to appropriate government positions.
+
+Within ninety (90) days from the effectivity of this Act, the Accreditation Board shall promulgate, through a resolution, the Comprehensive Guidelines on Accreditation and Certification, which shall include but not be limited to the following:
+a) **Minimum Islamic Educational Qualifications** – Acceptable forms of education may include formal completion of Islamic studies (e.g., bachelor’s or diploma programs), madrasa education, or ijazah from recognized Ulama institutions.
+b) **Basic MHPSS Training** – All applicants shall complete a certified training program in MHPSS developed in coordination with MBHTE, MSSD, and the MOH.
+c) **Assessment of Moral Integrity and Community Engagement** – This includes requirements for endorsements or character references from reputable institutions, local Ulama councils, or community leaders.
+d) **Examination or Evaluation Process** – The Accreditation Board may require written examinations, oral interviews, or practical evaluations to assess both theological and psychosocial competencies.
+e) **Renewal, Revocation, and Disqualification** – Accreditation shall be renewable every three (3) years, subject to compliance with continuing education and ethical standards.
+
+The Board shall have the authority to suspend or revoke accreditation, after due process, for violations of ethical guidelines or abuse of authority.
+
+A Certificate of Accreditation shall be issued to successful applicants, officially recognizing them as a Doctor of the Soul authorized to provide psycho-spiritual support under this Act. Accredited individuals shall be listed in a Regional Registry of Doctors of the Soul, maintained and regularly updated by the MSSD, serving as the official reference for government deployment or engagement.
+
+**Section 8. Deployment in Government Programs and Services** – In order to institutionalize faith-based psycho-spiritual support in public service delivery, all ministries, agencies, offices, and local government units (LGUs) in the Bangsamoro Autonomous Region shall engage or deploy accredited Doctors of the Soul in accordance with their mandates, as follows:
+a) MSSD shall integrate Doctors of the Soul in its core social protection programs, particularly in family counseling, community dialogues, post-disaster trauma healing, and peacebuilding interventions. They shall be mobilized alongside social workers, case managers, and emergency teams to provide holistic support addressing both material and spiritual needs.
+b) MBHTE shall involve Doctors of the Soul in educational institutions, madaris, and learning centers to support guidance counseling, student well-being, values formation, and parent-student dialogues. They may contribute to culturally and spiritually appropriate counseling materials and serve as facilitators of school-based resilience and mentoring sessions.
+c) MOH shall deploy Doctors of the Soul in hospitals, rural health units, and community health programs to assist in mental health and wellness interventions. They may serve as spiritual counselors in health facilities and support mental health teams in addressing issues such as trauma, depression, and substance abuse.
+d) All LGUs within BARMM are authorized and encouraged to engage accredited Doctors of the Soul as community counselors, mediators, or spiritual advisors. They may be assigned to community centers, barangay health stations, peace and order councils, or youth development offices, and may be consulted during emergencies or community crises.
+
+Engagements may be formalized through regular plantilla positions, contractual arrangements, or volunteer service agreements with appropriate allowances, subject to existing guidelines of the Ministry of Finance, Budget and Management (MFBM) and CSC-BARMM. Ministries and LGUs shall incorporate the engagement of Doctors of the Soul into their Annual Investment Plans (AIPs) and Work and Financial Plans (WFPs), ensuring funding support and program sustainability.
+
+**Section 9. Roles and Responsibilities of Doctors of the Soul** – Certified Doctors of the Soul shall perform the following duties, as guided by the principles of moral governance, compassion, and ethical service:
+a) **Psycho-Spiritual Counseling** – Provide individual and group counseling grounded in Islamic values and ethical traditions, addressing personal, familial, and communal challenges with confidentiality, empathy, and moral wisdom.
+b) **Spiritual Support in Public Programs** – Conduct spiritual lectures, values education sessions, and counseling circles in rehabilitation centers, schools, and public institutions to promote resilience, healing, and moral development.
+c) **Community Education and Outreach** – Lead or participate in sermons (khutbah), dialogues, and public education campaigns on mental health, peacebuilding, and emotional well-being from an Islamic perspective.
+d) **Crisis Intervention and Pastoral Care** – Serve as frontline pastoral responders during emergencies and disasters, providing spiritual reassurance, emotional support, and coordination with mental health professionals for case referrals.
+e) **Policy Advocacy and Liaison Work** – Act as bridges between government and religious institutions, contributing feedback on community needs, supporting the cultural appropriateness of policies, and promoting inclusive public service delivery.
+
+Doctors of the Soul shall adhere to an Ethical Code of Conduct to be issued in the Implementing Rules and Regulations (IRR), with standards for professionalism, impartiality, and respect for diversity.
+
+**Section 10. Capacity Building and Development** – The BARMM Government shall invest in the holistic development of accredited counselors. MSSD shall:
+a) Partner with universities, madrasah institutions, seminaries, and Indigenous learning centers for training;
+
+***
+
+**Section 17. Effectivity** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation within the Bangsamoro Autonomous Region.
+
+Adopted,
+
+Authors:
+
+(Signed)
+**MP ABDUL KARIM T. MISUARI**
+Member of the Parliament
+
+(Signed)
+**MP NURREDHA I. MISUARI**
+Member of the Parliament
+
+**MP RANDOLPH C. PARCASIO**
+Member of the Parliament
+
+**MP ROMEO K. SEMA**
+Member of the Parliament
+
+**MP SARIPUDDIN D. JIKIRI**
+Member of the Parliament
+
