@@ -284,3 +284,144 @@ The above-enumerated members of the Board may designate in writing representativ
 
 (m) Perform such other acts and functions as may be necessary to carry out the provisions of this Act.
 
+**CHAPTER VII**
+**THE DIRECTOR GENERAL**
+
+**Section 27. The Director General.** There shall be a Director General who shall be the chief executive officer of the Authority.
+
+The Director General shall be appointed by the Chief Minister.
+
+No person shall be appointed or designated as the Director General unless he/she is a Filipino citizen and Bangsamoro, at least thirty-five (35) years of age, of good moral character, unquestionable integrity, and recognized competence, and a degree holder with at least five (5) years supervisory or management experience.
+
+The Director General shall have a term of office for a period of six (6) years. His/her appointment may be extended for another non-extendible term of six (6) years and shall only be removed for cause in accordance with the rules and regulations prescribed by the Bangsamoro Civil Service Code.
+
+**Section 28. Powers and Functions of the Director General.** The Director General shall have the following powers and functions:
+
+(a) Execute, administer, and implement the Management Plan and other policies and measures approved by the Board;
+
+(b) Direct and supervise the operations and administration of the Authority;
+
+(c) Conduct administrative investigations, or to delegate the conduct of investigations to authorized hearing officers, on violations of this Act or of licenses, clearances, and permits issued pursuant to this Act;
+
+(d) Represent the Authority in all dealings with offices, agencies, and instrumentalities of the Government and with all persons and entities, public or private, domestic, or foreign, including the Intergovernmental Energy Board pursuant to Section 11 herein;
+
+(e) Prepare the agenda for the meeting of the Board, and to submit for the consideration of the Board such policies and measures as he believes necessary to carry out the purpose and objectives of this Act; and
+
+(f) Exercise such powers and functions as may be vested in him/her by the Board, subject to the provisions of this Act.
+
+**CHAPTER VIII**
+**SPECIAL COMMITTEES**
+
+**Section 29. Scientific Advisory Committee.** There is hereby created an independent Scientific Advisory Committee to advise, collectively or individually, the Authority on scientific and technical matters relating to the implementation of the Management Plan.
+
+The Scientific Advisory Committee shall provide data on matters relating to Lake Lanao. Provided, that this shall not preclude the Authority from obtaining data from other sources.
+
+The Board shall appoint the members of the Scientific Advisory Committee, who shall be recognized experts in the fields of agriculture, fisheries, forestry, energy, geology, hydrology, and environmental science.
+
+**Section 30. Stakeholders Consultative Committee.** There is also hereby created an independent Stakeholders Consultative Committee to advise, collectively or individually, the Authority on strategic and operational matters relating to the implementation of the Management Plan.
+
+The Board shall appoint the members of the Stakeholders Consultative Committee, who shall come from the following sectors:
+
+(a) Fisheries;
+
+(b) Women;
+
+(c) Youth;
+
+(d) Religious;
+
+(e) Civil society organizations;
+
+(f) Agriculture;
+
+(g) Local government officials;
+
+(h) Business;
+
+(i) Education;
+
+(j) Government-owned and controlled corporations whose operations are affected by the implementation of this Act, including the National Power Corporation; and
+
+(k) Other sectors as may be determined by the Board.
+
+**CHAPTER IX**
+**PROHIBITIONS AND PENALTIES**
+
+**Section 31. Grave Offenses.** The following shall be considered as grave offenses under this Act and shall incur administrative and criminal liabilities:
+
+(a) Poaching, killing, destroying, or disturbing any wildlife including in private lands within the Lake Lanao Area;
+
+(b) Cutting, gathering, removing, or collecting of planted trees or timber within the Lake Lanao Area including private lands therein, without the necessary permit, authorization, certification or exemption. Provided, that the Management Plan may identify specific zones where cutting of trees in accordance with duly-recognized traditional practices for subsistence purposes shall not be punished;
+
+(c) Possessing or transporting outside the Lake Lanao Area any timber, forest products, wildlife, or by-products derived therefrom which are ascertained to have been taken from the Lake Lanao Area, other than exotic species the culling of which has been authorized under an appropriate permit;
+
+(d) Using any fishing or harvesting gear and practices or any of their variations that destroys the Lake Lanao Area ecosystem as may be determined by the Authority in accordance with relevant laws; Provided, that mere possession of such gears within a protected area shall be *prima facie* evidence of their use;
+
+(e) Dumping, throwing, using, or causing to be dumped into or placing in the Lake Lanao Area of any toxic chemical, noxious or poisonous substance or nonbiodegradable material, untreated sewage or animal waste or products whether in liquid, solid or gas state, including pesticides and other hazardous substances as defined under Republic Act No. 6969, otherwise known as the “Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990” detrimental to the Lake Lanao Area, or to the plants and animals or inhabitants therein;
+
+(f) Engaging in “kaingin” or, in any manner, causing forest fires inside the Lake Lanao Area;
+
+(g) Mutilating, defacing, destroying, excavating, vandalizing or, in any manner damaging any natural formation, religious, spiritual, historical sites, artifacts and other objects of natural beauty, scenic value, or of cultural interest;
+
+(h) Establishing or introducing exotic species, including GMOs or invasive alien species, within the Lake Lanao Area, in violation of rules and standards established in the Management Plan; and
+
+(i) Prospecting, hunting, or otherwise locating hidden treasure within the Lake Lanao Area in violation of rules and standards established by the Management Plan.
+
+(j) Undertaking mineral exploration or extraction within zones in the Lake Lanao Area where it is prohibited or restricted, in accordance with the Management Plan; and
+
+(k) Engaging in commercial or large-scale quarrying within zones in the Lake Lanao Area where it is prohibited or restricted, in accordance with the Management Plan.
+
+For the first offense, the Authority shall conduct summary administrative proceedings. Upon a summary finding of administrative liability, the offender shall be subject to an administrative fine in an amount not less than Five Hundred Thousand Pesos (₱500,000.00) but not more than Five Million Pesos (₱5,000,000.00). The imposition of administrative penalties under this section shall not preclude the Authority from exercising its rights to take necessary actions for the preservation of the lake, as provided in Section 21 of this Act.
+
+For the second and subsequent offenses, criminal liability shall attach. Upon conviction by a court of competent jurisdiction, the offender shall be subject to imprisonment for a period of not less than six (6) years and one (1) day but not more than twelve (12) years, and/or a fine equivalent to three times the administrative fine previously imposed.
+
+**Section 32. Less Grave Offenses.** The following shall be considered as less grave offenses under this Act and shall incur administrative and criminal liabilities:
+
+(a) Operating in the Lake Lanao Area without obtaining an Environmental Compliance Certificate or any other required permits and licenses from the proper authorities;
+
+(b) Violating the environmental compliance standards as set by the Authority;
+
+(c) Hunting, taking, collecting, or possessing any wildlife, or by-products derived therefrom, including in private lands within the Lake Lanao Area without the necessary permit, authorization, or exemption. Provided, that the Authority may grant authorization or exemption only for culling, scientific research, the exemptions provided under Section 27(a) of Republic Act No. 9147 (Wildlife Resources, Conservation and Protection Act), or harvests of non-protected species in multiple-use zones by tenured migrants and indigenous peoples;
+
+(d) Possessing or using blasting caps or explosives anywhere within the Lake Lanao Area;
+
+(e) Altering, removing, destroying, or defacing boundary marks or signs;
+
+(f) Damaging and leaving roads and trails in damaged condition;
+
+(g) Littering or depositing refuse or debris on the ground or in bodies of water;
+
+(h) Occupying or dwelling in any public land within the Lake Lanao Area identified in the Management Plan without clearance from the Authority or other competent agencies;
+
+(i) Constructing, erecting, or maintaining any kind of structure, fence or enclosure, conducting any business enterprise within the Lake Lanao Area without prior clearance from the Authority and permit from the Ministry of Environment, Natural Resources, and Energy, or conducting these activities in a manner that is inconsistent with the Management Plan duly approved by the Authority;
+
+(j) Conducting bioprospecting within the Lake Lanao Area without prior clearance from the Authority in accordance with existing guidelines. Provided, that in addition to the penalty provided herein, any commercial use of any substance derived from non-permitted bioprospecting within a protected area will not be allowed and all revenue earned from illegal commercialization thereof shall be forfeited and deposited in favor of the Authority.
+
+For the first offense, the Authority shall conduct summary administrative proceedings. Upon a summary finding of administrative liability by the Authority, the offender shall be liable to pay an administrative fine of fifty thousand pesos (₱50,000) to five hundred thousand pesos (₱500,000). The imposition of administrative penalties under this section shall not preclude the Authority from exercising its rights to take necessary actions for the preservation of the lake, as provided in Section 21 of this Act.
+
+For the second and subsequent offenses, criminal liability shall attach. Upon conviction by a court of competent jurisdiction, the offender shall suffer the penalty of imprisonment of not less than six (6) months and one day to not more six (6) years and/or a fine equivalent to twice the amount of administrative fine.
+
+**Section 33. Power to Compromise.** The Authority shall have the power to enter into compromises, amicable settlements, or other agreements with respondents in administrative cases filed under this Chapter, under reasonable terms that must include the respondent’s obligation to repair and restore the natural environment when the subject violation caused pollution or other effects inimical to the rhythm and harmony of nature. These compromises, amicable settlements, or other agreements shall have no direct effect on pending criminal cases; but these shall be duly considered by the relevant prosecution offices and courts in accordance with the relevant laws and procedural rules.
+
+**Section 34. Transparency and Accountability in Enforcement.** The Authority shall ensure transparency and public accountability in the enforcement of Sections 33 to 35 by:
+
+a. Annual Reporting: Submitting annual reports to the Board and making them publicly available, detailing enforcement activities, including the number and details of cases, compromise agreements, penalties imposed, and funds collected.
+
+b. Public Access: Establishing a process for public information requests related to enforcement activities and responding promptly.
+
+**CHAPTER X**
+**TRANSITORY PROVISIONS**
+
+**Section 35. Separability Clause.** If any part or provision of this Act shall be declared unconstitutional, the other parts or provisions hereof which are not affected thereby shall continue in full force and effect.
+
+**Section 36. Repealing Clause.** The Muslim Mindanao Autonomy Act 93 is hereby repealed. All other laws, decrees, orders, rules, and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+**Section 37. Effectivity.** This Act shall take effect fifteen (15) days after its publication in a newspaper of regional circulation.
+
+Approved:
+
+(Signed)
+**ABDULRAOF A. MACACUA**
+Chief Minister
+
+***
