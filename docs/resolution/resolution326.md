@@ -1,0 +1,47 @@
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Bangsamoro Government Center, Cotabato City
+
+**FIRST REGULAR SESSION**
+
+**RESOLUTION NO. 326**
+
+**RESOLUTION REQUESTING THE SUPREME COURT OF THE PHILIPPINES TO CREATE A COMMITTEE ON *SHARI’AH* BAR INTEGRATION TO CONSIDER THE ADOPTION OF THE DRAFT RULES INTEGRATING THE PHILIPPINE *SHARI’AH* BAR PURSUANT TO SECTION 15, ARTICLE X OF REPUBLIC ACT NO. 11054 OR THE ORGANIC LAW FOR THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**WHEREAS**, under Section 15, Article X of Republic Act No. 11054 or the “*Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao*,” the Supreme Court may adopt the rules for the integration of the *Shari’ah* Bar under such conditions as it shall see fit in order to raise the standards of the profession and improve the administration of justice in the Bangsamoro Autonomous Region;
+
+**WHEREAS**, following the history of the integration process of the Philippine Bar in 1970, wherein the Supreme Court of the Philippines adopted a Resolution creating a Commission on Bar Integration, there is reason in requesting the Supreme Court to replicate the said process for purposes of organizing and integrating the Philippine *Shari’ah* Bar;
+
+**WHEREAS**, in view of the several existing *Shari’ah* Counselors’ groups and associations in the Philippines, the Bangsamoro Attorney General’s Office, together with The Asia Foundation, organized activities aimed at uniting said groups and associations and pushing for the integration of the Philippine *Shari’ah* Bar;
+
+**WHEREAS**, the ever-growing strong nationwide sentiment in favor of *Shari’ah* Bar integration is recognized;
+
+**WHEREAS**, between 2019 and 2021, a series of consultation and writeshop activities involving members of the Philippine Special *Shari’ah* Bar were conducted all over the country to collectively draft Rules to integrate the Philippine *Shari’ah* Bar, for consideration of the Supreme Court of the Philippines;
+
+**WHEREAS**, the draft Rules is an outcome of baseline research and detailed study of Rule 139-A of the Rules of Court, including all comments and/or opinions expressed during the consultation series;
+
+**WHEREAS**, the Bangsamoro Transition Authority (BTA) Parliament joins the entire *Shari’ah* Counselor’s population across the country in seeking that the Honorable Supreme Court ordain the integration of the Philippine *Shari’ah* Bar through the creation of a Committee on *Shari’ah* Bar Integration and the eventual adoption and promulgation of an appropriate Court Rule:
+
+**NOW, THEREFORE**, be it
+
+**RESOLVED**, as it is hereby resolved, by the BTA Parliament, To request the Supreme Court of the Philippines to create a Committee on *Shari’ah* Bar Integration for purposes of organizing and integrating the Philippine *Shari’ah* Bar.
+
+**RESOLVED, FURTHER**, To request the Supreme Court of the Philippines to consider the adoption of the draft Rules Integrating the Philippine *Shari’ah* Bar, as drafted by *Shari’ah* Counselors all over the country.
+
+**RESOLVED, FINALLY**, To forward the foregoing Resolution and endorse the draft Rules to the Supreme Court of the Philippines for consideration, adoption and promulgation.
+
+**ADOPTED**, *Sha’ban* 29, 1444/March 21, 2023.
+
+Certified Correct:
+(sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested:
+(sgd.)
+**ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
+/PR49
