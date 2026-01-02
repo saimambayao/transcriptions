@@ -1,0 +1,160 @@
+Republic of the Philippines
+**BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Parliament Bill No. **376**
+
+Introduced by:
+**MP ROMEO K. SEMA, DPA, ABDULKARIM T. MISUARI, NURREDHA I. MISUARI, SARIPUDDIN D. JIKIRI, RANDOLPH C. PARCASIO**
+
+Co-authors:
+**ABDULBASIT R. BENITO**
+
+**AN ACT ESTABLISHING THE BANGSAMORO ENTERPRISE SUPPORT CORPORATION (BESC)**
+
+**EXPLANATORY NOTE**
+
+Micro, Small, and Medium Enterprises (MSMEs) form the backbone of the Philippine economy. Nationwide, they account for 99.59% of all business establishments, employing over 62.4% of the country’s workforce, and contributing 36% to the Gross Domestic Product (GDP).¹ In the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), MSMEs likewise play a vital role in local livelihood, particularly in agriculture, trade, crafts, and halal-related industries. However, their potential remains largely untapped due to persistent structural challenges such as limited access to finance, market linkages, infrastructure, and business development services. This is all further compounded by a history of conflict, geographic isolation, and deep-rooted poverty.
+
+Despite various national efforts to strengthen MSMEs including programs under the Small Business Corporation (SB Corp.), the financing arm of the Department of Trade and Industry, Bangsamoro-based enterprises continue to face difficulty accessing capital, particularly Shari’ah-compliant financial services that align with the Islamic values of the majority population in the region. As of 2024, the Philippine Statistics Authority noted that BARMM had the lowest number of registered enterprises per capita compared to all other regions.²
+
+It is within this context that this proposed measure seeks to create the Bangsamoro Enterprise Support Corporation (BESC). The corporation will be a regional counterpart of the SB Corporation but with a mandate tailored to the unique cultural, religious, and socio-economic context of BARMM. The Corporation shall function as a government-owned and controlled corporation (GOCC) of the Bangsamoro Government and under the policy and administrative supervision of the Ministry of Trade, Investments, and Tourism (MTIT).
+
+The primary objectives of the BESC shall include, but not be limited to:
+
+a) Designing and offering Shari’ah-compliant financing and loan products such as Murabaha, Ijara, Mudarabah, Qard Hasan, and Tawarruq;
+
+b) Providing capacity development, technical assistance, and entrepreneurial education to MSMEs, particularly in marginalized and post-conflict communities;
+
+c) Facilitating market access, digitization, and halal certification to enable competitiveness in local and international markets;
+
+d) Coordinating with national and regional agencies, development partners, and Islamic finance institutions to expand support systems for MSMEs in BARMM;
+
+e) Supporting women entrepreneurs, youth-led enterprises, and cooperatives through targeted financing and mentorship programs;
+
+f) Promoting inclusive and sustainable economic growth, peacebuilding, and self-reliance among the Bangsamoro people.
+
+More than an economic initiative, the creation of the Bangsamoro Enterprise Support Corporation is an intervention to preserve the peace and development in the region. A strong and inclusive MSME sector generates employment and offers a pathway out of poverty for thousands of Bangsamoro families. In a region still healing from conflict and displacement, empowering small businesses is also empowering communities.
+
+Through this legislative measure, it is sought to institutionalize a shariah-compliant financing corporation that reflects the distinct economic and cultural context of the region.
+
+(Signed)
+**MP ROMEO K. SEMA, DPA**
+Member of the Parliament
+
+***
+
+¹ Micro, small, and medium enterprises. (n.d.). https://serp-p.pids.gov.ph/feature/public/index view?feauredtype_id=1&slug=micro-small-and-medium-enterprises
+² Department of Trade and Industry. (2024, November 22). MSME Statistics | Department of Trade and Industry Philippines. Department of Trade and Industry Philippines. https://www.dti.gov.ph/resources/msme-statistics/
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao Assembled:*
+
+**SECTION 1. Title.** This shall be known as "Bangsamoro Enterprise Support Corporation Act".
+
+**SEC. 2. Declaration of Policy.** It is the policy of the Bangsamoro Government to recognize, promote, protect and support the development of cooperatives and other medium and small enterprises for the economic growth region through strengthening its access of halal resources and shariah-compliant support services.
+
+**SEC. 3. Creation of Bangsamoro Enterprise Support Corporation.** There is hereby created a financing body corporate to be known as Bangsamoro Enterprise Support Corporation, hereinafter referred to as the "Corporation" which shall be governed by the provisions of this law. The Corporation shall provide shariah-compliant financing programs for Micro, Small, and Medium enterprises in the Bangsamoro region and coordinate with Small Business Corporation and other national agencies for the implementation of their related financing programs for Bangsamoro MSMEs.
+
+**SEC. 4. Principal Office and Provincial Offices.** The principal office of the Corporation shall be in Cotabato City. It shall also establish satellite provincial offices in Basilan, Lanao del Sur, Maguindanao del Sur, Tawi-Tawi, and Special Geographic Areas. The Corporation may also establish additional branches, subsidiaries, offices, or agencies in towns or municipalities within each province for the attainment of the objectives of this act.
+
+**SEC. 5. Objectives.** The Corporation shall have the following objectives:
+
+a. To promote the commercial development of the Bangsamoro region by institutionalizing access to halal and shari’ah compliant financial services and programs for MSMEs in the Bangsamoro Region.
+b. To strengthen the capacity and competitiveness of MSMEs in the region by facilitating training, capacity development, and technology adoption of MSMEs in BARMM.
+c. To foster a culture of entrepreneurship and innovation in BARMM.
+d. To collaborate with relevant institutions both in the public and private sector for the implementation of programs that promote MSME sustainability and resiliency.
+e. To contribute to economic self-sufficiency in the Bangsamoro region by promoting MSME-led job creation and livelihood opportunities.
+
+**SEC. 6. Definition of Terms.** For purposes of this Act, the following terms shall be defined as follows:
+
+a. **MSMEs** refer to Micro, Small and Medium Enterprises. A micro enterprise is defined as a business with an asset size not exceeding ₱3,000,000 and employing 1 to 9 workers. A small enterprise has an asset size ranging from ₱3,000,001 to ₱15,000,000 and employs 10 to 99 workers. A medium enterprise possesses assets ranging from ₱15,000,001 to ₱100,000,000 and employs 100 to 199 workers.
+b. **Small Business Corporation or SBC** refers to the government financial institution created under Republic Act No. 6977, as amended by RA No. 8289 and RA No. 9501, to provide financing and credit guarantee assistance to MSMEs. SB Corp operates under the supervision of the Department of Trade and Industry (DTI).
+c. **Borrowers** refer to MSMEs that are availing of the services under this program.
+d. **MTIT** refers to the Ministry of Trade, Investments, and Tourism of the Bangsamoro Government, created pursuant to the authority granted under Article VI, Section 8 of Republic Act No. 11054 (Bangsamoro Organic Law), and further organized under the Bangsamoro Administrative Code, to lead in formulating and implementing policies and programs on trade, investment promotion, MSME development, and tourism within the Bangsamoro Autonomous Region.
+e. **Bangsamoro MSMEs** refer to MSMEs that are registered and operating in BARMM.
+
+**SEC. 7. Powers and Functions of the Corporation.** The Corporation shall exercise the following powers and perform functions:
+
+a. To succeed on its corporate name, with the power of succession;
+b. To sue and be sued in such corporate name;
+c. To adopt, alter, and use a corporate seal, which shall be judicially noticed;
+d. To undertake the programs and projects specified or envisioned under Section 5 hereof.
+e. To make contracts of any kind and description to enable it to discharge its functions and attain the objectives *provided* in this Act.
+f. To adopt, amend and repeal its by-laws
+g. To acquire, lease or hold such personal and real property as it deems necessary or convenient in the transaction of its business and to lease out, mortgage, sell, alienate or otherwise dispose any such personal and real property held by it.
+h. To engage or invest in or extend, loans and guarantees to, or enter, into joint ventures with Filipino and foreign investors as it may deem proper, and necessary or contributory to the objectives of this Act;
+i. To charge and collect fees dues or other charges at reasonable rates for such services and/or facilities that may be *provided* by the Corporation;
+j. To design and implement Shari’ah-compliant lending programs and financial instruments that support the capital needs of qualified Bangsamoro MSMEs.
+k. To develop and offer a range of innovative, ethical, and Shari’ah-compliant financing products tailored to the diverse requirements of entrepreneurs in the region.
+l. To determine the basic qualification requirements of its borrowers;
+m. To conduct regular capacity-building programs, including financial literacy, business planning, and compliance training for MSMEs, cooperatives, and community-based enterprises.
+n. To promote an entrepreneurial mindset across the Bangsamoro by supporting grassroots innovation, facilitating startup incubation, and launching incentive-driven programs targeting aspiring business owners.
+o. To coordinate and collaborate with national government agencies, such as the Small Business Corporation (SB Corp.), and other development institutions for the implementation and localization of MSME-related programs and projects within the Bangsamoro Autonomous Region.
+p. To establish and maintain a centralized MSME database and knowledge platform to support evidence-based policymaking, resource allocation, and impact monitoring.
+q. To facilitate access to domestic and international halal markets by helping MSMEs comply with halal certification standards, product quality benchmarks, and export requirements.
+r. To support climate-resilient and sustainable business practices by integrating green financing models and encouraging environmentally responsible entrepreneurship.
+s. To ensure financial inclusion by reaching underserved areas and vulnerable sectors, including women-led businesses, internally displaced persons (IDPs), and communities affected by conflict.
+t. To promote synergies between Islamic finance institutions, cooperatives, and local government units for the development of sustainable MSME ecosystems across the Bangsamoro region.
+
+**SEC. 8. Financing Features and Shari’ah Compliance.** All loans or financial facilities extended to micro, small, and medium enterprises (MSMEs) in the Bangsamoro Autonomous Region under this program shall strictly adhere to Shari’ah principles and shall be governed by the following features:
+
+a) The financing shall be free from interest (riba) and shall not accrue any form of usurious gain;
+b) Financing arrangements shall utilize Islamic financial structures such as, but not limited to, *Murabaha* (cost-plus financing), *Ijara* (leasing), *Mudarabah* (profit-sharing), *Tawarruq* (commodity-based financing), or *Qard Hasan* (benevolent loan), as may be deemed appropriate;
+c) Investments or proceeds shall not be directed to or derived from industries or activities prohibited (haram) under Islamic law, including but not limited to alcohol, pork, gambling, and conventional interest-based financial instruments;
+d) A reasonable and transparent service fee may be imposed to cover administrative and operational costs;
+e) Repayment shall be limited to the principal amount extended, and no interest income shall accrue or be collected by SB Corp. or any other implementing agency involved in the program.
+
+**SEC. 9. Capital Stock.** The Corporation shall have an authorized capital stock of Five Hundred Million Pesos (Php 500,000,000.00) the amount to be partially subscrived and paid the Bangsamoro Government, to be appropriated out of any funds in the Bangsamoro Treasury not otherwise appropriated.
+
+**SEC. 10.. Operating Expenses.** - There is hereby appropriated the sum of Ninety Million Pesos to be provided in the following Bangsamoro Appropriations Act to cover the operating expenses of the Corporation.
+
+**SEC. 11. Board of Directors.** - The affairs and business of the Corporation shall be exercised by a Board of Directors, hereinafter referred to as the Board, consisting of eleven (11) members who are as follows:
+
+a. Minister of Ministry of Trade, Investment, and Tourism as the Chairperson;
+b. President of the Bangsamoro Enterprise Corporation to be appointed by the Chief Minister;
+c. Minister of Ministry of Finance and Budget Management;
+d. Bangsamoro Grand Mufti;
+e. Five (5) representatives from the Bangsamoro Government to be appointed by the Chief Minister;
+f. Two (2) representatives from private major common shareholders elected based on proportional distribution;
+
+**SEC. 12. Shariah Advisory Council.** The Board of Directors shall form and establish a Shari’ah Advisory Council composed of qualified Islamic jurists and scholars to ensure full compliance with Islamic finance principles in all its operations and decisions. The Corporation may extend such allowances to the members so designated in such amount as may be approved by the Board.
+
+**SEC. 13. Organizational Structure.** The Board of Directors shall determine the organization structure of the Corporation, the staffing pattern and pay scales of its officers and employees. The Board may create and/or abolish divisions, units, branches, or agencies therein, as the exigencies of the affairs of the Corporation may require.
+
+**SEC. 14. Corporate President.** The Corporation shall have a President to be appointed by the Chief Minister and who shall be the Chief Executive and ex-office Vice Chairman of the Board of Directors.
+
+**SEC. 15. Powers and Functions of the Corporate President; Compensation of the President.** The President shall have the following powers, duties, and responsibilities:
+
+a. To submit to the Board for consideration policies and measures which, in his judgment, are necessary to carry out the purposes and provisions of this Act.
+b. To prepare the budget of the Corporation for approval of the Board.
+c. To execute and administer the policies and measures approved by the Board.
+d. To direct and supervise the operations and internal administration of the Corporation. He or she may delegate certain administrative responsibilities to other officers of the Corporation subject to the rules and regulations of the Board.
+e. To appoint all employees of the Corporation except the heads of departments and divisions whose appointments shall be made by the Board of Directors upon his/her recommendations; and to remove, dismiss or otherwise discipline for cause, such employees in accordance with the standard guidelines for recruitment, employment and discipline of personnel which shall be enacted by the Board.
+f. To represent the Corporation in all dealings with other offices, agencies and instrumentalities of the Government and with all persons and. entities, public or private.
+g. Subject to the approval of the Board, to determine the rates of compensation, allowances, honoraria and such other additional compensation which the Corporation is hereby authorized to grant its officers, technical staff and consultants, including the necessary detailed personnel;
+h. To exercise such other powers as nay be vested in him/her by the Board.
+
+The Administrator shall have a Salary Grade 28.
+
+**SEC. 16. Merit System.** All officials and employees of the Corporation shall be selected and appointed on the basis of merit and fitness in accordance with the comprehensive and progressive merit system to be established by the Board and in accordance with Civil Service law, rules, and regulations. The recruitment, transfer, promotion, and dismissal of all its personnel, including temporary workers shall be governed by such merit system.
+
+**SEC. 17. Relationship with Ministry of Trade, Investment, and Tourism.** The Corporation shall be an attached agency to the MTIT. As such, the Corporation shall be under the direct supervision of MTIT. Its lateral relationship with MTIT shall be through the representation of the Minister of MTIT in its Board of Directors as the Chairperson.
+
+**SEC. 18. Institutional Relationship with Small Business Corporation.** The Corporation shall coordinate with, consult, and may implement the programs and services of SBC in the Bangsamoro region through a mutually executed agreement. It may enter into co-financing or cooperation agreements, *provided* that the said financial services are attune to shariah values. Subject to such agreements, the Corporation may serve as the administrative arm of the Small Business Corporation in the Bangsamoro region for promoting, marketing, and advertising their *falah* financing programs for Muslims and among other programs for MSME financing that are shariah-compliant.
+
+**SEC. 19. Transitory Provision.** While the Board of Directors is not yet constituted, the MTIT shall discharge the powers and functions of the Corporation upon the effectivity of this Act. The MTIT shall partner with the Small Business Corporation and other financing institutions for MSMEs and bridge the qualified borrowers to SBC and other financing institutions.
+
+**SEC. 20. Applicability of the Corporation Law.** The provisions of the Revised Corporation Code shall be made applicable to the operations of the Corporation insofar as they are not inconsistent with this law.
+
+**SEC. 21. By Laws and Rules and Regulations.** The Board of Directors shall adopt the Corporate By-Laws to implement the provisions of this Decree and shall take effect upon approval by the Minister of MTIT.
+
+**SEC. 22. Separability Clause.** If any provision of this Act is declared unconstitutional or invalid, the remaining provisions shall remain in full force and effect.
+
+**SEC. 23. Effectivity Clause.** This Act shall take effect after 15 days of complete publication in the Bangsamoro Gazette or news of regional circulation.
+
+Approved
+
