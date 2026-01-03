@@ -1,0 +1,101 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+Parliament Bill No. **303**
+
+Introduced by
+**MP JAMEL B. MACACUA**
+
+Co-authored by
+**Members of Parliament Abdulaziz M. Amenoden, Mohammad Kelie U. Antao, Suharto S. Esmael, Hatimil Hassan, Albakil D. Jikiri, Faizal G. Karon, Hamid U. Malik, Don Mustapha A. Loong, Hamid Malik, Michael E. Midtimbang. Tawakal B. Midtimbang, Nurredha J. Misuari, Atty. Suwaib L. Oranon, Nabila Margarita P. Pangandaman, and Ali B. Solaiman**
+
+**AN ACT DECLARING A TWO-DAY HOLIDAY DURING EID’L FITR IN THE BANGSAMORO REGION**
+
+**EXPLANATORY NOTE**
+
+“Sawm, fasting during the holy month of Ramadan, is the fourth pillar of Islam. Ordained in the Holy Qur'an, the fast is an act of deep personal worship in which Muslims seek a richer perception of God. Ramadhan, the month during which the Holy Qur'an was revealed to the Prophet Muhammad, begins with the sighting of the new moon, after which abstention from eating and drinking is obligatory from dawn to sunset. Ramadan is also a joyful month. Muslims break their fast at sunset with a special meal, iftar, perform additional nocturnal worship, tarawih, after evening prayer; and throng the streets in moods that are festive and communal. The end of Ramadan is observed by three days of celebration called Eid’l Fitr, the feast of the breaking of the fast. Customarily, **it is a time for family reunion** and the favored holiday for children who receive new clothing and gifts.”¹
+
+The Bangsamoro Region is home to a significant Muslim population who observe the holy month of Ramadhan with reverence, devotion, and fasting. As part of religious customs, Muslims celebrate Eid’l Fitr, marking the end of Ramadhan, as one of the most important festivals in Islam.
+
+Presidential Decree No. 1083 recognizes Eid’l Fitr as an official Muslim holiday in the Philippines. However, the declaration of Eid’l Fitr as a holiday is dependent on the moonsighting on the evening of the 29th day of Ramadhan, leading to instances where the celebration does not align with the national holiday declared by the government. This discrepancy poses challenges for employees who are mandated to report to their workplaces during Eid’l Fitr, thereby undermining the intent and effectiveness of the existing law. Thus, the submission of this bill.
+
+Enshrined under Section 5, Article VII, of Republic Act No. 11054, or the Bangsamoro Organic Law, the Bangsamoro Parliament shall have the power to enact laws declaring Bangsamoro holidays.
+
+Recognizing the cultural and religious significance of Ramadhan and Eid’l Fitr to the Muslim community in the Bangsamoro Region, the proposed bill seeks to address the issue by declaring the last day of Ramadhan and the first day of Shawal as special non-working holidays. By enacting this legislation, the Bangsamoro government will provide predictability and consistency in the celebration of Eid’l Fitr, ensuring that Muslim employees in the region can observe this important religious festival without hindrance or conflict with work obligations.
+
+This bill underscores the government's commitment to respecting the religious diversity and practices of Muslims in the Bangsamoro Region, guaranteeing that their rights to observe and celebrate their religious traditions are upheld and protected.
+
+(Sgd.)
+**HON. JAMEL B. MACACUA**
+Member of Parliament – Bangsamoro Transition Authority
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+Parliament Bill No. **303**
+
+Introduced by
+**MP JAMEL B. MACACUA**
+
+Co-authored by
+**Members of Parliament Abdulaziz M. Amenoden, Mohammad Kelie U. Antao, Suharto S. Esmael, Hatimil Hassan, Albakil D. Jikiri, Faizal G. Karon, Hamid U. Malik, Don Mustapha A. Loong, Hamid Malik, Michael E. Midtimbang. Tawakal B. Midtimbang, Nurredha J. Misuari, Atty. Suwaib L. Oranon, Nabila Margarita P. Pangandaman, and Ali B. Solaiman**
+
+**AN ACT DECLARING A TWO-DAY HOLIDAY DURING EID’L FITR IN THE BANGSAMORO REGION**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** This act shall be known as the “Eid’l Fitr Act of 2024.”
+
+**SECTION 2. Declaration of Policy and Principles.** The celebration of Eid’l Fitr shall be recognized as one of the significant events to be commemorated in the Bangsamoro region.
+
+The unfixed dates of Eid’l Fitr shall not affect the usual business transactions of all government offices and agencies, as well as private entities. As such, the Bangsamoro government shall devise a mechanism that fixes the number of days of the commemoration of Eid’l Fitr based on the Hijri calendar.
+
+**SECTION 3. Definition of Terms.** For purposes of this act, the following terms shall be defined as follows:
+
+a. **Eid’l Fitr** – refers to the celebration and commemoration of Muslims after the end of the Month of Ramadhan.
+
+b. **Moonsighting** – refers to the act of sighting the crescent of the new moon to declare the end of the month, such as Ramadhan, once the same has been sighted.
+
+c. **Ramadhan** – refers to the ninth (9th) month of the Muslim calendar, observed by the Muslims as a month of fasting.
+
+d. **Shawwal** – refers to the tenth (10th) month of the Muslim Calendar.
+
+**SECTION 4. Holidays during Eil Fitr.** Should the crescent of the moon been sighted on the evening of the 29th day of Ramadhan, the next two (2) days immediately following the 29th day of Ramadhan, which are the first (1st) and second (2nd) days of the tenth lunar month of Shawwal, shall be declared holidays for the commemoration of Eid’l Fitr.
+
+In the event that the crescent of the moon has not been sighted on the evening of the 29th day of Ramadhan, the next two (2) days immediately following the 30th day of Ramadhan, which are the first (1st) and second (2nd) days of the tenth lunar month of Shawwal, shall be declared holidays for the commemoration of Eid’l Fitr.
+
+**SECTION 6. Coverage.** The two (2)-day holiday during the commemoration of Eid’l Fitr shall be observed in the entire Bangsamoro region.
+
+**SECTION 7. Separability Clause.** If any provisions or part of this Act is declared invalid or unconstitutional or contrary to the provisions of the national laws, the remaining provisions not affected shall remain in full force and effect.
+
+**SECTION 8. Repealing Clause.** All Bangsamoro laws, decrees, orders, rules, and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 9. Effectivity.** This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+APPROVED,
+
+Author:
+(Sgd.)
+**HON. JAMEL B. MACACUA**
+Member of Parliament - Bangsamoro Transition Authority
+
+Certified Correct:
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
+¹ https://www.saudiembassy.net/five-pillars-islam#:~:text=Sawm%2C%20fasting%20during%20the%20holy,the%20sufferings%20of%20the%20poor.
+
