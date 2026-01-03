@@ -1,0 +1,130 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+
+**Second Regular Session**
+
+**Parliament Bill No. 321**
+
+Introduced by Hon. Omar Yasser C. Sema
+
+**AN ACT ESTABLISHING THE BANGSAMORO LEGISLATIVE ACADEMY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+The establishment of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) has heralded a new era of self-governance and legislative independence for the Bangsamoro people. With this newfound autonomy comes the significant responsibility of crafting laws and policies that reflect the unique needs and aspirations of the region. To fulfill this mandate effectively, it is imperative that members and staff of the Bangsamoro Parliament are equipped with the necessary skills, knowledge, and competencies in the field of legislative work.
+
+The proposed Act to establish the Bangsamoro Legislative Academy (BLA) is designed to address this critical need. The BLA will serve as the primary institution for legislative education, research, and training in BARMM, thereby enhancing the legislative capacity and effectiveness of the Bangsamoro Parliament.
+
+Effective lawmaking requires a deep understanding of legislative processes, parliamentary procedures, and policy analysis. The BLA will provide comprehensive training programs that will equip members and staff of the Bangsamoro Parliament with the skills and knowledge needed to draft, analyze, and enact quality legislation that promotes good governance and addresses the region's unique challenges.
+
+Legislative work is dynamic and continuously evolving. The BLA will offer continuous education programs that ensure members and staff of the Bangsamoro Parliament remain up-to-date with the latest developments in legislative practices and governance. This will include workshops, seminars, and conferences on various legislative and policy issues.
+
+In addition to training, the BLA will conduct research and policy studies on legislative practices and governance. This will provide valuable insights and data to support the legislative work of the Bangsamoro Parliament and help in the formulation of evidence-based policies.
+
+By enhancing the legislative capabilities of the Bangsamoro Parliament, the BLA will contribute to the promotion of good governance, transparency, and accountability in BARMM. Well-trained legislators and staff are essential for the effective oversight of the executive branch and for ensuring that laws are implemented efficiently and justly.
+
+The BLA will foster collaboration with local and international academic institutions, research organizations, and civil society organizations. These partnerships will enhance the quality of the Academy’s training and research programs and promote the exchange of best practices in legislative work.
+
+The establishment of the Bangsamoro Legislative Academy is, therefore, a strategic initiative that will significantly enhance the legislative capacity of the Bangsamoro Parliament. By providing continuous training, conducting research, and fostering partnerships, the BLA will contribute to the development of a competent and effective legislative body in BARMM. This, in turn, will promote good governance, accountability, and the overall progress and development of the Bangsamoro region.
+
+In light of the above, the immediate passage of this Act is earnestly sought.
+
+(Sgd.)
+**Hon. Omar Yasser C. Sema**
+Deputy Speaker
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+
+**Second Regular Session**
+
+**Parliament Bill No. 321**
+
+Introduced by Hon. Omar Yasser C. Sema
+
+**AN ACT ESTABLISHING THE BANGSAMORO LEGISLATIVE ACADEMY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+**Chapter I: General Provisions**
+
+**Section 1. Title.** - This Act shall be known as the "Bangsamoro Legislative Academy Act."
+
+**Sect. 2. Declaration of Policy.** - It is the policy of the Bangsamoro Government to enhance the legislative capacity and effectiveness of the Bangsamoro Parliament by providing continuous training and development programs for its members and staff. This Act aims to establish the Bangsamoro Legislative Academy to serve as the primary institution for legislative education, research, and training in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+**Sect. 3. Objectives.** - The objectives of this Act are:
+
+(a) To provide comprehensive training programs for members and staff of the Bangsamoro Parliament;
+(b) To conduct research and studies on legislative practices and procedures;
+(c) To promote legislative excellence and good governance; and
+(d) To enhance the legislative skills and knowledge of elected officials and parliamentary staff.
+
+**Chapter II: Establishment and Structure**
+
+**Sect. 4. Establishment of the Bangsamoro Legislative Academy.** - There is hereby established a Bangsamoro Legislative Academy (BLA), which shall serve as the primary institution for legislative education, research, and training in BARMM.
+
+**Sect. 5. Governance and Administration.** - The BLA shall be governed by a Board of Trustees, which shall be composed of the following members:
+
+(a) The Speaker of the Bangsamoro Parliament, who shall serve as the Chairperson;
+(b) The Deputy Speakers of the Bangsamoro Parliament;
+(c) The Minister of Basic, Higher, and Technical Education (MBHTE);
+(d) Representative from the Civil Service Commission;
+(e) Two (2) representatives from academic institutions within BARMM; and
+(f) Two (2) representatives from civil society organizations within BARMM.
+
+The day-to-day operations of the BLA shall be managed by a Director General, who shall be appointed by the Board of Trustees. The Director General shall have a fixed term of three (3) years and may be reappointed for one additional term.
+
+**Sect. 6. Organizational Structure.** - The BLA shall have the following divisions:
+
+(a) **Training and Development Division:** Responsible for designing and implementing training programs for members and staff of the Bangsamoro Parliament;
+(b) **Research and Publications Division:** Conducts research and produces publications on legislative practices, procedures, and governance; and
+(c) **Administrative and Finance Division:** Manages the administrative and financial affairs of the Academy.
+
+**Chapter III: Functions and Responsibilities**
+
+**Sect. 7. Training and Development Programs.** - The BLA shall design and implement training and development programs aimed at enhancing the legislative skills and knowledge of members and staff of the Bangsamoro Parliament. These programs may include:
+
+(a) Orientation programs for newly elected members of the Bangsamoro Parliament;
+(b) Continuing education programs on legislative drafting, parliamentary procedures, and governance; and
+(c) Workshops and seminars on specific legislative issues and policy areas.
+
+**Sect. 8. Research and Studies.** - The BLA shall conduct research and studies on legislative practices, procedures, and governance to support the legislative work of the Bangsamoro Parliament. The results of these studies shall be disseminated through publications, seminars, and conferences.
+
+**Sect. 9. Collaboration and Partnerships.** - The BLA shall collaborate with local and international academic institutions, research organizations, and civil society organizations to enhance its training and research programs. The BLA may also enter into partnerships and agreements with these institutions to promote legislative excellence and good governance.
+
+**Chapter IV: Funding and Appropriations**
+
+**Sect. 10. Funding.** - The funds necessary for the establishment and operation of the BLA shall be included in the annual budget of the Bangsamoro Government. The BLA may also receive grants, donations, and contributions from local and international sources.
+
+**Sect. 11. Appropriations.** - The initial funding of the amount of Ten Million Pesos (P10,000,000) for the establishment of the BLA shall be sourced from the current appropriations of the Bangsamoro Parliament. Thereafter, the necessary funds for its continued operation shall be included in the annual budget of the Bangsamoro Parliament.
+
+**Chapter V: Monitoring and Evaluation**
+
+**Sect. 12. Monitoring and Evaluation System.** - The BLA shall establish a monitoring and evaluation system to assess the effectiveness and impact of its training and research programs. The results of these evaluations shall be used to improve the Academy's programs and services.
+
+**Sect. 13. Annual Report.** - The BLA shall submit an annual report to the Bangsamoro Parliament on its activities, accomplishments, and financial status. The report shall also include recommendations for improving legislative practices and procedures in BARMM.
+
+**Chapter VI: Final Provisions**
+
+**Sect. 14. Implementing Rules and Regulations.** - The Board of Trustees shall promulgate the necessary rules and regulations for the effective implementation of this Act within ninety (90) days from its effectivity.
+
+**Sect. 15. Separability Clause.** - If any provision of this Act is declared unconstitutional or invalid, the remaining provisions shall continue to be in full force and effect.
+
+**Sect. 16. Repealing Clause.** - All regional laws, decrees, orders, rules, and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+**Sect. 17. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Approved,
+
+(Sgd.)
+**Hon. Omar Yasser C. Sema**
+Deputy Speaker
+
