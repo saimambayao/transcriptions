@@ -1,0 +1,60 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+Proposed Bill No. **281**
+
+Introduced by:
+**MP ABDULLAH B. HASHIM**
+
+Co-Authors:
+**MP DR. SUSANA S. ANAYATIN, MP NABILA MARGARITA P. PANGANDAMAN, MP MUDJIB C. ABU, MP MOSBER E. ALAUDDIN, MP FAIZAL G. KARON, MP ALI O. SALIK, MP ABDULLAH G. MACAPAAR, MP TAWAKAL B. MIDTIMBANG, MP ALI B. SOLAIMAN, MP ABDULWAHAB M. PAK, MP IBRAHIM D. ALI, MP AMROUSSI A. MACATANONG, MP LANANG T. JR., MP RAMON A. PIANG, MP ALI MONTAHA D. BABAO, MP DENMARTIN A. KAHALAN, MP DIAMILA D. RAMOS, MP MOHAMMAD KELIE U. ANTAO, MP SAID M. SHIEK, MP TARHATA M. MAGLANGIT, MP ABDULLAH E. GAYAK, MP MICHAEL E. MIDTIMBANG, MP HUSSEIN P. MUNOZ, MP EDDIE M. ALIH, MP BAI MALEHA B. CANDAO, MP ABDULAZIZ M. AMENODEN, MP SUHARTO S. ESMAEL, MP MARJANIE S. MIMBANTAS, MP AIDA M. SILONGAN**
+
+**AN ACT GRANTING BEREAVEMENT LEAVE TO ALL EMPLOYEES IN THE PRIVATE AND PUBLIC SECTORS WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Bangsamoro Parliament in session assembled:*
+
+**SEC. 1. Short Title.** – This Act shall be known as the “*Bangsamoro Bereavement Leave Act of 2024*”.
+
+**SEC. 2. Declaration of State Policy.** – It is the policy of the Bangsamoro Government to exercise the power expressly granted, those necessary, appropriate, or incidental for its efficient and effective governance and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things improve public morals and promote full employment and preserve the comfort of its habitants. Towards the end, the Bangsamoro Government recognizing the unique and societal aspects of the time of bereavement, fostering a workplace culture that values the well-being of its people.
+
+**SEC. 3. Bereavement Leave.** – (a) Under this Act, employees in the private and public sectors within the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) shall be entitled to a bereavement leave of five (5) working days with full pay following the death of an employee’s immediate family member to grieve, attend to or make arrangements for the funeral.
+(b) An immediate family member refers to the employee’s spouse, parents, or child, brother or sister.
+(c) The employer may request reasonable documentation, such as death certificate or obituary, to support the request for bereavement leave.
+
+**SEC. 4. Non-diminution of Benefits.** – Nothing in this Act shall be construed to reduce existing benefits granted under existing laws, decrees, executive orders, or any contract, agreement, or policy between the employer and employee.
+
+**SEC. 5. Security of Tenure.** – Employees in the private and public sectors who avail of the bereavement leave provided under this Act shall be assured of security of tenure. Availment of the leave shall not be used as reason for misconduct, demotion, or termination in employment, or for any form of unsatisfactory performance.
+
+**SEC. 6. Penalties.** – Any persons, corporation, trust, firm, partnership, association, or entity found violating this act or the implementing rules and regulations promulgated thereunder shall be punished by a fine not exceeding Fifteen thousand pesos (Php 15,000.00).
+
+If the violation is committed by a corporation, trust or firm, partnership, association or any other entity, the penalty of imprisonment shall be imposed on the entity’s responsible officers including but not limited to, the president, vice president, chief officer general manager, managing director or partner directly responsible therefor.
+
+**SEC. 7. Implementing Rules and Regulations.** – The Ministry of Labor and Employment and the Bangsamoro Civil Service Commission, for the private and public sectors, respectively, shall issue the necessary rules and regulations of this Act within thirty (30) days from its effectivity.
+
+**SEC. 8. Separability Clause.** – If, for any reason, any part, section or provision of this Act is held invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in full force and effect.
+
+**SEC. 9. Repealing Clause.** – All laws, decrees, orders, rules, regulations and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly. Republic Act No. 1161, as amended, is further amended accordingly.
+
+**SEC. 10. Effectivity.** – This Act shall take effect fifteen (15) days after its publication in the newspaper of regional circulation.
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**ABDULLAH B. HASHIM**
+Member of Parliament
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
