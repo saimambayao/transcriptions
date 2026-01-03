@@ -92,3 +92,108 @@ The Committee shall operate independently, guided by the principles of fairness,
 
 **SECTION 8. Standard of Excellence.** – The Bangsamoro Book Excellence Recognition and Incentive Committee, in identifying books with excellent merit, shall establish a comprehensive standard of excellence, considering originality, creativity, and literary craftsmanship, as well as their relevance to the Bangsamoro people, ethical and moral integrity, the potential to inspire reflection, impact, and contribution to the advancement of Bangsamoro literature, accessibility to a wide audience, and national and international recognitions. This standard of excellence shall serve as a guiding framework, recognizing the evolving nature of the literary landscape. Furthermore, this standard of excellence is without prejudice to any additional standards that the Committee may adopt in the future to further enhance the recognition and promotion of book excellence in the region.
 
+**SECTION 9. Regularity of Awarding.** – The inaugural awarding ceremony shall be held the year following the effectivity of the Implementing Rules and Regulations (IRR), with subsequent awards recurring every three years thereafter.
+
+**SECTION 10. Report to the Bangsamoro Parliament.** – The Bangsamoro Book Excellence Recognition and Incentive Committee shall submit a report to the Parliament after one year from the implementation of this Act and every after one month following the conduct of the awarding ceremony.
+
+**SECTION 11. Appropriations.** – The amount necessary to carry out the provisions of this Act shall be included in the budget of the Office of the Chief Minister in the Bangsamoro Annual General Appropriations Act. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the GAA for BARMM.
+
+**SECTION 12. Implementing Rules And Regulations.** – Within ninety (90) days from the approval of this Act, the Office of the Chief Minister and the Ministry of Basic, Higher, and Technical Education shall formulate the Implementing Rules and Regulations (IRR) necessary for the effective implementation of this Act.
+
+**SECTION 13. Separability Clause.** – If any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected shall remain in full force and effect.
+
+**SECTION 14. Repealing Clause.** – All laws, decrees, orders, rules, and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 15. Effectivity.** – This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+**APPROVED,**
+
+Author:
+
+(Sgd.)
+**HON. MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, MPM, CESE**
+
+Co-authors:
+
+**HON. MP ATTY. LAISA A. ALAMIA**
+
+**HON. MP ENGR. BAINTAN A. AMPATUAN**
+
+**HON. MP ATTY. RASOL Y. MITMUG, Jr.**
+
+**HON. MP AMILBAHAR S. MAWALLIL**
+
+**HON. MP ATTY. SUHARTO M. AMBOLODTO**
+
+**HON. MP RASUL E. ISMAEL**
+
+**HON. MP BENJAMIN T. LOONG**
+
+**HON. MP ATTY. JOSE I. LORENA**
+
+**HON. MP HATIMIL E. HASSAN**
+
+**HON. MP EDDIE M. ALIH**
+
+**HON. MP MICHAEL MIDTIMBANG**
+
+**HON. MP MOHAMMAD KELIE U. ANTAO**
+
+**HON. MP TAWAKAL B. MIDTIMBANG**
+
+**HON. MP NUREEDHA I. MISUARI**
+
+**HON. MP DAN S. ASNAWIE**
+
+**HON. MP ABDULAZIZ M. AMENODEN**
+
+**HON. MP DENMARTIN A. KAHALAN**
+
+**HON. MP DR. KADIL M. SINOLINDING, Jr.**
+
+**HON. MP DR. MARJANIE S. MACASALONG**
+
+**HON. MP ALI MONTAHA D. BABAO**
+
+**HON. MP ABDULWAHAB M. PAK**
+
+**HON. MP RAMON A. PIANG, Sr.**
+
+**HON. MP ALI B. SOLAIMAN**
+
+**HON. MP ABDULKARIM T. MISUARI**
+
+**HON. MP NABILA MARGARITA P. PANGANDAMAN**
+
+**HON. MP MUDJIB C. ABU**
+
+**HON. MP AMROUSSI A. MACATANONG**
+
+**HON. MP BASIT S. ABBAS**
+
+**HON. MP ATTY. NABIL A. TAN**
+
+**HON. MP HAMID U. MALIK**
+
+**HON. MP BAI MALEIHA B. CANDAO**
+
+**HON. MP TARHATA M. MAGLANGIT**
+
+**HON. MP JAAFAR APOLLO MIKHAIL L. MATALAM**
+
+
+Certified Correct:
+
+
+**PROF. RABY B. ANGKAL**
+*Secretary General*
+
+
+Attested:
+
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+*Speaker*
+
+***
+
