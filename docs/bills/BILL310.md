@@ -1,0 +1,160 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+
+BTA PARLIAMENT
+Third Regular Session
+
+**BILL NO. 310**
+
+Authored by: **MP Ali B. Sangki**
+
+Be it enacted by the Bangsamoro Transition Authority-Parliament in session assembled:
+
+**AN ACT PROVIDING LEGAL FRAMEWORK FOR THE HARMONIZATION AND IMPLEMENTATION OF PERTINENT LAWS AND POLICIES RELEVANT TO THE CONSERVATION AND MANAGEMENT OF THE RESOURCES OF LIGUASAN MARSH, CREATING FOR THE PURPOSE THE LIGUASAN MARSH MANAGEMENT COMMISSION (LMMC), ALLOCATING FUNDS THEREFOR, AND FOR OTHER PURPOSE.**
+
+**Article I**
+
+**General Provision**
+
+**Section 1. Title**-This act shall be known and cited as Liguasan Marsh Management Commission” or LigMarsh Act of 2021.
+
+**Section 2. Declaration of Policy**- The Bangsamoro Government shall develop a comprehensive framework for sustainable development through the proper conservation, utilization and development of natural resources, which shall guide it in adopting program and policy mechanisms that focus on the environmental dimensions of social and economic interventions. It shall include measures for environmental justice and governance, as well as for the reduction of vulnerability of women and marginalized groups to climate change and vulnerability, Section 3 of Art. XIII, R.A. 11054 entitled “Comprehensive Framework for Sustainable Development”.
+
+**Section 3. Definition of Terms**- As used in this Act, the following definitions shall apply to the following terms:
+
+**Climate Risk Takatul**- is a new innovative product/service facility. It seeks to incentivize the pioneering and incubation of alternative Islamic financing facilities and business model that will cater to the financially excluded and vulnerable Islamic (and non-Islamic) entrepreneurs in the climate sensitive agriculture-Forestry-Forestry (AFF) and AFF MSE Business Value Chain operating in the BARMM and the East ASEAN Region.
+
+**Climate Change Adaptation Plan**- As defined under R.A. 9729 otherwise known as the Climate Change Act of 2009, allows mainstreaming of climate change into government formulation of programs and projects, plans and strategies, and policies, creation of climate change commission, and establishment of Framework Strategy and Program for climate change.
+
+**SEC. 3. Creation**- Pursuant to Section 9, Article XIII of RA 11054 otherwise known as the Bangsamoro Organic Law, which states:
+
+"that the management and protection of natural reserves and aquatic parks, forest, watersheds and reservation and other protected areas in the territorial jurisdiction of the Bangsamoro that have already been defined by and under the authority of the National Government shall be transferred to the Bangsamoro Government",
+
+Pursuant thereof, there is hereby created the **Liguasan Marsh Management Commission** hereinafter referred to in this Act as the **“Commission”** which shall be under the office of the Chief Minister of the Bangsamoro Autonomous Government, subject to the criteria that shall be prescribed under Section 2, Article VI, entitled “Intergovernmental Relations Mechanism” (**IGRM**) as provided under RA 11054. The Commission shall be composed of three (3) Commissioners, one (1) for Operation, one (1) for Finance and Administration, and one (1) for Planning, Policy and Research.
+
+**SEC 4. Aims and Purposes**- the aims and purposes of the **“Commission”** are the following:
+
+*   To provide the overall direction for the management, development and conservation of the natural and cultural resources within the Liguasan Marsh, thereby ensuring that local communities would continue to benefit from resources on long term basis. It will also formulate plan to enhance community and stakeholder share of responsibility in the management of the area.
+
+*   To operationalize a management framework delineating appropriate and viable management zones for various parts of the Marsh.
+
+*   To serve as the leading technical coordinating agency in the crafting of the Bangsamoro Regional Comprehensive Climate change Adaptation Plans (BRCCC-AP) to cover the whole areas of the Cotabato River Basin.
+
+*   To harmonize and ensure implementation of all pertinent laws and policies relevant to the conservation and management of Liguasan Marsh including but not limited to the following: **National Integrated Protected Area System (NIPAS) R.A. 7586, the Local government Code of the Philippines, R.A. 7160, Indigenous Peoples Right Act (IPRA Law) R.A.8371, Wildlife Resources Conservation and Protection Act No. 9147, Agriculture and Fishery Modernization Act R.A. 8435, Revised Forestry Code of the Philippines R.A. 7161, The Philippines Fishery Code of the 1998, R.A. 8550, The Philippine Environment Impact Assessment Act, PD 1586, the Bangsamoro Organic Law, R.A.11054;**
+
+*   In line with the establishment of Economic Zone in the Marsh, the Office shall create an Area Growth Centre within the vicinity of the Marsh that will host various economic enterprises, livelihood support-infrastructures, socio-cultural development interventions with matching enabling policies and programs to benefits the former combatants and indigenous communities. It shall develop strategies and measures to promote the economic and eco-tourism potentials of the area to attract investments.
+
+**Article II**
+
+**Governing Structure, Composition, Qualification and Appointment**
+
+**Section 1. The Liguasan Marsh Management Board** - There shall be a Management Board created to be composed of the following:
+
+1. The Minister of Environment and Natural Resources as Chairman.
+
+2. The Provincial Governor of Maguindanao as the Vice Chairman
+
+3. The Minister of Finance- Member
+
+4. The Minister of Trade, Investment and Tourism- Member
+
+5. The Minister of Interior and Local Government-Member
+
+6. The Minister of Agriculture, Fishery and Agrarian Reform-Member
+
+7. The Minister of Public Work
+
+8. The Director General of the Commission- Member
+
+9. One (1) representative from the Environment Advocate Organization
+
+10. One (1) representative from the Liguasan Marsh private local community Stakeholders
+
+**Section 2. General Powers and Function of the Board** - The Board shall have the following functions:
+
+1. Set the general policies on the establishment and operation of all activities, programs and undertakings of the Commission.
+
+2. Review and approved proposals for establishment of any industries, business and environmental programs and projects that will be undertaken in the area.
+
+3. Regulate and undertake the operation and management of facilities, buildings, services, biosystem facilities and other infrastructures.
+
+4. Issue guidelines, rules and regulations for accreditation and registration scheme on all applications for business and industrial permits, gas exploration, eco-tourism, agri-business, fishery and other livelihood programs and projects.
+
+4. Approve the Development Plan of the Commission.
+
+5. Issue rules and regulations to implement the provisions of this Bill, and
+
+6. Render annual reports to the Chief Minister
+
+**Section 2. The Executive Director**- The Commission shall be headed by an Executive Director who shall be appointed by the Chief Minister whose term of office shall be fixed in accordance with the Bangsamoro Civil Service rules and regulation. He/She exercise the following functions:
+
+*   Execute the policies and programs of the Commission and shall be responsible for the efficient and effective day-to-day management and operation of the office;
+
+*   He/She shall recommends to the Chief Minister, for approval, the Budget of the Commission, its staffing pattern, position classification and compensation scheme, and appointment of its personnel subject to laws, rules and regulations;
+
+**Section 3. The Deputy Executive Director**- There shall be appointed a Deputy Executive Director who shall assist the Executive Director in his official duties and functions. His term of office shall be the same with that of the Executive Director.
+
+Chunk Complete. Ready for next group of provisions starting at Article II, Section 4.
+
+***
+
+**Section 4. Qualifications and Appointment**- No person shall be appointed as Executive Director or Deputy Executive Director unless he or she possesses the following qualifications:
+
+*   A citizen of the Philippines and a resident and registered voters of the Bangsamoro Autonomous Region in Muslim Mindanao for at least five (5) years prior to appointment.
+
+*   At least (25) years of age on the day of his/her appointment;
+
+*   Must have comprehensive knowledge and understanding on issues, policies, and programs related to climate change adaptation, food security, poverty, and other socio-economic and environmental issues particularly those that impact on the preservation, protection and livelihood in the Liguasan Marsh.
+
+*   The appointment of the Executive Director, Deputy Executive Director and personnel shall be subject to the rules, regulation and laws as provided for under the Bangsamoro Civil Service and other pertinent laws.
+
+**Section 5. Compensation**- The Executive Director shall receive an annual compensation of Seven Hundred Fifty Thousand Pesos (750,000.00), while the Commissioners shall each receive an annual compensation of ‘Six Hundred Sixty Thousand Pesos (660,000.00). Such salaries are subject to across-the-border increase and adjustment as may be allowed by the law and existing rules and regulations. In addition, each shall be entitled to all benefits and privileges corresponding to their respective positions as may be authorized by the law.
+
+**Article III**
+
+**Powers and Functions of the Commission**
+
+**Section 7. Powers and Functions of the Commission**- The Office shall be vested with the following power and functions:
+
+*   Through the harmonization of laws, policies, rules, governing projects and business undertakings in the area and in coordination with the Ministry of Environment and Natural Resources, the Commission shall exercise regulatory and oversight powers over all activities related to Sustainable Development, other development interventions, businesses, and investments.
+
+*   Through the Inter-governmental Relation Mechanism and in collaboration with other stakeholders, formulate the Cotabato River basin Climate Change adaptation Plan and other Environmental Risk Management Plan. Toward this end, the Commission shall conduct extensive consultation, research and surveys to determine the Biodiversity and the watershed condition in the Marsh.
+
+*   Formulate enabling environment, policies and programs to trigger development interventions and economic enterprises activities in the area in line with the development plan enshrined in the Bangsamoro Development Plan and national program;
+
+*   Conduct scooping mission in the Middle East countries and other nations to invite investments into the area on energy, eco-tourism, agri-fishery business and other environmental-friendly Socio-economic ventures such as the development of Industrial Hub and Growth Centers;
+
+*   Represent the Bangsamoro Autonomous Government in regional, national and international conferences on Climate change and other Environmental events.
+
+*   Establish collaboration in developing and piloting a climate Risk Takatul for Agriculture-Forestry-Fishery Micro-Small-Medium Enterprise Value Chain in the area to be a major component of Food Security Program as mandated under the Bangsamoro Development Plan.
+
+*   Identify possible projects that has high social impact and employment opportunities under the Integrated Area Development Strategy and or under the BARMM special Development Fund;
+
+*   Actively pursue Food Security Program by spearheading negotiations with various Sovereign Wealth Funds from the Middle east to infuse and partake in the implementation and execution of Program;
+
+*   Coordinate with other sectors and stakeholders on program related to communal development;
+
+*   Recommend to the Chief Minister to request Malacañang for issuance of Executive Order authorizing the Bangsamoro Autonomous Government to trigger exploration of the natural resources in the Marsh so as to spur economic growth in the region;
+
+*   To perform all other functions and powers as may be necessary to accomplish the goals and objectives of this Act.
+
+**Section 8. Staff**- The Commission shall be supported by specialized skilled personnel in development planning, education and trainings, administrative and finance with allowable extended staff of at least twenty-five (25) members, without prejudice to employment of additional personnel when the need may arise.
+
+**Section 9. Coordination**- The Commission shall coordinate closely with all the Local Government units in the perimeter areas of the Bangsamoro River Basin and to some regional line agencies, such as: Ministry of Trade and Industry, Ministry of Social Welfare and Development, Ministry of Agriculture and Fisheries, Ministry of Agrarian Reform, Cooperative Development Authority, and to all other Government Concern agencies, NGO’s and Peoples Organizations for all programs and strategies it may undertake and design to uplift and advance the welfare and other basic needs of the people in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**Section 10. Source of Funds**- For the initial organization and operation of the Commission, the sum of One Hundred Fifty Million Pesos (150,000,000.00) shall be funded out of the un-appropriated portion of the local funds of the Bangsamoro Autonomous Government or from any other funds of the Bangsamoro Autonomous Government. The Commission shall likewise be authorized to solicit and generate any form of assistance from other organizations and international donors to augment its funding requirements.
+
+**Section 11. Audit**- All financial transactions accounts and expenditures of the Commission shall be subjected to existing accounting and auditing rules as provided in the R.A. No. 11054 otherwise known as Bangsamoro Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao and other existing laws.
+
+**Section 12. Separability Clause**- If any part or section or provision hereof shall be declared invalid or unconstitutional, the other provision thereof not affected by such declaration shall remain in full force and effect.
+
+**Section 13. Effectivity**- This Act shall take effect upon publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**APPROVED**,
+
+Author:
+(Sgd.)
+**ALI B. SANGKI**
+MEMBER OF PARLIAMENT
+
