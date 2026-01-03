@@ -1,0 +1,124 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **298**
+
+Introduced by
+**Members of Parliament JAMEL B. MACACUA, EDDIE M. ALIH, and DR. KADIL M. SINOLINDING, JR.**
+
+Co-authored by
+**Members of Parliament Susana S. Anayatin, Abdulaziz M. Amenoden, Mohammad Kelie U. Antao, Dan S. Asnawie, Suharto Esmael, Abdullah B. Hashim, Rasul E. Ismael, Alkabil D. Jakiri, Don Mustapha A. Loong, Michael E. Midtimbang, Tawakal B. Midtimbang, Nurredha J. Misuari, and Nabila Margarita P. Pangandaman**
+
+**AN ACT INSTITUTIONALIZING THE FLEXTIME OF WORK HOURS DURING THE HIJRI CALENDAR MONTH OF RAMADHAN FOR ALL DEPARTMENTS, BUREAUS, AND AGENCIES, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS WITH ORIGINAL CHARTERS; AND STATE UNIVERSITIES AND COLLEGES IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**EXPLANATORY NOTE**
+
+Ramadhan, the ninth month of the Muslim calendar, is one of the most sacred times for Muslims. It is the month in which it is believed that the Holy Qur'an was sent down from heaven "as a guidance for men and women, a declaration of direction, and a means of salvation." During this month, Muslims observe a strict fast from dawn until sunset. 
+
+The month of Ramadhan is widely observed and celebrated in the Bangsamoro Region. Muslims of all social and economic standing participate in this period of fasting, prayer, reflection, and community — government servants are no exemption. Despite the long working hours and busy schedules, they put effort into honoring these sacred religious practices.
+
+Every year, the Office of the Chief Minister issues a Memorandum Circular covering the modified working hours of officials and employees during the month of Ramadhan. The MC only reiterates what Section 3 of Presidential Decree No. 322, dated October 26, 1973, has already established — that during the fasting season on the month of Ramadhan, all Muslim employees in the national government, government-owned or controlled corporations, provinces, cities, municipalities, and other instrumentalities shall observe officer hours from seven-thirty in the morning (7:30 a.m.) to three-thirty in the afternoon (3:30 p.m.).
+
+In pursuit of recognizing and preserving customary practices, the Bangsamoro Government must seek ways to solidify these practices into law in order to protect the interests of the Bangsamoro people. And thus, the submission of this bill.
+
+The Flextime Act aims to avoid redundancy and perpetuate relevant and appropriate work arrangements for government officials and employees to ensure efficient and effective performance of governmental functions, and delivery of public services while accommodating religious and customary practices, and without compromising the normal working hours.
+
+The Flextime Act is a fair and just policy that ensures equal opportunity for everyone, regardless of their religion or group affiliation. Its implementation is based on the principle of inclusivity and non-discrimination, which makes it a vital step towards creating a more harmonious and tolerant society.
+
+(Sgd.)
+**JAMEL B. MACACUA**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**EDDIE M. ALIH**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**DR. KADIL M. SINOLINDING, JR.**
+Member of Parliament – Bangsamoro Transition Authority
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **298**
+
+Introduced by
+**Members of Parliament JAMEL B. MACACUA, EDDIE M. ALIH, and DR. KADIL M. SINOLINDING, JR.**
+
+Co-authored by
+**Members of Parliament Susana S. Anayatin, Abdulaziz M. Amenoden, Mohammad Kelie U. Antao, Dan S. Asnawie, Suharto Esmael, Abdullah B. Hashim, Rasul E. Ismael, Alkabil D. Jakiri, Don Mustapha A. Loong, Michael E. Midtimbang, Tawakal B. Midtimbang, Nurredha J. Misuari, and Nabila Margarita P. Pangandaman**
+
+**AN ACT INSTITUTIONALIZING THE FLEXTIME OF WORK HOURS DURING THE HIJRI CALENDAR MONTH OF RAMADHAN FOR ALL DEPARTMENTS, BUREAUS, AND AGENCIES, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS WITH ORIGINAL CHARTERS; AND STATE UNIVERSITIES AND COLLEGES IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+*Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:*
+
+**SECTION 1. Short Title.** This act shall be known as the “FLEXIBLE WORKING HOURS DURING THE MONTH OF RAMADHAN”.
+
+**SECTION 2. Declaration of Policy and Principles.** The Bangsamoro Autonomous Region in Muslim Mindanao government adopts the principle of Moral Governance in the discharge of its mandates. This is to provide a quality, honest, efficient, and credible service for the Bangsamoro people.
+
+To ensure the delivery of immense public service for the Bangsamoro people, the health, safety, and welfare of the Bangsamoro officials and employees must be given paramount consideration. Thus, the policies of flexible working hours during the Hijri Calendar month of Ramadhan are established to institutionalize relevant and appropriate work arrangements for Bangsamoro government officials and employees who perform fasting for the whole duration of the said month.
+
+**SECTION 3. Definition of Terms.** For purposes of this act, the following terms shall be defined as follows:
+
+a. **Bangsamoro Government** – refers to all Departments, Bureaus, and Agencies, Local Government Units, Government-Owned or Controlled Corporations with original charters; and State Universities and Colleges in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+b. **Flextime** – refers to a work arrangement where the agency is allowed to adopt flexible working hours for government officials and employees: *Provided, That* the required forty (40) hours workweek is complied with.
+
+c. **Muslim Officials and Employees** – refers to those Bangsamoro government officials who perform fasting during the period of Ramadhan.
+
+d. **Ramadhan** – refers to the month in the Hijri calendar wherein Muslims perform fasting.
+
+**SECTION 4. Scope and Coverage.** The flextime provided in this act shall be exclusive to the Muslim officials and employees of the Bangsamoro government, regardless of their status and nature of appointment.
+
+**SECTION 5. Flextime During Ramadhan.** – Each year’s month of Ramadhan, the Bangsamoro government shall adopt flextime that is suitable for their respective governmental functions.
+
+The standard flextime to be adopted shall be 7:30 a.m. to 3:30 p.m.: *Provided, That* the exigency of the government service shall not be affected.
+
+Any Bangsamoro government, with governmental functions not suitable for the provided standard flextime, may provide their respective flextime that will maintain the effectiveness and efficiency of public service of the concerned office or agency.
+
+**SECTION 6. Implementing Rules and Regulations.** All agencies and offices within the scope of this Act shall promulgate rules and regulations on flextime, to be adopted by their respective agency and offices, within 90 days from the effectivity of this Act.
+
+**SECTION 7. Separability Clause.** If any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected shall remain in full force and effect.
+
+**SECTION 8. Repealing Clause.** All laws, decrees, orders, rules, and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 9. Effectivity.** This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+APPROVED,
+
+Authors:
+
+(Sgd.)
+**HON. MP JAMEL B. MACACUA**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**HON. MP EDDIE M. ALIH**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**HON. MP KADIL M. SINOLINDING, JR., MD**
+Member of Parliament – Bangsamoro Transition Authority
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
