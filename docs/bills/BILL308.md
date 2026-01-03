@@ -1,0 +1,70 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+**SECOND PARLIAMENT**
+Third Regular Session
+Proposed Bill No. **308**
+
+Introduced by:
+**MP ABDULLAH B. HASHIM**
+
+Co-Authors:
+**MP ABDULLAH E. GAYAK, MP SAID M. SHIEK, MP ALI MONTAHA D. BABAO, MP ABDULAZIZ M. AMENODEN, MP ALI O. SALIK, MP MOHAMMAD KELIE U. ANTAO, MP BASIT S. ABBAS, MP NABIL A. TAN, MP ALBAKIL D. JIKIRI, MP DAN S. ASNAWIE, MP LANANG T. ALI JR., MP MATARUL M. ESTINO, MP ABDULAWAHAB M. PAK, MP TAWAKAL B. MIDTIMBANG, MP SUSANA S. ANAYATIN, MP BAI MALEIHA B. CANDAO, MP MICHAEL E. MIDTIMBANG, MP MUDJIB C. ABU, MP DON MUSTAPHA A. LOONG, MP JAMEL B. MACACUA, MP ALI B. SOLAIMAN, MP ROMEO K. SEMA, MP NURREDHA I. MISUARI, and MP SUHARTO S. ESMAEL**
+
+**AN ACT PROVIDING ASSISTANCE FOR THE CORRECTION AND/OR CHANGE OF ENTRIES IN THE CIVIL REGISTER OF MUJAHIDEEN, AND APPROPRIATING FUNDS THEREFOR**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** – This Act shall be known as the “*Mujahideen Correction of Civil Register Entries Assistance Act of 2024*”.
+
+**SEC. 2. Declaration of Policy.** – It shall be the policy of the Bangsamoro government to ensure the provision of necessities and equal opportunities to its constituents. It shall promote social justice in all aspects of life and phases of development within the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). Towards this end, it shall devise mechanisms to integrate Bangsamoro Mujahideen to civilian life.
+
+**SEC. 3. Definition of Terms.** – For the purpose of this Act, the following terms shall be defined as follows:
+a. Civil Register – refers to the various registry books and related certificates and documents kept in the archives of the local civil registry offices, Philippine Consulates and of the Office of the Civil Registrar General, in which shall be entered: (a) births; (b) deaths; (c) marriages; (d) annulments of marriages; (e) divorces; (f) legitimations; (g) adoptions; (h) acknowledgement of natural children; (i) naturalization; and (j) changes of name, including those entered with the General Register of existing Sha’riah District and Circuit Registrars in the Philippines.
+b. Mujahideen – refers to legitimate member of Moro Islamic Liberation Front (MILF) and Moro National Liberation Front (MNLF) as attested by their Central Committees.
+
+**SEC. 4. Coverage.** – All Bangsamoro Mujahideen with the desire to correct and/or change their entries in their civil register are qualified to apply for assistance under this Act.
+
+This Act shall cover correction of entries in the civil register as provided for in Republic Act No. 9084 as amended by Republic Act No. 10172, Presidential Decree No. 1083, the Rules of Court, and other pertinent laws and issuances.
+
+For correction of entries under Presidential Decree No. 1083, it shall cover marriages, divorces, revocation of divorces, conversion and such other deeds or instrument kept by the registrar under this national law.
+
+**SEC. 5. Purpose.** – This Act shall extend the necessary administrative, legal, and financial assistance and support to qualified beneficiaries in correcting and/or changing entries on their respective civil register to the aforementioned offices in Section 3 (a) of this Act, including the necessary legal petition and representation to the appropriate courts, judicial, and/or quasi-judicial bodies.
+
+**SEC. 6. Period Covered.** – The administrative, legal, and financial assistance under this Act shall be for a period of five (5) years only after its effectivity unless extended by a new law.
+
+**SEC. 7. Ad hoc Office.** – The Office of the Chief Minister (OCM) shall organize an *ad hoc* office to execute the provisions of this Act. The OCM may hire necessary personnel to support the *ad hoc* office during the period of implementation of this regional law.
+
+The *ad hoc* office shall be responsible in screening, guiding, assisting and representing beneficiaries in the process of correction and/or changing entries in their respective civil register.
+
+The *ad hoc* office shall be under the full control and supervision of the OCM. It shall regularly update the OCM of their operations and accomplishments.
+
+**SEC. 8. Appropriations.** – The amount necessary to implement the provisions of this Act shall be included in the budget of the Office of the Chief Minister. Thereafter, any sums as may be necessary for the continued implementation of this Act shall be included in the General Appropriations Act of the Bangsamoro.
+
+**SEC. 9. Implementing Agency.** – Within ninety (90) days from the approval of this Act, the Office of the Chief Minister shall promulgate the Implementing Rules and Regulations of this Act to ensure the faithful and just execution of this regional law.
+
+**SEC. 10. Repealing Clause.** – All regional laws, decrees, orders, rules and regulations, other issuances, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SEC. 11. Separability Clause.** – If any provision of this Act is declared unconstitutional or invalid by a court of competent jurisdiction, all other parts or provisions not affected thereby shall continue to remain in full force and effect.
+
+**SEC. 12. Effectivity.** – This Act shall take effect fifteen days (15) after its complete publication in at least one (1) regional newspaper of general circulation.
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**ABDULLAH B. HASHIM**
+Member of Parliament
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**ATTY. PANGALIAN M. BALINDONG**
+Parliament Speaker
+
