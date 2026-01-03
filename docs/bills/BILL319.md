@@ -1,0 +1,129 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+
+**Second Regular Session**
+
+**Parliament Bill No. 319**
+
+Introduced by Hon. Omar Yasser C. Sema
+
+**AN ACT ESTABLISHING A COMPREHENSIVE LEGAL FRAMEWORK FOR THE REGISTRATION, REGULATION, AND SUPPORT OF CIVIL SOCIETY ORGANIZATIONS (CSOS) OPERATING WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**EXPLANATORY NOTE**
+
+The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) is an area endowed with rich cultural heritage and diverse communities. The establishment of BARMM has provided a unique opportunity to foster inclusive governance, social development, and human rights protection. Civil Society Organizations (CSOs) play a critical role in these efforts by promoting community participation, advocating for marginalized groups, and contributing to the development and implementation of policies.
+
+CSOs are instrumental in advancing social justice, promoting human rights, and supporting community development. Their grassroots presence and ability to mobilize resources make them essential partners in achieving the goals of BARMM. A legal framework will formally acknowledge their contributions and provide the necessary support to amplify their impact.
+
+While CSOs are crucial to development, it is essential to ensure that they operate with the highest standards of accountability and transparency. The proposed Act will establish mechanisms for the registration and accreditation of CSOs, ensuring that they adhere to good governance practices and are accountable to their stakeholders.
+
+Recognizing the significant contributions of CSOs, it is imperative to provide a comprehensive legal framework that facilitates their registration, regulation, and support. This framework will enhance their capacity to operate effectively and sustainably, ensuring that they can continue to play their vital role in the socio-economic development of BARMM.
+
+A structured framework will facilitate better collaboration between the Bangsamoro Government and CSOs. This collaboration is vital for the effective planning, implementation, and monitoring of development programs and policies. By providing clear guidelines and support mechanisms, the Act will strengthen partnerships and enhance the overall effectiveness of development initiatives in BARMM.
+
+Many CSOs face challenges related to capacity and funding. The proposed Act includes provisions for capacity-building programs and financial support, enabling CSOs to improve their organizational and operational capacities. This support will empower CSOs to undertake more significant initiatives and expand their reach and impact.
+
+The Act will ensure that all CSOs, regardless of their focus area, are treated equitably and that their programs are inclusive and non-discriminatory. This approach will foster a more inclusive and cohesive society, reflecting the diversity and unity of the Bangsamoro people.
+
+In fine, the establishment of a comprehensive legal framework for CSOs in BARMM is a strategic initiative that will enhance the capacity, accountability, and impact of these organizations. By facilitating their registration, regulation, and support, this Act will ensure that CSOs can continue to contribute meaningfully to the development and governance of BARMM. This, in turn, will promote a more inclusive, participatory, and equitable society in the region.
+
+In light of the above, the immediate passage of this Act is earnestly sought.
+
+(Sgd.)
+**Hon. Omar Yasser C. Sema**
+Deputy Speaker
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+
+**Second Regular Session**
+
+**Parliament Bill No. 319**
+
+Introduced by Hon. Omar Yasser C. Sema
+
+**AN ACT ESTABLISHING A COMPREHENSIVE LEGAL FRAMEWORK FOR THE REGISTRATION, REGULATION, AND SUPPORT OF CIVIL SOCIETY ORGANIZATIONS (CSOS) OPERATING WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**Chapter I: General Provisions**
+
+**Section 1. Short Title.** - This Act shall be known as the "Bangsamoro Civil Society Organizations Law of 2024."
+
+**Sect. 2. Declaration of Policy.** - It is the policy of the Bangsamoro Government to recognize, promote, and support the role of civil society organizations (CSOs) in fostering participatory governance, social development, and the protection of human rights in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+**Sect. 3. Objectives.** - The objectives of this Act are:
+
+(a) To facilitate the registration and accreditation of CSOs in BARMM;
+(b) To promote transparency, accountability, and good governance among CSOs;
+(c) To ensure the participation of CSOs in the planning, implementation, and monitoring of development programs and policies; and
+(d) To provide support and capacity-building opportunities for CSOs.
+
+**Chapter II: Definition of Terms**
+
+**Sect. 4. Definition of Terms.** - For the purposes of this Act, the following terms shall mean:
+
+(a) **Civil Society Organizations (CSOs):** Refers to non-governmental, non-profit organizations that operate independently from the government and are involved in various activities aimed at promoting social, cultural, economic, and environmental development;
+(b) **Bangsamoro Civil Society Organizations Registry (BCSOR):** A database maintained by the Bangsamoro Government containing the records of all registered CSOs in BARMM; and
+(c) **Accreditation:** The process by which a registered CSO is officially recognized by the Bangsamoro Government as meeting certain standards of operation and governance.
+
+**Chapter III: Registration and Accreditation**
+
+**Sect. 5. Registration of CSOs.** - All CSOs operating in BARMM shall register with the Bangsamoro Civil Society Organizations Registry (BCSOR), to be established under the Office of the Cabinet Secretary by submitting the required documents and information as prescribed by the implementing rules and regulations of this Act.
+
+The BCSOR shall issue a certificate of registration to CSOs that meet the registration requirements.
+
+**Sect. 6. Accreditation of CSOs.** - CSOs may apply for accreditation with the Office of the Cabinet Secretary to gain access to government support, funding, and participation in government programs. The accreditation process shall include an evaluation of the CSO’s governance structure, financial management, program implementation, and impact.
+
+**Chapter IV: Rights and Responsibilities of CSOs**
+
+**Sect. 7. Rights of CSOs.** - Duly registered and accredited CSOs shall have the following rights and privileges:
+
+(a) **Participation in Governance:** Accredited CSOs shall have the right to participate in the planning, implementation, and monitoring of development programs and policies in BARMM;
+(b) **Access to Information:** CSOs shall have the right to access public information necessary for their operations and advocacy work; and
+(c) **Government Support:** Accredited CSOs shall be eligible for financial and technical support from the Bangsamoro Government.
+
+**Sect. 8. Responsibilities of CSOs.** - Duly registered and accredited CSOs shall have the following responsibilities:
+
+(a) **Transparency and Accountability:** CSOs shall maintain transparent and accountable governance structures and practices, including regular reporting of their activities and finances to their members and stakeholders;
+(b) **Compliance with Laws:** CSOs shall comply with all applicable laws and regulations in BARMM; and
+(c) **Non-Discrimination:** CSOs shall operate on the principles of non-discrimination and inclusivity, ensuring that their programs and services are accessible to all segments of society.
+
+**Chapter V: Support and Capacity Building**
+
+**Sect. 9. Capacity Building and Technical Assistance.** - The Bangsamoro Government shall provide capacity-building programs and technical assistance to CSOs to enhance their organizational and operational capacities. Training programs may include topics such as project management, financial management, advocacy, and governance.
+
+**Sect. 10. Financial Support and Grants.** - The Bangsamoro Government shall establish a fund to provide financial support and grants to accredited CSOs for their programs and projects. The criteria and process for accessing these funds shall be outlined in the implementing rules and regulations of this Act.
+
+**Sect. 11. Tax Incentives.** - Accredited CSOs shall be entitled to tax incentives and exemptions as provided by existing laws and regulations.
+
+**Chapter VI: Monitoring and Evaluation**
+
+**Sect. 12. Monitoring and Evaluation System.** - The Bangsamoro Government, through the Office of the Cabinet Secretary shall establish a monitoring and evaluation system to assess the performance and impact of CSOs. Accredited CSOs shall submit regular reports on their activities, finances, and impact to the appropriate Bangsamoro Government agency.
+
+**Sect. 13. Annual Report.** - The Bangsamoro Government, through the Office of the Cabinet Secretary shall publish an annual report on the state of civil society in BARMM, highlighting the contributions and impact of CSOs in the region.
+
+**Chapter VII: Final Provisions**
+
+**Sect. 14. Implementing Rules and Regulations.** - The Office of the Cabinet Secretary shall promulgate the necessary rules and regulations for the effective implementation of this Act within ninety (90) days from its effectivity.
+
+**Sect. 15. Separability Clause.** - If any provision of this Act is declared unconstitutional or invalid, the remaining provisions shall continue to be in full force and effect.
+
+**Sect. 16. Repealing Clause.** - All laws, decrees, orders, rules, and regulations or parts thereof inconsistent with this Act are hereby repealed or modified accordingly.
+
+**Sect. 17. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Approved,
+
+(Sgd.)
+**Hon. Omar Yasser C. Sema**
+Deputy Speaker
+
