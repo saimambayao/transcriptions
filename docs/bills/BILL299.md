@@ -1,0 +1,115 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **299**
+
+Introduced by
+
+**Members of Parliament JAMEL B. MACACUA and EDDIE M. ALIH**
+
+Co-authored by
+**Members of Parliament Susana S. Anayatin, Abdulaziz M. Amenoden, Ali Montaha D. Babao, Suharto S. Esmael, Rasul E. Ismael, Hamid U. Malik, Atty. Lanang T. Ali, Jr., Don Mustapha A. Loong, Froilyn T. Mendoza, Michael E. Midtimbang. Nurredha J. Misuari, Atty. Rasol Y. Mitmug, Jr., Suwaib L. Oranon, Nabila Margarita P. Pangandaman, Diamila Disamban Ramos, and Ali B. Sangki,**
+
+**AN ACT PROVIDING FOR A MUSEUM EXCLUSIVELY EXHIBITING THE BANGSAMORO HISTORY TOWARDS AUTONOMY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+The term “cultural preservation” applies to tangible and intangible culture. Tangible culture comes up when discussing architecture, landscape, literature, art, and artifacts. Intangible culture refers to folklore, traditions, language, values, and knowledge. Many aspects of preservation safeguard tangible and intangible culture that no longer exists, or that have morphed and evolved into a different form. Yet, these concepts and accomplishments are historical building blocks to where we find ourselves now.¹
+
+The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) stands as a beacon of cultural diversity and historical significance, embodying the resilient spirit of a people striving for autonomy and self-determination. It is crucial to preserve and promote this history, particularly its journey towards autonomy, to foster understanding and appreciation among all Filipinos.
+
+Section 24, Article IX of Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law (BOL), states that the Bangsamoro Government shall preserve the history, culture, arts, traditions, and the rich cultural heritage of the Bangsamoro people.
+
+Moreover, the BOL also provides that within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, the preservation and enrichment of culture.
+
+To honor this legacy and promote a deeper understanding of the Bangsamoro's journey, this bill advocates for the establishment of a dedicated museum showcasing the rich history of the Bangsamoro towards autonomy. The museum will serve as a powerful tool for education and enlightenment, providing a platform to preserve and exhibit artifacts, documents, and narratives that chronicle the struggles, triumphs, and aspirations of the Bangsamoro people in their pursuit of self-determination and autonomy.
+
+The establishment of this museum is a testament to the Bangsamoro Government's commitment to respect and recognize the cultural and historical rights of the Bangsamoro people. It is a tangible expression of its dedication to promoting cultural understanding, preserving heritage, and fostering unity among all Filipinos, highlighting the sacrifices made by those persons who selflessly dedicated their whole lives to attain the autonomy currently enjoyed by the Bangsamoro people
+
+The passage of this bill is not only a gesture of respect towards the Bangsamoro people but also a crucial step towards building a more inclusive and culturally aware society. It is an investment in our shared history and a testament to our commitment to unity in diversity.
+
+(Sgd.)
+**HON. JAMEL B. MACACUA**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**HON. EDDIE M. ALIH**
+Member of Parliament – Bangsamoro Transition Authority
+
+¹ https://asianlegacylibrary.org/organization/mission/a-perspective-on-cultural-preservation/?gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xQJOUa5od0PAzzEnXah7blpvCr5GWdOKqawMx5bFoUo5pBOZNHbyk4aAhhWEALw_wcB
+
+**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
+
+***
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** This act shall be known as the “Bangsamoro Autonomy and Heritage Museum Act of 2024.”
+
+**SECTION 2. Declaration of Policy and Principles.** The Bangsamoro government shall provide a powerful tool for education and enlightenment, providing a platform to preserve and exhibit artifacts, documents, and narratives that chronicle the struggles, triumphs, and aspirations of the Bangsamoro people in their pursuit of self-determination and autonomy.
+
+The Bangsamoro government, through the establishment of a Museum that showcases the rich history of the Bangsamoro, shall honor the legacy of the people who played significant roles during the Bangsamoro struggle and promote a deeper understanding of the Bangsamoro's journey towards autonomy.
+
+a. **Bangsamoro Interim Government** – refers to the Bangsamoro government during the transition period, after the ratification of the Bangsamoro Organic Law in a plebiscite in 2019, until the assumption of newly elected Bangsamoro government officials in the 2025 election.
+b. **Bangsamoro Struggle** – refers to the political challenges resorted through both diplomatic and armed conflict, in pursuit of the Bangsamoro self-determination and autonomy.
+c. **Mujahideen/Mujahidat** – refers to the legitimate members (men and women), of MILF and MNLF duly certified by the Chair of their respective Central Committees.
+d. **Museum** – refers to a building where a large number of interesting and valuable objects, such as works of art or historical items, are kept, studied, and displayed to the public.
+
+**SECTION 4. Scope and Coverage.** The museum shall exclusively exhibit the artifacts, documents, and narratives relative to the Bangsamoro struggles that led to the autonomy such as, but not limited to the following:
+
+a. Books that contain the history of the Bangsamoro political groups that were created to fight for the Bangsamoro self-determination and autonomy;
+b. Original copies of the signed Comprehensive Agreement on the Bangsamoro (CAB), Bangsamoro Organic Law (BOL), and other available significant genuine documents;
+c. Photo gallery of those personalities who took significant roles in the Bangsamoro struggle, together with their respective contributions;
+d. Photo Gallery of the Bangsamoro Military camps, and other significant places of the Bangsamoro struggle;
+e. Exhibits of samples of actual unserviceable firearms used by the then Bangsamoro combatants;
+f. The list of Mujahideen/Mujahidat who fought for the Bangsamoro self-determination and autonomy;
+g. The list of Mujahideen/Mujahidat who sacrificed their lives in pursuit of the fight of the Bangsamoro for self-determination and autonomy; and
+h. Photo Gallery of the persons who took part in the operations of the Bangsamoro interim government such as the members of the Bangsamoro Transition Authority and other officials in the Executive branch.
+
+Further, the museum shall be guarded continuously by at least two (2) guards. The said guards shall wear the Bangsamoro Islamic Armed Forces (BIAF) tiger uniform.
+
+**SECTION 5. Appropriation.** The funds necessary for the implementation of this Act shall be charged against the annual appropriation of the Bangsamoro Government.
+
+The amount of Ten Million Pesos (Php 10,000,000.00) shall be appropriated to support the initial implementation of this Act upon its effectivity. Thereafter, the funds needed for the continued operation of the Museum shall be included in the annual General Appropriation Act of the Bangsamoro under the Bangsamoro Commission for the Preservation of Cultural Heritage (BCPCH).
+
+**SECTION 6. Implementing Rules and Regulations.** The Bangsamoro Commission for the Preservation of Cultural Heritage (BCPCH) shall promulgate and issue implementing rules and regulations for the successful implementation of this act upon its effectivity.
+
+**SECTION 7. Separability Clause.** If any provision of this Act is declared invalid or unconstitutional, the remaining provisions not affected shall remain in full force and effect.
+
+**SECTION 8. Repealing Clause.** All laws, decrees, orders, rules, and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 9. Effectivity.** This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or a newspaper of general circulation in the Bangsamoro Autonomous Region.
+
+**Chunk Complete. Ready for next group of provisions starting at the Approval and Attestation section.**
+
+***
+
+APPROVED,
+
+Author:
+
+(Sgd.)
+**HON. JAMEL B. MACACUA**
+Member of Parliament – Bangsamoro Transition Authority
+
+(Sgd.)
+**HON. EDDIE M. ALIH**
+Member of Parliament – Bangsamoro Transition Authority
+
+Certified Correct:
+
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested:
+
+(Sgd.)
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
