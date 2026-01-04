@@ -1,0 +1,84 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. **241**
+
+**A BILL PROVIDING FOR THE CULTURAL SENSITIVITY ETIQUETTE TO AND FOR MUSLIMS IN BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**EXPLANATORY NOTE**
+
+The creation of BARMM also entails its re-introduction to the rest of the Philippines and of the world. And, there is no other way to rebrand it but to showcase our unique culture and the concept of halal.
+
+To promote our cultural identity and the concept of halal, it is important to draw the line what our culture is and what halal is in the perspective of our culture and religion. Thus, it is necessary that we make people aware of our customs, traditions, and most importantly, the etiquette in dealing with us Muslims who have distinct identity. This effort is only a way of promoting the halal industry and promoting our uniqueness to from the rest. Cultural sensitivity is a crucial aspect of building harmonious communities and the way to foster that is through knowledge. Hence, this bill seeks to bringforth such knowledge.
+
+The intention of this bill is not to contravene the constitutional proscription on the separation of the church and the state but to even promote the constitutional right of the Bangsamoro people to practice their religion and to be respected therewith. For anyone who will visit the BARMM, may as a tourist, an investor, a social worker, or a migrant, it is important to know the do’s and don’t’s when dealing with the people of the region. This bill seeks to foster the understanding and respect for those who do not know.
+
+Above all, this bill also serves as a reinforcement to the residents of BARMM and the general advocacy of Moral Governance. The Bangsamoro government still owes its existence to its long-fought principle and the desire to preserve its own identity. This bill only looks back to that aspiration.
+
+(Sgd.)
+**ROMEO K. SEMA, DPA**
+Member of the Parliament
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. **241**
+
+Introduced by:
+**MP ROMEO K. SEMA, DPA**
+
+Co-authors:
+**MP ALI MONTAHA D. BABAO | MP MUSLIMIN A. JAKILAN | MP ALBAKIL D. JIKIRI | MP FAISAL G. KARON | MP TARHATA M. MAGLANGIT | MP HAMID U. MALIK | MP ABDULKALIM T. MISUARI | MP NURREDHA I. MISUARI | MP ADZFAR H. USMAN, MP SUHARTO M. AMBOLODTO | MP SUSANA S. ANAYATIN | MP MATARUL M. ESTINO | MP ABDULLAH E. GAYAK | MP HATIMIL E. HASSAN | MP DENMARTIN A. KAHALAN | MP ISHAK V. MASTURA | MP AMILBAHAR S. MAWALIL | MP FROILYN T. MENDOZA | MP RASOL Y. MITMUG, JR., | MP NABILA MARGRAITA P. PANGANDAMAN | MP RANDOLPH C. PARCASIO | MP RAMON A. PIANG, SR. | MP ALI B. SANGKI | MP BASSIR D. UTTO | MP ABDULWAHAB M. PAK | MP JOSE I. LORENA**
+
+**A BILL PROVIDING FOR THE CULTURAL SENSITIVITY ETIQUETTE TO AND FOR MUSLIMS IN BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao Assembled:*
+
+**SECTION 1. Short Title.** This Act shall be known as the “Cultural Sensitivity Etiquette Act”.
+
+**SEC. 2. Purpose.** This bill is in reverence to the right of the Muslims in BARMM to practice their religion and to be respected therewith. Attune to the promotion of halal tourism and halal industry, the bill seeks to provide for a guidelines or parameter within which visitors and non-muslims can use as their reference when visiting BARMM or engaging with BARMM officials. Most importantly, this bill seeks to establish the foundation of moral governance wherein each employee is consistently reminded of their obligation to do right as a form of their worship.
+
+**Chunk Complete. Ready for next group of provisions starting at SEC. 3.**
+
+***
+
+**SEC. 3. Coverage.** This bill shall cover all offices in the Bangsamoro Government, the local government units, stores and business enterprises within BARMM, airports, sea ports, integrated terminals, organizations operating within BARMM, chapters, branches or sub-offices located in BARMM, all other establishments that cater/employ Muslims, and all persons residing or sojourning the Bangsamoro region.
+
+**SEC. 4. Greetings.** For Muslims, the greeting of “as-salamu’alaikum” should be a standard salutation when meeting one another or when addressing a large group of people. It is permissible for men to shake hands with fellow men but it shall not be allowed for men to shake hands or hug with a muslim woman who is not the latter’s *mahram* in *fiqh*. It is also highly encouraged to start every activity with “*Bismillah hir Rahman-neer Raheem*”.
+
+**SEC. 5. Gatherings.** During gatherings, such as meetings, sessions, flag-raising ceremonies, and other activities, non-mixing of male and female gender is highly discouraged. To create safe space for each gender, there shall be a designated area for men and for women.
+
+**SEC. 6. Clothing.** Employees of both genders are expected to dress simply, modestly, and with dignity. For Muslim women, they shall cover their hair and their heads with headscarves or hijab and must wear clothing that cover their adornments. For non-Muslim women, the wearing of hijab is desirable but not compulsory. Wearing of modest dresses is, however, necessary as a form of respect to their Muslim companions. For men, they shall always be covered in loose and unrevealing clothing from navel to their knee.
+
+**SEC. 7. Prayer Break.** During official meetings, sessions, or work hours, there shall be a break of at least 15 minutes every prayer time. Activities at hand shall be suspended for the said period to give time for the employees to perform their *salah*/prayer. If not feasible or due to expediency reasons, a Muslim employee should at least be allowed to excuse for a considerable amount of time to perform his/her salah.
+
+**SEC. 8. Friday Events.** The conduct of large-scale and big events during Fridays is also highly discouraged unless inevitable or duly necessary for the expediency of service. This is to allow worshippers to perform their *Salahtul Juma’ah* and other faith-related obligations on such day.
+
+**SEC. 9. Ramadhan Events.** Strenuous activities or activities that will impede a Muslim person from performing its fasting are highly discouraged during the month of Ramadhan, unless inevitable or duly necessary for the expediency of service.
+
+**SEC. 10. Prayer Spaces and Washing Facilities.** Those covered under Section 3 herein shall designate a clean prayer space and clean washing facilities with sufficient water for ablution of Muslim worshippers.
+
+**SEC. 11. Halal Foods and Drinks.** Offices and organizations that are hosting Muslim personnel or Muslim participants should only serve halal foods from halal establishments. Halal establishments are also prohibited from appearing as halal when it serves non-halal products.
+
+**SEC. 12. Supplemental Guidelines.** This Darul’Ifta may issue a supplemental guidelines to elaborate and develop this act.
+
+**SEC. 13. Effectivity.** This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+
+Approved,
+
+(Sgd.)
+**ROMEO K. SEMA, DPA**
+Member of the Parliament
+
