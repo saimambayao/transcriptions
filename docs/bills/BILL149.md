@@ -1,0 +1,90 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 149**
+
+Introduced by
+**MP ADZFAR H. USMAN, AMILBAHAR S. MAWALLIL**
+
+**AN ACT**
+**ESTABLISHING A LEVEL I GENERAL HOSPITAL IN THE MUNICIPALITY OF TALIPAO, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+The municipality of Talipao, Sulu is a first-class municipality. It is a rural town located in the first district of the Province of Sulu, an island province in the southernmost part of the Philippines. As one of the largest Municipality in Sulu, it is comprised of 52 Barangays with a population of 100,088 It is accessible only by sea and air travel from the nearest major city, Zamboanga City.
+
+In the 1970’s, at the height of the war between the MNLF and the AFP, and the until the recent war of the Abusayaf it is one the most brutally affected area that endured tremendous human suffering and lost of life and property.
+
+Presently, Talipao does not have a hospital to cater to the health needs of its constituents. The only existing health facility in the municipality are Barangay Health Stations and Rural Health Units. Patients, especially. Needing emergency medical interventions will have to traverse to the municipality of Jolo in order to be attended to and be admitted to a hospital. Even then, the Sulu Provincial Hospital in Jolo cannot sufficiently provide for the necessary care for those suffering severe medical conditions, and need to be transported to the distant Zamboanga City. The data present that there are high mortality rate in the municipality of Talipao which can be attributed to the lack of available healthcare facilities.
+
+Despite the clear need for a healthcare facility and the improvement of public health, the local government of Talipao is facing constraints due to their lack of funding.
+
+Hospitals are essential facilities to provide for quality basic services to the people and their community. It is one of the pillars of human security and is an indispensable requirement to achieve a desirable quality of life. They are integral to the lives of the people.
+
+The importance of establishing a hospital was further amplified with the emergence of the Covid-19 pandemic. Furthermore, they are important in the prevention of diseases and outbreaks, and can be a center for research and medical studies.
+
+In view of the foregoing, the passage of this bill is earnestly sought, to establish a general hospital with a fifty-bed capacity in the municipality of Talipao, Province of Sulu.
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 149**
+
+Introduced by
+**MP ADZFAR H. USMAN, AMILBAHAR S. MAWALLIL**
+
+**AN ACT**
+**ESTABLISHING A LEVEL I GENERAL HOSPITAL IN THE MUNICIPALITY OF TALIPAO, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Parliament in session:*
+
+**Section 1.** There is hereby established a Level I general hospital with fifty (50) bed capacity in the Municipality of Talipao, Province of Sulu, under the direct administrative and technical supervision of the Sulu Integrated Provincial Health Office (IPHO).
+
+**Section 2.** The BARMM Ministry of Health (MOH) shall formulate the necessary guidelines for its operations as a level I hospital and ensure funding for the construction of the hospital building and other complementary infrastructure, facilities, and medical equipment, as well as the costs for the necessary maintenance and personnel services.
+
+**Section 3.** The Chief of Hospital of Talipao General Hospital, in consultation and coordination with the Sulu IPHO, shall submit to the MOH an annual development plan to reflect the developmental goals of the hospital every year. The medical personnel, capital outlays and budgetary needs for the operation of Talipao General Hospital shall be based on the annual hospital development plan.
+
+Any future increase in bed capacity and upgrading of health care services and the facility shall be consistent with the annual hospital development plan.
+
+**Section 4.** The provisions of this Act are hereby declared separable, and in the event one or more such provisions or part thereof are declared unconstitutional, such declaration of unconstitutionality shall not affect the validity of the other provisions thereof.
+
+**Section 5.** All regional laws, acts, decrees, executive orders, proclamations, and/or administrative regulations which are inconsistent with the provisions of this Act are hereby amended, modified, superseded, or repealed accordingly.
+
+**Section 6.** This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation in the region.
+
+Approved,
+
+AUTHOR:
+
+**ADZFAR H. USMAN**
+*Member of the Parliament*
+
+**AMILBAHAR S. MAWALLIL**
+*Member of the Parliament*
+
+**EDDIE M. ALIH**
+*Member of the Parliament*
+
+**ROMEO K. SEMA**
+*Member of the Parliament*
+
+Certified correct:
+
+**PROF. RABY B. ANGKAL**
+*Secretary-General*
+
+Attested by:
+
+**ATTY. PANGALIAN M. BALINDONG**
+*Speaker*
+
