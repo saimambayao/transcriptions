@@ -1,0 +1,167 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+**BTA BILL NO. 250**
+
+Introduced by: **MP KADIL M. SINOLINDING, JR., MD, DPBO**
+**MP PROF. EDDIE M. ALIH**
+
+Co-authors : **MP MOSBER E. ALAUDDIN, MP ATTY. SUHARTO M. AMBOLODTO, MP ABDULAZIZ M. AMENODIN, MP DR. SUSANA S. ANAYATIN, MP MOHAMMAD KELIE U. ANTAO, MP DAN S. ASNAWIE, MP ALI MONTAHA D. BABAO, MP BAI MALEIHA B. CANDAO, MP DR. HASHEMI N. DILANGALEN, MP ALBAKIL D. JIKIRI, MP DEN MARTIN A. KAHALAN, MP DON MUSTAPHA A. LOONG, MP TARHATA M. MAGLANGIT, MP FROILYN T. MENDOZA, MP MICHAEL E. MIDTIMBANG, MP TAWAKAL B. MIDTIMBANG, MP HUSSEIN P. MUNOZ, MP ABDULWAHAB M. PAK, MP RAMON A. PIANG JR.**
+
+**AN ACT**
+**ESTABLISHING THE BANGSAMORO DISABILITY AFFAIRS OFFICE, PROVIDING FOR ITS MANDATE, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+“ There is no greater disability in society than the disability to see a person as more”.
+— Robert M. Hensel
+
+We are lucky and thankful enough that we were born with complete limbs, senses, sets of eyes, arms, legs, and without any impairment nor deformity to function normally and enjoy the beauty of this world. But the interesting question is what life is really like for people with disabilities? Who will take care and protect them?
+
+People with disabilities (PWDs) are less avail of the opportunities compared to normal people and often than not they are subject to discrimination and abuse. The State is duty-bound to protect and ensure protection of them, regardless of their race, color, religion, and political affiliation. The Philippine Constitution guarantees “full respect for human rights” and “equal protection of the laws” to all persons. This guarantee applies to all, especially PWDs.
+
+However, despite the state’s commitment of protecting and mainstreaming of PWDs to the society, they continue to suffer from lack of government protection policies and mechanisms. This affects their accessibility to advanced development skills, securing decent employment opportunities, safeguarding of their state-guarantees protection, and among others .
+
+In the Bangsamoro region, the Republic Act No. 11054 guarantees the protection of the same. Under Section 2 (r), Art V of the said law provides that: “*Subject to Section 20, Article X of the Constitution and this Organic Law, the Bangsamoro Government shall exercise its authority over the following matters without prejudice to the general supervision of the President of the Republic of the Philippines: Development programs and laws for women, labor, the youth, the elderly, the differently-abled , and indigenous peoples*”;
+
+Further, Section 23, Article IX of the same law states: “*The Bangsamoro Government shall establish a special agency, support facilities and livelihood or skills training for persons with special needs, and other disadvantaged persons for their rehabilitation and productive integration into mainstream society.*”
+
+Disabled people have the same rights as other people to take their proper place in society. The government is mandated to give them full support for their total well-being and integration into mainstream society. To achieve it, the Bangsamoro Government shall develop their skills, talents and potentials to enable them to compete favorably for available opportunities, both national and international. For instance, Paralympic **John Rey Mallari Bonoan** got the 2nd place in the 50-meters swimming competition, representing Lamitan City in the recent Palarong Pambansa 2023. He was also the champion of the 1st BARMAA held in Cotabato City. Similar to Mr. Bonoan, by implementing a policy to promote equal opportunities, a person with a disability can contribute to nation building through their unique perspective, skills, and talents and fostering innovation in various fields such as education, technology, and entrepreneurship
+
+Common experience reveals that PWDs are more likely the most affected and left behind sector in times of natural disaster and human-induced disaster, such as local armed conflicts and family feuds (rido). In such a similar time, they have difficulties in accessing resources and services such as food, water, shelter, education, health care, and among others. Apart from these undeniable realities, they are more prone to abuse, discrimination and being victims of crime. In this regard, it is very essential to have a monitoring mechanism for the protection of the rights of PWDs to guarantee respect for their human dignity as provided by law. By establishing a special office that will lead in addressing their concerns and grievances and handle infringement of their rights could likely help in full enforcement and realization of their rights and privileges.
+
+Meanwhile, there is a little comprehensive data regarding the person with disability in the Bangsamoro Region. The lack of accurate data produces a domino effect to address genuine issues concerning this sector. A comprehensive data would serve as a basis to determine the appropriate actions and measures that could have been taken to counter the effects of discrimination, abuse, and exclusion.
+
+Republic Act No. 10754 or also known as “*An Act Expanding the Benefits and Privileges of Person with Disability*” mandates government offices as well as private institutions such as business establishment, hotels and restaurant, recreational centers, drugstores, health service providers, travel agencies, and among other to observe the privileges and incentives for the PWDs. While other establishments obey these laws, there are also those who do not. On the other hand, there are reports of fake PWDs who are allegedly availing PWD privileges, such as discounts. This common problem exists across the Bangsamoro Region and nearby areas which is detrimental to the objectives of the law, as it undermines public trust.
+
+Given these premises, there is a need to call for the creation and establishment of a “Disability Affairs Office” in the Bangsamoro, who will serve a policy, planning, monitoring and implementing body to ensure the full protection of the rights and privileges of PWDs as mandated by disability laws and its implementing rules and regulation, provide them equal opportunities and decent work, and enhance disability-specific social protection programs with the final aim of realizing their aspirations, improving their living condition, and empowering them to participate more actively in society.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+**BTA BILL NO. 250**
+
+Introduced by: **MP KADIL M. SINOLINDING, JR., MD, DPBO**
+**MP PROF. EDDIE M. ALIH**
+
+Co-authors : **MP MOSBER E. ALAUDDIN, MP ATTY. SUHARTO M. AMBOLODTO, MP ABDULAZIZ M. AMENODIN, MP DR. SUSANA S. ANAYATIN, MP MOHAMMAD KELIE U. ANTAO, MP DAN S. ASNAWIE, MP ALI MONTAHA D. BABAO, MP BAI MALEIHA B. CANDAO, MP DR. HASHEMI N. DILANGALEN, MP ALBAKIL D. JIKIRI, MP DEN MARTIN A. KAHALAN, MP DON MUSTAPHA A. LOONG, MP TARHATA M. MAGLANGIT, MP FROILYN T. MENDOZA, MP MICHAEL E. MIDTIMBANG, MP TAWAKAL B. MIDTIMBANG, MP HUSSEIN P. MUNOZ, MP ABDULWAHAB M. PAK, MP RAMON A. PIANG JR.**
+
+**AN ACT**
+**ESTABLISHING THE BANGSAMORO DISABILITY AFFAIRS OFFICE, PROVIDING FOR ITS MANDATE, POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be enacted by the Bangsamoro Transition Authority Parliament of the Bangsamoro Autonomous Region Muslim in Mindanao.
+
+**SECTION 1. Title.** — This Act shall be known as the “Bangsamoro Disability Affairs Office (BDAO) Act of 2023”.
+
+**SECTION 2. Declaration of Policy.** — It is a declared policy of the Bangsamoro Government to ensure the welfare of persons with special needs and differently abled persons by protecting their rights and privileges. The Bangsamoro Government shall protect them from any form of abuse, discrimination, and exploitations, promote their full potential, and give full support to the improvement of well-being and integration into mainstream society of the persons with disability.
+
+It is stated in Section 23, Article IX of R. A. No. 11054 on the Basic Rights, Support for Persons with Special Needs, Senior Citizens, and disadvantaged groups, that “*the Bangsamoro Government shall establish a special agency, support facilities and livelihood or skills training for persons with special needs, and other disadvantaged persons for their rehabilitation into the mainstream of the society*”.
+
+**SEC. 3. Definition of terms.** - For purpose of this Act, the following terms are hereby defined, as follows:
+
+a. **Persons with Disabilities (PWD)** - refers to any person who has long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others
+
+b. **Commercial establishment** - refers to areas mandated to observe the rights and privileges of PWDs such as Terminals, Airports, Shopping Centers, Restaurants, Amenities, Hotel, Cinemas, Lodging Houses, Clinics, Hospitals, and other related establishments.
+
+**SECTION 4. Creation.** — There is hereby created and established a Bangsamoro Disability Affairs Office (BDAO), herein referred to as “Office”.
+
+The BDAO shall be under the supervision of the Office of the Chief Minister.
+
+**SECTION 5. Mandates.** — The Bangsamoro Disability Affairs Office shall be mandated as policy-making, coordinating, planning, monitoring, and implementing body of programs, projects and activities for PWDs within the region.
+
+**SECTION 6. Powers and Functions.** — The Office shall exercise the following powers and functions:
+
+a. Formulate policies and propose regional legislative measures concerning the rights and well-being of PWDs;
+
+b. Formulate integrated and comprehensive long and medium-term regional plans on the welfare and development of PWDs;
+
+c. Implement, monitor, and evaluate programs, projects and activities relevant to PWDs;
+
+d. Serve as the Chairperson of the Bangsamoro Disability Affairs Committee (BDAC);
+
+e. Formulate and implement a social and economic programs for persons with disability caused by the armed conflict including but not limited exclusive to the returnees;
+
+f. Certify organizations of PWDs or similar organizations or institutions regularly advocating rights and protection of PWDs;
+
+g. Act, initiate, and facilitate complaints on violation of existing disability laws, policies, acts, and orders providing rights and protection of PWDs;
+
+h. Ensure and monitor the compliance of ministries, agencies, offices, local government units, educational institutions, commercial establishment, public transportations, and other concerned venues and service providers on requirements provided by national and regional laws, policies, international commitments, and similar directives related to rights, privileges, and benefits of PWDs.
+
+i. Establish and maintain a comprehensive data bank regarding persons with disability in the Bangsamoro Region;
+
+j. Develop and conduct skills development training programs in coordination with TESDA and other government and non-government agencies with similar mandates for PWDs to enhance their capacity and capability and assist them in ensuring employment;
+
+k. Lead in the annual celebration of PWD week in the region in partnership with concerned government agencies, non-government organizations, and private institutions;
+
+l. Conduct research and related studies, in partnership with any academe, on relevant topics of disability prevention, rehabilitation and equalization of opportunities in order to promote and enhance rights of PWDs;
+
+m. Establish and maintain linkages and networking with international, national, and local organizations, including civil society organizations for PWDs;
+
+n. Conduct consultative meetings, symposia with all stakeholders and initiate advocacy programs for the welfare of PWDs;
+
+o. Develop an information, education and communication materials translated in different dialects of the region;
+
+p. Monitor, evaluate and support programs and assistance implemented by LGUs pertaining to PWDs; and
+
+q. Submit quarterly and annual reports to the Office of Chief Minister.
+
+**SECTION 7. Site of the Office.** — The Bangsamoro Government shall determine the site of the office in consultation with the Office of the Chief Minister, Ministry of Public Works (MPW), Ministry of Social Services and Development (MSSD), Ministry of the Interior and Local Government (MILG), and Ministry of Environment, Natural Resources and Energy (MENRE).
+
+**SECTION 8. Organization.** — The Office shall be headed by an Executive Director who shall be appointed by the Chief Minister.
+
+The organizational structure and all other personnel requirements of the office shall be determined by the selection and promotion board of the Office of the Chief Minister subject to existing laws, rules and regulations of the Civil Service Commission (CSC), and which shall be consistent with the existing budgeting, staffing, position classification and compensation policies, guidelines and standards. In carrying out the functions of the office, the following are the plantilla positions:
+
+| Plantilla Position | Salary Grade | Number of Staff |
+| :--- | :--- | :--- |
+| Executive Director I | SG 26 | 1 |
+| Administrative Officer V | SG 18 | 1 |
+| Project Development Officer II | SG 15 | 2 |
+| City Disability Affairs Officer | SG 15 | 3 |
+| Provincial Disability Affairs Officer | SG 15 | 6 |
+| Administrative Assistant IV | SG 10 | 1 |
+| Administrative Aide VI | SG 6 | 2 |
+| Administrative Aide IV | SG 4 | 2 |
+
+**SECTION 9. Coordination** — The BDAO may enter into a memorandum of agreement with the National Council on Disability Affairs, Ministry of Social Services and Development, Ministry of Labor and Employment, Ministry of Basic, Higher and Technical and Ministry of Trade, Industry and Tourism, Ministry of the Interior and Local Government, and other concerned agencies for mutual implementation, support, and technical assistance for the regional office.
+
+**SECTION 10. Donations** - The Office may accept donations from international organizations, national and regional government agencies and offices, development partners, charitable institutions, and private individuals or organizations in accordance with prescribed rules and regulations provided by law.
+
+**SECTION 11. Implementing Rules and Regulations.** — The BDAO Executive Director shall, in consultation with the Ministry of Finance, Budget and Management, Ministry of Social Services and Development, Ministry of Health, Ministry of Transportation and Communications, Ministry of the Interior and Local Government, Ministry of Public Works, Ministry of Trade, Investment and Tourism, Ministry of Labor and Employment, Ministry of Basic, Higher and Technical Education, and other concerned agencies and offices, promulgate the Rules and Regulations necessary for effective and efficient implementation of the provisions of this Act.
+
+**SECTION 12. Appropriation.** - The Bangsamoro Government shall appropriate funds, as may be necessary to carry out the objectives of this Act.
+
+**SECTION 13. Separability Clause.** — If any part or provisions of this Act is declared unconstitutional or the application of such provision to any person or circumstances is held invalid, the remainder of this Act or any provision not affected thereby shall remain to be in full force and effect.
+
+**SECTION 14. Repealing Clause.** All other regional acts, decrees, instructions, orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 15. Effectivity.** This Act shall take effect fifteen (15) days after its publication in a newspaper of general or regional circulation
+
+Introduced by:
+
+(Sgd.)
+**KADIL JOJO M. SINOLINDING JR., MD, DBPO**
+Member of the Parliament
+
+Certified Correct:
+
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
