@@ -1,0 +1,103 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Bill No. **264**
+
+Authored by **MP HAMID U. MALIK, MP NURREDHA I. MISUARI, DEPUTY SPEAKER ABDULAKARIM T. MISUARI, MP TARHATA M. MAGLANGIT, MP AMILBAHAR S. MAWALIL, MP ATTY. RASOL Y. MITMOG, MP HASHEMI N. DILANGALEN, MP ALBAKIL D. JIKIRI, MP ROMEO K. SEMA, MP MUSLIMIN A. JAKILAN, MP KADIL M. SINOLINDING, MP ADZFAR H. USMAN, MP DENMARTIN A. KAHALAN, MP ATTY. RANDOLPH C. PARCASIO, MP. ABDULAZIS M. AMENODEN**
+
+**AN ACT**
+**STANDARDIZING THE BED CAPACITY OF THE SIASI DISTRICT HOSPITAL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU FROM ITS PRESENT OPERATIONAL TWENTY-FIVE (25) BEDS TO FITY (50) BEDS AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Siasi District Hospital was established in June 19, 1965 through Republic Act No. 4323, “An Act providing for the establishment of an Emergency Hospital in the Municipality of Siasi, Province of Sulu, and authorizing the appropriation funds therefore”.
+
+Subsequently, in February 25, 1992, Siasi District Hospital was approved to increase the bed capacity from 25 to 50 through Republic Act No. 7195 “An Act increasing the bed capacity of the Siasi District Hospital in the Municipality of Siasi, Province of Sulu, from twenty-five (25) beds to fifty (50) beds, and Appropriating Funds therefore”.
+
+Since the approval of bed increase as provided under Republic Act No. 7195, the said hospital is still operating as Level I with only twenty five (25) beds serving unwell for its patients for the last fifty eight (58) years in history. It is located in the Municipality of Siasi which is faraway and separated by sea from the town of Jolo where the provincial hospital is situated. Hence, transferring of patients is relatively difficult due to the scarcity of available transportation and very dangerous especially during the bad weather condition.
+
+Siasi is a costal and second class municipality in the island province of Sulu with a total population of 81,689 as determined by the 2020 census. Therefore, the increase of hospital bed-to-population ratio is ideally be required to complement its capacity to serve and accommodate a desired number of patients and sustain as to the population will grow in the future. To date, the existing hospital bed to patient ratio is 1:8000 instead of 1:1000 as a standard requirement prescribed by the Department of Health (DOH).
+
+Pursuant to Section 22, Article IX of Republic Act No. 11054, otherwise known as the “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao”, as to the policy provided therein, this bill proposes to standardize the existing Level I, fifty (50) beds capacity of the Siasi District Hospital from its present operational twenty-five (25) beds to fifty (50) beds and upgrade the health care services and facilities to ensure that the residents of Siasi and the adjacent municipality of Pandami, Lugus, Tapul and some islands and islets in the northern part of Tawi-Tawi which constitutes approximately 164,700 people will cater and provided with better and more effective access to medical and health care services. Moreover, it has already a prepared Hospital Development Plan 2023-2027 submitted by Siasi District Hospital to the Ministry of Health-BARMM.
+
+In light of the foregoing, approval of this bill is intently sought.
+
+Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:
+
+**SECTION 1. Short Title.** - This Act shall be known as the “Siasi District Hospital Standardization Act of 2023.”
+
+**SEC. 2. Declaration of Policy.** - It is the policy of the Bangsamoro Autonomous Region in Muslim Mindanao as provided under Section 22, Article IX of the Bangsamoro Organic Law provides for the Bangsamoro Government to adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. In consonance with this policy, it is the mandate of the Bangsamoro Government to establish by a law a general hospital system to serve the health requirement of its people, and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services.
+
+**SEC. 3. Standardizing of the Siasi District Hospital.** - The existing Level I, fifty (50) beds capacity of the Siasi District Hospital in the Municipality of Siasi, Province of Sulu is hereby standardized from its present operational twenty-five (25) beds to fifty (50) beds. Any future increase in bed capacity shall be consistent with the hospital development plan.
+
+**SEC. 4. Upgrading of the Facilities and Health Care Services.** - The existing professional health care services and facilities of the Saisi District Hospital are hereby upgraded to conform with and be commensurate to the increase in its bed capacity as provided in Section 3 hereof.
+
+**SEC. 5. Administration, Management and Organization.** - The BARMM Ministry of Health (MOH) shall provide the necessary funds to support the standardize in bed capacity of the Siasi District Hospital and the corresponding upgrading of its facilities and services including but not limited to the construction of hospital building and other complementary infrastructure, facilities, medical equipment as well as the cost for the necessary maintenance and personnel services.
+
+**SEC. 6. Appropriation.** - The amount necessary to carry out the provisions of this Act shall be included in the General Appropriation Act of the Bangsamoro (GAAB) of the year following its enactment into law and thereafter.
+
+**SEC. 7. Repealing Clause.** - If any part, section or provision of this Act shall be held invalid or unconstitutional, the remaining provisions not affected thereby shall continue to be in full force and effect.
+
+**SEC. 8. Separability Clause.** - All laws, ordinances, rules, regulations, other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby amended, modified or repealed accordingly.
+
+**SEC. 9. Effectivity Clause.** - This Act shall take effect fifteen (15) days after its publication in a newspaper of regional circulation.
+
+APPROVED,
+
+AUTHORS:
+
+(Sgd.)
+**MP HAMID U. MALIK**
+Member of the BTA Parliament
+
+(Sgd.)
+**MP ALBAKIL D. JIKIRI**
+Member of the BTA Parliament
+
+**MP NURREDHA I. MISUARI**
+Member of the BTA Parliament
+
+**MP ROMEO K. SEMA**
+Member of the BTA Parliament
+
+**MP ABDULAKARIM T. MISUARI**
+Member of the BTA Parliament
+
+**MP MUSLIMIN A. JAKILAN**
+Member of the BTA Parliament
+
+**MP HATIMIL E. HASSAN**
+Member of the BTA Parliament
+
+**MP KADIL M. SINOLINDING**
+Member of the BTA Parliament
+
+**MP TARHATA M. MAGLANGIT**
+Member of the BTA Parliament
+
+**MP ADZFAR H. USMAN**
+Member of the BTA Parliament
+
+**MP AMILBAHAR S. MAWALLIL**
+Member of the BTA Parliament
+
+**MP DENMARTIN A. KAHALAN**
+Member of the BTA Parliament
+
+**MP ATTY. RASOL Y. MITMOG**
+Member of the BTA Parliament
+
+**MP ATTY. RANDOLPH C. PARCASIO**
+Member of the BTA Parliament
+
+**MP HASHEMI N. DILANGALEN**
+Member of the BTA Parliament
+
+**MP. ABDULAZIS M. AMENODEN**
+Member of the BTA Parliament
+
