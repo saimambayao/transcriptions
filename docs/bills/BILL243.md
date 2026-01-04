@@ -233,4 +233,3 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 
 (h) For Leases and Affermage, and Donations, the Law on Leases of the Civil Code of Philippines may be referred to.
 
-Chunk Complete. Ready for next group of provisions starting at [Chapter 2. PPP Projects and PPP Modalities].
