@@ -1,0 +1,247 @@
+Republic of the Philippines
+Bangsamo Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **173**
+
+Authored by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Hatimil E. Hassan, Bai Maleiha B. Candao, Suwaib L. Oranon, Abdulaziz M. Amenoden, Eddie M. Alih, Tawakal B. Midtimbang, Tarhata M. Maglangit, Nabila Margarita P. Pangandaman, Michael E. Midtimbang, Atty. Jose I. Lorena, Abdulkarim T. Misuari, and Nurredha I. Misuari**
+
+**AN ACT**
+
+**STRENGTHENING THE KATARUNGANG PAMBARANGAY SYSTEM IN THE BANGSAMORO REGION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+Katarungang Pambarangay (KP) is the Philippines’ mechanism of resolving disputes within a community. Disputes between members of the same community, whether at the municipal or city level, are covered by KP. This mechanism involves the Barangay Chairman and other members of the communities (the Lupon members) as intermediaries. They act as mediators, conciliators, and occasionally arbitrators. This justice system aims to expedite the administration of justice, reduce the number of indiscriminate filing of cases, and unclog court dockets. These objectives result in an improved quality of justice allotted by the courts to sustain and appreciate the tradition of agreeably settling disagreements in a community.
+
+In a report filed by then Department of Interior and Local Government Secretary Mar Roxas in 2014, the government has realized an estimated savings of P3.1-billion in court litigation costs through the implementation of the barangay justice system or Katarungang Pambarangay with an estimated cost of adjudication per case at Php 9,500.00. These numbers however are outdated and at the very least give the minimal numbers on the impact of the Barangay Justice System in the Country as not all of the complaints which are mediated and conciliated in the Barangay are being recorded due to the lack of manpower and the lack of soft skills and capacity building in the existing workforce of the barangay.
+
+This bill aims to enhance the Barangay Justice system through the introduction of several measures to improve the enactment of the Katarungang Pambarangay Law provisions of the Local Government Code of 1991 and the Bangsamoro Local Governance Code. Through these measures, the streamlining of services and capacity building of the core of the Katarungang Pambarangay Law, the Lupon, would be able to deliver a more impactful enactment of the Katarungang Pambarangay. In a region where conflict resolution is an everyday issue, this would aid our communities in a more peaceful and harmonious future.
+
+For these reasons, this representation earnestly asks for the approval of the bill.
+
+(Sgd.)
+**HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of Parliament – Bangsamoro Transition Authority
+
+**ARTICLE I**
+**INTRODUCTORY PROVISIONS**
+
+**SECTION 1. Title.** – This Act shall be known as the **“Enhanced Bangsamoro Barangay Justice System Act of 2023”**.
+
+**SECTION 2. Declaration of Policy.** – It is the policy of the Bangsamoro Government that the Bangsamoro justice system shall be administered in accordance with the unique cultural and historical heritage of the Bangsamoro. To this end, a strengthened barangay justice system should be institutionalized considering the diverse and trans-cultural methods of settling disputes among the constituents of the Bangsamoro. This shall be achieved by augmenting the already existing mechanisms of the Revised Katarungang Pambarangay Law found in the Local Government Code of 1991 and the applicable provisions of the Bangsamoro Local Governance Code, in favor of creating new policies to support the operation of the Lupon as well as other aspects of the traditional modes of settling disputes.
+
+Chunk Complete. Ready for next group of provisions starting at **ARTICLE II**.
+
+***
+
+**ARTICLE II**
+**FEDERATION OF LUPONG TAGAPAMAYAPA**
+
+**SECTION 3. Creation of the Federation of Lupong Tagapamayapa Members.** – There shall be created a Federation of Lupong Tagapamayapa (hereinafter referred to as Federation) in each Municipality, City, and Province of the Bangsamoro Region. The members of the Municipal and City Federations shall elect from among themselves their set of officers. For the purposes of this act, the description, powers and functions found in Presidential Decree 1508 for Lupong Tagapayapa shall be used to define “Lupong Tagapamayapa Members” (hereinafter referred to as the Lupon).
+
+**SECTION 4. Purpose of Federation.** – The Federation shall have the primary purposes of determining its representation in the Peace and Order Councils of their respective City, Municipal or Provincial Leaders, sharing of best practices in mediation and conciliation, and the discussion of issues and challenges as well as the possible measures to address said challenges pertinent to the implementation of the Katarungang Pambarangay Provisions of the Local Government Code of 1991 and the Bangsamoro Local Governance Code.
+
+**SECTION 5. Representation, Chapters, Provincial Federation.** - Every barangay shall be represented in said Federation by one (1) Lupon Member from any of the following sectors namely, Religious (Ustadz/Imam), Elders and/or Tribal Leaders, Non-muslims, Women, PWDs, Youth, and Solo Parents who shall attend all meetings or deliberations called by their respective Federations.
+
+The Federation shall have chapters at the municipal, city, and provincial levels.
+
+The municipal and city chapters of the Federation shall be composed of the barangay representatives of municipal and city barangays respectively. The duly elected presidents of component municipal and city chapters shall constitute the provincial chapter. The duly elected Presidents of provincial chapters shall constitute the Bangsamoro Regional Council of the Federation of Lupong Tagapamayapa Members (hereinafter referred to as the Regional Council).
+
+**SECTION 6. Organization.** - The Federation at the municipal, city, and provincial levels shall directly elect a president, a vice-president, and five (5) members of the board of directors. The board shall appoint its secretary and treasurer and create such other positions as it may deem necessary for the management of the chapter. For the Regional Council, they shall consist of a Council Chairperson and five (5) council members. The Chairperson shall be elected from among the members of the Regional Council and shall be charged with the overall operation of the Federation at the Regional level. They shall also appoint a secretary and treasurer from among its their council members and the council shall coordinate the activities of the chapters of the Federation.
+
+**SECTION 7. Ex-Officio Membership in Peace and Order Councils.** - The duly elected presidents of the Federation at the municipal, city and provincial levels, including the chairperson of the Regional Council, shall serve as ex-officio members of the Municipal Peace and Order Council, City Peace and Order Council, Provincial Peace and Order Council and the Regional Peace and Order Council, respectively. They shall serve as such only during their term of office as presidents of the Federation chapters and Council Chairperson, in which no case shall be beyond the term of office of the municipal, city, provincial or regional government head which convened the council.
+
+**SECTION 8. Powers, Functions and Duties of the Federation.** - The powers, function, and duties of the Federation are the following:
+
+(a) To advance the composition of a diverse and active membership of the Lupon in all the barangays in each city, municipality and province, as guided by the provisions of the Katarungang Pambarangay provisions of the Local Government Code and the Bangsamoro Local Governance Code, that will aid in spearheading the delivery of a Barangay Justice System that is sensitive to the multi-sectoral and multi-cultural needs of the Bangsamoro Region;
+
+(b) To develop policy recommendations to aid the barangays in the implementation of the Katarungang Pambarangay provisions of the Local Government Code and the Bangsamoro Local Governance Code for the Perusal of the Liga ng mga Barangay and their component chapters as well as any quasi-legislative and legislative bodies of government;
+
+(c) To recommend a barangay justice sisterhood-brotherhood program that would engender a structure of policy-sharing and best-practices adoption between and among barangays;
+
+(d) To convene through a Barangay Justice System summit to coordinate all programs of the Barangay Justice System in the Bangsamoro as well as to update and consult with the different stakeholders of the Barangay Justice System;
+
+(e) To ensure that a system of frequent and effective capacity trainings on mediation and conciliation and other pertinent subjects relating to the effective implementation of barangay justice would be provided for every constituted Lupon in the Barangay;
+
+(f) To continually assist in the development of manuals and guides in the implementation of hybrid justice such as the traditional, adat, agama, and tribal laws; and
+
+(g) To exercise such other powers and perform such other duties and functions which will bring about effective, speedy, inexpensive and accessible resolution of conflict in the barangay level and promote the welfare of the barangay inhabitants.
+
+**SECTION 9. Source of Funding for the Federations.** - All Federations shall derive its funds from contributions of member local government units, the regional government, and from fund-raising projects and activities. Provided That, the proceeds from said fund-raising projects and activities shall be used primarily to fund the projects for which the said proceeds have been raised.
+
+The Ministry of Interior and Local Government shall facilitate the election of the federation heads of the Lupon in each Municipality, City, Province, and the Region.
+
+Chunk Complete. Ready for next group of provisions starting at **ARTICLE III**.
+
+***
+
+**ARTICLE III**
+**THE BARANGAY JUSTICE SUMMIT**
+
+**SECTION 10. Barangay Justice Summit.** – Within six (6) months from the constitution of the Regional Council, said council shall convene the representatives of all Federation chapters in the Bangsamoro Region to a Barangay Justice System Summit (hereinafter referred to as Summit) in order to craft, present, and consult, plans and policies for a more effective implementation of the Barangay Justice System that would tailor-fit the multi-cultural needs of the Bangsamoro Region and to coordinate said plans to all Lupons and stakeholders of the Barangay Justice System.
+
+**SECTION 11. Invitation to stakeholders of the Bangsamoro Region.** – The following pertinent stakeholders shall be invited to send their representatives to participate in the Summit:
+
+a) Ministry of Interior and Local Government;
+b) Ministry of Public Order and Safety;
+c) Ministry of Social Services and Development;
+d) Philippine National Police;
+e) Armed Forces of the Philippines;
+f) Non-state justice groups;
+g) Experts in Adat, Traditional, tribal, and customary laws;
+h) Shari’ah Court;
+i) Philippine Judges Association and/or an Executive Judge of a Hall of Justice in the Bangsamoro Region;
+j) Office of the Regional State Prosecutor;
+k) Integrated Bar of the Philippines;
+l) Barangay Justice Legal Luminaries;
+m) Darul Ifta; and
+n) Members of Parliament who are currently occupying the Sectoral Representation seats reserved for the Non-moro Indigenous People, Settlers, Ulama, Traditional Leaders, Youth, and Women.
+
+They shall provide their sector’s insights into their role in the implementation of the Barangay Justice System and appraise the Lupons on other matters that might assist them in the delivery of Barangay Justice System.
+
+**SECTION 12. Barangay Justice Demonstration Competition.** – A Barangay Justice Demonstration Competition shall be held among the attending component Municipal and City Federation Chapters to showcase their competencies in the field of conciliation and mediation.
+
+**SECTION 13. Objectives of the Summit.** – At the end of the summit, the participants shall be appraised with the latest plans and policies relating to Barangay Justice for the Bangsamoro Region which the participants shall roll-out to the other members of their respective Lupons.
+
+**SECTION 14. Budget for the Summit.** – The funds needed to defray the expenses necessary for the conduct of the summit shall come from the allocation of the Office of the Chief Minister, Ministry of Interior and Local Government, Ministry of Public Order and Safety, and the Ministry of Social Services and Development for this intended purpose. The Regional Council may also conduct fund-raising projects and activities. Provided That, the proceeds from said fund-raising projects and activities shall be used primarily to fund the Summit.
+
+Chunk Complete. Ready for next group of provisions starting at **ARTICLE IV**.
+
+***
+
+**ARTICLE IV**
+**MUNICIPAL OR CITY COUNCIL OF ELDERS**
+
+**SECTION 15. Formation of the Council of Elders.** – There shall be created a Municipal or City Council of Elders (hereinafter referred to as Elders) across all Municipalities and Cities of the Bangsamoro which shall assemble in the city or municipal on an agreeable date in order to settle disputes through traditional and historical methods. Disputes settled in this manner shall be referred to the barangay unit of choice of the parties involved in the settled dispute for recording of the agreement.
+
+**SECTION 16. Composition of the Council of Elders.** – The Elders shall be composed of persons of known integrity, probity, and independence from different sectors in the community.
+
+The Elders shall be from but not limited to, the following sectors depending on the diversity of cultures in the City or Municipality:
+
+a) City or Municipal Mayor;
+b) City or Municipal Vice Mayor;
+c) Tribal Elders from every Indigenous People living in the city or Municipality;
+d) Traditional Leaders;
+e) Islamic Leaders (Ustadz);
+f) Catholic Priests;
+g) Non-Catholic Christian Pastors;
+h) Retired Officers from the Armed Forces of the Philippines or the Philippine National Police;
+i) Women sector; and
+j) Youth Sector
+
+**SECTION 17. Manner of Settling Disputes.** – The following rules shall govern the conduct of mediation between and among parties:
+
+1) The parties should pay a docket fee to lodge their dispute to the Council of Elders. The amount of docket fee to be collected per case shall be left to the determination of the Municipal and City Governments. Provided That, the amount collected should be uniform for all cases lodged or filed with the Council of Elders;
+
+2) The disputing parties shall each choose two (2) members from the list of Elders that have been identified by the City or Municipal Government to be of known integrity and probity in their respective sectors to sit as Council of Mediators for their specific dispute. Any Elder related within the fourth civil degree of consanguinity or affinity to any of the disputing parties should be disqualified to sit as mediator and the person who chose the disqualified Elder would choose another Elder in lieu of the disqualified one;
+
+3) The Elders shall sit on a specified date to mediate the parties and discuss the possibility of amicably settling the dispute;
+
+4) In case the parties would come to an amicable settlement in the meeting with the Elders they will be referred back to the Barangay unit of their choice for the documentation of their amicable settlement; and
+
+5) In case of disagreement, they may still choose to undergo mediation through the Lupon of their barangay or the Barangay unit of their choosing consistent with the provisions of Republic Act 7160 or the Local Government Code of 1991 and to be issued a certificate to file action by the said Barangay Unit in case of failure to come into an amicable settlement; and
+
+Nothing in this code shall act to supersede the Barangay Unit’s authority and power to issue a certificate to file action in court in order to commence court proceedings.
+
+**SECTION 18. Honoraria for Appearance in the Council of Elders.** – The council of Elders shall receive an appearance fee of not less than five hundred pesos (Php 500.00) each when they appear and fulfill their role as a chosen mediator for a specific case. The honoraria for the elders shall be derived from the funds of the City or Municipal Government that is served by the council.
+
+Chunk Complete. Ready for next group of provisions starting at **ARTICLE V**.
+
+***
+
+**ARTICLE V**
+**BARANGAY JUSTICE SYSTEM MULTISECTORAL TRADITIONAL AND CUSTOMARY LAWS ADVISORY COUNCIL**
+
+**SECTION 19. Creation of the Barangay Justice System Multi-Sectoral Traditional and Customary Laws Advisory Council.** – There is hereby created in every barangay of every city and municipality a Barangay Justice System Multi-Sectoral Traditional and Customary Laws Advisory Council which is hereinafter referred to as the Council, to be composed of the following: City or Municipal Mayor, as Chairman, representative from the City or Municipal Police Office, the Purok leader, Traditional leader, Religious leader, Indigenous people’s leader, tribal leader, women’s representative and youth representative, each coming from their respective Barangay.
+
+**SECTION 20. Functions.** – Without prejudice to the provisions of the Katarungang Pambarangay Law, the council shall provide the following advisory functions:
+
+a. To provide specialized Information, Skills, and Experience on the existing traditional and customary laws of the community to aid the barangay justice system implementers in settling local disputes;
+
+b. To provide guidance, technical advice and critical thinking in areas beyond the Lupon members’ typical fields of expertise in settling local disputes;
+
+c. To encourage retirees from the government or private sector to become part of the Barangay Justice System;
+
+d. To provide the barangay justice system the customary and traditional laws that may not have been in use for reasons of non-practice;
+
+e. To act as the organization’s advocate in the barangay it serves to help the barangay justice system connect to a greater constituency in the barangay; and
+
+f. Such other functions as may be required by the Barangay Justice Implementers.
+
+**SECTION 21. Constitution of the Council.** – Within six months after the approval of this Act, all city and municipal mayors shall convoke the Council herein created and start implementing the provisions of this Act. The council members shall not receive any salary or honoraria in the discharge of their official function.
+
+**ARTICLE VI**
+**BARANGAY JUSTICE SUPPORT MECHANISMS**
+
+**SECTION 22. Barangay Justice Dedicated Fund.** – There shall be established a dedicated fund for the enactment of the Enhanced Katarungang Pambarangay Law which shall be under the control of the Lupon. In no case shall the Barangay Justice Dedicated fund for each barangay be less than point five percent (.5%) of each Barangay’s respective total National Tax Allocation.
+
+**SECTION 23. Comptrollership.** – The use of these funds shall be subject to the pertinent accounting and auditing rules and regulations.
+
+**SECTION 24. Dedicated Lupon Secretary.** – There shall be a dedicated Secretary for the Lupon in each of the Barangays in the Bangsamoro Region for the recording of the results of mediation proceedings before the punong barangay and submission of reports thereon to the city or municipal courts. The secretary shall also receive and keep the records of proceedings submitted to him/her by the various conciliation panels.
+
+For the purpose of this Act, “Katarungang Pambarangay Law” refers to the provisions in Chapter 7, Title I, Book III of the Local Government Code of 1991 or to the applicable provision of the Bangsamoro Local Governance Code. Provided That, in case of conflict, the latter shall govern.
+
+Chunk Complete. Ready for next group of provisions starting at **ARTICLE VII**.
+
+***
+
+**ARTICLE VII**
+**FINAL PROVISIONS**
+
+**SECTION 25. Appropriation Clause.** – The amount necessary to carry out the provisions of this Act shall be included in the Bangsamoro Appropriations Act.
+
+**SECTION 26. Repealing Clause.** – All regional acts, decrees, instructions, rules, and regulations or parts thereof inconsistent with the provisions of this act are hereby repealed or modified accordingly.
+
+**SECTION 27. Separability Clause.** – If for any reason, any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+**SECTION 28. Effectivity Clause.** – This Act shall take effect fifteen (15) days after its publication in two (2) regional newspapers of general circulation.
+
+**APPROVED,**
+
+Author:
+
+(Sgd.)
+**HON. MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+
+Co-authors:
+
+**HON. MP ATTY. LAISA A. ALAMIA**
+**HON. MP BENJAMIN T. LOONG**
+**HON. MP ENGR. BAINTAN A. AMPATUAN**
+**HON. MP ATTY. RASOL Y. MITMUG**
+**HON. MP AMILBAHAR S. MAWALLIL**
+**HON. MP ATTY. SUHARTO M. AMBOLODTO**
+**HON. MP RASOL E. ISMAEL**
+**HON. MP ATTY. JOHN ANTHONY L. LIM**
+**HON. MP HATIMIL E. HASSAN**
+**HON. MP BAI MALEIHA B. CANDAO**
+**HON. MP SUWAIB L. ORANON**
+**HON. MP ABDULAZIZ M. AMENODEN**
+**HON. MP EDDIE M. ALIH**
+**HON. MP TAWAKAL B. MIDTIMBANG**
+**HON. MP TARHATA M. MAGLANGIT**
+**HON. MP NABILA MARGARITA P. PANGANDAMAN**
+**HON. MP MICHAEL E. MIDTIMBANG**
+**HON. MP ATTY. JOSE I. LORENA**
+**HON. MP ABDULKARIM T. MISUARI**
+**HON. MP NURREDHA I. MISUARI**
+
+Certified correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
