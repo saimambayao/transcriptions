@@ -1,0 +1,121 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+SECOND PARLIAMENT
+Second Regular Session
+Proposed Bill No. **222**
+
+Introduced by:
+**MP ABDULLAH B. HASHIM**
+
+Co-Authors:
+**HON. MP MICHAEL E. MIDTIMBANG, HON. MP NURREDHA I. MISUARI, HON. MP SUHARTO S. ESMAEL, HON. MP Dr. MARJANIE S. MIMBANTAS MACASALONG, HON. HATIMIL E. HASSAN, HON. MP Dr. SUSANA S. ANAYATIN, HON. MP ABDULAZIZ M. AMENODEN, HON. MP DR. KADIL M. SINOLINDING JR., HON. MP KHALID HADJI ABDULLAH, HON. MP MUDJIB C. ABU**
+
+**AN ACT GIVING RECOGNITION AND INCENTIVES TO RESIDENT BANGSAMORO TOPNOTCHERS AND LEARNING INSTITUTIONS WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Achieving academic excellence for the sake of Allah (SWT) is a form of worship. As mentioned in Usool Al-deen Al-Islami by Shaykh Muhammad ibn Ibraaheem Al-Tuwayjri, Islam calls us to learn all kinds of beneficial knowledge. Branches of knowledge vary in status, the highest of which is knowledge of sharee’ah, then knowledge of medicine, then the other fields of knowledge.
+
+A person seeking knowledge must pour enormous amount of time, effort, and resources to excel in his/her chosen field or profession. National licensure examinations are placed to test a person’s mastery over his chosen field and grant them the license and authority to practice such profession. Every aspiring professional’s dream is to pass the licensure examinations.
+
+In every national licensure examination, topnotchers are recognized for posting the highest scores among all examinees. Only those who have strived hard and blessed by the Almighty are destined to take this precious recognition in the academic world. Indeed, topnotchers are sources of inspiration and strength, especially to the Bangsamoro youth. To strive for greatness, one must work hard, maintain focus, and bolster his faith and belief to Allah (SWT).
+
+The achievements of these topnotchers are worthy of our recognition. They deserve our admiration for bringing pride, glory, and honor to the Bangsamoro. In fact, the Bangsamoro Parliament passed several resolutions recognizing the achievement of Bangsamoro Topnotchers is the past. But, although such resolutions are very much appreciated by these individuals, we believe that they deserve more from the Bangsamoro government considering the weight of their achievements and its positive impact to the Bangsamoro.
+
+Hence, to give recognition worthy of the achievements of these Bangsamoro Topnotchers and Learning Institutions in the region, it is earnestly sought that this bill be enacted.
+
+(Sgd.)
+**HON. ABDULLAH B. HASHIM**
+Member of the Parliament
+
+**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+SECOND PARLIAMENT
+Second Regular Session
+Proposed Bill No. **222**
+
+Introduced by:
+**MP ABDULLAH B. HASHIM**
+
+Co-Authors:
+**HON. MP MICHAEL E. MIDTIMBANG, HON. MP NURREDHA I. MISUARI, HON. MP SUHARTO S. ESMAEL, HON. MP Dr. MARJANIE S. MIMBANTAS MACASALONG, HON. HATIMIL E. HASSAN, HON. MP Dr. SUSANA S. ANAYATIN, HON. MP ABDULAZIZ M. AMENODEN, HON. MP DR. KADIL M. SINOLINDING JR., HON. MP KHALID HADJI ABDULLAH, HON. MP MUDJIB C. ABU**
+
+**AN ACT GIVING RECOGNITION AND INCENTIVES TO RESIDENT BANGSAMORO TOPNOTCHERS AND LEARNING INSTITUTIONS WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, AND APPROPRIATING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:*
+
+**SECTION 1. Short Title.** – This Act shall be known as the **“National Licensure Examination Topnotchers Incentives Act of 2023”**.
+
+**SEC. 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro Government to promote and boost support for academic excellence in the Bangsamoro region. Towards this end, the Bangsamoro government shall recognize academic achievements of individuals and learning institutions who have brought pride, honor, and inspiration to the Bangsamoro for topping national licensure examinations.
+
+**SEC. 3. Definition of Terms.** – For the purpose of this Act, the following terms shall be defined as follows:
+
+    a. National Licensure Examinations – refer to examinations, sanctioned by a national agency, administered throughout the country with the purpose of granting passers the license and/or authority to practice a specific profession or specialization.
+
+    b. National Agency – refers to a government institution vested with the power to administer a national licensure examination such as, but not limited to, the Supreme Court of the Philippines, the Professional Regulation Commission, and the Civil Service Commission.
+
+    c. Bangsamoro Topnotcher – refers to a resident of the Bangsamoro Autonomous Region in Muslim Mindanao who ranked from Top One (1) to Ten (10) of any national licensure examination, based on official result and certification issued by the appropriate national agency conducting the licensure examination.
+
+    d. Learning Institution – refers to a Higher Education Institution within the Bangsamoro Region from where the topnotcher finished his/her degree as a prerequisite to take a specific national licensure examination.
+
+**Chunk Complete. Ready for next group of provisions starting at SEC. 4.**
+
+***
+
+**SEC. 4. Incentives for Bangsamoro Bar and Physician Topnotchers.** – Bangsamoro Topnotchers of the Philippine Bar Examinations and Physician Licensure Examinations shall be entitled to cash incentive in the following amounts:
+
+    1. Top One (1) – Five Hundred Thousand Pesos (P500,000.00);
+
+    2. Top Two (2) to Five (5) – Three Hundred Thousand Pesos (P300,000.00) each, and;
+
+    3. Top Six (6) to Ten (10) – Two Hundred Thousand Pesos (P200,000.00) each.
+
+**SEC. 5. Incentives for other Bangsamoro Topnotchers.** – Bangsamoro Topnotchers for other national licensure examinations shall be entitled to cash incentive in the following amounts:
+
+    1. Top One (1) – Two Hundred Fifty Thousand Pesos (P250,000.00);
+
+    2. Top Two (2) to Five (5) – One Hundred Fifty Thousand Pesos (P150,000.00) each, and;
+
+    3. Top Six (6) to Ten (10) – One Hundred Thousand Pesos (P100,000.00) each.
+
+**SEC. 5. Incentives for Learning Institutions.** – Learning Institutions shall be entitled to a grant in a form of a project to further improve their academic standards amounting to One Hundred Thousand Pesos (P100,000.00) only. Provided further, that such grant can only be availed once a year, regardless on the number of topnotchers the learning institution have produced in a particular year.
+
+**SEC. 6. Prohibition Against Diminution of Incentives.** – No memorandum, order, or issuance shall diminish the prescribed incentives contained in this Act. Donations and gifts from individuals, institutions, or groups shall be construed as distinct and separate from the incentives provided herein.
+
+**SEC. 7. Appropriations.** – The amount necessary to implement the provisions of this Act shall be included in the budget of the Office of the Chief Minister. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual Bangsamoro Appropriations Act.
+
+**SEC. 8. Implementing Agency.** – Within ninety (90) days from the approval of this Act, the Office of the Chief Minister shall promulgate the Implementing Rules and Regulations of this Act to ensure the faithful and just execution of this regional law.
+
+**SEC. 9. Repealing Clause.** – All regional laws, decrees, orders, rules and regulations, other issuances, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SEC. 10. Separability Clause.** – If any provision of this Act is declared unconstitutional or invalid by a court of competent jurisdiction, all other parts or provisions not affected thereby shall continue to remain in full force and effect.
+
+**SEC. 11. Effectivity.** – This Act shall take effect fifteen days (15) after its complete publication in at least one (1) regional newspapers of general circulation.
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**HON. ABDULLAH B. HASHIM**
+Member of Parliament
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
