@@ -1,0 +1,248 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **211**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Benjamin T. Loong, Jaafar Apollo Mikhail L. Matalam, Abdulkarim T. Misuari, Atty. Jose I. Lorena, Abdulaziz M. Amenoden, Diamila D. Ramos, Adzfar H. Usman, Mohammad Kelie U. Antao, Eddie M. Alih, Tawakal B. Midtimbang, Mudjib C. Abu, Suwaib L. Oranon, Bassir D. Utto, Bai Maleiha B. Candao, and Michael E. Midtimbang**
+
+**AN ACT CREATING THE BUREAU OF INFORMATION AND COMMUNICATIONS TECHNOLOGY UNDER THE MINISTRY OF TRANSPORTATION AND COMMUNICATION**
+
+**EXPLANATORY NOTE**
+
+In this day and age, where most transactions can be dealt with at the touch of our smartphone or laptop screens, connectivity is no longer a want but is simply a need for everyone. Our gadgets have become our gateway to an endless stream of possibilities that are available on the internet. From communicating with our loved ones to making business transactions and even accepting payments for jobs done, almost all transactions nowadays can be done with the slab of glass and alloy that we carry around in our pockets. With the age of Information and Communication Technology at its apex, a location, nay a region, with many territories devoid of reliable mobile phone signal, is nothing short of a sin. Sadly, that is our status quo in BARMM.
+
+Based on the National ICT Household Survey in 2019, BARMM maintains the highest number of communities without cell phone signals among all the regions in the Philippines, with only 13.2% of the survey respondents admitting to having used the internet for the last three months. Only 4.5% of the households in BARMM also responded to having broadband internet at home. At the same time, most respondents clocked in with having to suffer through the most basic 2G signal as it is the only one available in their community.¹
+
+Although we have an officer assigned to the ICT needs of our region, their powers and functions are too generalized at best, with the office catering only to the most rudimentary policymaking measures related to ICT in the region. It is high time that ICT becomes a focal point in the progress of the Bangsamoro with the Bureau empowered by law to formulate strategies to better the ICT status of our region.
+
+This bill proposes many approaches to handling, developing, and improving the lives of the Bangsamoro People through better access to ICT infrastructures. Further, it also provides for the requisite cybersecurity plans in order to prevent any and all forms of breaches in cybersecurity all over the region to keep up with the ever-dynamic need to secure our database from potential exploiters. A deadline to provide free internet access in all public areas of the Bangsamoro Region is also codified in order to give us a nudge to carry out this undertaking and make it a priority for the benefit of the Bangsamoro People.
+
+With the establishment of the Bureau of Information and Communications Technology under the Ministry of Transportation and Communication, a future where better accessibility of ICT services in Bangsamoro is one giant leap closer to fruition.
+
+(Sgd.)
+**MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of Parliament – Bangsamoro Transition Authority
+
+¹ Expanded Data Analysis and Policy Research for National ICT Household Survey 2019, Philippine institute for development studies.
+
+**Chunk Complete. Ready for next group of provisions starting at the Title/Enacting Clause.**
+
+***
+
+**AN ACT CREATING THE BUREAU OF INFORMATION AND COMMUNICATIONS TECHNOLOGY UNDER THE MINISTRY OF TRANSPORTATION AND COMMUNICATION**
+
+**BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
+
+**SECTION 1. Title.** - This Act shall be known as the "**Bangsamoro Bureau of Information and Communications Technology Act of 2023**".
+
+**SECTION 2. Declaration of Policy.** - As stated in Section 21, Article IX of Republic Act No. 11054, otherwise known as Bangsamoro Organic Law that the Bangsamoro Government recognizes science and technology as essential to national and regional progress, and it shall ensure the full and effective participation of all sectors in the planning, programming, coordination, and implementation of scientific and technological researches.
+
+**SECTION 3. Creation of the Bureau of Information and Communications Technology.** - There shall be created *A Bureau of Information and Communications Technology*, hereinafter referred to as the BICT, which shall be under the Ministry of Transportation and Communications, hereinafter referred to as the MOTC, which shall be organized structurally and functionally, in accordance with the provisions of this Act.
+
+**SECTION 4. Mandate.** - The BICT shall be the primary policy, planning, coordinating, implementing, and administrative entity of the Bangsamoro Government that will plan, develop, and promote the national Information and Communications Technology (ICT) development agenda in the pursuit of a safe, secured and progressive Bangsamoro.
+
+**SECTION 5. Mission.** - The BICT shall have the following missions:
+
+*   Provide every Bangsamoro reliable access to vital ICT infrastructure and services;
+*   Prioritize the provision of ICT services in unserved and underserved areas of the Bangsamoro Region, especially the Island provinces, which have little to no access to reliable ICT services and sparse ICT infrastructure;
+*   Ensure sustainable growth of Bangsamoro ICT-enabled industries, resulting in the creation of more jobs;
+*   Create a singular digitized network of all services provided by the Bangsamoro Government for ease of access for every Bangsamoro.
+*   Support the Bangsamoro Government in fully achieving its goals;
+*   Be the enabler, innovator, achiever, and leader in pushing Bangsamoro's development and transition toward a world-class digital economy.
+
+**SECTION 6. Powers and Functions.** - To accomplish its mandate, the BICT shall have the following powers and functions:
+
+**1. Policy and Planning**
+
+1.1. Formulate, recommend, and implement regional policies, plans, programs, and guidelines that will promote the development and use of ICT with due consideration to the advantages of convergence and emerging technologies.
+
+1.2. Formulate policies and initiatives, in coordination with the Ministry of Basic, Higher and Technical Education (MBHTE), to develop and promote ICT in education consistent with the regional goals and objectives and responsive to the human resource needs of the ICT and ICT-enabled services (ICT-ES) sectors.
+
+**2. Improved Public Access**
+
+2.1. Within one year of the enactment of this Act, prioritize the prescription of rules and regulations for the establishment, operation, and maintenance of ICT infrastructures in unserved and underserved areas, in consultation with the local government units (LGUs), civil society organizations (CSOs), private sector, and the academe.
+
+2.2. Establish a free internet service that can be accessed in all government offices, state universities and colleges, and public areas using the most cost-effective telecommunications technology through partnership with private service providers as may be necessary, which shall be completed five years from the enactment of this Act.
+
+**3. Resource-sharing and Capacity-building**
+
+3.1. Harmonize and coordinate all ICT plans and initiatives to ensure knowledge, information and resource-sharing, database-building, and agency networking linkages among government agencies, consistent with E-Government objectives in particular and national objectives in general.
+
+3.2. Ensure the development and protection of integrated government ICT infrastructures and designs, considering the inventory of existing manpower, plans, programs, software, hardware, and installed systems.
+
+3.3. Assess, review, and support ICT research and development programs of the government in coordination with the Ministry of Science and Technology (MOST) and other institutions concerned.
+
+3.4. Assist and provide technical expertise to government agencies in developing guidelines for enforcing and administrating laws, standards, rules, and regulations governing ICT.
+
+3.5. Prescribe the personnel qualifications and other qualification standards essential to the effective development and operation of government ICT infrastructures and systems.
+
+3.6. Develop programs that would enhance the career advancement opportunities of ICT workers in government.
+
+3.7. Assist in the dissemination of vital information essential to disaster risk reduction through the use of ICT.
+
+3.8. Represent and negotiate for Bangsamoro's interest on matters pertaining to ICT in international bodies, in coordination with the Department of Foreign Affairs (DFA) and other institutions concerned.
+
+**4. Consumer Protection and Industry Development**
+
+4.1. Ensure and protect the rights and welfare of consumers and business users to privacy, security, and confidentiality in ICT-related matters in coordination with agencies concerned, the private sector, and relevant international bodies.
+
+4.2. Support the promotion of trade and investment opportunities in the ICT and ICT-ES sectors in coordination with the Ministry of Trade, Industry, and Tourism (MTIT), other relevant government agencies, and the private sector.
+
+4.3. Establish guidelines for public-private partnerships in implementing ICT projects for government agencies.
+
+4.4. Promote strategic partnerships and alliances between and among local and international ICT, research and development, educational and training institutions to speed up industry growth and enhance the competitiveness of Bangsamoro workers, firms, and small and medium enterprises in the global markets for ICT and ICT-ES.
+
+**5. Cybersecurity Policy and Program Coordination**
+
+5.1. Formulate a regional cybersecurity plan consisting of robust and coherent strategies that would minimize regional security risks in order to promote a peaceful, secure, open, and cooperative ICT environment.
+
+5.2. Extend immediate assistance to suppress real-time commission of cybercrime offenses and cyber-attacks against critical infrastructures and/or affecting national security through a computer emergency response team (CERT).
+
+5.3. Enhance the public-private partnership in the field of information sharing involving cyber-attacks, threats, and vulnerabilities, and coordinate in the preparation of appropriate and effective measures to prevent and suppress cybercrime as provided in R.A. No. 10175 otherwise known as the "Cybercrime Prevention Act of 2012".
+
+5.4. Monitor cybercrime cases handled by participating law and prosecution agencies and facilitate international and national cooperation on intelligence, investigations, training, and capacity building related to cybercrime prevention, suppression, and prosecution.
+
+5.5. Coordinate the support participation of the business sector, local government units, and non-government organizations in cybercrime prevention programs and other related projects.
+
+5.6. Recommend the enactment of appropriate laws, issuances, measures, and policies.
+
+5.7. Call upon any government agency to render assistance in the accomplishment of the Bureau’s mandated tasks and functions.
+
+5.8. To perform all other matters related to cybercrime prevention and suppression, including capacity building and such other functions and duties as may be necessary for the proper implementation of R.A. No. 10175.
+
+**6. Regional Development**
+
+6.1. Formulate policies in consultation with local government units and other local stakeholders and line agencies for the implementation of responsive, relevant, and comprehensive ICT-related strategies to improve the competitiveness of provincial locations for the ICT and ICT-ES industry in order to develop balanced investments between high-growth and economically depressed areas and to promote the development and widespread use of ICT.
+
+6.2. Develop plans and programs in coordination with LGUs, other local stakeholders, and line agencies to ensure that universal access to ICT services and infrastructure is effectively utilized to generate investments and opportunities in the rural area or areas unserved by the private sector.
+
+6.3. Assist, guide, and support ICT-related activities and initiatives for countryside economic development.
+
+6.4. Promote and assist LGUs and local stakeholders in developing specialized ICT-enabled investment areas by providing technical and industry-calibrated assistance in the use of ICT for the enhancement of key public services, development, and promotion of local arts and culture, tourism, digital literacy, and talent development.
+
+**Chunk Complete. Ready for next group of provisions starting at Section 7.**
+
+***
+
+**SECTION 7. Transfer of Agencies and personnel**
+
+1. The Bangsamoro Information Communications Technology Office (BICTO) is hereby abolished, and its powers and functions, applicable funds and appropriations, records, equipment, property, and personnel are transferred to the Bureau.
+
+2. The Bangsamoro Telecommunications Commission (BTC) shall coordinate with the BICT for policy and program coordination. It shall continue to operate and function in accordance with the charters, laws, or orders creating them insofar as they are not inconsistent with this Act.
+
+3. The laws and rules on government reorganization, as provided for in Republic Act No. 6656, otherwise known as the Reorganization Law, shall govern the reorganization process involved in implementing this act.
+
+**SECTION 8. Hierarchy of the BICT** – The Bureau shall be administered under the MOTC, under the control and supervision of the Director, who shall be appointed by the Minister.
+
+The Director shall have the following functions and powers:
+
+1.1. Provide executive direction and supervision over the entire operations of the BICT and its attached agencies;
+
+1.2. Establish policies and standards for the effective, efficient, and economical operation of the BICT in accordance with the programs of government;
+
+1.3. Review and approve requests for financial and manpower resources of all operating offices of the BICT;
+
+1.4. Coordinate with LGUs, other agencies, and public and private interest groups, including nongovernment organizations (NGOs) and people’s organizations (POs), on BICT policies and initiatives;
+
+1.5. Advise the Minister on the promulgation of administrative orders and formulation of regulatory and legislative proposals on matters pertaining to ICT development;
+
+1.6. Formulate such rules and regulations and exercise such other powers as may be required to implement the objectives of this Act; and
+
+1.7. Perform such other tasks as may be provided by law or assigned by the Minister.
+
+**SECTION 9. Transitory Provisions**
+
+9.1. The transfer of functions, assets, funds, equipment, properties, transactions, and personnel of the affected agencies, and the formulation of the internal organic structure, staffing pattern, operating system, and revised budget of this Bureau shall be completed within six (6) months from the effectivity of this Act, during which time, the existing personnel shall continue to assume their posts in holdover capacities until new appointments are issued: Provided, That after the abolition of tie agencies as specified in Section 7 of this Act, the Bureau, in coordination with the MFBM, shall determine and create new positions, the funding requirements of which shall not exceed the equivalent cost of positions abolished.
+
+9.2. For the purposes of the ipso facto enactment of this act, the current sitting Executive Director of the BICTO will serve as the Director of the BICT under a coterminous status. The succeeding directors of the BICT shall be appointed based on the rules set forth by Section 8 of this act.
+
+**SECTION 10. Structure and Staffing Pattern of the BICT** - The organizational and staffing pattern, save the position of the Director of the Bureau, shall be determined by the Bureau.
+
+**SECTION 11. Provincial Offices** – The BICT shall establish, operate, and maintain a provincial office in the different administrative provinces of the Bangsamoro region. Each provincial office shall be headed by a Provincial Director, who may be assisted by one (1) Assistant Provincial Director. The Provincial Director and Assistant Provincial Director shall be appointed by the Minister. The provincial offices shall have, within their respective administrative regions, the following functions:
+
+1. Implement laws, policies, plans, programs, projects, rules, and regulations of the BICT;
+
+2. Provide efficient and effective services to the people;
+
+3. Coordinate with regional offices of other ministries, offices, and agencies;
+
+4. Coordinate with the LGUs; and
+
+5. Perform such other functions as may be provided by law or assigned by the Minister and Director.
+
+**SECTION 12. Repealing Clause.** – Title III, Chapter 3, Sections 66 and 67 of Bangsamoro Act No. 13, otherwise known as the Bangsamoro Administrative Code, is hereby repealed. All other regional acts, decrees, instructions, rules, and regulations or parts thereof inconsistent with the provisions of this act are hereby repealed or modified accordingly.
+
+**SECTION 13. Separability Clause.** - If, for any reason, any section or provision of this Act is declared unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+**SECTION 14. Effectivity Clause.** - This Act shall take effect fifteen (15) days after its publication in two (2) regional newspapers of general circulation.
+
+**APPROVED,**
+
+Author:
+
+(Sgd.)
+**HON. MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+
+Co-authors:
+
+**HON. MP ATTY. LAISA A. ALAMIA**
+
+**HON. MP ENGR. BAINTAN A. AMPATUAN**
+
+**HON. MP ATTY. RASOL Y. MITMUG**
+
+**HON. MP AMILBAHAR S. MAWALLIL**
+
+**HON. MP ATTY. SUHARTO M. AMBOLODTO**
+
+**HON. MP RASOL E. ISMAEL**
+
+**HON. MP BENJAMIN T. LOONG**
+
+**HON. MP JAAFAR APOLLO MIKHAIL L. MATALAM**
+
+**HON. MP ABDULKARIM T. MISUARI**
+
+**HON. MP ATTY. JOSE I. LORENA**
+
+**HON. MP ABDULAZIZ M. AMENODEN**
+
+**HON. MP DIAMILA D. RAMOS**
+
+**HON. MP ADZFAR H. USMAN**
+
+**HON. MP MOHAMMAD KELIE U. ANTAO**
+
+**HON. MP EDDIE M. ALIH**
+
+**HON. MP TAWAKAL B. MIDTIMBANG**
+
+**HON. MP MUDJIB C. ABU**
+
+**HON. MP SUWAIB L. ORANON**
+
+**HON. MP BASSIR D. UTTO**
+
+**HON. MP BAI MALEIHA B. CANDAO**
+
+**HON. MP MICHAEL E. MIDTIMBANG**
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+*Secretary General*
+
+Attested:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+*Speaker*
+
