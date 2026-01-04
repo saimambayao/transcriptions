@@ -1,0 +1,176 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. 170
+
+Authored by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Hatimil E. Hassan, Bai Maleiha B. Candao, Suwaib L. Oranon, Abdulaziz M. Amenoden, Eddie M. Alih, Tawakal B. Midtimbang, Tarhata M. Maglangit, Michael E. Midtimbang, Atty. Jose I. Lorena, Abdulkarim T. Misuari, Nurredha I. Misuari, Matarul M. Estino, and Ramon A. Piang Sr.**
+
+**AN ACT**
+**PROVIDING FOR THE RECOGNITION OF THE BEST LUPON TAGAPAMAYAPA AND THE PROMOTION OF BARANGAY JUSTICE SYSTEM, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Section 6, Article IV of Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law (BOL) provides that:
+
+"*Promotion of Unity. – The Bangsamoro Government shall promote unity, peace, justice, and goodwill among all peoples, as well as encourage a just and peaceful settlement of disputes.*"
+
+The Barangay Justice System provides an alternative mode for dispute resolution to the costly and lengthy process of settling disputes in regular courts thereby negating the common view that justice works only for the rich and it maximizes the use of time-honored traditions and practices of communities in settling disputes between community members in recognition of traditional customary practices in some indigenous communities¹. The Lupon Tagapamayapa is the body that comprises the barangay justice system and on it sits the barangay captain and 10 to 20 members. The body is normally constituted every three years and holds office until a new body is constituted. Studies show that there is a direct and positive relationship between rewards and recognition and job satisfaction and motivation. Research has proven that employees who get recognized tend to have higher self-esteem, more confidence, more willingness to take on new challenges and more eagerness to be innovative.
+
+The national government has existing systems of granting economic benefits and other incentives to Lupon Tagapamayapa that demonstrate exemplary performance in settling disputes at the grassroots level. Hence, it is high time for the Bangsamoro government to institutionalize mechanisms that will support the national government in strengthening the implementation and promotion of the Barangay Justice System.
+
+In accordance with the above-mentioned mandate, a *Best Lupon Tagapamayapa* award will be institutionalized in order to recognize the valuable contribution of Lupons and promote the Barangay justice system.
+
+For these reasons, this representation earnestly asks for the approval of the bill.
+
+(Sgd.)
+**HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of the Parliament – Bangsamoro Transition Authority
+
+¹ Silvia Sanz-Ramos Rojo. The Barangay Justice System in the Philippines: Is It An Effective Alternative To Improve Access to Justice for Disadvantaged People? (2002)
+
+**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. 170
+
+Authored by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Hatimil E. Hassan, Bai Maleiha B. Candao, Suwaib L. Oranon, Abdulaziz M. Amenoden, Eddie M. Alih, Tawakal B. Midtimbang, Tarhata M. Maglangit, Michael E. Midtimbang, Atty. Jose I. Lorena, Abdulkarim T. Misuari, Nurredha I. Misuari, Matarul M. Estino, and Ramon A. Piang Sr.**
+
+**AN ACT**
+**PROVIDING FOR THE RECOGNITION OF THE BEST LUPON TAGAPAMAYAPA AND THE PROMOTION OF BARANGAY JUSTICE SYSTEM, AND APPROPRIATING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:*
+
+**SECTION 1. Short Title.** – This Act shall be known as the “**Lupon Tagapamayapa Act of 2023**”.
+
+**SECTION 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro Government to promote unity, peace, justice, and goodwill among all peoples, as well as encourage a just and peaceful settlement of disputes.²
+
+**SECTION 3. Definition of Terms.** – For the purpose of this Act, “Lupon Tagapamayapa” refers to the body constituted in accordance with Section 399 of the Local Government Code of 1991 or with the applicable provision of the Bangsamoro Local Governance Code.
+
+**SECTION 4. Criteria and Qualification.** – The Ministry of Interior and Local Government shall develop and formulate criteria, qualifications, and disqualifications upon which the giving of the award and incentive provided in the next succeeding Section shall be based.
+
+**SECTION 5. Awards and Incentives.** – The award to be given to the Lupon Tagapamayapa shall be called “*Best Lupon Tagapamayapa*”. In addition, the following incentives shall be given:
+
+1. Plaque/Medal – The awardees shall each receive a commemorative plaque and/or medal;
+2. Monetary Grant – The awardees shall each receive Thirty Thousand Pesos (P30,000). This grant may be increased whenever circumstances so warrant; and
+3. The recipient shall be invited to regional events that salute the importance of the Barangay Justice System.
+
+Subject to Section 4 of this Act, there shall be one (1) recipient of the “*Best Lupon Tagapamayapa*” award in each of the municipalities and cities within the Bangsamoro Autonomous Region in Muslim Mindanao annually.
+
+**SECTION 6. Implementing Agency.** – Within ninety (90) days from the approval of this Act, the Ministry of Interior and Local Government shall develop and adopt a program to effectuate the provisions of this Act and promulgate such rules and regulations that will govern the selection of the “*Best Lupon Tagapamayapa*”.
+
+**SECTION 7. Appropriations Clause.** – The amount necessary to carry out the provisions of this Act shall be included in the Bangsamoro Appropriations Act.
+
+**SECTION 8. Repealing Clause.** – All regional laws, decrees, orders, rules and regulations, other issuances, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 9. Separability Clause.** – If any provision of this Act is declared unconstitutional or invalid by a court of competent jurisdiction, all other parts or provisions not affected thereby shall continue to remain in full force and effect.
+
+**SECTION 10. Effectivity.** – This Act shall take effect fifteen (15) days after its complete publication in at least two (2) regional newspapers of general circulation.
+
+APPROVED,
+
+Author:
+
+(Sgd.)
+**HON. MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+
+Co-authors:
+
+(Sgd.)
+**HON. MP ATTY. LAISA A. ALAMIA**
+
+(Sgd.)
+**HON. MP BENJAMIN T. LOONG**
+
+(Sgd.)
+**HON. MP ENGR. BAINTAN A. AMPATUAN**
+
+(Sgd.)
+**HON. MP ATTY. RASOL Y. MITMUG**
+
+(Sgd.)
+**HON. MP AMILBAHAR S. MAWALLIL**
+
+(Sgd.)
+**HON. MP ATTY. SUHARTO M. AMBOLODTO**
+
+(Sgd.)
+**HON. MP RASOL E. ISMAEL**
+
+(Sgd.)
+**HON. MP ATTY. JOHN ANTHONY L. LIM**
+
+(Sgd.)
+**HON. MP HATIMIL E. HASSAN**
+
+(Sgd.)
+**HON. MP BAI MALEIHA B. CANDAO**
+
+(Sgd.)
+**HON. MP SUWAIB L. ORANON**
+
+(Sgd.)
+**HON. MP ABDULAZIZ M. AMENODEN**
+
+(Sgd.)
+**HON. MP EDDIE M. ALIH**
+
+(Sgd.)
+**HON. MP TAWAKAL B. MIDTIMBANG**
+
+(Sgd.)
+**HON. MP TARHATA M. MAGLANGIT**
+
+(Sgd.)
+**HON. MP MICHAEL E. MIDTIMBANG**
+
+(Sgd.)
+**HON. MP ATTY. JOSE I. LORENA**
+
+(Sgd.)
+**HON. MP ABDULKARIM T. MISUARI**
+
+(Sgd.)
+**HON. MP NURREDHA I. MISUARI**
+
+(Sgd.)
+**HON. MP MATARUL M. ESTINO**
+
+(Sgd.)
+**HON. MP RAMON A. PIANG SR.**
+
+Certified Correct:
+
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested by:
+
+(Sgd.)
+**HON. ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
+² Section 6, Article IV of Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law (BOL)
+
