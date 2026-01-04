@@ -1,0 +1,310 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Regular Session
+BTA Bill No. **159**
+
+Authored/Introduced by:
+**MP MOHAMMAD KELIE U. ANTAO, AL-HAJ;**
+**MP TAWAKAL B. MIDTIMBANG; MP MUDJIB C. ABU; MP BASSIR D. UTTO;**
+**MP SUWAIB L. ORANON AND MP EDDIE M. ALIH**
+
+Co-authored by:
+**MP BAILENG S. MANTAWIL; MP DIAMILA D. RAMOS; MP ABDULWAHAB M. PAK;**
+**MP ABDULAZIZ M. AMENODIN; MP DENMARTIN A. KAHALAN;**
+**MP DON MUSTAPHA A. LOONG; MP RAMON A. PIANG SR.;**
+**MP ADZFAR H. USMAN; MP MICHAEL E. MIDTIMBANG;**
+**MP DENMARTIN A. KAHALAN AND**
+**MP DAN S. ASNAWIE**
+
+**AN ACT TO INSTITUTIONALIZE THE USE OF PEOPLE’S ALTERNATIVE SYSTEM IN ADDRESSING DISPUTES (PASAD) IN THE BANGSAMORO AND TO ESTABLISH THE OFFICE FOR PASAD, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+The creation of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) is a stimulating phenomenon where the new Bangsamoro government can showcase its commitment to moral governance and its endeavor to expedite the delivery of basic services, and eventually to the institutionalization of justpeace and sustainable development in the region. Thrilled by this optimistic perspective, the neighboring communities of the BARMM, especially those surrounding the Special Geographic Area (SGA), composed of sixty-three (63) barangays from the province of Cotabato that opted for inclusion in the February 9, 2019 plebiscite, are closely monitoring the political and socioeconomic development of the region.
+
+The Bangsamoro government is consistently providing scores of assistance to the different provinces in the autonomous region such as, but not limited to infrastructure and socioeconomic development projects. With these interventions, appreciable changes have been felt since the commencement of the new regional government in 2020. Despite this progress, normalization in the Bangsamoro is still affected by intermittent occurrence of violent disputes between and among individuals and groups in some of the region’s strategic areas, which oftentimes bring long-term negative effects.
+
+Violent disputes have been a perennial problem particularly in the SGA, Maguindanao and Lanao provinces, and in some other parts of the island provinces of the autonomous region. This problem ordinarily results in social displacement, destruction of public and private properties, loss of lives and interruption of economic activities in the affected area. Nevertheless, leaving these violent disputes unattended will greatly affect the collective desire of the Bangsamoro and Philippine governments for the constituents of the region to feel and enjoy the fruits of normalization such as, but not limited to political stability, social order and security ascendancy, and development sustainability.
+
+The aspired normalization in the region is not the sole responsibility of the government, but the communities as well. People’s active and critical participation in this endeavor is indeed crucial. Normalization in the region essentially lies on how these experienced violent disputes are addressed cooperatively among the government, the leaders of various community sectors and the constituents.
+
+Related response to the foregoing problem, an intervention titled “People’s Alternative System in Addressing Disputes or PASAD” was introduced in the SGA by MP Mohammad Kelie U. Antao in 2021, and found effective in addressing disputes. However, the very limited allocation of the PASAD program from his MOOE, due to his equally important other concerns for the common good of the constituents, hinders him to reach out more communities having similar problem, not to mention the sustainability of the program in these limited number of communities. Thus, the need to institutionalize the PASAD not only in the SGA but also in other parts of BARMM, create the Office for PASAD office in every province in the Bangsamoro, and provide funds for its operation.
+
+PASAD is a Maguindanaon word which means “promise or agreement”. It is a mechanism, a program and a movement in its entirety. It is a mechanism as it observes a variety of traditional systems, processes, approaches and strategies to resolve dispute, whichever is acceptable to the disputing parties. Also, it is a program as it integrates and provides a set of measures and activities with a particular long-term objective to institutionalize justpeace and sustainable development in the Bangsamoro which is the requisite of normal life in the region. Moreover, it is a movement as it advocates for and seeks the cooperation of organized multi-sectoral groups and individuals to come up with loosely organized efforts to address disputes in the area with long-term effect.
+
+The bill is supported by the national government as evidenced in Republic Act No. 9285, s. 2004, otherwise known as the Alternative Dispute Resolution Act of 2004”; and by the Bangsamoro government in allusion to Republic Act No. 11054, otherwise known as the “Bangsamoro Organic Law of 2018”;
+
+Republic Act No. 9285, s. 2004 is an act to institutionalize the use of an Alternative Dispute Resolution System in the Philippines and to establish the Office for Alternative Dispute Resolution, and for other purposes, where the following provisions are established:
+
+a) Section 2 (*Declaration of Policies*), Chapter 1 (*General Provisions*) states that “it is hereby declared the policy of the State to actively promote party autonomy in the resolution of disputes or the freedom of the party to make their own arrangements to resolve their disputes. Towards this end, the State shall encourage and actively promote the use of Alternative Dispute Resolution (ADR) as an important means to achieve speedy and impartial justice and declog court dockets. As such, the State shall provide means for the use of ADR as an efficient tool and an alternative procedure for the resolution of appropriate cases. Likewise, the State shall enlist active private sector participation in the settlement of disputes through ADR”;
+
+b) Paragraph “a”, Section 3 (*Definition of Terms*), Chapter 1 (*General Provisions*) defines “**Alternative Dispute Resolution System**” as means, any process or procedure used to resolve a dispute or controversy, other than by adjudication of a presiding judge of a court or an officer of a government agency, as defined in this Act, in which a neutral third party participates to assist in the resolution of issues, which includes arbitration, mediation, conciliation, early neutral evaluation, mini-trial, or any combination thereof;
+
+c) Paragraph “b” of the above Section and Chapter defines "**ADR Provider**" as institutions or persons accredited as mediator, conciliator, arbitrator, neutral evaluator, or any person exercising similar functions in any Alternative Dispute Resolution system. This is without prejudice to the rights of the parties to choose non-accredited individuals to act as mediator, conciliator, arbitrator, or neutral evaluator of their dispute”; and
+
+d) Section 48, Chapter 8 (*Miscellaneous Provisions*) states the need for the establishment of Office for Alternative Dispute Resolution as an attached agency to the Department of Justice (DOJ), whose core objects, as enumerated in Paragraph “b”, are to promote, develop and expand the use of ADR in the private and public sectors; and to assist the government to monitor, study and evaluate the use by the public and the private sector of ADR…”, among others.
+
+Meanwhile, Republic Act No. 11054, s. 2019, otherwise known as the “Bangsamoro Organic Law (BOL)”, specifically manifests direct support to this bill as below stipulated:
+
+> “***The Bangsamoro Government shall adopt the principles of conciliation and mediation in settling disputes, with the Parliament enacting the necessary legislation to institute the mechanism for alternative dispute resolution. The Shariah courts and traditional or tribal adjudicatory tribunals may utilize this mode of settlement and resolution of cases***” (Sec. 20, Art, X - Bangsamoro Judicial System)
+
+Other related Bangsamoro Organic Law (BOL) provisions include the following:
+
+a) Section 6 (*Promotion of Unity*), Article IV (General Principle and Policies) which states that “The Bangsamoro Government shall promote unity, peace, justice, and goodwill among all peoples, as well as encourage a just and peaceful settlement of disputes”; and
+
+b) Section 9 (*Interim bureaucracy*), Article XVI (Bangsamoro Transition Authority) which allows the BTA to create offices .... without prejudice to the authority of the Bangsamoro Government to reorganize the bureaucracy upon its constitution, or any time thereafter”; and
+
+c) Section 2 (*Self Governance*), Art. IV (*General Principles*) which permits the BARMM to freely pursue its political, economic, social and cultural development tasks as provided for in this Organic Law.
+
+The bill seeks to address violent disputes in the SGA through the adoption of “People’s Alternative System in Addressing Dispute (PASAD) as a complementing mechanism, program and movement; and eventually, to institutionalize sustainable peace and development in the area. Hence, the approval of this bill by the Bangsamoro Parliament is earnest prayed.
+
+**PRINCIPAL AUTHORS:**
+
+(Sgd.)
+**MOHAMMAD KELIE U. ANTAO**
+Member of Parliament
+
+**TAWAKAL B. MIDTIMBANG**
+Member of Parliament
+
+**MUDJIB C. ABU**
+Member of Parliament
+
+**BASSIR D. UTTO**
+Member of Parliament
+
+**SUWAIB L. ORANON**
+Member of Parliament
+
+**EDDIE M. ALIH**
+Member of Parliament
+
+**Chunk Complete. Ready for next group of provisions starting at ARTICLE 1.**
+
+***
+
+**AN ACT TO INSTITUTIONALIZE THE USE OF PEOPLE’S ALTERNATIVE SYSTEM IN ADDRESSING DISPUTES (PASAD) IN THE BANGSAMORO AND TO ESTABLISH THE OFFICE FOR PASAD, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Bangsamoro Parliament assembled:*
+
+**ARTICLE 1 - GENERAL PROVISIONS**
+
+**SECTION 1. Title.** - This Act shall be known as the “**People’s Alternative System of Addressing Disputes Act**”, otherwise known as the “**PASAD Act of 2023**”.
+
+**SEC. 2. Purpose.** - The Act endeavors to ensure that, as far as possible, people take genuine steps to resolve disputes before certain court actions are instituted, and to promote the autonomy of the parties in the resolution of their differences using a mutually exclusive process or processes agreeable to them.
+
+Towards this end, the Bangsamoro government shall provide support to the use of alternative ways of dispute resolution to achieve speedy, impartial, and inexpensive justice by encouraging early dispute resolution, and consequently promote justpeace and sustainable development in the region.
+
+This Act shall be without prejudice to the existing mechanism on Alternative Dispute Resolution (ADR) before the court, under the Philippine Alternative Dispute Resolution Act of 2004, traditional or tribal laws of addressing disputes, the Barangay justice system and any similar alternative procedures as a means of achieving resolution of the dispute.
+
+**SEC. 3. Definition of Terms.** - For purposes of this Act, the hereunder terms shall be used:
+
+a) “**Alternative Dispute Resolution**” (or ADR) shall mean a mechanism for the resolution of disputes or differences of opinion through procedures agreed upon by the parties such as, but not limited to resolution outside courts by consultation, negotiation, mediation, conciliation, Islamic Sulh, and traditional or tribal laws;
+
+b) "**Confidential information**" means any information, relative to the subject of dispute resolution, expressly intended by the source not to be disclosed, or obtained under circumstances that would create a reasonable expectation on behalf of the source that the information shall not be disclosed.
+
+c) “**PASAD Procedure**” is any or combination of mutually inclusive ways or methods people can use to resolve disputes without a formal trial. These processes or intercessions may include, but not limited to:
+
+(1) “*Arbitration*” refers to an alternative process or intercession which a dispute is submitted, on agreement by and between the disputing parties, to a neutral party, called an arbitrator or a group of arbitrators, who make a binding decision on the dispute by rendering an award;
+
+(2) “*Case appraisal*” is another alternative procedure or intercession where a neutral third party, called a case appraiser or a group of case appraisers, helps the parties resolve their dispute by providing a non-binding opinion on the facts and the likely outcomes. This non-binding opinion may also include advice regarding the disputing parties’ next steps;
+
+(3) “*Conciliation*” refers to a form of intervention in addressing dispute where an independent third party, called a conciliator or a group of conciliators, helps people in a dispute to identify the disputed issues, develop options, consider alternatives and attempt to reach an agreement.
+
+(4) “*Mediation*” means a voluntary process in which a neutral party, called a mediator or a group of mediators, selected by the disputing parties, facilitates communication and negotiation, and assist the parties in reaching a voluntary agreement regarding a dispute.
+
+(5) “*Mini-trial*” is a consensual process of alternative dispute resolution where a representative for each of the dispute parties makes a brief presentation of the case as if at a trial. The presentations are observed by a neutral advisor(s), also called as a para-judge or a group of para-judges, and by representatives from each side who have the authority to negotiate the settlement of the dispute;
+
+(6) “*Negotiation*” is a form of direct or indirect communication whereby parties who have opposing interests discuss the form of any joint action which they might take to manage and ultimately resolve the dispute between them;
+
+(7) “*Sulh*” is a dispute resolution mechanism in Islamic law to restore peace and tranquility among the Muslim Ummah;
+
+d) “**PASAD Provider**” is a neutral third party, either individual or group, that helps parties keep their disputes out of litigation using flexible but binding dispute resolution process(es) and allow the disputing parties to have some control over the outcome of their case;
+
+e) “**Party**” refers to a person or a group of persons in dispute who voluntarily participate in a PASAD procedure;
+
+f) “**Non-Party Participant**” means a person other than a party or provider that includes counsels of each party, experts in the subject matter of a dispute and witnesses;
+
+g) “**Record**” means information written on a tangible medium or stored in an electronic or another similar medium, retrievable form; and
+
+h) “**Roster**” means a list of persons, groups or organizations qualified to provide PASAD services as neutrals.
+
+**SEC. 4. Limitations.** - This Act shall not be a substitute for a formal judicial system. They are instruments for the application of equity rather than the rule of law. As such, they cannot be expected to establish legal precedents or implement legal and social norm changes. Further, it shall not prevent the commencement of any civil action in court or arbitration, nor shall it act as a stay of or extension of any proceedings if the proceedings have been commenced.
+
+However, they can complement and support judicial reforms in the Bangsamoro.
+
+**SEC. 5. Application and Interpretation.** - In applying and construing the provisions of this Act, consideration must be given to the need to promote candor to parties and PASAD provider/intercessor through confidentiality of the PASAD process; the policy of fostering prompt, economical, and amicable resolution of disputes by the principles of integrity of determination by the parties; and the policy that the decision-making authority in the PASAD process rests with the parties.
+
+**ARTICLE 2 - THE PASAD PROCEDURE**
+
+**SEC. 6. Construct.** - PASAD is a localized Alternative Dispute Resolution (ADR) system derived from a Maguindanaon language, meaning” *promise or agreement*”. It is a process, a program and a movement in addressing a dispute between parties using a neutral third party, called PASAD provider(s), agreeable to the former.
+
+**SEC. 7. Equal Treatment of Parties.** - The parties shall be treated equally, and each party shall be given a fair and reasonable opportunity to present that party’s case.
+
+**SEC. 8. Appointment of PASAD Provider.** - The parties may agree that a dispute which arises, or which may arise, between them shall be resolved by PASAD. Upon receipt of the application or referral, the Ministry of Public Order and Safety (MPOS) shall facilitate the constitution of PASAD Provider(s), which the parties will choose.
+
+If the parties cannot agree on the choice of PASAD Provider(s), or no terms have been set concerning their appointments, the Ministry shall be authorized to appoint the PASAD Provider.
+
+Suppose the parties have agreed that a dispute arising shall be heard and decided upon by a sole PASAD Provider. In that case, the parties must endeavor to reach an agreement concerning the appointment of such sole PASAD Provider.
+
+**SEC. 9. Qualification of PASAD Provider(s).** - The neutral individuals or group who may be appointed or designated as PASAD Provider(s) must meet the following requirements:
+
+a) Preferably accredited by the Ministry of Public Order and Safety;
+
+b) At least 30 years of age;
+
+c) Having no family relationship by blood or marriage, to the third degree, with either of the disputing parties;
+
+d) Having no financial or other interest in the dispute;
+
+e) Extensive experience and active mastery in the field; and
+
+f) Accepted by the parties in dispute.
+
+**SEC. 10. Right of Recusal.** - A demand for recusal may be submitted against the PASAD Provider if there is sufficient cause and authentic evidence to give rise to doubt that such Provider will not perform their duties independently or will be biased in rendering an award. The grounds include familial, financial, or employment relationships with one of the parties or its respective legal representatives.
+
+**SEC. 11. Role of PASAD Provider.** -
+
+a) facilitate the PASAD proceedings and determine how it will be conducted;
+
+b) assist the parties in reaching a satisfactory resolution and suggest options for dispute settlement;
+
+c) act independently and impartially; and
+
+d) other related roles as may be determined by the Ministry, through the Regional PASAD Office.
+
+**SEC. 12. Commencement of PASAD.** -
+
+a) Any person may request the Ministry and initiate the PASAD by sending to the person with whom they have a dispute a written invitation regarding the PASAD.
+
+b) As facilitated by the Ministry, the written invitation shall briefly specify the matters in dispute.
+
+c) Upon receipt of a written invitation sent by the person initiating the PASAD, the person with whom they have a dispute may, in writing, accept the written invitation.
+
+d) An invitation regarding PASAD is deemed to have been rejected if the person initiating the PASAD does not receive a reply from the person with whom they have a dispute, within fifteen (15) days from the date they send the person the written invitation or within such other period specified in the written invitation.
+
+**SEC. 13. PASAD Procedure Agreement.** -
+
+a) Upon the commencement of the PASAD, the parties shall enter a procedure agreement. In an explicit written agreement, the parties are free to determine the PASAD procedures to be applied in hearing the dispute, provided this does not conflict with the provisions of this Act.
+
+b) PASAD procedure agreement shall be in writing and signed by the parties.
+
+c) PASAD procedure agreement shall contain an agreement by the parties to submit to disputes which have arisen, or which may occur between them, the appointment of a PASAD Provider, the costs to be borne by the parties if it is applicable and other matters the parties deem appropriate.
+
+d) The parties are free to agree on the place of the conduct of the PASAD. Failing such agreement, the place of the PASAD shall be any place convenient and appropriate to all parties.
+
+**SEC. 14. Conduct of PASAD.** - PASAD provider shall ensure that a dispute settlement is privately conducted, and they may meet with the parties or with each party separately. They may end the PASAD if, in their opinion, further efforts at settlement would not contribute to a satisfactory resolution of the dispute between the parties and a written declaration by the PASAD Provider to give such effect.
+
+**SEC. 15. Settlement Agreement.** - Upon the conclusion of the PASAD Procedure and the reaching of an agreement by the parties regarding a dispute, the parties shall enter into a settlement agreement. It shall be in writing and signed by the parties. The PASAD Provider shall authenticate the settlement agreement and furnish a copy of the agreement to the parties.
+
+If the parties desire, they may deposit such settlement agreement with the appropriate office of the place where one of the parties resides. Where there is a need to enforce the settlement agreement further, a petition may be filed by any of the parties with a court, and they may request the Ministry to assist them in enforcing the settlement agreement.
+
+**SEC. 16. Confidentiality of Information.** - No person shall disclose any communication in PASAD. All information obtained through a PASAD procedure shall be privileged and still confidential. All information obtained through a non-litigation dispute resolution process shall be privileged and still confidential.
+
+b) A disputing party, a neutral party, or a non-party participant may refuse to disclose and prevent any other person from disclosing a PASAD process communication.
+
+c) Confidential Information shall not be subject to discovery. It shall be inadmissible if any adversarial proceeding, whether judicial or quasi-judicial, However, evidence or information that is otherwise admissible or subject to find does not become inadmissible or protected from discovery solely because of its use in a PASAD process.
+
+d) In such an adversarial proceeding, the following persons involved or previously involved in a PASAD procedure may not be compelled to disclose confidential information obtained during the process:
+
+(i) the parties to the dispute;
+(ii) the PASAD provider;
+(iii) the counsels for the parties, especially in arbitration and mini-trial where their presence may be essential;
+(iv) the non-party participants;
+(v) any persons hired or engaged in connection with the PASAD process as secretary, stenographer, clerk or assistant; and
+(vi) any other person who obtains or possesses confidential information because of his/her profession.
+
+e) The protections of this Act shall continue to apply even if a PASAD Provider found to have failed to act impartially.
+
+f) The PASAD provider may not be called to testify to provide information gathered in a PASAD.
+
+**SEC. 17. Waiver of Confidentiality.** - A privilege arising from the confidentiality of information may be waived in a record or orally during a proceeding by the PASAD provider(s) and the parties in dispute under the following circumstances:
+
+a) a non-party participant may likewise waive a privilege arising from the confidentiality of information if such a non-party participant provides the information;
+
+b) a person who discloses confidential information shall be precluded from asserting the privilege under Section 16 hereof to bar disclosure of the rest of the information necessary to understand the previously disclosed information fully. If a person suffers loss or damages in a judicial proceeding against the person who made the disclosure; and
+
+c) a person who discloses or makes a representation about a PASAD process is precluded from asserting the privilege under Section 16 hereof to the extent that the communication prejudices another person in the proceeding, and it is necessary for the person prejudiced to respond to the representation of disclosure.
+
+**SEC. 18. Exceptions to Privilege.** - Any PASAD communication is privileged and is not subject to discovery or be admissible in evidence in any proceedings. Except with the following:
+
+a) the privilege is expressly waived in writing by the parties, the PASAD Provider and the non-party;
+
+b) it is a threat to inflict bodily injury or commit a crime;
+
+c) it is used or intended to be used to plan a crime, attempt to commit or commit a crime, or conceal a crime or criminal activity or an ongoing crime or ongoing criminal activity;
+
+d) it is sought or offered to prove or disprove a claim or complaint of professional misconduct or malpractice filed against a PASAD Provider; or
+
+e) it is desired or offered to prove or disprove a claim or complaint of professional misconduct or malpractice filed against a party, non-party, or representative of a party based on their conduct during any PASAD session.
+
+**SEC. 19. Integration of Sulh and Tribal Procedure in Addressing Dispute among Non-Moro Indigenous People.** - The Ministry shall ensure that the PASAD procedure on conciliation, peacemaking and amicable settlement is in line with the Islamic Law in the resolution of conflicts. It shall also endeavor to promote the traditional method of addressing disputes among Non-Moro Indigenous People.
+
+**ARTICLE 3 - THE OFFICE FOR PEOPLE’S ALTERNATIVE SYSTEM IN SETTLING DISPUTES**
+
+**SEC. 20. Composition and Key Personnel.** - A Regional Office for PASAD shall be established under the Ministry of Public Order and Safety (MPOS). This Office shall have a secretariat to be headed by an Executive Director. The Office shall have three (3) departments, namely: (i) Finance and Administration; (ii) Training, Accreditation and Promotion Service; and (iii) Policy, Compliance and Monitoring Service, each having their respective experienced chief.
+
+PASAD Provincial Office headed by a Provincial Administrator shall also be established in every province of BARMM including the SGA. Municipal Coordinating Office for PASAD shall likewise be instituted in every cluster or municipality of the autonomous region.
+
+**SEC. 21. Organic phenomenon.** - The Office for PASAD shall be a center of caliber service in the institution of an enlightened Bangsamoro community that empowers parties in dispute to work toward a willful and dependable agreement on the resolution of their differences that is fair and just for all. Hence, the Office shall be a dynamic advocate of both legislative and executive programs related to the generation and use by the community sectors of quality and competitive mutually exclusive dispute resolution processes.
+
+**SEC. 22. Mandate.** - The Office shall be mandated to:
+
+a) promote, develop, expand and sustain the use of mutually exclusive dispute resolution processes in the community sectors;
+
+b) assist the Bangsamoro Autonomous Government in monitoring, studying and evaluating the use by the community sectors of these processes; and
+
+c) recommend to the Bangsamoro Parliament needed statutory changes to develop in relation to programs and processes in alternative dispute resolution.
+
+**SEC. 23. Powers and Functions.** - The office shall have the following powers and functions:
+
+a) to formulate standards and policies for the training of the PASAD providers or practitioners, accreditation of service providers and practitioners, alternative dispute resolution procedures and other related programs;
+
+b) to certify that such PASAD providers have undergone the professional training provided by the Office, which may be among other requirements to accredit qualified PASAD providers by the Ministry;
+
+c) to coordinate the development, implementation, monitoring and evaluation of the PASAD programs, projects and activities of the Ministry in particular, and the BARMM government in general; and
+
+d) to perform such other powers and functions as may be necessary to carry into effect the provisions of this Act.
+
+**ARTICLE 4 - MISCELLANEOUS PROVISIONS**
+
+**SEC. 24. Appropriations.** - The amount necessary to carry out the provisions of this Act shall be included in the BARMM’s General Appropriations Act of the year following its enactment into law and thereafter.
+
+**SEC. 25. Implementing Rules and Regulations (IRR).** - Within one (1) month after the approval of this Act, the Chief Minister shall organize a Technical Working Group (TWG) to formulate the appropriate rules and regulations necessary for the implementation of this Act.
+
+**SEC. 26. Composition of the TWG.** -The group shall be composed of representatives from the Shari’ah Court, Regional Court, Bangsamoro Shari’ah Organizations, Integrated Bar of the Philippines-BARMM Chapter, academic institutions with strong ADR program, accredited ADR organizations, human rights groups and the mediation-arbitration profession sector. Qualified lawyer or Shari’ah council from the Ministry of Public Order and Safety (MPOS) and Ministry of the Interior and Local Government (MILG) shall serve as chairman and co-chairman of the TWG, respectively, The TWG shall within three (3) months after convening, submit the IRR to the Oversight Committee of the Bangsamoro Parliament for review and approval.
+
+**SEC. 27. Composition of the Oversight Committee.** - The Oversight Committee shall be composed of the chairpersons of the Committees on Public Order and Safety, Local Governments, Human Rights and other appropriate Bangsamoro Parliament committees to be identified and designated by the Parliament as members of the Oversight Committee. The committee shall become functus officio upon approval of the IRR. The chairpersons of the Parliament’s committees in Public Order and Safety and Committee on Local Government shall be the chairperson and co-chairperson of the Oversight Committee, respectively.
+
+**SEC. 28. Repealing Clause.** - All laws, decrees, executive orders, rules and regulations which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+**SEC. 29. Separability Clause.** - If for any reason or reasons, any portion or provision of this Act shall be held unconstitutional or invalid, all other parts or provisions not affected shall thereby continue to remain in full force and effect.
+
+**SEC. 30. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in at least two (2) regional newspapers of general circulation.
+
+APPROVED, __________________________
+
+**AUTHORS:**
+
+(Sgd.)
+**MOHAMMAD KELIE U. ANTAO**
+Member of Parliament
+
+**TAWAKAL B. MIDTIMBANG**
+Member of Parliament
+
+**MUDJIB C. ABU**
+Member of Parliament
+
+**BASSIR D. UTTO**
+Member of Parliament
+
+**SUWAIB L. ORANON**
+Member of Parliament
+
+**EDDIE M. ALIH**
+Member of Parliament
+
