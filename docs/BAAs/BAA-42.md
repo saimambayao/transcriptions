@@ -1,4 +1,4 @@
-BILL NO. 130
+**BILL NO. 130**
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -8,37 +8,37 @@ Bangsamoro Government Center, Cotabato City
 BANGSAMORO TRANSITION AUTHORITY
 (SECOND REGULAR SESSION)
 
-BANGSAMORO AUTONOMY ACT NO. 42
+**BANGSAMORO AUTONOMY ACT NO. 42**
 
 Begun and held in Cotabato City, on Thursday, the 15th day of September 2022.
 
-AN ACT
-CREATING THE MUNICIPALITY OF KADAYANGAN,
-APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+**AN ACT**
+**CREATING THE MUNICIPALITY OF KADAYANGAN,**
+**APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
-SECTION 1. Declaration of Policy. — In the exercise of genuine autonomy and self-governance, the Bangsamoro Government is empowered to create, divide, merge, abolish, or substantially alter boundaries of municipalities or barangays in accordance with a law enacted by the Parliament. The municipalities or barangays created, divided, merged, or whose boundaries are substantially altered, shall be entitled to their appropriate share in the national tax allotment: Provided, That it shall be approved by a majority of the votes cast in a plebiscite in the political units directly affected.
+**SECTION 1. Declaration of Policy.** — In the exercise of genuine autonomy and self-governance, the Bangsamoro Government is empowered to create, divide, merge, abolish, or substantially alter boundaries of municipalities or barangays in accordance with a law enacted by the Parliament. The municipalities or barangays created, divided, merged, or whose boundaries are substantially altered, shall be entitled to their appropriate share in the national tax allotment: Provided, That it shall be approved by a majority of the votes cast in a plebiscite in the political units directly affected.
 
-SEC. 2. Creation of the Municipality. — The Barangays of Central Labas, Kapinpilan, Malingao, Mudseng, Sambulawan, Tugal and Tumbras, in the Municipality of Midsayap, North Cotabato, which petitioned and voted to be included in the Bangsamoro Autonomous Region in Muslim Mindanao in the 2019 plebiscite, are hereby separated from the said municipality. As such, said barangays are constituted into a distinct and independent municipality to be known as the Municipality of Kadayangan, Special Geographic Area of the Bangsamoro Autonomous Region in Muslim Mindanao.
+**SEC. 2. Creation of the Municipality.** — The Barangays of Central Labas, Kapinpilan, Malingao, Mudseng, Sambulawan, Tugal and Tumbras, in the Municipality of Midsayap, North Cotabato, which petitioned and voted to be included in the Bangsamoro Autonomous Region in Muslim Mindanao in the 2019 plebiscite, are hereby separated from the said municipality. As such, said barangays are constituted into a distinct and independent municipality to be known as the Municipality of Kadayangan, Special Geographic Area of the Bangsamoro Autonomous Region in Muslim Mindanao.
 
-SEC. 3. Seat of Government. – The seat of government of the new Municipality of Kadayangan shall be established in Barangay Kapinpilan.
+**SEC. 3. Seat of Government.** – The seat of government of the new Municipality of Kadayangan shall be established in Barangay Kapinpilan.
 
-SEC. 4. Territorial Boundary. – The territorial boundary of the new municipality shall follow the existing boundaries of the constituent barangays as above enumerated.
+**SEC. 4. Territorial Boundary.** – The territorial boundary of the new municipality shall follow the existing boundaries of the constituent barangays as above enumerated.
 
-SEC. 5. Plebiscite Requirement. – The Municipality of Kadayangan shall acquire corporate existence upon ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the barangays comprising the municipality pursuant to Section 2 hereof within sixty (60) days after the approval of the Act.
+**SEC. 5. Plebiscite Requirement.** – The Municipality of Kadayangan shall acquire corporate existence upon ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the barangays comprising the municipality pursuant to Section 2 hereof within sixty (60) days after the approval of the Act.
 
-SEC. 6. Conduct of Plebiscite. – The Commission on Elections, through the Bangsamoro Electoral Office, shall conduct and supervise the plebiscite. The expenses in holding the plebiscite shall be taken out of the current fiscal year appropriations of the Bangsamoro Government, subject to usual accounting and auditing rules and regulations.
+**SEC. 6. Conduct of Plebiscite.** – The Commission on Elections, through the Bangsamoro Electoral Office, shall conduct and supervise the plebiscite. The expenses in holding the plebiscite shall be taken out of the current fiscal year appropriations of the Bangsamoro Government, subject to usual accounting and auditing rules and regulations.
 
-SEC. 7. Appointment of Municipal Officials. – The first mayor, vice-mayor, and the eight (8) members of the Sangguniang Bayan of the new municipality shall be appointed by the Chief Minister of the Bangsamoro Autonomous Region in Muslim Mindanao with due regard to representation of women of the Bangsamoro. They shall continue to hold office until their successors shall have been elected in the next general elections for local officials, and shall have qualified: Provided, That the incumbent elective members of the Sangguniang Bayan of the Municipality of Midsayap who are actual residents of the new municipality shall serve the remaining terms of their elective offices in said mother municipality.
+**SEC. 7. Appointment of Municipal Officials.** – The first mayor, vice-mayor, and the eight (8) members of the Sangguniang Bayan of the new municipality shall be appointed by the Chief Minister of the Bangsamoro Autonomous Region in Muslim Mindanao with due regard to representation of women of the Bangsamoro. They shall continue to hold office until their successors shall have been elected in the next general elections for local officials, and shall have qualified: Provided, That the incumbent elective members of the Sangguniang Bayan of the Municipality of Midsayap who are actual residents of the new municipality shall serve the remaining terms of their elective offices in said mother municipality.
 
-SEC. 8. Financial Assistance Pending Entitlement to National Tax Allotment. — The Bangsamoro Government shall appropriate and provide financial assistance for the administration and operation of the Municipal Government of Kadayangan every month until such time as the new municipality shall have been allocated its share in the national tax allotment, subject to usual accounting and auditing rules and regulations.
+**SEC. 8. Financial Assistance Pending Entitlement to National Tax Allotment.** — The Bangsamoro Government shall appropriate and provide financial assistance for the administration and operation of the Municipal Government of Kadayangan every month until such time as the new municipality shall have been allocated its share in the national tax allotment, subject to usual accounting and auditing rules and regulations.
 
-SEC. 9. Separability Clause. – If, for any cause, any part of this Act is declared unconstitutional or contrary to the provisions of Republic Act No. 11054 or the Bangsamoro Organic Law, the rest of the provisions hereof which are not affected shall remain in full force and effect.
+**SEC. 9. Separability Clause.** – If, for any cause, any part of this Act is declared unconstitutional or contrary to the provisions of Republic Act No. 11054 or the Bangsamoro Organic Law, the rest of the provisions hereof which are not affected shall remain in full force and effect.
 
-SEC. 10. Repealing Clause. – All laws, decrees, executive orders, or regulations any part thereof which may be contrary or inconsistent to this Act are hereby repealed, amended, modified or altered accordingly.
+**SEC. 10. Repealing Clause.** – All laws, decrees, executive orders, or regulations any part thereof which may be contrary or inconsistent to this Act are hereby repealed, amended, modified or altered accordingly.
 
-SEC. 11. Effectivity. – This Act shall take effect after fifteen (15) days from its publication in the Bangsamoro Gazette or in one (1) newspaper of regional circulation.
+**SEC. 11. Effectivity.** – This Act shall take effect after fifteen (15) days from its publication in the Bangsamoro Gazette or in one (1) newspaper of regional circulation.
 
 ATTY. PANGALIAN M. BALINDONG
 Speaker

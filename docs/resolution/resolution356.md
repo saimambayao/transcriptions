@@ -6,7 +6,7 @@ Bangsamoro Government Center, Cotabato City
 
 SECOND REGULAR SESSION
 
-RESOLUTION NO. 356
+**RESOLUTION NO. 356**
 
 RESOLUTION URGING THE CONCERNED BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM) MINISTRIES AND LOCAL GOVERNMENT UNITS (LGUs) TO PROVIDE HOUSING SETTLEMENT FOR THE VICTIMS OF TYPHOON PAENG IN BARMM AREAS WHO WERE CONSIDERED HOMELESS
 
@@ -14,13 +14,13 @@ WHEREAS, it is the policy of the State pursuant to Section 9, Article XIII of th
 
 WHEREAS, Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law mandates, thus:
 
-ARTICLE IX
+**ARTICLE IX**
 
 BASIC RIGHTS
 
-Section 8. Right of Access to Basic Services. – The Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects, power and electricity, and water inhabitants of the Bangsamoro Autonomous Region. It shall maintain appropriate disaster-preparedness units for immediate and effective relief services to victims of natural and man-made calamities. It shall also ensure the rehabilitation of calamity-effected areas and victims of calamities.
+**Section 8. Right of Access to Basic Services.** – The Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects, power and electricity, and water inhabitants of the Bangsamoro Autonomous Region. It shall maintain appropriate disaster-preparedness units for immediate and effective relief services to victims of natural and man-made calamities. It shall also ensure the rehabilitation of calamity-effected areas and victims of calamities.
 
-Section 9. Housing and Human Settlements. – The Parliament shall pass a law creating a housing and human settlements agency to address the lack of shelters, settlements, and livelihood for the disadvantaged and homeless, especially those victims of conflicts and atrocities. The agency may directly solicit and receive assistance, donations, aids, and grants from donors for its housing, settlements, and livelihood programs and development.
+**Section 9. Housing and Human Settlements.** – The Parliament shall pass a law creating a housing and human settlements agency to address the lack of shelters, settlements, and livelihood for the disadvantaged and homeless, especially those victims of conflicts and atrocities. The agency may directly solicit and receive assistance, donations, aids, and grants from donors for its housing, settlements, and livelihood programs and development.
 
 The Bangsamoro Government, in cooperation with private sector shall develop its own housing and human settlement programs. (Emphasis supplied)
 

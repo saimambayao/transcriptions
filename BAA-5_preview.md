@@ -43,9 +43,9 @@ ESTABLISHMENT AND FUNCTIONS OF THE BANGSAMORO ATTORNEY-GENERAL’S OFFICE
 
 **Section 3. Creation.** – The Bangsamoro Attorney-General’s Office is hereby created pursuant to Section 8, Article XVI of Republic Act No. 11054.
 
-**Section 4. Mandate of the Bangsamoro Attorney-General’s.** – The Bangsamoro Attorney-General is the chief legal counsel of the Bangsamoro Government.
+**Section 4. Mandate of the Bangsamoro Attorney**-General’s. – The Bangsamoro Attorney-General is the chief legal counsel of the Bangsamoro Government.
 
-**Section 5. Appointments of Attorney-General and Assistant Attorney-General.** – The Chief Minister shall appoint the Bangsamoro Attorney-General and the Bangsamoro Assistant Attorney-General. In line with the primarily confidential nature of the positions, the appointments of the Bangsamoro Attorney-General and Bangsamoro Assistant Attorney-General shall be coterminous with the appointing authority.
+**Section 5. Appointments of Attorney**-General and Assistant Attorney-General. – The Chief Minister shall appoint the Bangsamoro Attorney-General and the Bangsamoro Assistant Attorney-General. In line with the primarily confidential nature of the positions, the appointments of the Bangsamoro Attorney-General and Bangsamoro Assistant Attorney-General shall be coterminous with the appointing authority.
 
 The Bangsamoro Attorney-General shall be the appointing authority of all officials and employees below the Bangsamoro Assistant Attorney-General, subject to civil service laws, and applicable rules and regulations.
 
@@ -57,7 +57,7 @@ The Bangsamoro Assistant Attorney-General shall be a citizen of the Philippines,
 
 The Bangsamoro Attorney-General and Bangsamoro Assistant Attorney-General shall be entitled to benefits and other emoluments as may be prescribed by the civil service law, and other applicable rules and regulations.
 
-**Section 8. Functions of the Bangsamoro Attorney-General.** –
+**Section 8. Functions of the Bangsamoro Attorney**-General. –
 
 (1) The Bangsamoro Attorney-General shall:
 
@@ -69,7 +69,7 @@ The Bangsamoro Attorney-General and Bangsamoro Assistant Attorney-General shall 
 
 (2) In the execution of the functions conferred by this Act, the Bangsamoro Attorney-General shall provide efficient and professional legal services to the Bangsamoro Government for the purpose of facilitating, promoting and monitoring democracy, the rule of law and good governance.
 
-**Section 9. Powers of the Bangsamoro Attorney-General.** –
+**Section 9. Powers of the Bangsamoro Attorney**-General. –
 
 (1) The Bangsamoro Attorney-General, in discharging the functions under this Act, shall have the power to:
 (a) require any officer or employee in the Bangsamoro Government to furnish any information in relation to the performance of his or her duties and functions as provided in this Act;
@@ -83,12 +83,12 @@ The Bangsamoro Attorney-General and Bangsamoro Assistant Attorney-General shall 
 
 (3) The Bangsamoro Attorney-General shall, upon request, appear and advise on any legal matter in any committee of the Bangsamoro Parliament.
 
-**Section 10. Bangsamoro Assistant Attorney-General.** –
+**Section 10. Bangsamoro Assistant Attorney**-General. –
 
 (1) The Bangsamoro Assistant Attorney-General shall advise and assist the Bangsamoro Attorney-General in formulating and implementing policies and programs and in providing overall supervision and direction to divisions of the Office.
 (2) The Bangsamoro Assistant Attorney-General shall perform such other functions as may be assigned to him/her by the Bangsamoro Attorney-General.
 
-**Section 11. Divisions in the Bangsamoro Attorney-General’s Office.** –
+**Section 11. Divisions in the Bangsamoro Attorney**-General’s Office. –
 
 (1) The Office consists of the following Divisions:
 (a) Litigation Division (LD)
@@ -140,11 +140,11 @@ LEGAL LIASON NETWORK OF THE BANGSAMORO GOVERNMENT
 
 **Section 14. Administrative Support.** – The Bangsamoro Attorney-General shall manage the budget allocated to its office. For this purpose the Bangsamoro Government shall directly transfer and release to the Bangsamoro Attorney-General’s Office its regular fund allocation.
 
-**Section 15. Referral of matters for opinion of the Bangsamoro Attorney-General.** – All Bangsamoro ministries, agencies, offices, or instrumentalities may seek the opinion of the Bangsamoro Attorney-General on matters involving constitutional issues.
+**Section 15. Referral of matters for opinion of the Bangsamoro Attorney**-General. – All Bangsamoro ministries, agencies, offices, or instrumentalities may seek the opinion of the Bangsamoro Attorney-General on matters involving constitutional issues.
 
 Legal officers of ministries, agencies, offices and other instrumentalities of the Bangsamoro Government may render legal opinions on other matters, copy-furnished the Bangsamoro Attorney-General’s Office.
 
-**Section 16. Notice to the Bangsamoro Attorney-General.** – All Bangsamoro ministries, agencies, offices, or instrumentalities shall notify the Bangsamoro Attorney-General of all litigation within three (3) days upon notice. No case or litigation of any kind shall be filed or commenced in behalf of the Bangsamoro Government, its ministries, commissions, agencies and other offices without prior notice to the Bangsamoro Attorney-General.
+**Section 16. Notice to the Bangsamoro Attorney**-General. – All Bangsamoro ministries, agencies, offices, or instrumentalities shall notify the Bangsamoro Attorney-General of all litigation within three (3) days upon notice. No case or litigation of any kind shall be filed or commenced in behalf of the Bangsamoro Government, its ministries, commissions, agencies and other offices without prior notice to the Bangsamoro Attorney-General.
 
 **ARTICLE IV**
 MISCELLANEOUS PROVISIONS

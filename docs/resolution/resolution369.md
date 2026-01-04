@@ -6,17 +6,17 @@ Bangsamoro Government Center, Cotabato City
 
 SECOND REGULAR SESSION
 
-RESOLUTION NO. 369
+**RESOLUTION NO. 369**
 
 RESOLUTION URGING THE BANGSAMORO GOVERNMENT THROUGH THE MINISTRY OF HEALTH (MOH) TO CONDUCT A FEASIBILITY STUDY ON THE POSSIBLE PROCUREMENT AND ACQUISITION OF LOW-COST HIGH EFFICIENT OXYGEN GENERATORS AMONG THE TWENTY-SEVEN (27) HOSPITALS OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)
 
 WHEREAS, Republic Act No. 11054 otherwise known as the “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao” states that:
 
-Section 7, Article IV, Social Justice. - The Bangsamoro Government shall ensure every Filipino citizen in its territorial jurisdiction the provision of the basic necessities and equal opportunities in life. Social justice shall be promoted in all aspects of life and phases of development in the Bangsamoro Autonomous Region;
+**Section 7, Article IV, Social Justice.** - The Bangsamoro Government shall ensure every Filipino citizen in its territorial jurisdiction the provision of the basic necessities and equal opportunities in life. Social justice shall be promoted in all aspects of life and phases of development in the Bangsamoro Autonomous Region;
 
-Section 3, Article V, General Welfare - The Bangsamoro Government shall exercise the power expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for its efficient and effective government and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among its residents, maintain peace and order, and preserve the comfort and convenience of its inhabitants;
+**Section 3, Article V, General Welfare** - The Bangsamoro Government shall exercise the power expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for its efficient and effective government and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among its residents, maintain peace and order, and preserve the comfort and convenience of its inhabitants;
 
-Section 22, Article IX, Comprehensive and Integrated Health Service Delivery. - The Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. It shall establish by law a general hospital system to serve the health requirements of its people and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services;
+**Section 22, Article IX, Comprehensive and Integrated Health Service Delivery.** - The Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. It shall establish by law a general hospital system to serve the health requirements of its people and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services;
 
 The Bangsamoro Government shall protect and promote the right to health of the people and instill health consciousness among them. It shall also uphold the peoples' right to have access to essential goods, health, and other social services that promote their well-being;
 
