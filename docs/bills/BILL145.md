@@ -1,0 +1,93 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+**Parliament Bill No. 145**
+
+Introduced by:
+**MP ROMEO K. SEMA, DPA**
+
+Co-authors:
+**MP KADIL M. SINOLINDING, JR. | MP HASHEMI N. DILANGALEN | MP SITTIE FAHANIE S. UY-OYOD | MP ALI MONTAHA D. BABAO | MP MUSLIMIN A. JAKILAN | MP ALBAKIL D. JIKIRI | MP FAISAL G. KARON | MP TARHATA M. MAGLANGIT | MP HAMID U. MALIK | MP ABDULKALIM T. MISUARI | MP NURREDHA I. MISUARI | MP ADZFAR H. USMAN, MP SUHARTO M. AMBOLODTO | MP SUSANA S. ANAYATIN | MP MATARUL M. ESTINO | MP ABDULLAH E. GAYAK | MP HATIMIL E. HASSAN | MP DENMARTIN A. KAHALAN | MP ISHAK V. MASTURA | MP AMILBAHAR S. MAWALLIL | MP FROILYN T. MENDOZA | MP RASOL Y. MITMUG, JR., | MP NABILA MARGRAITA P. PANGANDAMAN | MP RANDOLPH C. PARCASIO | MP RAMON A. PIANG, SR. | MP ALI B. SANGKI | MP BASSIR D. UTTO | MP ABDULWAHAB M. PAK | MP JOSE I. LORENA**
+
+**AN ACT ESTABLISHING A DIALYSIS CENTER FOR BARMM IN COTABATO SANITARIUM AND GENERAL HOSPITAL, PINARING, SULTAN KUDARAT AND APPROPRIATING FUNDS THEREOF**
+
+**EXPLANATORY NOTE**
+
+The 1987 Constitution declares under Article II, Section 15 thereof that the State shall protect and promote the right to health of the people and instill health consciousness among them. Likewise, Section 22 of RA 11054, otherwise known as the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao, provides that the Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. The same provision further affirms that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services. In pursuant to this mandate, a Dialysis Center is sought to be established by this proposed bill.
+
+Renal diseases have been identified by the Department of Health as one of the major causes of disease-related deaths in the Philippines. In Cotabato Sanitarium and General Hospital alone, there are a total of 162 patients for the year 2022 who are potentially needing dialysis treatment. There is already a significant number of patients in BARMM who are suffering from renal diseases and are needing dialysis treatment for their chronic maintenance. However, at present, there are no sufficient medical facilities within BARMM, including Cotabato Sanitarium and General Hospital, to accommodate their medications. Patients have to seek hospitals and facilities in bigger cities for their treatment, in effect, incurring more expenses and inconvenience to the patients.
+
+As to cost, dialysis treatment may amount to more or less Php 4,500 per session. A patient normally undergoes two to three sessions per week, thereby making the treatment cost around Php 9,000 to Php 13,000 per week. Such cost is even way beyond the minimum wage in the region.
+
+Indeed, the accessibility and costs of dialysis centers place a great burden on kidney patients in BARMM. Treatment is a luxury that only the rich can afford. It must be addressed. Hence, this intervention.
+
+The immediate passage of this bill is earnestly sought.
+
+**ROMEO K. SEMA, DPA**
+Member of the Parliament
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+**Parliament Bill No. 145**
+
+Introduced by:
+**MP ROMEO K. SEMA, DPA**
+
+Co-authors:
+**MP KADIL M. SINOLINDING, JR. | MP HASHEMI N. DILANGALEN | MP SITTIE FAHANIE S. UY-OYOD | MP ALI MONTAHA D. BABAO | MP MUSLIMIN A. JAKILAN | MP ALBAKIL D. JIKIRI | MP FAISAL G. KARON | MP TARHATA M. MAGLANGIT | MP HAMID U. MALIK | MP ABDULKALIM T. MISUARI | MP NURREDHA I. MISUARI | MP ADZFAR H. USMAN, MP SUHARTO M. AMBOLODTO | MP SUSANA S. ANAYATIN | MP MATARUL M. ESTINO | MP ABDULLAH E. GAYAK | MP HATIMIL E. HASSAN | MP DENMARTIN A. KAHALAN | MP ISHAK V. MASTURA | MP AMILBAHAR S. MAWALLIL | MP FROILYN T. MENDOZA | MP RASOL Y. MITMUG, JR., | MP NABILA MARGRAITA P. PANGANDAMAN | MP RANDOLPH C. PARCASIO | MP RAMON A. PIANG, SR. | MP ALI B. SANGKI | MP BASSIR D. UTTO | MP ABDULWAHAB M. PAK | MP JOSE I. LORENA**
+
+**AN ACT ESTABLISHING A DIALYSIS CENTER FOR BARMM IN COTABATO SANITARIUM AND GENERAL HOSPITAL, PINARING, SULTAN KUDARAT AND APPROPRIATING FUNDS THEREOF**
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao Assembled:*
+
+**SECTION 1. Short Title.** – This Act shall be known as “Establishment of Dialysis Center in BARMM”.
+
+**SECTION 2. Purpose.** – The primary objective of this proposal is to equip the public hospital of Cotabato Sanitarium and General Hospital of facilities and equipment needed to operate a dialysis center and accommodate the needs of patients in BARMM who are suffering from renal diseases and reliant on chronic maintenance dialysis.
+
+**SECTION 3. Declaration of Policy** – It is the declared policy of the Bangsamoro Government in accordance with the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao, specifically under Section 9 thereof, that the Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, among others and, under Section 22 thereof, that it adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents.
+
+**SECTION 4. Establishment.** – It is hereby established a Dialysis Center in BARMM which shall be built in Cotabato Sanitarium and General Hospital, Pinaring, Sultan Kudarat and operated by the said hospital.
+
+**SECTION 5. Definition of Terms.** – As used in this Act, the terms below shall have the meanings ascribed to them in this section. Any words or terms not defined shall be given their plain and ordinary meaning, unless the context requires otherwise, and shall be interpreted in a manner consistent with the object and purpose of this Act.
+
+a) *Hospital* refers to Cotabato Sanitarium and General Hospital in Pinaring, Sultan Kudarat, BARMM.
+b) *Indigent Patient* refers to a patient who has no visible means of income, compensation, or financial assistance from his/her family members to support his/her basic needs, as determined by the Barangay of his residence or Minister of Social Services and Development. It shall also refer to a patient whose combined annual family income does not exceed One Hundred Thousand Pesos (Php 100,000.00).
+c) *Service Fee* refers to the charge for the services rendered by the Dialysis Clinic in performing dialysis treatment and care.
+d) *Supplier’s cost per treatment* refers to an amount being offered by a supplier or provider of a dialysis system as stipulated in a procurement contract that the procuring entity agreed to pay.
+
+**SECTION 6. Operations of the Dialysis Center.** – Cotabato Sanitarium and General Hospital shall provide for a building and space for the Dialysis Center. It shall also hire/designate physicians, nurses, and administrative staff to operate the Dialysis Center. The construction for such building/space and the compensation of additional personnel shall be charged against the available budget and funds of Cotabato Sanitarium and General Hospital.
+
+**SECTION 7. Service Fee.** – The service fee for the dialysis treatment shall not be more than 110% of the supplier’s cost per treatment. No service fee shall, however, be charged for indigent patients.
+
+**SECTION 8. Utilization of the Dialysis Treatment Services Fund.** – The collection generated from the dialysis treatment services shall accrue to the income of the Dialysis Center and shall primarily provide for its operation.
+
+**SECTION 9. Assistance Funds for Initial Operation** – The Ministry of Health shall, through its Ayudang Medikal mula sa Bangsamoro Government (AMBaG) Program, allocate assistance funds for purposes of augmenting the initial expenses of the Dialysis Clinic during its first year of operation.
+
+**SECTION 10. Appropriations.** – The amount of Twenty Million Pesos (Php 20,000,000.00) is hereby appropriated for the purchase of facilities, equipment, machines, and supplies needed for the initial operation of the Dialysis Center.
+
+**SECTION 11. Ownership and Maintenance.** – All purchased equipment and supply for the operation of the Dialysis Center shall be under the ownership and maintenance of the Cotabato Sanitarium and General Hospital. Execution of contracts and deeds for purposes of transferring ownership to Cotabato Sanitarium and General Hospital may be executed to implement this provision.
+
+**SECTION 12. Implementing Rules and Regulations.** – The Ministry of Health and the operation of the Dialysis Center shall be primarily responsible for the implementation of this Act. The two agencies shall form a Joint Technical Working Group to formulate the Implementing Rules and Regulations for the hiring of required personnel; procurement of facilities, equipment, machines, and supplies; construction of the Dialysis Center pursuant to DOH AO No. 2012-0001 and 2013-0003; licensing and regulation of the Dialysis Center; and among other powers necessary for the implementation of this Act.
+
+**SECTION 13. Separability Clause.** – If any provision of this Act or any part thereof be declared unconstitutional or invalid, the same shall not affect the validity of the other provisions of this act.
+
+**SECTION 14. Repealing Clause.** – All laws, decrees, executive orders, rules and regulations or part thereof deemed inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**SECTION 15. Effectivity.** – This Act shall take effect fifteen (15) days after its publication in a newspaper of local circulation in BARMM.
+
+Approved,
+
+**ROMEO K. SEMA, DPA**
+Member of the Parliament
+
