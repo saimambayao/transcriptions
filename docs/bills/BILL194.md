@@ -1,0 +1,140 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. 194
+
+INTRODUCED BY PRINCIPAL AUTHORS:
+**HON. RASOL Y. MITMUG, JR.**
+
+CO-AUTHORS:
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. AMILBAHAR S. MAWALLIL, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI**
+
+**EXPLANATORY NOTE**
+
+It is no doubt that the COVID-19 pandemic has adversely affected not just public health but all aspects of society. Economies all over the globe have been hard-hit by the pandemic, leaving millions jobless and seeking new forms of livelihood. The Philippines has not been spared of these adverse effects, as the informal workers have been at the forefront of this crisis.
+
+Informal workers consist of daily wage earners such as public transport drivers, vendors, and small and medium enterprises both in the retail and service sectors. In 2008, there were about 10.5 million informal sector operators (IS operators) identified in the Informal Sector Survey (2008 ISS) of the Philippines conducted by the National Statistics Office. The 10.5 million IS operators is broken down into the following: 41.3% were engaged in agriculture, hunting, and forestry, IS operators in wholesale and retail trade accounted for more than one-fourth (29.6%) of the total IS operators while those in transport, storage and communications, about 10%. Moreover, data from the Labor Force Survey, indicated that 38.3% of those employed are in vulnerable forms of employment. This means that, nearly 2 out of 5 workers are less likely to have formal work arrangements and access to social protection and are more at risk during a crisis or shock. As informal workers generally operate outside the bounds of government oversight, the lack of statistics or data makes them vulnerable to exploitation and abuses.
+
+Within the Bangsamoro Autonomous Region in Muslim Mindanao, the health crisis only worsened the pre-existing inequalities and poverty incidences in the region, which mainly operates as an agricultural economy with a large informal sector (low income and tax collections). Unemployment shot up to 29.8% due to the pandemic, the highest in the country. Although there have been programs put in place to mitigate the economic crisis, these are insufficient to bridge the gap.
+
+The UNDP’s Socioeconomic Impact Assessment of Covid-19 in the Bangsamoro Autonomous Region in Muslim Mindanao Report highlighted some of the following key concerns: mobility restrictions continue to affect work and businesses that resulted in income declines, work stoppages, reduced working hours, and unemployment, heavily affecting the informal economy sector; and women and children are more likely to bear the brunt of the social and economic consequences of the pandemic (income affected as informal workers, education affected as lockdowns enforce school closure or distance learning).
+
+Among the report’s policy recommendations are the following: (1) **building a database on vulnerable sectors to enhance policy effectiveness**, (2) assessing current social protection programs in BARMM to enhance efficiency, effectiveness, and transitioning to universal social protection, (3) exploring opportunities to diversify and broaden sources of economic growth, (4) creating a stimulus package for the informal sector to start/restart their business and livelihood, (4) and undertaking research on women as they form the majority of informal economy sector.
+
+With huge number of informal workers losing their incomes during lockdown and acknowledging their impact to the economy, it is imperative to provide protection in extending assistance through formulation of meaningful policies, programs, activities and other possible interventions. However, the government remains “statistically blind” to the exact figures of the informal workers in the country and even the national government also made the same call to this effect.
+
+Through this measure, taking cognizance of the various forms of crises, natural or human-made, setting-up a database of informal workers is imperative which would address the issue on the quality of employment of these informal workers, and to assist the local government units (LGUs) to have a standardized identification of recipients for relief assistance.
+
+As the Bangsamoro government is mandated to pass labor laws that expand or enhance the rights of workers, it is for this reason, that the immediate passage of this bill is earnestly sought.
+
+Chunk Complete. Ready for next group of provisions starting at **Parliament Bill No. 194 (Main Act Body)**.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. 194
+
+INTRODUCED BY PRINCIPAL AUTHORS:
+**HON. RASOL Y. MITMUG, JR.**
+
+CO-AUTHORS:
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. AMILBAHAR S. MAWALLIL, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI**
+
+**AN ACT INSTITUTIONALIZING THE REGISTRATION AND REGIONAL DATABASE FOR INFORMAL WORKERS, ECONOMIC UNITS, AND ORGANIZATIONS OR ASSOCIATIONS WITHIN THE BANGSAMORO AUTONOMOUS REGION**
+
+Be it ordained by the Bangsamoro Parliament, in session assembled:
+
+**Section 1. SHORT TITLE.** – This Act shall be known as **“INFORMAL ECONOMY REGISTRATION AND BANGSAMORO DATABASE ACT”**.
+
+**Section 2. DECLARATION OF POLICY.** – It is the policy of the Bangsamoro Government to promote and enhance the rights of all workers to full employment, the right to participate in policy and decision-making processes affecting their rights and benefits, the rights to security of tenure, humane conditions of work, and a living wage.
+
+Towards this end, the Bangsamoro government shall establish a regional registry that would serve as a database system of informal workers within the Bangsamoro Autonomous Region to address the issue on the quality of employment of these informal workers and will likewise assist the LGUs to standardize identification of recipients for relief assistance in times of disasters.
+
+**Section 3. COVERAGE.** – This Act shall cover all workers and economic units, including enterprises, entrepreneurs, and household in the informal economy, across the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), in particular:
+
+a.) Those in the informal economy who own and operate economic units, including self-employed workers, self-employed own-account workers, employers, members of cooperatives, and members of other social and solidarity economy units;
+
+b.) Home-based workers or contributing family workers, irrespective of whether they work in economic units in the formal or informal economy;
+
+c.) Employees holding informal jobs in or for formal enterprises, or for economic units in the informal economy, including those in contract arrangement and/or in supply chains, or as paid domestic workers employed by households;
+
+d.) Workers in unrecognized or unregulated employment relationships;
+
+e.) Agricultural workers or fisherfolk in unrecognized or unregulated agricultural or farming endeavors and fishing activities; and
+
+f.) Non-regular domestic workers.
+
+**Section 4. DEFINITION OF TERMS.** – As used in this Act, the following terms are defined as follows:
+
+a.) **Informal Sector Units** – per International Labour Organization (ILO), these are very small scale units producing and distributing goods and services, and consisting largely of independent self-employed producers in urban areas of developing countries, some of whom also employ family labor and/or a few hired workers or apprentices; which operate with very little capital or none at all; which utilize a low level of technology and skills; which therefore operate at a low level of productivity; and which generally provide very low and irregular incomes and highly unstable employment to those who work in it. They are informal in the sense that they are for the most part unregistered and unrecorded in official statistics; they tend to have little or no access to organized markets, to credit institutions, or to many public services and amenities; they are not recognized, supported or regulated by the government; they are often compelled by circumstances to operate outside of the framework of the law and even where they are registered and respect certain aspects of the law they are almost invariably beyond the pale of social protection, labor legislation and protective measures of the workplace.
+
+b.) **Informal Economy (IE)** – refers to all economic activity by workers and economic units that are, in law or in practice, not covered or insufficiently covered by laws or formal arrangements. It does not cover illicit activities, in particular the provision of services or the production, sale, possession or use of goods forbidden by law, including the illicit production and trafficking of drugs, the illicit manufacturing of and trafficking in firearms, trafficking in persons, and money laundering, as defined in the international treaties.
+
+c.) **Informal Economy Workers' Organization** – refers to a group of informal economy workers that are organized with the primary objective of promoting the rights and welfare of workers in the informal economy. A group of IE workers that are not recognized, registered, regulated or protected under the Labor Code.
+
+d.) **Informal Employment** – refers to an employment arrangement in the formal or informal sectors or in households that exist based mostly on casual employment, kinship or personal and social relations with no formal guarantees on legal protection and benefits economic units that are unregistered, unlicensed, and unregulated.
+
+e.) **Own-account worker** – refers to workers who, working on their own account or with one or more partners, hold the type of job defined as a self-employed job, and have not engaged on a continuous basis any employees to work for them during the reference period.
+
+f.) **Social and Solidarity Economy Units** – refer to enterprises and organizations including cooperatives as defined under Republic Act No. 9520 (Philippine Cooperative Code of 2008), mutual benefit societies, associations, foundations, and social enterprises which produce goods, services and knowledge that meet the needs of the community they serve, through the pursuit of specific social and environmental objectives and the fostering of solidarity.
+
+Chunk Complete. Ready for next group of provisions starting at **Section 5. REGISTRATION**.
+
+***
+
+**Section 5. REGISTRATION.** – Pursuant to its functions under Republic Act 7160 (Local Government Code of 1991) as amended, the LGUs through its Local Development Council, through its Secretariat or through the creation of a sectoral of functional committee, shall establish a system of registration of workers of the IE. The system shall be as follows:
+
+a) **Workers** – There shall be a simple and standard system of registration in accordance with the principles of this Act. Any IE worker registered in the local government provided for in this Act shall be listed in a local database system and shall be issued an identification card and a record book that shall list all services and benefits availed of. These also signify eligibility to avail of other assistance and development programs: *Provided, That* the poorest and the most vulnerable workers shall be given priority, including workers who are severely and directly affected by a national emergency.
+
+The concerned local government unit (LGU) shall review, revalidate and reassess such local database as a tool for planning and for other purposes every two (2) years from the date of last registration. Renewal of eligibility shall be in accordance with the merit and fitness principle, and with the conditions that no child labor shall be used and no activities harmful to the environment shall be implemented.
+
+A one-time registration fee of not more than Fifty pesos (Php 50.00) per individual worker, shall be paid to the municipality or city where they reside.
+
+b) **Informal Economic Unit** – A local comprehensive database of all economic units shall be developed and maintained. Such database shall take into account the different sub-classifications in terms of asset size, number of workers, social insurance provided, statutory benefits and wages, industry, geography, premises, sex, ethnicity, vulnerability, and roles and functions. Moreover, the local database shall include information on payments collected by the LGU from IE workers, organizations, and economic units.
+
+All local government units shall formulate a uniform and simple checklist of requirements for registration and establish an Informal Economy One- Stop Shop Center or designate an existing office that shall handle all transactions and processing of business permit applications within their respective jurisdiction and worker's registration. The Center or the designated office shall ensure that the processing of relevant permits and licenses of the Informal Economic Units shall comply with Republic Act No. 11032 (Ease of Doing Business and Efficient Government Service Delivery Act of 2018).
+
+c) **Informal Economy Organizations or Associations (IEO/A).** – IEO/As shall register or accredit with the Ministry of Labor and Employment (MOLE). The MOLE shall create a checklist of requirements for registration.
+
+**Section 6. REGIONAL DATABASE OF THE INFORMAL ECONOMY.** – The MOLE, in coordination with Bangsamoro Planning and Development Authority (BPDA), shall establish and maintain a Regional Database of workers, economic units, and organizations or associations of the Informal Economy. The information in the Regional Database shall primarily be the registration of data about the informal workers collected by the LGUs through their Local Development Councils; *Provided, That* the Ministry of Interior and Local Government (MILG) shall issue necessary orders and guidelines for the proper consolidation of registration data from local databases.
+
+The Regional Database shall serve as the official registry and basis of the Bangsamoro government in providing assistance or any interventions such as plans, programs, projects, and activities related to the Informal Economy.
+
+**Section 7. ASSESSMENT AND MONITORING OF GROWTH.** – Every three (3) years after the effectivity of this Act, the MOLE, in coordination with the BPDA, shall publish a report on the status and growth of employment and business activities or enterprises in the Informal Economy. The Regional Database referred to in this Act shall be the basis of the assessment and monitoring.
+
+**Section 8. IMPLEMENTING RULES AND REGULATIONS.** – The MOLE, MILG, and BPDA shall, within one hundred eighty (180) days from the effectivity of this Act, jointly formulate and issue the implementing rules and regulations necessary to carry out the provisions of this Act.
+
+**Section 9. SEPARABILITY CLAUSE.** – If any part, section or provision of this Act shall be held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and binding.
+
+**Section 10. REPEALING CLAUSE.** – All regional laws, orders, rules and regulations, or parts thereof, which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+**Section 11. EFFECTIVITY CLAUSE.** – This Act shall take effect after fifteen (15) days after its publication in at least one (1) newspaper of general circulation in the region.
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**HON. RASOL Y. MITMUG, JR.**
+
+This Act was passed by the Bangsamoro Parliament on _____________________.
+
+Certified correct:
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
