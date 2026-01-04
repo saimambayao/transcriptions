@@ -1,0 +1,129 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Second Regular Session
+
+BTA PARLIAMENT
+BTA Parliament Bill No. **255**
+
+Introduced by
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+
+Co-Authored by:
+**MP Atty. Laisa M. Alamia, MP Amilbahar S. Mawallil, MP Atty. Suharto M. Ambolodto, MP Engr. Don Mustapha A. Loong, MP Atty. Rasol Y. Mitmug, Jr., MP Rasul E. Ismael, MP Tawakal B. Midtimbang, MP Jaafar Apollo Mikhail L. Matalam, MP Michael E. Midtimbang, MP Atty. Sittie Fahanie S. Uy-Oyod, MP Khalid Ma-Ampor Hadji Abdullah and MP Bassir. D. Utto**
+
+**AN ACT**
+**MANDATING THE CREATION OF ONE SPECIAL NEEDS EDUCATION (SPED) CENTER PER MUNICIPALITY/CITY IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**Explanatory Note**
+
+Article 26 of the Universal Declaration of Human Rights states that, "*Everyone has the right to education.*"
+
+Under the 1987 Constitution, Section 1 of Article XIV asserts that "*the State shall protect and promote the rights of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all*".
+
+This is also reiterated in Section 8, Article IX of the Republic Act No. 11054 or the Bangsamoro Organic Law (BOL), which states that the "*The Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects, power and electricity, and water inhabitants of the Bangsamoro Autonomous Region.*"
+
+Also enshrined in Section 16, Article IX of the BOL is the priority of the Bangsamoro Government to "*establish, maintain, and support a complete and integrated system of quality education, which shall be a subsystem of the national education system*". Where the "*Bangsamoro Government shall develop an educational framework relevant and responsive to the needs, ideals, and aspirations of the Bangsamoro people. For this purpose, the Bangsamoro Government shall conform to the minimum standards set by the National Government*".
+
+Every Bangsamoro must have easy and unobstructed access to quality education. The Bangsamoro Government must ensure that every child, most especially the marginalized, the disadvantaged, and those living in remote and poverty-stricken areas, must have an equal and equitable opportunity to education, regardless of their social class, race, gender, and ethnic background.
+
+Significantly, among the Bangsamoro Children are also Persons with Disabilities (PWDs). Today, children PWDs are deprived of services due to their unique needs which are not currently specifically tended to by the government. As the Bangsamoro government has an obligation to protect the rights of the youth, it is imperative that the government cater to the children with special needs (CSN) and their education. This means that every child, regardless of his/her status or condition, must be able to go to school. The government must exert more effort to provide them with an equal opportunity to become active members of society and participate in nation-building.
+
+Even though there are already established centers in the region that cater to the needs of these children, these facilities are noticeably absent in most of the municipalities in the region. In view of the increasing demand of the CSNs for a complete, adequate, and integrated system of education, it is imperative to create and establish at least one special needs education (SPED) center in every municipality/city in the Bangsamoro Autonomous Region.
+
+It is stated in Section 3, Article V of the BOL that the Bangsamoro Government shall "*exercise the power expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for the efficient and effective governance and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, the promotion of health and safety*". In pursuit of the Bangsamoro government’s primordial duty as the region’s parens patriae, or the guardian of the rights of the people, it is necessary to prioritize and act on the needs of the students.
+
+With this bill highlighting the needs of the CSNs, the provision of a better access to quality education that caters to their needs becomes imperative, where the establishment of a special education center in every municipality that caters to CSNs can provide easier and better access to education to these children.
+
+In view of the foregoing, the approval of this measure is earnestly sought.
+
+(Sgd.)
+**ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
+***
+
+**AN ACT**
+**MANDATING THE CREATION OF ONE SPECIAL NEEDS EDUCATION (SPED) CENTER PER MUNICIPALITY/CITY IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:*
+
+**Section 1. Title.** – This Act shall be known as the “**One Special Needs Education Center per Municipality/City Act of 2023**”.
+
+**Section 2. Declaration of Policy.** – It shall be the declared policy of the Bangsamoro Government to protect and promote the rights of children with special needs to quality education and to take appropriate steps to make such education accessible to them. The government shall give full support for their welfare and development and ensure their full integration in society that shall allow them to take active participation in the affairs of the government.
+
+Towards this end, the Bangsamoro Government shall guarantee the provision of quality and accessible education to all, including the children with special needs, through the establishment of special education center in every municipality throughout the Bangsamoro region.
+
+**Section 3. Definition of Terms.** – As used in this Act, the following shall be defined as follows:
+
+a) Basic Education refers to a program of instruction intended to meet the basic learning needs which provide the foundation on which subsequent learning can be based. It encompasses kindergarten, elementary and secondary education of all learners, including those with disabilities, as well as Alternative Learning Systems (ALS) as provided in Republic Act No. 11510, and Republic Act No. 10533, or the "Enhanced Basic Education Act of 2013";
+
+b) Inclusive Education refers to the process of addressing and responding to the diversity of needs of all learners by moving towards the end-goal of full participation, presence, and achievement in learning cultures and communities, which involves accommodation, modification, adaptation, and individualization in content, approaches, structures, and strategies. It involves equitable opportunities for learners with disabilities to receive educational services, and the needed support and related services with their age-appropriate peer groups and, as far as practicable, in such schools or ILRCs nearest their homes or residences, in order to prepare them to live as fully functional members of society;
+
+c) Children with special needs refers to learners with disabilities who in general early and basic education systems require additional support, adoptive pedagogic methods, and related services due to their long or short-term physical, mental, intellectual, or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others to develop them to their maximum capability;
+
+d) Related Services refer to provisions which include, but not limited to, linguistic solutions for deaf learners' concerns, speech-language pathology and audiology services, interpreting services, intervenor services, psychological services, physical and occupational therapy, recreation, social services, school health services, orientation and mobility services, medical services, and transportation services, as may be required to assist a learner with disability to fully enjoy the rights and benefits from education services;
+
+e) Special Needs Education refers to the customized instructional program or service designed to meet the diverse needs of an individual with disability, which may necessitate supplementary aids, services, and teaching strategies in the classroom or non-academic settings. They include instructions on physical and vocational education, social skills development, basic survival needs, providing reasonable accommodations, modifications, adaptations, and individualization, as needed. It includes learners with disabilities in the general education system to enable them to realize their full potential and prepare them as independent functioning members of society; and
+
+f) Special Needs Education Teacher refers to an individual who teaches academic and life skills to basic education learners who have a range of disabilities and learning difficulties using various strategies targeting the learners' holistic development. A special needs education teacher works in partnership with a general education teacher in planning, teaching, and providing support to learners with disabilities. He or she has a degree in any of the following: Bachelor of Special Needs Education, Bachelor of Elementary or Secondary Education with Specialization in Special Needs Education, or Allied Undergraduate and Graduate degrees with eighteen (18) units in Special Needs Education, and is qualified to teach Special Needs Education as provided in existing rules and regulation of the DepEd.
+
+**Section 4. Creation of One (1) Special Needs Education (SPED) Center.** – There shall be established in every municipality or city throughout the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) one special needs education (SPED) center which shall assist the Ministry of Basic, Higher and Technical Education in:
+
+a) Providing the CSN access to basic, quality, and inclusive education and other related alternative delivery services in education;
+
+b) Facilitating the CSN to be integrated in mainstream education and regular school;
+
+c) Facilitating the development of the CSN’s abilities, talents, potentials, interests and all aspect of their development to become effective and active partners in nation-building;
+
+d) Produce appropriate teaching materials for CSN; and
+
+e) Conduct assessment and facilitate the transfer of those qualified CSN to other educational institutions.
+
+**Section 5. SPED Center Personnel.** – There shall be a head teacher, referred to as the Principal, who shall be responsible for administering and supervising programs on the education of the CSN.
+
+Every center established under this Act shall have special needs education teachers and other specialized teachers who have knowledge and training in handling CSN. It must have the following personnel:
+
+a) One (1) Psychometrician;
+b) One (1) Physical Therapist;
+c) One (1) Occupational Therapist; and
+d) One (1) Speech and Language Therapist;
+
+**Section 6. Continuing Research to Identify the Special Needs of Children.** – There shall be a division created by the MBHTE which shall undertake the continuing research in identifying and designing programs that shall meet the full range of special needs of the CSN. The research shall be used to develop instructional techniques for use by the centers to be established under this act that can help the children in acquiring skills necessary for them to integrate into society. Lastly, the research shall be used to design programs that can help the centers to increase the potential of these children to participate in the community.
+
+**Section 7. Tax Exemption.** – All centers that shall be established under this Act shall be exempt from payment of all taxes, fees, assessments and other charges of the Government, its branches and subdivisions.
+
+It shall likewise be exempt from the payment of custom duties, taxes and tariffs on the importation of equipment, books, supplies, instruments, materials and goods, including donation. *Provided*, That these are of international standards and are not available from local manufactures; *Provided, further*, That the importation shall only be in such numbers as may be required by the centers.
+
+Finally, all the revenues, grants, endowments, donations, contributions, assets of the centers established under this Act actually, directly, and exclusively used for educational purposes shall be exempt from taxes and duties, subject to the conditions set forth in Section 4, Article XIV of the 1987 Constitution.
+
+**Section 8. Tax Deduction or Exemption of Donations and Contributions.** – All legacies, gifts and donations for the benefit of the centers that shall be established under this Act, or for its support and maintenance, or for aid to any of their students shall be tax-exempt and shall be an allowable deduction from gross-income of the donors, in accordance with the provisions of the National Internal Revenue Code (NIRC), as amended: *Provided*, That such donations shall not be disposed of, transferred or sold by the school for other purposes.
+
+**Section 9. Position Structure and Staffing Pattern.** – The position structure and staffing pattern of the centers established under this Act shall be in accordance with Civil Service Law, rules, and regulations. The positions created thereunder shall be filled with regular appointments.
+
+**Section 10. Faculty.** – No political beliefs, gender preferences, cultural or community affiliation, ethnic origin, and religious opinion or affiliation shall be a matter of inquiry in the appointment of faculty members of the centers established under this Act.
+
+**Section 11. Coverage.** – This Act shall cover all the municipalities/cities within the territorial jurisdiction of BARMM.
+
+**Section 12. Annual Report to the Parliament.** – The MBHTE shall submit a report to the Parliament within one year from the implementation of this Act, and every year thereafter, on the progress of the implementation of this Act.
+
+**Section 13. Implementation.** – Within sixty (60) days from the promulgation of this Act, the necessary rules and regulations for the proper implementation of its provision shall be formulated by the MBHTE in coordination with MPW and MOH.
+
+**Section 14. Mandatory Review on the Implementation of this Act.** – Every ten (10) years after the effectivity of this Act, an independent review panel composed of experts, to be appointed by the Chief Minister, shall review the implementation of this Act and shall make recommendations, based on its findings, to the Chief Minister and to the Parliament.
+
+**Section 15. Appropriations.** – The funds necessary for the implementation of this Act shall be included in the annual appropriations of the Bangsamoro Autonomous Region and submitted to the Parliament for its approval.
+
+**Section 16. Separability Clause.** – If for any cause, any part of this Act is declared unconstitutional or contrary to the provisions of Bangsamoro Organic Law, the rest of the provisions shall remain in force and effect.
+
+**Section 17. Repealing Clause.** – All laws, orders, rules, and regulations which are inconsistent with the provisions of this Act, are hereby repealed, modified, superseded, or amended accordingly.
+
+**Section 18. Effectivity.** – This Act shall take effect after fifteen (15) days following its complete publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Adopted,
+
+(Sgd.)
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
