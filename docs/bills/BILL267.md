@@ -1,0 +1,283 @@
+Republic of the Philippines
+**BANGSAMORO PARLIAMENT**
+Bangsamoro Autonomous Region in Muslim Mindanao
+BARMM Compound, Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. **267**
+(Government Bill)
+
+Introduced by:
+**GOVERNMENT OF THE DAY**
+
+**AN ACT PROVIDING FOR THE CREATION OF PARLIAMENTARY DISTRICTS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+Be it enacted by the Bangsamoro Transition Authority Parliament in a session assembled:
+
+**Section 1. Title.** – This Act shall be known as the “Parliamentary Districts Act of 2023.”
+
+**Section 2. Declaration of Policy.** – It is the declared policy of the Bangsamoro Government that the Bangsamoro Parliament shall ensure the equitable representation of the inhabitants of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) in the apportionment of parliamentary districts.
+
+**Section 3. Criteria in the Apportionment of Parliamentary Districts.** - Parliamentary districts shall be apportioned among the provinces, cities, municipalities, and geographical areas of the BARMM based on population and geographical area. Each parliamentary district shall comprise, as far as practicable, contiguous, compact, and adjacent territory, and shall have a population of at least one hundred thousand (100,000).
+
+**Section 5. Creation of Parliamentary Districts.** For purposes of the election of district representatives in the Bangsamoro Parliament, the provinces, cities, municipalities, and geographical areas in the BARMM are hereby apportioned to create thirty-two (32) single-member parliamentary districts as follows:
+
+| | TOTAL POPULATION |
+| :--- | :---: |
+| **BARMM POPULATION:** | **4,944,800¹** |
+
+¹ Philippine Statistics Authority, 2020 Census of Population and Housing
+
+**PROVINCE OF BASILAN**
+
+| **PARLIAMENTARY DISTRICTS: 3** | | **426,207** |
+| :--- | :---: | :---: |
+| **1st District** | | **147,873** |
+| City of Lamitan (Capital) | 100,150 | |
+| Akbar | 23,098 | |
+| Hadji Mohammad Ajul | 24,625 | |
+| **2nd District** | | **145,415** |
+| Tuburan | 24,742 | |
+| Tipo-Tipo | 25,531 | |
+| Al-Barka | 23,736 | |
+| Sumisip | 47,345 | |
+| Ungkaya Pukan | 24,016 | |
+| **3rd District** | | **132,964** |
+| Tabuan-Lasa | 29,327 | |
+| Lantawan | 31,040 | |
+| Maluso | 45,730 | |
+| Hadji Muhtamad | 26,867 | |
+
+**PROVINCE OF LANAO DEL SUR**
+
+| **PARLIAMENTARY DISTRICTS: 8** | | **1,195,518** |
+| :--- | :---: | :---: |
+| **1st District** | | **127,790** |
+| Kapai | 20,581 | |
+| Marantao | 37,763 | |
+| Piagapo | 30,132 | |
+| Saguiaran | 26,712 | |
+| Tagoloan II | 12,602 | |
+| **2nd District** | | **161,957** |
+| Masiu | 33,580 | |
+| Buadiposo-Buntong | 18,046 | |
+| Poona Bayabao (Gata) | 31,141 | |
+| Tamparan | 32,074 | |
+| Taraka | 27,184 | |
+| Mulondo | 19,932 | |
+| **3rd District** | | **189,755** |
+| Bubong | 26,514 | |
+| Amai Manabilang (Bumbaran) 1 | 12,124 | |
+| Lumba-Bayabao (Maguing) | 45,909 | |
+| Maguing | 30,436 | |
+| Ditsaan-Ramain | 24,406 | |
+| Wao | 50,366 | |
+
+| **4th District** | | **115,388** |
+| :--- | :---: | :---: |
+| Butig | 22,768 | |
+| Sultan Dumalondong | 12,500 | |
+| Lumbaca-Unayan | 8,131 | |
+| Marogong | 30,118 | |
+| Lumbatan | 22,780 | |
+| Lumbayanague | 19,091 | |
+| **5th District** | | **133,341** |
+| Calanogas | 14,985 | |
+| Balabagan | 29,863 | |
+| Kapatagan | 20,498 | |
+| Picong (Sultan Gumander) | 18,907 | |
+| Malabang | 49,088 | |
+| **6th District** | | **143,534** |
+| Bacolod-Kalawi (Bacolod Grande) | 23,129 | |
+| Tugaya | 24,778 | |
+| Balindong (Watu) | 32,573 | |
+| Madalum | 26,478 | |
+| Madamba | 22,050 | |
+| Pualas | 14,526 | |
+| **7th District** | | **116,743** |
+| Bayang | 28,023 | |
+| Binidayan | 25,965 | |
+| Ganassi | 30,802 | |
+| Pagayawan (Tatarikan) | 15,057 | |
+| Tubaran | 16,896 | |
+| **8th District** | | **207,010** |
+| City of Marawi (Capital) | 207,010 | |
+
+**PROVINCE OF MAGUINDANAO DEL NORTE**
+
+| **PARLIAMENTARY DISTRICTS: 4** | | **618,421** |
+| :--- | :---: | :---: |
+| **1st District** | | **111,861** |
+| Matanog | 36,034 | |
+| Barira | 36,143 | |
+| Buldon | 39,684 | |
+| **2nd District** | | **128,245** |
+| Parang | 102,914 | |
+| Sultan Mastura | 25,331 | |
+| **3rd District** | | **174,300** |
+| Sultan Kudarat (Nuling) | 105,121 | |
+| Northern Kabuntalan | 26,277 | |
+| Kabuntalan (Tumbao) | 25,439 | |
+| Talitay | 17,463 | |
+| **4th District** | | **204,015** |
+| Datu Odin Sinsuat (Dinaig) | 116,768 | |
+| Upi | 59,004 | |
+| Datu Blah T. Sinsuat | 28,243 | |
+
+**PROVINCE OF MAGUINDANAO DEL SUR**
+
+| **PARLIAMENTARY DISTRICTS: 4** | | **723,758** |
+| :--- | :---: | :---: |
+| **1st District** | | **170,060** |
+| South Upi | 43,197 | |
+| Talayan | 34,156 | |
+| Datu Anggal Midtimbang | 28,224 | |
+| Guindulungan | 24,933 | |
+| Datu Unsay | 12,890 | |
+| Datu Hoffer Ampatuan | 26,660 | |
+| **2nd District** | | **194,045** |
+| Datu Saudi-Ampatuan | 31,060 | |
+| Datu Salibo | 18,795 | |
+| Datu Piang | 28,380 | |
+| Shariff Saydona Mustapha | 25,080 | |
+| Mamasapano | 27,807 | |
+| Shariff Aguak (Maganoy) | 33,982 | |
+| Ampatuan | 28,941 | |
+| **3rd District** | | **197,279** |
+| Datu Abdullah Sangki | 30,117 | |
+| Rajah Buayan | 27,832 | |
+| Sultan sa Barongis (Lambayong) | 24,476 | |
+| Pagagawan | 37,314 | |
+| Pagalungan | 46,277 | |
+| Gen. S.K. Pendatun | 31,263 | |
+| **4th District** | | **162,374** |
+| Paglat | 18,727 | |
+| Pandag | 26,356 | |
+| Buluan | 57,406 | |
+| Datu Paglas | 33,682 | |
+| Mangudadatu | 26,203 | |
+
+**PROVINCE OF SULU**
+
+| **PARLIAMENTARY DISTRICTS: 7** | | **1,000,108** |
+| :--- | :---: | :---: |
+| **1st District** | | **181,546** |
+| Jolo (Capital) | 137,266 | |
+| Hadji Panglima Tahil (Marunggas) | 7,906 | |
+| Pangutaran | 36,374 | |
+| **2nd District** | | **164,663** |
+| Indanan | 93,168 | |
+| Parang | 71,495 | |
+| **3rd District** | | **159,685** |
+| Maimbung | 59,597 | |
+| Talipao | 100,088 | |
+| **4th District** | | **129,413** |
+| Old Panamao | 49,849 | |
+| Patikul | 79,564 | |
+| **5th District** | | **108,827** |
+| Pata | 24,736 | |
+| Tapul | 20,799 | |
+| Panglima Estino (New Panamao) | 34,249 | |
+| Lugus | 29,043 | |
+| **6th District** | | **141,108** |
+| Kalingalan Caluang | 39,549 | |
+| Luuk | 37,873 | |
+| Omar | 28,070 | |
+| Tongkil | 35,616 | |
+| **7th District** | | **114,866** |
+| Siasi | 81,689 | |
+| Pandami | 33,177 | |
+
+**PROVINCE OF TAWI-TAWI**
+
+| **PARLIAMENTARY DISTRICTS: 3** | | **440,276** |
+| :--- | :---: | :---: |
+| **1st District** | | **151,839** |
+| Bongao (Capital) | 116,118 | |
+| Mapun (Cagayan De Tawi-Tawi) | 30,038 | |
+| Turtle Islands | 5,683 | |
+| **2nd District** | | **134,575** |
+| South Ubian | 29,583 | |
+| Languyan | 37,096 | |
+| Sapa-Sapa | 33,580 | |
+| Tandubas | 34,316 | |
+| **3rd District** | | **153,862** |
+| Panglima Sugala (Balimbing) | 48,055 | |
+| Simunul | 34,245 | |
+| Sitangkai | 37,319 | |
+| Sibutu | 34,243 | |
+
+**CITY OF COTABATO**
+
+| **PARLIAMENTARY DISTRICTS: 2** | | **325,079** |
+| :--- | :---: | :---: |
+| **1st District** | | **144,117** |
+| Poblacion | 21,579 | |
+| Poblacion I | 6,074 | |
+| Poblacion II | 6,788 | |
+| Poblacion III | 3,445 | |
+| Poblacion IV | 6,947 | |
+| Poblacion VIII | 9,077 | |
+| Poblacion IX | 7,062 | |
+| Rosary Heights II | 4,400 | |
+| Rosary Heights III | 12,127 | |
+| Rosary Heights IV | 4,627 | |
+| Rosary Heights V | 6,073 | |
+| Rosary Heights VI | 7,539 | |
+| Rosary Heights VII | 10,146 | |
+| Rosary Heights VIII | 9,947 | |
+| Rosary Heights IX | 8,462 | |
+| Tamontaka I | 4,848 | |
+| Tamontaka II | 5,980 | |
+| Tamontaka III | 3,191 | |
+| Tamontaka IV | 4,210 | |
+| Tamontaka V | 1,595 | |
+| **2nd District** | | **180,962** |
+| Poblacion V | 3,375 | |
+| Poblacion VI | 5,288 | |
+| Poblacion VII | 16,293 | |
+| Bagua | 19,987 | |
+| Bagua I | 10,050 | |
+| Bagua II | 19,998 | |
+| Bagua III | 7,006 | |
+| Kalanganan | 16,366 | |
+| Kalanganan I | 6,546 | |
+| Kalanganan II | 6,578 | |
+| Rosary Heights | 15,107 | |
+| Rosary Heights I | 4,353 | |
+| Rosary Heights X | 16,597 | |
+| Rosary Heights XI | 8,613 | |
+| Rosary Heights XII | 5,092 | |
+| Rosary Heights XIII | 5,614 | |
+| Tamontaka | 14,099 | |
+
+**SPECIAL GEOGRAPHIC AREAS**
+
+| **PARLIAMENTARY DISTRICT: 1** | | **215,433** |
+| :--- | :---: | :---: |
+| **1st District** | | **215,433** |
+| Kadayangan | 25,573 | |
+| Kapalawan | 28,463 | |
+| Ligawasan | 29,784 | |
+| Malidegao | 36,438 | |
+| Nabalawag | 28,239 | |
+| Old Kaabakan | 16,658 | |
+| Pahamuddin | 19,627 | |
+| Tugunan | 30,651 | |
+
+**Section 6. Separability Clause.** – If any part of this Act is declared unconstitutional, other sections or provisions, which are not affected by such declaration, shall continue to be in full force and effect.
+
+**Section 7. Repealing Clause.** — All regional laws, rules, and regulations or parts thereof inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+**Section 8. Effectivity.** – This Act shall take effect fifteen (15) days after the completion of its publication in the Bangsamoro Gazette or in a newspaper of regional circulation in the BARMM.
+
+Approved,
+
+**HON. AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+(Sgd.)
+**MP ATTY. SHA RAJAH B. DUMAMA-ALBA**
+
