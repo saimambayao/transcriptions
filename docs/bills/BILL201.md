@@ -1,0 +1,171 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Second Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **201**
+
+Introduced by
+**MP Engr. Baintan-Adil Ampatuan, MNSA**
+
+**Co-Authors**
+**MP Amilbahar S. Mawallil, MPSA; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Don Mustapha A. Loong, MPSA; MP Atty. Rasol Y. Mitmug, Jr., CESE; and MP Rasul E. Ismael**
+
+**AN ACT**
+**GRANTING AWARDS AND INCENTIVES TO BANGSAMORO INDIVIDUALS WHO HAVE BROUGHT HONOR AND RECOGNITION TO THE BANGSAMORO AUTONOMOUS REGION BY WINNING IN NATIONAL AND INTERNATIONAL COMPETITIONS, TOPPING IN EXAMINATIONS AND OTHER NATIONAL FEATS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**Explanatory Note**
+
+Section 19 (1), Article XIV of the 1987 Constitution states that the State shall promote physical education and encourage sports programs, league competitions, and amateur sports, including training for international competitions, to foster self-discipline, teamwork, and excellence for the development of a healthy and alert citizenry.
+
+Section 13, Article IX of Republic Act No. 11054 or the Bangsamoro Organic Law (BOL) provides that the Bangsamoro Government shall recognize the vital role of the youth in nation-building, promote and protect their physical, moral, spiritual, and nationalism, encourage involvement in public and civic affairs, and promote mental and physical fitness through sports. Section 20 of the same article provides that the Bangsamoro educational system shall encourage and supports programs, league competitions, indigenous games, martial arts, and amateur sports including training for regional, national, and international competitions.
+
+Many Bangsamoro individuals have aced examinations and won competitions both at the national and international levels. These achievements have brought so much pride and honor to the Bangsamoro Autonomous Region. Achieving any accomplishment, may it be national or international, should be recognized and awarded. Not only should any impressive feat be publicly acknowledged, but such achievements should be rewarded as these Bangsamoro individuals have undergone and faced many hardships and pressures. In addition, the recognition of the exemplary performance of these individuals would inspire the Bangsamoro youth, young professionals, and other aspirants in the Bangsamoro Region to strive harder in order to excel in their chosen endeavor, aiming for greater heights of excellence.
+
+One way of acknowledging their achievements is through a grant of an incentive, whether through cash or an award given by the Bangsamoro Government. It is a way of giving back to the extraordinary acts of service and exceptional contributions rendered by them that brought pride and honor to the region. The perseverance, dedication and courage of these achievers is worthy of emulation by the entire Bangsamoro populace, most especially the youth. It is said that the youth are the present, in as much as they are our future. An empowered young person has the confidence to try on new things and take risks, which gives the youth the power to believe in themselves and recognize their capabilities, and to remind them that no dream is too big, and no goal is impossible to achieve. In addition, this can encourage them to dream bigger, push harder and live a more fulfilling life.
+
+The Bangsamoro Government has been recognizing the feats of our region and consistently expressing its support and congratulations for the Bangsamoro individuals through the filing of resolutions that honor them. It is the time to step a notch higher and honor these individuals in a much more meaningful way through this legislative act.
+
+In recognition of the exceptional feat of these Bangsamoro individuals, incentives and awards should be given to reward their hard work, patience, determination and countless days of sacrifice.
+
+In view of the foregoing, the approval of this measure is earnestly sought.
+
+(Sgd.)
+**ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
+**Chunk Complete. Ready for next group of provisions starting at the Title.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Second Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **201**
+
+Introduced by
+**MP Engr. Baintan-Adil Ampatuan, MNSA**
+
+**Co-Authors**
+**MP Amilbahar S. Mawallil, MPSA; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Don Mustapha A. Loong, MPSA; MP Atty. Rasol Y. Mitmug, Jr., CESE; and MP Rasul E. Ismael**
+
+**AN ACT**
+**GRANTING AWARDS AND INCENTIVES TO BANGSAMORO INDIVIDUALS WHO HAVE BROUGHT HONOR AND RECOGNITION TO THE BANGSAMORO AUTONOMOUS REGION BY WINNING IN NATIONAL AND INTERNATIONAL COMPETITIONS, TOPPING IN EXAMINATIONS AND OTHER NATIONAL FEATS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
+
+**Section 1. Title.** – This Act shall be known as the **“Bangsamoro Achievers Act of 2023”**.
+
+**Section 2. Declaration of Policy.** – It shall be the declared policy of the Bangsamoro Government to support and promote excellence in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) and recognize the exceptional individuals in their contribution of bringing pride and honor to the region.
+
+Towards this end, the Bangsamoro Government shall value any merit achieved by any Bangsamoro individual in all fields of human endeavor by institutionalizing the grant of awards and incentives to exceptional Bangsamoro individuals who shall win in any competition, top any examination or achieve any other award.
+
+**Section 3. Definition of Terms.** – For purposes of this Act, the following terms shall be defined as follows:
+
+a) Artists – refer to Bangsamoro individuals recognized and accredited in their respective field of arts, and who have won in arts competition, whether national or international;
+
+b) Bangsamoro Medal – a medal given to any Bangsamoro achiever which shall be given by the Senior Minister as the chairman of the committee;
+
+c) Competition – any competition promoted locally or internationally by associations, organizations, or groups duly licensed or authorized to promote or stage such competition; and
+
+d) Examination – any formal examination to test a person’s knowledge or proficiency that gives the person legal authority to practice his/her profession. This shall only include those 4-year degree or above courses.
+
+**Chunk Complete. Ready for next group of provisions starting at Section 4.**
+
+***
+
+**Section 4. Members of the Committee.** – To implement this Act, a committee is hereby created which shall be headed by a Senior Minister of the BARMM and the following shall be its members:
+
+a) Minister of Basic, Higher and Technical Education;
+b) Chairperson of the Bangsamoro Youth Commission;
+c) Chairperson of the Bangsamoro Women Commission; and
+d) Chairperson of the Bangsamoro Sports Commission.
+
+**Section 5. Functions of the Committee.** – The Committee shall have the following functions, to wit:
+
+a) Create and formulate policies and guidelines on the giving of awards and cash incentives to the Bangsamoro achievers;
+
+b) Formulate a general program that will meet the needs in the granting of awards and incentives;
+
+c) Receive and review all the names of the Bangsamoro achievers submitted for proper recognition and award;
+
+d) Determine the eligibility of the individuals to be awarded;
+
+e) Assessment of any documents to prove and verify the authenticity of any competition, examination or any award achieved;
+
+f) Keep a record of all those awarded with the Bangsamoro medal and cash incentive;
+
+g) Recommend any new awards that may be given; and
+
+h) Conduct an annual assessment of the policies and procedures, and make any adjustments if needed;
+
+**Section 6. Awards and Incentives.** – Bangsamoro individuals who shall win gold, silver, and bronze medals in any competition, top any examination or acquire any feat, whether national or international compliant to this Act’s implementing rules and regulations, shall be given an award or cash incentive in the following manner:
+
+(a) Individual competitions. – Those individuals who shall win in any international competition, as herein defined, shall be recognized and to be conferred with a Bangsamoro medal. In addition to the medal given, they shall be granted cash incentives, to wit:
+
+1) For Gold Medalists – One hundred thousand pesos (Php100,000.00);
+2) For Silver Medalists – Fifty Thousand pesos (Php50,000.00); and
+3) For Bronze Medalists – Twenty Thousand Pesos (Php 20,000.00).
+
+Those individuals who shall win in any competition held within the Philippines, he/she shall receive half of the amount of those who win in international competition.
+
+(b) Group competitions. – Those who win in any competition performed by a group, shall be recognized and conferred with a Bangsamoro medal. In addition to the medal given, they shall be granted cash incentives in the following manner:
+
+1) For competitions with less than five (5) participants per group, the group shall receive the same cash incentives for individual medal winners as herein provided, which shall then be divided equally among the members who actually competed; and
+
+2) For competitions with more than five (5) participants per group, each member of the group shall receive twenty percent (20%) of the cash incentives for individual medal winners as herein provided. However, the total cash amount to be received by the group should not exceed double the amount won by the individual winner.
+
+Those individuals who shall win in any competition held within the Philippines, he/she shall receive half of the amount of those who win in international competition.
+
+(c) Examinations. – Those who shall rank from Top 1-10 in any examination shall be recognized by the Bangsamoro Government and be conferred with a Bangsamoro medal to acknowledge their contribution to the Bangsamoro Region by bringing pride and honor. In addition to the medal given, those who shall rank from Top 1-5 shall be granted an additional cash incentive to be given in the following manner:
+
+1) An individual who shall rank Top 1 in any exam, whether national or international, shall receive one hundred thousand pesos (Php100,000.00);
+
+**Chunk Complete. Ready for next group of provisions starting at Page 6, Item 2.**
+
+***
+
+2) An individual who shall rank Top 2 in any exam, whether national or international, shall receive eighty thousand pesos (Php80,000.00);
+
+3) An individual who shall rank Top 3 in any exam, whether national or international, shall receive seventy thousand pesos (Php70,000.00);
+
+4) An individual who shall rank Top 4 in any exam, whether national or international, shall receive sixty thousand pesos (Php60,000.00);
+
+5) An individual who shall rank Top 5 in any exam, whether national or international, shall receive fifty thousand pesos (Php50,000.00);
+
+(d) Artists. – The following award and incentives shall be granted to artists and performers whose works merited the highest recognition for technical or artistic excellence in any national or international notable and prestigious competitions, film festivals and other exhibitions, to wit:
+
+1) The artists, writers, and any other performers in their creative chosen of industry who have garnered the highest award from an international competition, film festival, or exhibition shall conferred with a Bangsamoro medal and a cash incentive of Php 100,000.00. If the competition won is held within the Philippines only, the cash incentive shall be Php 50,000.00;
+
+2) The artists, writers, and any other performers in their creative chosen of industry who have garnered special recognition and/or any award not considered as the highest award from an international competition, film festival, or exhibition shall awarded by the Bangsamoro Government of a medal and a cash incentive of Php 50,000.00. If the competition won is held within the Philippines only, the cash incentive shall be Php 25,000.00;
+
+**Section 7. Annual Report to the Parliament.** – The Committee shall submit report to the Parliament within one year from the implementation of this Act, and every year thereafter.
+
+**Section 8. Coverage.** – This Act shall cover all Bangsamoro individuals and all other individuals who resides in the Bangsamoro Autonomous Region in Muslim Mindanao who shall win in any national and international competitions, top any examinations, including also those artists and performers whose works merited the highest recognition for technical or artistic excellence in any national or international notable and prestigious competitions, film festivals, and other exhibitions, and any other national feats that brings honor and recognition to the region.
+
+This Act shall also cover any recognition or title granted by prestigious and significant ceremonies, festivals, competitions, and other similar events that on a periodical basis, recognize excellent work in the various creative industries through a system of nomination, deliberation, and vote by its jurors, selecting from entries submitted from different participants.
+
+**Section 9. Implementation.** – Within sixty (60) days from the promulgation of this Act, the necessary rules and regulations for the proper implementation of its provision shall be formulated by the corroborative effort of the Committee as herein provided, together with the Ministry of Finance, Budget and Management (MFBM).
+
+**Section 10. Appropriations.** – The funds necessary to carry out the provisions of this Act shall be included in the annual appropriations of the Bangsamoro Autonomous Region and submitted to the Parliament for its approval.
+
+**Section 11. Separability Clause.** – If for any cause, any part of this Act is declared unconstitutional or contrary to the provisions of Bangsamoro Organic Law, the rest of the provisions shall remain in force and effect.
+
+**Section 12. Repealing Clause.** – All laws, orders, rules, and regulations which are inconsistent with the provisions of this Act, are hereby repealed, modified, superseded, or amended accordingly.
+
+**Section 13. Effectivity.** – This Act shall take effect after fifteen (15) days following its complete publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Adopted,
+
+(Sgd.)
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
+
