@@ -1,0 +1,183 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **209**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Jaafar Apollo Mikhail L. Matalam, Michael E. Midtimbang, Hatimil E. Hassan, Tawakal B. Midtimbang, Albakil D. Jikiri, Abdulaziz M. Amenoden, Dan S. Asnawie, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Nabila Margarita P. Pangandaman, and Denmartin A. Kahalan**
+
+**AN ACT ESTABLISHING BANGSAMORO PROVINCIAL GOVERNMENT CENTERS IN SULU, BASILAN, TAWI-TAWI AND LANAO DEL SUR, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+This bill mandates the establishment of Government Centers in Sulu, Tawi-Tawi, Basilan, and Lanao del Sur.
+
+Experience from across the world shows that bringing the government closer to constituents has a positive impact on reducing poverty and inequality, accelerating rural development, and enhancing the participation of citizens in their development. Studies have highlighted the impact that proximity can have on unlocking the potential of regions, improving services to people, and stimulating citizen participation in decision-making.¹
+
+At present, some of the provincial offices of the Bangsamoro Government are occupying buildings on a lease, which are usually far from each other, due to the unavailability of spaces and the absence of a single Government Center. In some cases, the offices are situated in an area or building which is not even visible to the public. The present setup adversely affects not only the constituents but the government itself in terms of advantage, feasibility, and practicality.
+
+By establishing a government center in a single area that will house the buildings of the provincial offices of the various ministries, commissions, offices, as well as the satellite offices of the Members of the Parliament, the Bangsamoro government as a whole will be more accessible and responsive to the needs of its constituents.
+
+Likewise, the establishment of facilities in various provinces will allow the Bangsamoro Government to adopt *space planning*, which involves the establishment of specific use for different areas within facilities. In government buildings, it means pairing the capabilities of space with the demands of the people coming to them. This involves a more in-depth understanding of operations. For example, there are government facilities that do not have a receiving area for their clients and visitors. Government space planning satisfies the criteria for accessibility and efficiency. Coordinating space paves the way for significant benefits, which include government facilities becoming more accessible to constituents; government employees having the space they need to do their jobs; cost to taxpayers drops as facility efficiency conserves funds; fewer overlaps and interruptions in facilities ensuring smooth operations; enhanced safety, security, and privacy in well-orchestrated spaces; easier navigability and wayfinding in well-organized facilities.
+
+Under this bill, Government Centers will be established in various provinces of the Bangsamoro region to serve as one-stop shops that enable citizens to access various government services without having to travel to the regional offices in Cotabato City. The establishment of Centers also aims to improve citizens' interaction with government institutions, help increase public awareness of government policies and regulations, and strengthen citizens' oversight of the use of public resources.²
+
+As the Bangsamoro Transition Authority builds the foundations of the Bangsamoro Government, policies and programs must reflect the full panoply of society’s interests. Informing and responding to citizens will raise the government’s effectiveness by improving the monitoring of public goods and services and forcing greater transparency in decision-making.³
+
+The Centers will serve as an important vehicle for ensuring no one is left behind, a key principle for attaining sustainable development goals.
+
+In view of the foregoing, the immediate passage of this bill is earnestly sought.
+
+(Sgd.)
+**HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of the Parliament – Bangsamoro Transition Authority
+
+¹ Bringing government closer to the people, and enhancing service delivery to citizens" | United Nations Development Programme (undp.org)
+² Ibid.
+³ Bringing the State Closer to People | World Development Report 1997 (worldbank.org)
+
+Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **209**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Jaafar Apollo Mikhail L. Matalam, Michael E. Midtimbang, Hatimil E. Hassan, Tawakal B. Midtimbang, Albakil D. Jikiri, Abdulaziz M. Amenoden, Dan S. Asnawie, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Nabila Margarita P. Pangandaman, and Denmartin A. Kahalan**
+
+**AN ACT ESTABLISHING BANGSAMORO PROVINCIAL GOVERNMENT CENTERS IN SULU, BASILAN, TAWI-TAWI AND LANAO DEL SUR, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
+
+**SECTION 1. Short Title.** - This Act shall be known as the "**Bangsamoro Provincial Government Centers Act of 2023**".
+
+**SECTION 2. Declaration of Policy.** - It is hereby declared the policy of the Bangsamoro Government to promote and provide a more responsive and accountable governance structure. Towards this end, the Bangsamoro Government shall establish and maintain fully equipped and fully operational government *Centers* in its constituent provinces, which shall be accessible, safe, and centrally located in the community.
+
+**SECTION 3. Establishment of Bangsamoro Provincial Government Centers.** - A Bangsamoro Provincial Government Center, hereinafter referred to as the "*Government Center*," shall be established in Sulu, Basilan, Tawi-Tawi, and Lanao del Sur, which shall serve as the location of the Provincial offices of the ministries, commissions, and other offices of the Bangsamoro Government and house their respective field offices.
+
+Each *Government Center* shall also include the establishment of satellite offices for the members of the parliament.
+
+**SECTION 4. Operation and Maintenance of the Centers.** - Each ministry, commission, and other offices of the Bangsamoro Government shall immediately include in their program the operationalization of their respective offices in the *Government Centers*.
+
+a. Maintenance - The Bangsamoro government shall ensure that the *Government Centers* are supported by an appropriate network of organizational support systems and mechanisms, including human resources.
+
+b. Supervision - The Chief Minister, through the Ministers, shall have overall supervision over the programs and services offered by the *Government Centers*.
+
+c. Personnel - The personnel component of the *Government Centers* shall depend on the size of the population of the province, which forms part of its service area.
+
+The Ministers may appoint other personnel who possess the necessary professional qualification to work efficiently in accordance with the mandate of the ministry: *Provided*, That the Ministers of the existing ministries of the Bangsamoro Government may designate such employees from their respective ministries as the workers of the *Government Centers*.
+
+d. Transfer of Field Offices - The field offices of the ministries, commission, and other offices of the Bangsamoro Government located in Sulu, Basilan, Tawi-Tawi, and Lanao del Sur shall be transferred to their respective *Government Center*.
+
+**SECTION 5. Committee on the Establishment of the Bangsamoro Provincial Government Center.** - There is hereby established a Committee on the Establishment of the Bangsamoro Provincial Government Centers, chaired by the Senior Minister and composed of the following members: the Minister of Finance and Budget and Management; the Minister of Public Works; the Minister of Environment, Natural Resources and Energy; the Minister of Transportation and Communications, the Chairperson of the Bangsamoro Commission for the Preservation of Cultural Heritage, and the Director-General of the Bangsamoro Planning and Development Authority. Civil Society Organizations representatives shall be invited as observers in the proceedings of the Committee.
+
+The Committee shall lead and organize the preparation, development, and implementation of master plans, strategies, processes, and timetables that will provide the framework towards the development of the Bangsamoro Provincial Government Centers in Sulu, Basilan, Tawi-Tawi, and Lanao del Sur.
+
+The Committee shall immediately convene within thirty (30) days upon the effectivity of this Act. It shall cease to exist upon completion and full implementation of the objectives of this Act, which shall not exceed ten (10) years unless further extended by the Parliament.
+
+Chunk Complete. Ready for next group of provisions starting at Section 6.
+
+***
+
+**SECTION 6. Parliament Oversight Committee.** – Upon the effectivity of this Act, a Parliament Oversight Committee, hereafter referred to as POC, is hereby constituted. This Committee shall set the overall framework to review the implementation of this Act. It shall likewise determine inherent weaknesses in the law and recommend necessary remedial legislation or executive measures.
+
+The Parliament Oversight Committee shall be composed of the chairpersons of the Committee on Accounts, Housing Settlement and Development, Blue Ribbon, Ways and Means, Public Works and Finance, Budget, and Management.
+
+For purposes of determining remedial legislation, the Oversight Committee shall, within three (3) years after the effectivity of this Act, conduct a sunset review which shall include a systematic evaluation of the impact of this Act, accomplishments of the project, and the performance of its implementing agencies.
+
+**SECTION 7. Independent Monitoring Committee.** - An Independent Monitoring Committee shall be created at the regional level, composed of representatives from the private sector and civil society organizations (CSOs) to complement the monitoring activities of the Parliament Oversight Committee and provide feedback for appropriate action. It shall submit a report on the results of its monitoring activities relative to the implementation of the project to the Bangsamoro Parliament.
+
+**SECTION 8. Regular Monitoring.** - The Committee on Accounts, in coordination with the Parliament Oversight Committee, shall monitor the implementation of the program and report its status at least once every three (3) years in order to ensure the attainment of the goals of this Act to the Bangsamoro Parliament.
+
+**SECTION 9. Report of the Project.** - The CEAC shall annually publish a full report of the project, covering the implementation of the previous fiscal year. The said report shall include financial disclosures, the status of the project, and those relating to auditing and accounting procedures. This report shall be submitted to each member of the Parliament.
+
+**SECTION 10. Oversight.** - The Bangsamoro government and the Bangsamoro Parliament shall monitor the performance of the ministries, which are members of the Committee, to ensure the accomplishment of the project.
+
+**SECTION 11. Project Transparency.** — The Committee shall regularly and timely post and update on its website a report of financial disclosures and information about the project, which shall not be limited to its status, plans, and preparations.
+
+**SECTION 12. Implementing Rules and Regulations.** – Within sixty (60) days from the approval of this Act, the Ministry of Public Works and the Ministry of Finance and Budget and Management, in coordination with other government agencies concerned, shall issue the rules and regulations to effectively implement the provisions of this Act.
+
+**SECTION 13. Appropriations.** - For its first year, the amount of fifty million pesos (50,000,000.00) shall be initially appropriated for the use of the Committee to implement the provisions of this Act, including the crafting of the necessary master plan. For the succeeding fiscal years until its cessation, the Committee on the Establishment of Bangsamoro Provincial Government Centers through the Office of the Chief Minister shall include the amounts necessary for its operation in the implementation of this Act in the Bangsamoro Appropriations Act.
+
+**SECTION 14. Separability Clause.** - If any portion or provision of this Act is subsequently declared invalid or unconstitutional, other provisions hereof which are not affected thereby shall remain in full force and effect.
+
+**SECTION 15. Repealing Clause.** - All regional laws, decrees, executive orders, proclamations, and administrative regulations, or any parts thereof inconsistent herewith, are hereby revoked, repealed, or modified accordingly.
+
+**SECTION 16. Effectivity.** - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or at least two (2) newspapers of regional circulation.
+
+**APPROVED,**
+
+Author:
+
+(Sgd.)
+**HON. MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+
+Co-authors:
+
+**HON. MP ATTY. LAISA A. ALAMIA**
+
+**HON. MP BENJAMIN T. LOONG**
+
+**HON. MP ENGR. BAINTAN A. AMPATUAN**
+
+**HON. MP ATTY. RASOL Y. MITMUG**
+
+**HON. MP AMILBAHAR S. MAWALLIL**
+
+**HON. MP ATTY. SUHARTO M. AMBOLODTO**
+
+**HON. MP RASOL E. ISMAEL**
+
+**HON. MP ATTY. JOHN ANTHONY L. LIM**
+
+**HON. MP JAAFAR APOLLO MIKHAIL L. MATALAM**
+
+**HON. MP MICHAEL E. MIDTIMBANG**
+
+**HON. MP HATIMIL E. HASSAN**
+
+**HON. MP TAWAKAL B. MIDTIMBANG**
+
+**HON. MP ALBAKIL D. JIKIRI**
+
+**HON. MP ABDULAZIZ M. AMENODEN**
+
+**HON. MP DAN S. ASNAWIE**
+
+**HON. MP MOHAMMAD KELIE U. ANTAO**
+
+**HON. MP ABDULWAHAB M. PAK**
+
+**HON. MP NABILA MARGARITA P. PANGANDAMAN**
+
+**HON. MP DENMARTIN A. KAHALAN**
+
+Certified Correct:
+
+**PROF. RABY B. ANGKAL**
+*Secretary General*
+
+Attested:
+
+**HON. ATTY. PANGALIAN M. BALINDONG**
+*Speaker*
+
