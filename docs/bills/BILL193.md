@@ -1,0 +1,177 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. **193**
+
+INTRODUCED BY PRINCIPAL AUTHORS:
+**HON. RASOL Y. MITMUG, JR., HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN**
+
+CO-AUTHORS:
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI, HON. ABDULLAH E. GAYAK**
+
+**AN ACT CREATING THE BANGSAMORO COUNCIL FOR MENTAL HEALTH, PROVIDING FOR ITS MANDATE, POWERS, AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+The Mental Health Act was approved on June 20, 2018. Section 2 of RA 11036 declared that it was the policy of the state to affirm the basic right of all Filipinos to mental health as well as the fundamental rights of people who require mental health services.
+
+Further, Section 3 of the said law listed the following as the objectives:
+
+a) Strengthen effective leadership and governance for mental health by, among others, formulating, developing, and implementing national policies, strategies, programs, and regulations relating to mental health;
+b) Develop and establish a comprehensive, integrated effective and efficient national mental health care system responsive to the psychiatric, neurologic, and psychosocial needs of the Filipino people;
+c) Protect the rights and freedoms of persons with psychiatric, neurologic, and psychosocial needs;
+d) Strengthen information systems, evidence and research for mental health;
+e) Integrated mental health care in the basic health services; and
+f) Integrate strategies promoting mental health in educational institutions, the workplace, and in communities.
+
+However, in the three years since its enactment, the Philippines has yet to improve its mental health stats. When the National Center for Mental Health launched its suicide hotline in 2019, they received an average of 400 calls monthly. When lockdown was first implemented in 2020, the number ballooned to 700 calls. It peaked at 1,600 calls earlier this year. A third of the calls were suicide-related, while the rest were anxieties about the pandemic, unemployment, and other personal problems. Some callers reported waiting for at least an hour before a health worker could attend to them.
+
+In 2020, suicides increased by 57%, with the Philippine Statistics Authority reporting 4,420 self-harm cases. Suicide has also gone up the list of leading causes of death in the Philippines, now 25th from the previous 31st in 2019. One in 10 Filipino young adults have now experienced a form of depression.
+
+In a piece published by the Philippine Center for Investigative Journalism, Filipinos with mental health illnesses shared how lockdown, unemployment and economic losses affected their ability to deal with their illnesses, such as higher costs for therapy sessions and difficulty to purchase their monthly medication.
+
+For example, a one-hour session with a private clinical psychologist can cost somewhere from P1,000 to P3,000, which, for Filipino families living under the poverty line, is better spent on a sack of rice and other essential goods. With the country experiencing the worst decline in Asia, an estimated 4.5 million Filipinos are expected to slide back into poverty. Another saddening fact is that even with the availability of pro-bono tele-psychotherapy services online (which are nowhere near sufficient to service the 110 million population), Filipinos would rather suffer in silence than face the societal stigma against those with mental health issues.
+
+Earlier this year, DOH reported that at least 3.6 million Filipinos were battling mental health issues. 1.4 million Filipinos had depression, 847,000 were battling alcohol-use disorders, while 520,000 were diagnosed with bipolar disorder, according to Frances Prescilla Cuevas, chief health program officer of the DOH’s Disease Prevention and Control Bureau. More alarmingly, the department reported that 1 in 3 Covid-19 patients were diagnosed with neuropsychiatric conditions 6 months after contracting the virus.
+
+According to the DOH website, the total Covid-19 cases in the Bangsamoro number at 17,774, which would mean roughly 5,925 Bangsamoro people with neuropsychiatric conditions. Due to the underreporting of Covid-19 cases, this only meant that the actual number of Filipinos with mental health issues would have to be higher.
+
+Within the Bangsamoro region, people have had to contend with the consequences of calamities and conflict, aside from the repercussions of the pandemic. In fact, a youth survey in 2017 marked that of its ARMM participants, 10.9% had suicidal thoughts, and suicidal rates have only increased among the youth since then. International health organization Médecins Sans Frontières published a report on the lack of mental health interventions during and post-conflict in the Philippines, particularly in Maguindanao, but this scenario is common across the entire region. During the height of the Marawi siege in 2017, data from the Integrated Provincial Health Office in Lanao del Sur showed that 30,732 evacuees manifested mental health disorders. Research also shows that sexual and gender-based violence were prone to take place during and post-conflict. An assessment on the Marawi IDPs corroborated this when it showed that 45% of conflict-affected sites reported that girls were the most affected by sexual violence. The conflict monitoring system of International Alert recorded a total of 2,655 violent conflict incidents in BARMM, which had a decrease of 9% from the previous year, however, clan feuding incidents increased by 50% with the highest recorded incidents in Lanao del Sur and Maguindanao, including Cotabato City.
+
+Recommendations for the improvement of the state of mental health in the country included the mobilization of mental health professionals to educate families about mental health and mental disorders to fight stigma and discrimination; earlier intervention, prevention, and response strategies with special attention to the mental health issues of the youth; conduct of medical and scientific research to be used as basis for the improvement of a comprehensive and effective mental health care system; and identification of gaps in the implementation of the Mental Health Act.
+
+The combined effects of continuing conflict, calamities, and Covid-19, requires the special attention of the Bangsamoro Government. Mental health, instead of being seen as a existing problem and an additional burden to the state's resources, should instead be understood as an important component of public health, having a significant effects on a government's human, social, and economic capital. In short, responding to and addressing the Bangsamoro people's mental health should be part of the government's economic recovery plan, because happiness is a factor to a person’s functionality and participation in society.
+
+At the national government, Kabataan Party-list Rep. Sarah Elago criticized the DOH for only allocating ₱615.5 million for the provision of drugs for mental illnesses, which would only translate to ₱5.69 per Filipino. The Bangsamoro Government, on the other hand, allocated ₱12,770,340.00 for its Mental Health Program in the 2021 budget (BAA 13).
+
+The Philippine Council for Mental Health, which is composed of the Secretary of DOH as Chairperson, Secretary of DepED, Secretary of DOLE, Chairperson of CHR, Secretary of the Department of the Interior and Local Government (DILG), Chairperson of CHED, and other sectoral representatives, is responsible for implementing the provisions of the Mental Health Act, coordinating the activities and strengthening the working relations among national government agencies, and drafting the country’s strategic plan on mental health, among others.
+
+As an autonomous government, it is thus proper for the Bangsamoro region to establish its own Bangsamoro Council for Mental Health, which will be responsible for recommending programs, projects, and policies for the mental health and well-being of the Bangsamoro people. As the region’s inter-agency body on mental health, they will be better capacitated to implement the recommendations mentioned earlier.
+
+In view of the foregoing, the support of all the Members of the Parliament for the prompt passage of this measure is earnestly sought.
+
+**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. **193**
+
+INTRODUCED BY PRINCIPAL AUTHORS:
+**HON. RASOL Y. MITMUG, JR., HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN**
+
+CO-AUTHORS:
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI, HON. ABDULLAH E. GAYAK**
+
+**AN ACT CREATING THE BANGSAMORO COUNCIL FOR MENTAL HEALTH, PROVIDING FOR ITS MANDATE, POWERS, AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+Be it ordained by the Bangsamoro Parliament, in session assembled:
+
+**Section 1. Short Title.** – This Act shall be known as the “*BANGSAMORO MENTAL HEALTH ACT OF 2023.*”
+
+**Section 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro Government to provide for a comprehensive and integrated health service delivery for its constituents. It commits to protect and promote the right to health of the people and instill health consciousness among them and shall uphold the peoples' right to have access to essential goods health, and other social services that promote their well-being.
+
+Towards this end, the Bangsamoro Government, in order to promote and protect lives, mandates the establishment of a Bangsamoro Council for Mental Health, which shall be responsible for formulating, planning, and recommending programs, projects, and policies relative to mental health and well-being of the Bangsamoro people.
+
+**Section 3. Objectives.** – Consistent with the provisions of the Republic Act No. 11036, the objectives of this Act are as follows:
+
+a) Strengthen effective leadership and governance for mental health by, among others, formulating, developing, and implementing regional policies, strategies, programs, and regulations relating to mental health;
+b) Develop and establish a comprehensive, integrated effective and efficient regional mental health care system responsive to the psychiatric, neurologic, and psychosocial needs of the Bangsamoro people;
+c) Protect the rights and freedoms of persons with psychiatric, neurologic, and psychosocial needs;
+d) Strengthen information systems, evidence and research for mental health;
+e) Integrated mental health care in the basic health services; and
+f) Integrate strategies promoting mental health in educational institutions, the workplace, and in communities.
+
+**Section 4. Creation of the Bangsamoro Council for Mental Health (BCMH).** – In order to carry out the said policy, a Bangsamoro Council for Mental Health, herein referred to as “the Council”, is hereby created as a policy-making, planning, coordinating and advisory body which shall be attached to the Ministry of Health (MOH) to oversee the implementation of this Act, particularly the protection of the rights and freedom of persons with psychiatric, neurologic, and psychosocial needs and the delivery of a rational, unified, and integrated mental health services responsive to the needs of the Bangsamoro people.
+
+**Section 5. Duties and Functions.** – As provided under the Republic Act No. 11036, the Council shall have the following powers and functions:
+
+(a) Develop and periodically update, in coordination with the MOH, a regional multi-sectoral strategic plan for mental health that further operationalizes the objectives of this Act which shall be include the following:
+
+(1) The Bangsamoro Autonomous Region’s targets and strategies in protecting the rights of Filipinos with mental health needs and in promoting mental health and the well-being of the Bangsamoro, as provided in this Act;
+
+(2) The Bangsamoro government’s plan in establishing a rational, unified and integrated service delivery network for mental health services including the development of health human resources and information system for mental health; and
+
+(3) The budgetary requirements and a corollary investment plan that shall identify the sources of funds for its implementation;
+
+(b) Monitor the implementation of the rules and regulations of this Act and the strategic plan for mental health, undertake mid-term assessments and evaluations of the impact of the interventions in achieving the objectives of this Act;
+
+(c) Ensure the implementation of the policies provided in this Act, and issue or cause issuance of orders, or make recommendations to the implementing agencies as the Council considers appropriate;
+
+(d) Coordinate the activities and strengthen working relationships among ministries, LGUs, and non-government organizations in mental health promotion;
+
+(e) Coordinate with national and international organizations regarding data collection, research and treatment modalities for persons with psychiatric, neurologic and substance use disorders and other addictions;
+
+(f) Coordinate joint planning and budgeting of relevant ministries to ensure funds for programs and projects indicated in the strategic medium-term plan are included in the ministry’s annual budget;
+
+(g) Call upon other offices and stakeholders to provide data and information in formulating policies and programs, and to assist the Council in the performance of its functions; and
+
+(h) Perform other duties and functions necessary to carry out the purpose of this Act.
+
+**Chunk Complete. Ready for next group of provisions starting at SECTION 6.**
+
+***
+
+**Section 6. Integration Of Islamic Mental Health Awareness** – Recognizing the importance of Islamic Education in mental health, the Islamic mental health awareness shall be integrated in the narrative of Mental Health Plan to be implemented in the Bangsamoro Autonomous Region.
+
+**Section 7. Composition.** – The Council shall be composed of the following:
+(a) Minster of the MOH as Chairperson;
+(b) Mufti of the Bangsamoro Darul-Ifta;
+(c) Minster of MBHTE;
+(d) Minster of MOLE;
+(e) Minister of MILG;
+(f) Chairperson of BHRC;
+(g) One (1) representative from the academe/research;
+(h) One (1) representative from medical or health professional organizations; and
+(i) One (1) representative from nongovernment organizations (NGOs) involved in mental health issues.
+
+The members of the Council from the government may designate their permanent authorized representatives.
+
+Within thirty (30) days from the effectivity of the Act, the members of the Council from the academe/research, private sector and NGOs shall be appointed by the Chief Minister from a list of three (3) nominees submitted by the organizations, as endorsed by the Council.
+
+Members representing the academe/ research, private sector and NGOs of the Council shall serve for a term of three (3) years. In case a vacancy occurs in the Council, any person chosen to fill the position vacated by a member of the Council shall only serve the unexpired term of said member.
+
+**Section 8. Secretariat of the Council.** – The Mental Health Division in the Ministry of Health, under the Disease Prevention and Control Bureau, staffed by qualified mental health specialists and support staff with permanent appointments and supported with an adequate yearly budget, shall serve as the secretariat of the Council.
+
+**Section 9. Periodic Reports.** – The Council shall meet regularly to evaluate the progress of the mental health plan and shall submit to the Bangsamoro Parliament periodic reports on its findings and make appropriate policy recommendations on actions to be taken by the Bangsamoro Parliament/Government through the appropriate Committee/s or Ministries, in order to carry out the objectives and mandates of this Act.
+
+**Section 10. Appropriations.** – The amount needed for the initial implementation of this Act shall be charged against the 2021 appropriations of the MOH. Thereafter, the amount allocated for mental health shall be charged in the annual MOH budget and in the budget of other ministries. The sum needed for the operation and maintenance of the Council shall be included in the annual budget of the MOH.
+
+**Section 11. Implementing Rules and Regulations.** – The Minister of Health, in coordination with BDI, MBHTE, MOLE, MILG, and BHRC, along with associations or organizations representing service users and mental professionals, workers, and other service providers, shall promulgate the Implementing Rules and Regulations (IRR) within one hundred twenty (120) days from the effectivity of this Act. Upon the organization of the Council, it may adopt the said IRR or amend the same with two-thirds or more of its members voting in favor.
+
+**Section 12. Separability Clause.** – If any provisions or part of this Act is declared invalid or unconstitutional, the validity of other provisions shall not be affected by such declarations.
+
+**Section 13. Repealing Clause.** – Any law or issuance, executive order, or letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**Section 14. Effectivity Clause.** – This Act shall take effect fifteen (15) days after its publication in at least one (1) newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**HON. RASOL Y. MITMUG, JR.**
+
+This Act was passed by the Bangsamoro Parliament on _____________________.
+
+Certified correct:
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+(Sgd.)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
