@@ -1,0 +1,78 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Cotabato City
+
+**BTA PARLIAMENT**
+First Regular Session
+
+**BILL NO. 176**
+
+Introduced By: MP Suharto S. Esmael, MSc, MP Abdullah B. Hashim, MP Sha Elijah B. Dumama-Alba, MP Matarul M. Estino, MP Eddie M. Alih, MP Said Sheik, MP Abdulwahab M. Pak, MP Abdullah E. Gayak, MP Ibrahim D. Ali
+
+Co-authors: MP Akmad I. Abas, MP Kadil M. Sinolinding, Jr., MP Ramon A. Piang, Sr., MP Hashemi N. Dilangalen, MP Mosber E. Alauddin, MP Tawakal B. Midtimbang, MP Marjanie S. Macasalong, MP Basit S. Abbas
+
+**AN ACT**
+**IMPLEMENTING THE USE OF ENGLISH-ARABIC AS AN OFFICIAL LANGUAGE FOR SIGNAGES IN THE BANGSAMORO AUTONOMOUS REGION AND PROVIDING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:*
+
+**SECTION 1. Short Title.** - This Act shall be known as the "Signage Official Language Act"
+
+**SECTION 2. Declaration of Policy.** - It is the policy of the Bangsamoro Autonomous Region in Muslim Mindanao to respect and promote inclusivity within the region. In pursuit of this end, the Bangsamoro government has mandated public and private institutions and establishments to install signages in English-Arabic.
+
+**SECTION 3. English and Arabic Language for Signages in public and private institutions and establishments.** - For the purposes of this act all signages shall be in English and Arabic language. The languages shall be written altogether, to be written side-by-side, or English on top and Arabic at the bottom.
+
+The Ministry of Public Works (MPW) shall provide a list of all appropriate and lawful signages and other devices and instruments.
+
+**SECTION 4. Definition of Terms.** -For the purpose of this Act, the term:
+
+a. **"Signage"** is any form of written announcement, installed, posted, hung, painted, or otherwise displayed in a public place. It is generally defined as any kind of graphic display intended to convey information to an audience.
+b. **"Official Language"**, English-Arabic, to be used in signages.
+
+**SECTION 5. Funding** – The funds necessary to implement this Act shall be charged against the General Appropriation Act of the Bangsamoro (GAAB).
+
+**SECTION 6. Separability Clause.** - If any provision or part hereof, is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+**SECTION 7. Repealing Clause.** - Any regional laws, executive orders, issuances, administrative orders, rules, or regulations contrary to or inconsistent with the provision of this Act is hereby repealed, modified, or amended accordingly.
+
+**SECTION 8. Effectivity Clause.** - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of regional circulation.
+
+Approved,
+
+(SGD.)
+**SUHARTO S. ESMAEL, MSc**
+Member-BTA Parliament
+
+(SGD.)
+**ABDULLAH B. HASHIM**
+Member-BTA Parliament
+
+(SGD.)
+**SHA ELIJAH B. DUMAMA-ALBA**
+Member-BTA Parliament
+
+(SGD.)
+**MATARUL M. ESTINO**
+Member-BTA Parliament
+
+(SGD.)
+**EDDIE M. ALIH**
+Member-BTA Parliament
+
+(SGD.)
+**SAID SHEIK**
+Member-BTA Parliament
+
+(SGD.)
+**ABDULWAHAB M. PAK**
+Member-BTA Parliament
+
+(SGD.)
+**ABDULLAH E. GAYAK**
+Member-BTA Parliament
+
+(SGD.)
+**IBRAHIM D. ALI**
+Member-BTA Parliament
+
