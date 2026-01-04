@@ -1,0 +1,74 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Regular Session
+Bill No. **251**
+
+INTRODUCED BY PRINCIPAL SPONSORS:
+**MPs TARHATA M. MAGLANGIT and ATTY. RANDOLPH C. PARCASIO**
+
+CO-SPONSORS:
+**MPs ABDULAZIZ M. AMENODEN, ABDULKARIM T. MISUARI, DENMARTIN A. KAHALAN, HAMID U. MALIK, NURREDHA I. MISUARI, ENGR. BAINTAN ADIL-AMPATUAN, AMILBAHAR S. MAWALLIL, ATTY. RASOL Y. MITMUG JR., ATTY. LAISA M. ALAMIA, ATTY. SUHARTO M. AMBOLODTO, ENGR. DON MUSTAPHA A. LOONG, RASUL E. ISMAEL, ALBAKIL D. JIKIRI, ROMEO K. SEMA, MUSLIMIN A. JAKILAN, ADZFAR H. USMAN, TAWAKAL B. MIDTIMBANG, BASSIR D. UTTO, MUDJIB C. ABU, SUWAIB L. ORANON, MOHAMMAD KELLIE U. ANTAO, FAIZAL G. KARON, DR. HASHEMI N. DILANGALEN, MICHAEL E. MIDTIMBANG**
+
+Begun and held in Cotabato City, on ______, the ___ of ______ 2023.
+
+**AN ACT ESTABLISHING THE BANGSAMORO ADMINISTRATIVE REGISTER, THEREBY AMENDING SECTIONS 12 AND 14 OF THE BANGSAMORO ADMINISTRATIVE CODE (BANGSAMORO AUTONOMY ACT NO. 13) AND FOR OTHER PURPOSES**
+
+Be it enacted by the Parliament, in session assembled:
+
+**Section 1. Short Title.** – This Act shall be known as the “Bangsamoro Administrative Register Act.”
+
+**Section 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro to ensure that the right of the people to information on matters of public concern.
+
+**Section 3. Administrative Rule, Definition.** – For purposes of this Act, *Administrative Rule* shall mean any agency statement of general applicability that implements or interprets a law, fixes and describes the procedures in, or practice requirements of, an agency, including its regulations. Such administrative rules may take on the form of executive orders, circulars, administrative regulations, proclamations, and other issuances;
+
+**Section 4. Coverage.** – Every administrative rule that affects the rights, privileges, or interests of an individual or the general public shall be registered with the Bangsamoro Administrative Register.
+
+This shall not cover regulations that are merely interpretive and those that are internal in nature. Issuances by administrative superiors concerning the rules or guidelines to be followed by subordinates in the performance of their duties¹ shall not be required to be filed in the Register.
+
+**Section 5. Office of the Bangsamoro Administrative Register.** – There is hereby established an Office of the Bangsamoro Administrative Register (OBAR) to serve as a comprehensive repository of all administrative issuance, circulars, orders, rules, regulations issued by the Bangsamoro Government and its agencies.
+
+The OBAR shall be an attached agency of the Bangsamoro Library and Archives.
+
+**Section 6. Filing.**– (a) Every agency shall file with the OBAR three (3) certified copies of every rule adopted by it. Rules in force on the date of effectivity of this Act which are not filed within three (3) months from that date shall not thereafter be the basis of any sanction against any party or persons.
+
+(b) The records officer of the agency, or his equivalent functionary, shall carry out the requirements of this section under pain of disciplinary action.
+
+(c) A permanent register of all rules shall be kept by the issuing agency and shall be open to public inspection.
+
+**Section 7. Effectivity of Rules.**– In addition to other rule-making requirements provided by law not inconsistent with this Act, each rule shall become effective fifteen (15) days from the date of filing as above provided, unless a different date is fixed by law, or specified in the rule in cases of imminent danger to public health, safety and welfare, the existence of which must be expressed in a statement accompanying the rule. The agency shall take appropriate measures to make emergency rules known to persons who may be affected by them.
+
+**Section 8. Record Keeping.**– The Bangsamoro Administrative Register shall be responsible for the maintenance of the official record of the administrative issuances issued by the Bangsamoro Government and its agencies. The Register shall organize and maintain the administrative issuances in a systematic and accessible manner.
+
+**Section 9. Coordination with the Bangsamoro Government agencies.**– The Office of the Bangsamoro Administrative Register shall coordinate with the Bangsamoro government agencies to ensure that their administrative issuances are properly submitted for recording and publication.
+
+**Section 10. Access to Administrative Issuances.**– All administrative issuances compiled and maintained by the Bangsamoro Administrative Register shall be accessible to the public, researchers and relevant government agencies. The office shall establish appropriate filing systems and provide mechanisms for requesting physical or digital copies of administrative issuances.
+
+**Section 11. Archiving.** - The Bangsamoro Administrative Register shall maintain an archive of historical administrative issuances that are at least 20 years old, categorized yearly with its accompanying electronic database, ensuring its availability for research and reference purpose. It shall remain accessible to the public.
+
+**Section 12. Weekly Summary and Monthly Compilation.**— The Office of the Bangsamoro Administrative Register shall issue through digital means, a weekly summary every of the administrative rules filed before it with the link to a digital copy of each issuance.
+
+At the first week of each month, the Register shall forward such summary together with copies of all filed administrative rules to the Bangsamoro Information Office for publication, as provided for in Section 14 of the Bangsamoro Administrative Code (BAA No. 13).
+Copies of such monthly publication shall be furnished the Bangsamoro Library.
+
+**Section 13. Appropriations.** — The amount necessary for the initial implementation of this Act shall be charged against the current year’s appropriations of the Office of the Chief Minister. Thereafter, the sums as may be necessary for the continued implementation of this Act shall be included in the General Appropriations Act of the Bangsamoro.
+
+**Section 14. Separability Clause.** — If any part or provision of this Act is held invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective.
+
+**Section 15. Repealing Clause.** — Pertinent provisions of Chapter 3 of the BAA No, 13, or the Bangsamoro Administrative Code, are hereby amended accordingly. All other autonomy acts, laws, decrees, regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+**Section 16. Effectivity.** — This Act shall take effect fifteen (15) days after its publication in at least one (1) newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
+
+Sponsors:
+
+(Sgd.)
+**TARHATA MATALAM MAGLANGIT, MP**
+
+(Sgd.)
+**ATTY. RANDOLPH C. PARCASIO, MP**
+
+***
+¹ Tanada v. Tuvera, 146 SCRA 446, cited in Philippine Association of Service Exporters Inc. v. Torres GR No. 101279, August 6, 1992
+
