@@ -1,0 +1,110 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+First Regular Session
+
+**BTA Parliament**
+**BTA Bill No. 143**
+
+Introduced by:
+**MP DR. SUSANA SALVADOR – ANAYATIN**
+
+Co-Authors:
+**MP Aida M. Silongan, MP Abdullah B. Hashim, MP Ust. Abdullah E. Gayak, MP Bai Maleiha B. Candao, MP Diamila D. Ramos, MP Prof. Eddie M. Alih, MP Haron M. Abas, MP Hussein P. Muñoz, MP Ibrahim D. Ali, MP Nabila Margarita P. Pangandaman, MP Dr. Marjanie S. Macasalong, MP Mohammad S. Yacob, MP Mudjib C. Abu, MP Atty. Nabil A. Tan, MP Atty. Rasol Y. Mitmug, Jr., MP Jaafar Apollo Mikhail L. Matalam, MP Abdulaziz M. Amenoden, MP Benjamin T. Loong, MP Ali B. Solaiman, MP Nurredha I. Misuari, MP Abdulkarim T. Misuari.**
+
+**AN ACT INSTITUTIONALIZING SUPPORT TO THE WELFARE AND CARE FOR ORPHANS BY ESTABLISHING BANGSAMORO ORPHANAGES IN THE REGION, AND PROVIDING FUNDS THEREOF**
+
+**EXPLANATORY NOTE**
+
+Historically, it is argued that in African Traditional Communities, there were “no orphans” since every child belonged to the whole community. The whole community ensured that each orphan got proper support and care, thereby confirming Mbiti’s (1969) proverbial saying; “I am because we are”. In the African community, a man had the obligation to cater for the widow and orphans of his deceased relative. Failure to do so earned him strong public rebuke and as a result, it was difficult to find someone in the community without help (Kanu, 2010). This arrangement guaranteed social security for the poor, old, widowed, and orphaned children which is one of the most admired values in the traditional African socio-economic arrangement.
+
+This communitarian culture does not exist in the Western perspective which is characterized by individualism and the nuclear family structure is pretty much practice and exercise in Philippine set-up.
+
+Hence, government intervention is accordingly expected to address the growing numbers of orphans to prevent early demise of the vulnerable. Their chances of survival are slim if not earlier address as some of them are unable to get crucial aspect of their lives such as nutrition, healthcare, water, shelter, quality education or home training.
+
+This bill is motivated by the desire and compassion to the welfare of the orphans. Countless children are growing up in poverty and some are in dire need of support of the basic needs yet vital to their physical and mental development such as shelter or orphanage, which this bill advocates. This is more than support, for this will give them safe and happy life.
+
+We in the BTA Parliament have a huge opportunity to change the lives of the orphans, we want to support efforts to end child poverty, to plant seeds of hope in the lives of these children, to give them chance to rise above circumstances and become useful members of the society.
+
+Hence, it is earnestly sought for the early approval of this bill.
+
+**DR. SUSANA S. ANAYATIN**
+Member – BTA Parliament
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+First Regular Session
+
+**BTA Parliament**
+**BTA Bill No. 143**
+
+Introduced by:
+**MP DR. SUSANA SALVADOR – ANAYATIN**
+
+**AN ACT INSTITUTIONALIZING SUPPORT TO THE WELFARE AND CARE FOR ORPHANS BY ESTABLISHING BANGSAMORO ORPHANAGES IN THE REGION, AND PROVIDING FUNDS THEREOF.**
+
+*BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled as follows:*
+
+**SECTION 1. Short Title.** – This Act shall be referred to as the “Bangsamoro Orphanage Act of 2023”.
+
+**SECTION 2. Declaration of Policy.** – It is hereby declared the policy of the Bangsamoro Government to respect, protect and promote the rights of children, especially orphans of tender age. They shall be protected from exploitation, abuse or discrimination. Their education and development, both physical and mental, shall be protected from exploitation, abuse or discrimination. Their education and development, both physical and mental shall be fully addressed under Section 14, Article IX of Republic Act 11054.
+
+Bangsamoro policies and programs shall take into utmost consideration the best interest of children, and promote and protect the rights of children, youth, and adolescents, including their survival and development.
+
+The Bangsamoro Government and its constituent local government units shall provide for adequate funding and effective mechanisms for the implementation of this policy.
+
+**SECTION 3. Definition of Terms.** – For purposes of this Act, the following terms shall be defined as stated below:
+
+A. “Institution” refers to a child-caring and/or child-placing institution, specifically an orphanage under this Act, licensed and accredited by the Ministry of Social Welfare and Development;
+
+B. “Orphaned Minor” refers to a child, below 18 years old, who is left without any care or guardian by the death of his father, or who is without proper parental care due to the death or disappearance of, or abandonment by, both parents for at least six continuous months;
+
+C. “Orphanage” refers to any MSSD-licensed orphanage that seeks to enrich the lives and enhance the physical, emotional, and social well-being of orphaned children.
+
+**SECTION 4. Coverage.** – This Act shall cover all orphaned minors in the region who shall be monitored and evaluated by the monitoring and evaluating system for orphaned minors in accordance with the implementing rules and regulations of this Act.
+
+**SECTION 5. Monitoring and Evaluating System for Orphaned Minors.** – There is hereby created a system which shall lead the creation of a credible mechanism to determine the eligible beneficiaries and shall create the appropriate model for the orphanages in the respective community, which shall be composed of, but not limited to the following:
+
+1. Ministry of Social Services and Development;
+2. Provincial Social Welfare Development Office;
+3. Municipal Social Welfare Development Office;
+4. City Social Welfare Development Office;
+5. Ministry of Interior and Local Government Unit;
+6. Provincial Local Government Units;
+7. Local Government Units;
+8. Barangay Local Government Units
+9. Traditional Leaders and Religious sector such as Ulama or Imam of each provinces consisting the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+The system shall use an appropriate, effective, transparent and cost-efficient method to identify and select qualified beneficiaries and shall coordinate with different ministries and agencies, including organizations from the private sector to ensure the full implementation of statutory commitments herein.
+
+It is also its mandate to come up with a comprehensive monitoring system to address the needs of orphaned minors in the respective community. It shall include, but not be limited to, coming up with updated data on the number, location and personal profile of orphaned minors in their respective communities, developing the appropriate models of orphanages in the respective community, and monitoring the orphaned minors in the orphanages.
+
+**SECTION 6. Implementing Ministry.** – The Bangsamoro Government shall establish orphanages in every province in the Bangsamoro Region through its implementing ministries, primarily through the Ministry of Social Services and Development (MSSD). The Ministry of Social Services and Development (MSSD), in coordination with the Ministry of Interior and Local Government (MILG), shall lead the central planning, coordinating, implementing and monitoring body of the comprehensive program, shall lead in the formulation of the implementing rules and guidelines for its enforcement, and shall perform such other functions as may be necessary or incidental to the proper implementation of the provisions of this Act.
+
+**SECTION 7. Comprehensive Support Program.** – The Comprehensive Support Program is hereby institutionalized as a mechanism to provide social welfare and care for orphans in the orphanages by the Bangsamoro Government through its implementing agencies. The programs shall include, but is not limited to: (i) Basic needs; (ii) Physical safety and security; (iii) Socio-economic needs; (iv) Educational needs; (v) Emotional and spiritual needs, and (vi) Access to justice.
+
+**SECTION 8. Managing Committee.** – There shall be a Managing Committee in charge of the management of the established Bangsamoro orphanages in their respective area and training of personnel to provide appropriate care. They shall have the duty to comply with all the requirements of this Act and to enforce the rules, regulations, directions, and orders thereunder with respect to every orphan child admitted into the orphanage until the child completes the age of eighteen years.
+
+**SECTION 9. Role of Local Government Units.** – The constituent LGUs in the Bangsamoro Region are mandated to develop a monitoring and evaluating system over the orphanages found within their jurisdiction, and to assist them with accreditation. The funding for which shall be sourced from the individual appropriation of each LGU as part of their mandate of providing social services to their constituents.
+
+**SECTION 10. Accreditation.** – The MSSD is directed to immediately begin the process of accreditation of all orphanages in the Bangsamoro Region, with the end goal of having at least two accredited orphanages in each province of the Bangsamoro by the end of the transition period and to have an accredited orphanage per LGU by 2025, with the overall goal of establishing a systematic and accessible process of accreditation for institutions.
+
+**SECTION 11. Implementing Rules and Regulations.** – The MSSD, as lead ministry and the MILG, in consultation with other relevant and concerned government ministries, agencies, and offices are hereby mandated to prepare and draft the IRR to operationalize the provisions of this Act within three (3) months from its effectivity. The MSSD may operationalize the standards set by the DSWD for accreditation and licensing of institutions or come up with entirely new standards and guidelines as may be left to their expertise and discretion. *Provided*, the standards or guidelines do not go against previously established laws.
+
+**SECTION 12. Limitations.** – Upon reaching the age of eighteen years and/or having been adopted, the same shall render the former orphaned child no longer eligible for the program.
+
+**SECTION 13. Program Requirements and Transparency.** – The implementing agencies to be led by the Ministry of Social Services and Development shall submit annual implementation reports of this Act detailing the budget utilization through financial reports, and regularly provide information on the status of the program to the Ministry of Finance, Budget and Management and the Bangsamoro Parliament, with a copy to be furnished to the Office of the Chief Minister.
+
+**SECTION 14. Appropriations.** – Th financial requirements to implement this Act shall be covered by an annual appropriation taken from the Annual Block Grant passed by the Bangsamoro Parliament.
+
+**SECTION 15. Repealing Clause.** – All provisions of existing regional laws, Executive Orders, other decrees, and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+**SECTION 16. Separability Clause.** – If any provision of this Act be found unconstitutional by a court of law, such provision shall be severed from the remainder of this Act, and such action shall not affect the enforceability of the remaining provisions of this Act.
+
+**SECTION 17. Effectivity.** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**Approved;**
