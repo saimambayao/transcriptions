@@ -1,0 +1,200 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. **195**
+
+**INTRODUCED BY PRINCIPAL AUTHOR:**
+**HON. RASOL Y. MITMUG, JR.**
+
+**CO-AUTHORS:**
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. AMILBAHAR S. MAWALLIL, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI**
+
+**EXPLANATORY NOTE**
+
+The State recognizes the right of the Filipino people to information and its importance in nation-building, as provided for in the Philippine Constitution¹, to wit:
+
+> **Section 24. The State recognizes the vital role of communication and information in nation-building.**
+>
+> xxx
+>
+> **Section 28. Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.**
+>
+> xxx
+>
+> **Section 7. The right of the people to information on matters of public concern shall be recognized. Access to official records, and to documents, and papers pertaining to official acts, transactions, or decisions, as well as to government research data used as basis for policy development, shall be afforded the citizen, subject to such limitations as may be provided by law.**
+
+Executive Order No. 2, s. 2016, signed by President Rodrigo Duterte, further operationalizes the people’s constitutional right to information and the state policies to full public disclosure and transparency in public service.
+
+The Official Gazette, which is the official journal of the Republic of the Philippines, was first published and released on September 10, 1902, by virtue of the decree of Act No. 453². Subsequent laws and issuances throughout the years have provided for a more uniform publication and distribution of the Official Gazette, through Act No. 664, Commonwealth Act No. 638, Executive Order No. 200, s. 1987, the Administrative Code of 1987³, and Executive Order No. 4, s. 2010.
+
+While the former Bureau of Public Information no doubt updated the public of the regional government’s latest programs and projects, it was still lacking in its function to inform the public of all the legislation approved by the ARMM-Regional Legislative Assembly.
+
+The passage of the Bangsamoro Administrative Code, while it did not specifically state as to how the Bangsamoro Gazette would be published, nevertheless requires its establishment⁴. It is therefore submitted that it is high time and apt for the Bangsamoro Government to publish its own official gazette to be published in print and electronic form.
+
+The Supreme Court ruling from the case of *Tañada. et al. vs. Tuvera, et al.* (G.R. No. 63915, December 29, 1986) mandated that publication in the Official Gazette was necessary to give the public adequate notice, and that unpublished issuances would have no force and effect. This gave way to Executive Order No. 200, s. 1987, which provided that official publication would be either through the Official Gazette or newspapers of general circulation, given the Gazette’s limited readership at the time.
+
+However, the Official Gazette went online on July 26, 2010. Manolo Quezon III, then Undersecretary of the Presidential Communications Development and Strategic Planning Office, envisioned the website to digitize all past and future editions of the Official Gazette with full searchability of the Gazette’s database⁵.
+
+While there is still a digital divide especially due to lack of internet infrastructures in the Bangsamoro, the advent of affordable smartphones, social media, and free data has greatly increased the country’s number of internet users. In 2011, internet users nationwide numbered at 29,700,000 or just 32% of the total population, with mobile penetration at around 94%⁶. Today, both statistics have increased, standing at 67% for internet penetration and 138.2% for mobile penetration⁷ (given that several users have more than one mobile device).
+
+The Bangsamoro Organic Law enshrines the Bangsamoro’s right to self-governance⁸, the right to participate in political processes⁹, and the right of access to basic services¹⁰. Indeed, it can be argued that the Bangsamoro people cannot fully participate in political processes, nor practice their right to self-governance, without first being granted access to information.
+
+It is therefore of vital importance that the public be informed on matters of public concerns through platforms that are easily accessible, as internet users continue to increase, and electronic publication becomes the norm for faster and wider dissemination of information. Through this measure, the Bangsamoro Government guarantees its framework of moral governance, transparency, fairness, and full and appropriate disclosure.
+
+In view of the foregoing, the support of all the Members of the Parliament for the prompt passage of this measure is earnestly sought.
+
+---
+¹ Sec. 24, Article II of the 1987 Philippine Constitution
+Sec. 28, Article II of the 1987 Philippine Constitution
+Sec. 7, Article III of the 1987 Philippine Constitution
+² Act No. 453 or "An Act providing for the Publication by the Insular Government of an Official Gazette, under the General Direction of the Department of Public Instruction"
+³ History of the Official Gazette. Retrieved from https://www.officialgazette.gov.ph/history-of-the-official-gazette/
+⁴ Sec. 14, Chapter 3, Book I of the Bangsamoro Autonomy Act No. 13
+⁵ Dimacali, TJ. (2010, July 27), Official Gazette of the Republic of the Philippines goes online. *GMA News*. Retrieved from https://www.gmanetwork.com/news/scitech/content/197115/official-gazette-of-the-republic-of-the-philippines-goes-online/story/
+⁶ Kemp, Simon. (2011). Digital 2011: Philippines. *Data Reportal*. https://datareportal.com/reports/digital-2011-philippines
+⁷ Kemp, Simon. (2021). Digital 2021: The Philippines. *Data Reportal*. https://datareportal.com/reports/digital-2021-philippines
+⁸ Sec. 2, Article II, R.A. 11054
+⁹ Sec. 3, Article IV, R.A. 11054
+¹⁰ Sec. 8, Article IX, R.A. 11054
+
+**Chunk Complete. Ready for next group of provisions starting at the Title of the Act.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Third Regular Session
+
+Bill No. **195**
+
+**INTRODUCED BY PRINCIPAL AUTHOR:**
+**HON. RASOL Y. MITMUG, JR.**
+
+**CO-AUTHORS:**
+**HON. LAISA M. ALAMIA, HON. SUHARTO AMBOLODTO, HON. RASUL E. ISMAEL, HON. DON MUSTAPHA LOONG, HON. BAINTAN ADIL-AMPATUAN, HON. AMILBAHAR S. MAWALLIL, HON. EDDIE ALIH, HON. JOHN ANTHONY L. LIM, HON. TARHATA MAGLANGIT, HON. KADIL M. SINOLINDING, JR., HON. HASHEMI N. DILANGALEN, HON. RANDOLPH PARCASIO, HON. ISHAK V. MASTURA, HON. BASSIR D. UTTO, HON. IBRAHIM D. ALI**
+
+**AN ACT OPERATIONALIZING THE BANGSAMORO GAZETTE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be it ordained by the Bangsamoro Parliament, in session assembled:
+
+**Section 1. SHORT TITLE.** – This Act shall be known as the “**BANGSAMORO GAZETTE ACT OF 2023.**”
+
+**Section 2. DECLARATION OF POLICY.** – Pursuant to the Bangsamoro Administrative Code¹¹, it is declared that the policy of the Bangsamoro Government, in pursuit of moral governance, is to maintain honesty, integrity, transparency and accountability, participation in governance and take positive and effective measures against graft and corruption. It shall likewise be the policy of this Government, subject to reasonable conditions prescribed by law, to adopt and implement full public disclosure of all its transactions involving public interest.
+
+**Section 3. ACCESS TO INFORMATION; EXCEPTIONS.** – Every Bangsamoro shall have access to information, official records, public records and to documents and papers pertaining to official acts, transactions, or decisions, as well as to research data used as basis for policy development.
+
+Access to information shall be denied when the information falls under any of the exceptions enshrined in the Constitution, existing laws or jurisprudence¹².
+
+**Section 4. DEFINITION OF TERMS.** – The following terms shall be used in this Act and defined as follows:
+
+a. **Bangsamoro Official Gazette** – refers to the official gazette of the Bangsamoro Government;
+
+b. **Electronic publication** – refers to publication in which information is distributed by means of a computer network or is produced in a format for use with a computer or digital device;
+
+c. **Executive issuances** – refers to acts of the Chief Minister of the Bangsamoro, whether in the exercise of the executive power or broader powers conferred by emergency or at particular periods;
+
+d. **Information** – refers to any records, documents, papers, reports, letters, contracts, minutes and transcripts of official meetings, maps, books, photographs, data, research materials, films, sound and video recording, magnetic or other tapes, electronic data, computer stored data, any other like or similar data or materials recorded, stored or archived in whatever format, whether offline or online, which are made, received, or kept in or under the control and custody of any government office pursuant to law, executive order, and rules and regulations or in connection with the performance or transaction of official business by any government office¹³;
+
+e. **Legislation** – refers to Bangsamoro Autonomy Acts and/or Muslim Mindanao Autonomy Acts, legislation crafted and passed by the Bangsamoro Parliament of the Bangsamoro Autonomous Region and the Regional Legislative Assembly of the former Autonomous region in Muslim Mindanao, respectively;
+
+f. **Machine-readable** – refers to formats that are able to have its data extracted and processed by computer programs easily;
+
+g. **Official record** – refers to information produced or received by a public officer or employee, or by a government agency in an official capacity or pursuant to a public function or duty. This shall not refer to the stage or status of the information¹⁴;
+
+h. **Open access digital repository** – refers to a digital repository where the content is machine-readable, freely available to download and where no login or subscription is required;
+
+i. **Public access computer or kiosk** – refers to computer terminals set up in public areas, featuring specialized hardware and software that enable users to access information;
+
+j. **Public record** – refers to information required by law, executive orders, rules, or regulations to be entered, kept and made publicly available by a government agency¹⁵;
+
+**Section 5. SUPERVISION AND EDITORIAL AUTHORITY OVER THE BANGSAMORO OFFICIAL GAZETTE.** – The Bangsamoro Information Office shall be responsible for the editorial functions over the Bangsamoro Official Gazette, the collection of its subscription fees, and the creation and maintenance of its official website and/or social media pages.
+
+The Bangsamoro Information Office is authorized to oversee and facilitate the print publication of information and other official/public records in regional newspapers.
+
+The Bangsamoro Information Office may create new divisions necessary for the Bangsamoro Gazette, with the concurrence of the Cabinet.
+
+**Section 6. CONTENT.** – The Bangsamoro Official Gazette will publish all legislative acts and resolutions of a public nature, all executive and administrative issuances of general application, decisions or abstracts of decisions of the *Shari’ah* Courts of sufficient importance to be published, documents or classes of documents as may be required to be published by law and such documents or classes of documents of general application.
+
+Ministries and all offices and agencies shall submit copies of their issuances and similar documents to the Bangsamoro Information Office for publication¹⁶.
+
+**Section 7. MANNER OF PUBLICATION.** – The Bangsamoro Information Office is authorized to publish the Bangsamoro Official Gazette quarterly or as frequently as the public interest of the Bangsamoro Government may require.
+
+Aside from the quarterly print publication, the Bangsamoro Information Office shall also electronically publish the Bangsamoro Official Gazette through its official website¹⁷, which shall also serve as an open access digital repository of all published material. The electronic publication on the website shall be facilitated daily or as often as possible.
+
+It shall be published in the English language and whenever applicable, in Filipino and Arabic. Upon written request, the Bangsamoro Information Office shall translate the relevant documents in Arabic in coordination with the Bangsamoro Darul Ifta'¹⁸.
+
+**Section 8. EFFECTIVITY OF LAWS.** – Executive issuances and laws of the Bangsamoro Government shall take effect after fifteen (15) days following the completion of their publication in full in the Bangsamoro Official Gazette or in a newspaper of general circulation in the region, unless a different period is otherwise prescribed¹⁹.
+
+For purposes of determining the effectivity of laws and executive issuances, online publication in the Bangsamoro Official Gazette website shall be considered official publication, *provided*, that there shall be a timestamp in the said document²⁰.
+
+The publication of any legislative acts and resolutions of a public nature, any executive and administrative issuances of general application, or other official documents in the electronic and/or print versions of the Bangsamoro Official Gazette shall be deemed prima facie evidence of its authority.
+
+**Section 9. SUBSCRIPTION.** – Each ministry, commission, bureau, office, and agency or instrumentality of the Bangsamoro Government, as well as each provincial, city, and municipal government within the Bangsamoro Autonomous Region, shall subscribe to the Bangsamoro Official Gazette and pay for the same out of their respective funds. The Bangsamoro Official Gazette shall be filed and properly kept with the public records of the ministry, bureau, office, agency, or instrumentality, province, city, or municipality concerned for references²¹.
+
+The Bangsamoro Library and Archives may coordinate with and encourage local government units, public libraries, and public schools to set up their own public access computers/kiosks to facilitate free and easy access to the Bangsamoro Official Gazette’s online repository for the benefit of their constituents and students²².
+
+**Section 10. DIGITIZATION AND ARCHIVING.** – The Bangsamoro Library and Archives shall serve as the official custodian and repository of printed copies of the Bangsamoro Official Gazette²³.
+
+**Section 11. IMPLEMENTING RULES.** – The BIO Executive Director shall, within one hundred and twenty (120) days from the effectivity of this Act, formulate and issue such rules and regulations as may be necessary to implement the provisions of this Act.
+
+The BIO shall coordinate and consult with the following for the implementing rules:
+
+a. Bangsamoro Attorney-General’s Office;
+b. Bangsamoro Library and Archives;
+c. Information and Communications Office; and
+d. Bangsamoro Parliament
+
+**Section 12. APPROPRIATIONS.** – The amount necessary to carry out the provisions of this Act shall be charged against the OCM’s current budget, subject to existing rules and regulations, and shall thereafter be included in the annual General Appropriations Act. Additional funding for Personnel Services (PS), Maintenance and Other Operating Expenses (MOOE) and Capital Outlay (CO) may be requested from the MPBF and Contingent Fund.
+
+**Section 13. SEPARABILITY CLAUSE.** – If any part, section or provision of this Act shall be held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and binding.
+
+**Section 14. REPEALING CLAUSE.** – All regional laws, orders, rules and regulations, or parts thereof, which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+**Section 15. EFFECTIVITY CLAUSE.** – The enacted law shall take effect after fifteen (15) days following its complete publication in at least one (1) newspaper of general circulation within the Bangsamoro Autonomous Region.
+
+Approved,
+
+---
+¹¹ Sec. 3, Introductory Provisions of the Bangsamoro Administrative Code
+¹² Sec. 7, Executive Order No. 2, s. 2016
+¹³ Sec. 1, Executive Order No. 2, s. 2016
+¹⁴ Ibid.
+¹⁵ Ibid.
+¹⁶ Sec. 14, Chapter 3, Book I of the Bangsamoro Administrative Code
+¹⁷ Suggested domain www.gazette.bangsamoro.gov.ph
+¹⁸ Ibid.
+¹⁹ Sec. 12, Chapter 3, Book I of the Bangsamoro Administrative Code
+²⁰ Sec. 23, Executive Order No. 2, s. 2016
+²¹ Sec. 3, Commonwealth Act No. 638
+²² Sec. 25 (9), Title II, Book IV of the Bangsamoro Administrative Code
+²³ Sec. 14, Chapter 3, Book I of the Bangsamoro Administrative Code
+
+**Chunk Complete. Ready for next group of provisions starting at the Signatory Section.**
+
+***
+
+AUTHOR:
+
+(Sgd.)
+**HON. RASOL Y. MITMUG, JR.**
+
+This Act was passed by the Bangsamoro Parliament on ____________________.
+
+Certified correct:
+
+**PROF. RABY B. ANGKAL**
+Secretary General
+
+Attested:
+
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
