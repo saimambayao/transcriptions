@@ -1,0 +1,78 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. **162**
+
+Introduced by **MPs Engr. Don Mustapha A. Loong, Amilbahar S. Mawallil, Abdulkarim T. Misuari, Atty. Jose Lorena, Adzfar H. Usman, Eddie M. Alih, Nurredha I. Misuari, Jaafar Apollo Mikhail L. Matalam**
+
+Co-authors: **MPs Atty. Laisa M. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Jr., Atty. Suharto M. Ambolodto, Rasul E. Ismael, Dr. Susana Anayatin, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Michael E. Midtimbang, Diamila Disimban-Ramos, Ali O. Salik, Ramon A. Piang, Sr., and Albakil D. Jikiri**
+
+**"AN ACT UPGRADING THE EXISTING PARANG DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, PROVINCE OF SULU FROM A LEVEL 1, 25-BED CAPACITY HOSPITAL INTO A LEVEL 2, 50-BED CAPACITY DISTRICT HOSPITAL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"**
+
+**EXPLANATORY NOTE**
+
+Since the inception of revolutionary movements in the Philippines some 50 years ago, Sulu province had been in constant challenge of peace and order as it had been particularly prone to conflicts. Such a fact has deprived the residents of Sulu of various opportunities and support from the government and has stalled economic progress and development in the province. As a result, the delivery of basic services to the Sulu people had not been on par vis-à-vis other provinces in the country, in particular, on the aspect of health services in the province.
+
+The people of Sulu usually go to hospitals and seek medical treatment when they are already in severe conditions that doctors can no longer cure and provide treatment. There are several reasons for the occurrence of such incidence such as the financial difficulty of the residents, since according to current data, out of all 82 provinces in the Philippines, Sulu is the poorest, as evidenced by its having the highest poverty rate. Likewise, while there may be existing hospitals and health clinics, the lack of adequate health services, medical facilities, and equipment that are provided by the existing hospitals contributes to the difficulty in the treatments of the patients. To some, going to other places where there are more sophisticated health services and facilities requires some fortune.
+
+Parang district hospital is a government-run hospital and is currently a level 1 hospital with an authorized bed capacity of only 10. It is located in the municipality of Parang Sulu, which is far from the main town of the province, Jolo municipality where the provincial hospital is situated.
+
+With each passing day, the population of the municipality and its neighboring areas is increasing. This goes to say that more and more people will require medical services from the only available nearby hospital, which is the parang district hospital. This situation has prompted the hospital to render medical services beyond its projected capacity precisely since it has a limited number of bed capacity as a level 1 hospital.
+
+Hence, to ensure that the residents of Parang Municipality and its neighboring communities are accommodated and provided with immediate, adequate and more effective access to health care services since the municipality is far from the main town of Jolo, Sulu, it is believed that there is a need to upgrade the current level of Parang District Hospital from Level 1 into Level II hospital thereby increasing its bed capacity.
+
+In view of the pertinent provisions of RA 11054 otherwise known as the Bangsamoro Organic Law, Section 22 provides that "The Bangsamoro government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. It shall establish by law a general hospital system to serve the requirements of its people to ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services.", this government should take as paramount consideration the need to enact a bill that will address the impending health services problems of the constituent municipalities of Parang and other neighboring areas.
+
+(Sgd.)
+**MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of Parliament – Bangsamoro Transition Authority
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. **162**
+
+Introduced by **MPs Engr. Don Mustapha A. Loong, Amilbahar S. Mawallil, Abdulkarim T. Misuari, Atty. Jose Lorena, Adzfar H. Usman, Eddie M. Alih, Nurredha I. Misuari, Jaafar Apollo Mikhail L. Matalam**
+
+Co-authors: **MPs Atty. Laisa M. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Jr., Atty. Suharto M. Ambolodto, Rasul E. Ismael, Dr. Susana Anayatin, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Michael E. Midtimbang, Diamila Disimban-Ramos, Ali O. Salik, Ramon A. Piang, Sr., and Albakil D. Jikiri**
+
+**"AN ACT UPGRADING THE EXISTING PARANG DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, PROVINCE OF SULU FROM A LEVEL 1, 25-BED CAPACITY HOSPITAL INTO A LEVEL 2, 50-BED CAPACITY DISTRICT HOSPITAL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"**
+
+*Be it enacted by the Parliament of the Bangsamoro Transition Authority assembled:*
+
+**Section 1. Short Title.** This Act shall be known as the **"Parang District Hospital Upgrade Act of 2023"**.
+
+**Section 2. Declaration of Policy.** It is a policy of the Bangsamoro Autonomous Region in Muslim Mindanao as provided under Section 22, Article IX of the Republic Act No. 11054 otherwise known as the "Organic Law of the Bangsamoro Autonomous Region in Muslim Mindanao" to provide for a comprehensive and integrated health service delivery for its constituents and establish by law a general hospital system to serve the health requirements of its people and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services.
+
+**Section 3. Upgrading of the Parang District Hospital.** The Parang District Hospital located in Parang, Sulu is hereby upgraded from its present level I with (ten) 10-bed capacity into a Level II Hospital with an authorized bed capacity for general care services increased to fifty.
+
+**Section 4. Upgrading of the Facilities and Health Care Services.** The existing hospital facilities and professional health care services of the Parang District Hospital are hereby upgraded to conform with and be commensurate to the increase in its bed capacity as provided in Section 3 hereof.
+
+**Section 5. Administration, Management and Organization.** The Ministry of Health shall, in coordination with the Ministry of Finance, Budget and Management and the Parang District Hospital, determine the additional staff plantilla positions to be created pursuant to this Act.
+
+**Section 6. Integration of the Universal Health Care (UHC) Program.** — The upgrading of the Parang District Hospital shall integrate into its system of operations all pertinent and relevant provisions under Republic Act No. 11223 otherwise known as the Universal Health Care (UHC) Act.
+
+**Section 7. Appropriations.** The Ministry of Health shall immediately include in the Ministry's programs the implementation of this Act, the funding of which shall be included in the annual Bangsamoro Appropriations Act.
+
+**Section 8. Repealing Clause.** All laws, decrees, orders, issuances, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+**Section 9. Separability Clause.** In the event any provision of this Act or the application of the such provision is declared invalid, the remainder of this Act shall not be affected by such declaration.
+
+**Section 10. Effectivity Clause.** This Act shall take effect fifteen (15) days after its publication in a newspaper of Regional circulation.
+
+Approved,
+
+(Sgd.)
+**MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
+Member of Parliament – Bangsamoro Transition Authority
+
