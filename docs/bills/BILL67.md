@@ -1,0 +1,112 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 67**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL**
+Co-authored by
+**ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
+
+**AN ACT**
+**REQUIRING ALL CONSTITUENT LOCAL GOVERNMENT UNITS IN THE BANGSAMORO AUTONOMOUS REGION TO ALLOCATE AN ADEQUATE LAND SPACE FOR THE ESTABLISHMENT OF A BANGSAMORO PUBLIC CEMETERY, PROVIDING FOR ITS GUIDELINES, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+In the Islamic faith, Muslims believe a funeral to be a very spiritual occasion. Everyone in attendance participates in group prayers, in which mourners pray that Allah will have mercy on not only the deceased but also on all deceased Muslims. It can therefore be said that Islamic funerals serve not only to comfort the grieving, but also to pray to Allah, and to have mercy on the deceased.
+
+However, until now, aside from suffering distress and pain due to the loss of their loved ones, Muslim residents in the region have to endure certain difficulties and have to travel great distances to bury their deceased due to a lack of provision for Muslim public cemeteries and/or existing ones that are not well-maintained and operated.
+
+To help resolve such concerns, this measure seeks to require all constituent local government units in the Bangsamoro Autonomous Region to allocate a suitable land space for the establishment of a Bangsamoro public cemetery.
+
+The implication of this enactment will not only be limited to the promotion of health, safety, and the general welfare of the constituents of the Bangsamoro Government but also the adoption of measures towards ensuring mutual respect and protection of the distinct beliefs, customs, and traditions of the Bangsamoro people and other inhabitants in the Bangsamoro Autonomous Region.
+
+In view of the foregoing, the passage of this bill is earnestly sought.
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+**Chunk Complete. Ready for next group of provisions starting at Section 1.**
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 67**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL**
+Co-authored by
+**ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
+
+**AN ACT**
+**REQUIRING ALL CONSTITUENT LOCAL GOVERNMENT UNITS IN THE BANGSAMORO AUTONOMOUS REGION TO ALLOCATE AN ADEQUATE LAND SPACE FOR THE ESTABLISHMENT OF A BANGSAMORO PUBLIC CEMETERY, PROVIDING FOR ITS GUIDELINES, AND FOR OTHER PURPOSES**
+
+**Section 1. Short Title.** – This Act shall be known as the “*Bangsamoro Public Cemetery Act of 2022*.”
+
+**Section 2. Declaration of Policy and Principles.** – It shall be the policy of the Bangsamoro Government to ensure and support, among other things, the promotion of health and safety and instill health consciousness among the people. It shall also uphold the peoples’ right to have access to social services that promote their well-being.
+
+It is further declared the policy of the Bangsamoro Government to recognize, protect and guarantee the customs, beliefs, and traditions of the Bangsamoro people and other inhabitants in the Bangsamoro Autonomous Region.
+
+For this purpose, the Bangsamoro Government shall endeavor to allocate a suitable land space for the establishment of a public cemetery for the Bangsamoro towards the adoption of measures to ensure mutual respect and protection of their distinct belief and customs, as well as support those that are essential to the promotion of general welfare.
+
+**Section 3. Allocation of Land Space.** – All constituent local government units in the Bangsamoro Autonomous Region shall allocate a minimum of two-thousand (2000) square meters of land per thousand (1000) population within their respective jurisdictions for the establishment of a public cemetery for the Bangsamoro people, which shall be incorporated in their corresponding Comprehensive Land Use Plans (CLUP) or zoning ordinances to be approved by the concerned Sanggunian; *Provided*, That twenty percent (20%) of the land allocated for the purpose shall be set aside for use by non-Muslims.
+
+The constituent local government units shall ensure that the registration requirements as well as the mandated design parameters and road specifications for all Bangsamoro public cemeteries such as, but not limited to burial plot sizes, access to plots, circulation system, service utilities, buffer strip, facilities and amenities, and perimeter fence are in accordance with HLURB Board Resolution No. 681 Series of 2002, and all other pertinent rules and regulations.
+
+**Chunk Complete. Ready for next group of provisions starting at Section 4.**
+
+***
+
+**Section 4. Management and Operation.** – All constituent local government units in the Bangsamoro Autonomous Region shall have the power and authority to establish, maintain and operate all Bangsamoro public cemeteries within their respective territorial jurisdictions and to ensure compliance with existing rules on applicable design standards, sanitation requirements, and safety guidelines.
+
+The control and supervision of the construction, operations and maintenance of all Bangsamoro public cemeteries established by virtue of this Act shall be under the Ministry of Interior and Local Government.
+
+**Section 5. Appropriation.** – Upon the effectivity of this Act, such sum as may be necessary for the capital outlay, maintenance, operating and other expenses, and personnel services for all Bangsamoro public cemeteries created by virtue of this Act shall be provided by the Ministry of Interior and Local Government in the submission of the BARMM budget to the Ministry of Finance, Budget, and management for inclusion in the block grant and annual appropriations law.
+
+Additional funding shall come from the following:
+
+a. The annual subsidies, appropriations from the local funds of BARMM; and
+b. Donations, whether in cash or in-kind, from both the public and private sectors received through the BARMM government.
+
+**Section 6. Separability Clause.** – The provisions of this Act are hereby declared separable, and in the event one or more such provisions or part thereof are declared unconstitutional, such declaration of unconstitutionality shall not affect the validity of the other provisions thereof.
+
+**Section 7. Repealing Clause.** – All regional laws, acts, decrees, executive orders, proclamations, and/or administrative regulations which are inconsistent with the provisions of this Act are hereby amended, modified, superseded, or repealed accordingly.
+
+**Section 8. Implementing Rules and Regulations.** – The Ministry of Interior and Local Government, in close consultation with all constituent local government units in the Bangsamoro Autonomous Region, the Bangsamoro Darul-Ifta’, the Ministry of Environment and Natural Resources, and the Ministry of Health shall promulgate the Implementing Rules and Regulations of this Act, which shall include the following:
+
+a. The acquisition of qualified technical specifications of the establishment of all Bangsamoro public cemeteries, without prejudice to consultations with organized Muslim groups and traditional Muslim leaders; and
+
+b. The qualifications of the personnel of all Bangsamoro public cemeteries, with preference to qualified Muslim residents of each constituent local government unit.
+
+**Section 9. Effectivity.** – This Act shall take effect after fifteen (15) days following its publication in at least one (1) newspaper of regional circulation.
+
+*Adopted,*
+
+AUTHOR:
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Certified correct:
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested by:
+(Sgd.)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
