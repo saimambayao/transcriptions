@@ -1,0 +1,109 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+
+First Regular Session
+Second Parliament
+
+**BTA Parliament Bill No. 51**
+
+Introduced by:
+
+EDDIE MAPAG ALIH, MOHAGHER M. IQBAL, PANGALIAN M. BALINDONG, ALI B. SOLAIMAN, LANANG T. ALI, JR., HATIMIL E. HASSAN, NABIL A. TAN, OMAR YASSER C. SEMA, JOSE I. LORENA, PAISALIN P. TAGO, AMILBAHAR S. MAWALLIL, SUHARTO M. AMBOLODTO, RASOL Y. MITMUG, JR., ROMEO K. SEMA, ABDULKARIM T. MISUARI, RANDOLPH C. PARCASIO, HARON M. ABAS, IBRAHIM D. ALI, ABDULLAH B. HASHIM, MOHAMMAD S. YACOB, DON MUSTAPHA A. LOONG, ABDULLAH E. GAYAK, AIDA M. SILONGAN, BAINTAN A. AMPATUAN, SUSANA S. ANAYATIN, MALEIHA B. CANDAO, DIAMLA D. RAMOS, ALI O. SALIK, SAID Z. SALENDAB, SAID M. SHIEK, AKMAD I. ABAS, MUDJIB C. ABU, BASIT S. ABBAS, SUWAIB L. ORANON, RASUL E. ISMAEL, ADZFAR H. USMAN, ALI B. SANGKI, BAILENG S. MANTAWIL, AMROUSSI A. MACATANONG, ABDULWAHAB M. PAK, KADIL M. SINOLINDING, TAWAKAL B. MIDTIMBANG, MARY ANN M. ARNADO, RAMON A. PIANG, SR., MATARUL M. ESTINO, MARJANIE S. MACASALONG AND SUHARTO S. ESMAEL.
+
+Co – Authors:
+
+SITTIE FAHANIE S. UY-OYOD, NURREDHA I. MISUARI, HASHEMI N. DILANGALEN AND KHALID M. HADJI ABDULLAH.
+
+**AN ACT INSTITUTIONALIZING THE “MEDICAL SCHOLARSHIP AND RETURN SERVICE PROGRAM” OF THE MINISTRY OF HEALTH OF THE BANGSAMORO GOVERNMENT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be it enacted by the Bangsamoro Transition Authority in session assembled:
+
+**Section 1. Short Title.** – This Act shall be known as the “Bangsamoro Medical Scholarship Act of 2022”.
+
+**Section 2. Declaration of Policy.** – It is the policy of the Bangsamoro Government to promote and ensure the right of every Filipino citizen in its territorial jurisdiction to quality and accessible education at all levels and equal opportunities in life. Furthermore, the Bangsamoro Organic Law provides in Section 19, Article XII on Fiscal Autonomy that the “Parliament shall assign the highest budgetary priority to education, health and social services as may be provided in its appropriation law.” Furthermore, the Bangsamoro Government recognizes the vital role of education as the bedrock on which the hope and future of the succeeding generations of the Bangsamoro is built.
+
+**Section 3. Purpose.** – The Bangsamoro Medical Scholarship is for the purpose of producing more competent, committed, community-oriented medical doctors to serve in the Bangsamoro Autonomous Region (BAR) and its neighboring regions, to address the scarcity of doctors, and to attain optimum healthcare service to the people.
+
+**Section 4. Definition of Terms.** – As used in this Act, the following terms shall be defined as follows:
+
+(a) Bangsamoro Medical Scholarship - refers to the five (5)- year Medical Scholarship Program of the Ministry of Health (MOH) of the Bangsamoro Government which is institutionalized under Section 5 of this Act;
+
+(b) Bangsamoro Medical Scholars – refer to graduates of pre-medical or related courses from state colleges and universities (SUCs) and private institutions of higher learning who qualify for the Bangsamoro Medical Scholarship of MOH; Priority shall be given to graduates residing in the BAR;
+
+(c) Medical School Partners – refer to State Universities and Colleges (SUCs) and private institutions of higher learning recognized by the Commission on Higher Education (CHED) offering the Doctor of Medicine (M.D.) degree and enter into a Memorandum of Agreement with MOH in the implementation of the Bangsamoro Medical Scholarship;
+
+(d) Return Service – refers to the service by a Bangsamoro Medical Scholar as part of his/her obligations under the scholarship upon graduation and passing the Physician Licensure Examination as provided in Section 8 of this Act;
+
+**Section 5. Institutionalization of the Bangsamoro Medical Scholarship and Return Service Program.** – There is hereby established a medical scholarship and return service program to be known as the “Bangsamoro Medical Scholarship and Return Service Program”;
+
+**Section 6. Coverage of the Bangsamoro Medical Scholarship.** – The Bangsamoro Medical Scholarship shall be open to graduates of pre-medical or related courses residing in BAR who are not enjoying any scholarship, health professionals who are serving in government health offices in the region; children and dependents of BARMM employees, barangay health workers; and families of Moro Islamic Liberation Front (MILF) and Moro National Liberation Front (MNLF).
+
+**Section 7. Student - Beneficiaries.** – The student - beneficiaries shall be equitably distributed to the six (6) provinces of the BAR including Cotabato City, Marawi City, Lamitan City and sixty three (63) Special Geographic Areas.
+
+**Section 8. Privileges of the Bangsamoro Medical Scholar.** – The Bangsamoro Medical Scholarship Program shall cover all expenses of a Bangsamoro Medical Scholar which include tuition fees, miscellaneous fees, laboratory fees, student fund, book allowance, uniform allowance, monthly living subsidy allowance, monthly lodging allowance, transportation allowance, basic equipment allowance, school supplies allowance, miscellaneous allowance, fees for the licensure review, fees for the licensure examination, and PhilHealth insurance.
+
+**Section 9. Obligation of the Bangsamoro Medical Scholars** – Upon graduation of their M.D. degree and passing the Physician Licensure Examination, the Bangsamoro Medical Scholars are obliged to render return service in the BAR for two (2) years; as they are newly licensed physicians, the amended qualification standards for the Rural Health Physician (SG-24) position shall apply to them.
+
+**Section 10. Program Implementation.** – Within thirty (30) days from the effectivity of this Act, the Ministry of Health shall promulgate the rules and regulations for the effective implementation of this Act. MOH shall have Medical School Partners in the implementation of the Bangsamoro Medical Scholarship.
+
+**Section 11. Separability Clause.** – If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+**Section 12. Appropriations.** – The amount necessary for the continuing implementation of this Act shall be included as a separate line-item under the appropriations of MOH of the Bangsamoro Appropriations Act.
+
+**Section 13. Repealing Clause.** – All laws, orders, circulars, rules and regulations inconsistent with or contrary to this Act, are hereby deemed accordingly repealed or amended.
+
+**Section 14. Effectivity.** – This Act shall take effect immediately following the completion of its publication in a newspaper of regional circulation in the BARMM.
+
+Approved,
+
+Principal Authors:
+
+EDDIE MAPAG ALIH
+MOHAGHER M. IQBAL
+PANGALIAN M. BALINDONG
+ALI B. SOLAIMAN
+LANANG T. ALI, JR.
+HATIMIL E. HASSAN
+NABIL A. TAN
+OMAR YASSER C. SEMA
+JOSE I. LORENA
+PAISALIN P. TAGO
+AMILBAHAR S. MAWALLIL
+SUHARTO M. AMBOLODTO
+RASOL Y. MITMUG, JR.
+ROMEO K. SEMA
+ABDULKARIM T. MISUARI
+RANDOLPH C. PARCASIO
+HARON M. ABAS
+IBRAHIM D. ALI
+ABDULLAH B. HASHIM
+MOHAMMAD S. YACOB
+DON MUSTAPHA A. LOONG
+ABDULLAH E. GAYAK
+AIDA M. SILONGAN
+BAINTAN A. AMPATUAN
+SUSANA S. ANAYATIN
+MALEIHA B. CANDAO
+DIAMLA D. RAMOS
+ALI O. SALIK
+SAID Z. SALENDAB
+SAID M. SHIEK
+AKMAD I. ABAS
+MUDJIB C. ABU
+BASIT S. ABBAS
+SUWAIB L. ORANON
+RASUL E. ISMAEL
+ADZFAR H. USMAN
+ALI B. SANGKI
+BAILENG S. MANTAWIL
+AMROUSSI A. MACATANONG
+ABDULWAHAB M. PAK
+KADIL M. SINOLINDING
+TAWAKAL B. MIDTIMBANG
+MARY ANN M. ARNADO
+RAMON A. PIANG, SR.
+MATARUL M. ESTINO
+MARJANIE S. MACASALONG
+SUHARTO S. ESMAEL
+
