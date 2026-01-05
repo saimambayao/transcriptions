@@ -1,0 +1,34 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+BANGSAMORO TRANSITION AUTHORITY
+Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+Regular Session
+
+**CABINET BILL NO. 128**
+
+Government of the Day
+
+**AN ACT EXTENDING THE GENERAL APPROPRIATIONS ACT OF THE BANGSAMORO UNTIL DECEMBER 31, 2023, EXCEPT PERSONNEL SERVICES, AMENDING FOR THE PURPOSE SECTION 48 OF THE GENERAL PROVISIONS OF THE 2022 GENERAL APPROPRIATIONS ACT OF THE BANGSAMORO**
+
+**Section 1.** Section 48 of the Bangsamoro Appropriations Act or Bangsamoro Act No. 23 is hereby amended to read as follows:
+
+"Sec. 48. Cash Budgeting System. All appropriations in this Act, except Personnel Services, shall be available for release and disbursement for the purpose specified, and under the same general and special provisions applicable thereto, until December 31, 2023. While the amount appropriated herein, as share of the constituent LGUs on the income taxes collected within the BARMM shall be available for disbursement for the purpose until December 31, 2023.
+
+After the end of validity period, all unreleased appropriations shall lapse, while unexpended or undisbursed funds shall revert back to the Bangsamoro Treasury under a Special Fund for reappropriation in accordance with Section 19, Article XII, of RA 11054. Ministries and Officer shall strictly observe the validity of appropriations and the reversion of funds.
+
+For FY 2022, the appropriations for infrastructure capital outlays shall be valid for obligation until December 31, 2023, while the completion of construction, inspection, and payment shall be made not later than June 30, 2024. On the other hand, appropriations for MOOE and other capital outlays item shall be likewise valid for obligation until December 31, 2023, while delivery, inspection and payment shall be made not later than March 31, 2024.
+
+The appropriations for Personnel Services authorized in this Act shall be valid for obligation and disbursement only until December 31, 2022.
+
+The MFBM is authorized to issue the necessary guidelines for the effective implementation of this Act."
+
+**Section 2.** Repealing Clause. - All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+**Section 3.** Effectivity. – This Act shall take effect immediately after its publication in a newspaper of regional circulation in the Bangsamoro Autonomous Region.
+
+(Sgd.)
+**MP EDUARD UY GUERRA, ARCH’T**
+Member of the Parliament
+
