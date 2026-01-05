@@ -1,0 +1,121 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 68**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL**
+Co-authored by
+**ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
+
+**AN ACT**
+**PROMOTING THE DEVELOPMENT AND UTILIZATION OF SOLAR ENERGY IN ALL SOCIALIZED HOUSING PROGRAMS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+Republic Act No. 9513, otherwise known as the Renewable Energy Act of 2008, provides that it is the declared policy of the State to increase the utilization of renewable energy by institutionalizing the development of national and local capabilities in the use of renewable energy systems, and promoting its efficient and cost-effective commercial application by providing fiscal and non-fiscal incentives.
+
+Towards this end, qualified end-users can generate savings on their electricity bill, protect themselves from possible volatilities of the energy market, and contribute to green energy generation.
+
+Pursuant to Section 36, Article XIII of the Bangsamoro Organic Law, the Bangsamoro Government is mandated to promote investments in the energy and power generation sector, taking into consideration the promotion of low carbon sustainable power generation policies to reduce costs associated with transmission, including line losses and network investment.
+
+Considering the foregoing, this proposed measure seeks to support the Bangsamoro Government in its mandate and institutionalize the construction of renewable energy systems in all socialized housing programs in the Bangsamoro Autonomous Region in Muslim Mindanao by installing solar energy systems.
+
+The solar energy systems to be established shall supply the electric power requirements, as an accessory use, to provide secure, clean, and environment-friendly power services in urban and rural areas in the Bangsamoro Autonomous Region, especially in settlements for the disadvantaged, the homeless, those victims of conflicts and atrocities, and Internally Displaced Persons (IDPs).
+
+Solar energy systems do not require extraction activities like large-scale mining or drilling which bring about negative environmental impacts. It does not generate greenhouse gases such as carbon and methane nor emit particulates that are the bane of fossil fuels. Most important, solar panels can be installed on rooftops and designated areas without disrupting activities or dislocating electric power consumers. Solar energy systems also generate substantial savings versus fossil-fueled power plants whose feed stocks have to be transported over long distances for which generators incur transport or hauling costs.
+
+In view of the foregoing, the passage of this bill is earnestly sought.
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+**AN ACT**
+**PROMOTING THE DEVELOPMENT AND UTILIZATION OF SOLAR ENERGY IN ALL SOCIALIZED HOUSING PROGRAMS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**Section 1. Short Title.** – This Act shall be known as the “*Renewable Energy for Socialized Housing in the BARMM Act of 2022.*”
+
+**Section 2. Declaration of Policy and Principles.** – The Bangsamoro Government shall, pursuant to Section 8, Article IX of the Bangsamoro Organic Law, provide, maintain, and ensure affordable and progressive housing projects, power and electricity, among others, to the Bangsamoro people and other inhabitants of the Bangsamoro Autonomous Region.
+
+To significantly improve the quality of life of the Bangsamoro people and its other inhabitants, the Bangsamoro government shall guarantee adequate, safe, resilient, and affordable housing projects, which include provisions for the construction of Solar Energy Systems, subject to reasonable restrictions which will preserve the public health, safety, and welfare of the people.
+
+The Bangsamoro government shall adopt measures which will promote a better energy mix, thereby integrating low-emission development principles and strategies to ensure that the Bangsamoro people will live in economically, socially, and environmentally sustainable communities.
+
+Towards this end, energy efficiency should be considered in all phases of settlements planning, building design and construction, both in electricity use and transmission. Integrating low-emission considerations in housing will contribute not only in lowering greenhouse gas emissions, but also in the transition to a more cost-effective housing system that will deliver lasting socio-economic gains for the inhabitants of the Bangsamoro Autonomous Region.
+
+**Section 3. Definition of terms.** – For purposes of this Act, the following terms shall be defined as follows:
+
+a. “Solar Energy Collection Device” refers to the use of semi-conductor material made up of several photovoltaic cells to convert sunlight into electricity designed to meet any electrical requirement, no matter how large or small;
+b. “Solar Photovoltaic (PV) module or panel” refers to a group of individual PV cells connected together to produce a power output from about 10 watts to 300 watts or more;
+c. “Balance of System Components” refer to components, such as inverters, batteries, and equipment used to connect the PV system safely to the electric grid so that it can be used by appliances and equipment connected to the circuit;
+d. “Building-Integrated Photovoltaic (BIPV) Systems” refer to a solar energy system that consists of integrating Solar PV modules into the building envelope, where the solar panels themselves act as a building material (roof shingles) or structural element (i.e. façade);
+e. “Ground-Mounted Solar Energy Systems” refer to systems which are not mounted on existing structures;
+f. “Off-Grid Systems” refer to electrical systems not connected to the wires and related facilities of the On-Grid Systems of the Philippines;
+g. “On-Grid Systems” refer to electrical systems composed of interconnected transmission lines, distribution lines, substations, and related facilities for the purpose of conveyance of the bulk power on the grid of the Philippines;
+h. “Net Metering” refers to the application by utility customers of the electricity generated by their own systems against their electric bills. If they produce more than they consume, the utility pays them for the excess;
+i. “Solar Easements” refer to legal agreements that protect access to sunlight on a property;
+j. “Solar Energy” refers to radiant energy (direct, diffused, or reflected) received from the sun at wavelengths suitable for conversion into thermal, chemical or electrical energy;
+k. “Solar Access” refers to the access of a solar energy system to direct sunlight;
+l. “Solar Energy System” refers to an energy system that consists of one or more solar collection devices, solar energy related “balance of system” equipment, and other associated infrastructure with the primary intention of generating electricity, storing electricity, or otherwise converting solar energy to usable thermal, mechanical, chemical, or electrical energy to meet all or a significant part of a structure’s energy requirements.
+
+**Section 4. Coverage.** – This Act shall provide a framework for the establishment of solar energy systems in all current and future regional housing projects implemented by the Bangsamoro Government within the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**Section 5. Establishment of Solar Energy Systems in Socialized Housing Programs.** - Subject to the standards for accessory uses, solar energy systems shall be integrated to all current and future regional housing projects implemented by the Bangsamoro Government, as an accessory use, to provide secure, clean, and environment-friendly power services in urban and rural areas, especially in settlements for the disadvantaged, the homeless, those victims of conflicts and atrocities, and Internally Displaced Persons (IDPs), pursuant to Section 9, Article IX of the Bangsamoro Organic Law.
+
+The sum allocated for the integration of solar energy systems shall include the cost of its installation, upkeep, and maintenance.
+
+All end-users should be informed by way of its monthly electric bill how much of its monthly energy consumption and generation charge is provided by the installed solar energy system.
+
+**Chunk Complete. Ready for next group of provisions starting at Section 6.**
+
+***
+
+**Section 6. General Guidelines.** – For the purpose of this Act, the following are the general guidelines for solar energy systems in all socialized housing programs in the BARMM:
+
+a. Establishment and construction shall immediately commence to supply power, as an accessory use, to all socialized housing programs implemented by the Bangsamoro Government in the BARMM;
+b. The Ministry of Finance, Budget, and Management shall apply the appropriate provisions of Chapter VII General Incentives of Republic Act No. 9513 or the Renewable Energy Act of 2008;
+c. Beneficiaries of socialized housing implemented by the Bangsamoro Government with installed solar energy systems shall enjoy the privileges granted to qualified end-users, as certified by the DOE Renewable Energy Management Bureau, as provided for in Sections 10 and 12 of R.A. No. 9513.
+
+**Section 7. Net Metering for Solar Energy.** – The Bangsamoro Government shall ensure that the distribution utilities will enter into net-metering agreements with all end-users of the solar energy system. The net metering interconnection standards, pricing methodology, and mechanisms for the physical connection and commercial arrangements of the net-metering for solar energy shall be implemented pursuant to Section 10, Chapter II of Republic Act No. 9513, or the Renewable Energy Act of 2008.
+
+**Section 8. Exemption from the Universal Charge.** – Power and electricity generated through solar energy systems for the homeowner’s own consumption shall be exempted from the payment of the universal charge provided for under Section 34 of Republic Act No. 9136.
+
+**Section 9. General Guidelines.** – Within ninety (90) days from the passage of this Act, the Ministry of Human Settlements and Development, in close coordination with the Ministry of Science and Technology, the Ministry of Environment, Natural Resources, and Energy, and renewable energy stakeholders shall determine the guidelines or added requirements that must be integrated into the installation of solar energy systems.
+
+Provisions relating to height, setbacks, aesthetics/screening, and impervious coverage shall be included in the guidelines, in addition to site plan review standards and unique approval standards imposed upon specific types of solar energy systems, upon specific areas, or be generally applied to all solar energy systems.
+
+**Section 10. Training and Education.** – A mandatory continuing education and training for all first responders within the Bangsamoro Autonomous Region in Muslim Mindanao, such as fire fighters and police officers, shall be conducted by the Ministry of Human Settlements and Development to ensure their safety in neutralizing possible additional hazards that the solar energy systems may create during a fire, such as tripping/slipping, and structural damage as a result of additional weight on the roof from the system, among other hazards.
+
+**Section 11. Solar Access.** – The Bangsamoro Government shall be required to obtain solar access easements from neighboring landowners to ensure that structures or vegetation in adjacent lots do not unreasonably obstruct the solar access for the solar energy collection devices to be installed in all current and future regional housing projects implemented by the Bangsamoro Government.
+
+**Section 12. Appropriations.** – Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the Ministry of Human Settlements and Development. Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the Bangsamoro.
+
+**Section 13. Separability Clause.** – If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+**Section 14. Repealing Clause.** – All laws, executive orders or issuances, or any parts thereof which are inconsistent herewith, are hereby repealed or amended accordingly.
+
+**Section 15. Effectivity Clause.** – This Act shall take effect fifteen (15) days after publication in a newspaper of regional circulation.
+
+*Adopted,*
+
+AUTHOR:
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Certified correct:
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested by:
+(Sgd.)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
