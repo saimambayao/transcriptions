@@ -1,0 +1,89 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 107**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL, HATIMIL E. HASSAN, MUSLIMIN A. JAKILAN, ATTY. LAISA M. ALAMIA**
+Co-authored by
+**MP MOSBER E. ALAUDDIN, ENGR. BAINTAN A. AMPATUAN, ATTY. SUHARTO M. AMBOLODTO, ATTY. RASOL Y. MITMUG, JR., ENGR. DON MUSTAPHA A. LOONG, RASUL E. ISMAEL**
+
+**AN ACT**
+**ESTABLISHING A LEVEL I GENERAL HOSPITAL IN THE MUNICIPALITY OF HADJI MUHAMMAD AJUL, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+The Municipality of Hadji Muhammad Ajul is a coastal area located in Basilan island that was created by the Muslim Mindanao Autonomy Act No. 192, which was ratified on May 22, 2006. Composed of 11 barangays that were once part of the Municipality of Tuburan, this municipality has a population of 24,625, according to the Population Census of 2020, with 2,948 household and an average of 6.55 members per household.
+
+The Hadji Muhammad Ajul Rural Health Unit is located in barangay Buton. It is the only facility that provides essential health care services in area that constitutes 5.86% of Basilan’s total land area. In case of emergencies and other urgent health service needs, patient must be transported to nearest hospital in neighboring municipalities. The difficulty in transporting patients is troublesome and definitely triggers excessive anxiety in patients and their families. Worse than this is that the logistical difficulties patients experience results in delays in both diagnosis and treatment, which also results in the loss of lives among patients who are in the direst straits. All of us have the constitutional right to life, which includes the right to good health and good access to health care services.
+
+Article II, Section 15 of the Philippine Constitution provides that "the state shall protect and promote the right to health of the people and instill health consciousness." The Constitution also states in Section 11 of Article 12 that "the state shall adopt an integrated and comprehensive approach to health and development which shall endeavor to make essential goods, health and other social services available to the people at affordable costs."
+
+Section 22, Article IX of the Republic Act 110 54, or the Bangsamoro Organic Law (BOL) of the Bangsamoro Autonomous Region in Muslim Mindanao, states its mandate to provide for comprehensive and integrated health service delivery to its constituents and establish by law a general hospital system that will serve the health requirements of its people. This BOL provision is designed to ensure that the individual’s basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services.
+
+Hence, to give substance and spirit to the provision of the Philippine Constitution and the Bangsamoro Organic Law, there is an urgent need for the construction and establishment of the Hadji Muhammad Ajul General Hospital, a measure that provides the Municipal constituents with facilities that uphold their societal rights and their individual, basic right to life.
+
+In view of the foregoing, the passage of this bill is earnestly sought.
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 107**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL, HATIMIL E. HASSAN, MUSLIMIN A. JAKILAN, ATTY. LAISA M. ALAMIA**
+Co-authored by
+**MP MOSBER E. ALAUDDIN, ENGR. BAINTAN A. AMPATUAN, ATTY. SUHARTO M. AMBOLODTO, ATTY. RASOL Y. MITMUG, JR., ENGR. DON MUSTAPHA A. LOONG, RASUL E. ISMAEL**
+
+**AN ACT**
+**ESTABLISHING A LEVEL I GENERAL HOSPITAL IN THE MUNICIPALITY OF HADJI MUHAMMAD AJUL, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Parliament in session:*
+
+**Section 1.** There is hereby established a Level I general hospital with twenty-five (25) bed capacity in the Municipality of Hadji Muhammad Ajul, Province of Basilan, under the direct administrative and technical supervision of the Basilan Integrated Provincial Health Office (IPHO).
+
+**Section 2.** The BARMM Ministry of Health (MOH) shall formulate the necessary guidelines for its operations as a level I hospital and ensure funding for the construction of the hospital building and other complementary infrastructure, facilities, and medical equipment, as well as the costs for the necessary maintenance and personnel services.
+
+**Section 3.** The Chief of Hospital of Hadji Muhammad Ajul General Hospital, in consultation and coordination with the Basilan IPHO, shall submit to the MOH an annual development plan to reflect the developmental goals of the hospital every year. The medical personnel, capital outlays and budgetary needs for the operation of Hadji Muhammad Ajul General Hospital shall be based on the annual hospital development plan.
+
+Any future increase in bed capacity and upgrading of health care services and the facility shall be consistent with the annual hospital development plan.
+
+**Section 4.** The provisions of this Act are hereby declared separable, and in the event one or more such provisions or part thereof are declared unconstitutional, such declaration of unconstitutionality shall not affect the validity of the other provisions thereof.
+
+**Section 5.** All regional laws, acts, decrees, executive orders, proclamations, and/or administrative regulations which are inconsistent with the provisions of this Act are hereby amended, modified, superseded, or repealed accordingly.
+
+**Section 6.** This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation in the region.
+
+Approved,
+
+AUTHOR:
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Certified correct:
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested by:
+(Sgd.)
+**ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
