@@ -1,0 +1,43 @@
+REPUBLIC OF THE PHILIPPINES
+BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO
+**BANGSAMORO TRANSITION AUTHORITY**
+
+First Regular Session
+Second Parliament
+
+**BTA BILL NO. 101**
+
+INTRODUCED BY:
+
+EDDIE MAPAG ALIH, MOHAGHER M. IQBAL, BENJAMIN T. LOONG, AMILBAHAR S. MAWALLIL, DON MUSTAPHA A. LOONG, PANGALIAN M. BALINDONG, ABDULRAOF A. MACACUA, EDUARD U. GUERRA, UBAIDA C. PACASEM, SHA ELIJAH B. DUMAMA-ALBA, RAISSA H. JAJURIE, AIDA M. SILONGAN, ANNA TARHATA S. BASMAN, ALI B. SOLAIMAN, HATIMIL E. HASSAN, LANANG T. ALI, JR., OMAR YASSER C. SEMA, PAISALIN P. TAGO, NABIL A. TAN, JOSE I. LORENA, SUHARTO M. AMBOLODTO, MOHAMMAD S. YACOB, MARJANIE S. MACASALONG, HUSSEIN P. MUÑOZ, HARON M. ABAS, IBRAHIM D. ALI, ABDULLAH B. HASHIM, ABDULLAH E. GAYAK, AIDA M. SILONGAN, MALEIHA B. CANDAO, ALI O. SALIK, SAID M. SHIEK, SAID Z. SALENDAB, AKMAD I. ABAS, MUDJIB C. ABU, BASIT S. ABBAS, SUWAIB L. ORANON, ABDULWAHAB M. PAK, ABDULLAH G. MACAPAAR, ROMEO K. SEMA, SUSANA S. ANAYATIN, ABDULKARIM T. MISUARI, RANDOLPH C. PARCASIO, ALI B. SANGKI, ADZFAR H. USMAN, AND MUSLIMIN A. JAKILAN
+
+CO-AUTHORS:
+
+MATARUL M. ESTINO, MARY ANN M. ARNADO, AMROUSSI A. MACATANONG, BAILENG S. MANTAWIL, DAN S. ASNAWIE, KADIL M. SINOLINDING, JR., MOSBER E. ALAUDDIN, RAMON A. PIANG, SR., SUHARTO S. ESMAEL, TAWAKAL B. MIDTIMBANG, NURREDHA I. MISUARI, HASHEMI N. DILANGALEN, HAMID U. MALIK, AND ALI MONTAHA D. H. BABAO
+
+**AN ACT DECLARING TAWI-TAWI AS THE SEAWEED CAPITAL OF THE PHILIPPINES**
+
+**Section 1. Declaration of Policy.** - Section 3, Article V of Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law, provides that the Bangsamoro Government shall ensure, support, and promote economic prosperity, and the preservation and enrichment of culture within its territorial jurisdiction. Furthermore, Section 23, Article XIII on Regional Economy and Patrimony of the same law, provides that, consistent with the provisions of Republic Act No. 8550, otherwise known as the “Philippine Fisheries Code of 1998,” as amended, and other relevant national laws, the policies and laws of the Bangsamoro Government on agriculture, fisheries, and aquatic resources shall advance agriculture as a key development strategy, promote productivity measures, and provide support for small farmers, landholders, and marginal fisherfolk.
+
+**Section 2. Seaweeds of Tawi-Tawi.** - The seaweeds of Tawi-Tawi belonging to Eucheuma and Kappaphycus species which are major sources of carrageenan are labelled as “green gold” from the sea. Its farming has become the primary source of livelihood of thousands of the coastal families in Tawi-Tawi.
+
+**Section 3. Seaweed Industry of Tawi-Tawi.** - The seaweed industry of Tawi-Tawi has become a “life-changing” industry that has impacted on the improved quality of life of the people. It is a family enterprise which has provided a sustainable and lucrative income for them. The industry has contributed to extricate Tawi-Tawi from being among the top 20 poorest provinces in the country.
+
+**Section 4. Agal-Agal Festival.** - The Agal-Agal Festival in Tawi-Tawi is the main Seaweed Festival in the country. It derives its name from the local word Agal-Agal for seaweeds.
+
+The Agal-Agal Festival is traditionally held annually during the Kamahardikaan Sin Tawi-Tawi or the Founding Anniversary of the Province every 25th of September.
+
+**Section 5. Tawi-Tawi as Seaweed Capital of the Philippines.** - In recognition of Tawi-Tawi as the major producer of quality Eucheuma and Kappaphycus species of seaweeds and the biggest contributor of the bulk of Philippines exports, and in support to the economic development of the province and promotion of the culture and traditions of the people, it is hereby declared that Tawi-Tawi be the Seaweed Capital of the Philippines.
+
+**Section 6. Separability Clause.** - If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+**Section 7. Repealing Clause.** - All laws, orders, circulars, rules and regulations inconsistent with or contrary to this Act are hereby deemed repealed or amended accordingly.
+
+**Section 8. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of regional circulation in Bangsamoro Autonomous Region.
+
+Adopted, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 1444 / \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2022
+
+(Sgd.)
+**EDDIE MAPAG ALIH**
+Member of Parliament
+
