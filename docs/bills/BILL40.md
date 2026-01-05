@@ -1,0 +1,40 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. 40
+(Cabinet Bill)
+
+Introduced by:
+**THE GOVERNMENT OF THE DAY**
+
+**AN ACT**
+**DECLARING MAY 2 OF EVERY YEAR AS BATTLE OF BAYANG DAY IN COMMEMORATION OF THE HEROIC SACRIFICES MADE BY THE SULTAN OF BAYANG AND HIS PEOPLE AGAINST THE ATROCITIES COMMITTED BY THE AMERICAN EXPEDITIONARY FORCES.**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1.** The second day of the month of May of every year is hereby declared as the “Battle of Bayang Day.”
+
+**SECTION 2.** The Ministry of Public Order and Safety, the Bangsamoro Commission on the Preservation of Cultural Heritage (BCPCH), and other concerned agencies of the BARMM shall ensure the proper observance of this special day.
+
+**SECTION 3.** The BCPCH in coordination with the Ministry of Basic, Technical and Higher Education shall monitor the annual activities prepared and implemented by BARMM government agencies, schools, colleges and universities.
+
+Chunk Complete. Ready for next group of provisions starting at Section 4.
+
+***
+
+**SECTION 4.** This Act shall take effect fifteen (15) days following its publication.
+
+Approved,
+
+**HON. AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+(Sgd.)
+**ABDULRAOF A. MACACUA**
+Senior Minister
+
