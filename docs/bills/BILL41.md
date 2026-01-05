@@ -1,0 +1,49 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. 41
+(Cabinet Bill)
+
+Introduced by:
+**THE GOVERNMENT OF THE DAY**
+
+**AN ACT ESTABLISHING A BUFFER FUND TO DEFRAY THE COST FOR THE TIMELY PAYMENT OF SALARIES AND OTHER REMUNERATION OF WORKERS OR PERSONNEL OF NATIONALLY FUNDED PROGRAMS DEPLOYED IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO UNDER THE SUPERVISION OF ITS MINISTRIES AND OFFICES, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1. Short Title.** – This Act shall be known as the “BARMM Buffer Fund Act of 2022”.
+
+**SECTION 2. Declaration of Policy.** – It is the policy of the Bangsamoro Government to provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, and livelihood opportunities, among others, to the Bangsamoro people and other inhabitants of the Bangsamoro. It shall likewise be the policy of the Bangsamoro Government to afford workers in the Bangsamoro full protection and promotion of their general welfare to ensure the efficient and effective delivery of services and programs to the Bangsamoro constituents. Thus, it shall be the policy of the Bangsamoro Government to protect the interests of its workers and personnel, including those deployed in the region under programs funded by the National Government, by providing support and developing a mechanism that will ensure timely payment of authorized salaries, wages, and remuneration for services rendered by them.
+
+**SECTION 3. Establishment of the Bangsamoro Buffer Fund.** – There is herein established the Bangsamoro Buffer Fund, hereinafter referred to as the Fund, to defray the timely payment of salaries and other remuneration of nationally-funded workers or personnel directly supervised by the BARMM ministries or offices. The Fund shall be utilized to offset the effects of delay in the transfer or downloading of funds for the payment of salaries and other remuneration of the concerned workers or personnel by appropriate national government agencies.
+
+**SECTION 4. Administration and Management of the Fund.** – The Fund shall be administered and managed by the Ministry of Finance, and Budget and Management (MFBM) in accordance with its cash management and disbursement system and procedures subject to all existing government accounting and auditing rules and regulations. The Fund shall be available for release and disbursement by MFBM only for the purpose herein specified upon request by the concerned BARMM ministry or office.
+
+**SECTION 5. Dissolution or Reversion of the Fund.** – The Fund may not be automatically dissolved upon the discontinuance of the implementation of nationally-funded programs in the BARMM, the appropriation thereof in the General Appropriations Act of the Bangsamoro (GAAB), or the cessation of hiring or renewal of deployed workers. The Fund shall continue to be available for the purpose for which it was created to safeguard the workers' interest and welfare through timely payment of their salaries and other remuneration.
+
+The Fund shall be dissolved or reverted to the Bangsamoro Treasury Office where the Fund has completely stopped operation for the last two years. Such transfer shall be reported by the MFBM to the Chief Minister.
+
+**SECTION 6. Appropriation.** – The amount of Five Hundred Million Pesos (Php 500,000.00) is hereby appropriated as Bangsamoro Buffer Fund.
+
+**SECTION 7. Implementing Rules and Regulations.** – The MFBM shall issue the implementing rules and regulations to govern the request, utilization, disbursement of funds pursuant to the provisions of this Act.
+
+**SECTION 8. Separability Clause.** – In the event any provision of this Act is declared unconstitutional, the validity of the other provisions shall not be affected and shall continue to be in full force and effect.
+
+**SECTION 9. Repealing Clause.** – All provisions of existing acts, laws, orders, rules, and regulations, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+**SECTION 10. Effectivity.** – This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation in the region.
+
+Approved,
+
+**HON. AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+(Sgd.)
+**ABDULRAOF A. MACACUA**
+Senior Minister
+
