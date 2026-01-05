@@ -1,0 +1,173 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+Parliament Bill No. **85**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL**
+Co-authored by
+**ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
+
+**AN ACT**
+**PROMOTING THE MODERNIZATION AND DEVELOPMENT OF ALL AIRPORT TERMINAL BUILDING FACILITIES IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+Infrastructure development through functional, strategic, and quality infrastructure projects is an integral part of socio-economic development, most especially in the Bangsamoro Autonomous Region. Due to its insufficient infrastructure facilities, the BARMM has remained behind in terms of infrastructure development compared to other regions.
+
+This is especially true for domestic airport transport facilities in the region which is a major constraint in increasing regional investment and development. Factors such as insufficient security mechanisms, and the lack of a detailed planning guidance in the repair, maintenance, and development of airport terminal building facilities should be urgently addressed.
+
+To accomplish this, essential elements such as ticketing, passenger processing, baggage handling, and security inspection are required. This measure seeks to institutionalize the preparation and submission of development master plans of all BARMM airports, intending to make regional planners aware of the most important considerations, to avoid major errors, and to aid in providing a basis for preliminary studies.
+
+In addition, this measure likewise seeks to create the Airport Facilities Advisory Committee which will serve as the official body for project coordination for all plans in the repair, maintenance, and development of all airport passenger terminals and facilities in the BARMM.
+
+Finally, this bill seeks to ensure an integrated manner of operating regional airport terminals, and to avoid conflicting policies and programs on airport maintenance, operation and development. In view of the foregoing, the passage of this bill is earnestly sought.
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 85**
+
+**AN ACT**
+**PROMOTING THE MODERNIZATION AND DEVELOPMENT OF ALL AIRPORT TERMINAL BUILDING FACILITIES IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**Section 1. Short Title.** – This Act shall be known as the **“BARMM Airport Terminal Infrastructure Modernization Act of 2022”**
+
+**Section 2. Declaration of Policy and Principles.** – It shall be the policy of the Bangsamoro Government to promote, maintain, and expand viable, efficient, safe, and dependable air transportation facilities as effective instruments for regional development and economic progress.
+
+Towards this end, the Bangsamoro Government shall provide adequate suitable airport facilities through its continuous repair, maintenance, and development. Subject to existing laws, rules, and regulations, it shall ensure safety, regularity, and efficiency in all airport terminal facilities, equipment and operational procedures situated within the Bangsamoro Autonomous Region.
+
+Architectural and infrastructure-related requirements, and alterations to existing facilities for the optimum implementation of international civil aviation measures shall be integrated into the design and development of all regional airport facilities, taking into consideration land-use and environmental control measures.
+
+The aim is to provide the best possible conditions for the needs of the airport, the community in the surrounding area, and the ecology of the environment.
+
+**Section 3. Airport Passenger Terminal Design and Master Plan.** – Within one (1) year from the passage of this Act, a master plan for the long-term development of all airport passenger terminal infrastructure and facility situated within the Bangsamoro Autonomous Region shall be submitted by the respective airport operators, in close consultation with airport passenger terminal stakeholders, particularly aircraft operators, to support modernization of existing airport facilities.
+
+The master plan shall represent the development plan of specific airports based on economic feasibility, traffic forecasts, current and future requirements provided by, among other, aircraft operators.
+
+A master plan should:
+a. Strictly abide by the Philippine Civil Aviation Regulations, the Manual of Standards (MOS) and Civil Aviation Regulations (CAR), as well as relevant Advisory Circulars in relation to the repair, maintenance, and development of passenger airport terminals issued by the Civil Aviation Authority of the Philippines (CAAP);
+b. Contain a schedule of priorities, including a phased implementation plan; and
+c. Be reviewed periodically to take into account current and future airport traffic; and
+d. Approved by the Ministry of Transportation and Communications.
+
+No major airport passenger terminal repair, maintenance, or development shall be undertaken without having a current and comprehensive master plan,
+
+**Section 4. Functions of Airport Passenger Terminals.** – The airport passenger terminal shall have the following essential elements:
+
+A. Airline Space Requirements.
+
+a. Ticket Counters. – Counters for the sale of tickets and check-in of baggage should be situated near the entrance, clearly visible and readily accessible from the lobby areas. Individual airline counter requirements shall be obtained from each airline to verify or modify specifics on communications and electrical requirements;
+
+b. Airline Office and Operational Spaces. – Each tenant airline has unique total office and operational spaces for their individual needs in the airport terminal. This may include areas for:
+
+i. Outgoing Baggage, Cargo, and Mail. – This area should be located near, the ticket counters and have direct access to the aircraft apron. The security of the area is important not only for theft prevention reasons but also as a security measure to prevent the introduction of explosive devices into checked baggage.
+ii. Offices. – Airline office spaces are usually situated behind the ticket counters and used primarily by the airline employees as a work space.
+iii. Operations and Maintenance. – This area provides space in the terminal accessible to the crews for flight planning purposes.
+
+c. Baggage Claim. – consists of a space for passengers awaiting baggage and a space for nonpublic circulation and unloading space for baggage onto a moving display baggage conveyor.
+
+B. Public Areas
+
+a. Lobby/Waiting Area. – This area shall be dedicated for waiting and seating to accommodate passengers who arrive early, passengers with delayed flights, and people who accompany passengers to the airport.
+
+It is the hub of the circulatory route through the terminal; and as such, the seating should not conflict with passenger traffic flow.
+
+b. Passenger Security Screening. – Subject to existing laws, all carriers are required to screen all passengers prior to boarding the aircraft. When the volume of traffic warrants, the terminal is highly encouraged to employ x-ray baggage inspection and/or electronic walk-through metal detection devices.
+
+When a single security station is not functionally feasible, provision must be made for multiple security screening facilities at boarding gates and departure lounges.
+
+c. Departure Areas and Lounges. – After passengers have been processed through security, they proceed to a departure area to wait until the boarding of aircraft commences. These areas must be designed to maintain security through monitored or controlled entrances, exits, or fire doors to preclude random egress or ingress to non-secure areas.
+
+d. Rest Rooms. – Public rest rooms should be at locations convenient to the ticket lobby, restaurant facilities, and baggage claim area. Additional rest rooms may be provided in a secure area and/or in proximity to departure lounges. Provision must be made for access and use of facilities by handicapped persons.
+
+These essential elements may be supported by the following services:
+
+a. Food Service;
+b. Car Rentals;
+c. Shops; and
+d. Other ancillary services.
+
+Spaces for ventilating, air conditioning, and electrical equipment must be provided, as well as areas for building maintenance, for storage of building supplies, and janitor closets.
+
+Subject to existing laws, rules, and regulations, the ground time aircrafts must be kept at a minimum; and therefore, facilities must be able to accommodate compressed peak passenger and baggage conditions.
+
+**Section 5. Airport Facilities Advisory Committee.** – To avoid overlooking important user requirements resulting in costly and time-consuming design changes, it is necessary to establish an Airport Facilities Advisory Committee. The advisory committee shall be composed of the following:
+
+a. Minister of Transportation and Communications, as Chairman;
+b. Minister of Public Works, as Vice-Chairman;
+c. Director of the Civil Aviation Authority of the Bangsamoro;
+d. The mayor of the LGU where the airport is situated;
+e. Airport Manager;
+f. A representative of the Security and Intelligence Unit;
+g. A representative of the Aerodrome Area Unit; and
+h. Airline facilities planning representative, who shall be nominated by each existing servicing airline of the airport, to be appointed by the Chairman;
+
+The Airport Facilities Advisory Committee shall serve as the official body for project coordination for all plans in the repair, maintenance, and development of all airport passenger terminals and facilities in the BARMM.
+
+It shall consider, among others, all airport activities and its operational requirements, airport revenues and outlays, budgetary limitations, local government considerations, and local community values and cultural characteristics which may influence building design and architecture.
+
+It shall also take into consideration valuable information on passenger and aircraft-type forecasts and specialized requirements for space and facilities within the terminal area.
+
+**Section 6. General Guidelines.** – For the purpose of this Act, the following are the general guidelines for the repair, maintenance, and development of airport passenger terminal in the BARMM:
+
+a. The simplified direct flow for passengers and visitors shall be the primary objective in terminal planning. Thus, primary terminal functions and ancillary activities be located in the terminal, with respect to their sequence;
+b. Enplaning and deplaning passenger circulation should be separated to the extent practical;
+c. Conflicts between the movement of baggage and pedestrians should be avoided;
+d. Adaptability of the airport terminal building to permit alterations in interior layout and use, taking into consideration the flexibility aspects of terminal planning and design which will impose the least disruption to continued operations;
+e. Maintenance of airport terminal buildings shall consider the development of humane and pleasant places, improve the travel environment, and benefit the community; and
+f. The planning and development of airport passenger terminals must be designed to accommodate peak passenger demands of the forecast periods.
+
+**Section 7. Aesthetic Considerations.** – The airport terminal is the gateway to the community and shall reflect the character and aesthetic aspirations of the local citizens. Artworks can be combined with the building design to give public spaces individuality and to present an image of the local culture and architectural heritage.
+
+Visual clues to the social and economic preoccupation of the region can be provided, and ethnic sensibilities and identification can be expressed. Each local government unit shall be encouraged to select the architectural style and treatment that expresses local wishes and needs. The design incorporated in the building must be a source of civic pride while reflecting the functional parameters and flexibility necessary for a successful airport passenger terminal.
+
+Caution should be exercised, however, to avoid extravagant monumental buildings and overly ambitious design concepts, which may be inconsistent with the ever-changing requirements of the aviation industry.
+
+**Section 8. Provisions for the Handicapped.** – The Bangsamoro Government shall ensure the attainment of a barrier-free environment that will enable disabled persons to have access in all airport passenger buildings and facilities situated within the BARMM. It shall allocate funds for the provision of architectural or structural features in airports for disabled persons to advocate for and encourage respect for disabled persons.
+
+**Section 9. Energy Conservation.** – The Bangsamoro Government shall be required to adopt and implement energy efficiency and sustainable energy strategies to reduce electricity consumption in all airport passenger buildings and facilities.
+
+Efficient energy practices such as the discontinued use of air conditioning facilities where adequate ventilation is available, or the mandatory use of energy efficient lighting/lighting systems, as well as the conduct of appropriate information, education, and communication campaign, energy audits/surveys and spot checks should be adopted by the Bangsamoro Government for the proper and effective implementation of the energy management program in all regional airports.
+
+**Section 10. Implementing Rules and Regulations.** – Within ninety (90) days from the passage of this Act, the Ministry of Transportation and Communications, shall promulgate the implementing rules and regulations of this Act.
+
+**Section 11. Appropriations.** – Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the Ministry of Transportation and Communications. Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the Bangsamoro.
+
+**Section 12. Separability Clause.** – If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+**Section 13. Repealing Clause.** – All laws, executive orders or issuances, or any parts thereof which are inconsistent herewith, are hereby repealed or amended accordingly.
+
+**Section 14. Effectivity Clause.** – This Act shall take effect fifteen (15) days after publication.
+
+Adopted,
+
+AUTHOR:
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Certified correct:
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested by:
+(Sgd.)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
+
