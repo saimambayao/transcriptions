@@ -1,0 +1,184 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+Parliament Bill No. 31
+(Cabinet Bill)
+
+Introduced by:
+**THE GOVERNMENT OF THE DAY**
+
+**AN ACT CREATING THE BANGSAMORO REGIONAL INSTITUTE FOR HIGHER ISLAMIC STUDIES, REPEALING MUSLIM MINDANAO AUTONOMY ACT NO. 164, OTHERWISE KNOWN AS THE REGIONAL MADRASAH GRADUATE EDUCATION ACT OF 2003, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES.**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
+
+**SECTION 1.** This Act shall be known and cited as the Bangsamoro Regional Institute for Higher Islamic Studies Act of 2022.
+
+**SECTION 2.** Declaration of Policies. – The Bangsamoro Government shall promote and protect the constitutional right of all to quality and accessible education at all levels and to establish, maintain, and support a complete, adequate, and integrated system of education relevant and responsive to the needs, ideals, and aspirations of the Bangsamoro People. The Bangsamoro Educational System is a subsystem of the national education system. According to this, the Bangsamoro Government shall:
+
+a. Promote, affirm, and strengthen the Bangsamoro Peoples’ distinct historical identity and long struggle to chart their destiny as a people and their ambition to build a future where all can live together in justice and peace;
+
+b. Establish, maintain, and supervise an education system where the processes, inputs, outputs and outcomes of education adhere to a set of standards;
+
+c. Establish, maintain, and supervise higher education which shall produce high-level and middle-level professionals who, as productive and effective citizens, contribute actively to community and national development;
+
+d. Encourage lifelong learning and continuing education for all Bangsamoro Peoples to develop their knowledge, values and competencies beyond the regular schooling years;
+
+e. Develop, adopt, and implement the standards for qualification outcomes and support the development of pathways and equivalencies that enable access to qualifications aligned with national and international qualifications framework;
+
+f. Ensure the application of moral governance at all levels in the education system;
+
+g. Establish, maintain, and supervise an inclusive education framework for learners with disabilities and other learning barriers;
+
+h. Institutionalize peace education in all levels of education;
+
+i. Develop and strengthen the Madaris Educational system in the Bangsamoro Autonomous Region;
+
+j. Establish, support, and maintain an inclusive and gender-sensitive education system to provide equitable access to quality education for learners who are differently-abled, disadvantaged, and/or vulnerable to protect and uphold their right to education.
+
+**SECTION 3.** Definition of Terms. – The words in this Bill are defined as follows:
+
+1. Alim (plural, Ulama) – a learned male Muslim professional specialized in Islamic and Arabic studies who obtained his education locally or abroad through Arabic language.
+
+2. Alima (plural Alimat) – female Muslim professional specialized in Islamic and Arabic studies who obtained her education locally or abroad through Arabic language.
+
+3. Arabic Language – language of the Arabs as formally and grammatically taught in the madrasah.
+
+4. Arabic Teacher – a teacher who teaches the Arabic language in Arabic, English and in the local languages or dialect.
+
+5. Head of Institution – refers to the Principal, Administrator, Director or such other designation as the executive head of the institution or of the school, who is responsible for all academic activities of the school and for the implementation of the relevant rules. A person responsible for the administrative and instructional supervision of the school or cluster of schools.
+
+6. Higher Education Institution - refers to colleges and universities that offers various degree programs, previously administered and regulated by the Commission on Higher Education (CHED)
+
+7. Islamic Values – moral and ethical values or values or virtues that are based on the teachings of Glorious Qur’an and exemplified by the practice of the Holy Prophet (peace be upon him).
+
+8. Kuliyyah Institution – an institution of higher learning that refers degree in Islamic studies and Arabic language.
+
+9. Learners – refers to learners aged 15 years and above who are illiterates, neo-literates who either have had no access to formal education or have reverted to illiteracy. It may also refer to those enrolled in and who regularly attend a public or private basic educational institution, whether in formal, non-formal or informal settings and those at the higher level engaged in formal study, non-formal and informal education pursuits.
+
+10. Madaris – is the plural form of the Arabic word “madrasah” which means school.
+
+11. Madrasah – an Arabic term for school which is operationally defined as an educational institution which is community-based and operated privately whereby the medium of instruction is the Arabic language with Islamic studies and Arabic literacy as the core emphasis.
+
+12. Mudarris – refers to a teacher teaching Arabic and/or Islamic values.
+
+13. Private Madrasah – refers to private schools or providers of Madrasah education. These can be categorized as: (1) traditional Madrasah that conducts ALIVE and Islamic studies, and (2) private Madrasah that conducts regular K to 12 classes and implements a Madrasah curriculum.
+
+14. Private Schools – a school system organized and operated privately by single proprietor, partnership or corporation, either secular or non-secular with permit to operate or certificate of recognition.
+
+15. School/education institution personnel – refers to all persons working for an education institution, which includes the following:
+
+a. “Teaching or academic staff,” or all persons engaged in actual teaching or research assignments, either on a full-time or part-time basis, in all levels of the educational system;
+
+b. “School administrators,” or persons occupying policy, implementing positions having to do with the functions of the school at all levels.
+
+c. “Academic non-teaching personnel,” or those persons holding some academic qualifications and performing academic functions directly supportive of teaching, such as registrars, librarians, research assistants, research aides, and similar staff;
+
+d. “Non-academic personnel,” or all other school personnel not falling under the definition and coverage of teaching and academic staff, school administrators and academic non-teaching personnel;
+
+16. School Year – the prescribed period of time when schools offer daily instruction broken by short intermission periods (e.g., Christmas, summer vacations, holidays and possibly Ramadhan).
+
+17. State Universities and Colleges (SUCs) – considered as a corporate body and refers to any public institution of higher learning that was created by an Act passed by Congress of the Philippines.
+
+**SECTION 4.** There is hereby created in the Municipality of Buluan, Province of Maguindanao, a Madrasah which shall be known as the Bangsamoro Regional Institute for Higher Islamic Studies, hereinafter referred to as the Institute.
+
+Provided, nothing in this bill shall be construed to prohibit establishing extension, branches and/or annexes at strategic areas within the Bangsamoro Region.
+
+**SECTION 5.** Mandate. - The Institute shall be an institution (Kuliyyah Institution) of higher learning which shall provide a baccalaureate and post graduate courses in the field of Islamic and Arabic studies. It shall promote research, advance studies and progressive leadership in its areas of specialization.
+
+The Institute as an institution of higher education, shall be under the direct supervision and regulatory powers of the Ministry of Basic, Higher and Technical Education of the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**SECTION 6.** Structure of the Institute. – The Institute shall consist of the Office of the President which shall be supported by Administrative Services, Division, Sections and Units; Office of the Dean of College Education and the Office of the Dean of Graduate School.
+
+**SECTION 7.** The Institute shall have the general powers of a corporation as set forth in the Corporation Law. The administration of the Institute and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the Institute insofar as authorized by the Board of Trustees.
+
+**SECTION 8.** The governing body of the Institute shall be the Board of Trustees, hereinafter referred to as the Board, which shall be composed of the following:
+
+(a) Minister of Basic, Higher, and Technical Education, as Chairperson;
+
+(b) Director-General for Madaris Education, as Vice-Chairperson;
+
+(c) President of the Institute, as Member;
+
+(d) Representative from the faculty association of the Institute, as Member;
+
+(e) Representative from the Ulama Association, as Member;
+
+The Minister of Basic, Higher, and Technical Education, Director-General for Madaris Education, and the President of the Institute shall have an ex-officio term of office.
+
+The representative from the faculty association of the Institute and the representative from the Ulama Association shall be appointed by the Chief Minister, upon recommendation of the Minister of Education.
+
+**SECTION 9.** The head of the institution or the Institute shall be known as the President of the Institute. He/she shall be appointed by the Chief Minister upon recommendation of the Parliament’s Committee on Education, taking into account the same qualification standards for a dean of similar higher educational institutions, the Bangsamoro Civil Service Code and other pertinent laws.
+
+His/her salary shall be fixed by the Board of Trustees, one (1) salary grade higher comparable to that being received by a dean of similar educational institutions, subject to Presidential Decree No. 985 and other pertinent budget and compensation laws.
+
+The powers and duties of the President of the Institute, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of a President of a state college or university.
+
+**SECTION 10.** A quorum of the Board of Trustees shall consist of a majority of all the members holding office at the time a meeting is called. All processes for and/or against the Board of Trustees shall be served on the President or Secretary of the Board thereof.
+
+**SECTION 11.** Each Member shall be paid an honorarium for each meeting attended, in accordance with existing accounting and auditing rules and regulations.
+
+**SECTION 12.** The Board of Trustees shall have the following powers and duties in addition to its general powers of administration, and the exercise of all the powers of a corporation as provided in Section Twenty-Two of Republic Act No. 11232, otherwise known as the Revised Corporation Code of the Philippines.
+
+(a) To receive and appropriate for the purposes specified by law such sums as may be provided for the support of the Institute;
+
+(b) To confer degrees upon successful candidates for graduation. It may also confer honorary degrees upon persons in recognition of learning, statesmanship or eminence in any of the fields of specialization, or in recognition of public service: *Provided, That such degrees shall not be conferred in consideration of or to reciprocate some personal favor;*
+
+(c) To appoint, on recommendation of the President; a secretary of the Institute, registrar, heads of departments, professors, instructors, lecturers and other officials and employees of the Institute; to fix their compensations, salaries, hours of service, and such other duties and conditions of employment as it may deem proper, in accordance with the appropriate national and regional laws; to grant to them, in its discretion, leaves of absence under such regulations as it may promulgate, any provisions of existing law to the contrary notwithstanding; to remove them for cause after due investigation and hearing;
+
+(d) To approve the curricula and rules of discipline;
+
+(e) To provide fellowship for qualified faculty members and scholarship for deserving students;
+
+(f) To prescribe rules for its own government and to enact for the government of the Institute such rules and regulations, not contrary to law, as may be necessary to carry out the purposes and functions of the Institute;
+
+(g) To receive in trust legacies, gifts, and donations of real and personal property of all kinds, to administer the same for the benefit of the Institute, or the departments thereof, or for aid to any student or students, in accordance with the directions and instructions of the donor, and in default thereof, in such manner as the Board of Trustees may in its discretion determine. All such donations shall be exempt from all taxes and be considered as deductible items from the income tax of the donors.
+
+**SECTION 13.** On or before the fifteenth day of the second month after the opening of regular classes each year, the Board of Trustees shall file with the Office of the Minister of Education, a detailed report, setting forth the progress, conditions and needs of the Institute.
+
+**SECTION 14.** There shall be an Institute Council consisting of the Dean of the College Education, Dean of Graduate School and five members of each school faculty with the rank of professors.
+
+The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the Institute, as well as for graduation and the conferring of degrees, subject to review by the Board of Trustees. The Council shall have the power to recommend students or others to be recipients of degrees. Through the President, the Council shall have disciplinary power over the students within the limits prescribed by the rules of discipline.
+
+**SECTION 15.** The body of instructors and professors of the Institute shall constitute the faculty of the Institute.
+
+**SECTION 16.** Professors and other teaching personnel of both the college and graduate school shall be covered by the appropriate civil service rules and regulations.
+
+**SECTION 17.** No member of the faculty and staff shall attempt directly or indirectly, under penalty of dismissal by the Board of Trustees, to influence students or any person in the Institute towards any ideology, political or otherwise, which preaches the overthrow of the government through violence, subversion or any other similar means.
+
+**SECTION 18.** There shall be a secretary of the Institute who shall be appointed by the Board of Trustees upon recommendation of the President. He/she shall also be the Secretary of the Board and shall keep such records of the Institute as may be determined by the Board of Trustees.
+
+**SECTION 19.** The Treasurer of the Bangsamoro Government shall be ex-officio treasurer of the Institute.
+
+**SECTION 20.** There shall be disposition of personnel of the Regional Madrasah Academy employed under the Muslim Mindanao Autonomy Act No. 164.
+
+Within a period of ninety (90) days after the approval of this law, the Ministry of Basic, Higher and Technical Education shall submit to the Bangsamoro Transition Authority a transition plan that shall contain the proposed organizational plan of the reorganized Regional Madrasah Graduate Academy.
+
+**SECTION 21.** All assets, capital, records, funds, receivables, equipment and facilities of the REM Academy at the time of its reorganization shall be transferred to the upcoming Head of the Institution.
+
+**SECTION 22.** All accounts and expenses of the Institute shall be audited by the Commission on Audit or its duly authorized representatives.
+
+**SECTION 23.** Appropriation. The amount necessary for the initial implementation of this Bill shall be charged against the current year’s appropriations of the REM Academy. Thereafter, such amount as may be necessary for the continued operation and maintenance of the Institute shall be included in the Annual Bangsamoro Appropriations Act.
+
+**SECTION 24.** Implementing Rules and Regulations. - Within ninety (90) days immediately after the passage of this law, the Ministry of Basic, Higher and Technical Education shall formulate the necessary implementing rules and regulations for the effective implementation of this Act.
+
+**SECTION 25.** The Minister of Education is hereby directed to take such steps as are necessary for the immediate implementation of this Bill.
+
+**SECTION 26.** Separability Clause. – Any part or provision of this Bill, which may be held invalid or unconstitutional, shall not affect its remaining parts or provisions.
+
+**SECTION 27.** Repealing Clause. – All laws and issuances pertaining to the Regional Madrasah Graduate Academy or parts thereof inconsistent with any provision of this Bill shall be deemed repealed or modified accordingly.
+
+**SECTION 28.** Effectivity. – This Act shall take effect fifteen (15) days following its complete publication in at least two (2) regional newspaper of general circulation in BARMM upon its approval.
+
+Approved,
+
+**HON. AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+**ABDULRAOF A. MACACUA**
+Senior Minister
+
