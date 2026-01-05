@@ -1,0 +1,205 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+First Regular Session
+
+**BTA PARLIAMENT**
+**BTA Parliament Bill No. 92**
+
+Introduced by:
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+
+Co-authors:
+**MP Amilbahar S. Mawallil, MPSA; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Don Mustapha A. Loong, MPSA; MP Atty. Rasol Y. Mitmug, Jr., CESE; MP Rasul E. Ismael; MP Diamila D. Ramos; MP Susana S. Anayatin; MP Khalid Ma-Amor Hadji Abdullah; MP Jaafar Apollo Mikhail L. Matalam; MP Sittie Fahanie S. Uy-Oyod; MP Nabila Margarita P. Pangandaman; MP Bassir D. Utto; MP Froilyn T. Mendoza; Mohammad Kelie U. Antao**
+
+**AN ACT**
+**CREATING THE BANGSAMORO HOUSING OFFICE, DEFINING ITS MANDATES, POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR**
+
+**Explanatory Note**
+
+The importance of housing to a person remains an indisputable fact. Housing is a basic need of every human being, just as food and clothing. It is fundamental to the well-being, continued existence, and health of a person.
+
+Home ownership brings a sense of being as to where one belongs. Housing is key to the indispensable right of the Bangsamoro people to self-determination and in ensuring the long-term development of the Bangsamoro Region.
+
+Article 25 (1) of the Universal Declaration of Human Rights (UDHR) states that:
+
+"Everyone has the right to a standard of living adequate for the health and well-being of himself and his family. The right to an adequate standard of living requires, at a minimum, that everyone shall enjoy the necessary subsistence rights, adequate food and nutrition, clothing, and housing. As a universal economic, social, and cultural right, the right to adequate housing guarantees the right to live in security, peace, and dignity."
+
+The same principle is infused in no less that our own 1987 Philippine Constitution, under Article XIII, Section 9, provides that:
+
+The State shall, by law, and for the common good, undertake, in cooperation with the private sector, a continuing program of urban land reform and housing which will make available at affordable cost, decent housing and basic services to underprivileged and homeless citizens in urban centers and resettlement areas.
+
+Moreover, as provided under the International standards: *International rapporteur on the right to adequate housing* of the United Nations Office of the High Commissioner for Human Rights (OHCHR), to be defined as ‘adequate’, housing should meet seven minimum criteria, namely:
+
+1) accessibility;
+2) affordability;
+3) habitability;
+4) security of tenure;
+5) cultural adequacy;
+6) suitability of location; and
+7) access to essential services such as health and education.
+
+In the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), there is a housing crisis with issues on housing affordability, accessibility, safety, and access to essential services, such as water, electricity, sanitation, health care, and education. According to data from the Ministry of Human Settlements and Development (MHSD), as of 2015, the region’s housing backlog is an estimated 68,250 units. From this figure, the table below shows the housing backlog per province:
+
+| PROVINCE | HOUSING BACKLOG | PERCENTAGE |
+| :--- | :---: | :---: |
+| Lanao del Sur | 39,426 | 57.77% |
+| Tawi-Tawi | 10,416 | 15.26% |
+| Maguindanao | 9,194 | 13.47% |
+| Sulu | 6,265 | 9.18% |
+| Basilan | 2,949 | 4.32% |
+| **Total** | **62,850** | **100%** |
+
+Note that these figures do not include new housing losses caused by both natural and man-made disasters from 2015 onwards.
+
+The Philippines ranked third in the 2018 World Risk Index of the most disaster-prone countries in the world. It is located on the Pacific Ring of Fire, where the majority of the world’s earthquakes and volcanic eruptions occur. Its islands are regularly impacted by floods, typhoons, landslides, and droughts. More than these natural calamities, the Mindanao region is also affected by conflict and instability that have left thousands of people living in protracted displacement for over decades. These occurrences displace millions of Filipinos, including Bangsamoro citizens every year. The effects of the housing crisis became worse during the pandemic when a significant number of the BARMM’s population lost their jobs and means of livelihood because of induced lockdowns and stringent quarantines.
+
+Data from the United Nations High Commissioner for Refugees (UNHCR) shows that as of December 2021, an estimated 203,940 families, or approximately 805,096 individuals, were displaced in Mindanao. Around 115,241 of this number are from the Bangsamoro region. Going on, the BARMM has the highest number of people displaced by armed conflict, crime, and violence in the Philippines. The majority of the displaced people are from the Province of Lanao del Sur, Marawi City in particular, following the Marawi Siege in 2017. The intense fighting and aerial bombing, which lasted for five months, has led to a massive humanitarian crisis, displacing approximately 300,000 people and ultimately leaving many of them homeless. The siege in Marawi City also forcefully moved many Internally Displaced Persons (IDPs) to Iligan, Cagayan de Oro, and other areas outside BARMM. Five years after the siege, the displaced population remain to be in various transitory arrangements, with only a limited number of permanent shelters built. As of November 2021, around 17,060 families, or approximately 87,230 individuals, belonging to the most affected areas, remain displaced in various places. As per Task Force Bangon Marawi shared report, 4,214 families (approximately 21,060 individuals) are scattered in various transitory sites. Smaller displacements are also ongoing in Maguindanao, North Cotabato, and the island provinces.
+
+The housing issues faced by the BARMM do not occur in a vacuum and are deep-rooted in its history. The 2014 GPH-MILF Comprehensive Agreement on the Bangsamoro acknowledges how historical injustices, human rights violations, and marginalization through land dispossession are root causes of the armed struggle waged by the Bangsamoro to assert their cultural identity and achieve meaningful self-determination. Colonial powers and the subsequent Philippine Central Government encouraged Christian families and former rebels from Luzon and Visayas to settle in Mindanao and gave them land titles in Bangsamoro communities. Thus, many Bangsamoro families were unjustly expelled from their lands and properties. Moving on to the present day, resulting and recurring cycles of displacement have pushed many Bangsamoro people to indigence. At present, the rising cost of land and construction materials have denied underprivileged sectors of the region of the chance to construct adequate housing.
+
+However, despite the disheartening history of displacement of the Bangsamoro, it is worth noting that the Bangsamoro people also have various long-standing traditional practices around land and housing which ought to be considered in the context of cultural uniqueness. These include sea-dwelling ethnic groups who were born on the water and live on their boats, whose culture and livelihood are attached to the sea and stilt houses near fishing grounds. Others live on the shorelines of lakes, rivers, and marshlands. However, these customary practices are not always factored into national housing policy, which is a matter that ought to be considered.
+
+Recognizing the urgency of the housing problem, *Republic Act No. 11054* or the *Bangsamoro Organic Law (BOL)* has provided in its Article IX, Section 8 that:
+
+"The Bangsamoro Government shall provide, maintain and ensure the delivery of xxx affordable and progressive housing projects xxx to the inhabitants of the Bangsamoro Region. It shall maintain appropriate disaster-preparedness units for immediate and effective relief services to victims of natural and man-made calamities. It shall also ensure the rehabilitation of calamity-affected areas and victims of calamities.
+
+Also, Article IX, Section 9 provides that: [t]he Bangsamoro Government, in cooperation with the private sector, shall develop its own housing and human settlement programs. Section 1 of the same Article provides that the Bangsamoro Parliament, taking into account the report of the Transitional Justice and Reconciliation Commission, shall enact a transitional justice mechanism to address the legitimate grievances of the Bangsamoro People and the indigenous peoples, such as historical injustices, human rights violations, and marginalization through unjust dispossession of territorial and proprietary rights and customary land tenure. This complements the existing mandates of local government units (LGUs) on housing provision under the Local Government Code and the Urban Development and Housing Act (UDHA), among other relevant laws.
+
+Under the BOL and Bangsamoro Autonomy Act (BAA) No. 13, or the Bangsamoro Administrative Code, the Ministry of Human Settlements and Development (MSHD) is mandated as the primary agency for the management of housing, human settlement, and urban development in the region. However, in practice, the implementation of housing projects is currently being done by various agencies such as MHSD, Ministry of Public Works (MPW), Ministry of Social Services and Development (MSSD), Ministry of Interior and Local Government (MILG)-Tugon, and the Office of the Chief Minister (OCM) - Kapayapaan sa Pamayanan (Kapyanan). To ensure efficiency in planning and delivery, the implementation of housing projects should ideally be concentrated rather than dispersed, hence, there is a pressing need to concentrate such efforts, resources, functions and activities in one regional housing agency to maximize results. As such, free housing being implemented by MSHD, MPW, MSSD, and the OCM shall be a temporary intervention intended to fill the compounded gaps brought about by decades of displacements of Bangsamoro people.
+
+The creation of the Bangsamoro Housing Office (BHO) as an attached agency to the MHSD shall reinforce partnerships between the public and the private sectors and other stakeholders in addressing BARMM's housing gaps. The BHO shall use a holistic approach in solving the housing crisis of the Region. It shall maximize all efforts in involving financial institutions to provide the necessary funding, material builders to ensure resistance against natural disasters, and other relevant sectors to cater technical assistance and efficient land management.
+
+The proposed Bangsamoro Housing Office shall be the primary mechanism of the Bangsamoro Government for both economic housing provision for moderately low-income households and social housing provision for underprivileged and internally displaced persons.
+
+In view of the foregoing, the approval of this measure is earnestly sought.
+
+(Sgd.)
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+
+**AN ACT**
+**CREATING THE BANGSAMORO HOUSING OFFICE, DEFINING ITS MANDATES, POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR**
+
+Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
+
+**Section 1. Short Title.** – This Act shall be known as the **"Bangsamoro Housing Act."**
+
+**Section 2. Declaration of Policy.** – Pursuant to the mandate of Republic Act No. 11054 or the Bangsamoro Organic Law (BOL), there shall be developed a comprehensive and integrated housing program which shall embrace, among others, housing development and resettlement, sources and schemes of financing, and delineation of government and private sector participation. The program shall specify the priorities and targets in accordance with the integrated human settlements plan prepared by the Ministry of Human Settlements and Development (MHSD) and local shelter plans to be created by the LGUs.
+
+In the preparation of said program, the following factors shall be considered:
+
+a) The management of urban development to promote the economic and social well-being and physical mobility of the people, and facilitate industrial growth and dispersal;
+b) The conservation of land for housing development as well as the regulation of land use to achieve optimum utilization patterns;
+c) The organization of public and private resources into financial intermediaries to meet the demand for housing, including provisions for incentives and facilities to broaden the private sector participation in housing investments; and
+d) The extensive use of building systems, which shall maximize the use of indigenous materials and reduce building costs without sacrificing sound engineering and environmental standards.
+
+**Section 3. Creation and Mandate of the Bangsamoro Housing Office.** – There is hereby created a government agency to be known as the Bangsamoro Housing Office (BHO), hereinafter referred to as the Office. The Office shall act as the primary Bangsamoro Government entity responsible for developing and implementing a comprehensive and integrated housing development and resettlement program. It shall be the sole Bangsamoro Government agency engaged in direct shelter production. The Office shall have its principal office in the Bangsamoro Government Center in Cotabato City. A satellite office shall also be created in each of the provinces of Basilan, Sulu, and Tawi-Tawi and in other areas as it may be proper and necessary.
+
+The Office shall be an attached agency of the MHSD.
+
+**Section 4. Definition of Terms.** – As used in this Act:
+
+a) ***Attachment*** refers to the lateral relationship between a department and the attached agency or corporation for purposes of policy and program coordination.
+
+b) ***Housing*** refers to a multidimensional concept relating to the process of residing and the objects of dwelling whose main attributes are location relative to access to livelihood, tenure, arrangements, cost and physical structure, as well as their environment. Housing is likewise a physical structure as well as social structure, functioning at different spatial scales from homes, neighborhoods, communities, municipalities, cities, provinces, and regions. It is also a sector of the economy, an important category of land in both urban and rural areas, especially in cities, and is an important factor in the overall dynamics of the urban system. In the construction of houses in the Bangsamoro Region, the customs, beliefs, and traditions of the Bangsamoro people are recognized, protected, and guaranteed. The Bangsamoro Government shall also recognize and protect the rights of the indigenous peoples as provided for in the Organic Law. For Muslims, houses must make easy the privacy and protection of the family members inside the house's domain. As a minimum requirement, every Muslim house should have a room for parents, another room for female children, and another room for male children. Further, Muslim house designs should consider the *qiblah* direction. For Indigenous People, the traditional dwellings are stilt houses made out of native materials like nipa, bamboo, and coconut leaves.
+
+c) ***Informal Settler Families (ISFs)*** refer to households:
+(a) living in a lot, whether private or public, without the consent of the property owner; or
+(b) those without legal claim over the property they are occupying; or
+(c) those living in danger areas such as *esteros*, railroad tracks, garbage dumps, riverbanks, shorelines, and waterways.
+In the Bangsamoro Region, this also refers to households who live on their small houseboats and those living in many coastal settlements.
+
+d) ***Internally Displaced Persons (IDPs)***, according to the Guiding Principles on Internal Displacement of the United Nations High Commissioner on Human Rights, they refer to persons or group of persons who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular, as a result of or in order to avoid the effects of armed conflict, situations of generalized violence, violations of human rights, or natural or human-made disasters, and those who have not crossed an internationally recognized border.
+
+**Section 5. Objectives.** – The Office aims to achieve the following objectives in partnership with the Local Government Units (LGUs) and the Private Sector:
+
+a) To formulate housing development strategies and overseeing strategic planning and implementation of the public housing program in BARMM;
+b) To undertake housing, development, resettlement, or other activities as would enhance the provision of housing to every Bangsamoro, especially the low and marginal-income, and informal settler families (ISFs);
+c) To harness and promote private participation in housing ventures in terms of capital expenditures, land, expertise, financing, and other facilities for the sustained growth of the housing industry;
+d) To ensure cost-effective and rational use of public resources in service delivery and allocation of housing assistance in an open and equitable manner; and
+e) To identify lands for socialized housing and resettlement areas for the immediate and future needs of underprivileged and homeless in the urban areas, taking into consideration the degree of availability of basic services and facilities, their economic opportunities, and the actual number of registered beneficiaries;
+f) Uplift the conditions of the homeless and underprivileged including the IDPs, ex-combatants, and ISFs in urban and resettlement areas by making available to them decent and safe housing at affordable cost, basic services, and employment opportunities.
+g) To support and contribute in the objective of the Bangsamoro Government in achieving the normalization and integration process, particularly the decommissioned combatants, by providing adequate housing, which meets the seven adequacy criteria set by the Committee on Economic, Social and Cultural Rights (CESCR).
+
+**Section 6. Powers and Functions of the Office.** – The Office shall have the following powers and functions, to be exercised in accordance with the established human settlements plan prepared by the MHSD:
+
+a) Develop and implement a comprehensive and integrated housing program to implement the MHSD's integrated human settlement plans;
+b) Develop and undertake housing development and/or resettlement projects through joint ventures or other arrangements with public and private entities;
+c) Promote housing development in the region by providing technical assistance;
+d) Acquire property rights and interests, and encumber, or otherwise dispose the same as it may deem appropriate;
+e) Exercise the right of eminent domain over, or acquire through purchase, privately owned lands, for purposes of housing development, resettlement, and related services and facilities;
+f) Discharge all responsibilities of the government as may arise from agreements and other commitments on housing and resettlement to which it is a signatory, including the determination of forms of assistance for housing development to be extended through multilateral or bilateral assistance programs;
+g) Undertake social housing programs that will cater to the formal and informal sectors in the low-income bracket; and
+h) Take charge of developing and administering social housing programs for ISFs and IDPs.
+
+**Section 7. Organizational Structure of the Office.** – The Office shall be headed by an Executive Director with a salary grade of 27, to be assisted by a Deputy Executive Director with a salary grade of 26. The Office shall be composed of the following divisions:
+
+a) Operation Division,
+b) Monitoring and Evaluation Division, and
+c) Finance and Administrative Division.
+
+**Section 8. Functions and Responsibilities of the Executive Director.** – The Executive Director shall have the following duties and responsibilities:
+
+a) Lead the planning and formulation of policy measures, as well as the benefit, protection, and welfare of the beneficiaries of the housing projects;
+b) Provide direction and supervision over the full operation of the Office;
+c) Provide policy guidelines and standards for the effective and efficient operation and function of the Office in accordance with its mandate;
+d) Ensure that the mandate and functions of the Office and the provisions of this Act are faithfully executed and performed;
+e) Represent the Office in all dealings with other offices, agencies, and instrumentalities of the Government and with all persons and entities, public or private, domestic or foreign; and
+f) Establish a recruitment system guided by civil service rules and regulations in the selection of its prospective staff and employees in the career service.
+
+**Section 9. Functions and Responsibilities of the Division.** – The technical and administrative divisions shall have the following functions and responsibilities:
+
+**1. Operation Division.** – The Operation Division shall have the following functions and responsibilities:
+
+a) Implement housing projects in the Bangsamoro region that are funded by the Bangsamoro Government;
+b) Manage the implementation of all housing infrastructure projects in the Bangsamoro region, in cooperation with concerned agencies at the national and regional levels;
+c) Coordinate with the appropriate national and Bangsamoro Government agencies in the proper management and maintenance of projects related to housing;
+d) Review and evaluate housing projects and make appropriate actions and recommendations to the appropriate agency and private developers;
+e) Provide technical assistance and services to local government units in identifying the housing needs of their constituents;
+f) Tap other appropriate Bangsamoro Government agencies to synchronize implementation of programs; and
+g) Perform such other functions as may be directed by the Executive Director and other competent authorities.
+
+**2. Monitoring and Evaluation Division.** – The Monitoring and Evaluation Division shall have the following functions and responsibilities:
+
+a) Conduct monitoring and evaluation activities on the implementation of housing infrastructure projects in cooperation with the appropriate agency of the National and Bangsamoro Government;
+b) Monitor and evaluate the progress of housing project implementation of private developers, Donors, Civil Society Organizations (CSOs), International Non-Government Organizations (INGOs), and LGUs;
+c) Develop a reliable and sustainable housing database system in close coordination with the Philippine Statistics Authority (PSA);
+d) Submit regular monitoring and evaluation reports to higher authorities pertaining to the actual progress of programs and project implementation; and
+e) Perform other functions as may be directed by the Executive Director and other competent authorities.
+
+**3. Finance and Administrative Support Division.** – The Finance and Administrative Support Division shall have the following functions and responsibilities:
+
+a) Provide support services relating to personnel, staff development, records management, supplies and equipment, budgeting and accounting, collection, and general clerical and utility services of the Office; and
+b) Perform other related functions as may be assigned by the Executive Director and other competent authorities.
+
+**Section 9. Completed Projects: Management or Disposition.** – The Office shall determine, establish, and maintain the most feasible and effective program for the management or disposition of specific housing or resettlement projects undertaken by the Office. Completed housing or resettlement projects shall be managed and administered by the Office.
+
+**Section 10. Participation of the Local Government Units (LGUs).** – Without prejudice the mandate of the LGUs on housing and resettlement under the Local Government Code and UDHA, the LGUs can:
+
+a) assist in the provision of socialized housing;
+b) regulate shelter activities; and
+c) provide assistance in the land acquisition, site development, and establishment of property rights.
+
+**Section 11. Funding.** – The amount necessary to carry out the purpose of this Act shall be included in the Bangsamoro Appropriations Act of the year following its enactment into law and every year thereafter.
+
+**Section 12. Incentives for Private Sector Participating in Socialized Housing.** – The Office shall recognize the invaluable participation of the private sector for the development of the comprehensive housing program in the Bangsamoro region. To encourage greater private sector participation in socialized housing and further reduce the cost of housing units for the benefit of the underprivileged and homeless, a simplified accreditation of participating private developers shall be adopted.
+
+**Section 17. Rules and Regulations.** – The Office shall promulgate the requisite rules and regulations for the effective implementation of this Act and revise or amend the same as may be necessary.
+
+**Section 18. Periodic Reports.** – The Office shall submit an annual report to the Chief Minister indicating, among others, the housing program being implemented, the stage of implementation, and the financial position of the Office. It shall likewise submit such periodic or other reports as may be required from time to time.
+
+**Section 19. Mandatory Review on the Implementation of this Act.** – Every ten (10) years after the effectivity of this Act, an independent review panel composed of experts, to be appointed by the Chief Minister, shall review the policies and projects of the Office and shall make recommendations, based on its findings, to the Chief Minister and to the Parliament.
+
+**Section 20. Repealing Clause.** Any provision of law, decree, executive orders, ordinances, rules and regulations inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+**Section 21. Separability Clause.** If any portion or provision of this Order is declared void or unconstitutional, the remaining portions or provisions thereof shall not be affected by such declaration.
+
+**Section 22. Effectivity.** This Act shall take effect fifteen (15) days after its complete publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Adopted,
+
+(Sgd.)
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+
