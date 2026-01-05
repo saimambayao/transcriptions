@@ -10989,4 +10989,3 @@ Secretary General Bangsamoro Parliament
 Chief Minister Bangsamoro Government
 
 Date Signed: December 28, 2021
-
