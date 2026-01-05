@@ -1,0 +1,88 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+First Regular Session
+
+**BTA PARLIAMENT**
+**BTA Bill No.: 139**
+
+----------------------------------------------------------------------------------------------------
+
+**Introduced by:**
+MP Hashemi N. Dilangalen, MD, CHA
+
+**Co-authored by:**
+MPs Eddie M. Alih, Suharto S. Esmael, Amilbahar S. Mawallil, Nabila Margarita P. Pangandaman and Abdulraof A. Macacua
+
+----------------------------------------------------------------------------------------------------
+
+**AN ACT ESTABLISHING IN THE MUNICIPALITY OF NORTHERN KABUNTALAN, PROVINCE OF MAGUINDANAO DEL NORTE, A LEVEL I GENERAL HOSPITAL TO BE KNOWN AS THE NORTHERN KABUNTALAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+**EXPLANATORY NOTE**
+
+Northern Kabuntalan is a fifth-class municipality of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), composed of around 26,000 residents. Currently, its constituents rely on Rural Health Unit (RHU) for medical attention. However, the RHU's capacity is limited to checkups, basic treatment, and pregnancy deliveries.
+
+Owing to the absence of a local hospital, cases beyond the RHU's capabilities are transferred to hospitals outside Northern Kabuntalan. These cases include cancer patients requiring management, dengue patients for further treatment, and first-time or delicate pregnancy deliveries. The same goes for patients who require monitoring, observation, and laboratory testing. They are referred or transferred to Midsayap, Libungan or Dalikan. There are others who go to Cotabato City.
+
+While the municipality provides ambulance transfers for select instances, most residents just travel by habal-habal. On the other hand, those living on the riverside of Northern Kabuntalan still need to take a boat ride before moving by land. Undeniably, the lack of a local hospital adds logistical and financial burdens for the patients, especially the lesser fortunate. It likewise delays treatment in emergencies. This situation presents an immediate need to provide an accessible hospital service to the residents.
+
+In line with Sec. 22 Art. 9 of the Bangsamoro Organic Law, which mandates the Bangsamoro Government to establish a general hospital system to serve the health requirements of its people, this bill proposes to build a level 1 general hospital in Northern Kabuntalan. Having a hospital in the said municipality will improve the accessibility of treatment to the patients. Further, the availability of diagnostic and observatory facilities will also help mitigate illnesses and improve the overall wellness of the people. It may also cater to the constituents of the municipalities of Mother Kabuntalan and Datu Piang.
+
+The aim of this bill aligns with the Bangsamoro Government's duty of ensuring the basic right to life through the prompt intervention of excellent and affordable medical services. It is also in consonance with the Constitutional mandate of the State to protect and promote the people's right to health, and to make health services available to all people at affordable cost.
+
+The passage of this bill is a fulfillment of our duty to the Bangsamoro people. In view thereof, its approval is earnestly sought.
+
+**DR. HASHEMI N. DILANGALEN**
+Member of the Parliament
+
+----------------------------------------------------------------------------------------------------
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+First Regular Session
+
+**BTA PARLIAMENT**
+**BTA Bill No.: 139**
+
+----------------------------------------------------------------------------------------------------
+
+**AN ACT ESTABLISHING IN THE MUNICIPALITY OF NORTHERN KABUNTALAN, PROVINCE OF MAGUINDANAO DEL NORTE, A LEVEL I GENERAL HOSPITAL TO BE KNOWN AS THE NORTHERN KABUNTALAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+Be it enacted by the Bangsamoro Parliament in session:
+
+**Section 1.** There shall be established a Level I general hospital with fifty (50) bed capacity in the Municipality of Northern Kabuntalan, Province of Maguindanao Del Norte, to be known as the Northern Kabuntalan Municipal Hospital (NKMH).
+
+**Section 2.** The Integrated Maguindanao Provincial Health Office shall have direct administrative and technical supervision over the NKMH. It shall prepare, in consultation with the Ministry of Health of the Bangsamoro Autonomous Region in Muslim Mindanao (MOH-BARMM), a hospital development plan consistent with the principles of sound hospital administration. Any future increase in bed capacity and upgrading of the services or facilities of the NKMH shall be based on the development plan.
+
+**Section 3.** The MOH-BARMM shall consult the local government units in the Province of Maguindanao del Sur and the Municipality of Northern Kabuntalan, and other stakeholders in determining the site of the hospital.
+
+**Section 4.** The MOH-BARMM shall likewise, within ninety (90) days after the effectivity of this Act, formulate the necessary guidelines for the operation of the NKMH, and ensure the funding for the construction of its building and facilities, procurement of medical equipment, personnel services and other costs necessary for its continued operation.
+
+**Section 5.** The provisions of this Act shall be separable so that if for any reason any provision or part hereof is declared invalid or unconstitutional, the remainder of this Act or the provisions not otherwise affected shall remain in full force and effect.
+
+**Section 6.** All regional laws, executive orders, rules or regulations, or any part thereof, which are inconsistent herewith, are hereby repealed, amended or modified accordingly.
+
+**Section 7.** This Act shall take effect fifteen (15) days after the completion of its publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Approved,
+
+AUTHOR:
+
+**DR. HASHEMI N. DILANGALEN**
+Member of the Parliament
+
+Certified Correct:
+
+**PROF. RABY ANGKAL**
+Secretary General
+
+Attested by:
+
+**ATTY. PANGALIAN M. BALINDONG**
+Speaker
+
