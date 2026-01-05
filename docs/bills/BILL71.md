@@ -1,0 +1,257 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+First Regular Session
+
+**Parliament Bill No. 71**
+
+Introduced by
+**MP AMILBAHAR S. MAWALLIL**
+Co-authored by
+**ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
+
+**AN ACT**
+**STRENGTHENING THE ENERGY POLICIES AND MECHANISMS WITHIN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**EXPLANATORY NOTE**
+
+Pursuant to Section 36, Article XIII of the Bangsamoro Organic Law, the Bangsamoro Government shall promote investments in the energy and power generation sector, domestic and international, public and private, in the power sector industry in the Bangsamoro Autonomous Region.
+
+Section 2 of Republic Act No. 9136 or the Electric Power Industry Reform Act of 2001 mandates the State to ensure and accelerate the total electrification of the country; to ensure the quality, reliability, security, and affordability of the supply of electric power; and to assure socially and environmentally compatible energy sources and infrastructure.
+
+Paving the path of transition into a more sustainable and resilient energy system, the Philippine Energy Plan (PEP) 2020-2040 was crafted and reiterates the energy sector’s goal to chart a transformative direction towards attaining a clean energy future.
+
+The Philippine Energy Plan seeks to unify with its government partners and the private sector to meet the country’s electricity and fuel requirements through improvements in the energy market, simplification of government procedures, promotion of resiliency in energy systems and infrastructures, and the enhancements of the consumers’ power of choice.
+
+On June 28, 2017, President Rodrigo R. Duterte issued Executive Order No. 30 to ensure the continuous, adequate, and economic supply of energy and streamline regulatory procedures affecting energy projects of national significance. EO 30 provides for the framework to create an efficient and effective administrative process for energy projects in order to avoid unnecessary delays in the implementation of the PEP.
+
+In order to establish, strengthen, and integrate the energy policies and mechanisms within the Bangsamoro Autonomous Region, with respect to energy safety practices, energy efficiency and conservation, energy resiliency, energy planning which includes energy access and resource development, there is a need to harmonize and fast-track the implementation of the Ease of Doing Business Act, the Energy Virtual One-Stop Shop Act, and Executive Order No. 30, in the region.
+
+In view of the foregoing, the passage of this bill is earnestly sought.
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+**Chunk Complete. Ready for next group of provisions starting at ARTICLE I. PRELIMINARY PROVISIONS.**
+
+***
+
+**ARTICLE I. PRELIMINARY PROVISIONS**
+
+**Section 1. Short Title.** – This Act shall be known as the Guidelines to Facilitate the Implementation of Energy Projects in the Bangsamoro Autonomous Region in Muslim Mindanao, otherwise known as the “Bangsamoro Energy Code.”
+
+**Section 2. Creation of the Energy Sector Committee under the Bangsamoro Economic and Development Council.** – The Energy Sector Committee is hereby created under the Bangsamoro Economic and Development Council to facilitate the implementation of energy programs, policies, and projects, in accordance with the following pertinent energy and other regulatory laws and issuances:
+
+Republic Act No. 11054, The Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao (Bangsamoro Organic Law)
+
+Republic Act No. 7160, An Act Providing for a Local Government Code of 1991 (Local Government Code of 1991)
+
+Republic Act No. 7638, An Act Creating the Department of Energy, Rationalizing the Organization and Functions of Government Agencies Related to Energy, and for Other Purposes (Department of Energy Act of 1992)
+
+**ENERGY-RELATED LAWS**
+
+Presidential Decree No. 87, Amending Presidential Decree No. 8, issued on October 2, 1972 and Promulgation of an Amended Act to Promote the Discovery and Production of Indigenous Petroleum and Appropriate Funds Therefor (The Oil Exploration and Development Act of 1972)
+
+Presidential Decree No. 972, Promulgating an Act to Promote an Accelerated Exploration, Development, Exploitation, Production and Utilization of Coal (The Coal Development Act of 1976))
+
+Republic Act No. 7638, An Act Creating the Department of Energy, Rationalizing the Organization and Functions of Government Agencies Related to Energy, and for Other Purposes (Department of Energy Act of 1992)
+
+Republic Act No. 8479, An Act Deregulating the Downstream Oil Industry and for Other Purposes (Downstream Oil Industry Deregulation Act of 1998)
+
+Republic Act No. 9136, An Act Ordaining Reforms in the Electric Power Industry, Amending for the Purpose Certain Laws and for Other Purposes (Electric Power Industry Reform Act of 2001)
+
+Republic Act No. 9367, An Act to Direct the Use of Biofuels, Establishing for this Purpose the Biofuel Program, Appropriating Funds Therefor, and for Other Purposes (Biofuels Act of 2006)
+
+Republic Act No. 9513, An Act Promoting the Development, Utilization and Commercialization of Renewable Energy Resources and for Other Purposes (Renewable Energy Act of 2008)
+
+Republic Act No. 10623, An Act Amending Certain Provisions of Republic Act No. 7581 (An Act Providing Protection to Consumers by Stabilizing the Prices of Basic Necessities and prime Commodities and by Prescribing Measures Against Undue Price Increases During Emergency Situations and like Occasions and for Other Purposes)
+
+Republic Act No. 11285, An Act Institutionalizing Energy Efficiency and Conservation, Enhancing the Efficient Use of Energy, and Granting Incentives to Energy Efficiency and Conservation Project (Energy Efficiency and Conservation Act)
+
+Republic Act No. 11361, An Act Ensuring the Continuous and Uninterrupted Transmission and Distribution of Electricity and the Protection of the Integrity and Reliability of Power Lines, and Providing Penalties for Violations Thereof (Anti-Obstruction of Power Lines Act)
+
+**PRIVATE SECTOR PARTICIPATION LAWS**
+
+Republic Act No. 7718, An Act Amending Certain Sections of republic Act No. 6957 (An Act Authorizing the Financing, Construction, Operation, and Maintenance of Infrastructure Projects by the Private Sector, and for Other Purposes)
+
+**REGULATORY REFORM LAWS**
+
+Republic Act No. 11234, An Act Establishing the Energy Virtual One-Stop Shop for the Purpose of Streamlining the Permitting Process of Power Generation, Transmission, and Distribution Projects (Energy Virtual One-Stop Shop Act)
+
+Republic Act No. 11032, Ease of Doing Business and Efficient Government Service Delivery Act of 2018 (Ease of Doing Business Act of 2018)
+
+Executive No. 30, entitled: “Creating the Energy Investment Coordinating Council (EICC) in order to Streamline the Regulatory Procedures Affecting Energy Projects (EO 30)”
+
+Administrative Order No. 23 Series of 2020, Eliminating Overregulation to Promote Efficiency of Government Processes
+
+**SUPPORTING POLICIES**
+
+DILG-DOE Joint Circular 95-01 dated 31 October 1995 entitled: “Utilization of Shares from National Wealth”
+
+DOE Department Circular No. DC2003-11-010, entitled: “Rules and Regulations Governing the Business of Retailing Liquid Petroleum Products”
+
+DOE Department Circular No. DC2007-02-0002, entitled: “Providing for the Rules and Regulations Governing the Business of Supplying, Hauling, Storage, Handling, Marketing and Distribution of Liquefied Petroleum Gas (LPG) for Automotive Use”
+
+DOE Department Circular No. DC2014-01-0001, entitled: “Providing for the Rules and Regulations Governing the LPG Industry”
+
+DOE Department Circular No. DC2017-11-0011, entitled: “Promulgating the Revised Rules and Regulations Governing the Business of Retailing Liquid Fuels”
+
+DOE Department Circular No. DC2019-05-0007, entitled: “Rules and Regulations Implementing Republic Act No. 11234 (Energy Virtual One-Stop Shop Act)”
+
+DOE Department Circular No. DC2019-11-0014, entitled: “Implementing Rules and Regulations of Republic Act No. 11285 (Energy Efficiency and Conservation Act)”
+
+DOE Department Circular No. DC2020-02-0002, entitled” The Implementing Rules and Regulations of Republic Act No. 11361, Otherwise Known as the “Anti-Obstruction of Power Lines Act”
+
+DILG-DPWH-DICT-DTI Joint Memorandum Circular No. 2018-01, entitled “Guidelines in Streamlining the Processes for the Issuance of Building Permits and Certificate of Occupancy”
+
+DILG-DOF Joint Memorandum Circular No. 2019-01, entitled: “Guidelines for the Review, Adjustment, Setting and/or Adoption of Reasonable Regulatory Fees and Charges of Local Government Units”
+
+DILG Memorandum Circular No. 2019-117, entitled: “Guidelines in the Integration of the Issuance of Barangay Clearance in the Permitting Processes of Cities and Municipalities”
+
+DILG-ARTA Joint Memorandum Circular No. 2019-01, entitled: “Guidelines on the Regulatory Reform for LGUs pursuant to the Ease of Doing Business and Efficient Government Service Delivery (EODB-EGSD) Act of 2018”
+
+PPPC-DILG Joint Memorandum Circular No. 2019-01, entitled: “Supplemental Guidelines for the Implementation of Public-Private Partnership for the People Initiative for Local Government (LGU P4)”
+
+**Chunk Complete. Ready for next group of provisions starting at ARTICLE II. INCORPORATION OF ENERGY PROJECTS INTO THE LGU SPATIAL PLAN AND COMPREHENSIVE DEVELOPMENT PLAN.**
+
+***
+
+**ARTICLE II. INCORPORATION OF ENERGY PROJECTS INTO THE LGU SPATIAL PLAN AND COMPREHENSIVE DEVELOPMENT PLAN**
+
+**Section 3. Incorporation to the Bangsamoro Development Plan.** The Bangsamoro Government shall incorporate the energy programs, policies, and projects into the spatial plan (Physical Framework Plan or Comprehensive Land Use Plan, whichever is applicable) and its comprehensive development plan.
+
+**SPATIAL PLAN**
+
+**Section 4. Spatial Plan.** The Bangsamoro Government, in consultation with concerned stakeholders, shall identify upstream conventional (coal, oil, or natural gas) and/or renewable (biomass, geothermal, solar, hydropower, ocean, and wind) energy resources within its area of jurisdiction which shall be posted on its website, if available.
+
+The Bangsamoro Government, in consultation with concerned stakeholders, shall plot existing upstream and downstream energy facilities with coordinates in accordance with the Philippine Reference System 1992 (PRS 92).
+
+The Bangsamoro Government shall coordinate with existing private sector stakeholders on the expansion plans of the existing upstream and downstream energy facilities.
+
+The Component Cities and Municipalities of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) shall submit the data under Section 4 to their respective Provinces for consolidation and submission to the concerned Ministry of Interior and Local Government Regional Office.
+
+All data under Section 4 shall be submitted to the DILG – Bureau of Local Government Development and DOE – Investment Promotion Office.
+
+The Bangsamoro Government may coordinate with the Public-Private Partnership (PPP) Center for investment opportunities and potential private-public partnerships.
+
+**COMPREHENSIVE DEVELOPMENT PLAN**
+
+**Section 5. Benefits of Energy Projects Incorporation into the Bangsamoro Comprehensive Development Plan.** The Bangsamoro Government shall monitor and collect the benefits of energy projects and incorporate these benefits in its comprehensive development plan. The benefits to host communities from energy projects may include among others, funds from the Energy Regulation 1-94 (ER1-94), and the National Wealth Tax.
+
+The development plan of the Bangsamoro Government for the Bangsamoro Autonomous Region shall include all local energy policies, plans, and programs covering energy safety and best practices, energy efficiency and conservation, and energy resiliency in its comprehensive development plan which shall be submitted to the Bangsamoro Economic and Development Council and integrated to its Regional Development Plan.
+
+**ARTICLE III. ENERGY PERMITS REGULATORY REFORMS**
+
+**Section 6. Implementation of the EVOSS Act.** Pursuant to its role of promoting investments in the energy and power generation sector in the Bangsamoro Autonomous Region, the Bangsamoro Government shall initiate efforts to streamline the processes in issuing the necessary permits on energy-related projects in BARMM component cities and municipalities, in accordance with Section 14 of the EVOSS (Energy Virtual One-Stop Shop) Act.
+
+The Bangsamoro Government shall assist in the preparation, submission, and implementation of a unified streamlined and transparent permitting process and corresponding fees.
+
+Said permitting processes and corresponding fees shall be submitted by the Bangsamoro Government to the EVOSS Steering Committee through the Secretariat, the DOE-Investment Promotion Office and DILG Regional Office.
+
+The Bangsamoro Government shall ensure that the processing of permits be accomplished within the prescribed time frame as stated in the EVOSS Act to fast-track processing of necessary permits to expedite their completion.
+
+Upon the submission of the complete documents by the energy project applicant, the concerned component BARMM LGU (province, city or municipality) shall issue the corresponding permit within fifteen (15) calendar days for the proposed generation, transmission and/or distribution project. Provided, that this shall not preclude the EVOSS Steering Committee from imposing a shorter time frame for resolution of applications should it see the expediency and feasibility of doing so.
+
+**Section 7. Deemed Approved.** Failure of an LGU to act on applications duly submitted with complete supporting electronic documents within the time frame shall be deemed an approval of such application by the LGU without need of further action on the part of the concerned energy project applicant.
+
+The duly received/stamped as received application form of the energy project applicant by the concerned LGU shall serve as the relevant permit if the LGU fails to act on the application within the provided time frame.
+
+**Chunk Complete. Ready for next group of provisions starting at Section 8. Denial of Application.**
+
+***
+
+**Section 8. Denial of Application.** In case of denial of application, the LGU shall notify the energy project applicant in writing stating the reason/s for disapproval.
+
+**Section 9. Penalties.** Section 19 of the EVOSS Act states:
+
+“Any person found guilty of committing the acts stated in Section 17 (a) and (b) shall be penalized as follows:
+
+(a) First offense – Thirty (30) days suspension without pay;
+(b) Second offense – Three (3) months suspension without pay; and
+(c) Third offense – Dismissal and perpetual disqualification from public service.
+
+Any person found guilty of committing the act stated in Section 17 (c) shall be penalized as follows:
+
+(a) First offense – Thirty (30) days suspension without pay and mandatory attendance in Values Orientation Program;
+(b) Second offense – Three (3) months suspension without pay; and
+(c) Third offense – Dismissal and perpetual disqualification from public service and forfeiture of retirement benefits.
+
+Any person found guilty of committing the act stated in Section 17 (d) shall suffer the penalty of dismissal and perpetual disqualification from public service.
+
+Any person found guilty of violating Section 18 shall suffer the penalty of dismissal and perpetual disqualification from public service.
+
+In cases of violation by the system operator and market operator of Section 17 (a), (b), and (c), the ERC shall impose a fine of One hundred thousand pesos (P100,000.00) for every day of delay.”
+
+**ARTICLE IV. DOWNSTREAM OIL**
+
+**Section 10. Downstream Oil.** The Bangsamoro Government shall assist the DOE by ensuring the suspension of Mayor’s/Business Permit and stop the actual operation of Liquefied Fuel (LF) Retail Outlets or Gasoline Stations, Household Liquefied Petroleum Gas (LPG) Establishment (i.e. Refiller, Dealer, and/or Retailer), and Auto LPG Dispensing Stations which do not have the DOE Certificate of Compliance (COC) and Standards Compliance Certificate (SCC).
+
+Pursuant to its authority to regulate the affairs of its constituent local government units, the Bangsamoro Government shall ensure the enforcement of the LGUs’ mandate to calibrate instruments of weights and measures of dispensing pump meters in LF Retail Outlets and weighing devices in LPG Establishments.
+
+The Bangsamoro Government, through the Ministry of Interior and Local Government and the Ministry of Trade, Investment, and Tourism shall ensure that its constituent LGUs implement a price freeze of household LPG and kerosene upon the declaration of state of calamity in the locality. The price freeze will be implemented for a maximum of fifteen (15) days, starting from the day of the official declaration and conduct regular price monitoring of LPG and kerosene that will serve as basis for the price freeze.
+
+**ARTICLE V. POWER DISTRIBUTION DEVELOPMENT**
+
+**Section 11. Power Distribution Development.** For all applications for Building Permits, the Bangsamoro Government shall ensure that the LGUs inform or coordinate with the Distribution Utilities for the inclusion of the additional supply and demand of energy in the Distribution Development Plan (DDP). Furthermore, the LGUs shall ensure compliance with RA 11361 (Anti-Obstruction of Power Lines Act).
+
+**ARTICLE VI. ENERGY EFFICIENCY AND CONSERVATION**
+
+**Section 12. Energy Efficiency and Conservation Office (EECO).** The Bangsamoro Government shall establish an Energy Efficiency and Conservation Office (EECO), which may be part of the planning and development office, using appropriations from its General Funds established under the annual General Appropriations Act for the Bangsamoro Region.
+
+The Bangsamoro Government shall coordinate with the DOE and the DILG for the issuance of the necessary guidelines and templates for the reports and updates to assist the LGUs in the development and implementation of their respective Local Energy Efficiency and Conservation Plans.
+
+**Section 13. Energy Efficiency and Conservation Officer.**
+
+**Section 13.1 Appointment/Designation of the EEC Officer.** The EEC Officer, who shall head the EECO, must be at least a college graduate and may be designated by the Chief Minister from the existing personnel of the Bangsamoro Government or hired through external recruitment. The EEC Officer shall ensure the Bangsamoro Government’s compliance with the EEC Act and its IRR, the Regional EEC Plan and all energy conservation issuances. Within three (3) years from the effectivity of the EEC-IRR, the Director-General of the Bangsamoro Planning and Development Authority shall be considered as the EEC Officer of the Bangsamoro Government.
+
+**Section 13.2 Funding for Remuneration of the EEC Officer.** Funding requirements for the remuneration of the EEC Officer’s services shall be charged from the existing fund of the Bangsamoro Government.
+
+**Section 14. Local Energy Efficiency and Conservation Plan.** The Bangsamoro Government, through its EECO and planning development office, with the assistance of the MENRE and in coordination with the MILG, shall develop and implement their respective Regional EE&C Plans and incorporate these in their local development.
+
+**Chunk Complete. Ready for next group of provisions starting at ARTICLE VII. PRIVATE SECTOR PARTICIPATION.**
+
+***
+
+**ARTICLE VII. PRIVATE SECTOR PARTICIPATION**
+
+**Section 15. Local Investment Incentives Plan (LIIP).** In coordination with the PPP Center, the Bangsamoro Government shall explore energy development projects with the private sector.
+
+Pursuant to Section 36, Article XII of RA 11054 and in the interest of promoting energy efficiency in the local setting, the Bangsamoro Government, through the Bangsamoro Economic and Development Council, may include energy efficiency projects in their respective Investment Priority Areas (IPA) and shall grant applicable incentives, including assistance or fast-tracking of permits and licenses indicated in the LIIP to establishments with energy efficiency projects upon registration and compliance with the requirements of the Bangsamoro Government.
+
+Furthermore, the Bangsamoro Government shall encourage the participation of the private sector on opportunities provided by the upstream and downstream laws enumerated in this Act.
+
+**ARTICLE VIII. FINAL PROVISIONS**
+
+**Section 16. Information Education Communication Campaign.** The Bangsamoro Government, in coordination with the MILG and the MENRE, shall disseminate and capacitate its concerned stakeholders and constituents on energy safety practices, energy efficiency and conservation, energy resiliency, energy planning which includes energy access and resource development, energy programs policies, and projects.
+
+**Section 17. Appropriations.** – Such sums as may be necessary for the initial implementation of this Act shall be taken from the current appropriations of the Ministry of Environment, Natural Resources, and Energy. Thereafter, the fund necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the Bangsamoro.
+
+**Section 18. Separability Clause.** – If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+**Section 19. Repealing Clause.** – All laws, executive orders or issuances, or any parts thereof which are inconsistent herewith, are hereby repealed or amended accordingly.
+
+**Section 20. Effectivity Clause.** – This Act shall take effect fifteen (15) days after publication in a newspaper of regional circulation.
+
+*Adopted,*
+
+AUTHOR:
+
+(Sgd.)
+**AMILBAHAR S. MAWALLIL**
+Member of the Parliament
+
+Certified correct:
+
+(Sgd.)
+**PROF. RABY B. ANGKAL**
+Secretary-General
+
+Attested by:
+
+(Sgd.)
+**HON. PANGALIAN M. BALINDONG**
+Speaker
