@@ -1,0 +1,5337 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+First Regular Session
+
+**BANGSAMORO AUTONOMY ACT NO. ____**
+
+Parliament Bill No. 30
+(Cabinet Bill)
+
+Introduced by:
+**THE GOVERNMENT OF THE DAY**
+
+**AN ACT PROVIDING FOR THE BANGSAMORO LOCAL GOVERNANCE CODE**
+
+Be it enacted by the Bangsamoro Transition Authority in Parliament enacted:
+
+**BOOK I**
+**GENERAL PROVISIONS**
+
+**TITLE I**
+**BASIC PRINCIPLES**
+
+**CHAPTER I**
+**The Code, Policy and Application**
+
+**SECTION 1. Title.** - This Act shall be known and cited as the "**Bangsamoro Local Governance Code of 2022**" ¹
+
+**SECTION 2. Declaration of Policy.** - (a) It is hereby declared the policy of the Bangsamoro Autonomous Region in Muslim Mindanao that its territorial and political subdivisions shall enjoy genuine and meaningful local autonomy to enable them to attain full development as self-reliant communities and become effective partners in the attainment of holistic Bangsamoro development. Toward this end, the Bangsamoro Government, pursuant to the principles of moral governance, shall provide for a more responsive and accountable local government structure instituted through a system of decentralization whereby constituent local government units shall be given more powers, authority, responsibilities, and resources in a gradual and systematic approach. The process of decentralization shall proceed from the Bangsamoro regional government to its constituent local government units.
+
+a) It is also the policy of the Bangsamoro Government to ensure the accountability of local government units through the institution of effective mechanisms of recall, initiative referendum, and administrative supervision.
+
+b) It is likewise a policy of the Bangsamoro Autonomous Region that regional agencies and offices conduct mandatory public consultations with the constituent local government units, non-governmental and people's organizations, and other concerned sectors of the community, before any project or program is approved for implementation by the concerned regional agencies, offices, or government-owned or -controlled corporations in their respective jurisdictions.
+
+c) Finally, the mandatory public consultations required for the implementation of all programs and projects funded by the National Government in the constituent local government units of the BARMM shall be governed by policies that may be enacted by the Bangsamoro Government, subject to agreement by the National and the Bangsamoro Government through the Intergovernmental Relations Body, in accordance with Republic Act No. 11054, otherwise known as the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao. ²
+
+**SECTION 3. Operative Principles of Decentralization.** - The formulation and implementation of policies and measures on local autonomy shall be guided by the following operative principles:
+
+(a) There shall be an effective and systematic allocation among the different constituent local government units of their respective powers, functions, responsibilities, and resources;
+
+(b) There shall be established in every constituent local government unit an accountable, efficient, and dynamic organizational structure and operating mechanism that will meet the priority needs and service requirements of its communities;
+
+(c) Local officials and employees whose salaries are fully charged against the local funds shall, unless otherwise provided under this Code, be appointed by the Governor, Mayor, or Punong Barangay, or the Vice Governor or Vice Mayor, as the case may be, according to merit and fitness, and may only be removed for cause, subject to the civil service law, rules, and regulations in the Bangsamoro Civil Service Code that may be enacted by the Parliament.
+
+(d) The vesting of duty, responsibility, and accountability in constituent local government units shall be accompanied with provision for reasonably adequate resources to discharge their powers and effectively carry out their functions; hence, they shall have the power to create and broaden their own sources of revenue and the right to a just share in the national taxes, through the system of Internal Revenue Allotment and regional taxes; and an equitable share in the proceeds of the utilization and development of the national and regional wealth within their respective areas;
+
+(e) Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) with respect to Provinces, Component Cities, Independent Component Cities, Highly Urbanized Cities, Municipalities and Cities and Cities and Municipalities with respect to component barangays, shall ensure that the acts of their component units are within the scope of their prescribed powers and functions. Correspondingly, the Ministry of the Interior and Local Government shall ensure faithful compliance by the constituent local government units with their obligations through the proper use of their prescribed powers and accomplishment of their functions.
+
+(f) Constituent local government units, Ministries, agencies and other offices may group themselves, consolidate or coordinate their efforts, services, and resources for purposes of promoting the general welfare and the common good;
+
+(g) The capabilities of constituent local government units in the Autonomous Region, especially the municipalities and barangays, shall be strengthened by providing them with opportunities to participate actively in the planning and implementation of regional policies, programs and projects;
+
+(h) There shall be a continuing mechanism to enhance local autonomy not only by legislative enabling acts but also by administrative and organizational reforms;
+
+(i) Constituent local government units shall share with the Bangsamoro Government the responsibility in the management and maintenance of ecological balance within their territorial jurisdiction, subject to the provisions of this Code and national and regional policies;
+
+(j) Effective mechanisms for ensuring the accountability of constituent local government units to their respective constituents shall be strengthened in order to upgrade continually the quality of local leadership;
+
+(k) The realization of local autonomy shall be facilitated through improved coordination of regional government policies and programs and extension of adequate financial, technical, and material assistance to less developed and deserving constituent local government units;
+
+(l) The participation of the private sector in local governance, particularly in the delivery of basic services, shall be strengthened to ensure the viability of local autonomy as a primary regional strategy for sustainable Bangsamoro development; and
+
+(m) The Bangsamoro Government shall ensure that gradual decentralization contributes to the continuing improvement of the performance of constituent local government units and the quality of life of the Bangsamoro people.
+
+**SECTION 4. Scope of Application.** - This Code shall apply to all constituent provinces, cities, municipalities, barangays, and other political subdivisions as may be created by law, and, to the extent herein provided, officials, offices, or agencies of the Bangsamoro Government.
+
+**SECTION 5. Rules of Interpretation.** - In the interpretation of the provisions of this Code, the following rules shall apply:
+
+(a) Any provision on a power of a constituent local government unit shall be liberally interpreted in its favor, and in case of doubt, any question thereon shall be resolved in favor of devolution of powers and of the lower local government unit. Any fair and reasonable doubt as to the existence of the power shall be interpreted in favor of the constituent local government unit concerned;
+
+(b) In case of doubt, any tax ordinance or revenue measure shall be construed strictly against the local government unit enacting it, and liberally in favor of the taxpayer. Any tax exemption, incentive or relief granted by any local government unit pursuant to the provisions of this Code shall be construed strictly against the person claiming it.
+
+(c) The general welfare provisions in this Code shall be liberally interpreted to give more powers to constituent local government units in accelerating economic development and upgrading the quality of life for the people in the community.
+
+(d) In the resolution of controversies arising under this Code where no legal provision or jurisprudence applies, resort may be had to the customs and traditions in the place where the controversies take place.
+
+**CHAPTER II**
+**General Powers and Attributes of Local Government Units**
+
+**SECTION 6. Authority to Create Local Government Units.** - A municipality or a barangay may be created, divided, merged, abolished, or its boundaries substantially altered by law to be enacted by the Parliament. The municipalities or barangays created, divided, merged, or whose boundaries are substantially altered, shall be entitled to their appropriate Internal Revenue Allotment: Provided, That the criteria laid down in this code shall be satisfied. Provided further, that it shall be approved by a majority of the votes cast in a plebiscite in the political units directly affected.
+
+The authority to create, divide, merge, abolish, or substantially alter the boundaries of a provide, or a city shall remain in Congress, through the Philippine Congress - Bangsamoro Parliament Forum.
+
+**SECTION 7. Creation and Conversion.** - As a general rule, the creation of a local government unit or its conversion from one level to another level shall be based on verifiable indicators of viability and projected capacity to provide services, to wit:
+
+(a) Income. - It must be sufficient, based on acceptable standards, to provide for all essential government facilities and services and special functions commensurate with the size of its population, as expected of the local government unit concerned;
+
+(b) Population. - It shall be determined as the total number of inhabitants within the territorial jurisdiction of the local government unit concerned; and
+
+(c) (c) Land Area. - It must be contiguous, unless it comprises of two or more islands or is separated by a local government unit independent of the others; properly identified by metes and bounds with technical descriptions; and sufficient to provide for such basic services and facilities to meet the requirements of its populace. Compliance with the foregoing indicators shall be attested to by the Ministry of Finance, and Budget and Management, the Philippine Statistics Authority, and the Lands Management Bureau of the Ministry of Environment, Natural Resources and Energy.
+
+**SECTION 8. Division and Merger.** - Division and merger of existing local government units shall comply with the same requirements herein prescribed for their creation: Provided however, That such division shall not reduce the income, population, or land area of the local government unit or units concerned to less than the minimum requirements prescribed in this Code: Provided, further, That the income classification of the original local government unit or units shall not fall below its current income classification prior to such division.
+
+**SECTION 9. Abolition of Local Government Units.** - A constituent local government unit may be abolished when its income, population, or land area has been irreversibly reduced to less than the minimum standards prescribed for its creation under Book III of this Code, as certified by the ministries, agencies and other offices mentioned in Section 7 hereof to Parliament.
+
+The law abolishing a constituent local government unit shall specify the province, city, municipality, or Barangay with which the local government unit sought to be abolished will be incorporated or merged.
+
+**SECTION 10. Plebiscite Requirement.** - No creation, division, merger, abolition, or substantial alteration of boundaries of local government units shall take effect unless approved by a majority of the votes cast in a plebiscite called for the purpose in the political unit or units directly affected. Said plebiscite shall be conducted by the Commission on Elections (Comelec) within one hundred twenty (120) days from the date of effectivity of the law effecting such action, unless said law fixes another date.
+
+**SECTION 11. Selection and Transfer of Constituent Local Government Site, Offices and Facilities.** – (a) The law or ordinance creating or merging local government units shall specify the seat of government from where governmental and corporate services shall be delivered. In selecting said site, factors relating to historical significance, geographical centrality, accessibility, availability of transportation and communication facilities, drainage and sanitation, development and economic progress, and other relevant considerations shall be considered.
+
+(b) When conditions and developments in the local government unit concerned have significantly changed subsequent to the establishment of the seat of government, its Sanggunian may, after public hearing and by a two-thirds (2/3) vote of all its members, transfer the same to a site better suited to its needs. Provided that no such transfer shall be made outside the territorial jurisdiction of the concerned local government unit, more than once every twenty (20) years, and without prior authorization from the Office of the Chief Minister, through the Ministry of the Interior and Local Government.
+
+The old site, together with the improvements thereon, may be disposed of by sale or lease or converted to such other use as the Sanggunian concerned may deem beneficial to the local government unit concerned and its inhabitants.
+
+(c) Local government offices and facilities shall not be transferred, relocated, or converted to other uses unless public hearings are first conducted for the purpose and the concurrence of the majority of all the members of the Sanggunian concerned is obtained.
+
+**SECTION 12. Government Centers.** - Provinces, cities, and municipalities shall endeavor to establish a government center where offices, agencies, or branches of the national and regional government, local government units, or government-owned or -controlled corporations may, as far as practicable, be located. In designating such a center, the local government unit concerned shall consider the existing facilities of national, regional and local agencies and offices which may serve as the government center as contemplated under this Section. The national and regional government, local government unit or government-owned or -controlled corporation concerned shall bear the expenses for the construction of its buildings and facilities in the government center.
+
+**SECTION 13. Naming of Local Government Units and Public Places, Streets and Structures, and Declaring Local Public Holidays.** – (a) The Bangsamoro Parliament or the Sanggunian Panlalawigan may, in consultation with the Bangsamoro Commission for the Preservation of Cultural Heritage, change the name of the following within its territorial jurisdiction:
+
+(1) Component cities and municipalities, upon the recommendation of the Sanggunian concerned;
+
+(2) Provincial roads, avenues, boulevards, thorough-fares, and bridges
+
+(3) Public vocational or technical schools and other post- secondary and tertiary schools;
+
+(4) Provincial hospitals, health centers, and other health facilities; and
+
+(5) Any other public place or building owned by the provincial government.
+
+(b) The Sanggunian of highly urbanized cities and of component cities whose charters prohibit their voters from voting for provincial elective officials, hereinafter referred to in this Code as independent component cities, may, in consultation with the Bangsamoro Commission for the Preservation of Cultural Heritage, change the name of the following within its territorial jurisdiction:
+
+(1) City Barangays, upon the recommendation of the Sangguniang Barangay concerned;
+
+(2) City roads, avenues, boulevards, thorough fares, and bridges;
+
+(3) Public elementary, secondary and vocational or technical schools, community colleges and non-chartered colleges;
+
+(4) City hospitals, health centers and other health facilities; and
+
+(5) Any other public place or building owned by the city government.
+
+(c) The Sanggunian of component cities and municipalities may, in consultation with the Bangsamoro Commission for the Preservation of Cultural Heritage, change the name of the following within its territorial jurisdiction:
+
+(6) barangays, upon recommendation of the Sangguniang Barangay concerned;
+
+(7) city, municipal and Barangay roads, avenues, boulevards, thorough fares, and bridges;
+
+(8) city and municipal public elementary, secondary and vocational or technical schools, post-secondary and other tertiary schools;
+
+(9) hospitals, health centers and other health facilities, and any other public place or building owned by the municipal government.
+
+(d) None of the foregoing local government units, institutions, places, or buildings shall be named after a living person, nor may a change of name be made unless for a justifiable reason and, in any case, not oftener than once every ten (10) years. The name of a local government unit or a public place, street or structure with historical, cultural, or ethnic significance shall not be changed, unless by a unanimous vote of the Sanggunian concerned and in consultation with the NHP.
+
+(e) A change of name of a public school shall be made only upon the recommendation of the local school board concerned.
+
+(f) A change of name of public hospitals, health centers, and other health facilities shall be made only upon the recommendation of the local health board concerned.
+
+(g) The change of name of any local government unit shall be effective only upon ratification in a plebiscite conducted for the purpose in the political unit directly affected. In any change of name, the Office of the Chief Minister, the representative of the legislative district concerned, and the Philippine Postal Corporation shall be notified.
+
+(h) The Sangguniang Panlalawigan, Panlungsod or Bayan, upon consultation with the Bangsamoro Commission for the Preservation of Cultural Heritage and Local Historical Associations, if any, and the Ministry of Labor and Employment, through an ordinance duly approved by 2/3 vote of all their respective members, may declare the Founding Anniversary of their locality as working or non-working public holidays.³
+
+**SECTION 14. Beginning of Corporate Existence.** - When a new local government unit is created, its corporate existence shall commence upon the election and qualification of its chief executive and a majority of the members of its Sanggunian or upon their appointments made by the Chief Minister, unless otherwise provided by the law creating the same. In the case of the creation of a city, municipality, and barangay, the Chief Minister may delegate the authority to appoint its local officials to the Minister of the Ministry of the Interior and Local Government. However, said authority may not be delegated in the case of a creation of a province and should be under the exclusive authority of the Chief Minister.
+
+**SECTION 15. Political and Corporate Nature of Local Government Units.** - Every local government unit created or recognized under this Code is a body politic and corporate endowed with powers to be exercised by it in conformity with law. As such, it shall exercise powers as a political subdivision of the regional government and as a corporate entity representing the inhabitants of its territory.
+
+**SECTION 16. General Welfare.** - Every local government unit shall exercise the powers expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for its efficient and effective governance, and those which are essential to the promotion of the general welfare. Within their respective territorial jurisdictions, local government units shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among their residents, maintain peace and order, and preserve the comfort and convenience of their inhabitants.
+
+**SECTION 17. Basic Services and Facilities.** – (a) Local government units shall endeavor to be self-reliant and shall continue to exercise the powers and discharge the duties and functions currently vested upon them. They shall also discharge the powers, functions and responsibilities of regional agencies and offices devolved to them pursuant to this Code. Constituent local government units shall likewise exercise such other powers and discharge such other functions and responsibilities as are necessary, appropriate, or incidental to efficient and effective local governance.
+
+(b) Such basic services and facilities include, but are not limited to, the following:
+
+(1) For a Barangay:
+
+(i) Agricultural support services such as planting materials distribution system and operation of farm produce collection and buying stations, and maintenance of “Gulayan sa Barangay” at the barangay centers;
+
+(ii) Health and social welfare services such as maintenance of Barangay health center and day-care center;
+
+(iii) Educational promotion and information drive on general hygiene and sanitation and beautification;
+
+(iv) Segregation and collection of biodegradable, compostable and reusable wastes;
+
+(v) Administration, operation, and maintenance of Katarungang Pambarangay;
+
+(vi) Organization of community disaster response volunteers;
+
+(vii) Operation and maintenance of Barangay roads and bridges and water supply systems;
+
+(viii) Operation and maintenance of barangay multi- purpose hall, multipurpose pavement, plaza, sports center, and other barangay facilities;
+
+(ix) Establishment and operation of information and reading area within the barangay government center; and
+
+(x) Satellite or public market, where viable; ⁴
+
+(2) For a municipality:
+
+(i) Extension and on-site research services and facilities related to agriculture and fishery activities such as dispersal of livestock and poultry, fingerlings, and other seeding materials for aquaculture; palay, corn, and vegetable seed farms; medicinal plant gardens; fruit tree, coconut, and other kinds of seedling nurseries; demonstration farms; quality control of copra and improvement and development of local distribution channels, preferably through cooperatives; inter-barangay irrigation system; water and soil resource utilization and conservation projects; and enforcement of fishery laws in municipal waters including the conservation of mangroves;
+
+(ii) Pursuant to regional policies and subject to supervision, control and review of the MENRE, implementation of community-based forestry projects such as integrated social forestry programs and similar projects; management and control of communal forests with an area not exceeding fifty (50) square kilometers; establishment of tree parks, greenbelts, and similar forest development projects;
+
+(iii) Subject to the provisions of Title Five, Book I of this Code, health services such as implementation of programs and projects on primary health care, maternal and child care, and communicable and non-communicable disease control services; access to secondary and tertiary health services; purchase of medicines, medical supplies, and equipment needed to carry out the services herein enumerated;
+
+(iv) Social welfare services such as programs and projects on child and youth welfare, family and community welfare, women's welfare, welfare of the elderly and disabled persons; community-based rehabilitation programs for vagrants, beggars, street children, scavengers, juvenile delinquents, and victims of drug abuse; livelihood and other pro-poor projects; nutrition services; and family planning services;
+
+(v) Information services which include investments and job placement information systems, tax and marketing information systems, and maintenance of a public library;
+
+(vi) Solid waste management systems, environmental management systems, and facilities related to general hygiene and sanitation;
+
+(vii) Construction and/or maintenance of Municipal buildings, cultural centers, public parks including freedom parks, playgrounds, and sports facilities and equipment, and other similar facilities;
+
+(viii) Infrastructure facilities intended primarily to service the needs of the residents of the municipality and which are funded out of municipal funds including, but not limited to, municipal roads and bridges; school buildings and other facilities for public elementary and secondary schools; clinics, health centers and other health facilities necessary to carry out health services; communal irrigation, small water impounding projects and other similar projects; fish ports; artesian wells, spring development, rainwater collectors and water supply systems; seawalls, dikes, drainage and sewerage, and flood control; traffic signals and road signs; and similar facilities;
+
+(ix) Public markets, slaughterhouses and other municipal enterprises;
+
+(x) Public cemetery;
+
+(xi) Tourism facilities and other tourist attractions, including the acquisition of equipment, regulation and supervision of business concessions, and security services for such facilities; and
+
+(xii) Provision of sites for police and fire stations and substations and the municipal jail;
+
+(3) For a Province:
+
+(i) Agricultural extension and on-site research services and facilities such as prevention and control of plant and animal pests and diseases; dairy farms, livestock markets, animal breeding stations, and artificial insemination centers; and assistance in the organization of farmers' and fishermen's cooperatives and other collective organizations, as well as the transfer of appropriate technology;
+
+(ii) Industrial research and development services, as well as the transfer of appropriate technology;
+
+(iii) Pursuant to regional policies and subject to supervision, control and review of the MENRE, enforcement of forestry laws limited to community- based forestry projects, pollution control law, small- scale mining law, and other laws on the protection of the environment; and mini-hydroelectric projects for local purposes;
+
+(iv) Subject to the provisions of Title Five, Book I of this Code, health services such as operation and maintenance of district hospitals and other tertiary health services;
+
+(v) Social welfare services such as programs and projects on rebel returnees and evacuees; relief operations; and, population development services;
+
+(vi) Provincial buildings, provincial jails, freedom parks and other public assembly areas, and other similar facilities;
+
+(vii) Maintenance of provincial roads and bridges; inter- municipal waterworks, drainage and sewerage, flood control, and irrigation systems; reclamation projects; and similar facilities;
+
+(viii) Programs and projects for low-cost housing and other mass dwellings;
+
+(ix) Investment support services, including access to credit financing;
+
+(x) Upgrading and modernization of tax information and collection services through the use of computer hardware and software and other means;
+
+(xi) Inter-municipal telecommunications services, subject to regional policy guidelines; and
+
+(xii) Tourism development and promotion programs;
+
+(4) For a City:
+
+All the services and facilities of the municipality and province, and in addition thereto, the following:
+
+(i) Adequate communication and transportation facilities;
+
+(ii) Support for education, police and fire services and facilities.
+
+(c) Where the local government unit concerned is duly designated as the implementing agency, it shall implement the public works and infrastructure projects and other facilities funded by the National Government under the Annual General Appropriations Act or those regionally funded under the Bangsamoro Appropriations Act, other special laws, pertinent executive orders; and those wholly or partially funded from foreign sources.⁵
+
+(d) The designs, plans, specifications, testing of materials, and the procurement of equipment and materials from both foreign and local sources necessary for the provision of the foregoing services and facilities shall be undertaken by the local government unit concerned, based on regional policies, standards and guidelines.
+
+(e) Ministries or regional offices concerned shall gradually devolve to local government units the responsibility for the provision of basic services and facilities enumerated in this Section, seven (7) years after the effectivity of this Code, subject to the guidelines in the implementation of the process of devolution as a result of the comprehensive assessment on the financial viability and technical capacity of the local government units, to be conducted by an inter-agency committee on devolution. The members of the committee shall be representatives from the Ministry of Health, Ministry of Agriculture, Fisheries and Agrarian Reform, and the Ministry of Social Services and Development. The Ministry of the Interior and Local Government shall sit as the Chairman of the said inter-agency committee. As used in this Code, the term "devolution" refers to the act by which the Bangsamoro Government confers power and authority upon the various constituent local government units to perform specific functions and responsibilities.⁶
+
+(f) The Cities of Marawi, Cotabato and Lamitan and the Province of Basilan including its municipalities shall continue to enjoy their full devolution status. This is without prejudice to the power of the Bangsamoro Government to set up its offices in the said local government units for purposes of delivering its services.
+
+(g) The Ministries or regional offices or the next higher constituent local government unit shall provide or augment the basic services and facilities assigned to a lower level of local government unit when such services or facilities are not made available or, if made available, are inadequate to meet the acceptable standards and requirements of its inhabitants.
+
+(h) The basic services and facilities hereinabove enumerated shall be funded from the share of the constituent local government units in the proceeds of national taxes and other local revenues and funding support from the Bangsamoro Government, its instrumentalities and government- owned or -controlled corporations which are tasked by law to establish and maintain such services or facilities. Any fund or resource available for the use of the local government units shall be first allocated for the provision of basic services or facilities enumerated in subsection (b) hereof before applying the same for other purposes, unless otherwise provided in this Code.
+
+(i) Upon the effectivity of this Code, the Bangsamoro Government shall continue to provide for the compensation of the heads in the agriculture, health, and social welfare offices of the constituent local government units. On the other hand, these local government units shall appoint and provide for the compensation of supporting personnel or other employees in the said offices. The local government units shall also allocate resources for the local programs and projects in their agriculture, health, and social welfare offices.
+
+(j) The gradual devolution contemplated in this Code shall include the transfer to local government units of the records, equipment, and other assets and personnel of agencies and offices corresponding to the devolved powers, functions, and responsibilities. The concerned Ministries or regional offices of the Bangsamoro Government shall continue to provide technical and financial assistance to all local government units to ensure quality standards of services. Personnel of said Ministries or regional offices shall be absorbed by the local government units to which they belong or in whose areas they are assigned to the extent that it is administratively viable as determined by a committee to be established for the purpose: Provided, that the non-diminution of rights and privileges accorded to such personnel pursuant to civil service law, rules and regulations shall not be impaired: Provided further, that the affected agencies shall review their mandates and functions, and re-organized their structures accordingly.
+
+(k) To ensure the active participation of the private sector in local governance, local government units may, by ordinance, sell, lease, encumber, or otherwise dispose of public economic enterprises owned by them in their proprietary capacity.
+
+---
+¹ It was named in Sec. 4, Article XVI of R.A. 11054 as the “Bangsamoro Local Government Code.” However, “Government” is replaced with “Governance” since the latter is broad, more inclusive, and entails accommodation and cooperation.
+² Sec. 2, Article VI of R.A. 11054 on Intergovernmental Relations requires that the implementation of projects and programs funded by the National Government shall be subject to agreement between the National Government and the Bangsamoro Government.
+³ For efficiency purposes, and in effect, empowering the local officials, thereby strengthening the local autonomy of the constituent local government units.
+⁴ These are the specific services that are feasible in the barangay level, based on their financial capacity. The services are listed more specifically to avoid any ambiguity on whose responsibility and accountability the services are for.
+⁵ The constituent local government units shall implement all projects and programs designated to them, including those that are nationally- funded.
+⁶ A Committee on Devolution shall be created to assess and determine the financial and technical capacity and readiness of the constituent local government units for the devolution of the delivery of services.
+
+**SECTION 18. Power to Generate and Apply Resources.** - Constituent local government units shall have the power and authority to establish an organization that shall be responsible for the efficient and effective implementation of their development plans, program objectives and priorities; to create their own sources of revenue and to levy taxes, fees, and charges which shall accrue exclusively for their use and disposition and which shall be retained by them; to have a just share in national taxes which shall be automatically and directly released to them without need of any further action; to have an equitable share in the proceeds from the utilization and development of the national wealth and resources within their respective territorial jurisdictions including sharing the same with the inhabitants by way of direct benefits; to acquire, develop, lease, encumber, alienate, or otherwise dispose of real or personal property held by them in their proprietary capacity and to apply their resources and assets for productive, developmental, or welfare purposes, in the exercise or furtherance of their governmental or proprietary powers and functions and thereby ensure their development into self-reliant communities and active participants in the attainment of national goals.
+
+**SECTION 19. Eminent Domain.** - A local government unit may, through its chief executive acting pursuant to an ordinance, exercise the power of eminent domain for public use, or purpose, or welfare for the benefit of the poor and the landless, upon payment of just compensation, pursuant to the provisions of the Constitution and pertinent laws: Provided, however, That the power of eminent domain may not be exercised unless a valid and definite offer has been previously made to the owner, and such offer was not accepted: Provided, further, That the local government unit may immediately take possession of the property upon the filing of the expropriation proceedings and upon making a deposit with the proper court of at least fifteen percent (15%) of the fair market value of the property based on the current tax declaration of the property to be expropriated: Provided, finally, That the amount to be paid for the expropriated property shall be determined by the proper court, based on the fair market value at the time of the taking of the property.
+
+**SECTION 20. Reclassification of Lands.** – (a) A city or municipality may, through an ordinance passed by the Sanggunian after conducting public hearings for the purpose, authorize the reclassification of agricultural lands and provide for the manner of their utilization or disposition in the following cases: (1) when the land ceases to be economically feasible and sound for agricultural purposes as determined by the Ministry of Fisheries Agriculture and Agrarian Reform or (2) where the land shall have substantially greater economic value for residential, commercial, or industrial purposes, as determined by the Sanggunian concerned: Provided, That such reclassification shall be limited to the following percentage of the total agricultural land area at the time of the passage of the ordinance:
+
+(1) For highly urbanized and independent component cities, fifteen percent (15%);
+
+(2) For component cities and first to third class municipalities, ten percent (10%); and
+
+(3) For fourth to sixth class municipalities, five percent (5%): Provided, That agricultural lands distributed to agrarian reform beneficiaries shall be reclassified upon application of the beneficiary or the landowner, with due notice to the affected parties, and upon full payment of the obligation by the beneficiary.
+
+(b) The Chief Minister may, when public interest so requires and upon recommendation of the Bangsamoro Economic and Development Council, authorize a city or municipality to reclassify lands in excess of the limits set in the next preceding paragraph.
+
+(c) The local government units shall, in conformity with existing laws, continue to prepare their respective comprehensive land use plans enacted through zoning ordinances which shall be the primary and dominant bases for the future use of land resources: Provided, That the requirements for food production, human settlements, and industrial expansion shall be taken into consideration in the preparation of such plans.
+
+(d) Where approval by a regional agency is required for reclassification, such approval shall not be unreasonably withheld. Failure to act on a proper and complete application for reclassification within three (3) months from receipt of the same shall be deemed as approval thereof.
+
+**SECTION 21. Closure and Opening of Roads.** – (a) A constituent local government unit may, pursuant to an ordinance, permanently or temporarily close or open any local road, alley, park, or square falling within its jurisdiction: Provided, however, That in case of permanent closure, such ordinance must be approved by at least two-thirds (2/3) of all the members of the Sanggunian, and when necessary, an adequate substitute for the public facility that is subject to closure is provided.
+
+(b) No such way or place or any part thereof shall be permanently closed without making provisions for the maintenance of public safety therein. A property thus permanently withdrawn from public use may be used or conveyed for any purpose for which other real property belonging to the local government unit concerned may be lawfully used or conveyed: Provided, however, That no freedom park shall be closed permanently without provision for its transfer or relocation to a new site.
+
+(c) Any national, regional or local road, alley, park, or square may be temporarily closed during an actual emergency, or fiesta celebrations, public rallies, agricultural or industrial fairs, or an undertaking of public works and highways, telecommunications, and waterworks projects, the duration of which shall be specified by the local chief executive concerned in a written order: Provided, however, That no national, regional or local road, alley, park, or square shall be temporarily closed for athletic, cultural, or civic activities not officially sponsored, recognized, or approved by the local government unit concerned.
+
+(d) Any city, municipality, or Barangay may, by a duly enacted ordinance, close and regulate the use of any local ordinance, temporarily street, road, thoroughfare, or any other public place where shopping malls, Sunday, flea or night markets, or shopping areas may be established and where goods, merchandise, foodstuffs, commodities, or articles of commerce may be sold and dispensed to the general public.
+
+**SECTION 22. Corporate Powers.** – (a) Every constituent local government unit, as a corporate entity, shall have the following powers:
+
+(1) To have continuous succession in its corporate name;
+
+(2) To sue and be sued;
+
+(3) To have and use a corporate seal;
+
+(4) To acquire and convey real or personal property;
+
+(5) To enter into contracts; and
+
+(6) To exercise such other powers as are granted to corporations, subject to the limitations provided in this Code and other laws.
+
+(b) Constituent local government units may continue to use, modify, or change their existing corporate seals: Provided, That newly established local government units or those without corporate seals may create their own corporate seals which shall be registered with the Ministry of the Interior and Local Government: Provided, further, That any change of corporate seal shall also be registered as provided herein.
+
+(c) Unless otherwise provided in this Code, contract may be entered into by the local chief executive in behalf of the local government unit without prior authorization by the Sanggunian concerned. A legible copy of such contract shall be posted at a conspicuous place in the provincial capitol or the city, municipal or barangay hall.
+
+(d) Constituent local government units shall enjoy full autonomy in the exercise of their proprietary functions and in the management of their economic enterprises, subject to the limitations provided in this Code and other applicable laws.
+
+**SECTION 23. Authority to Negotiate and Secure Grants.** - Local chief executives may, upon authority of the Sanggunian, negotiate and secure financial grants or donations in kind, in support of the basic services or facilities enumerated under Section 17 hereof, from local and foreign assistance agencies without necessity of securing clearance or approval therefor from any department, agency, or office of the regional government or from any higher constituent local government unit.
+
+The local chief executive shall, within thirty (30) days from the signing of such grant, agreement, or deed of donation, report the nature, amount, and terms of such assistance to the Office of the Chief Minister, through the Ministry of the Interior and Local Government.
+
+**SECTION 24. Liability for Damages.** - Constituent local government units and their officials are not exempt from liability for death or injury to persons or damage to property.
+
+**CHAPTER III**
+**Intergovernmental Relations**
+
+**Article I**
+**Bangsamoro Government and its Constituent Local Government Units**
+
+**SECTION 25. Regional Supervision over Local Government Units.**
+
+(a) Consistent with the basic policy on regional autonomy, the Chief Minister shall exercise general supervision over its constituent local government units to ensure that their acts are within the scope of their prescribed powers and functions, without prejudice to the authority of the Chief Minister to regulate the affairs of its constituent local government units, as guaranteed by Republic Act No. 11054. The Chief Minister shall exercise supervisory authority directly over provinces, highly urbanized cities, and independent component cities; through the province with respect to component cities and municipalities; and through the city and municipality with respect to Barangays. ⁷
+
+(b) The authority of the Chief Minister to supervise and regulate the affairs of the constituent local government units shall be exercised to the exclusion of the national government agencies, without prejudice to the power of general supervision of the President of the Republic of the Philippines as provided in R.A. 11054.
+
+(c) The implementation of all national policies and standards concerning the constituent local government units shall be agreed between the National Government and the Bangsamoro Government, as may be provided in the Intergovernmental Relations Mechanism. ⁸
+
+(d) The Bangsamoro Government may by law establish sub-regional offices, as it may deem necessary, to improve efficiency and coordination with local government units and allocate appropriate funding for this purpose.
+
+(e) There shall be coordination between regional agencies and offices as well as with local government units concerned with project the implementation of projects. Participation of local government units shall be ensured both in the planning stage and in the process of implementation.
+
+(f) The Chief Minister may, upon request of the constituent local government unit concerned, thru the MILG, direct the appropriate regional agency to provide financial, technical, or other forms of assistance to the local government unit. Such assistance shall be extended at no extra cost to the local government unit concerned.
+
+(g) Regional agencies and offices including government-owned or - controlled corporations with field units or branches in a province, city, or municipality shall furnish the local chief executive concerned, for his information and guidance, monthly reports including duly certified budgetary allocations and expenditures.
+
+**SECTION 26. Duty of Regional Government Agencies in the Maintenance of Ecological Balance.** - It shall be the duty of every regional agency or government-owned or -controlled corporation authorizing or involved in the planning and implementation of any project or program that may cause pollution, climatic change, depletion of non-renewable resources, loss of crop land, rangeland, or forest cover, and extinction of animal or plant species, to consult with the constituent local government units, nongovernmental organizations, and other sectors concerned and explain the goals and objectives of project or program, its impact upon the people and the community in terms of environmental or ecological balance, and the measures that will be undertaken to prevent or minimize the adverse effects thereof.
+
+**SECTION 27. Prior Consultations Required.** - No project or program shall be implemented by government authorities unless the consultations mentioned in Sections 2 (c) and 26 hereof are complied with, and prior approval of the Sanggunian concerned is obtained: Provided, That occupants in areas where such projects are to be implemented shall not be evicted unless appropriate relocation sites have been provided, in accordance with the provisions of the Constitution.
+
+**ARTICLE II**
+**Relations with the Philippine National Police**
+
+**SECTION 28. Powers of Local Chief Executives over the Units of the Philippine National Police.** - The extent of operational supervision and control of local chief executives over the police force, fire protection unit, and jail management personnel assigned in their respective jurisdictions shall be governed by applicable national law and the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**ARTICLE III**
+**Inter-Local Government Relations**
+
+**SECTION 29. Provincial Relations with Component Cities and Municipalities.** - The province, through the governor, shall ensure that every component city and municipality within its territorial jurisdiction acts within the scope of its prescribed powers and functions. Highly urbanized cities and independent component cities shall be independent of the province.
+
+**SECTION 30. Review of Executive Orders.** - (a) Except as otherwise provided under the Constitution and special statutes, the governor shall review all executive orders promulgated by the component city or municipal mayor within his jurisdiction. The city or municipal mayor shall review all executive orders promulgated by the punong barangay within his jurisdiction. Copies of such orders shall be forwarded to the governor or the city or municipal mayor, as the case may be, within three (3) days from their issuance. In all instances of review, the local chief executive concerned shall ensure that such executive orders are within the powers granted by law and in conformity with provincial, city, or municipal ordinances.
+
+(b) If the governor or the city or municipal Mayor fails to act on said executive orders within thirty (30) days after their submission, the same shall be deemed consistent with law and therefore valid.
+
+(c) Copies of all executive issuances shall be furnished to the Ministry of the Interior and Local Government, through the Local Government Operations Officer assigned in the concerned constituent local government unit.
+
+**SECTION 31. Submission of Municipal Questions to the Provincial Legal Officer or Prosecutor.** - In the absence of a municipal legal officer, the municipal government may secure the opinion of the provincial legal officer or, in the absence of the latter, that of the provincial prosecutor on any legal question affecting the municipality.
+
+**SECTION 32. City and Municipal Supervision over Their Respective Barangays.** - The city or municipality, through the Mayor concerned, shall exercise general supervision over component Barangays to ensure that said barangays act within the scope of their prescribed powers and functions.
+
+**SECTION 33. Cooperative Undertakings Among Constituent Local Government Units.** - Constituent local government units may, through appropriate ordinances, group themselves, consolidate, or coordinate their efforts, services, and resources for purposes commonly beneficial to them. In support of such undertakings, the local government units involved may, upon approval by the Sanggunian concerned after a public hearing conducted for the purpose, contribute funds, real estate, equipment, and other kinds of property, and appoint or assign personnel under such terms and conditions as may be agreed upon by the participating local units through a Memorandum of Agreement.
+
+**CHAPTER IV**
+**Relations with People's and Non-Governmental Organizations**
+
+**SECTION 34. Role of People's and Nongovernmental Organizations.** - Local government units shall promote the establishment and operation of people's and nongovernmental organizations to become active partners in the pursuit of local autonomy.
+
+**SECTION 35. Linkages with People's and Non-Governmental Organizations.**
+
+Local government units may enter into joint ventures and such other cooperative arrangements with people's and nongovernmental organizations to engage in the delivery of certain basic services, capability-building and livelihood projects, and to develop local enterprises designed to improve productivity and income, diversify agriculture, spur rural industrialization, promote ecological balance, and enhance the economic and social well-being of the people.
+
+**SECTION 36. Assistance to People's and Nongovernmental Organizations.** - A local government unit may, through its local chief executive and with the concurrence of its Sanggunian, provide assistance, financial or otherwise, to such people's and nongovernmental organizations for economic, socially-oriented, environmental, or cultural projects to be implemented within its territorial jurisdiction.
+
+**CHAPTER V**
+**Local Bids and Awards Committee**
+
+**SECTION 37. Local Bids and Awards Committee.** - (a) There is hereby created a local bids and awards committee in every province, city, and municipality, which shall be primarily responsible for the procurement of government programs and projects. The committee shall have at least five (5) members but not more than seven (7) members and shall elect among themselves the Chairman and Vice Chairman.
+
+(1) One representative from each regular office under the office of Local Chief Executive such as but not limited to the following: Administrator, Budget Office, Engineering Office, Legal Office and General Services Office;
+
+(2) A representative from the end user unit.
+
+(b) The LBAC shall have the following functions: advertise and/or post the invitation to bid, conduct pre-procurement and pre-bid conferences, determine the eligibility of prospective bidders, receive bids, conduct the evaluation of bids, undertake post-qualification proceedings, recommend award of contracts to the Head of the Procuring Entity of his duly authorized representative: Provided, That in the event the Head of the Procuring shall disapprove such recommendation, such disapproval shall be based only on valid, reasonable and justifiable grounds to be expressed in writing, copy furnished the LBAC; recommend to the Head of the Procuring Entity the use of Alternative Methods of Procurement as provided for in the procurement law or RA 9184; and perform such other related functions as may be necessary. ⁹
+
+**SECTION 38. Local Technical Committee.** - (a) There is hereby created a local technical committee in every province, city and municipality to provide technical assistance to the local prequalification, bids and awards committees. It shall be composed of the three (3) permanent officials preferably from the third ranking and rank and file staff as may be designated by the local bids and awards committee.
+
+(b) The chairman of the local technical committee shall be designated by the local bids and awards committee and shall attend its meeting in order to present the reports and recommendations of the local technical committee.
+
+---
+⁷ The Bangsamoro Local Governance Code intends to strengthen the power of supervision by the Bangsamoro Government, through the MILG and whenever necessary, impose its authority to regulate the affairs of the constituent local government units, in accordance with Sec. 10, Art. VI on Intergovernmental Relations in RA 11054, without diminishing their local autonomy.
+⁸ In order to avoid double supervision over constituent local government units by the DILG- National and the MILG.
+⁹ In accordance with the Amended Implementing Rules and Regulations of R.A. 9184 or the Government Procurement Reform Act.
+
+**TITLE II**
+**ELECTIVE OFFICIALS**
+
+**CHAPTER VI**
+**Qualifications and Election**
+
+**SECTION 39. Qualifications.** - (a) An elective local official must be a citizen of the Philippines; a registered voter in the barangay, municipality, city, or province or, in the case of a member of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang bayan, the district where he intends to be elected; a resident therein for at least one (1) year immediately preceding the day of the election; and able to read and write Filipino or any other local language or dialect, and at least in the College level for provincial, city, and municipal officials, at least in the junior high school level for barangay officials and the sangguniang kabataan chairman, and at least in the elementary level for sangguniang kabataan members. This educational requirement shall also pertain to their equivalent in the Arabic and Islamic educational system. ¹⁰
+
+(b) Candidates for the position of governor, vice- governor or member of the Sangguniang Panlalawigan, or Mayor, vice-mayor or member of the Sangguniang Panlungsod of highly urbanized cities must be at least twenty-three (23) years of age on election day.
+
+(c) Candidates for the position of Mayor or vice-mayor of independent component cities, component cities, municipalities must be at least twenty-one (21) years of age on election day.
+
+(d) Candidates for the position of member of the Sangguniang Panlungsod or Sangguniang bayan must be at least eighteen (18) years of age on election day.
+
+(e) Candidates for the position of Punong Barangay or member of the Sangguniang Barangay must be at least eighteen (18) years of age on election day.
+
+(f) Candidates for the Sangguniang Kabataan must be at least eighteen (18) years of age but not more than twenty-four (24) years of age on election day.
+
+**SECTION 40. Disqualifications.** - The following persons are disqualified from running for any elective local position:
+
+(a) Those sentenced by final judgment for an offense involving moral turpitude or for an offense punishable by one (1) year or more of imprisonment, within two (2) years after serving sentence;
+
+(b) Those removed from office as a result of an administrative case;
+
+(c) Those convicted by final judgment for violating the oath of allegiance to the Republic;
+
+(d) Those with dual citizenship;
+
+(e) Fugitives from justice in criminal or nonpolitical cases here or abroad;
+
+(f) Permanent residents in a foreign country or those who have acquired the right to reside abroad and continue to avail of the same right after the effectivity of this Code;
+
+(g) Those who are related within the second civil degree of consanguinity or affinity to any incumbent local official running for an elective position are disqualified to be candidates for: (i) any provincial elective position in the same province; (ii) any city elective position in the same city; (iii) any municipal elective position in the same municipality; and (iv) any barangay elective position in the same barangay ¹¹;
+
+(h) Those elected local officials in areas outside the Bangsamoro Autonomous Region, who seeks to be elected in the BARMM in the upcoming next local elections; ¹²
+
+(i) Those incumbent officials who seek to run for an office holding a position lower than his/ her current position; ¹³
+
+(j) The insane or feeble-minded.
+
+**SECTION 41. Manner of Election.** - (a) The governor, vice-governor, city mayor, city vice-mayor, municipal mayor, municipal vice-mayor, and Punong Barangay shall be elected at large in their respective units by the qualified voters therein. However, the Sangguniang Kabataan chairman for each barangay shall be elected by the registered voters of the Katipunan ng Kabataan, as provided in this Code.
+
+(b) The regular members of the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang Bayan shall be elected by district, as may be provided for by law. Sangguniang Barangay members shall be elected at large. The presidents of the leagues of Sangguniang members of component cities and municipalities shall serve as ex officio members of the Sangguniang Panlalawigan concerned. The presidents of the Liga ng mga Barangay and the Pederasyon ng mga Sangguniang kabataan elected by their respective chapters, as provided in this Code, shall serve as ex officio members of the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang bayan.
+
+(c) In addition, thereto, there shall be one (1) sectoral representative from the women, one (1) from the workers, and one (1) from any of the following sectors: the urban poor, indigenous cultural communities, disabled persons, or any other sector as may be determined by the Sanggunian concerned within ninety (90) days prior to the holding of the next local elections, as may be provided for by law. The Comelec shall promulgate the rules and regulations to effectively provide for the election of such sectoral representatives.
+
+**SECTION 42. Date of Election.** - Unless otherwise provided by law, the elections for local officials shall be held every three (3) years on the second Monday of May.
+
+**SECTION 43. Term of Office.** - (a) The term of office of all local elective officials shall be three (3) years, starting from noon of June 30, 2022 or such date as may be provided for by law, except that of elective Barangay officials and Sangguniang Kabataan.
+
+(b) No local elective official shall serve for more than three (3) consecutive terms in the same position. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of service for the full term for which the elective official concerned was elected.
+
+(c) The term of office of Barangay officials and members of the Sangguniang Kabataan shall be for three (3) years, which shall begin after the regular election of Barangay officials on the second Monday of May 1994.
+
+**CHAPTER VII**
+**Vacancies and Succession**
+
+**SECTION 44. Permanent Vacancies in the Offices of the Governor, Vice- Governor, Mayor, and Vice-Mayor.** - If a permanent vacancy occurs in the office of the governor or Mayor, the vice-governor or vice-mayor concerned shall become the governor or Mayor. If a permanent vacancy occurs in the offices of the governor, vice- governor, Mayor, or vice-mayor, the highest ranking Sanggunian member or, in case of a disqualification under Section 40 hereof, or his permanent inability, the second highest ranking Sanggunian member, shall become the governor, vice-governor, Mayor or vice- mayor, as the case may be. Subsequent vacancies in the said office shall be filled automatically by the other Sanggunian members according to their ranking as defined herein.
+
+(a) If a permanent vacancy occurs in the office of the Punong Barangay, the highest ranking Sanggunian member or, in case of a disqualification under Section 40 hereof or his permanent inability, the second highest ranking Sanggunian member, shall become the Punong Barangay. In case the next higher ranking Sanggunian member refuses to assume office, he shall be deemed ipso facto resigned.
+
+(b) A tie between or among the highest ranking Sanggunian members shall be resolved by the drawing of lots.
+
+(c) The successors as defined herein shall serve only the unexpired terms of their predecessors. For purposes of this Chapter, a permanent vacancy arises when an elective local official fills a higher vacant office, refuses to assume office, fails to qualify, dies, is removed from office, voluntarily resigns, or is otherwise permanently incapacitated to discharge the functions of his office.
+
+For purposes of succession as provided in this Chapter, ranking in the Sanggunian shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in each district in the immediately preceding local election.
+
+**SECTION 45. Permanent Vacancies in the Sanggunian.** - (a) Permanent vacancies in the Sanggunian where automatic successions provided above do not apply shall be filled by appointment in the following manner:
+
+(1) By the Chief Minister, through the Ministry of Interior and Local Government, in the case of the Sangguniang Panlalawigan and the Sangguniang Panlungsod; by the governor, in the case of the Sangguniang Panlungsod of component cities and the Sangguniang Bayan;
+
+(2) By the city or municipal Mayor, in the case of Sangguniang Barangay, upon recommendation of the Sangguniang Barangay concerned.
+
+(b) Except for the Sangguniang Barangay, only the nominee of the political party under which the Sanggunian member concerned had been elected and whose elevation to the position next higher in rank created the last vacancy in the Sanggunian shall be appointed in the manner hereinabove provided. The appointee shall come from the same political party as that of the Sanggunian member who caused the vacancy and shall serve the unexpired term of the vacant office. In the appointment herein mentioned, a nomination and a certificate of membership of the appointee from the highest official of the political party concerned are conditions sine qua non, and any appointment without such nomination and certification shall be null and void ab initio and shall be a ground for administrative action against the official responsible therefor.
+
+(c) In case the permanent vacancy is caused by a Sanggunian member who does not belong to any political party, the Chief Minister shall, through the Ministry of the Interior and Local Government, upon recommendation of the Sanggunian concerned, appoint a qualified person to fill the vacancy.
+
+(d) In case of vacancy in the representation of the youth and the Barangay in the Sanggunian, said vacancy shall be filled automatically by the official next in rank of the organization concerned.
+
+**SECTION 46. Temporary Vacancy in the Office of the Local Chief Executive.**-(a) When the governor, city or municipal Mayor, or Punong Barangay is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad, and suspension from office, the vice- governor, city or municipal vice-mayor, or the highest ranking Sangguniang Barangay member, as the case may be, shall automatically exercise the powers and perform the duties and functions of the local chief executive concerned, except the power to appoint, suspend, or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
+
+(b) Said temporary incapacity shall terminate upon submission to the appropriate Sanggunian of a written declaration by the local chief executive concerned that he has reported back to office. In cases where the temporary incapacity is due to legal causes, the local chief executive concerned shall also submit necessary documents showing that said legal causes no longer exist.
+
+(c) When the incumbent local chief executive is traveling within the country but outside his territorial jurisdiction for a period not exceeding three (3) consecutive days, he may designate in writing the officer-in-charge of the said office. Such authorization shall specify the powers and functions that the local official concerned shall exercise in the absence of the local chief executive except the power to appoint, suspend, or dismiss employees.
+
+(d) In the event, however, that the local chief executive concerned fails or refuses to issue such authorization, the vice-governor, the city or municipal vice-mayor, or the next highest ranking Sangguniang Barangay member, as the case may be, shall have the right to assume the powers, duties, and functions of the said office on the fourth (4th) day of absence of the said local chief executive, subject to the limitations provided in subsection (c) hereof.
+
+(e) Except as provided above, the local chief executive shall in no case authorize any local official to assume the powers, duties, and functions of the office, other than the vice-governor, the city or municipal vice- Mayor, or the highest ranking Sangguniang Barangay member, as the case maybe.
+
+**SECTION 47. Other Permanent Vacancies.** In the case of a barangay where despite the application of the modes of succession or for reasons which will render the said modes of succession inapplicable, there remain vacancies in certain local positions which may effectively hamper the operations of the local government unit, the Minister of the Interior and Local Government shall designate a qualified person for the local elective position concerned.
+
+Such person so designated shall exercise the powers and the duties and functions of the local government position as provided by this Code and other existing laws. Provided, however, that the designee has not been a candidate for any elective position during the recently concluded election; provided, further, that the person designated shall act with the highest degree of integrity, impartiality, and fairness at all times; provided, finally, that the designee must possess all the qualifications and none of the disqualifications prescribed for the corresponding elective office.
+
+In case of multiple vacancies, the Minister of the Interior and Local Government may make simultaneous appointments, provided that the rules set forth in the preceding paragraph shall be strictly observed.
+
+**SECTION 48. Temporary Vacancy Due to Failure of Elections-** (a) In case of vacancy due to failure of elections in a province, city, or municipality before noon of June 30 of the election year, the Chief Minister shall appoint a local official in an acting capacity until a qualified duly elected official shall have been proclaimed and assumed office;
+
+(b) In the case of barangay officials, the Minister of the Ministry of the Interior and Local Government shall appoint an acting official until a qualified duly elected one shall have been proclaimed and assumed office;
+
+(c) A selection committee composed of traditional and religious leaders, and MILG field officers assigned in the concerned locality shall assist the Chief Minister or the Minister of the Ministry of the Interior and Local Government, as the case may be, in determining the most qualified applicants acceptable to the constituents of the concerned locality.¹⁴
+
+**SECTION 49. Approval of Leaves of Absence.** - (a) Leaves of absence of local elective officials shall be approved as follows:
+
+(1) Leaves of absence of the governor and the Mayor of a highly urbanized city or an independent component city shall be approved by the Chief Minister or his duly authorized representative;
+
+(2) Leaves of absence of a vice-governor or a city or municipal vice- mayor shall be approved by the local chief executive concerned: Provided, That the leaves of absence of the members of the Sanggunian and its employees shall be approved by the vice- governor or city or municipal vice- mayor concerned;
+
+(3) Leaves of absence of the component city or municipal Mayor shall be approved by the governor; and
+
+(4) Leaves of absence of a Punong Barangay shall be approved by the city or municipal mayor: Provided, that leaves of absence of Sangguniang Barangay members shall be approved by the Punong Barangay.
+
+(b) Whenever the application for leave of absence hereinabove specified is not acted upon within five (5) working days after receipt thereof, the application for leave of absence shall be deemed approved.
+
+(c) In all cases, application for leave of absence shall be furnished to the Ministry of the Interior and Local Government (MILG)
+
+**CHAPTER VIII**
+**Local Legislation**
+
+**SECTION 50. Local Legislative Power.** - Local legislative power shall be exercised by the Sangguniang Panlalawigan for the province; the Sangguniang Panlungsod for the city; the Sangguniang bayan for the municipality; and the Sangguniang Barangay for the Barangay.
+
+**SECTION 51. Presiding Officer.** - (a) The vice-governor shall be the presiding officer of the Sangguniang Panlalawigan; the city vice-mayor, of the Sangguniang Panlungsod; the municipal vice-mayor, of the Sangguniang bayan; and the Punong Barangay, of the Sangguniang Barangay. The presiding officer shall vote only to break a tie.
+
+(b) In the event of the inability of the regular Presiding officer to preside at a Sanggunian session, (when he has not designated a temporary presiding officer,) the members present and constituting a quorum shall elect from among themselves a temporary presiding officer. He shall certify within ten (10) days from the passage of ordinances enacted and resolutions adopted by the Sanggunian in the session over which he temporarily presided.
+
+(c) The vice-governor, the city vice-mayor, or the municipal vice-mayor shall not be allowed to chair any of the regular standing committee of the Sanggunian concerned.
+
+**SECTION 52. Internal Rules of Procedure.** - (a) Within ninety days following the election of its members, the every Sanggunian shall adopt or update its existing rules of procedure.
+
+(b) The rules of procedure shall provide for the following:
+
+(1) The organization of the Sanggunian and the election of its officers as well as the creation of standing committees which shall include, but shall not be limited to, the committees on appropriations, women and family, human rights, youth and sports development, environmental protection, and cooperatives; the general jurisdiction of each committee; and the election of the chairman and members of each committee;
+
+(2) The order and calendar of business for each session;
+
+(3) The legislative process;
+
+(4) The parliamentary procedures which include the conduct of members during sessions;
+
+(5) The discipline of members for disorderly behavior and absences without justifiable cause for four (4) consecutive sessions, for which they may be censured, reprimanded, or excluded from the session, suspended for not more than sixty (60) days, or expelled: Provided, That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the Sanggunian members: Provided, further, That a member convicted by final judgment to imprisonment of at least one (1) year for any crime involving moral turpitude shall be automatically expelled from the Sanggunian; and
+
+(6) Such other rules as the Sanggunian may adopt.
+
+**SECTION 53. Full Disclosure of Financial and Business Interests of Sanggunian Members.** - (a) Every Sanggunian member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial, or professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm, or entity affected by any ordinance or resolution under consideration by the Sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
+
+(1) Ownership of stock or capital, or investment, in the entity or firm to which the ordinance or resolution may apply; and
+
+(2) Contracts or agreements with any person or entity which the ordinance or resolution under consideration may affect. In the absence of a specific constitutional or statutory provision applicable to this situation, "conflict of interest" refers in general to one where it may be reasonably deduced that a member of a Sanggunian may not act in the public interest due to some private, pecuniary, or other personal considerations that may tend to affect his judgment to the prejudice of the service or the public.
+
+(b) The disclosure required under this Act shall be made in writing and submitted to the secretary of the Sanggunian or the secretary of the committee of which he is a member. The disclosure shall, in all cases, form part of the record of the proceedings and shall be made in the following manner:
+
+(1) Disclosure shall be made before the member participates in the deliberations on the ordinance or resolution under consideration: Provided, That, if the member did not participate during the deliberations, the disclosure shall be made before voting on the ordinance or resolution on second and third readings; and
+
+(2) Disclosure shall be made when a member takes a position or makes a privilege speech on a matter that may affect the business interest, financial connection, or professional relationship described herein.
+
+**SECTION 54. Sessions.** - (a) On the first day of the session immediately following the election of its members, the Sanggunian shall, by resolution, fix the day, time, and place of its regular sessions. The minimum number of regular sessions shall be once a week for the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang Bayan, and twice a month for the Sangguniang Barangay.
+
+(b) When public interest so demands, special sessions may be called by the local chief executive or by a majority of the members of the Sanggunian.
+
+(c) All Sanggunian sessions shall be open to the public unless a closed-door session is ordered by an affirmative vote of a majority of the members present, there being a quorum, in the public interest or for reasons of security, decency, or morality. No two (2) sessions, regular or special, may be held in a single day.
+
+(d) In the case of special sessions of the Sanggunian, a written notice containing a specific agenda to the members shall be served personally at the member's usual place of residence at least twenty- four (24) hours before the special session is held. Unless otherwise concurred in by two- thirds (2/3) vote of the Sanggunian members present, there being a quorum, no other matters may be considered at a special session except those stated in the notice.
+
+(e) The Sanggunian may use a local dialect in conducting regular and special sessions, provided that the minutes of the proceedings shall be translated by the Secretary to the Sanggunian in the English or Tagalog language;
+
+(f) Each Sanggunian shall keep a journal and record of its proceedings which may be published upon resolution of the Sanggunian concerned.
+
+**SECTION 55. Quorum.** - (a) A majority of all the members of the Sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
+
+(b) Where there is no quorum, the presiding officer may declare a recess until such time as a quorum is constituted, or a majority of the members present may adjourn from day to day and may compel the immediate attendance of any member absent without justifiable cause by designating a member of the Sanggunian, to be assisted by a member or members of the police force assigned in the territorial jurisdiction of the local government unit concerned, to arrest the absent member and present him at the session.
+
+(c) If there is still no quorum despite the enforcement of the immediately preceding subsection, no business shall be transacted. The presiding officer, upon proper motion duly approved by the members present, shall then declare the session adjourned for lack of quorum.
+
+(d) Sanggunian members who fail to attend four (4) consecutive regular or special sessions; without justifiable reason shall, after due process, be preventively suspended for a period not exceeding ninety (90) days without pay, upon filing of a complaint by the concerned Sanggunian or any concerned citizen to the Ministry of the Interior and Local Government, whose decision shall take effect immediately. ¹⁵
+
+**SECTION 56. Approval of Ordinances.** - (a) Every ordinance enacted by the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang Bayan shall, before it becomes a law, be presented to the provincial governor or city or municipal mayor, as the case may be. If the local chief executive concerned approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the Sanggunian, which may proceed to reconsider the same. The Sanggunian concerned may override the veto of the local chief executive by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
+
+(b) The local chief executive concerned shall approve the ordinance, or his veto thereon communicated to the concerned to the Sanggunian, within fifteen (15) days in the case of a province, and ten (10) days in the case of a city or a municipality; otherwise, the ordinance shall be deemed approved as if he had sign edit.
+
+(c) ordinances enacted by the Sangguniang Barangay shall, upon approval by the majority of all its members, be signed by the Punong Barangay.
+
+**SECTION 57. Veto Power of the Local Chief Executive.** - (a) The local chief executive may veto any ordinance of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang Bayan on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons therefor in writing.
+
+(b) The local chief executive, except the Punong Barangay, shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan and public investment program, or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the Sanggunian overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
+
+(c) The local chief executive may veto an ordinance or resolution only once. The Sanggunian may override the veto of the local chief executive concerned by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the local chief executive concerned.
+
+**SECTION 58. Review of Component City and Municipal Ordinances or Resolutions by the Sangguniang Panlalawigan.** - (a) Within three (3) days after approval, the secretary to the Sanggunian Panlungsod or Sangguniang bayan shall forward to the Sangguniang Panlalawigan for review, copies of approved ordinances and the resolutions approving the local development plans and public investment programs formulated by the local development councils.
+
+(b) Within thirty (30) days after receipt of copies of such ordinances and resolutions, the Sangguniang Panlalawigan shall examine the documents or transmit them to the provincial attorney, or if there be none, to the provincial prosecutor for prompt examination. The provincial attorney or provincial prosecutor shall, within a period of ten (10) days from receipt of the documents, inform the Sangguniang Panlalawigan in writing of his comments or recommendations, which may be considered by the Sangguniang Panlalawigan in making its decision.
+
+(c) If the Sangguniang Panlalawigan finds that such an ordinance or resolution is beyond the power conferred upon the Sangguniang Panlungsod or Sangguniang bayan concerned, it shall declare such ordinance or resolution invalid in whole or in part. The Sangguniang Panlalawigan shall enter its action in the minutes and shall advise the corresponding city or municipal authorities of the action it has taken.
+
+(d) If no action has been taken by the Sangguniang Panlalawigan within thirty (30) days after submission of such an ordinance or resolution, the same shall be presumed consistent with law and therefore valid.
+
+(e) Copies of ordinances and resolutions passed by the above-mentioned Sanggunian shall be furnished to the Ministry of the Interior and Local Government for information and record purposes.
+
+**SECTION 59. Review of Barangay Ordinances by the Sangguniang Panlungsod or Sangguniang Bayan.** - (a) Within ten (10) days after its enactment, the Sangguniang Barangay shall furnish copies of all Barangay ordinances to the Sangguniang Panlungsod or Sangguniang bayan concerned for review as to whether the ordinance is consistent with law and city or municipal ordinances.
+
+(b) If the Sangguniang Panlungsod or Sangguniang bayan, as the case maybe, fails to take action on Barangay ordinances within thirty (30) days from receipt thereof, the same shall be deemed approved.
+
+(c) If the Sangguniang Panlungsod or Sangguniang bayan, as the case may be, finds the Barangay ordinances inconsistent with law or city or municipal ordinances, the Sanggunian concerned shall, within thirty (30) days from receipt thereof, return the same with its comments and recommendations to the Sangguniang Barangay concerned for adjustment, amendment, or modification; in which case, the effectivity of the Barangay ordinance is suspended until such time as the revision called for is effected.
+
+**SECTION 60. Enforcement of Disapproved ordinances or Resolutions.** - Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program, after the disapproval thereof, shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
+
+**SECTION 61. Effectivity of Ordinances or Resolutions.** (a) Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted in a bulletin board at the entrance of the provincial capitol or city, municipal, or Barangay hall, as the case may be, and in at least two (2) other conspicuous places in the local government unit concerned.
+
+(b) The secretary to the Sanggunian concerned shall cause the posting of an ordinance or resolution in the bulletin board at the entrance of the provincial capitol and the city, municipal, or Barangay hall in at least two (2) conspicuous places in the local government unit concerned not later than five (5) days after approvalthereof.
+
+The text of the ordinance or resolution shall be disseminated and posted in Filipino or English and in the language or dialect understood by the majority of the people in the local government unit concerned, and the secretary to the Sanggunian shall record such fact in a book kept for the purpose, stating the dates of approval and posting.
+
+(c) The gist of all ordinances with penal sanctions shall be published in a newspaper of general circulation within the province where the local legislative body concerned belongs. In the absence of any newspaper of general circulation within the province, posting of such ordinances shall be made in all municipalities and cities of the province where the Sanggunian of origin issituated.
+
+(d) In the case of highly urbanized cities, the main features of the ordinance or resolution duly enacted or adopted shall, in addition to being posted, be published once in a local newspaper of general circulation within the city: Provided, That in the absence thereof the ordinance or resolution shall be published in any newspaper of general circulation.
+
+**CHAPTER IX**
+**Disciplinary Actions**
+
+**SECTION 62. Grounds for Disciplinary Actions.** - An elective local official may be disciplined, suspended, or removed from office on any of the following grounds:
+
+(a) Disloyalty to the Republic of the Philippines;
+
+(b) Culpable violation of the Constitution;
+
+(c) Dishonesty, oppression, misconduct in office, gross negligence, or dereliction of duty;
+
+(d) Commission of any offense involving moral turpitude or an offense punishable by at least prision mayor;
+
+(e) Abuse of authority;
+
+(f) Unauthorized absence for fifteen (15) consecutive working days, except in the case of members of the Sangguniang Panlalawigan, Sangguniang Panlungsod, Sangguniang bayan, and Sangguniang Barangay;
+
+(g) Application for, or acquisition of, foreign citizenship or residence or the status of an immigrant of another country; and
+
+(h) Such other grounds as may be provided in this Code and other laws. An elective local official may be removed from office on the grounds enumerated above by order of the proper court.
+
+**Section 63. Form and Filing of Administrative Complaints.** – An administrative complaint against a local elective official must be verified and filed with:
+
+(a) The Office of the Chief Minister, through the Ministry of Interior and Local Government, when the complaint is against any elective official of a province, a highly urbanized city, an independent component city or component city;
+
+(b) The Sangguniang Panlalawigan, whose decisions on questions of fact is final and executory, when the complaint is against an official of a component city or municipality;
+
+(c) The Sangguniang Panlungsod or Pambayan concerned, whose decisions on questions of fact is final and executory, when the complaint is against a barangay official; and
+
+(d) The Office of the Chief Minister, through the Ministry of Interior and Local Government, shall have concurrent jurisdiction over administrative complaints against any local elective officials in the Bangsamoro Autonomous Region in Muslim Mindanao, to the exclusion of the concerned constituent local government unit, when there is reasonable ground that a fair and just resolution may be obtained only through direct filing of the complaint in the Region. ¹⁶
+
+i. The Ministry of the Interior and Local Government upon receipt of the complaint shall commence administrative investigation, the findings and recommendation of which shall be submitted to the Chief Minister. The Chief Minister may adopt said findings and recommendation or at its discretion may require the appearance of all parties in the case for some clarificatory question or some additional evidence before deciding on the case. The Chief Minister shall not have the power to remove elected officials. The maximum penalty that may be imposed by the Chief Minister is suspension for a period of six (6) months for every administrative case.
+
+**SECTION 64. Notice of Hearing.** – (a) Within seven (7) days after the administrative complaint is filed, the Office of the Chief Minister, through the Ministry of the Interior and Local Government or the Sanggunian concerned, as the case may be, shall require the respondent to submit his verified answer within fifteen (15) days from receipt thereof, and commence the investigation of the case within ten (10) days after receipt of answer of the respondent.
+
+(b) When the respondent is an elective official of a province or highly urbanized city, such hearing and investigation shall be conducted in the place where he renders or holds office. For all other local elective officials, the venue shall be the place where the Sanggunian concerned is located.
+
+(c) However, no investigation shall be held within ninety (90) days immediately prior to any local election, and no preventive suspension shall be imposed within the said period. If preventive suspension has been imposed prior to the 90-day period immediately preceding local election, it shall be deemed automatically lifted upon the start of aforesaid period.
+
+(d) In cases where the complaint is filed before the Chief Minister, through the Ministry of the Interior and Local Government, in the exercise of its concurrent jurisdiction, the venue of the hearing and investigation shall be determined by the hearing officer, which shall be within the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+**SECTION 65. Preventive Suspension.** - (a) Preventive suspension may be imposed:
+
+(1) By the Office of the Chief Minister, through the Ministry of the Interior and Local Government, if the respondent is an elective official of a province, or a highly urbanized or an independent component city;
+
+(2) By the governor, if the respondent is an elective official of a component city or municipality; or
+
+(3) By the mayor, if the respondent is an elective official of the barangay.
+
+(4) By the Office of the Chief Minister, through the Ministry of the Interior and Local Government, in the exercise of its concurrent jurisdiction if the complaint is filed in accordance with paragraph (d) of Section 61.
+
+(b) Preventive suspension may be imposed at any time after the issues are joined, when the evidence of guilt is strong, and given the gravity of the offense, there is great probability that the continuance in office of the respondent could influence the witnesses or pose a threat to the safety and integrity of the records and other evidence: Provided, That, any single preventive suspension of local elective officials shall not extend beyond sixty (60) days: Provided, further, That in the event that several administrative cases are filed against an elective official, he cannot be preventively suspended for more than ninety (90) days within a single year on the same ground or grounds existing and known at the time of the first suspension.
+
+(c) Upon expiration of the preventive suspension, the suspended elective official shall be deemed reinstated in office without prejudice to the continuation of the proceedings against him, which shall be terminated within one hundred twenty (120) days from the time he was formally notified of the case against him. However, if the delay in the proceedings of the case is due to his fault, neglect, or request, other than the appeal duly filed, the duration of such delay shall not be counted in computing the time of termination of the case.
+
+(d) Any abuse of the exercise of the power of preventive suspension shall be penalized as abuse of authority.
+
+**SECTION 66. Salary of Respondent Pending Suspension.** - The respondent official preventively suspended from office shall receive no salary or compensation during such suspension; but, upon subsequent exoneration and reinstatement, he shall be paid full salary or compensation including such emoluments accruing during such suspension.
+
+**SECTION 67. Rights of Respondent** - The respondent shall be accorded full opportunity to appear and defend himself in person or by counsel, to confront and cross-examine the witnesses against him, and to require the attendance of witnesses and the production of documentary evidence in his favor through the compulsory process of subpoena or subpoena duces tecum.
+
+**SECTION 68. Form and Notice of Decision.** - (a) The investigation of the case shall be terminated within ninety (90) days from the start thereof. Within thirty (30) days after the end of the investigation, the Office of the Chief Minister, through the Ministry of the Interior and Local Government or the Sanggunian concerned shall render a decision in writing stating clearly and distinctly the facts and the reasons for such decision. Copies of said decision shall immediately be furnished the respondent and all interested parties.
+
+(b) The penalty of suspension shall not exceed the unexpired term of the respondent or a period of six (6) months for every administrative offense, nor shall said penalty be a bar to the candidacy of the respondent so suspended as long as he meets the qualifications required for the office.
+
+(c) The penalty of removal from office as a result of an administrative investigation shall be considered a bar to the candidacy of the respondent for any elective position.
+
+**SECTION 69. Administrative Appeals.** - Decisions in administrative cases may, within thirty (30) days from receipt thereof, be appealed to the following:
+
+(a) The Sangguniang Panlalawigan, in the case of decisions of the Sangguniang Panlungsod of component cities and the Sangguniang bayan; and
+
+(b) The Office of the Chief Minister, through the Ministry of Interior and Local Government, in the case of decisions of the Sangguniang Panlalawigan and the Sangguniang Panlungsod of highly urbanized cities and independent component cities. Decisions of the Office of the Chief Minister, through the Ministry of Interior and Local Government, shall be final and executory.
+
+**SECTION 70. Execution Pending Appeal.** - An appeal shall not prevent a decision from becoming executory. The respondent shall be considered as having been placed under preventive suspension during the pendency of an appeal in the event he wins such appeal. In the event the appeal results in an exoneration, he shall be paid his salary and such other emoluments during the pendency of the appeal.
+
+**CHAPTER X**
+**Recall**
+
+**SECTION 71. By Whom Exercised.** - The power of recall for loss of confidence shall be exercised by the registered voters of a local government unit to which the local elective official subject to such recall belongs.
+
+**SECTION 72. Initiation of the Recall Process.** - (a) Recall may be initiated by a preparatory recall assembly or by the registered voters of the local government unit to which the local elective official subject to such recall belongs.
+
+(b) There shall be a preparatory recall assembly in every province, city, district, and municipality which shall be composed of the following:
+
+(1) Provincial level. - All mayors, vice-mayors, and Sanggunian members of the municipalities and component cities;
+
+(2) City level. - All Punong Barangay and Sangguniang Barangay members in the city;
+
+(3) Legislative District level. - In cases where Sangguniang Panlalawigan members are elected by district, all elective municipal officials in the district; and in cases where Sangguniang Panlungsod members are elected by district, all elective Barangay officials in the district; and
+
+(4) Municipal level. - All Punong Barangay and Sangguniang Barangay members in the municipality.
+
+(c) A majority of all the preparatory recall assembly members may convene in session in a public place and initiate a recall proceeding against any elective official in the local government unit concerned. Recall of provincial, city, or municipal officials shall be validly initiated through a resolution adopted by a majority of all the members of the preparatory recall assembly convened during its session called for the purpose.
+
+(d) Recall of any elective provincial, city, municipal, or Barangay official may also be validly initiated upon petition of at least twenty-five percent (25%) of the total number of registered voters in the local government unit concerned during the election in which the local official sought to be recalled was elected.
+
+(1) A written petition for recall duly signed before the election registrar or his representative, and in the presence of a representative of the petitioner and a representative of the official sought to be recalled, and in a public place in the province, city, municipality, or barangay, as the case may be, shall be filed with the Comelec through its office in the local government unit concerned. The Comelec or its duly authorized representative shall cause the publication of the petition in a public and conspicuous place for a period of not less than ten (10) days nor more than twenty (20) days, for the purpose of verifying the authenticity and genuineness of the petition and the required percentage of voters.
+
+(2) Upon the lapse of the aforesaid period, the Comelec or its duly authorized representative shall announce the acceptance of candidates to the position and thereafter prepare the list of candidates which shall include the name of the official sought to be recalled.
+
+**SECTION 73. Election on Recall.** - Upon the filing of a valid resolution or petition for recall with the appropriate local office of the Comelec, the Commission or its duly authorized representative shall set the date of the election on recall, which shall not be later than thirty (30) days after the filing of the resolution or petition for recall in the case of the barangay, city, or municipal officials, and forty-five (45) days in the case of provincial officials. The official or officials sought to be recalled shall automatically be considered as duly registered candidate or candidates to the pertinent positions and, like other candidates, shall be entitled to be voted upon.
+
+**SECTION 74. Effectivity of Recall.** - The recall of an elective local official shall be effective only upon the election and proclamation of a successor in the person of the candidate receiving the highest number of votes cast during the election on recall. Should the official sought to be recalled receive the highest number of votes, confidence in him is thereby affirmed, and he shall continue in office.
+
+**SECTION 75. Prohibition from Resignation.** - The elective local official sought to be recalled shall not be allowed to resign while the recall process is in progress.
+
+**SECTION 76. Limitations on Recall.** - (a) Any elective local official may be subject of a recall election only once during his term of office for loss of confidence.
+
+(b) No recall shall take place within one (1) year from the date of the official's assumption to office or one (1) year immediately preceding a regular local election.
+
+**SECTION 77. Expenses Incident to Recall Elections.** - All expenses incident to recall elections shall be borne by the Comelec. For this purpose, there shall be included in the annual General Appropriations Act a contingency fund at the disposal of the Comelec for the conduct of recall elections.
+
+---
+¹⁰ An added qualification that aims to curtail political dynasty in the Autonomous Region. This qualification is not related to the requirement on citizenship, residency, age, and educational attainment; and hence does not in any way diminish the qualifications provided in the 1987 Philippine Constitution for elective officials of higher positions, such as the Presidency.
+¹¹ Anti-dynasty proposed provision.
+¹² This is to prevent circumvention of the law on the term of office of elective local officials, which shall be no more than three consecutive terms (Sec. 8, Article X, 1987 Philippine Constitution.)
+¹³ This is to prevent reports of unethical practices by local officials to continue holding their positions.
+¹⁴ To prevent the unethical practice of local officials in circumventing the rule on hold-over.
+¹⁵ Based on reports from the ground, local legislative bodies in many municipalities and barangays are not functional due to their failure to constitute quorum. f
+¹⁶ Concurrent jurisdiction of the Office of the Chief Minister, through the MILG, with the local legislative bodies, over administrative complaints against local elective officials, as part of strengthening the power of supervision of the Bangsamoro Government to its constituent local government units.
+
+**TITLE III**
+**HUMAN RESOURCES AND DEVELOPMENT**
+
+**SECTION 78. Organizational Structure and Staffing Pattern.** - Every local government unit shall design and implement its own organizational structure and staffing pattern taking into consideration its service requirements and financial capability, subject to the minimum standards and guidelines prescribed by the Civil Service Commission.
+
+The Ministry of the Interior and Local Government, the Ministry of Finance, and Budget and Management, and the Civil Service Commission shall conduct periodic financial and personnel audit of local government units to determine their capacity to enjoy full devolution as provided in this Code.
+
+**SECTION 79. Responsibility for Human Resources and Development.** - The chief executive of every local government unit shall be responsible for human resources and development in his unit and shall take all personnel actions in accordance with the Constitutional provisions on civil service, pertinent laws, and rules and regulations thereon, including such policies, guidelines and standards as the Parliament may establish: Provided, That the local chief executive may employ emergency or casual employees or laborers paid on a daily wage or piecework basis and hired through job orders for local projects authorized by the Sanggunian concerned, without need of approval or attestation by the Civil Service Commission: Provided, further, That the period of employment of emergency or casual laborers as provided in this Section shall not exceed six (6) months.
+
+**SECTION 80. Civil Service Law, Rules and Regulations, and Other Related Issuances.** - All matters pertinent to human resources and development in local government units shall be governed by the civil service law and such rules and regulations and other issuances promulgated pursuant thereto, unless otherwise specified in this Code.
+
+**SECTION 81. Limitation on Appointments.** - No person shall be appointed in the career service of the local government if he is related within the fourth civil degree of consanguinity or affinity to the appointing or recommending authority.
+
+**SECTION 82. Public Notice of Vacancy; Personnel Selection Board.** - (a) Whenever a local chief executive decides to fill a vacant career position, there shall be posted notices of the vacancy in at least three (3) conspicuous public places in the local government unit concerned for a period of not less than fifteen (15) days.
+
+(b) There shall be established in every province, city or municipality a personnel selection board to assist the local chief executive in the judicious and objective selection of personnel for employment as well as for promotion, and in the formulation of such policies as would contribute to employeewelfare.
+
+(c) The personnel selection board shall be headed by the local chief executive, and its members shall be determined by resolution of the Sanggunian concerned. A representative of the Civil Service Commission, if any, and the personnel officer of the local government unit concerned shall be ex officio members of the board.
+
+**SECTION 83. Compensation of Local Officials and Employees.** - The compensation of local officials and personnel shall be determined by the Sanggunian concerned: Provided, That the increase in compensation of elective local officials shall take effect only after the terms of office of those approving such increase shall have expired: Provided, further, That the increase in compensation of the appointive officials and employees shall take effect as provided in the ordinance authorizing such increase: Provided, however, That said increases shall not exceed the limitations on budgetary allocations for personal services provided under Title Five, Book II of this Code: Provided, finally, That such compensation may be based upon the pertinent laws that may be enacted by the Parliament.
+
+The Punong Barangay, the Sangguniang Barangay members, the Sangguniang Kabataan chairman, the Barangay treasurer, and the Barangay secretary shall be entitled to such compensation, allowances, emoluments, and such other privileges as provided under Title One, Book III of this Code.
+
+Elective local officials shall be entitled to the same leave privileges as those enjoyed by appointive local officials, including the cumulation and commutation thereof.
+
+**SECTION 84. Resignation of Elective Local Officials.** - (a) Resignations by elective local officials shall be deemed effective only upon acceptance by the following authorities:
+
+(1) The Chief Minister, in the case of governors, vice- governors, and mayors and vice-mayors of highly urbanized cities and independent component cities;
+
+(2) The governor, in the case of municipal mayors, municipal vice- mayors, city mayors and city vice-mayors of component cities;
+
+(3) The Sanggunian concerned, in the case of Sanggunian members; and
+
+(4) The city or municipal mayor, in the case of Barangay officials.
+
+(b) Copies of the resignation letters of elective local officials, together with the action taken by the aforesaid authorities, shall be furnished the Ministry of the Interior and Local Government.
+
+(c) The resignation shall be deemed accepted if not acted upon by the authority concerned within fifteen (15) working days from receipt thereof.
+
+(d) Irrevocable resignations by Sangguniang members shall be deemed accepted upon presentation before an open session of the Sanggunian concerned and duly entered in its records: Provided, however, That this subsection does not apply to Sangguniang members who are subject to recall elections or to cases where existing laws prescribe the manner of acting upon such resignations.
+
+(e) Resigned elective officials shall not be qualified for appointment to the same elected positions within the entire duration of a single term.
+
+**SECTION 85. Grievance Procedure.** - In every local government unit, the local chief executive shall establish a procedure to inquire into, act upon, resolve or settle complaints and grievances presented by local government employees.
+
+**SECTION 86. Administrative Discipline.** - Investigation and adjudication of administrative complaints against appointive local officials and employees as well as their suspension and removal shall be in accordance with the civil service law and rules and other pertinent laws. The results of such administrative investigations shall be reported to the Civil Service Commission.
+
+**SECTION 87. Preventive Suspension of Appointive Local Officials and Employees.** - (a) The local chief executives may preventively suspend for a period not exceeding sixty (60) days any subordinate official or employee under his authority pending investigation if the charge against such official or employee involves dishonesty, oppression or grave misconduct or neglect in the performance of duty, or if there is reason to believe that the respondent is guilty of the charges which would warrant his removal from the service.
+
+(b) Upon expiration of the preventive suspension, the suspended official or employee shall be automatically reinstated in office without prejudice to the continuation of the administrative proceedings against him until its termination. If the delay in the proceedings of the case is due to the fault, neglect or request of the respondent, the time of the delay shall not be counted in computing the period of suspension herein provided.
+
+**SECTION 88. Administrative Investigation.** - In any local government unit, administrative investigation may be conducted by a person or a committee duly authorized by the local chief executive. Said person or committee shall conduct hearings on the cases brought against appointive local officials and employees and submit their findings and recommendations to the local chief executive concerned within fifteen (15) days from the conclusion of the hearings. The administrative cases herein mentioned shall be decided within ninety (90) days from the time the respondent is formally notified of the charges.
+
+**SECTION 89. Disciplinary Jurisdiction.** - Except as otherwise provided by law, the local chief executive may impose the penalty of removal from service, demotion in rank, suspension for not more than one (1) year without pay, fine in an amount not exceeding six (6) months' salary, or reprimand and otherwise discipline subordinate officials and employees under his jurisdiction. If the penalty imposed is suspension without pay for not more than thirty (30) days, his decision shall be final. If the penalty imposed is heavier than suspension of thirty (30) days, the decision shall be appealable to the Civil Service Commission, which shall decide the appeal within thirty (30) days from receipt thereof.
+
+**SECTION 90. Execution Pending Appeal.** - An appeal shall not prevent the execution of a decision of removal or suspension of a respondent- appellant. In case the respondent-appellant is exonerated, he shall be reinstated to his position with all the rights and privileges appurtenant thereto from the time he had been deprived thereof.
+
+**SECTION 91. Prohibited Business and Pecuniary Interest.** - (a) It shall be unlawful for any local government official or employee, directly or indirectly, to:
+
+(1) Engage in any business transaction with the local government unit in which he is an official or employee or over which he has the power of supervision, or with any of its authorized boards, officials, agents, or attorneys, whereby money is to be paid, or property or any other thing of value is to be transferred, directly or indirectly, out of the resources of the local government unit to such person or firm;
+
+(2) Hold such interests in any cockpit or other games licensed by a local government unit.
+
+(3) Purchase any real estate or other property forfeited in favor of such local government unit for unpaid taxes or assessment, or by virtue of a legal process at the instance of the said local government unit.
+
+(4) Be a surety for any person contracting or doing business with the local government unit for which a surety is required; and
+
+(5) Possess or use any public property of the local government unit for private purposes.
+
+(6) Commission of any of the prohibited acts as enumerated above shall be a sufficient ground for disciplinary action as provided in Section 60 of this Code, without prejudice to criminal charges that may arise out of the act.
+
+(b) All other prohibitions governing the conduct of national public officers relating to prohibited business and pecuniary interest so provided for under Republic Act No. 6713 otherwise known as the "Code of Conduct and Ethical Standards for Public Officials and Employees" and other laws shall also be applicable to local government officials and employees.
+
+**SECTION 92. Practice of Profession.** - (a) All governors, city and municipal mayors are prohibited from practicing their profession or engaging in any occupation other than the exercise of their functions as local chief executives.
+
+(b) Sanggunian members may practice their professions, engage in any occupation, or teach in schools except during session hours: Provided, That Sanggunian members who are also members of the Bar shall not:
+
+(1) Appear as counsel before any court in any civil case wherein a local government unit or any office, agency, or instrumentality of the government is the adverse party;
+
+(2) Appear as counsel in any criminal case wherein an officer or employee of the national or local government is accused of an offense committed in relation to his office.
+
+(3) Collect any fee for their appearance in administrative proceedings involving the local government unit of which he is an official; and
+
+(4) Use property and personnel of the government except when the Sanggunian member concerned is defending the interest of the government.
+
+(c) Doctors of medicine may practice their profession even during official hours of work only on occasions of emergency: Provided, That the officials concerned do not derive monetary compensation therefrom.
+
+**SECTION 93. Statement of Assets and Liabilities.** - (a) Officials and employees of local government units shall file sworn statements of assets, liabilities and networth, lists of relatives within the fourth civil degree of consanguinity or affinity in government service, financial and business interests, and personnel data sheets as required by law.
+
+**SECTION 94. Oath of Office.** - (a) All elective and appointive local officials and employees shall, upon assumption to office, swear before the Holy Quran or other holy book recognized by the church or religious association with which the officials are affiliated. Further, the said officials shall subscribe to an oath or affirmation of office in a prescribed form. The oath or affirmation of office shall be filed with the office of the local chief executive concerned. A copy of the oath or affirmation of office of all elective and appointive local officials and employees shall be preserved in the individual personal records file under the custody of the personnel office, division, or section of the local government unit concerned. In addition, copies of the oath or affirmation of office and all other official records of elected local officials shall be furnished to the assigned field officers of the Ministry of the Interior and Local Government.
+
+**SECTION 95. Partisan Political Activity.** - No local official or employee in the career civil service shall engage, directly or indirectly, in any partisan political activity or take part in any election, initiative, referendum, plebiscite, or recall, except to vote, nor shall he use his official authority or influence to cause the performance of any political activity by any person or body. He may, however, express his views on current issues, or mention the names of certain candidates for public office whom he supports. Elective local officials may take part in partisan political and electoral activities, but it shall be unlawful for them to solicit contributions from their subordinates or subject these subordinates to any of the prohibited acts under the Omnibus Election Code or the Bangsamoro Electoral Code, to be enacted by the Parliament.
+
+**SECTION 96. Appointment of Elective and Appointive Local Officials; Candidates Who Lost in Election.** - (a) Unless otherwise allowed by law or by the primary functions of his position, no elective or appointive local official shall hold any other office or employment in the government or any subdivision, agency or instrumentality thereof, including government-owned or -controlled corporations or their subsidiaries.
+
+(b) Except for Barangay elections, no candidate who lost in any election shall, within one (1) year after such election, be appointed to any office in the government or any government-owned or -controlled corporations or in any of their subsidiaries.
+
+**SECTION 97. Additional or Double Compensation.** - No elective or appointive local official or employee shall receive additional, double, or indirect compensation, unless specifically authorized by law, nor accept without the consent of Parliament, any present, emoluments, office, or title of any kind from any foreign government. Pensions or gratuities shall not be considered as additional, double, or indirect compensation.
+
+**SECTION 98. Permission to Leave Station.** - (a) Provincial, city, municipal, and barangay appointive officials going on official travel shall apply and secure written permission from their respective local chief executives before departure. The application shall specify the reasons for such travel, and the permission shall be given or withheld based on considerations of public interest, financial capability of the local government unit concerned, and urgency of the travel.
+
+Should the local chief executive concerned fail to act upon such application within four (4) working days from receipt thereof, it shall be deemed approved.
+
+(b) Mayors of component cities and municipalities shall secure the permission of the governor concerned for any travel outside the province.
+
+(c) Local government officials traveling abroad shall notify their respective Sanggunian: Provided, that when the period of travel extends to more than three (3) months, or is to be performed during periods of emergency or crisis, or when the travel involves the use of public funds, permission from the Office of the Chief Minister, through the Ministry of the Interior and Local Government shall be secured.
+
+(d) Field officers of national and regional agencies or offices assigned in provinces, cities, and municipalities shall not leave their official stations without giving prior written notice to the local chief executive concerned. Such notice shall state the duration of travel and the name of the officer whom he shall designate to act for and in his behalf during his absence.
+
+**SECTION 99. Annual Report.** - On or before March 31 of each year, every local chief executive shall submit an annual report to the Sanggunian concerned and to the Ministry of the Interior and Local Government on the socio economic, political and peace and order conditions, and other matters concerning the local government unit, which shall cover the immediately preceding calendar year. Component cities and municipalities shall provide the Sangguniang Panlalawigan copies of their respective annual reports.
+
+**TITLE IV**
+**LOCAL SCHOOL BOARDS**
+
+**SECTION 100. Creation, Composition and Compensation.** - (a) There shall be established in every province, city, or municipality a provincial, city or municipal school board, respectively.
+
+(b) The composition of local school boards shall be as follows:
+
+(1) The provincial school board shall be composed of the governor and the division superintendent of schools as co- chairmen; the chairman of the education committee of the Sangguniang Panlalawigan, the provincial treasurer, the representative of the Pederasyon ng mga Sangguniang Kabataan in the Sangguniang Panlalawigan, the duly elected president of the provincial federation of parents-teachers association, the duly elected representative of the teachers' organization in the province, and the duly elected representative of the non-academic personnel of public schools in the province, as members;
+
+(2) The city school board shall be composed of the city mayor and the city superintendent of schools as co-chairmen; the chairman of the education committee of the Sangguniang Panlungsod, the city treasurer, the representative of the pederasyon ng mga Sangguniang Kabataan in the Sangguniang Panlungsod, the duly elected president of the city federation of parents-teachers associations, the duly elected representative of the teachers' organizations in the city, and the duly elected representative of the non-academic personnel of public schools in the city, as members; and
+
+(3) The municipal school board shall be composed of the municipal mayor and the district supervisor of schools as co-chairmen; the chairman of the education committee of the Sangguniang bayan, the municipal treasurer, the representative of the Pederasyon ng mga Sangguniang Kabataan in the Sangguniang Bayan, the duly elected president of the municipal federation of parents-teachers associations, the duly elected representative of the teachers' organizations in the municipality, and the duly elected representative of the non-academic personnel of public schools in the city, as members;
+
+(c) In the event that a province or city has two (2) or more school superintendents, and in the event that a municipality has two (2) or more district supervisors, the co-chairman of the local school board shall be determined as follows:
+
+(1) The Ministry of Basic, Higher, and Technical Education shall designate the co-chairman for the provincial and city school boards; and
+
+(2) The division superintendent of schools shall designate the district supervisor who shall serve as co-chairman of the municipal school board.
+
+(d) The performance of the duties and responsibilities of the abovementioned officials in their respective local school boards shall not be delegated.
+
+**SECTION 101. Functions of Local School Boards.** - The provincial, city or municipal school board shall:
+
+(a) Determine, in accordance with the criteria set by the Ministry of Basic, Higher, and Technical Education, the annual supplementary budgetary needs for the operation and maintenance of public schools within the province, city or municipality, as the case may be, and the supplementary local cost of meeting such needs, which shall be reflected in the form of an annual school budget budget corresponding to its share in the proceeds of the special levy on real property constituting the Special Education fund and such other sources of revenue as this Code and other laws or ordinances may provide;
+
+(b) Authorize the provincial, city or municipal treasurer, as the case may be, to disburse funds from the Special Education fund pursuant to the budget prepared and in accordance with existing rules and regulations;
+
+(c) Serve as an advisory committee to the Sanggunian concerned on educational matters such as, but not limited to, the necessity for and the uses of local appropriations for educational purposes; and
+
+(d) Recommend changes in the names of public schools within the territorial jurisdiction of the local government unit for enactment by the Sanggunian concerned.
+
+(e) Act as promotion and selection committee for the hiring of teaching, non-teaching personnel, and other school officials in the concerned localities, subject to the discretion of the Minister of the Ministry of Basic, Higher, and Technical Education.
+
+The Ministry of Basic, Higher, and Technical Education shall consult the concerned local school board on the appointment of division superintendents, district supervisors, school principals, and other school officials.
+
+**SECTION 102. Meetings and Quorum; Budget.** - (a) The local school board shall meet at least once every quarter or as often as may be necessary.
+
+(b) Any of the co-chairmen may call a meeting. A majority of all its members shall constitute a quorum. However, when both co- chairmen are present in a meeting, the local chief executive concerned, as a matter of protocol, shall be given preference to preside over the meeting. The division superintendent, city superintendent or district supervisor, as the case may be, shall prepare the budget of the school board concerned. Such budget shall be supported by programs, projects, and activities of the school board for the ensuing fiscal year. The affirmative vote of the majority of all its members shall be necessary to approve the budget.
+
+(c) The annual school board budget shall give priority to the following:
+
+(1) Construction, repair, and maintenance of school buildings and other facilities of public elementary and secondary schools;
+
+(2) Establishment and maintenance of extension classes where necessary; and
+
+(3) Sports activities at the division, district, municipal, and barangay level.
+
+(4) Educational trainings and exposure for teachers and students.
+
+**SECTION 103. Compensation and Remuneration.** - The co-chairmen and members of the provincial, city or municipal school board shall perform their duties as such without compensation or remuneration. Members thereof who are not government officials as employees shall be entitled to necessary traveling expenses and allowances chargeable against funds of the local school board concerned, subject to existing accounting and auditing rules and regulations.
+
+**TITLE FIVE**
+**LOCAL HEALTH BOARDS**
+
+**SECTION 104. Creation and Composition.** - (a) There shall be established a local health board in every province, city or municipality. The composition of the local health boards shall be as follows:
+
+(1) The provincial health board shall be headed by the governor as chairman, the provincial health officer as vice-chairman, and the chairman of the committee on health of the Sangguniang Panlalawigan, a representative from the private sector or non- governmental organizations involved in health services, and a representative of the Ministry of Health in the province, as members;
+
+(2) The city health board shall be headed by the city mayor as chairman, the city health officer as vice-chairman, and the chairman of the committee on health of the Sangguniang Panlungsod, a representative from the private sector or non- governmental organizations involved in health services, and a representative of the Ministry of Health in the city, as members; and
+
+(3) The municipal health board shall be headed by the municipal mayor as chairman, the municipal health officer as vice- chairman, and the chairman of the committee on health of the Sangguniang bayan, a representative from the private sector or non-governmental organizations involved in health services, and a representative of the Ministry of Health in the municipality, as members;
+
+(4) For local government units whose health services are not fully devolved, the concerned local chief executive and the highest health official assigned in the locality shall sit as co-chairmen of the local health board.
+
+(b) The functions of the local health board shall be:
+
+(1) To propose to the Sanggunian concerned, in accordance with standards and criteria set by the Ministry of Health, annual budgetary allocations for the operation and maintenance of health facilities and services within the municipality, city or province, as the case maybe.
+
+(2) To serve as an advisory committee to the Sanggunian concerned on health matters such as, but not limited to, the necessity for, and application of, local appropriations for public health purposes; and
+
+(3) To create, consistent with the technical and administrative standards of the Ministry of Health, committees which shall advise local health agencies on matters such as, but not limited to, personnel selection and promotion, bids and awards, grievances and complaints, personnel discipline, budget review, operations review and similar functions.
+
+(4) In the case of a local government unit whose health services are not fully devolved, the committee shall serve as planning body in determining appropriate support health programs to be funded by the concerned local government unit.
+
+**SECTION 105. Meetings and Quorum.** - (a) The board shall meet at least once every quarter or as often as may be necessary.
+
+(b) A majority of the members of the board shall constitute a quorum, but the chairman or the co- chairman and the vice-chairman, as the case may be, must be present during meetings where budgetary proposals are being prepared or considered. The affirmative vote of a majority of the members is required to approve such proposals.
+
+**SECTION 106. Compensation and Remuneration.** - The chairman or the co-chairman, and vice- chairman, as the case may be, and members of the provincial, municipal health board shall perform their duties as such without additional compensation or remuneration. Members thereof who are not government officials or employees shall be entitled to necessary traveling expenses and allowances chargeable against the funds of the local health board concerned, subject to existing accounting and auditing rules and regulations.
+
+**SECTION 107. Direct Regional Supervision and Control by the Minister of the Ministry of Health.** - In cases of epidemics, pestilence, health dangers, the Minister of the Ministry of Health may, upon the direction of the Chief Minister and in consultation with the local government unit concerned, temporarily assume direct supervision and control over health operations in any local government unit for the duration of the emergency, but in no case exceeding a cumulative period of six (6) months. With the concurrence of the local government unit concerned, the period for such direct regional control and supervision may be further extended.
+
+In cases where widespread public health dangers are so severe that regional resources are insufficient to contain them, the Bangsamoro Government may request the National Government to temporarily assume direct supervision and control over the health operations in the affected localities.
+
+**TITLE SIX**
+**LOCAL DEVELOPMENT COUNCILS**
+
+**SECTION 108. Local Development Councils.** - (a) Each local government unit shall have a comprehensive multi-sectoral development plan such as physical framework plan, comprehensive development plan and its investment program, to be initiated by its development council and approved by its Sanggunian. For this purpose, the development council at the provincial, city, municipal, or barangay level, shall assist the corresponding Sanggunian in setting the direction of economic and social development, and coordinating development efforts within its territorial jurisdiction.
+
+**SECTION 109. Composition of Local Development Councils.** - The composition of the local development council shall be as follows:
+
+(a) The Barangay development council shall be headed by the Punong Barangay and shall be composed of the following members:
+
+(1) Members of the Sangguniang Barangay;
+
+(2) Representatives of non-governmental organizations operating in the Barangay, who shall constitute not less than one fourth (1/4) of the members of the fully organized council;
+
+(3) A representative of the congressman.
+
+(4) A representative from the Parliament.
+
+(b) The city or municipal development council shall be headed by the mayor and shall be composed of the following members:
+
+(1) All Punong Barangays in the city or municipality;
+
+(2) The chairman of the committee on appropriations of the Sangguniang Panlungsod or Sangguniang bayan concerned;
+
+(3) The congressman or his representative; and
+
+(4) Representatives of non- governmental organizations operating in the city or municipality, as the case may be, who shall constitute not less than one-fourth (1/4) of the members of the fully organized council.
+
+(5) A representative from the Parliament.
+
+(c) The provincial development council shall be headed by the governor and shall be composed of the following members:
+
+(1) All mayors of component cities and municipalities;
+
+(2) The chairman of the committee on appropriations of the Sangguniang Panlalawigan;
+
+(3) The congressman or his representative; and
+
+(4) Representatives of non- governmental organizations operating in the province, who shall constitute not less than one-fourth (1/4) of the members of the fully organized council.
+
+(5) A representative from the Parliament.
+
+(d) The local development councils may call upon any local official concerned or any official of regional agencies or offices in the local government unit to assist in the formulation of their respective development plans and public investment programs.
+
+(e) The Bangsamoro Planning and Development Authority and the Ministry of the Interior and Local Government shall provide planning guidelines to ensure harmonization of regional and local development plans. Failure to formulate and approve such mandated plans shall subject the local chief executive to such criminal and administrative penalties as provided for under this Code and other applicable laws.
+
+**SECTION 110. Representation of Non-Governmental Organizations.** - Within a period of sixty (60) days from the start of organization of local development councils, the nongovernmental organizations shall choose from among themselves their representatives to said councils. The local Sanggunian concerned shall accredit non-governmental organizations subject to the guidelines that shall be issued by the Ministry of the Interior and Local Government.
+
+**SECTION 111. Functions of Local Development Councils.** - (a) The provincial, city, and municipal development councils shall exercise the following functions:
+
+(1) Formulate long-term, medium-term, and annual socio- economic development plans and policies;
+
+(2) Formulate the medium-term and annual public investment programs;
+
+(3) Appraise and prioritize socio- economic development programs and projects;
+
+(4) Formulate local investment incentives to promote the inflow and direction of private investment capital;
+
+(5) Coordinate, monitor, and evaluate the implementation of development programs and projects; and
+
+(6) Perform such other functions as may be provided by law or competent authority.
+
+(b) The Barangay development council shall exercise the following functions:
+
+(1) Mobilize people's participation in local development efforts and disaster preparedness;
+
+(2) Prepare Barangay development plans based on local requirements;
+
+(3) Monitor and evaluate the implementation of regional or local programs and projects; and
+
+(4) Perform such other functions as may be provided by law or competent authority.
+
+**SECTION 112. Meetings and Quorum.** - The local development council shall meet at least once every six (6) months or as often as may be necessary.
+
+**SECTION 113. Executive Committee.** - (a) Each local development council shall create an executive committee to represent it and act in its behalf when it is not in session. The composition of the executive committee shall be as follows:
+
+(1) The executive committee of the provincial development council shall be composed of the governor as chairman, the representative of component city and municipal mayors to be chosen from among themselves, the chairman of the committee on appropriations of the Sangguniang Panlalawigan, the president of the provincial league of Barangays, and a representative of nongovernmental organizations that are represented in the council, as members;
+
+(2) The executive committee of the city or municipal development council shall be composed of the mayor as chairman, the chairman of the committee on appropriations of the Sangguniang Panlalawigan, the president of the city or municipal league of Barangays, and a representative of nongovernmental organizations that are represented in the council, as members; and
+
+(3) The executive committee of the Barangay development council shall be composed of the Punong Barangay as chairman, a representative of the Sangguniang Barangay to be chosen from among its members, and a representative of nongovernmental organizations that are represented in the council, as members.
+
+(b) The executive committee shall exercise the following powers and functions:
+
+(1) Ensure that the decisions of the council are faithfully carried out and implemented;
+
+(2) Act on matters requiring immediate attention or action by the council;
+
+(3) Formulate policies, plans, and programs based on the general principles laid down by the council; and
+
+(4) Act on other matters that may be authorized by the council.
+
+**SECTION 114. Sectoral or Functional Committees.** - The local development councils may form sectoral or functional committees to assist them in the performance of their functions. The sectoral committees include but are not limited to:
+
+(1) Institutional or Development Administration Committee;
+
+(2) Social Development Committee;
+
+(3) Economic Development Committee;
+
+(4) Environmental Management Committee;
+
+(5) Infrastructure Committee;
+
+(6) Culture and Peace Committee;
+
+In the case of Barangay Development Council, one of its regular committees shall be the Barangay Disaster Risk Reduction and Management Committee.
+
+**SECTION 115. Secretariat.** - There is hereby constituted for each local development council a secretariat which shall be responsible for providing technical support, documentation of proceedings, preparation of reports and such other assistance as may be required in the discharge of its functions. The local development council may avail of the services of any nongovernmental organization or educational or research institution for this purpose.
+
+The secretariats of the provincial, city, and municipal development councils shall be headed by their respective planning and development coordinators. The secretariat of the Barangay development council shall be headed by the Barangay secretary who shall be assisted by the city or municipal planning and development coordinator concerned.
+
+**SECTION 116. Relation of Local Development Councils to the Sanggunian and the Bangsamoro Economic and Development Council.** - (a) The policies, programs, and projects proposed by local development councils shall be submitted to the Sanggunian concerned for appropriate action. The local development plans approved by their respective Sanggunian shall be integrated with the development plans of the next higher level of local development council.
+
+(b) The approved development plans of provinces, highly-urbanized cities, and independent component cities shall be submitted to the regional development council, through the Bangsamoro Planning and Development Authority which shall be integrated into the Bangsamoro Development Plan.
+
+**SECTION 117. Budget Information.** - The Ministry of Finance, and Budget and Management shall furnish the various local council information on financial resources and budgetary allocations from the National and Regional Government applicable to the constituent local government units to guide them in their planning functions.
+
+**TITLE SEVEN**
+**LOCAL PEACE AND ORDER COUNCIL**
+
+**SECTION 118. Organization.** - There is hereby established in every province, city and municipality a local peace and order council, pursuant to Executive Order No. 309, Series of 1988, as amended by Executive Order No. 773, Series of 2009. The local peace and order councils shall have the same composition and functions as those prescribed by the said executive order.
+
+**TITLE EIGHT**
+**LOCAL DISASTER RISK REDUCTION COUNCIL**
+
+**SECTION 119. Organization.** - There is hereby established in every province, city and municipality a local disaster risk reduction council pursuant to RA No. 10121. The Local Disaster Risk Reduction Council shall have the same composition and functions as those prescribed by the said law. ¹⁷
+
+**TITLE NINE**
+**AUTONOMOUS SPECIAL ECONOMIC ZONE**
+
+**SECTION 120. Establishment of Autonomous Special Economic Zones.** - The establishment by law of autonomous special economic zones in selected areas of the Bangsamoro Autonomous Region shall be subject to concurrence by the local government units included therein.
+
+**TITLE X**
+**OTHER PROVISIONS APPLICABLE TO LOCAL GOVERNMENT UNITS**
+
+**CHAPTER XI**
+**Settlement of Boundary Disputes**
+
+**SECTION 121. Jurisdictional Responsibility for Settlement of Boundary Dispute.** - Boundary disputes between and among local government units shall, as much as possible, be settled amicably. To this end:
+
+(a) Boundary disputes involving two (2) or more Barangays in the same city or municipality shall be referred for settlement to the Sangguniang Panlungsod or Sangguniang bayan concerned.
+
+(b) Boundary disputes involving two (2) or more municipalities within the same province shall be referred for settlement to the Sangguniang Panlalawigan concerned.
+
+(c) Boundary disputes involving municipalities or component cities of different provinces shall be jointly referred for settlement to the Sanggunian of the provinces concerned.
+
+(d) Boundary disputes involving a component city or municipality on the one hand and a highly urbanized city on the other, or two (2) or more highly urbanized cities, shall be jointly referred for settlement to the respective Sanggunians of the parties.
+
+(e) In the event the Sanggunian fails to effect an amicable settlement within sixty (60) days from the date the dispute was referred thereto, it shall issue a certification to that effect. Thereafter, the dispute shall be formally tried by the Sanggunian concerned which shall decide the issue within sixty (60) days from the date of the certification referred to above.
+
+(f) Boundary disputes involving province in the Bangsamoro autonomous region on one hand and province outside the region on the other shall be jointly referred to
+
+**SECTION 122. Appeal.** - Within the time and manner prescribed by the Rules of Court, any party may elevate the decision of the Sanggunian concerned to the proper Regional Trial Court having jurisdiction over the area in dispute. The Regional Trial Court shall decide the appeal within one (1) year from the filing thereof. Pending final resolution of the disputed area prior to the dispute shall be maintained and continued for all legal purposes.
+
+**CHAPTER XII**
+**Local Initiative and Referendum**
+
+**SECTION 123. Local Initiative Defined.** - Local initiative is the legal process whereby the registered voters of a local government unit may directly propose, enact, or amend any ordinance.
+
+**SECTION 124. Who May Exercise.** - The power of local initiative and referendum may be exercised by all registered voters of the provinces, cities, municipalities, and Barangays.
+
+**SECTION 125. Procedure in Local Initiative.** - (a) Not less than one thousand (1,000) registered voters in case of provinces and cities, one hundred (100) in case of municipalities, and fifty (50) in case of Barangays, may file a petition with the Sanggunian concerned proposing the adoption, enactment, repeal, or amendment of an ordinance.
+
+(b) If no favorable action thereon is taken by the Sanggunian concerned within thirty (30) days from its presentation, the proponents, through their duly authorized and registered representatives, may invoke their power of initiative, giving notice thereof to the Sanggunian concerned.
+
+(c) The proposition shall be numbered serially starting from Roman numeral I. The Comelec or its designated representative shall extend assistance in the formulation of the proposition.
+
+(d) Two (2) or more propositions may be submitted in an initiative.
+
+(e) Proponents shall have ninety (90) days in case of provinces and cities, sixty (60) days in case of municipalities, and thirty (30) days in case of Barangays, from notice mentioned in subsection (b) hereof to collect the required number of signatures.
+
+(f) The petition shall be signed before the election registrar, or his designated representatives, in the presence of a representative of the proponent, and a representative of the Sanggunian concerned in a public place in the local government unit, as the case may be. Stations for collecting signatures may be established in as many places as may be warranted.
+
+(g) Upon the lapse of the period herein provided, the Comelec, through its office in the local government unit concerned, shall certify as to whether or not the required number of signatures has been obtained. Failure to obtain the required number defeats the proposition.
+
+(h) If the required number of signatures is obtained, the Comelec shall then set a date for the initiative during which the proposition shall be submitted to the registered voters in the local government unit concerned for their approval within sixty (60) days from the date of certification by the Comelec, as provided in subsection (g) hereof, in case of provinces and cities, forty-five (45) days in case of municipalities, and thirty (30) days in case of Barangays. The initiative shall then be held on the date set, after which the results thereof shall be certified and proclaimed by the Comelec.
+
+**SECTION 126. Effectivity of Local Propositions.** - If the proposition is approved by a majority of the votes cast, it shall take effect fifteen (15) days after certification by the Comelec as if affirmative action thereon had been made by the Sanggunian and local chief executive concerned. If it fails to obtain said number of votes, the proposition is considered defeated.
+
+**SECTION 127. Limitations on Local Initiatives.** - (a) The power of local initiative shall not be exercised more than once a year.
+
+(b) Initiative shall extend only to subjects or matters which are within the legal powers of the Sanggunians to enact.
+
+(c) If at any time before the initiative is held, the Sanggunian concerned adopts in to the proposition presented and the local chief executive approves the same, the initiative shall be canceled. However, those against such action may, if they so desire, apply for initiative in the manner herein provided.
+
+**SECTION 128. Limitations upon Sanggunian.** - Any proposition or ordinance approved through the system of initiative and referendum as herein provided shall not be repealed, modified or amended by the Sanggunian concerned within six (6) months from the date of the approval thereof, and may be amended, modified or repealed by the Sanggunian within three (3) years thereafter by a vote of three-fourths (3/4) of all its members: Provided, That in case of Barangays, the period shall be eighteen (18) months after the approval thereof.
+
+**SECTION 129. Local Referendum Defined.** - Local referendum is the legal process whereby the registered voters of the local government units may approve, amend or reject any ordinance enacted by the Sanggunian. The local referendum shall be held under the control and direction of the Comelec within sixty (60) days in case of provinces and cities, forty-five (45) days in case of municipalities and thirty (30) days in case of Barangays. The Comelec shall certify and proclaim the results of the said referendum.
+
+**SECTION 130. Authority of Courts.** - Nothing in this Chapter shall prevent or preclude the proper courts from declaring null and void any proposition approved pursuant to this Chapter for violation of the Constitution or want of capacity of the Sanggunian concerned to enact the said measure.
+
+---
+¹⁷ In accordance with R.A. 1021 or the Philippine Disaster Risk Reduction and Management Act of 2010.
+
+**BOOK II**
+**LOCAL TAXATION AND FISCAL MATTERS**
+
+**TITLE ONE**
+**LOCAL GOVERNMENT TAXATION**
+
+**CHAPTER I**
+**General Provisions**
+
+**SECTION 131. Scope** - The provisions herein shall govern the exercise by the constituent local government units of the Bangsamoro Autonomous Region of their taxing powers and other revenue-raising powers.
+
+**SECTION 132. Power to Create Sources of Revenue** – Each local government unit shall have the power to create its own sources of revenue and to levy taxes, fees, and charges, subject to the provisions of Republic Act No. 11054 and consistent with the principles of equalization, equity, accountability, administrative simplicity, harmonization and economic efficiency, and fiscal autonomy. Such taxes, fees, and charges shall accrue exclusively to the local government units.
+
+**SECTION 133. Local Economic Development.** – To achieve equity, social justice, and economic development, the local government units shall encourage and support the building up of entrepreneurial capability within their territorial jurisdiction and shall recognize, promote, protect, and support the development of cooperatives, economic enterprises, and other medium, small, and micro enterprises. The local government units shall adopt and implement local economic development plans, policies and programs that will increase local revenues, improve the purchasing capacity of its constituents and promote social, cultural, and environmental impact. For this purpose, the local government units shall continue to maintain the economic base profile, strengthen partnership relations, embrace measures that will attract potential investors for the utilization of local resources, enact or revisit their existing local economic policies that will cope with the current and future demand. ¹⁸
+
+**SECTION 134. Tax Mapping.** - To ensure compliance to the local revenue ordinances, the local government units shall conduct regular inspections on business establishments within their territorial jurisdiction to verify their registration, invoicing, and bookkeeping requirements. For this purpose, the local government units shall develop a tax mapping system, including an information system for real property taxes, that will map every business in the locality, verify registration, track payments and provide capacity building to personnel involved in taxation in order improve system of collection of revenues. ¹⁹
+
+There shall be a regular tax information campaign about tax ordinances enacted by the Sanggunian concerned to continue educating the local constituents on the importance of paying taxes as an obligation and how it will contribute to the betterment of the community. Moreover, there shall be an information and education materials that is readily available and accessible within the premises of the local government units.
+
+**SECTION 135. Streamlining of Business Permits and Licensing.** – The local government units shall streamline their respective business processes which includes process reengineering, automation or computerization, customer relations and institutionalization of systems, to promote integrity, accountability, proper management of public affairs and public property in the government.
+
+In implementing this provision, the local government units shall establish a Business One Stop Shop and adopt a simplified requirement and procedures that will reduce red tape and expedite business and nonbusiness related transactions in the government. It shall develop a standardized business permit and licensing system that can be used by its constituents. ²⁰
+
+**SECTION 136. Fundamental Principles.** - The following fundamental principles shall govern the exercise of the taxing and other revenue-raising powers of the constituent local government units of the Bangsamoro Autonomous Region:
+
+1. It shall observe the principles of uniformity and equity in taxation;
+
+2. Taxes, fees, charges and other impositions shall:
+
+a. be equitable and based as far as practicable on the taxpayer's ability to pay;
+b. be levied and collected only for public purposes;
+c. not be unjust, excessive, oppressive, or confiscatory;
+d. not be contrary to law, public policy, national economic policy, or in restraint of trade;
+
+3. The collection of local taxes, fees, charges and other impositions shall in no case be let or delegated to any private person;
+
+4. The revenue collected pursuant to the provisions of this Code shall inure solely to the benefit of, and be subject to disposition by, the local government unit levying the tax, fee, charge or other imposition unless otherwise specifically provided herein; and
+
+5. Each local government unit shall, as far as practicable, evolve a progressive, responsive, and culture sensitive ²¹ system of taxation.
+
+**SECTION 137. Definition of Terms.** - When used in this Title, the term:
+
+(a) "Agricultural Product" includes the yield of the soil, such as corn, rice wheat, rye, hay, coconuts, sugarcane, tobacco, root crops, vegetables, fruits, flowers, and their by-products; ordinary salt; all kinds of fish; poultry; and livestock and animal products, whether in their original form or not.
+
+The phrase "whether in their original form or not" refers to the transformation of said products by the farmer, fisherman, producer or owner through the application of processes to preserve or otherwise prepare said products for the market such as freezing, drying salting, smoking, or stripping for purposes of preserving or otherwise preparing said products for market;
+
+(b) "Amusement" is a pleasurable diversion and entertainment. It is synonymous to relaxation, avocation, pastime, or fun;
+
+(c) "Amusement Places" include theaters, cinemas, concert halls, circuses, **country and sports clubs, recreation parks** and other places of amusement where one seeks admission to entertain oneself by seeing or viewing the show or performances;
+
+(d) "Business" means trade or commercial activity regularly engaged in as a means of livelihood or with a view to profit;
+
+(e) "Banks and other financial institutions" include non-bank financial intermediaries, lending investors, finance and investment companies, pawnshops, money shops, insurance companies, stock markets, stockbrokers and dealers in securities and foreign exchange, as defined under applicable laws, or rules and regulations thereunder;
+
+(f) “Barangay Micro Business Enterprise” or BMBE refers to any business entity or enterprise registered under the provisions of Republic Act No. 9178, otherwise known as “The Barangay Micro Business Enterprise (“BMBEs”) Act of 2002.”
+
+(g) "Capital Investment" is the capital which a person employs in any undertaking, or which he contributes to the capital of a partnership, corporation, or any other juridical entity or association in a particular taxing jurisdiction
+
+(h) “Charges” refer to liability for services rendered or conveniences provided by the local government units, the amount of which should be commensurate to such services and capital recovery which ensures continued delivery;
+
+(i) "Contractor" includes persons, natural or juridical, not subject to professional tax under Section 139 of this Code, whose activity consists essentially of the sale of kinds of services for a fee, regardless of whether or not the performance of the service calls for the exercise or use of the physical or mental faculties of such contractor or his employees.
+
+As used in this Section, the term "contractor" shall include general engineering, general building and specialty contractors as defined under applicable laws; filling, demolition and salvage works contractors; proprietors or operators of mine drilling apparatus; proprietors or operators of dockyards; persons engaged in the installation of water system, and gas or electric light, heat, or power, proprietors or operators of smelting plants; engraving, plating, and plastic lamination establishments; proprietors or operators of establishments for repairing, repainting, upholstering, washing or greasing of vehicles, heavy equipment, vulcanizing, recapping and battery charging; proprietors or operators of furniture shops and establishment for planning or surfacing and recutting of lumber, and sawmills under contract and recutting of lumber, and sawmill under contract to saw or cut logs belongings to others proprietors or operators of dry-cleaning or dyeing establishments, steam laundries using washing machines; proprietors or owners of shops for the repair of any kind of mechanical and electrical devices, instruments, apparatus, or furniture and shoe repairing by machine or any mechanical contrivance; proprietors or operators of establishments or lots for parking purposes; proprietors or operators of tailor shops, dress shops, millineres and hatters, beauty parlors, barbershops, massage clinics, sauna, Turkish and Swedish baths, slenderizing and building saloons and similar establishments; photographic studios; funeral parlors; proprietors or operators of hotels, motels, and lodging houses; proprietors or operators of arrastre and stevedoring, warehousing, or forwarding establishments; master plumbers, smiths, and house or sign painters; printers, bookbinders, lithographers; publishers except those engaged in the publication or printing of any newspaper, magazine, review or bulletin which appears at regular intervals with fixed prices for subscription and sale and which is not devoted principally to the publication of advertisements, business agents, private detective or watchman agencies, commercial and immigration brokers, and cinematographic film owners, lessors and distributors.
+
+(j) "Corporation" includes partnerships, no matter how created or organized, joint- stock companies, joint accounts (cuentasen participation), associations or insurance companies but does not include general professional partnership but does not include general professional partnership and a joint venture or consortium formed for the purpose of undertaking construction projects or engaging in petroleum, coal, geothermal, and other energy operations pursuant to an agreement or consortium agreement under a service contract with the government. General professional partnership are partnerships formed by persons for the sole purpose of exercising their common profession, no part of the income of which is derived from engaging in any trade or business.
+
+The term "resident foreign" when applied to a corporation means a foreign corporation not otherwise organized under the laws of the Philippines but engaged in trade or business within the Philippines;
+
+(k) “Countryside and Barangay Business Enterprise” refers to any business entity, association, or cooperative registered under the provisions of Republic Act Numbered Sixty-eight hundred ten (R.A. No. 6810)., otherwise known as “Magna Carta for Countryside and Barangay Business Enterprises (Kalakalan 20)’.
+
+(l) "Dealer" means one whose business is to buy and sell merchandise, goods, and chattels as a merchant. It stands immediately between the producer or manufacturer and the consumer and depend for his profit not upon the labor he bestows upon his commodities but upon the skill and foresight with which he watches the market;
+
+(m) “Fees” refer to a liability imposed for the regulation or inspection of a business or activity the amount of which should be commensurate to the administrative cost of regulation and/or surveillance;
+
+(n) “Fisheries and Aquatic Resources Management Council” pertains to fisherfolk organization or cooperatives and NGOs in the locality established under Republic Act No. 8550 otherwise known as “The Philippine Fisheries Code of the 1998”;
+
+(o) "Franchise" is a right or privilege, affected with public interest which is conferred upon private persons or corporations, under such terms and conditions as the government and its political subdivisions may impose in the interest of public welfare, security, and safety;
+
+(p) "Gross Sales or Receipt" include the total amount of money or its equivalent representing the contract price, compensation or service fee, including the amount charged or materials supplies with the services and deposits or advance payments actually or constructively received during the taxable quarter for the services performed or to be performed for another person excluding discounts if determinable at the time of sales, sales return, excise tax, and value-added tax (VAT);
+
+(q) "Manufacturer" includes every person who, by physical or chemical process, alters the exterior textures or form or inner substance of any raw material or manufactured product in such manner as to prepare it for special use or uses to which is could not have been put in its original condition, or who by any such process alters the quality of any such raw materials or manufactured or partially manufactured products so as to reduce it to marketable shape or prepare it for any of the use of industry, or who by any such process combines any such raw material or manufactured products with other materials or products of the same or of different kinds and in such manner that the finished products of such process or manufacture can be put to a special use or uses to which such raw material or manufactured or partially manufactured products in their original condition could not have been put, and who in addition alters such raw material or manufactured products, or combines the same to produce such finished products for the purpose of their sale or distribution to others and not for his own use or consumption;
+
+(r) "Marginal Farmer or Fisherfolk" refers to an individual engaged in subsistence farming or fishing which shall be limited to the sale, barter or exchange of agricultural or marine products produced by himself and his immediate family;
+
+(r) “Maximum sustainable yield” refers to the largest average quantity of fish that can be harvested from fish stocks or resource with-in a period of time on a sustainable basis under existing environmental conditions⁸;
+
+(s) "Motor Vehicle" means any vehicle propelled by any power other than muscular power using the public roads, but excluding road rollers, trolley cars, street-sweepers, sprinklers, lawn mowers, bulldozers, graders, fork-lifts, amphibian trucks, and cranes if not used on public roads, vehicles which run only on rails or tracks, and tractors, trailers, and traction engines of all kinds used exclusively for agricultural purposes;
+
+(t) "Municipal Waters" includes not only streams, lakes, and tidal waters within the municipality, which are not included within the protected areas as defined under Republic Act No. 7586 otherwise known as the “National Integrated Protected Areas System Law” (NIPAS Law) or laws that may be enacted by the Parliament²², not being the subject of private ownership and not comprised within the national parks, public forest, timber lands, forest reserves or fishery reserves, but also marine waters included between two lines drawn perpendicularly to the general coastline from the low water-mark of the coasts that are part of the Bangsamoro territorial jurisdiction up to fifteen (15) kilometers. If it extends up to nineteen (19) kilometers, it shall form part of the regional waters of the Bangsamoro Autonomous Region.
+
+Where a constituent local government unit of the Bangsamoro Autonomous Region and an adjoining local government unit are so situated on opposite shores such that there is thirty (30) kilometers of waters or less between them, a line equally distant from the opposite shores shall be drawn to demarcate the Bangsamoro waters and the municipal waters of the adjoining local government unit.
+
+In case the constituent local government unit of the Bangsamoro Autonomous Region and an adjoining local government unit are so situated in opposite shores that there is more than thirty (30) kilometers but less than thirty-four (34) kilometers of waters between them, a line shall be drawn at the edge of the fifteen-kilometer municipal waters of the adjoining local government unit to demarcate it from the Bangsamoro waters²³;
+
+(u) "Operator" includes the owner, manager, administrator, or any other person who operates or is responsible for the operation of a business establishment or undertaking;
+
+(v) "Peddler" means any person who, either for himself or on commission, travels from place to place and sells his goods or offers to sell and deliver the same. Whether a peddler is a wholesale peddler or a retail peddler of a particular commodity shall be determined from the definition of wholesale dealer or retail dealer as provided in this Title;
+
+(w) "Persons" means every natural or juridical being, susceptible of rights and obligations or of being the subject of legal relations;
+
+(x) "Residents" refer to natural persons who have their habitual residence in the province, city, or municipality where they exercise their civil rights and fulfill their civil obligations, and to juridical persons for whom the law or any other provision creating or recognizing them fixes their residence in a particular province, city, or municipality. In the absence of such law, juridical persons are residents of the province, city, or municipality where they have their legal residence or principal place of business or where they conduct their principal business or occupation;
+
+(y) “Resource rent” refers to the difference between the value of the product produced from harvesting the publicly-owned resource less the cost of producing it, where cost includes the normal return to capital and labor²⁴;
+
+(z) "Retail" means a sale where the purchaser buys the commodity for his own consumption, irrespective of the quantity of the commodity sold;
+
+(aa) "Tax" is an imposition, charge or burden upon persons, property, or property rights for the use and support of the local government unit to enable it to discharge its appropriate functions;
+
+(s) “Total allowable catch” refers to the maximum harvest allowed to be taken during a given period of time from any fishery area, or from any or group of fishery species, or a combination of area and species that would not exceed the maximum sustainable yield²⁵;
+
+(t) "Vessel" includes every type of boat, craft, or other artificial contrivance used, or capable of being used, as a means of transportation on water;
+
+(u) "Wharfage" means a fee assessed against the cargo of a vessel engaged in foreign or domestic trade based on quantity, weight, or measure received and/or discharged by vessel; and
+
+(v) "Wholesale" means a sale where the purchaser buys or imports the commodities for resale to persons other than the end user regardless of the quantity of the transaction.
+
+**SECTION 138. Local Taxing Authority** - The power to impose a tax, fee, or charge or to generate revenue under this Code shall be exercised by the Sanggunian of the local government units through an appropriate ordinance.
+
+**SECTION 139. Common Limitation on the Taxing Powers of Constituent Local Government Units** - Unless otherwise provided herein, the exercise of taxing powers of local government units shall not extend to the levy of the following:
+
+(a) Income tax, except when levied on banks and other financial institutions;
+
+(b) Documentary stamp tax;
+
+(c) Taxes on estates, inheritance, gifts, legacies and other acquisitions mortis causa, except as otherwise provided herein;
+
+(d) Customs duties, registration fees of vessel and wharfage on wharves, tonnage dues, and all other kinds of customs fees, charges and dues except wharfage on wharves constructed and maintained by the local government unit concerned;
+
+(e) Taxes, fees, and charges and other impositions upon goods carried into or out of, or passing through, the territorial jurisdictions of local government units in the guise of charges for wharfage, tolls for bridges or otherwise, or other taxes, fees, or charges in any form whatsoever upon such goods or merchandise;
+
+(f) Taxes, fees or charges on agricultural and aquatic products when sold by marginal farmers or fishermen;
+
+(g) Taxes on business enterprises certified to by Board of Investments of the Ministry of Trade, Industry, and Tourism as pioneer or non-pioneer for a period of six (6) and four (4) years, respectively from the date of registration;
+
+(h) Excise taxes on articles enumerated under the National Internal Revenue Code, as amended, and taxes, fees or charges on petroleum products;
+
+(i) Percentage or value-added tax (VAT) on sales, barters or exchanges or similar transactions on goods or services except as otherwise provided herein;
+
+(j) Taxes on the gross receipts of transportation contractors and persons engaged in the transportation of passengers or freight by hire and common carriers by air, land or water, except as provided in this Code;
+
+(k) Taxes on premiums paid by way of reinsurance or retrocession;
+
+(l) Taxes, fees or charges for the registration of motor vehicles and for the issuance of all kinds of licenses or permits for the driving thereof, except tricycles;
+
+(m)Taxes, fees, or other charges on Philippine products actually exported, except as otherwise provided herein;
+
+(n) Taxes, fees, or charges, on Countryside and Barangay Business Enterprises and cooperatives duly registered under Republic Act No. 6810 and Republic Act No. 6938, as amended) otherwise known as the “Cooperative Code of the Philippines” respectively; and
+
+(o) Taxes, fees or charges of any kind on the National Government and Bangsamoro Government, their agencies and instrumentalities, and local government units.
+
+**CHAPTER II**
+**Specific Provisions on the Taxing and Other Revenue Raising Powers of Local Government Units**
+
+**ARTICLE I**
+**Provinces**
+
+**SECTION 140. Scope of Taxing Powers.** - Except as otherwise provided in this Code, the province may levy only the taxes, fees, and charges as provided in this Article.
+
+**SECTION 141. Tax on Transfer of Real Property Ownership.** – (a) The province may impose a tax on the sale, donation, barter, or on any other mode of transferring ownership or title of real property at the rate of not more than fifty percent (50%) of one percent (1%) of the total consideration involved in the acquisition of the property or of the fair market value in case the monetary consideration involved in the transfer is not substantial, whichever is higher. The sale, transfer or other disposition of real property pursuant to R.A. No. 6657 shall be exempt from this tax.
+
+(b) For this purpose, the Register of Deeds of the province concerned shall, before registering any deed, require the presentation of the evidence of payment of this tax. The provincial assessor shall likewise make the same requirement before canceling an old tax declaration and issuing a new one in place thereof. Notaries public shall furnish the provincial treasures with a copy of any deed transferring ownership or title to any real property within thirty (30) days from the date of notarization.
+
+It shall be the duty of the seller, donor, transferor, executor or administrator to pay the tax herein imposed within sixty (60) days from the date of the execution of the deed or from the date of the decedent's death.
+
+**SECTION 142. Tax on Business of Printing and Publication.** - The Province may impose a tax on the business of persons engaged in the printing and/or publication of books, cards, posters, leaflets, handbills, certificates, receipts, pamphlets, and other of similar nature, at a rate not exceeding fifty percent (50%) of one percent (1%) of the gross annual receipts for the preceding calendar year.
+
+In the case of a newly started business, the tax shall not exceed one-twentieth (1/20) of one percent (1%) of the capital investment. In the succeeding calendar year, regardless of when the business started to operate, the tax shall be based on the gross receipts for the preceding calendar year, or any fraction thereof, as provided herein.
+
+The receipts from the printing and/or publishing of books or other reading materials prescribed by the Department of Education, Culture and Sports as school texts or reference shall be exempt from the tax herein imposed.
+
+**SECTION 143. Franchise Tax** - Notwithstanding any exemption granted by any law or other special laws, the province may impose a tax on business enjoying a franchise, at a rate exceeding fifty percent (50%) of one percent (1%) of the gross annual receipts for the preceding calendar year based on the incoming receipt, or realized, within its jurisdiction.
+
+In the case of a newly started business, the tax shall not exceed one-twentieth (1/20) of one percent (1%) of the capital investment. In the succeeding calendar year, regardless of when the business started to operate, the tax shall be based on the gross receipts for the preceding calendar year, or any fraction thereof, as provided herein.
+
+**SECTION 144. Tax on Sand, Gravel and Other Quarry Resources** - The province may levy and collect not more than ten percent (10%) of fair market value in the locality per cubic meter of ordinary stones, sand, gravel, earth, and other quarry resources, as defined under the National Internal Revenue Code, as amended, extracted from public lands or from the beds of seas, lakes, rivers, streams, creeks, and other public waters within its territorial jurisdiction.
+
+The imposition and issuance of permit to extract sand, gravel and other quarry resources covering an area of not more than five (5) hectares shall be issued exclusively by the provincial governor upon the recommendation of the city or municipal mayor where the resources will be extracted and pursuant to an ordinance of the Sangguniang Panlalawigan. The term of the permit is for a period of five (5) year from the date of issuance thereof, renewable for like periods but not to exceed a total term of twenty-five (25) years.
+
+For extraction, removal and disposal of quarry resources covering an area more than (5) hectares but not to exceed twenty (20) hectares at any one time for a term of five (5) years from the issuance thereof, renewable for like period but not to exceed a total term of twenty-five (25) years, the permit shall be issued by the of Ministry of Environment, Natural Resources, and Energy and the tax be imposed by the Bangsamoro Government²⁶.
+
+The proceeds of the tax on sand, gravel and other quarry resources shall be distributed as follows:
+
+(1) Thirty percent (30%) to the Bangsamoro Government; and
+
+(2) Seventy percent (70%) to the local government units where the sand gravel, and other quarry resources are extracted, which shall be further divided as follows:
+
+i. Thirty percent (30%) to the province;
+ii. Thirty percent (30%) to the component city or municipality; and
+iii. Forty percent (40%) to the barangay²⁷.
+
+**SECTION 145. Professional Tax** - (a) The province may levy an annual professional tax on each person engaged in the exercise or practice of profession requiring government examination in such amount and reasonable classification as the Sangguniang Panlalawigan may determine but shall in no case exceed One Thousand Three Hundred Pesos (P1,300.00).The Sangguniang Panglalawigan may increase the ceiling on the professional tax once every three (3) years based on the past three (3)-year average of the consumer price index as officially published by the Philippine Statistics Authority²⁸.
+
+(b) Every person legally authorized to practice his profession shall pay the professional tax to the province where he practices his profession or where he maintains his principal office in case he practices his profession in several places: Provided, however, That such person who has paid the corresponding professional tax shall be entitled to practice his profession in any part of the Philippines without being subjected to any other national or local tax, license, or free for the practice of such profession.
+
+(1) Any individual or corporation employing a person subject to professional tax shall require payment by that person of the tax on his profession before employment and annually thereafter.
+
+(2) The professional tax shall be payable annually on or before the thirty first (31st) day of January must, however, pay the full tax before engaging therein. A line of profession does not become exempt even if conducted with some other profession for which the tax has been paid. Professionals exclusively employed in the government shall be exempt from the payment of this tax.
+
+(3) Any person subject to the professional tax shall write in deeds, receipts, prescriptions, reports, books of account, plans and designs, surveys and maps, as the case may be, the number of the official receipt issued to him.
+
+**SECTION 146. Amusement Tax** - (a) The province may levy an amusement tax to be collected from the proprietors, lessees, or operators of theaters, cinemas, concert halls, circuses, boxing stadia, and other places of amusement at a rate of not more than ten percent (10%) of the gross receipts from admission fees.
+
+(b) In the case of theaters of cinemas, the tax shall first be deducted and withheld by their proprietors, lessees, or operators and paid to the provincial treasurer before the gross receipts are divided between said proprietors, lessees, or operators and the distributors of the cinematographic films.
+
+(c) The holding of operas, concerts, dramas, recitals, painting and art exhibitions, flower shows, musical programs, literary and oratorical presentations, except pop, rock, or similar concerts shall be exempt from the payment of the tax herein imposed.
+
+(d) The Sangguniang Panlalawigan may prescribe the time, manner, terms and conditions for the payment of tax. In case of fraud or failure to pay the tax, the Sangguniang Panlalawigan may impose such surcharges, interests and penalties as it may deem appropriate.
+
+(e) The proceeds from the amusement tax shall be shared equally by the province and the municipality where such amusement places are located.
+
+**SECTION 147. Annual Fixed Tax for Every Delivery Truck or Van of Manufacturers or Producers, Wholesalers of, Dealers, or Retailers in, Certain Products.** - (a) The province may levy an annual fixed tax for every truck, van or any vehicle used by manufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution of distilled spirits, fermented liquors, soft drinks, cigars and cigarettes, and other products as may be determined by the Sangguniang Panlalawigan, to sales outlets, consumers, whether directly or indirectly, within the province in an amount not exceeding Two Thousand Two Hundred Pesos (P 2,200.00)²⁹.
+
+The manufacturers, producers, wholesalers, dealers, and retailers referred to in the immediately preceding paragraph shall be exempt from the tax on peddlers prescribed elsewhere in this Code.
+
+The Sangguniang Panlalawigan may increase the annual fixed tax for every truck, car or any vehicle used by manufacturers, producers, wholesalers, dealers or retailers in the delivery or distribution of distilled spirits, fermented liquors, soft drinks, cigars and cigarettes, and other products to sales outlets, or consumers, whether directly or indirectly, once every three (3) years, based on guidelines issued by the Ministry of Finance, and Budget and Management utilizing the consumer price index as the basis in increasing the ceiling of the aforementioned annual fixed tax.
+
+**ARTICLE II**
+**Municipalities**
+
+**SECTION 148. Scope of Taxing Powers.** - Except as otherwise provided in this Code, municipalities may levy taxes, fees, and charges not otherwise levied by provinces.
+
+**SECTION 149. Tax on Business.** - The municipality may impose taxes on the following business:
+
+(a) On manufacturers, assemblers, repackers, processors, brewers, distillers, rectifiers, and compounders of liquors, distilled spirits, and wines or manufacturers of any article of commerce of whatever kind or nature, in accordance with the following schedule:
+
+| With gross sales or receipts for the preceding calendar year in the amount of: | Amount of Tax Per Annum |
+| :--- | :---: |
+| Less than P10,000.00 | P165.00 |
+| P10,000.00 or more but less than 15,000.00 | 95.00 |
+| 15,000.00 or more but less than 20,000.00 | 302.00 |
+| 20,000.00 or more but less than 30,000.00 | 440.00 |
+| 30,000.00 or more but less than 40,000.00 | 660.00 |
+| 40,000.00 or more but less than 50,000.00 | 825.00 |
+| 50,000.00 or more but less than 75,000.00 | 1,320.00 |
+| 75,000.00 or more but less than 100,000.00 | 1,650.00 |
+| 100,000.00 or more but less than 150,000.00 | 2,200.00 |
+| 150,000.00 or more but less than 200,000.00 | 2,750.00 |
+| 200,000.00 or more but less than 300,000.00 | 3,850.00 |
+| 300,000.00 or more but less than 500,000.00 | 5,500.00 |
+| 500,000.00 or more but less than 750,000.00 | 8,000.00 |
+| 750,000.00 or more but less than 1,000,000.00 | 10,000.00 |
+| 1,000,000.00 or more but less than 2,000,000.00 | 13,750.00 |
+| 2,000,000.00 or more but less than 3,000,000.00 | 16,500.00 |
+| 3,000,000.00 or more but less than 4,000,000.00 | 19,800.00 |
+| 4,000,000.00 or more but less than 5,000,000.00 | 23,100.00 |
+| 5,000,000.00 or more but less than 6,500,000.00 | 24,375.00 |
+| 6,500,000.00 or more | at a rate not exceeding thirty-seven and a half percent (37½%) of one percent (1%) |
+
+(b) On wholesalers, distributors, or dealers in any article of commerce of whatever kind or nature in accordance with the following schedule:
+
+| With gross sales or receipts for the preceding calendar year in the amount of: | Amount of Tax Per Annum |
+| :--- | :---: |
+| Less than P1,000.00 | P18.00 |
+| P1,000.00 or more but less than P2,000.00 | 33.00 |
+| 2,000.00 or more but less than 3,000.00 | 50.00 |
+| 3,000.00 or more but less than 4,000.00 | 72.00 |
+| 4,000.00 or more but less than 5,000.00 | 100.00 |
+| 5,000.00 or more but less than 6,000.00 | 121.00 |
+| 6,000.00 or more but less than 7,000.00 | 143.00 |
+| 7,000.00 or more but less than 8,000.00 | 165.00 |
+| 8,000.00 or more but less than 10,000.00 | 187.00 |
+| 10,000.00 or more but less than 15,000.00 | 95.00 |
+| 15,000.00 or more but less than 20,000.00 | 275.00 |
+| 20,000.00 or more but less than 30,000.00 | 330.00 |
+| 30,000.00 or more but less than 40,000.00 | 440.00 |
+| 40,000.00 or more but less than 50,000.00 | 660.00 |
+| 50,000.00 or more but less than 75,000.00 | 990.00 |
+| 75,000.00 or more but less than 100,000.00 | 1,320.00 |
+| 100,000.00 or more but less than 150,000.00 | 1,870.00 |
+| 150,000.00 or more but less than 200,000.00 | 2,420.00 |
+| 200,000.00 or more but less than 300,000.00 | 3,300.00 |
+| 300,000.00 or more but less than 500,000.00 | 4,400.00 |
+| 500,000.00 or more but less than 750,000.00 | 6,600.00 |
+| 750,000.00 or more but less than 1,000,000.00 | 8,800.00 |
+| 1,000,000.00 or more but less than 2,000,000.00 | 10,000.00 |
+| 2,000,000.00 or more | at a rate not exceeding fifty percent (50%) of one percent (1%). |
+
+(c) On exporters, and on manufacturers, millers, producers, wholesalers, distributors, dealers or retailers of essential commodities enumerated hereunder at a rate not exceeding one-half (½) of the rates prescribed under subsection (a), (b) and (d) of this Section:
+
+(1) Rice and corn;
+(2) Wheat or cassava flour, meat, dairy products, locally manufactured, processed or preserved food, sugar, salt and other agricultural, marine, and fresh water products, whether in their original state or not;
+(3) Cooking oil and cooking gas;
+(4) Laundry soap, detergents, and medicine;
+(5) Agricultural implements, equipment and post-harvest facilities, fertilizers, pesticides, insecticides, herbicides and other farm inputs;
+(6) Poultry feeds and other animal feeds;
+(7) School supplies; and
+(8) Cement.
+
+| With gross sales or receipts for the preceding calendar year of: | Rate of TaxPer Annum |
+| :--- | :---: |
+| P400,000.00 or less | 2% |
+| more than P400,000.00 | 1% |
+
+(d) On retailers.
+
+Provided, however, That barangays shall have the exclusive power to levy taxes, as provided under Section 152 hereof, on gross sales or receipts of the preceding calendar year of Eighty Thousand Pesos (P80,000.00) or less, in the case of cities, and Fifty Thousand Pesos (P50,000.00)³⁰ or less, in the case of municipalities.
+
+(e) On contractors and other independent contractors, in accordance with the following schedule:
+
+| With gross receipts for the preceding calendar year in the amount of: | Amount of Tax Per Annum |
+| :--- | :---: |
+| Less than P5,000.00 | P27.50 |
+| P5,000.00 or more but less than P10,000.00 | 61.60 |
+| 10,000.00 or more but less than 15,000.00 | 104.50 |
+| 15,000.00 or more but less than 20,000.00 | 165.00 |
+| 20,000.00 or more but less than 30,000.00 | 275.00 |
+| 30,000.00 or more but less than 40,000.00 | 385.00 |
+| 40,000.00 or more but less than 50,000.00 | 550.00 |
+| 50,000.00 or more but less than 75,000.00 | 880.00 |
+| 75,000.00 or more but less than 100,000.00 | 1,320.00 |
+| 100,000.00 or more but less than 150,000.00 | 1,980.00 |
+| 150,000.00 or more but less than 200,000.00 | 2,640.00 |
+| 200,000.00 or more but less than 250,000.00 | 3,630.00 |
+| 250,000.00 or more but less than 300,000.00 | 4,620.00 |
+| 300,000.00 or more but less than 400,000.00 | 6,160.00 |
+| 400,000.00 or more but less than 500,000.00 | 8,250.00 |
+| 500,000.00 or more but less than 750,000.00 | 9,250.00 |
+| 750,000.00 or more but less than 1,000,000.00 | 10,250.00 |
+| 1,000,000.00 or more but less than 2,000,000.00 | 11,500.00 |
+| 2,000,000.00 or more | at a rate not exceeding fifty percent (50%) of one percent (1%) |
+
+(f) On banks and other financial institutions, at a rate not exceeding fifty percent (50%) of one percent (1%) on the gross receipts of the preceding calendar year derived from interest, commissions and discounts from lending activities, income from financial leasing, dividends, rentals on property and profit from exchange or sale of property, insurance premium.
+
+(g) On peddlers engaged in the sale of any merchandise or article of commerce, at a rate not exceeding Fifty pesos (P50.00) per peddler annually.
+
+(h) On any business, not otherwise specified in the preceding paragraphs, which the Sanggunian concerned may deem proper to tax: Provided, That on any business subject to the excise, value-added or percentage tax under the National Internal Revenue Code, as amended, the rate of tax shall not exceed two percent (2%) of gross sales or receipts of the preceding calendar year.
+
+The Sanggunian concerned may prescribe a schedule of graduated tax rates but in no case to exceed the rates prescribed herein.
+
+**SECTION 150. Retirement of Business.** - A business subject to tax pursuant to the preceding sections shall, upon termination thereof, submit a sworn statement of its gross sales or receipts for the current year. If the tax was paid during the year, the difference shall be paid before the business concerned is officially retired.
+
+**SECTION 151. Payment of Business Taxes.** - (a) The taxes imposed under Section 143 shall be payable for every separate or distinct establishment or place where business subject to the tax is conducted and one line of business does not become exempt by being conducted with some other business for which such tax has been paid. The tax on a business must be paid by the person conducting the same.
+
+(b) In cases where a person conducts or operates two (2) or more businesses which are subject to the same rate of tax, the tax shall be computed on the combined total gross sales or receipts of the said two (2) or more related businesses.
+
+(c) In cases where a person conducts or operates two (2) or more businesses which are subject to different rates of tax, the gross sales or receipts of each business shall be separately reported for the purpose of computing the tax due from each business.
+
+**SECTION 152. Fees and Charges.** - The municipality may impose and collect such reasonable fees and charges on business and occupation and, except as reserved to the province in Section 15 of this Code, on the practice of any profession or calling, commensurate with the cost of regulation, inspection and licensing before any person may engage in such business or occupation, or practice such profession or calling.
+
+**SECTION 153. Fees for Sealing and Licensing of Weights and Measures.** - (a) The municipality may levy fees for the sealing and licensing of weights and measures at such reasonable rates as shall be prescribed by the Sangguniang Bayan.
+
+(b) The Sangguniang bayan shall prescribe the necessary regulations for the use of such weights and measures, subject to such guidelines as may be prescribed by the Ministry of Science and Technology. The Sanggunian concerned shall, by appropriate ordinance, penalize fraudulent practices and unlawful possession or use of instruments of weights and measures and prescribe the criminal penalty therefore in accordance with the provisions of this Code. Provided, however, that the Sanggunian concerned may authorize the municipal treasurer to settle an offense not involving the commission of fraud before a case therefore is files in court, upon payment of a compromise penalty as prescribed by the Sanggunian but not less than One Thousand Pesos (P1,000)³¹.
+
+**SECTION 154. Fishery Rentals, Fees and Charges.** - (a) Municipalities shall have the exclusive authority to grant fishery privileges in the municipal waters and impose rentals, fees or charges therefore in accordance with the provisions of this Section. Provided, that; rentals, fees, or charges shall be based on estimates of resource rent as may be determined by the Sanggunian concerned in consultation with the Fisheries and Aquatic Resource Management Councils established under Republic Act No. 8550 otherwise known as the “Philippine Fisheries Code of 1998”.
+
+(b) The Sangguniang Bayan may:
+
+(1) Grant fishery privileges to erect fish corrals, oyster, mussels or other aquatic beds or bangus fry areas, within a definite zone of the municipal waters, as determined by it: Provided, however, That duly registered organizations and cooperatives of marginal fishermen shall have the preferential right to such fishery privileges: Provided, further, That the Sangguniang bayan may require a public bidding in conformity with and pursuant to an ordinance for the grant of such privileges: Provided, finally, That in the absence of such organizations and cooperatives or their failure to exercise their preferential right, other parties may participate in the public bidding in conformity with the above cited procedure.
+
+(2) Grant the privilege to gather, take or catch bangus fry, prawn fry or kawag-kawag or fry of other species and fish from the municipal waters by nets, traps or other fishing gears to marginal fishermen free of any rental, fee, charge or any other imposition whatsoever.
+
+(3) Issue for the operation of fishing vessels of three (3) tons or less for which purpose the Sangguniang bayan shall promulgate rules and regulations regarding the issuances of such licenses to qualified applicants under existing laws. Provided, that the total number of licenses issued in consonance with the total allowable catch as determined by the Sanggunian concerned, in consultation with Fisheries and Aquatic Resource Management Council³².
+
+Provided, however, That the Sanggunian concerned shall, by appropriate ordinance, penalize the use of explosives, noxious or puissance substances, electricity, muro-ami, and other deleterious methods of fishing and prescribe a criminal penalty therefor in accordance with the provisions of this Code: Provided, finally, That the Sanggunian concerned shall have the authority to prosecute any violation of the provisions of applicable fisherylaws.
+
+**SECTION 155. Situs of the Tax.** - (a) For purposes of collection of the taxes under Section 19 of this Code, manufacturers, assemblers, repackers, brewers, distillers, rectifiers and compounders of liquor, distilled spirits and wines, millers, producers, exporters, wholesalers, distributors, dealers, contractors, banks and other financial institutions, and other businesses maintaining or operating branch or sales outlet elsewhere shall record the sale in the branch or sales outlet making the sale or transaction, and the tax thereon shall accrue and shall be paid to the municipality where such branch or sales outlet is located. In cases where there is no such branch or sales outlet in the city or municipality where the sale or transaction is made, the sale shall be duly recorded in the principal office and the taxes due shall accrue and shall be paid to such city or municipality.
+
+(b) The following sales allocation shall apply to manufacturers, assemblers, repackers, contractors, producers, and exporters with factories, project offices, plants, and plantations in the pursuit of their business:
+
+(1) Thirty percent (30%) of all sales recorded in the principal office shall be taxable by the city or municipality where the principal office is located; and
+
+(2) Seventy percent (70%) of all sales recorded in the principal office shall be taxable by the city or municipality where the factory, project office, plant, or plantation is located.
+
+(c) In case of a plantation located at a place other than the place where the factory is located, said seventy percent (70%) mentioned in subparagraph (b) of subsection (2) above shall be divided as follows:
+
+(1) Sixty percent (60%) to the city or municipality where the factory is located; and
+
+(2) Forty percent (40%) to the city or municipality where the plantation is located.
+
+(d) In case where a manufacturer, assembler, producer, exporter or contract or has two (2) or more factories, project offices, plants, or plantations located in different localities, the seventy percent (70%) mentioned in subparagraph (b) of subsection (2) above shall be prorated among the localities where the factories, project offices, plants, and plantations are located in proportion to their respective volume or production during the period for which the tax is due.
+
+(e) The foregoing sales allocation shall be applied irrespective of whether or not sales are made in the locality where the factory, project office, plant or plan is located.
+
+**ARTICLE III**
+**Cities**
+
+**SECTION 156. Scope of Taxing Powers.** - Except as otherwise provided in this Code, the city, may levy the taxes, fees, and charges which the province or municipality may impose: Provided, however, That the taxes, fees and charges levied and collected by highly urbanized and independent component cities shall accrue to them and distributed in accordance with the provisions of this code.
+
+The rates of taxes that the city may levy may exceed the maximum rates allowed for the province or municipality by not more than fifty percent (50%) except the rates of professional and amusement taxes.
+
+**ARTICLE IV**
+**Barangays**
+
+**SECTION 157. Scope of Taxing Powers.** - The Barangays may levy taxes, fees, and charges, as provided in this Article, which shall exclusively accrue to them:
+
+(a) Taxes - On stores or retailers with fixed business establishments with gross sales or receipts of the preceding calendar year of Eighty Thousand Pesos (P80,000.00) or less, in the case of cities and Fifty Thousand Pesos (P50,000.00)³³ or less, in the case of municipalities, at a rate not exceeding one percent (1%) on such gross sales or receipts.
+
+(b) Service Fees or Charges - Barangays may collect reasonable fees or charges for services rendered in connection with the regulation or the use of Barangay- owned properties or service facilities such as palay, copra, or tobacco dryers.
+
+(c) Barangay Clearance - No city or municipality may issue any license or permit for any business or activity unless a clearance is first obtained from the Barangay where such business or activity is located or conducted. For such clearance, the Sangguniang Barangay may impose a reasonable fee. The application for clearance shall be acted upon within seven (7) working days from the filing thereof. In the event that the clearance is not issued within the said period, the city or municipality may issue the said license or permit.
+
+(d) Other Fees and Charges - The Barangay may levy reasonable fees and charges:
+
+(1) On commercial breeding of fighting cocks, cockfights and cockpits;
+(2) On places of recreation which charge admission fees; and
+(3) On billboards, signboards, neon signs, and outdoor advertisements.
+
+**ARTICLE V**
+**Common Revenue-Raising Powers**
+
+**SECTION 158. Service Fees and Charges.** - Local government units may impose and collect such reasonable fees and charges for services rendered.
+
+**SECTION 159. Public Utility Charges.** – Local government units may fix the rates for the operation of public utilities owned, operated and maintained by them within their jurisdiction.
+
+**SECTION 160. Toll Fees or Charges.** – The Sanggunian concerned may prescribe the terms and conditions and fix the rates for the imposition of toll fees or charges for the use of any public road, pier or wharf, waterway, bridge, ferry or telecommunication system funded and constructed by the local government unit concerned: Provided, That no such toll fees or charges shall be collected from officers and enlisted men of the Armed Forces of the Philippines and members of the Philippine National Police on mission, post office personnel delivering mail, physically- handicapped, and disabled citizens who are sixty-five (65) years or older.
+
+When public safety and welfare so requires, the Sanggunian concerned may discontinue the collection of the tolls, and thereafter the said facility shall be free and open for public use.
+
+**ARTICLE VI**
+**Community Tax**
+
+**SECTION 161. Community Tax.** - Cities or municipalities may levy a community tax in accordance with the provisions of this Article.
+
+**SECTION 162. Individuals Liable to Community Tax.** - Every inhabitant of the local government unit eighteen (18) years of age or over who has been regularly employed on a wage or salary basis for at least thirty (30) consecutive working days during any calendar year, or who is engaged in business or occupation, or who owns real property with an aggregate assessed value of One thousand pesos (P1,000.00) or more, or who is required by law to file an income tax return shall pay an annual community tax of Twenty Pesos (P 20.00)³⁴ and an annual additional tax of One Pesos (P1.00)for every One thousand pesos (P1,000.00) of income, regardless of whether from business, exercise of profession or from property, which in no case shall exceed Five thousand pesos(P5,000.00).
+
+In the case of husband and wife, the additional tax herein imposed shall be based upon the total property owned by them and the total gross receipts or earnings derived by them.
+
+**SECTION 163. Juridical Persons Liable to Community Tax.** - Every corporation no matter how created or organized, whether domestic or resident foreign, engaged in or doing business in the Philippines shall pay an annual community tax of One Thousand Pesos (P 1,000.00)³⁵ and an annual additional tax, which in no case; shall exceed Ten thousand pesos (P10,000.00) in accordance with the following schedule:
+
+(1) For every Five thousand pesos (P5,000.00) worth of real property in the Philippines owned by it during the preceding year based on the valuation used for the payment of the real property tax under existing laws, found in the assessment rolls of the city or municipality where the real property is situated – Five Pesos (P 2.00)³⁶; and
+
+(2) For every Five thousand pesos (P5,000.00) of gross receipts or earnings derived by it from its business in the Philippines during the preceding year - Five Pesos (P 2.00)³⁷.
+
+The dividends received by a corporation from another corporation however shall, for the purpose of the additional tax, be considered as part of the gross receipts or earnings of said corporation.
+
+**SECTION 164. Exemption.** - The following are exempt from the community tax:
+
+(1) Diplomatic and consular representatives; and
+
+(2) Transient visitors when their stay in the Philippines does not exceed three (3) months.
+
+**SECTION 165. Place of Payment.** - The community tax shall be paid in the place of residence of the individual, or in the place where the principal office of the juridical entity is located.
+
+**SECTION 166. Time for Payment; Penalties for Delinquency.** - (a) The community tax shall accrue on the first (1st) day of January of each year which shall be paid not later than the last day of February of each year. If a person reaches the age of eighteen (18) years or otherwise loses the benefit of exemption on or before the last day of June, he shall be liable for the community tax on the day he reaches such age or upon the day the exemption ends. However, if a person reaches the age of eighteen (18) years or loses the benefit of exemption on or before the last day of March, he shall have twenty (20) days to pay the community tax without becoming delinquent.
+
+Persons who come to reside in the Philippines or reach the age of eighteen (18) years on or after the first (1st) day of July of any year, or who cease to belong to an exempt class on or after the same date, shall not be subject to the community tax for that year.
+
+(b) Corporation established and organized on or before the last day of June shall be liable for the community tax for that year. But corporations established and organized on or before the last day of March shall have twenty (20) days within which to pay the community tax without becoming delinquent. Corporations established and organized on or after the first day of July shall not be subject to the community tax for that year.
+
+If the tax is not paid within the time prescribed above, there shall be added to the unpaid amount an interest of twenty-four percent (24%) per annum from the due date until it is paid.
+
+**SECTION 167. Community Tax Certificate.** - A community tax certificate shall be issued to every person or corporation upon payment of the community tax. A community tax certificate may also be issued to any person or corporation not subject to the community tax upon payment of One peso (P1.00).
+
+**SECTION 168. Presentation of Community Tax Certificate on Certain Occasions.** - (a) When an individual subject to the community tax acknowledges any document before a notary public, takes the oath of office upon election or appointment to any position in the government service; receives any license, certificate, or permit from any public authority; pays any tax or fee; receives any money from any public fund; transacts other official business; or receives any salary or wage from any person or corporation, it shall be the duty of any person, officer, or corporation with whom such transaction is made or business done or from whom any salary or wage is received to require such individual to exhibit the community tax certificate.
+
+The presentation of community tax certificate shall not be required in connection with the registration of a voter.
+
+(b) When, through its authorized officers, any corporation subject to the community tax receives any license, certificate, or permit from any public authority, pays any tax or fee, receives money from public funds, or transacts other official business, it shall be the duty of the public official with whom such transaction is made or business done, to require such corporation to exhibit the community tax certificate.
+
+(c) The community tax certificate required in the two preceding paragraphs shall be the one issued for the current year, except for the period from January until the fifteenth (15th) of April each year, in which case, the certificate issued for the preceding year shall suffice.
+
+**SECTION 169.** (a) The Bangsamoro Revenue Office³⁸ shall cause the printing of community tax certificates and distribute the same to the cities and municipalities through the city and municipal treasurers in accordance with prescribed regulations.
+
+The proceeds of the tax shall accrue to the general funds of the cities, municipalities and Barangays except a portion thereof which shall accrue to the general fund of the Bangsamoro Government to cover the actual cost of printing and distribution of the forms and other related expenses. The city or municipal treasurer concerned shall remit to the Bangsamoro Treasury Office³⁹ the said share of the Bangsamoro Government in the proceeds of the tax within ten (10) days after the end of each quarter.
+
+(b) The city or municipal treasurer shall deputize the Barangay treasurer to collect the community tax in their respective jurisdictions: Provided, however, that said Barangay treasurer shall be bonded in accordance with existing laws.
+
+(c) The proceeds of the community tax actually and directly collected by the city or municipal treasurer shall accrue entirely to the general fund of the city or municipality concerned. However, new taxes, fees or charges, or changes in the community tax collected through the Barangay treasurers shall be apportioned as follows:
+
+(1) Fifty percent (50%) shall accrue to the general fund of the city or municipality concerned; and
+
+(2) Fifty percent (50%) shall accrue to the Barangay where the tax is collected.
+
+**CHAPTER III**
+**Collection of Taxes**
+
+**SECTION 170. Tax Period and Manner of Payment.** - Unless otherwise provided in this Code, the tax period of all local taxes, fees and charges shall be the calendar year. Such taxes, fees and charges may be paid in quarterly installments.
+
+**SECTION 171. Accrual of Tax.** - Unless otherwise provided in this Code, all local taxes, fees, and charges shall accrue on the first (1st) day of January of each year. However, new taxes, fees or charges, or changes in the rates thereof, shall accrue on the first (1st) day of the quarter next following the effectivity of the ordinance imposing such new levies or rates.
+
+**SECTION 172. Time of Payment.** - Unless otherwise provided in this Code, all local taxes, fees, and charges shall be paid within the first twenty (20) days of January or of each subsequent quarter, as the case may be. The Sanggunian concerned may, for a justifiable reason or cause, extend the time of payment of such taxes, fees, or charges without surcharges or penalties, but only for a period not exceeding six (6) months.
+
+**SECTION 173. Surcharges and Penalties on unpaid Taxes, fees, or Charges.** - The Sanggunian may impose a surcharge not exceeding twenty-five percent (25%) of the amount of taxes, fees or charges not paid on time and an interest at the rate not exceeding two percent (2%) per month of the unpaid taxes, fees or charges including surcharges, until such amount is fully paid but in no case shall the total interest on the unpaid amount or portion thereof exceed thirty-six (36) months.
+
+**SECTION 174. Interests on Other Unpaid Revenues.** - Where the amount of any other revenue due a local government unit, except voluntary contributions or donations, is not paid on the date fixed in the ordinance, or in the contract, expressed or implied, or upon the occurrence of the event which has given rise to its collection, there shall be collected as part of that amount an interest thereon at the rate not exceeding two percent (2%) per month from the date it is due until it is paid, but in no case shall the total interest on the unpaid amount or a portion thereof exceed thirty-six months.
+
+**SECTION 175. Collection of Local Revenues by Treasurer.** - All local taxes, fees, and charges shall be collected by the provincial, city, municipal, or Barangay treasurer, or their duly authorized deputies.
+
+The provincial, city or municipal treasurer may designate the Barangay treasurer as his deputy to collect local taxes, fees, or charges. In case a bond is required for the purpose, the provincial, city or municipal government shall pay the premiums thereon in addition to the premiums of bond that may be required under this Code.
+
+**SECTION 176. Examination of Books of Accounts and Pertinent Records of Businessmen by Local Treasurer.** - The provincial, city, municipal or Barangay treasurer may, by himself or through any of his municipal or Barangay treasurer may, by himself or through any of his deputies duly authorized in writing, examine the books, accounts, and other pertinent records of nay person, partnership, corporation, or association subject to local taxes, fees and charges in order to ascertain, assess, and collect the correct amount of the tax, fee, or charge. Such examination shall be made during regular business hours, only once for every tax period, and shall be certified to by the examining official. Such certificate shall be made of record in the books of accounts of the taxpayer examined.
+
+In the case the examination herein authorized is made by a duly authorized deputy of the local treasurer, the written authority of the deputy concerned shall specifically state the name, address, and business of the taxpayers whose books, accounts, and pertinent records are to be examined, the date and place of such examination, and the procedure to be followed in conducting the same.
+
+For this purpose, the records of the revenue district office of the Bureau of Internal Revenue shall be made available to the local treasurer, his deputy or duly authorized representative.
+
+**CHAPTER IV**
+**Civil Remedies for Collection of Revenues**
+
+**SECTION 177. Application of Chapter.** - The provisions of this Chapter and the remedies provided herein may be availed of for the collection of any delinquent local tax, fee, charge, or other revenue.
+
+**SECTION 178. Local Government's Lien.** - Local taxes, fees, charges and other revenue constitute a lien, superior to all liens, charges or encumbrances in favor of any person, enforceable by appropriate administrative or judicial action, not only upon any property or rights therein which may be subject to the lien but also upon property used in business, occupation, practice of profession or calling, or exercise of privilege with respect to which the lien is imposed. The lien may only be extinguished upon full payment of the delinquent local taxes fees and charges including related surcharges andinterest.
+
+**SECTION 179. Civil Remedies.** - The civil remedies for the collection of local taxes, fees, or, and surcharges and interest resulting from delinquency shall be:
+
+(a) By administrative action thru distraint of goods, chattels, or effects, and other personal of whatever character, including stocks and other securities, debts, credits, bank accounts, and interest in and rights to personal property, and by levy upon real property and interest in or rights to real property; and
+
+(b) By judicial action. Either of these remedies or all may be pursued concurrently or at the discretion of the local government unit concerned.
+
+**SECTION 180. Distraint of Personal Property.** - The remedy by distraint shall proceed as follows:
+
+(a) Seizure - Upon failure of the person owing any local tax, fee, or charge to pay the same at the time required, the local treasurer or his deputy may, upon written notice, seize or confiscate any personal property belonging to that person or any personal property subject to the lien in sufficient quantity to satisfy the tax, fee, or charge in question, together with any increment thereto incident to delinquency and the expenses of seizure. In such case, the local treasurer or his deputy shall issue a duly authenticated certificate based upon the records of his office showing the fact of delinquency and the amounts of the tax, fee, or charge and penalty due. Such certificate shall serve as sufficient warrant for the distraint of personal property aforementioned, subject to the taxpayer's right to claim exemption under the provisions of existing laws. Distrained personal property shall be sold at public auction in the manner herein provided for.
+
+(b) Accounting of distrained goods - The officer executing the distraint shall make or cause to be made an account of the goods, chattels or effects distrained, a copy of which signed by himself shall be either with the owner or person from whose possession the goods, chattels or effects are taken, or at the dwelling or place of business of that person and with someone of suitable age and discretion, to which list shall be added a statement of the sum demanded and a note of the time and place of sale.
+
+(c) Publication - The officer shall forth with cause a notification to be exhibited in not less than three (3) public and conspicuous places in the territory of the local government unit where the distraint is made, specifying the time and place of sale, and the articles distrained. The time of sale shall not be less than twenty (20) days after notice to the owner or possessor of the property as above specified and the publication or posting of the notice. One place for the posting of the notice shall be at the office of the chief executive of the local government unit in which the property is distrained.
+
+(d) Release of distrained property upon payment prior to sale - If at any time prior to the sale, all the proper charges are paid to the officer conducting the sale, the goods or effects distrained shall be restored to the owner.
+
+(e) Procedure of sale - At the time and place fixed in the notice, the officer conducting the sale sell the goods or effects so distrained at public auction to the highest bidder for cash. Within five (5) days after the sale, the local treasurer shall make a report of the proceedings in writing to the local chief executive concerned.
+
+Should the property distrained be not disposed of within one hundred and twenty (120) days from the date of distraint, the same shall be considered as sold to the local government unit concerned for the amount of the assessment made thereon by the Committee on Appraisal and to the extent of the same amount, the tax delinquencies shall be cancelled.
+
+Said Committee on Appraisal shall be composed of the city or municipal treasurer as chairman, with a representative of the Commission on Audit and the city or municipal assessor as members.
+
+(f) Disposition of proceeds - The proceeds of the sale shall be applied to satisfy the tax, including the surcharges, interest, and other penalties incident to delinquency, and the expenses of the distraint and sale. The balance over and above what is required to pay the entire claim shall be returned to the owner of the property sold. The expenses chargeable upon the seizure and sale shall embrace only the actual expenses of seizure and preservation of the property pending the sale, and no charge shall be imposed for the services of the local officer or his deputy. Where the proceeds of the sale are insufficient to satisfy the claim, other property may, in like manner, be distrained until the full amount due, including all expenses, collected.
+
+**SECTION 181. Levy on Real Property.** - After the expiration of the time required to pay the tax, fee, or charge, real property may be levied on before, simultaneously, or after the distraint of personal property belonging to the delinquent taxpayer. To this end, the provincial, city or municipal treasurer, as the case may be, shall prepare a duly authenticated certificate showing the name of the taxpayer and the amount of the tax, fee, or charge, and penalty due from him. Said certificate shall operate with the force of a legal execution throughout the Philippines. Levy shall be affected by writing upon said certificate the description of the property upon which levy is made. At the same time, written notice of the levy shall be mailed to or served upon the assessor and the Registrar of Deeds of the province or city where the property is located who shall annotate the levy on the tax declaration and certificate of title of the property, respectively, and the delinquent taxpayer or, if he be absent from the Philippines, to his agent or the manager of the business in respect to which the liability arose, or if there be none, to the occupant of the property in question. In case the levy on real property is not issued before or simultaneously with the warrant of distraint on personal property, and the personal property of the taxpayer is not sufficient to satisfy his delinquency, the provincial, city or municipal treasurer, as the case may be, shall, within thirty (30) days after execution of the distraint, proceed with the levy on the taxpayer's real property. A report on any levy shall, within ten (10) days after receipt of the warrant, be submitted by the levying officer to the Sanggunian concerned.
+
+**SECTION 182. Penalty for Failure to Issue and Execute Warrant.** - Without prejudice to criminal under the Revised Penal Code and other applicable laws, any local treasurer who fails to issue or execute the warrant of distraint or levy after the expiration of the time prescribed, or who is found guilty of abusing the exercise thereof by competent authority shall be automatically dismissed from the service after due notice and hearing.
+
+**SECTION 183. Advertisement and Sale.** - Within thirty (30) days after levy, the local treasurer shall proceed to publicly advertise for sale or auction the property or a usable portion thereof as may be necessary to satisfy the claim and cost of sale; and such advertisement shall cover a period of at least thirty (30) days. It shall be effected by posting a notice at the main entrance of the municipal building or city hall, and in a public and conspicuous place in the Barangay where the real property is located, and by publication once a week for three (3) weeks in a newspaper of general circulation in the province, city or municipality where the property is located. The advertisement shall contain the amount of taxes, fees or charges, and penalties due thereon, and the time and place of sale, the name of the taxpayer against whom the taxes, fees, or charges are levied, and a short description of the property to be sold. At any time before the date fixed for the sale, the taxpayer may stay the proceedings by paying the taxes, fees, charges, penalties and interests. If he fails to do so, the sale shall proceed and shall be held either at the main entrance of the provincial, city or municipal building, or on the property to be sold, or at any other place as determined by the local treasurer conducting the sale and specified in the notice of sale.
+
+Within thirty (30) days after the sale, the local treasurer or his deputy shall make a report of the sale to the Sanggunian concerned, and which shall form part of his records. After consultation with the Sanggunian, the local treasurer shall make and deliver to the purchaser a certificate of sale, showing the proceedings of the sale, describing the property sold, stating the name of the purchaser and setting out the exact amount of all taxes, fees, charges, and related surcharges, interests, or penalties: Provided, however, That any excess in the proceeds of the sale over the claim and cost of sales shall be turned over to the owner of the property.
+
+The local treasurer may, by ordinance duly approved, advance an amount sufficient to defray the costs of collection by means of the remedies provided for in this Title, including the preservation or transportation in case of personal property, and the advertisement and subsequent sale, in cases of personal and real property including improvements thereon.
+
+**SECTION 184. Redemption of Property Sold.** - Within one (1) year from the date of sale, the delinquent taxpayer or his representative shall have the right to redeem the property upon payment to the local treasurer of the total amount of taxes, fees, or charges, and related surcharges, interests or penalties from the date of delinquency to the date of sale, plus interest of not more than two percent (2%) per month on the purchase price from the date of purchase to the date of redemption. Such payment shall invalidate the certificate of sale issued to the purchaser and the owner shall be entitled to a certificate of redemption from the provincial, city or municipal treasurer or his deputy.
+
+The provincial, city or municipal treasurer or his deputy, upon surrender by the purchaser of the certificate of sale previously issued to him, shall forthwith return to the latter the entire purchase price paid by him plus the interest of not more than two percent (2%) per month herein provided for, the portion of the cost of sale and other legitimate expenses incurred by him, and said property thereafter shall be free from the lien of such taxes, fees, or charges, related surcharges, interests, and penalties.
+
+The owner shall not, however, be deprived of the possession of said property and shall be entitled to the rentals and other income thereof until the expiration of the time allowed for its redemption.
+
+**SECTION 185. Final Deed to Purchaser.** - In case the taxpayer fails to redeem the property as provided herein, the local treasurer shall execute a deed conveying to the purchaser so much of the property as has been sold, free from liens of any taxes, fees, charges, related surcharges, interests, and penalties. The deed shall succinctly recite all the proceedings upon which the validity of the sale depends.
+
+**SECTION 186. Purchase of Property by the Local Government Units for Want of Bidder.** - In case there is no bidder for the real property advertised for sale as provided herein, or if the highest bid is for an amount insufficient to pay the real property tax and the related interest and costs of sale, the local treasurer conducting the sale shall purchase the property in behalf of the local government unit concerned to satisfy the claim and within two (2) days thereafter shall make a report of his proceedings which shall be reflected upon the records of his office. It shall be the duty of the Registrar of Deeds concerned upon registration with his office of any such declaration of forfeiture to transfer the title of the forfeited property to the local government unit concerned without the necessity of an order from a competent court.
+
+Within one (1) year from the date of such forfeiture, the taxpayer or any of his representative, may redeem the property by paying to the local treasurer the full amount of the taxes, fees, charges, and related surcharges, interests, or penalties, and the costs of sale. If the property is not redeemed as provided herein, the ownership thereof shall be fully vested of the local government unit concerned.
+
+**SECTION 187. Resale of Real Estate Taken for Taxes, Fees, or Charges.** - The Sanggunian may, by ordinance duly approved, and upon notice of not less than twenty (20) days, sell and dispose of the real property acquired under the preceding section at public auction. The proceeds of the sale shall accrue to the general fund of the local government unit concerned.
+
+**SECTION 188. Collection of Delinquent Taxes, Fees, Charges or other Revenues through Judicial Action.** - The local government unit concerned may enforce the collection of delinquent taxes, fees, charges or other revenues by civil action in any court of competent jurisdiction. The civil action shall be filed by the local treasurer within the period prescribed in Section 194 of this Code.
+
+**SECTION 189. Further Distraint or Levy.** - The remedies by distraint and levy may be repeated if necessary until the full amount due, including all expenses, is collected.
+
+**SECTION 190. Personal Property Exempt from Distraint or Levy.** - The following property shall be exempt from distraint and the levy, attachment or execution thereof for delinquency in the payment of any local tax, fee or charge, including the related surcharge and interest:
+
+(a) Tools and the implements necessarily used by the delinquent taxpayer in his trade or employment;
+
+(b) One (1) horse, cow, carabao, or other beast of burden, such as the delinquent taxpayer may select, and necessarily used by him in his ordinary occupation;
+
+(c) His necessary clothing, and that of all his family;
+
+(d) Household furniture and utensils necessary for housekeeping and used for that purpose by the delinquent taxpayer, as he may select, of a value not exceeding Ten thousand pesos (Php10,000.00);
+
+(e) Provisions, including crops, actually provided for individual or family use sufficient for four (4) months;
+
+(f) The professional libraries of doctors, engineers, lawyers and judges;
+
+(g) One fishing boat and net, not exceeding the total value of Ten thousand pesos (Php10,000.00), by the lawful use of which a fisherman earns his livelihood; and
+
+(h) Any material or article forming part of a house or improvement of any real property.
+
+**CHAPTER 5**
+**Miscellaneous Provisions**
+
+**SECTION 191. Power to Levy Other Taxes, Fees or Charges.** - Local government units may exercise the power to levy taxes, fees or charges on any base or subject not otherwise specifically enumerated herein or taxed under the provisions of the National Internal Revenue Code, as amended, or other applicable laws: Provided, That the taxes, fees, or charges shall not be unjust, excessive, oppressive, confiscatory or contrary to declared national policy: Provided, further, That the ordinance levying such taxes, fees or charges shall not be enacted without any prior public hearing conducted for the purpose.
+
+**SECTION 192. Procedure for Approval and Effectivity of Tax ordinances and Revenue Measures; Mandatory Public Hearings.** - The procedure for approval of local tax ordinances and revenue measures shall be in accordance with the provisions of this Code: Provided, That public hearings shall be conducted for the purpose prior to the enactment thereof: Provided, further, That any question on the constitutionality or legality of tax ordinances or revenue measures may be raised on appeal within thirty (30) days from the effectivity thereof to the Secretary of Justice who shall render a decision within sixty (60) days from the date of receipt of the appeal: Provided, however, That such appeal shall not have the effect of suspending the effectivity of the ordinance and the accrual and payment of the tax, fee, or charge levied therein: Provided, finally, That within thirty (30) days after receipt of the decision or the lapse of the sixty-day period without the Secretary of Justice acting upon the appeal, the aggrieved party may file appropriate proceedings with a court of competent jurisdiction.
+
+**SECTION 193. Publication of Tax Ordinances and Revenue Measures.** - Within ten (10) days after their approval, certified true copies of all provincial, city, and municipal tax ordinances or revenue shall be published in full for three (3) consecutive days in a newspaper of local circulation: Provided, however, that in provinces, cities and municipalities where there are no newspapers of local circulation, the same may be posted in at least two (2) conspicuous and publicly accessible places.
+
+**SECTION 194. Furnishing of Copies of Tax Ordinances and Revenue Measures.** - Copies of all provincial, city, and municipal and Barangay tax ordinances and revenue measures shall be furnished the respective local treasurers for public dissemination.
+
+**SECTION 195. Attempt to Enforce Void or Suspended Tax Ordinances and Revenue Measures.** - The enforcement of any tax ordinance or revenue measure after due notice of the disapproval or suspension thereof shall be sufficient ground for administrative disciplinary action against the local officials and employees responsible therefor.
+
+**SECTION 196. Authority of Local Government Units to Adjust Rates of Tax ordinances.** - Local units shall have the authority to adjust the tax rates as prescribed herein not oftener than once every five (5) years, but in no case shall such adjustment exceed ten percent (10%) of the rates fixed under this Code.
+
+**SECTION 197. Authority to Grant Tax Exemption Privileges.** - Local government units may, through ordinances duly approved, grant tax exemptions, incentives or reliefs under such terms and conditions, as they may deem necessary.
+
+**SECTION 198. Withdrawal of Tax Exemption Privileges.** - Unless otherwise provided in this Code, tax exemptions or incentives granted to, or presently enjoyed by all persons, whether natural or juridical, including government-owned or -controlled corporations, except local water districts, cooperatives duly registered under R.A. No. 6938, non-stock and non-profit hospitals and educational institutions, are hereby withdrawn upon the effectivity of this Code.
+
+**CHAPTER VI**
+**Taxpayer's Remedies**
+
+**SECTION 199. Periods of Assessment and Collection.** - (a) Local taxes, fees, or charges shall be assessed within five (5) years from the date they became due. No action for the collection of such taxes, fees, or charges, whether administrative or judicial, shall be instituted after the expiration of such period: Provided, That, taxes, fees or charges which have accrued before the effectivity of this Code may be assessed within a period of three (3) years from the date they became due.
+
+(b) In case of fraud or intent to evade the payment of taxes, fees, or charges, the same may be assessed within ten (10) years from discovery of the fraud or intent to evade payment.
+
+(c) Local taxes, fees, or charges may be collected within five (5) years from the date of by or judicial action. No such action shall be instituted after the expiration of said period: Provided, however, That, taxes, fees or charges assessed before the effectivity of this Code may be collected within a period of three (3) years from the date of assessment.
+
+(d) The running of the periods of prescription provided in the preceding paragraphs shall be for the time during which:
+
+(1) The treasurer is legally prevented from making the assessment of collection;
+
+(2) The taxpayer requests for a reinvestigation and executes a waiver in writing before expiration of the period within which to assess or collect; and
+
+(3) The taxpayer is out of the country or otherwise cannot be located.
+
+**SECTION 200. Protest of Assessment.** - When the local treasurer or his duly authorized representative finds that correct taxes, fees, or charges have not been paid, he shall issue a notice of assessment stating the nature of the tax, fee or charge, the amount of deficiency, the surcharges, interests and penalties. Within sixty (60) days from the receipt of the notice of assessment, the taxpayer may file a written protest with the local treasurer contesting the assessment; otherwise, the assessment shall become final and executory. The local treasurer shall decide the protest within sixty (60) days from the time of its filing. If the local treasurer finds the protest to be wholly or partly meritorious, he shall issue a notice canceling wholly or partially the assessment. However, if the local treasurer finds the assessment to be wholly or partly correct, he shall deny the protest wholly or partly with notice to the taxpayer. The tax payer shall have thirty days from the receipt of the denial of the protest or from the lapse of the sixty (60) day period prescribed herein within which to appeal with the court of competent jurisdiction otherwise the assessment becomes conclusive and unappealable.
+
+**SECTION 201. Claim for Refund of Tax Credit.** - No case or proceeding shall be maintained in any court for the recovery of any tax, fee, or charge erroneously or illegally collected until a written claim for refund or credit has been filed with the local treasurer. No case or proceeding shall be entertained in any court after the expiration of two (2) years from the date of the payment of such tax, fee, or charge, or from the date the taxpayer is entitled to a refund or credit.
+
+---
+¹⁸ To recognize economic enterprises as a source of revenue other than the Internal Revenue Allotment and direct the local government units to incorporate it in their local economic policies and to disseminate tax information to their constituents as suggested during the consultations conducted in BARMM
+¹⁹ To direct the local government units in establishing a tax mapping system for effective enforcement of their taxing powers and as suggested by the constituents during consultation in BARMM
+²⁰ Incorporated the ARTA and Ease of Doing Business Law
+²¹ Section 7, Article XII, RA 11054 - Uniform and Equitable Taxation; prohibition Against Confiscatory Taxes, Fees and Charges.
+²² Philippine Fisheries Code of 1998
+²³ Section 4, Article III, RA 11054 – Bangsamoro Regional and Municipal Waters
+²⁴ Philippine Fisheries Code of 1998
+²⁵ Philippine Fisheries Code of 1998
+²⁶ Incorporated the provision of the Philippine Mining Act 1995
+²⁷ Amended the distribution by including the Bangsamoro Government as sharer in accordance with Section 6, Article XII, RA 11054 – Sources of Revenue
+²⁸ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+²⁹ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³⁰ Barangays will have a bigger scope in tax imposition and increase in revenues.
+³¹ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³² The Philippine Fisheries Code of 1998
+³³ Barangays will have a bigger scope in tax imposition and increase in revenues.
+³⁴ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³⁵ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³⁶ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³⁷ Team recommends to increase the amount due to inflation since the Local Government Code was enacted in 1991.
+³⁸ Section 11, Article XII, RA 11054 – Assessment and Collection of Taxes; Bangsamoro Revenue Office
+³⁹ Section 4, Article XII, RA 11054 – Bangsamoro Treasury Office
+
+**TITLE II.**
+**REAL PROPERTY TAXATION**
+
+**CHAPTER I**
+**General Provisions**
+
+**SECTION 202. Scope.** - This Title shall govern the administration, appraisal, assessment, levy and collection of real property tax.
+
+**SECTION 203. Fundamental Principles.** - The appraisal, assessment, levy and collection of real property tax shall be guided by the following fundamental principles:
+
+(a) Real property shall be appraised at its current and fair market value;
+
+(b) Real property shall be classified for assessment purposes on the basis of its actual use;
+
+(c) Real property shall be assessed on the basis of a uniform classification within each local government unit;
+
+(d) The appraisal, assessment, levy and collection of real property tax shall not be let to any private person; and
+
+(e) The appraisal and assessment of real property shall be equitable.
+
+**SECTION 204. Definitions.** - When used in this Title: (a) " Acquisition Cost" for newly-acquired machinery not yet depreciated and appraised within the year of its purchase, refers to the actual cost of the machinery to its present owner, plus the cost of transportation, handling, and installation at the present site;
+
+(b) "Actual Use" refers to the purpose for which the property is principally or predominantly by the person in possession thereof;
+
+(c) "Ad Valorem Tax" is a levy on real property determined on the basis of a fixed proportion of the value of the property;
+
+(d) "Agricultural Land" is land devoted principally to the planting of trees, raising of crops, livestock and poultry, dairying, salt making, inland fishing and similar aquacultural activities, and other agricultural activities, and is not classified as mineral, timber, residential, commercial or industrial land;
+
+(e) "Appraisal" is the act or process of determining the value of property as of a specific date for a specific purpose;
+
+(f) "Assessment" is the act or process of determining the value of a property, or proportion thereof subject to tax, including the discovery, listing, classification, and appraisal of properties;
+
+(g) "Assessment Level" is the percentage applied to the fair market value to determine the taxable value the property;
+
+(h) "Assessed Value" is the fair market value of the real property multiplied by the assessment level. It is synonymous to taxable value;
+
+(i) "Commercial Land" is land devoted principally for the object of profit and is not classified as agricultural, industrial, mineral, timber, or residential land;
+
+(j) "Depreciated Value" is the value remaining after deducting depreciation from the acquisition cost;
+
+(k) "Economic Life" is the estimated period over which it is anticipated that a machinery or equipment may be profitably utilized;
+
+(l) "Fair Market Value" is the price at which a property may be sold by a seller who is not compelled to sell and bought by a buyer who is not compelled to buy;
+
+(m) "Improvement" is a valuable addition made to a property or an amelioration in its condition, amounting to more than a mere repair or replacement of parts involving capital expenditures and labor, which is intended to enhance its value, beauty or utility or to adapt it for new or further purposes;
+
+(n) "Industrial Land" is land devoted principally to industrial activity as capital investment and is not classified as agricultural, commercial, timber, mineral or residential land;
+
+(o) "Machinery" embraces machines, equipment, mechanical contrivances, instruments, or apparatus which may or may not be attached, permanently or temporarily, to the real property. It includes the physical facilities for production, installations and appurtenant service facilities, those which are mobile, self-powered or self-propelled, and those not permanently attached to the real property which are actually, directly, and exclusively used to meet the needs of the particular industry, business or activity and which by their very nature and purpose are designed for, or necessary to its manufacturing, mining, logging, commercial, industrial or agricultural purposes;
+
+(p) "Mineral Lands" are lands in which minerals, metallic or non-metallic, exist in sufficient quantity or grade to justify the necessary expenditures to extract and utilize such materials;
+
+(q) "Reassessment" is the assigning of new assessed values to property, particularly real estate, as the result of a general, partial, or individual reappraisal of the property;
+
+(r) "Remaining Economic Life" is the period of time expressed in years from the date of appraisal to the date when the machinery becomes valueless;
+
+(s) "Remaining Value" is the value corresponding to the remaining useful life of the machinery;
+
+(t) "Replacement or Reproduction Cost" is the cost that would be incurred on the basis of current prices, in acquiring an equally desirable substitute property, or the cost of reproducing a new replica of the property on the basis of current prices with the same or closely similar material; and
+
+(u) "Residential Land" is land principally devoted to habitation.
+
+**SECTION 205. Administration of the Real Property Tax.** - The provinces and cities shall be primarily responsible for the proper, efficient and effective administration of the real property tax.
+
+**CHAPTER II**
+**Appraisal and Assessment of Real Property**
+
+**SECTION 206. Appraisal of Real Property.** - All real property, whether taxable or exempt, shall be appraised at the current and fair market value prevailing in the locality where the property is situated. The Ministry of Finance, and Budget and Management⁴⁰ shall promulgate the necessary rules and regulations for the classification, appraisal, and assessment of real property pursuant to the provisions of this Code and guided by the standards set by the Department of Finance – Bureau of Local Government Finance.
+
+**SECTION 207. Declaration of Real Property by the Owner or Administrator.** - It shall be the duty of all persons, natural or juridical, owning or administering real property, including the improvements therein, within a city or municipality, or their duly authorized representative, to prepare, or cause to be prepared, and file with the provincial or city assessor, a sworn statement declaring the true value of their property, whether previously declared or undeclared, taxable or exempt, which shall be the current and fair market value of the property, as determined by the declarant. Such declaration shall contain a description of the property sufficient in detail to enable the assessor or his deputy to identify the same for assessment purposes. The sworn declaration of real property herein referred to shall be filed with the assessor concerned once every three (3) years during the period from January first (1st) to June thirtieth (30th).
+
+**SECTION 208. Duty of Person Acquiring Real Property or Making Improvement Thereon.** - It shall also be the duty of any person, or his authorized representative, acquiring at any time real property in any municipality or city or making any improvement on real property, to prepare, or cause to be prepared, and file with the provincial or city assessor, a sworn statement declaring the true value of subject property, within sixty (60) days after the acquisition of such property or upon completion or occupancy of the improvement, whichever comes earlier.
+
+**SECTION 209. Declaration of Real Property by the Assessor.** - When any person, natural or juridical, by whom real property is required to be declared under Section 202 hereof, refuses or fails for any reason to make such declaration within the time prescribed, the provincial or city assessor shall himself declare the property in the name of the defaulting owner, if known, or against an unknown owner, as the case may be, and shall assess the property for taxation in accordance with the provision of this Title. No oath shall be required of a declaration thus made by the provincial, city or municipal assessor.
+
+**SECTION 210. Listing of Real Property in the Assessment Rolls.** - (a) In every province and city, there shall be prepared and maintained by the provincial or city assessor an assessment roll wherein shall be listed all real property, whether taxable or exempt, located within the territorial jurisdiction of the local government unit concerned. Real property shall be listed, valued and assessed in the name of the owner or administrator, or anyone having legal interest in the property.
+
+(b) The undivided real property of a deceased person may be listed, valued and assessed in the name of the estate or of the heirs and devisees without designating them individually; and undivided real property other than that owned by a deceased may be listed, valued and assessed in the name of one or more co-owners: Provided, however, That such heir, devisee, or co-owner shall be liable severally and proportionately for all obligations imposed by this Title and the payment of the real property tax with respect to the undivided property.
+
+(c) The real property of a corporation, partnership, or association shall be listed, valued and in the same manner as that of an individual.
+
+(d) Real property owned by the Republic of the Philippines, instrumentalities and political subdivisions, the beneficial use of which has been granted, for consideration or otherwise, to a taxable person, shall be listed, valued and assessed in the name of the possessor, grantee or of the public entity if such property has been acquired or held for resale or lease.
+
+**SECTION 211. Proof of Exemption of Real Property from Taxation.** - Every person by or for whom real property is declared, who shall claim tax exemption for such property under this Title shall file with the provincial or city assessor within thirty (30) days from the date of the declaration of real property sufficient documentary evidence in support of such claim including corporate charters, title of ownership, of incorporation, bylaws, contracts, affidavits, certifications and mortgage deeds, and similar documents. If the required evidence is not submitted within the period herein prescribed, the property shall be listed as taxable in the assessment roll. However, if the property shall be proven to be tax exempt, the same shall be dropped from the assessment roll.
+
+**SECTION 212. Real Property Identification System.** - All declarations of real property made under the provisions of this Title shall be kept and filed under a uniform classification system to be established by the provincial or city assessor.
+
+**SECTION 213. Notification of Transfer of Real Property Ownership.** - Any person who shall transfer real property ownership to another shall notify the provincial or city assessor concerned within sixty (60) days from the date of such transfer. The notification shall include the mode of transfer, the description of the property alienated, the name and address of the transferee.
+
+**SECTION 214. Duty of Registrar of Deeds to Apprise Assessor of Real Property Listed in Registry.** - (a) To ascertain whether or not any real property entered in the Registry of Property has escaped discovery and listing for the purpose of taxation, the Registrar of Deeds shall prepare and submit to the provincial or city assessor, within six (6) months from the date of effectivity of this Code and every year thereafter, an abstract of his registry, which shall include brief but sufficient description of the real properties entered therein, present owners, and the dates of their most recent transfer or alienation accompanied by copies of corresponding deeds of sale, donation, or partition or other forms of alienation.
+
+(b) It shall also be the duty of the Registrar of Deeds to require every person who shall present for registration a document of transfer, alienation, or encumbrance of real property to accompany the same with a certificate to the effect that the real property subject of the transfer, alienation, or encumbrance, as the case may be, has been fully paid of all real property taxes due thereon. Failure to provide such certificate shall be a valid cause for the Registrar of Deeds to refuse the registration of the document.
+
+**SECTION 215. Duty of Official Issuing Building Permit or Certificate of Registration of Machinery to Transmit Copy to Assessor.** - Any public official or employee who may now or hereafter be required by law or regulation to issue to any person a permit for the construction, addition, repair, or renovation of a building, or permanent improvement on land, or a certificate of registration for any machinery, including machines, mechanical contrivances, and apparatus attached or affixed on land or to another real property, shall transmit a copy of such permit or certificate within thirty (30) days of its issuance, to the assessor of the province or city where the property is situated.
+
+**SECTION 216. Duty of Geodetic Engineers to Furnish Copy of Plans to Assessor.** - It shall be the duty of all geodetic engineers, public or private, to furnish free of charge to the assessor of the province or city where the land is located with a white or blue print copy of each of all approved original or subdivision plans or maps of surveys executed by them within thirty (30) days from receipt of such plans from the Lands Management Bureau, the Land Registration Authority, the Housing and Land Use Regulatory Board, as the case may be.
+
+**SECTION 217. Preparation of Schedule of Fair Market Values.** - Before any general revision of property assessment is made pursuant to the provisions of this Title, there shall be prepared a schedule of fair market values by the provincial and city assessor for the different classes of real property situated in their respective local government units for enactment by ordinance of the Sanggunian concerned. The schedule of fair market values shall be published in a newspaper of general circulation in the province or city concerned, or in the absence thereof, shall be posted in the provincial capitol or city hall and in two other conspicuous public places therein.
+
+**SECTION 218. Authority of Assessor to Take Evidence.** - For the purpose of obtaining information on which to base the market value of any real property, the assessor of the province or city or his deputy may summon the owners of the properties to be affected or persons having legal interest therein and witnesses, administer oaths, and take deposition concerning the property, its ownership, amount, nature, and value.
+
+**SECTION 219. Amendment of Schedule of Fair Market Values.** - The provincial or city assessor may recommend to the Sanggunian concerned amendments to correct errors in valuation in the schedule of fair market values. The Sanggunian concerned shall, by ordinance, act upon the within ninety (90) days from receipt thereof.
+
+**SECTION 220. Classes of Real Property for Assessment Purposes.** - For purposes of assessment, real property shall be classified as residential, agricultural, commercial, industrial, mineral, or special.
+
+**SECTION 221. Special Classes of Real Property.** - All lands, buildings, and other improvements actually, directly and exclusively used for hospitals, cultural, or scientific purposes, and those owned and used by local water districts, and government-owned or -controlled corporations rendering essential public services in the supply and distribution of water and/or generation and transmission of electric power shall be classified as special.
+
+**SECTION 222. Actual Use of Real Property as Basis for Assessment.** - Real property shall be classified, valued and assessed on the basis of its actual use regardless of where located, whoever owns it, and whoever uses it.
+
+**SECTION 223. Assessment Levels.** - The assessment levels to be applied to the fair market value of real property to determine its assessed value shall be fixed by ordinances of the Sangguniang Panlalawigan or Sangguniang Panlungsod, at the rates not exceeding the following:
+
+(a) On Lands:
+
+| CLASS | ASSESSMENT LEVELS |
+| :--- | :--- |
+| Residential | 20% |
+| Agricultural | 40% |
+| Commercial | 50% |
+| Industrial | 50% |
+| Mineral | 50% |
+| Timberland | 20% |
+
+(b) On Buildings and Other Structures:
+(1) Residential
+
+| Fair Market Value Over | Not Over | Assessment Levels |
+| :--- | :--- | :--- |
+| | P175,000.00 | 0% |
+| P175,000.00 | 300,000.00 | 10% |
+| 300,000.00 | 500,000.00 | 20% |
+| 500,000.00 | 750,000.00 | 25% |
+| 750,000.00 | 1,000,000.00 | 30% |
+| 1,000,000.00 | 2,000,000.00 | 35% |
+| 2,000,000.00 | 5,000,000.00 | 40% |
+| 5,000,000.00 | 10,000,000.00 | 50% |
+| 10,000,000.00 | | 60% |
+
+(2) Agricultural
+
+| Fair Market Value Over | Not Over | Assessment Levels |
+| :--- | :--- | :--- |
+| | P300,000.00 | 25% |
+| P300,000.00 | 500,000.00 | 30% |
+| 500,000.00 | 750,000.00 | 35% |
+| 750,000.00 | 1,000,000.00 | 40% |
+| 1,000,000.00 | 2,000,000.00 | 45% |
+| 2,000,000.00 | | 50% |
+
+(3) Commercial / Industrial
+
+| Fair Market Value Over | Not Over | Assessment Levels |
+| :--- | :--- | :--- |
+| | P300,000.00 | 30% |
+| P300,000.00 | 500,000.00 | 35% |
+| 500,000.00 | 750,000.00 | 40% |
+| 750,000.00 | 1,000,000.00 | 50% |
+| 1,000,000.00 | 2,000,000.00 | 60% |
+| 2,000,000.00 | 5,000,000.00 | 70% |
+| 5,000,000.00 | 10,000,000.00 | 75% |
+| 10,000,000.00 | | 80% |
+
+(4) Timberland
+
+| Fair Market Value Over | Not Over | Assessment Levels |
+| :--- | :--- | :--- |
+| | P300,000.00 | 45% |
+| P300,000.00 | 500,000.00 | 50% |
+| 500,000.00 | 750,000.00 | 55% |
+| 750,000.00 | 1,000,000.00 | 60% |
+| 1,000,000.00 | 2,000,000.00 | 65% |
+| 2,000,000.00 | | 70% |
+
+(c) On Machineries
+
+| Class | Assessment Levels |
+| :--- | :--- |
+| Agricultural | 40% |
+| Residential | 50% |
+| Commercial | 80% |
+| Industrial | 80% |
+
+(d) On Special Classes: The assessment levels for all lands, buildings, machineries and other improvements;
+
+| Actual Use | Assessment Level |
+| :--- | :--- |
+| Cultural | 15% |
+| Scientific | 15% |
+| Hospital | 15% |
+| Local water districts | 10% |
+| Government-owned or -controlled corporations engaged in the supply and distribution of water and/or generation and transmission of electric power | 10% |
+
+**SECTION 224. General Revision of Assessments and Property Classification.** - The provincial or city shall undertake a general revision of real property assessments within two (2) years after the effectivity of this Code and every three (3) years thereafter.
+
+**SECTION 225. Valuation of Real Property.** - In cases where (a) real property is declared and listed for taxation purposes for the first time; (b) there is an ongoing general revision of property classification and assessment; or (c) a request is made by the person in whose name the property is declared, the provincial, city or municipal assessor or his duly authorized deputy shall, in accordance with the provisions of this Chapter, make a declaration irrespective of any previous assessment or taxpayer's valuation thereon: Provided, however, That the assessment of real property shall not be increased oftener than once every three (3) years except in case of new improvements substantially increasing the value of said property or of any change in its actual use.
+
+**SECTION 226. Date of Effectivity of Assessment or Reassessment.** - All assessments or reassessments made after the first (1st) day of January of any year shall take effect on the first (1st) day of January of the succeeding year: Provided, however, That the reassessment of real property due to its partial or total destruction, or to a major change in its actual use, or to any great and sudden inflation or deflation of real property values, or to the gross illegality of the assessment when made or to any other abnormal cause, shall be made within ninety (90) days from the date any such cause or causes occurred, and shall take effect at the beginning of the quarter next following the reassessment.
+
+**SECTION 227. Assessment of Property Subject to Back Taxes.** - Real property declared for the first time shall be assessed for taxes for the period during which it would have been liable but in no case for more than ten (10) years prior to the date of initial assessment: Provided, however, that such taxes shall be computed on the basis of the applicable schedule of values in force during the corresponding period. If such taxes are paid on or before the end of the quarter following the date the notice of assessment was received by the owner or his representative, no interest for delinquency shall be imposed thereon; otherwise, such taxes shall be subject to an interest at the rate of two percent (2%) per month or a fraction thereof from the date of the receipt of the assessment until such taxes are fully paid.
+
+**SECTION 228. Notification of New or Revised Assessment.** - When real property is assessed for the first time or when an existing assessment is increased or decreased, the provincial, city or municipal assessor shall within thirty (30) days give written notice of such new or revised assessment to the person in whose name the property is declared. The notice may be delivered personally or by registered mail or through the assistance of the Punong Barangay to the last known address of the person to be served.
+
+**SECTION 229. Appraisal and Assessment of Machinery.** - (a) The fair market value of a brand- new machinery shall be the acquisition cost. In all other cases, the fair market value shall be determined by dividing the remaining economic life of the machinery by its estimated economic life and multiplied by the replacement or reproduction cost.
+
+(b) If the machinery is imported, the acquisition cost includes freight, insurance, bank and other charges, brokerage, arrastre and handling, duties and taxes, plus cost of inland transportation, handling, and installation charges at the present site. The cost in foreign currency of imported machinery shall be converted to peso cost on the basis of foreign currency exchange rates as fixed by the Central Bank.
+
+**SECTION 230. Depreciation Allowance for Machinery.** - For purposes of assessment, a allowance shall be made for machinery at a rate not exceeding five percent (5%) of its original cost or its replacement or reproduction cost, as the case may be, for each year of use: Provided, however, That the remaining value for all kinds of machinery shall be fixed at not less than twenty percent (20%) of such original, replacement, or reproduction cost for so long as the machinery is useful and in operation.
+
+**CHAPTER III**
+**Assessment Appeals**
+
+**SECTION 231. Local Board of Assessment Appeals.** - Any owner or person having legal interest in the property who is not satisfied with the action of the provincial, city or municipal assessor in the assessment of his property may, within sixty (60) days from the date of receipt of the written notice of assessment, appeal to the Board of Assessment appeals of the province or city by filing a petition under oath in the form prescribed for the purpose, together with copies of the tax declarations and such affidavits or documents submitted in support of the appeal.
+
+**SECTION 232. Organization, Powers, Duties, and Functions of the Local Board of Assessment Appeals.** - (a) The Board of Assessment appeals of the province or city shall be composed of the Registrar of Deeds, as Chairman, the provincial or city prosecutor and the provincial, or city engineer as members, who shall serve as such in an ex officio capacity without additional compensation.
+
+(b) The chairman of the Board shall have the power to designate any employee of the provinceorcitytoserveassecretarytotheBoardalsowithoutadditionalcompensation.
+
+(c) The chairman and members of the Board of Assessment appeals of the province or city shall assume their respective positions without need of further appointment or special designation immediately upon effectivity of this Code. They shall take an oath or affirmation of office in the prescribed form.
+
+(d) In provinces and cities without a provincial or city engineer, the district engineer shall serve as member of the Board. In the absence of the Registrar of Deeds, or the provincial or city prosecutor, or the provincial or city engineer, or the district engineer, the persons performing their duties, whether in an acting capacity or as a duly designated officer-in- charge, shall automatically become the chairman or member, respectively, of the said Board, as the case maybe.
+
+**SECTION 233. Meetings and Expenses of the Local Board of Assessment Appeals.** - (a) The Board of Assessment appeals of the province or city shall meet once a month and as often as may be necessary for the prompt disposition of appealed cases. No member of the Board shall be entitled to per diems or traveling expenses for his attendance in Board meetings, except when conducting an ocular inspection in connection with a case under appeal.
+
+(b) All expenses of the Board shall be charged against the general fund of the province or city, as the case may be. The Sanggunian concerned shall appropriate the necessary funds to enable the Board in their respective localities to operate effectively.
+
+**SECTION 234. Action by the Local Board of Assessment Appeals.** - (a) The Board shall decide the appeal within one hundred twenty (120) days from the date of receipt of such appeal. The Board, after hearing, shall render its decision based on substantial evidence or such relevant evidence on record as a reasonable mind might accept as adequate to support the conclusion.
+
+(b) In the exercise of its appellate jurisdiction, the Board shall have the power to summon witnesses, administer oaths, conduct ocular inspection, take depositions, and issue subpoena and subpoena duces tecum. The proceedings of the Board shall be conducted solely for the purpose of ascertaining the facts without necessarily adhering to technical rules applicable in judicial proceedings.
+
+(c) The secretary of the Board shall furnish the owner of the property or the person having legal interest therein and the provincial or city assessor with a copy of the decision of the Board. In case the provincial or city assessor concurs in the revision or the assessment, it shall be his duty to notify the owner of the property or the person having legal interest therein of such fact using the form prescribed for the purpose. The owner of the property or the person having legal interest therein or the assessor who is not satisfied with the decision of the Board, may, within thirty (30) days after receipt of the decision of said Board, appeal to the Bangsamoro Board of Assessment Appeals, as provided in the succeeding section. The decision of the Bangsamoro Board shall be final and executory.
+
+**SECTION 235. Central Board of Assessment Appeals.** - Unless otherwise provided by a law passed by the Parliament, the Central Board of Assessment Appeals created under Republic Act No. 7160 shall have appellate jurisdiction over all assessment cases decided by the Local Board of Assessment Appeals.
+
+The Ministry of Finance, and Budget and Management, in consultation with the Intergovernmental Relations Body, shall promulgate rules and regulations necessary in the implementation of this Chapter.⁴¹
+
+**SECTION 236. Effect of Appeal on the Payment of Real Property Tax.** - Appeal on assessment of real property made under the provisions of this Code shall, in no case, suspend the collection of the corresponding realty taxes on the property involved as assessed by the provincial or city assessor, without prejudice to subsequent adjustment depending upon the final outcome of the appeal.
+
+**CHAPTER IV**
+**Imposition of Real Property Tax**
+
+**SECTION 237. Power to Levy Real Property Tax.** - A province or city, may levy an annual ad valorem tax on real property such as land, building, machinery, and other improvement not hereinafter specifically exempted.
+
+**SECTION 238. Rates of Levy.** - A province or city, shall fix a uniform rate of basic real property tax applicable to their respective localities as follows:
+
+(a) In the case of a province, at the rate not exceeding one percent (1%) of the assessed value of real property; and
+
+(b) In the case of a city, at the rate not exceeding two percent (2%) of the assessed value of real property.
+
+**SECTION 239. Exemptions from Real Property Tax.** - The following are exempted from payment of the real property tax:
+
+(a) Real property owned by the Republic of the Philippines or any of its political subdivisions except when the beneficial use thereof has been granted, for consideration or otherwise, to a taxable person;
+
+(b) Charitable institutions, churches, parsonages or convents appurtenant thereto, mosques, nonprofit or religious cemeteries and all lands, buildings, and improvements actually, directly, and exclusively used for religious, charitable or educational purposes;
+
+(c) All machineries and equipment that are actually, directly and exclusively used by local water districts and government-owned or -controlled corporations engaged in the supply and distribution of water and/or generation and transmission of electric power;
+
+(d) All real property owned by duly registered cooperatives as provided for under R. A. No. 6938; and
+
+(e) Machinery and equipment used for pollution control and environmental protection. Except as provided herein, any exemption from payment of real property tax previously granted to, or presently enjoyed by, all persons, whether natural or juridical, including all government- owned or -controlled corporations are hereby withdrawn upon the effectivity of this Code.
+
+**CHAPTER V**
+**Special Levies on Real Property**
+
+**SECTION 240. Additional Levy on Real Property for the Special Education Fund.** - A province or city, may levy and collect an annual tax of one percent (1%) on the assessed value of real property which shall be in addition to the basic real property tax. The proceeds thereof shall exclusively accrue to the Special Education Fund (SEF).
+
+**SECTION 241. Additional Ad Valorem Tax on Idle Lands.** - A province or city, may levy an annual tax on idle lands at the rate not exceeding five percent (5%) of the assessed value of the property which shall be in addition to the basic real property tax.
+
+**SECTION 242. Idle Lands, Coverage.** - For purposes of real property taxation, idle lands shall the following: (a) "Agricultural lands, more than one (1) hectare in area, suitable for cultivation, dairying, inland fishery, and other agricultural uses, one-half (1/2) of which remain uncultivated or unimproved by the owner of the property or person having legal interest therein." Agricultural lands planted to permanent or perennial crops with at least fifty (50) trees to a hectare shall not be considered idle lands. Lands actually used for grazing purposes shall likewise not be considered idle lands.
+
+(b) Lands, other than agricultural, located in a city or municipality, more than one thousand (1,000) square meters in area one-half (1/2) of which remain unutilized or unimproved by the owner of the property or person having legal interest therein. Regardless of land area, this Section shall likewise apply to residential lots in subdivisions duly approved by proper authorities, the ownership of which has been transferred to individual owners, who shall be liable for the additional tax: Provided, however, That individual lots of such subdivisions, the ownership of which has not been transferred to the buyer shall be considered as part of the subdivision, and shall be subject to the additional tax payable by subdivision owner or operator.
+
+**SECTION 243. Idle Lands Exempt from Tax.** - A province or city may exempt idle lands from the additional levy by reason of force majeure, civil disturbance, natural calamity or any cause or circumstance which physically or legally prevents the owner of the property or person having legal interest therein from improving, utilizing or cultivating the same.
+
+**SECTION 244. Listing of Idle Lands by the Assessor.** - The provincial, or city assessor shall make and keep an updated record of all idle lands located within his area of jurisdiction. For purposes of collection, the provincial or city assessor shall furnish a copy thereof to the provincial or city treasurer who shall notify, on the basis of such record, the ownerofthepropertyorpersonhavinglegalinterestthereinoftheimpositionoftheadditionaltax.
+
+**SECTION 245. Special Levy by Local Government Units.** - A province, city or municipality may a special levy on the lands comprised within its territorial jurisdiction specially benefited by public works projects or improvements funded by the local government unit concerned: Provided, however, That the special levy shall not exceed sixty percent (60%) of the actual cost of such projects and improvements, including the costs of acquiring land and such other real property in connection therewith: Provided, further, That the special levy shall not apply to lands exempt from basic real property tax and the remainder of the land portions of which have been donated to the local government unit concerned for the construction of such projects or improvements.
+
+**SECTION 246. Ordinance Imposing a Special Levy.** - A tax ordinance imposing a special levy shall describe with reasonable accuracy the nature, extent, and location of the public works projects or improvements to be undertaken, state the estimated cost thereof, specify the metes and bounds by monuments and lines and the number of annual installments for the payment of the special levy which in no case shall be less than five (5) nor more than ten (10) years. The Sanggunian concerned shall not be obliged, in the apportionment and computation of the special levy, to establish a uniform percentage of all lands subject to the tax for the entire district, but it may fix different rates for different parts or sections thereof, depending on whether such land is more or less benefited by the proposed work.
+
+**SECTION 247. Publication of Proposed Ordinance Imposing a Special Levy.** - Before the of an imposing a special levy, the Sanggunian concerned shall conduct a public hearing thereon; notify in writing the owners of the real property to be affected or the persons having legal interest therein as to the date and place thereof and afford the latter the opportunity to express their positions or objections relative to the proposed ordinance.
+
+**SECTION 248. Fixing the Amount of Special Levy.** - The special levy authorized herein shall be apportioned, computed, and assessed according to the assessed valuation of the lands affected as shown by the books of the assessor concerned, or its current assessed value as fixed by said assessor if the property does not appear of record in his books. Upon the effectivity of the ordinance imposing special levy, the assessor concerned shall forthwith proceed to determine the annual amount of special levy assessed against each parcel of land comprised within the area especially benefited and shall send to each landowner a written notice thereof by mail, personal service or publication in appropriate cases.
+
+**SECTION 249. Taxpayers' Remedies Against Special Levy.** - Any owner of real property affected a special levy or any person having a legal interest therein may, upon receipt of the written notice of assessment of the special levy, avail of the remedies provided for in Chapter 3, Title Two, Book II of this Code.
+
+**SECTION 250. Accrual of Special Levy.** -The special levy shall accrue on the first day of the next following the effectivity of the ordinance imposing such levy.
+
+
+**CHAPTER VI**
+**Collection of Real Property Tax**
+
+**SECTION 251. Date of Accrual of Tax.** - The real property tax for any year shall accrue on the first day of January and from that date it shall constitute a lien on the property which shall be superior to any other lien, mortgage, or encumbrance of any kind whatsoever, and shall be extinguished only upon the payment of the delinquent tax.
+
+**SECTION 252. Collection of Tax.** - The collection of the real property tax with interest thereon and related expenses, and the enforcement of the remedies provided for in this Title or any applicable laws, shall be the responsibility of the city or municipal treasurer concerned. The city or municipal treasurer may deputize the Barangay treasurer to collect all taxes on real property located in the Barangay: Provided, That the Barangay treasurer is properly bonded for the purpose: Provided, further, That the premium on the bond shall be paid by the city or municipal government concerned.
+
+**SECTION 253. Assessor to Furnish Local Treasurer with Assessment Roll.** - The provincial, city or municipal assessor shall prepare and submit to the treasurer of the local government unit, on or before the thirty-first (31st) day of December each year, an assessment roll containing a list of all persons whose real properties have been newly assessed or reassessed and the values of such properties.
+
+**SECTION 254. Notice of Time for Collection of Tax.** - The city or municipal treasurer shall, on or before the thirty-first (31st) day of January each year, in the case of the basic real property tax and the additional tax for the Special Education Fund (SEF) or on any other date to be prescribed by the Sanggunian concerned in the case of any other tax levied under this Title, post the notice of the dates when the tax may be paid without interest at a conspicuous and publicly accessible place at the city or municipal hall. Said notice shall likewise be published in a newspaper of general circulation in the locality once a week for two (2) consecutive weeks.
+
+**SECTION 255. Payment of Real Property Taxes in Installments.** - The owner of the real property or the person having legal interest therein may pay the basic real property tax and the additional tax for Special Education Fund (SEF) due thereon without interest in four (4) equal installments; the first installment to be due and payable on or before March thirty-first (31st); the second installment, on or before June Thirty (30); the third installment, on or before September Thirty (30); and the last installment on or before December Thirty-first (31st), except the special levy the payment of which shall be governed by ordinance of the Sanggunian concerned. The date for the payment of any other tax imposed under this Title without interest shall be prescribed by the Sanggunian concerned. Payments of real property taxes shall first be applied to prior years delinquencies, interests, and penalties, if any, and only after said delinquencies are settled may tax payments be credited for the current period.
+
+**SECTION 256. Tax Discount for Advanced Prompt Payment.** - If the basic real property tax and the additional tax accruing to the Special Education Fund (SEF) are paid in advance in accordance with the prescribed schedule of payment as provided under Section 125, the Sanggunian concerned may grant a discount not exceeding twenty percent (20%) of the annual tax due.
+
+**SECTION 257. Payment Under Protest.** - (a) No protest shall be entertained unless the taxpayer first pays the tax. There shall be annotated on the tax receipts the words "paid under protest". The protest in writing must be filed within thirty (30) days from payment of the tax to the provincial or city treasurer, who shall decide the protest within sixty (60) days from receipt.
+
+(b) The tax or a portion thereof paid under protest, shall be held in trust by the treasurer concerned.
+
+(c) In the event that the protest is finally decided in favor of the taxpayer, the amount or portion of the tax protested shall be refunded to the protestant, or applied as tax credit against his existing or future tax liability.
+
+(d) In the event that the protest is denied or upon the lapse of the sixty days (60) period prescribed in subparagraph (a), the taxpayer may avail of the remedies as provided for in Chapter 3, Title II, Book II of this Code.
+
+**SECTION 258. Repayment of Excessive Collections.** - When an assessment of basic real property tax, or any other tax levied under this Title, is found to be illegal or erroneous and the tax is accordingly reduced or adjusted, the taxpayer may file a written claim for refund or credit for taxes and interests with the provincial or city treasurer within two (2) years from the date the taxpayer is entitled to such reduction or adjustment. The provincial or city treasurer shall decide the claim for tax refund or credit within sixty (60) days from receipt thereof. In case the claim for tax refund or credit is denied, the taxpayer may avail of the remedies as provided in Chapter 3, II, Book II of this Code.
+
+**SECTION 259. Notice of Delinquency in the Payment of the Real Property Tax.** - (a) When the real property tax or any other tax imposed under this Title becomes delinquent, the provincial, city or municipal treasurer shall immediately cause a notice of the delinquency to be posted at the main entrance of the provincial capitol, or city or municipal hall and in a publicly accessible and conspicuous place in each Barangay of the local government unit concerned. The notice of delinquency shall also be published once a week for two (2) consecutive weeks, in a newspaper of general circulation in the province, city, or municipality.
+
+(b) Such notice shall specify the date upon which the tax became delinquent and shall state that personal property may be distrained to effect payment. It shall likewise state that at any time before the distraint of personal property, payment of the tax with surcharges, interests and penalties may be made in accordance with the next following Section, and unless the tax, surcharges and penalties are paid before the expiration of the year for which the tax is due except when the notice of assessment or special levy is contested administratively or judicially pursuant to the provisions of Chapter 3, Title II, Book II of this Code, the delinquent real property will be sold at public auction, and the title to the property will be vested in the purchaser, subject, however, to the right of the delinquent owner of the property or any person having legal interest therein to redeem the property within one (1) year from the date of sale.
+
+**SECTION 260. Interests on Unpaid Real Property Tax.** - In case of failure to pay the basic real property tax or any other tax levied under this Title upon the expiration of the periods as provided in Section 250, or when due, as the case may be, shall subject the taxpayer to the payment of interest at the rate of two percent (2%) per month on the unpaid amount or a fraction thereof, until the delinquent tax shall have been fully paid: Provided, however, That in no case shall the total interest on the unpaid tax or portion thereof exceed thirty-six (36)months.
+
+**SECTION 261. Remedies For The Collection Of Real Property Tax.** - For the collection of the basic real property tax and any other tax levied under this Title, the local government unit concerned may avail of the remedies by administrative action thru levy on real property or by judicial action.
+
+**SECTION 262. Local Governments Lien.** - The basic real property tax and any other tax levied under this Title constitutes a lien on the property subject to tax, superior to all liens, charges or encumbrances in favor of any person, irrespective of the owner or possessor thereof, enforceable by administrative or judicial action, and may only be extinguished upon payment of the tax and the related interests and expenses.
+
+**SECTION 263. Levy on Real Property.** - After the expiration of the time required to pay the basic real property tax or any other tax levied under this Title, real property subject to such tax may be levied upon through the issuance of a warrant on or before, or simultaneously with, the institution of the civil action for the collection of the delinquent tax. The provincial or city treasurer, as the case may be, when issuing a warrant of levy shall prepare a duly authenticated certificate showing the name of the delinquent owner of the property or person having legal interest therein, the description of the property, the amount of the tax due and the interest thereon. The warrant shall operate with the force of a legal execution throughout the province or city. The warrant shall be mailed to or served upon the delinquent owner of the real property or person having legal interest therein, or in case he is out of the country or cannot be located, to the administrator or occupant of the property. At the same time, written notice of the levy with the attached warrant shall be mailed to or served upon the assessor and the Registrar of Deeds of the province or city where the property is located, who shall annotate the levy on the tax declaration and certificate of title of the property, respectively. The levying officer shall submit a report on the levy to the Sanggunian concerned within ten (10) days after receipt of the warrant by the owner of the property or person having legal interest therein.
+
+**SECTION 264. Penalty for Failure to Issue and Execute Warrant.** - Without prejudice to criminal prosecution under the Revised Penal Code and other applicable laws, any local treasurer or his deputy who fails to issue or execute the warrant of levy within one (1) year from the time the tax becomes delinquent or within thirty (30) days from the date of the issuance thereof, or who is found guilty of abusing the exercise thereof in an administrative or judicial proceeding shall be dismissed from the service.
+
+**SECTION 265. Advertisement and Sale.** - Within thirty (30) days after service of the warrant of levy, the local treasurer shall proceed to publicly advertise for sale or auction the property or a usable portion thereof as may be necessary to satisfy the tax delinquency and expenses of sale. The advertisement shall be effected by posting a notice at the main entrance of the provincial, city or municipal building, and in a publicly accessible and conspicuous place in the Barangay where the real property is located, and by publication once a week for two (2) weeks in a newspaper of general circulation in the province, city or municipality where the property is located. The advertisement shall specify the amount of the delinquent tax, the interest due thereon and expenses of sale, the date and place of sale, the name of the owner of the real property or person having legal interest therein, and a description of the property to be sold. At any time before the date fixed for the sale, the owner of the real property or person having legal interest therein may stay the proceedings by paying the delinquent tax, the interest due thereon and the expenses of sale. The sale shall be held either at the main entrance of the provincial, city or municipal building, or on the property to be sold, or at any other place as specified in the notice of the sale.
+
+Within thirty (30) days after the sale, the local treasurer or his deputy shall make a report of the sale to the Sanggunian concerned, and which shall form part of his records. The local treasurer shall likewise prepare and deliver to the purchaser a certificate of sale which shall contain the name of the purchaser, a description of the property sold, the amount of the delinquent tax, the interest due thereon, the expenses of sale and a brief description of the proceedings: Provided, however, That proceeds of the sale in excess of the delinquent tax, the interest due thereon, and the expenses of sale shall be remitted to the owner of the real property or person having legal interest therein. The local treasurer may, by ordinance duly approved, advance an amount sufficient to defray the costs of collection thru the remedies provided for in this Title, including the expenses of advertisement and sale.
+
+**SECTION 266. Redemption of Property Sold.** - Within one (1) year from the date of sale, the owner of the delinquent real property or person having legal interest therein, or his representative, shall have the right to redeem the property upon payment to the local treasurer of the amount of the delinquent tax, including the interest due thereon, and the expenses of sale from the date of delinquency to the date of sale, plus interest of not more than two percent (2%) per month on the purchase price from the date of sale to the date of redemption. Such payment shall invalidate the certificate of sale issued to the purchaser and the owner of the delinquent real property or person having legal interest therein shall be entitled to a certificate of redemption which shall be issued by the local treasurer or his deputy. From the date of sale until the expiration of the period of redemption, the delinquent real property shall remain in the possession of the owner or person having legal interest therein who shall be entitled to the income and other fruits thereof. The local treasurer or his deputy, upon receipt from the purchaser of the certificate of sale, shall forthwith return to the latter the entire amount paid by him plus interest of not more than two percent (2%) per month. Thereafter, the property shall be free from the lien of such delinquent tax, interest due thereon and expenses of sale.
+
+**SECTION 267. Final Deed to Purchaser.** - In case the owner or person having legal interest fails to redeem the delinquent property as provided herein, the local treasurer shall execute a deed conveying to the purchaser said property, free from lien of the delinquent tax, interest due thereon and expenses of sale. The deed shall briefly state the proceedings upon which the validity of the sale rests.
+
+**SECTION 268. Purchase of Property by the Local Government Units for Want of Bidder.** - In case there is no bidder for the real property advertised for sale as provided herein, or if the highest bid is for an amount insufficient to pay the real property tax and the related interest and costs of sale the local treasurer conducting the sale shall purchase the property in behalf of the local government unit concerned to satisfy the claim and within two (2) days thereafter shall make a report of his proceedings which shall be reflected upon the records of his office. It shall be the duty of the Registrar of Deeds concerned upon registration with his office of any such declaration of forfeiture to transfer the title of the forfeited property to the local government unit concerned without the necessity of an order from a competent court.
+
+Within one (1) year from the date of such forfeiture, the taxpayer or any of his representative, may redeem the property by paying to the local treasurer the full amount of the real property tax and the related interest and the costs of sale. If the property is not redeemed as provided herein, the ownership thereof shall be fully vested on the local government unit concerned.
+
+**SECTION 269. Resale of Real Estate Taken for Taxes, Fees, or Charges.** - The Sanggunian concerned may, by ordinance duly approved, and upon notice of not less than twenty (20) days, sell and dispose of the real property acquired under the preceding section at public auction. The proceeds of the sale shall accrue to the general fund of the local government unit concerned.
+
+**SECTION 270. Further Distraint or Levy.** - Levy may be repeated if necessary until the full due, including all expenses, is collected.
+
+**SECTION 271. Collection of Real Property Tax Through the Courts.** - The local government unit concerned may enforce the collection of the basic real property tax or any other tax levied under this Title by civil action in any court of competent jurisdiction. The civil action shall be filed by the local treasurer within the period prescribed in Section 145 of this Code.
+
+**SECTION 272. Action Assailing Validity of Tax Sale.** - No court shall entertain any action assailing the validity of any sale at public auction of real property or rights therein under this Title until the taxpayer shall have deposited with the court the amount for which the real property was sold, together with interest of two percent (2%) per month from the date of sale to the time of the institution of the action. The amount so deposited shall be paid to the purchaser at the auction sale if the deed is declared invalid but it shall be returned to the depositor if the action fails. Neither shall any court declare a sale at public auction invalid by reason of irregularities or informalities in the proceedings unless the substantive rights of the delinquent owner of the real property or the person having legal interest therein have been impaired.
+
+**SECTION 273. Payment of Delinquent Taxes on Property Subject of Controversy.** - In any action involving the ownership or possession of, or succession to, real property, the court may, motu propio or upon representation of the provincial, city, or municipal treasurer or his deputy, award such ownership, possession, or succession to any party to the action upon payment to the court of the taxes with interest due on the property and all other costs that may have accrued, subject to the final outcome of the action.
+
+**SECTION 274. Treasurer to Certify Delinquencies Remaining Uncollected.** - The provincial, city or municipal treasurer or their deputies shall prepare a certified list of all real property tax delinquencies which remained uncollected or unpaid for at least one (1) year in his jurisdiction, and a statement of the reason or reasons for such non- collection or non-payment, and shall submit the same to the Sanggunian concerned on or before December thirty-first (31st) of the year immediately succeeding the year in which the delinquencies were incurred, with a request for assistance in the enforcement of the remedies for collection provided herein.
+
+**SECTION 275. Periods Within Which to Collect Real Property Taxes.** - The basic real property tax and any other tax levied under this Title shall be collected within five (5) years from the date they become due. No action for the collection of the tax, whether administrative or judicial, shall be instituted after the expiration of such period. In case of fraud or intent to evade payment of the tax, such action may be instituted for the collection of the same within ten (10) years from the discovery of such fraud or intent to evade payment. The period of prescription within which to collect shall be suspended for the time during which:
+
+(1) The local treasurer is legally prevented from collecting the tax;
+
+(2) The owner of the property or the person having legal interest therein requests for reinvestigation and executes a waiver in writing before the expiration of the period within which to collect; and
+
+(3) The owner of the property or the person having legal interest therein is out of the country or otherwise cannot be located.
+
+**CHAPTER VII**
+**Disposition of Proceeds**
+
+**SECTION 276. Distribution of Proceeds.** - The proceeds of the basic real property tax, including interest thereon, and proceeds from the use, lease or disposition, sale or redemption of property acquired at a public auction in accordance with the provisions of this Title by the province or city shall be distributed as follows:
+
+(a) In the case of provinces:
+
+(1) province - Thirty-five percent (35%) shall accrue to the general fund;
+
+(2) municipality - Forty percent (40%) to the general fund of the municipality where the property is located; and
+
+(3) Barangay - Twenty-five percent (25%) shall accrue to the Barangay where the property is located.
+
+(b) In the case of cities:
+
+(1) city - Seventy percent (70%) shall accrue to the general fund of the city; and
+
+(2) Thirty percent (30%) shall be distributed among the component Barangays of the cities where the property is located in the following manner:
+
+(i) Fifty percent (50%) shall accrue to the Barangay where the property is located; and
+
+(ii) Fifty percent (50%) shall accrue equally to all component Barangays of the city;
+
+(c) The share of each Barangay shall be released, without need of any further action, directly to the Barangay treasurer on a quarterly basis within five (5) days after the end of each quarter and shall not be subject to any lien or holdback for whatever purpose.
+
+**SECTION 277. Application of Proceeds of the Additional One Percent SEF Tax.** - The proceeds the additional one percent (1%) tax on real property accruing to the Special Education Fund (SEF) shall be automatically released to the local school boards: Provided, That, in case of provinces, the proceeds shall be divided equally between the provincial and municipal school boards: Provided, however, That the proceeds shall be allocated for the operation and maintenance of public schools, construction, repair and improvement of public⁴² school buildings, facilities and equipment, educational research, purchase of books and periodicals, and sports development as determined and approved by the Local School Board.
+
+**SECTION 278. Proceeds of the Tax on Idle Lands.** - The proceeds of the additional real property tax on idle lands shall accrue to the respective general fund of the province or city where the land is located.
+
+**SECTION 279. Proceeds of the Special Levy.** - The proceeds of the special levy on lands benefited by public works, projects and other improvements shall accrue to the general fund of the local government unit which financed such public works, projects or other improvements.
+
+**CHAPTER VIII**
+**Special Provisions**
+
+**SECTION 280. General Assessment Revision; Expenses Incident Thereto.** - The Sanggunian of provinces and cities shall provide the necessary appropriations to defray the expenses incident to the general revision of real property assessment. All expenses incident to a general revision of real property assessments shall, by ordinance of the Sangguniang Panlalawigan, be apportioned between the province and the municipality on the basis of the taxable area of the municipality concerned.
+
+**SECTION 281. Condonation or Reduction of Real Property Tax and Interest.** - In case of a general failure of crops or substantial decrease in the price of agricultural or agribased products, or calamity in any province, city, or municipality, the Sanggunian concerned, by ordinance passed prior to the first (1st) day of January of any year and upon recommendation of the Local Disaster Coordinating Council, may condone or reduce, wholly or partially, the taxes and interest thereon for the succeeding year or years in the city or municipality affected by the calamity.
+
+**SECTION 282. Condonation or Reduction of Tax by the President of the Philippines.** - The President of the Philippines may, when public interest so requires, condone or reduce the real property tax and interest for any year in any province or city.
+
+**SECTION 283. Duty of Registrar of Deeds and Notaries Public to Assist the Provincial, City or Municipal Assessor.** - It shall be the duty of the Registrar of Deeds and notaries public to furnish the provincial, city or municipal assessor with copies of all contracts selling, transferring, or otherwise conveying, leasing, or mortgaging real property received by, or acknowledged before them.
+
+**SECTION 284. Insurance Companies to Furnish Information.** - Insurance companies are hereby required to furnish the provincial, city or municipal assessor copies of any contract or policy insurance on buildings, structures, and improvements insured by them or such other documents which may be necessary for the proper assessment thereof.
+
+**SECTION 285. Fees in Court Actions.** - All court actions, criminal or civil, instituted at the instance of the provincial, city or municipal treasurer or assessor under the provisions of this Code, shall be exempt from the payment of court and sheriff's fees.
+
+**SECTION 286. Fees in Registration of Papers or Documents on Sale of Delinquent Real Property to Province, City or Municipality.** - All certificates, documents, and papers covering the sale of delinquent property to the province, city or municipality, if registered in the Registry of Property, shall be exempt from the documentary stamp tax and registration fees.
+
+**SECTION 287. Real Property Assessment Notices or Owner's Copies of Tax Declarations to be Exempt from Postal Charges or Fees.** - All real property assessment notices or owner's copies of tax declaration sent through the mails by the assessor shall be exempt from the payment of postal charges or fees.
+
+**SECTION 288. Sale and Forfeiture Before Effectivity of Code.** - Tax delinquencies incurred, and sales and forfeitures of delinquent real property effected, before the effectivity of this Code shall be governed by the provisions of applicable laws then in force.
+
+**TITLE III**
+**SHARES OF LOCAL GOVERNMENT UNITS IN THE PROCEEDS OF NATIONAL TAXES**
+
+**CHAPTER I**
+**Allotment of Internal Revenue**
+
+**SECTION 289. Allotment of Internal Revenue Taxes.** - The local government units shall have a Forty Percent (40%) share in all national taxes⁴³ based on the collection of the third fiscal year preceding the current fiscal year. Provided further, that in the event that the national government incurs an unmanageable public sector deficit, the President is authorized, upon the recommendation of Secretary of Finance, Secretary of Interior and Local Government, and Secretary of Budget and Management, and subject to consultation with the presiding officers of both Houses of Congress and the presidents of the “Liga”, to make necessary adjustment in the internal revenue allotment of local government units but in no case shall the allotment be less than thirty percent (30%) of the collection of national taxes of the third fiscal year preceding current fiscal year: Provided further, the allotment for years 2020 to 2021 shall be based on national internal revenues taxes: Provided finally, That the internal revenue allotment shall include the cost of devolved functions for essential public services.
+
+**SECTION 290. Allocation to Local Government Units.** - The share of local government units in the allotment shall be allocated in the following manner:
+
+(a) Provinces - Twenty-three percent (23%);
+(b) Cities - Twenty-three percent (23%);
+(c) Municipalities - Thirty-four percent (34%); and
+(d) Barangays - Twenty percent (20%) Provided, however, That the share of each province, city, and municipality shall be determined on the basis of the following formula:
+
+(a) Population - Fifty percent (50%);
+(b) Land Area - Twenty-five percent (25%); and
+(c) Equal sharing - Twenty-five percent (25%)
+
+Provided, further, That the share of each Barangay with a population of not less than one hundred (100) inhabitants shall not be less than Eighty thousand pesos (P 80,000.00) per annum chargeable against the twenty percent (20%) share of the Barangay from the internal revenue allotment, and the balance to be allocated on the basis of the following formula:
+
+(1) Population - Sixty percent (60%); and
+(2) Equal Sharing - Forty percent (40%).
+
+Provided, finally, That the financial requirements of Barangays created by local government units after the effectivity of this Code shall be the responsibility of the local government unit concerned.
+
+**SECTION 291. Automatic Release of Shares.** - (a) The share of each local government unit shall be released, without need of any further action, directly to the provincial, city, municipal or Barangay treasurer, as the case may be, on a quarterly basis within five (5) days after the end of each quarter, and which shall not be subject to any lien or holdback that may be imposed by the national government for whatever purpose.
+
+(b) Nothing in this Chapter shall be understood to diminish the share of local government units under existing laws.
+
+**SECTION 292. Local Development Projects.** - Each local government unit shall appropriate in its annual budget no less than twenty percent (20%) of its annual internal revenue allotment for development projects. Copies of the development plans of local government units shall be furnished the Ministry of the Interior and Local Government.
+
+**SECTION 293. Gender and Development Plan and Budget.** - Each local government unit shall ensure that at least five percent (5%) of its Annual Budget correspond to activities supporting Gender and Development programs, policies and projects and shall endeavor to influence that remaining ninety-five (95%) of the budget towards gender responsiveness. It shall submit a Gender and Development Plan and Budget to the Ministry of the Interior and Local Government for review and endorsement and be returned to the local government units for integration in the Annual Investment Plan and funding.
+
+The Gender and Development Plan and Budgets of the local government units, accompanied by their Gender and Development Accomplishment Reports shall be submitted to the Regional Office of Ministry of the Interior and Local Government in case of Provinces, Highly-Urbanized Cities, and Independent Component Cities. It shall be submitted to the Provincial Office of Ministry of the Interior and Local Government in case of Component Cities and Municipalities. And to the City or Municipal Offices of the Ministry of the Interior and Local Government in case of Barangays⁴⁴.
+
+**SECTION 294. Rules and Regulations.** - The Ministry of Finance, and Budget and Management, in consultation with the Department of Budget and Management, shall promulgate the necessary rules and regulations for a simplified disbursement scheme designed for the speedy and effective enforcement of the provisions of this Chapter.
+
+**CHAPTER 2 - SHARE IN EXPLORATION, DEVELOPMENT AND UTILIZATION OF NATURAL RESOURCES**
+
+**SECTION 295. Amount of share in Exploration, Development, and Utilization of Natural Resources.** - - The share of the constituent local government units in the share of the Bangsamoro Government in the revenues generated from the exploration, development, and utilization of all natural resources in the Bangsamoro Autonomous Region, including mines and minerals, uranium and fossil fuels, in accordance with Section 35, Article XII of Republic Act No. 11054, is apportioned as follows:
+
+a. Twenty percent (20%) to the provinces;
+b. Fifteen percent (15%) to the cities;
+c. Twenty percent (20%) to the municipalities;
+d. Fifteen (15%) to the barangays;
+
+The share of the local government units shall be based on the taxes that has been collected from the revenue generated therein.
+
+**SECTION 296. Share of Indigenous Communities.** - Indigenous peoples and communities shall have an equitable share of the revenues generated from the exploration, development, and utilization of natural resources that are found within the territories covered by a native, traditional, or customary title in their favor, by way of direct benefits. The share shall not be more than ten percent (10%) of the revenues generated and shall be directly given by the Bangsamoro Government to the communities. Provided, That the rights and privileges granted to indigenous peoples by Republic Act No. 8371 and other laws pertaining to indigenous peoples shall not be diminished.
+
+**CHAPTER 2 - SHARE IN TAXES, FEES, AND CHARGES COLLECTED IN THE BANGSAMORO AUTONOMOUS REGION**
+
+**SECTION 297. Amount of share in Taxes, Fees, and Charges collected in the Bangsamoro Autonomous Region, other than Tariff and Customs Duties.** - The constituent local government units shall have a (50%) share in the share of the Bangsamoro Government from the taxes, fees, and charges collected in the Bangsamoro territorial jurisdiction by the National Government, to be distributed as follows⁴⁵:
+
+e. Fifteen Percent (15%) to the provinces;
+f. Fifteen Percent (15%) to the cities;
+g. Fifty Percent (50%) to the municipalities; and
+h. Twenty Percent (20%) to the barangays.
+
+**SECTION 298. Share of the Local Governments from any Government Agency or - Owned and Controlled Corporation.** - The local government units shall have a share based on the preceding fiscal year from the proceeds derived by any government agency or government-owned or -controlled corporation engaged in the utilization and development of the national wealth based on the following formula whichever will produce a higher share for the local government unit:
+
+(a) One percent (1%) of the gross sales or receipts of the preceding calendar year; or
+
+(b) Forty percent (40%) of the mining taxes, royalties, forestry and fishery charges and such other taxes, fees or charges, including related surcharges, interests, or fines the government agency or government -owned or -controlled corporation would have paid if it were not otherwise exempt.
+
+**SECTION 299. Allocation of Shares.** - The share in the preceding Section shall be distributed in the following manner:
+
+(a) Where the natural resources are located in the province
+
+(1) Province - Twenty percent (20%);
+(2) Component city/municipality - Forty-five percent (45%); and
+(3) Barangay - Thirty-five percent (35%).
+
+Provided, however, That where the natural resources are located in two (2) or more provinces, or in two (2) or more component cities or municipalities or in two (2) or more Barangays, their respective shares shall be computed on the basis of:
+
+(1) Population - Seventy percent (70%); and
+(2) Land area - Thirty percent (30%).
+
+(b) Where the natural resources are located in a highly urbanized or independent component city:
+
+(1) city - Sixty-five percent (65%); and
+(2) Barangay - Thirty-five percent (35%)
+
+Provided, however, That where the natural resources are located in such two (2) or more cities, the allocation of shares shall be based on the formula on population and land area as specified in paragraph (a) of this Section.
+
+**SECTION 300. Remittance of the Share of Local Government Units.** - The share of local government units from the utilization and development of national wealth shall be remitted in accordance with Section 161 of this Code: Provided, however, That in the case of any government agency or government-owned or -controlled corporation engaged in the utilization and development of the national wealth, such share shall be directly remitted to the provincial, city, municipal or Barangay treasurer concerned within five (5) days after the end of each quarter.
+
+**SECTION 301. Development and Livelihood Projects.** - The proceeds from the share of local government units pursuant to this chapter shall be appropriated by their respective Sanggunian to finance local development and livelihood projects: Provided, however, That at least eighty percent (80%) of the proceeds derived from the development and utilization of hydrothermal, geothermal, and other sources of energy shall be applied solely to lower the cost of electricity in the local government unit where such a source of energy is located.
+
+**TITLE IV**
+**CREDIT FINANCING**
+
+**SECTION 302. Scope.** - This Title shall govern the power of local government units to create indebtedness and to enter into credit and other financial transactions.
+
+**SECTION 303. General Policy.** - (a) It shall be the basic policy that any local government unit may create indebtedness, and avail of credit facilities to finance local infrastructure and other socio- economic development projects in accordance with the approved local development plan and public investment program.
+
+(b) A local government unit may avail of credit lines from government or private banks and lending institutions for the purpose of stabilizing local finances.
+
+**SECTION 304. Loans, Credits, and Other Forms of Indebtedness of Local Government Units.** - (a) A local government unit may contract loans, credits, and other forms of indebtedness with any or domestic private bank and other lending institutions to finance the construction, installation, improvement, expansion, operation, or maintenance of public facilities, infrastructure facilities, housing projects, the acquisition of real property, and the implementation of other capital investment projects, and for the development and welfare of the people of the Bangsamoro, subject to such terms and conditions as may be agreed upon by the local government unit and the lender. The proceeds from such transactions shall accrue directly to the local government unit concerned.
+
+(b) A local government unit may likewise secure from any government bank and lending short, medium and long-term loans and advances against security of real estate or other acceptable assets for the establishment, development, or expansion of agricultural, industrial, commercial, house financing projects, livelihood projects, and other economic enterprises.
+
+(c) Government financial and other lending institutions are hereby authorized to grant loans, credits, and other forms of indebtedness out of their loanable funds to local government units for purposes specified above.
+
+**SECTION 305. Deferred-Payment and other Financial Schemes.** - Provincial, city and municipal governments may likewise acquire property, plant, machinery, equipment, and such necessary accessories under a supplier's credit, deferred payment plan, or other financial scheme.
+
+**SECTION 306. Bonds and Other Long-Term Securities.** - Subject to the rules and regulations of the Central Bank and the Securities and Exchange Commission, provinces, cities, and municipalities are hereby authorized to issue bonds, debentures, securities, collaterals, notes and other obligations to finance self-liquidating, income- producing development or livelihood projects pursuant to the priorities established in the approved local development plan or the public investment program. The Sanggunian concerned shall, through an ordinance approved by a majority of all its members, declare and state the terms and conditions of the bonds and the purpose for which the proposed indebtedness is to be incurred.
+
+**SECTION 307. Inter-Local Government Loans, Grants, and Subsidies.** - Provinces, Cities and Municipalities may, upon approval of the majority of all members of the Sanggunian concerned and in amounts not exceeding their surplus funds, extend loans, grants, or subsidies to other local government units under such terms and conditions as may be agreed upon by the contracting parties. Local government units may, upon approval of their respective Sanggunian, jointly or severally contract loans, credits, and other forms of indebtedness for purposes mutually beneficial to them.
+
+**SECTION 308. Loans from Funds Secured by the National Government from Foreign Sources.** - (a) The President, or his duly authorized representative, may, through any government financial or other lending institution, relend to any province, city, municipality, or Barangay, the proceeds of loans contracted with foreign financial institutions or other international funding agencies for the purpose of financing the construction, installation, improvement, expansion, operation, or maintenance of public utilities and facilities, infrastructure facilities, or housing projects, the acquisition of real property, and the implementation of other capital investment projects, subject to such terms and conditions as may be agreed upon by the President and the local government unit. The proceeds from such loans shall accrue directly to the local government unit concerned.
+
+(b) The President may likewise authorize the relending to local government units the proceeds of grants secured from foreign sources, subject to the provisions of existing laws and the applicable grant agreements.
+
+(c) Repayment or amortization of loans including accrued interest thereon, may be financed from the income of the projects or services and from the regular income of the local government unit, which must be provided for and appropriated regularly in its annual budget until the loan and the interest thereon shall have been fully paid.
+
+**SECTION 309. Financing, Construction, Maintenance, Operation, and Management of Infrastructure Projects by the Private Sector.** - (a) Local government units may enter into contracts with any duly prequalified individual contractor, for the financing, construction, operation, and maintenance of any financially viable infrastructure facilities, under the build-operate-and- transfer agreement, subject to the applicable provisions of Republic Act Numbered Sixty-nine hundred fifty-seven (R.A. No. 6957) authorizing the financing, construction, operation and maintenance of infrastructure projects by the private sector and the rules and regulations issued thereunder and such terms and conditions provided in this Section.
+
+(b) Local government units shall include in their respective local development plans and public investment programs priority projects that may be financed, constructed, operated and maintained by the private sector under this Section. It shall be the duty of the local government unit concerned to disclose to the public all projects eligible for financing under this Section, including official notification of duly registered contractors and publication in newspapers of general or local circulation and in conspicuous and accessible public places. Local projects under the build-operate-and-transfer agreement shall be confirmed by the local development councils.
+
+(c) Projects implemented under this Section shall be subject to the following terms and conditions:
+
+(1) The provincial, city, or municipal engineer, as the case may be, upon formal request in writing by the local chief executive, shall prepare the plans and specifications for the proposed project, which shall be submitted to the Sanggunian for approval.
+
+(2) Upon approval by the Sanggunian of the project plans and specifications, the provincial, city, or municipal engineer shall, as the case may be, cause to be published once every week for two (2) consecutive weeks in at least one (1) local newspaper which is circulated in the region, province, city or municipality in which the project is to be implemented, a notice inviting all duly qualified contractors to participate in a public bidding for the projects so approved. The conduct of public bidding and award of contracts for local government projects under this Section shall be in accordance with this Code and other applicable laws, rules and regulations.
+
+In the case of a build-operate-and-transfer agreement, the contract shall be awarded to the lowest complying bidder whose offer is deemed most advantageous to the local government and based on the present value of its proposed tolls, fees, rentals, and charges over a fixed term for the facility to be constructed, operated, and maintained according to the prescribed minimum design and performance standards, plans, and specifications. For this purpose, the winning contractor shall be automatically granted by the local government unit concerned the franchise to operate and maintain the facility, including the collection of tolls, fees, rentals, and charges in accordance with subsection (c-4) hereof.
+
+In the case of a build-operate-and-transfer agreement, the contract shall be awarded to the lowest complying bidder based on the present value of its proposed schedule of amortization payments for the facility to be constructed according to the prescribed minimum design and performance standards, plans, and specifications.
+
+(3) Any contractor who shall undertake the prosecution of any project under this Section shall post the required bonds to protect the interest of the province, city, or municipality, in such amounts as may be fixed by the Sanggunian concerned and the provincial, city, or municipal engineer shall not, as the case may be, allow any contractor to initiate the prosecution of projects under this Section unless such contractor presents proof or evidence that he has posted the required bond.
+
+(4) The contractor shall be entitled to a reasonable return of its investment in accordance with its bid proposal as accepted by the local government unit concerned.
+
+In the case of a build-operate-and-transfer agreement, the repayment shall be made by authorizing the contractor to charge and collect reasonable tolls, fees, rentals, and charges for the use of the project facility not exceeding those proposed in the bid and incorporated in the contract: Provided, That the local government unit concerned shall, based on reasonableness and equity, approve the tolls, fees, rentals and charges: Provided, further, That the imposition and collection of tolls, fees, rentals and charges shall be for a fixed period as proposed in the bid and incorporated in the contract which shall in no case exceed fifty (50) years: Provided, finally, That during the lifetime of the contract, the contractor shall undertake the necessary maintenance and repair of the facility in accordance with standards prescribed in the bidding documents and in the contract.
+
+In the case of a build-operate-and-transfer agreement, the repayment shall be made through amortization payments in accordance with the schedule proposed in the bid and incorporated in the contract. In case of land reclamation or construction of industrial estates, the repayment plan may consist of the grant of a portion or percentage of the reclaimed land or the industrial estate constructed.
+
+(5) Every infrastructure project undertaken under this Section shall be constructed, operated, and maintained by the contractor under the technical supervision of the local government unit and in accordance with the plans, specifications, standards, and costs approved by it.
+
+(d) The provincial, city or municipal legal officer shall, as the case may be, review the contracts executed pursuant to this Section to determine their legality, validity, enforceability and correctness of form.
+
+**SECTION 310. Remedies and Sanctions.** - Local government units shall appropriate in their respective annual budgets such amounts as are sufficient to pay the loans and other indebtedness incurred or redeem or retire bonds, debentures, securities, notes and other obligations issued under this Title: Provided, that failure to provide the appropriations herein required shall render their annual budgets inoperative.
+
+⁴² public
+⁴³ Per Supreme Court ruling in Mandanas Case (GR No. 199802; July 3, 2018), computation of the internal revenue allotment should not only be limited to the collections of Bureau of Internal Revenue but also include all of forms of national tax collection like that of Bureau of Customs. Moreover, the ruling provides that the new computation should be applied in Fiscal Year 2022.
+⁴⁴ Incorporated the requirements of Magna Carta for Women and Section 5, Article XII, RA 11054 – Gender and Development
+⁴⁵ Section 10, Article XII, RA 11054 – Sharing of Taxes Collected by the National Government. The team recommends that the 75% share of the Bangsamoro Government be divided equally with the local government units and that 50% of that share be allotted to the municipalities due to their substantial number in BARMM and they provide more basic services to the constituents.
+
+**TITLE V**
+**LOCAL FISCAL ADMINISTRATION**
+
+**CHAPTER I**
+**General Provisions**
+
+**SECTION 311. Scope.** - This Title shall govern the conduct and management of financial affairs, transactions, and operations of provinces, cities, municipalities, and Barangays.
+
+**SECTION 312. Fundamental Principles.** - The financial affairs, transactions, and operations of local government units shall be governed by the following fundamental principles:
+
+(a) No money shall be paid out of the local treasury except in pursuance of an appropriations ordinance or law;
+
+(b) Local government funds and monies shall be spent solely for public purposes;
+
+(c) Local revenue is generated only from sources expressly authorized by law or ordinance, and collection thereof shall at all times be acknowledged properly;
+
+(d) All monies officially received by a local government officer in any capacity or on any occasion shall be accounted for as local funds, unless otherwise provided bylaw;
+
+(e) Trust funds in the local treasury shall not be paid out except in fulfillment of the purpose for which the trust was created or the funds received;
+
+(f) Every officer of the local government unit whose duties permit or require the possession or custody of local funds shall be properly bonded, and such officer shall be accountable and responsible for said funds and for the safekeeping thereof in conformity with the provisions of law;
+
+(g) Local governments shall formulate sound financial plans, and the local budgets shall be based on functions, activities, and projects, in terms of expected results;
+
+(h) Local budget plans and goals shall, as far as practicable, be harmonized with national development plans, goals, and strategies in order to optimize the utilization of resources and to avoid duplication in the use of fiscal and physical resources;
+
+(i) Local budgets shall operationalize approved local development plans;
+
+(j) Local government units shall ensure that their respective budgets incorporate the requirements of their component units and provide for equitable allocation of resources among these component units;
+
+(k) National planning shall be based on local planning to ensure that the needs and aspirations of the people as articulated by the local government units in their respective local development plans are considered in the formulation of budgets of national line agencies or offices;
+
+(l) Fiscal responsibility shall be shared by all those exercising authority over the financial affairs, transactions, and operations of the local government units; and
+
+(m) The local government unit shall endeavor to have a balanced budget in each fiscal year of operation.
+
+(n) The local government units shall promote honest, transparent, and orderly management of public funds, and increase the Bangsamoro people’s awareness on local budget and allocated amount for development projects in their localities in accordance with the full disclosure policy of the Bangsamoro Government. ⁴⁶
+
+**SECTION 313. Definitions.** - When used in this Title, the term - (a) "Annual Budget" refers to a financial plan embodying the estimates of income and expenditures for one (1) fiscal year;
+
+(b) "Appropriation" refers to an authorization made by ordinance, directing the payment of goods and services from local government funds under specified conditions or for specific purposes;
+
+(c) "Budget Document" refers to the instrument used by the local chief executive to present a comprehensive financial plan to the Sanggunian concerned;
+
+(d) "Capital Outlays" refers to appropriations for the purchase of goods and services, the benefits of which extend beyond the fiscal year and which add to the assets of the local government unit concerned, including investments in public utilities such as public markets and slaughterhouses;
+
+(e) "Continuing Appropriation" refers to an appropriation available to support obligations for a specified purpose or projects, such as those for the construction of physical structures or for the acquisition of real property or equipment, even when these obligations are incurred beyond the budget year;
+
+(f) "Current Operating Expenditures" refers to appropriations for the purchase of goods and services for the conduct of normal local government operations within the fiscal year, including goods and services that will be used or consumed during the budget year;
+
+(g) "Expected Results" refers to the services, products, or benefits that will accrue to the public, estimated in terms of performance measures or physical targets;
+
+(h) "Fund" refers to a sum of money, or other assets convertible to cash, set aside for the purpose of carrying out specific activities or attaining certain objectives in accordance with special regulations, restrictions, or limitations, and constitutes an independent fiscal and accounting entity;
+
+(i) "Income" refers to all revenues and receipts collected or received forming the gross accretions of funds of the local government unit;
+
+(j) "Obligations" refers to an amount committed to be paid by the local government unit for any lawful act made by an accountable officer for and in behalf of the local unit concerned;
+
+(k) "Personal Services" refers to appropriations for the payment of salaries, wages and other compensation of permanent, temporary, contractual, and casual employees of the local government unit;
+
+(l) "Receipts" refers to income realized from operations and activities of the local government or are received by it in the exercise of its corporate functions, consisting of charges for services rendered, conveniences furnished, or the price of a commodity sold, as well as loans, contributions or aids from other entities, except provisional advances for budgetary purposes; and
+
+(m) "Revenue" refers to income derived from the regular system of taxation enforced under authority of law or ordinance, and, as such, accrue more or less regularly every year.
+
+**CHAPTER II**
+**Local and Other Special Funds**
+
+**ARTICLE I**
+**Receipts, Safekeeping and Disposition of Local Funds**
+
+**SECTION 314. Remittance of Government Monies to the Local Treasury.** - Officers of the local authorized to receive and collect monies arising from taxes, revenues, or receipts of any kind shall remit the full amount received and collected to the treasury of such local government unit which shall be credited to the particular account or accounts to which the monies in question properly belong.
+
+**SECTION 315. Local Funds.** - Every local government unit shall maintain a General Fund which shall be used to account for such monies and resources as may be received by and disbursed from the local treasury. The General Fund shall consist of monies and resources of the local government which are available for the payment of expenditures, obligations or purposes not specifically declared by law as accruing and chargeable to, or payable from, any other fund.
+
+**SECTION 316. Special Funds.** - There shall be maintained in every provincial, city, or municipal treasury the following special funds:
+
+(a) Special Education Fund (SEF) shall consist of the respective shares of provinces, cities, and Barangays in the proceeds of the additional tax on real property to be appropriated for purposes prescribed in Section 147 of this Code; and
+
+(b) Trust Funds shall consist of private and public monies which have officially come into the possession of the local government or of a local government official as trustee, agent or administrator, or which have been received as a guaranty for the fulfillment of some obligation. A trust fund shall only be used for the specific purpose for which it was created or for which it came into the possession of the local government unit.
+
+**SECTION 317. Separation of Books and Depository Accounts.** - Local accountants and treasurers shall maintain separate books and depository accounts, respectively, for each fund in their custody or under such rules and regulations as the Commission on Audit may prescribe.
+
+**SECTION 318. Depository Accounts.** - Local treasurers shall maintain depository accounts in the of their respective local government units with banks, preferably government-owned, located in or nearest to their respective areas of jurisdiction. Earnings of each depository account shall accrue exclusively thereto.
+
+**SECTION 319. Separation of Personal Money from Public Funds.** - Local treasurers and other accountable officers shall keep personal monies separate and distinct from local public funds in their custody and shall not make profit out of public money or otherwise apply the same to any use not authorized by law or ordinance.
+
+**ARTICLE II**
+**Special Accounts**
+
+**SECTION 320. Special Accounts to be Maintained in the General Fund.** - Local government units shall maintain special accounts in the general fund for the following:
+
+(a) Public utilities and other economic enterprises;
+
+(b) Loans, interests, bond issues, and other contributions for specific purposes; and
+
+(c) Development projects funded from the share of the local government unit concerned in the internal revenue allotment and such other special accounts which may be created by law or ordinance. Receipts, transfers, and expenditures involving the foregoing special accounts shall be properly taken up thereunder. Profits or income derived from the operation of public utilities and other economic enterprises, after deduction for the cost of improvement, repair and other related expenses of the public utility or economic enterprise concerned, shall first be applied for the return of the advances or loans made therefor. Any excess shall form part of the general fund of the local government unit concerned.
+
+**CHAPTER III**
+**Budgeting**
+
+**ARTICLE I**
+**Local Government Budgets**
+
+**SECTION 321. Form and Content.** - (a) Local government budgets shall primarily consist of two (2) parts:
+
+(1) estimates of receipts; and
+
+(2) the total appropriations covering the current operating expenditures and capital outlays.
+
+(b) The budget document shall contain:
+
+(1) A budget message of the local chief executive setting forth in brief the significance of the executive budget, particularly in relation to the approved local development plan;
+
+(2) A brief summary of the functions, projects, and activities to be accomplished in of the goals and objectives of the local government unit for the ensuing fiscal year, specifically the delivery of basic services or facilities enumerated under Section 17 of this Code;
+
+(3) Summary of financial statements setting forth:
+
+(i) The actual income and expenditures during the immediately preceding year;
+
+(ii) The actual income and expenditures of the first two (2) quarters and the estimates of income and expenditures for the last two (2) quarters of the current fiscal year;
+
+(iii) The estimates of income for the ensuing fiscal year from ordinances and laws existing at the time the proposed budget is transmitted, together with other revenue-raising proposals;
+
+(iv) The estimated expenditures necessary to carry out the functions, projects, and activities of the local government unit for the ensuing fiscal year;
+
+(v) All essential facts regarding the bonded and other long-term obligations and indebtedness of the local government unit, if any;
+
+(vi) Summary statement of all statutory and contractual obligations due; and
+
+(vii) Such other financial statements and data as are deemed necessary or desirable in order to disclose in all practicable detail the financial condition of the local government unit.
+
+**SECTION 322. Submission of Detailed Statements of Income and Expenditures.** - (a) On or before the fifteenth (15th) day of July of each year, local treasurers shall submit to their respective local chief executives a certified statement covering the income and expenditures of the preceding fiscal year, the actual income and expenditures of the first two (2) quarters of the current year, and the estimated income and expenditures for the last two (2) quarters of the current year.
+
+**SECTION 323. Local Finance Committee.** - There is hereby created in every province, city, or municipality a local finance committee to be composed of the local planning and development officer, the local budget officer, and the local treasurer. It shall exercise the following functions:
+
+(a) Determine the income reasonably projected as collectible for the ensuing fiscal year;
+
+(b) Recommend the appropriate tax and other revenue measures or borrowings, which may be appropriate to support the budget;
+
+(c) Recommend to the local chief executive concerned the level of the annual expenditures and the ceilings of spending for economic, social, and general services based on the approved local development plans;
+
+(d) Recommend to the local chief executive concerned the proper allocation of expenditures for each development activity between current operating expenditures and capital outlays;
+
+(e) Recommend to the local chief executive concerned the amount to be allocated for capital under each development activity or infrastructure project;
+
+(f) Assist the Sangguniang Panlalawigan in the review and evaluation of budget of component cities and municipalities in the case of provincial finance committee, the Barangay budgets in the case of city or municipal finance committee, and recommend the appropriate action thereon;
+
+(g) Assist the Sanggunian concerned in the analysis and review of annual regular and budgets of the respective local government unit to determine compliance with statutory and administrative requirements; and
+
+(h) Conduct semi-annual review and general examination of cost and accomplishments against performance standards applied in undertaking development projects. A copy of this report shall be furnished the local chief executive and the Sanggunian concerned, and shall be posted in conspicuous and publicly accessible places in the provinces, cities, municipalities and barangays.
+
+**SECTION 324. Submission of Budget Proposals by Heads of Departments or Offices.** - (a) Each head of department or office shall submit a budget proposal for his department or office to the local chief executive on or before the fifteenth (15th) day of July of each year: Provided, That the budget proposal of each department or office shall be categorized under either economic, social or general services: Provided, further, That each service shall be covered by the budget of at least one (1) department or office of the local government unit concerned.
+
+The said budget proposal shall be prepared in accordance with such policy and program as the local chief executive concerned may issue in conformity with the local development plan, the budgetary ceilings prescribed by the local finance committee, and the general requirements prescribed in this Title.
+
+(b) Budget proposals of departments or offices shall be divided into two (2) primary categories, namely: the current operating expenditures and the capital outlays. Such budget proposals shall contain the following information:
+
+(1) Objectives, functions, and projects showing the general character and relative importance of the work to be accomplished or the services to be rendered, and the cost thereof;
+
+(2) Organizational charts and staffing patterns indicating the list of plantilla positions with their corresponding salaries, and proposals for reclassification of positions and salary changes, as well as the creation of new positions with their proposed salary grade, duly supported by proper justification;
+
+(3) Brief description of the functions, projects and activities for the ensuing fiscal year, expected results for each function, project and activity, and the nature of work to be performed, including the objects of expenditure for each function, project and activity;
+
+(4) Relation of the work and financial proposals to approved local development plans;
+
+(5) Estimated current operating expenditures and capital outlays with comparative data for the last two (2) preceding, current, and ensuing fiscal years; and
+
+(6) Accomplishment reports for the last two (2) proceeding and current fiscal years.
+
+**SECTION 325. Preparation of the Budget by the Local Chief Executive.** - Upon receipt of the statements of income and expenditures from the treasurer, the budget proposals of the heads of departments and offices, and the estimates of income and budgetary ceilings from the local finance committee, the local chief executive shall prepare the executive budget for the ensuing fiscal year in accordance with the provisions of this Title.
+
+The local chief executive shall submit the said executive budget to the Sanggunian concerned not later than the sixteenth (16th) of October of the current fiscal year. Failure to submit such budget on the date prescribed herein shall subject the local chief executive to such criminal and administrative penalties as provided for under this Code and other applicable laws.
+
+**SECTION 326. Legislative Authorization of the Budget.** - On or before the end of the current fiscal year, the Sanggunian concerned shall enact, through an ordinance, the annual budget of the local government unit for the ensuing fiscal year on the basis of the estimates of income and expenditures submitted by the local chief executive.
+
+**SECTION 327. Effectivity of Budgets.** - The ordinance enacting the annual budget shall take effect at the beginning of the ensuing calendar year. An ordinance enacting a supplemental budget, however, shall take effect upon its approval or on the date fixed therein.
+
+The responsibility for the execution of the annual and supplemental budgets and the accountability therefore shall be vested primarily in the local chief executive concerned.
+
+**SECTION 328. Changes in the Annual Budget.** - All budgetary proposals shall be included and in the budget preparation process. After the local chief executive concerned shall have submitted the executive budget to the Sanggunian, no ordinance providing for a supplemental budget shall be enacted, except when supported by funds actually available as certified by the local treasurer or by new revenue sources.
+
+A supplemental budget may also be enacted in times of public calamity by way of budgetary realignment to set aside appropriations for the purchase of supplies and materials or the payment of services which are exceptionally urgent or absolutely indispensable to prevent imminent danger to, or loss of, life or property, in the jurisdiction of the local government unit or in other areas declared by the President in a state of calamity. Such ordinance shall clearly indicate the sources of funds available for appropriations, as certified under oath by the local treasurer and local accountant and attested by the local chief executive, and the various items of appropriations affected and the reasons for thechange.
+
+**SECTION 329. Reversion of Unexpended Balances of Appropriations, Continuing Appropriations.** - Balances of appropriations authorized in the annual appropriations ordinance shall revert to the surplus of the general fund at the end of the fiscal year and shall not thereafter be available for expenditure except by subsequent enactment. However, appropriations for capital outlays shall continue and remain valid until fully spent, reverted or the project is completed. Reversions of continuing appropriations shall not be allowed unless obligations therefor have been fully paid or otherwise settled.
+
+The balances of continuing appropriations shall be reviewed as part of the annual budget preparation and the Sanggunian concerned may approve, upon recommendation of the local chief executive, the reversion of funds no longer needed in connection with the activities funded by said continuing appropriations subject to the provisions of this Section.
+
+**SECTION 330. Failure to Enact the Annual Appropriations.** - In case the Sanggunian concerned fails to pass the ordinance authorizing the annual appropriations at the beginning of the ensuing fiscal year, it shall continue to hold sessions, without additional remuneration for its members, until such ordinance is approved, and no other business may be taken up during such sessions. If the Sanggunian still fails to enact such ordinance after ninety (90) days from the beginning of the fiscal year, the ordinance authorizing the appropriations of the preceding year shall be deemed reenacted and shall remain in force and effect until the ordinance authorizing the proposed appropriations is passed by the Sanggunian concerned. However, only the annual appropriations for salaries and wages of existing positions, statutory and contractual obligations, and essential operating expenses authorized in the annual and supplemental budgets for the preceding year shall be deemed reenacted and disbursement of funds shall be in accordance therewith.
+
+In the implementation of such reenacted ordinance, the local treasurer concerned shall exclude from the estimates of income for the preceding fiscal year those realized from nonrecurring sources, like national aids, proceeds from loans, sale of assets, prior year adjustments, and other analogous sources of income. No ordinance authorizing supplemental appropriations shall be passed in place of the annual appropriations. In case the revised income estimates be less than the aggregate reenacted appropriations, the local treasurer concerned shall accordingly advise the Sanggunian concerned which shall, within ten (10) days from the receipt of such advice, make the necessary adjustments or reductions. The revised appropriations authorized by the Sanggunian concerned shall then be the basis for disbursements.
+
+**SECTION 331. Budgetary Requirements.** - The budgets of local government units for any fiscal year shall comply with the following requirements: (a) The aggregate amount appropriated shall not exceed the estimates of income:
+
+(b) Full provision shall be made for all statutory and contractual obligations of the local government unit concerned: Provided, however, That the amount of appropriations for debt servicing shall not exceed twenty percent (20%) of the regular income of the local government unit concerned;
+
+(c) In the case of provinces, cities, and municipalities, aid to component Barangays shall be in amounts of not less than One thousand pesos (P1,000.00) per Barangay; and
+
+(d) Five percent (5%) of the estimated revenue from regular sources shall be set aside as an annual lump sum appropriation for unforeseen expenditures arising from the occurrence of calamities: Provided, however, That such appropriation shall be used only in the area, or a portion thereof, of the local government unit or other areas declared by the President in a state of calamity.
+
+(e) Copies of the annual budget of provincial local government units shall be furnished to the Ministry of the Interior and Local Government⁴⁷.
+
+**SECTION 332. General Limitations.** - The use of the provincial, city, and municipal funds shall be subject to the following limitations:
+
+(a) The total appropriations, whether annual or supplemental, for personal services of a local government unit for one (1) fiscal year shall not exceed forty-five percent (45%) in the case of first to third class provinces, cities, and municipalities, and fifty-five percent (55%) in the case of fourth class or lower, of the total annual income from regular sources realized in the next preceding fiscal year. The appropriations for salaries, wages, representation and transportation allowances of officials and employees of the public utilities and economic enterprises owned, operated, and maintained by the local government unit concerned shall not be included in the annual budget or in the computation of the maximum amount for personal services. The appropriations for the personal services of such economic enterprises shall be charged to their respective budgets;
+
+(b) No official or employee shall be entitled to a salary rate higher than the maximum fixed for his position or other positions of equivalent rank by applicable laws or rules and regulations issued there under;
+
+(c) No local fund shall be appropriated to increase or adjust salaries or wages of officials and employees of the national government, except as may be expressly authorized by law; (d) In cases of abolition of positions and the creation of new ones resulting from the abolition of existing positions in the career service, such abolition or creation shall be made in accordance with pertinent provisions of this code and the civil service law, rules and regulations;
+
+(e) Positions in the official plantilla for career positions which are occupied by incumbents holding permanent appointments shall be covered by adequate appropriations;
+
+(f) No changes in designation or nomenclature of positions resulting in a promotion or demotion in rank or increase or decrease in compensation shall be allowed, except when the position is actually vacant, and the filling of such positions shall be strictly made in accordance with the civil service law, rules and regulations;
+
+(g) The creation of new positions and salary increases or adjustments shall in no case be made retroactive; and
+
+(h) The annual appropriations for discretionary purposes of the local chief executive shall not exceed two percent (2%) of the actual receipts derived from basic real property tax in the next preceding calendar year. Discretionary funds shall be disbursed only for public purposes to be supported by appropriate vouchers and subject to such guidelines as may be prescribed by law. No amount shall be appropriated for the same purpose except as authorized under this Section.
+
+**SECTION 333. Review of Appropriation Ordinances of Component Cities and Municipalities.** - The Sangguniang Panlalawigan shall review the ordinance authorizing annual or supplemental appropriations of component cities and municipalities in the same manner and within the same period prescribed for the review of other ordinances.
+
+If within ninety (90) days from receipt of copies of such ordinance, the Sangguniang Panlalawigan takes no action thereon, the same shall be deemed to have been reviewed in accordance with law and shall continue to be in full force and effect. If within the same period, the Sangguniang Panlalawigan shall have ascertained that the ordinance authorizing annual or supplemental appropriations has not complied with the requirements set forth in this Title, the Sangguniang Panlalawigan shall, within the ninety-day period hereinabove prescribed, declare such ordinance inoperative in its entirety or in part. Items of appropriation contrary to limitations prescribed in this Title or in excess of the amounts prescribed herein shall be disallowed or reduced accordingly.
+
+The Sangguniang Panlalawigan shall within the same period advise the Sangguniang Panlungsod or Sangguniang Bayan concerned through the local chief executive of any action on the ordinance under review. Upon receipt of such advice, the city or municipal treasurer concerned shall not make further disbursements of funds from any of the items of appropriation declared inoperative, disallowed or reduced.
+
+**SECTION 334. Duration of Appropriation.** - Appropriations for ordinary administrative purposes not duly obligated shall terminate with the fiscal year and all unexpended balances thereof shall be automatically reverted on the thirty-first (31st) day of December of each year to the general fund of the local government unit.
+
+**ARTICLE II**
+**Barangay Budgets**
+
+**SECTION 335. Barangay Funds.** - Unless otherwise provided in this Title, all the income of the Barangay from whatever source shall accrue to its general fund and shall, at the option of the Barangay concerned, be kept as trust fund in the custody of the city or municipal treasurer or be deposited in a bank, preferably government-owned, situated in or nearest to its area of jurisdiction. Such funds shall be disbursed in accordance with the provisions of this Title. Ten percent (10%) of the general fund of the Barangay shall be set aside for the Sangguniang Kabataan.
+
+**SECTION 336. Submission of Detailed Statements of Income and Expenditures for the Barangay Budgets.** - On or before the fifteenth (15th) day of September of each year, the Barangay Treasurer shall submit to the Punong Barangay a statement covering the estimates of income and expenditures for the ensuing fiscal year, based on a certified statement issued by the city or municipal treasurer covering the estimates of income from local sources for the Barangay concerned.
+
+**SECTION 337. Preparation of the Barangay Budget.** - (a) Upon receipt of the statement of income and expenditures from the Barangay Treasurer, the Punong Barangay shall prepare the Barangay budget for the ensuing fiscal year in the manner and within the period prescribed in this Title and submit the annual Barangay budget to the Sangguniang Barangay for legislative enactment.
+
+(b) The total annual appropriations for personal services of a Barangay for one (1) fiscal year shall not exceed fifty-five percent (55%) of the total annual income actually realized from local sources during the next preceding fiscal year.
+
+(c) The Barangay budget shall likewise be subject to the same budgetary requirements and limitations herein above prescribed.
+
+**SECTION 338. Effectivity of Barangay Budgets.** - The ordinance enacting the annual budget shall take effect at the beginning of the ensuing calendar year. An ordinance enacting a supplemental budget, however, shall take effect upon its approval or on the date fixed therein. The responsibility for the execution of the annual and supplemental budgets and the accountability therefore shall be vested primarily in the Punong Barangay concerned.
+
+**SECTION 339. Review of the Barangay Budget.** - (a) Within ten (10) days from its approval, copies of the Barangay ordinance authorizing the annual appropriations shall be furnished the Sangguniang Panlungsod or the Sangguniang Bayan, as the case may be, through the city or municipal budget officer. The Sanggunian concerned shall have the power to review such ordinance in order to ensure that the provisions of this Title are complied with. If within sixty (60) days after the receipt of the ordinance, the Sanggunian concerned takes no action thereon, the same shall continue to be in full force and effect. If within the same period, the Sanggunian concerned shall have ascertained that the ordinance contains appropriations in excess of the estimates of the income duly certified as collectible, or that the same has not complied with the budgetary requirements set forth in this Title, the said ordinance shall be declared inoperative in its entirety or in part. Items of appropriation contrary to, or in excess of, any of the general limitations or the maximum amount prescribed in this Title shall be disallowed or reduced accordingly.
+
+(b) Within the period hereinabove fixed, the Sangguniang Panlungsod or Sangguniang Bayan concerned shall return the Barangay ordinance, through the city or municipal budget officer, to the Punong Barangay with the advice of action thereon for proper adjustments, in which event, the Barangay shall operate on the ordinance authorizing annual appropriations of the preceding fiscal year until such time that the new ordinance authorizing annual appropriations shall have met the objections raised. Upon receipt of such advice, the Barangay treasurer or the city or municipal treasurer who has custody of the funds shall not make further disbursement from any item of appropriation declared inoperative, disallowed, or reduced.
+
+**SECTION 340. Barangay Financial Procedures.** - (a) The Barangay treasurer shall collect all taxes, fees, and other charges due and contributions accruing to the Barangay for which he shall issue official receipts, and shall deposit all collections with the city or municipal treasury or in the depository account maintained in the name of the Barangay within five (5) days after receipt thereof. He may collect real property taxes and such other taxes as may be imposed by a province, city or municipality that are due in his Barangay only after being deputized by the local treasurer concerned for the purpose.
+
+(b) The Barangay treasurer may be authorized by the Sangguniang Barangay to make direct purchases amounting to not more than One thousand pesos (Php1,000.00) at any time for the ordinary and essential needs of the Barangay. The petty cash that the Barangay treasurer may be authorized to hold for the purpose shall not exceed twenty percent (20%) of the funds available and to the credit of the Barangay treasury.
+
+(c) The financial records of the Barangay shall be kept in the office of the city or municipal accountant in simplified manner as prescribed by the Commission on Audit. Representatives of the Commission on Audit shall audit such accounts annually or as often as may be necessary and make a report of the audit to the Sangguniang Panlungsod or Sangguniang bayan, as the case may be. The Commission on Audit shall prescribe and put into effect simplified procedures for Barangay finances within six (6) months following the effectivity of this Code.
+
+**CHAPTER IV**
+**EXPENDITURES, DISBURSEMENTS, ACCOUNTING AND ACCOUNTABILITY**
+
+**SECTION 341. Prohibitions Against Expenditures for Religious or Private Purposes.** - No public money or property shall be appropriated or applied for religious or private purposes.
+
+**SECTION 342. Use of Appropriated Funds and Savings.** - Funds shall be available exclusively for the specific purpose for which they have been appropriated. No ordinance shall be passed authorizing any transfer of appropriations from one item to another. However, the local chief executive or the presiding officer of the Sanggunian concerned may, by ordinance, be authorized to augment any item in the approved annual budget for their respective offices from savings in other items within the same expense class of their respective appropriations.
+
+**SECTION 343. Restriction Upon Limit of Disbursements.** - Disbursements in accordance with appropriations in the approved annual budget may be made from any local fund in the custody of the treasurer, but the total disbursements from any local fund shall in no case exceed fifty percent (50%) of the uncollected estimated revenue accruing to such local fund in addition to the actual collections: Provided, however, That no cash overdraft in any local fund shall be incurred at the end of the fiscal year.
+
+In case of emergency arising from a typhoon, earthquake, or any other calamity, the Sanggunian concerned may authorize the local treasurer to continue making disbursements from any local fund in his possession in excess of the limitations herein provided, but only for such purposes and amounts included in the approved annual budgets. Any overdraft which may be incurred at the end of the year in any local fund by virtue of the provisions hereof shall be covered with the first collections of the immediately succeeding fiscal year accruing to such local fund.
+
+**SECTION 344. Prohibitions Against Advance Payments.** - No money shall be paid on account of any contract under which no services have been rendered or goods delivered.
+
+**SECTION 345. Cash Advances.** - No cash advance shall be granted to any local official or employee, elective or appointive, unless made in accordance with the rules and regulations as the Commission on Audit may prescribe.
+
+**SECTION 346. Persons Accountable for Local Government Funds.** - Any officer of the local government unit whose duty permits or requires the possession or custody of local government funds shall be accountable and responsible for the safekeeping thereof in conformity with the provisions of this Title. Other local officers who, though not accountable by the nature of their duties, may likewise be similarly held accountable and responsible for local government funds through their participation in the use or application thereof.
+
+**SECTION 347. Prohibitions Against Pecuniary Interest.** - Without prejudice to criminal prosecution under applicable laws, any local treasurer, accountant, budget officer, or other accountable local officer having any pecuniary interest, direct or indirect, in any contract, work or other business of the local government unit of which he is an accountable officer shall be administratively liable therefor.
+
+**SECTION 348. Liability for Acts Done Upon Direction of Superior Officer, or Upon Participation of Other Department Heads or Officers of Equivalent Rank.** - Unless he registers his objection in writing, the local treasurer, accountant, budget officer, or other accountable officer shall not be relieved of liability for illegal or improper use or application or deposit of government funds or property by reason of his having acted upon the direction of a superior officer, elective or appointive, or upon participation of other department heads or officers of equivalent rank. The superior officer directing, or the department head participating in such illegal or improper use or application or deposit of government funds or property, shall be jointly and severally liable with the local treasurer, accountant, budget officer, or other accountable officer for the sum or property so illegally or improperly used, applied or deposited.
+
+**SECTION 349. Prohibition Against Expenses for Reception and Entertainment.** - No money shall be appropriated, used, or paid for entertainment or reception except to the extent of the representation allowances authorized by law or for the reception of visiting dignitaries of foreign governments or foreign missions, or when expressly authorized by the President in specific cases.
+
+**SECTION 350. Certification on, and Approval of, Vouchers.** - No money shall be disbursed unless the local budget officer certifies to the existence of appropriation that has been legally made for the purpose, the local accountant has obligated said appropriation, and the local treasurer certifies to the availability of funds for the purpose. Vouchers and payrolls shall be certified to and approved by the head of the department or office who has administrative control of the fund concerned, as to validity, propriety, and legality of the claim involved. Except in cases of disbursements involving regularly recurring administrative expenses such as payrolls for regular or permanent employees, expenses for light, water, telephone and telegraph services, remittances to government creditor agencies such as the GSIS, SSS, LBP, DBP, National Printing Office, Procurement Service of the DBM and others, approval of the disbursement voucher by the local chief executive himself shall be required whenever local funds are disbursed.
+
+In cases of special or trust funds, disbursements shall be approved by the administrator of the fund. In case of temporary absence or incapacity of the department head or chief of office, the officer next-in-rank shall automatically perform his function and he shall be fully responsible therefor.
+
+**SECTION 351. Officials Authorized to Draw Checks in Settlement of Obligations.** - Checks in settlement of obligations shall be drawn by the local treasurer and countersigned by the local administrator. In case of temporary absence or incapacity of the foregoing officials, these duties shall devolve upon their immediate assistants.
+
+**SECTION 352. Disbursements of Local Funds and Statement of Accounts.** - Disbursements shall be made in accordance with the ordinance authorizing the annual or supplemental appropriations without the prior approval of the Sanggunian concerned. Within thirty (30) days after the close of each month, the local accountant shall furnish the Sanggunian with such financial statements as may be prescribed by the Commission on Audit. In the case of the year-end statement of accounts, the period shall be sixty (60) days after the thirty-first (31st) day of December.
+
+**SECTION 353. Rendition of Accounts.** - Local treasurers, accountants and other local accountable officers shall render their accounts within such time, in such form, style, and content and under such as the Commission on Audit may prescribe. Provincial, city, and municipal auditors shall certify the balances arising in the accounts settled by them to the Chairman of the Commission on Audit and to the local treasurer, accountant, and other accountable officers. Copies of the certification shall be prepared and furnished other local officers who may be held jointly and severally liable for any loss or illegal, improper or unauthorized use or misappropriation of local funds or property.
+
+**SECTION 354. Auditorial Visitation.** - The books, accounts, papers, and cash of local treasurer, accountant, budget officer, or other accountable officers shall at all times be open for inspection of the Commission on Audit or its duly authorized representative.
+
+In case an examination of the accounts of a local treasurer discloses a shortage in cash which should be on hand, it shall be the duty of the examining officer to seize the office and its contents, notify the Commission on Audit, the local chief executive concerned, and the local accountant. Thereupon, the examining officer shall immediately turn over to the accountable officer next-in-rank in the local treasury service, unless the said officer is likewise under investigation, the office of the treasurer and its contents, and close and render his accounts on the date of turnover. In case the accountable officer next in rank is under investigation, the auditor shall take full possession of the office and its contents, close and render his accounts on the date of taking possession, and temporarily continue the public business of such office until such time that the local treasurer is restored or a successor has been duly designated. The local treasurer or accountable officer found with such shortage shall be automatically suspended from office.
+
+**SECTION 355. Accounting for Revenues.** - Estimated revenues which remain unrealized at the close of the fiscal year shall not be booked or credited to the unappropriated surplus or any other account.
+
+**SECTION 356. Accounting for Obligations.** - All lawful expenditures and obligations incurred during a fiscal year shall be taken up in the accounts of that year.
+
+**SECTION 357. General Liability for Unlawful Expenditures.** - Expenditures of funds or use of property in violation of this Title and other laws shall be a personal liability of the official or employee responsible therefor.
+
+**SECTION 358. Posting of the Summary of Income and Expenditures.** - Local treasurers, accountants, budget officers and other accountable officers shall, within thirty (30) days from the end of each fiscal year, post in at least three (3) publicly accessible and conspicuous places in the local government unit a summary of all revenues collected and funds received including the appropriations and disbursements of such funds during the preceding fiscal year.
+
+**SECTION 359. The Official Fiscal Year.** - The official fiscal year of local government units shall be the period beginning with the first day of January and ending with the thirty-first day of December of the same year.
+
+**SECTION 360. Administrative Issuances; Budget Operations Manual.** - Until a manual is issued by the Ministry of Finance, and Budget and Management for local government units of Bangsamoro Autonomous Region, the Budget Operations Manual promulgated by the Department of Budget and Management shall govern to improve and systematize methods, techniques, and procedures employed in budget preparation, authorization, execution, and accountability⁴⁸.
+
+***
+
+⁴⁶ Section 40, Article XII, RA 11054 - Full Disclosure Policy
+⁴⁷ The team recommends that Bangsamoro Government be given a copy of the annual budget of provinces for monitoring and policy making purposes.
+⁴⁸ The team recommends that a manual may be issued by MFBM for the constituent local government units of BARMM to ensure that it is consistent and in line with the objectives of the Bangsamoro Government.
+
+**TITLE VI**
+**PROPERTY AND SUPPLY MANAGEMENT IN THE LOCAL GOVERNMENT UNITS**
+
+**SECTION 361. Scope.** - This Title shall govern the procurement, care, utilization, custody, and disposal of supplies, as defined herein, by local government units and the other aspects of supply management at the local levels.
+
+**SECTION 362. General Rule in Procurement or Disposal.** - Except as otherwise provided herein, the procurement of goods⁴⁹ by the local government units shall be through competitive public bidding. Supplies which have become unserviceable or no longer needed shall be sold, whenever applicable, at public auction, subject to applicable rules and regulations.
+
+**SECTION 363. Definition of Terms.** - When used in this Title, the term:
+
+(a) “Competitive Bidding” Refers to a method of procurement which is open to participation by any interested party and which consists of the following processes: advertisement, pre-bid conference, eligibility screening of prospective bidders, receipt and opening of bids, evaluation of bids, post-qualification, and award of contract;
+
+(b) “Goods” refer to all items, supplies, materials and general support services, except Consulting Services and infrastructure projects, which may be needed in the transaction of public businesses or in the pursuit of any government undertaking, project or activity, whether in the nature of equipment, furniture, stationery, materials for construction, or personal property of any kind, including non-personal or contractual services, such as, the repair and maintenance of equipment and furniture, as well as trucking, hauling, janitorial, security, and related or analogous services, as well as procurement of materials and supplies provided by the Procuring Entity for such services. The term “related” or “analogous services” shall include, but is not limited to, lease of office space, media advertisements, health maintenance services, and other services essential to the operation of the Procuring Entity;
+
+(c) “Lowest Complying and Responsible Bid” refers to the proposal of one who offers the lowest price, meets all the technical specifications and requirements of the supplies desired and, as a dealer in the line of supplies involved, maintains a regular establishment, and has complied consistently with previous commitments;
+
+(d) “Suitable Substitute” refers to that kind of article which would serve substantially the same purpose or produce substantially the same results as the brand, type, or make of article originally desired or requisitioned;
+
+(e) “Procurement” refers to the acquisition of goods, consulting services, and the contracting for infrastructure projects by the Procuring Entity. Procurement shall also include the lease of goods and real estate. With respect to real property, its procurement shall be governed by the provisions of Republic Act No. 10752 and other applicable laws, rules and regulations; and
+
+(d) “Terms and Conditions” refer to other requirements not affecting the technical specifications and requirements of the required supplies desired such as bonding, terms of delivery and payment, and related preferences.
+
+**SECTION 364. Requirement of Requisition.** - Any order for supplies shall be filled by the provincial or city general services officer or the municipal or Barangay treasurer concerned, as the case may be, for any office or department of a local government unit only upon written requisition as herein after provided.
+
+**SECTION 365. Officers Having Authority to Draw Requisitions.** - Requisitions shall be prepared by the head of office or department needing the supplies, who shall certify as to their necessity for official use and specify the project or activity where the supplies are to be used.
+
+**SECTION 366. Certification by the Local Budget Officer, Accountant, and Treasurer.** - Every requisition must be accompanied by a certificate signed by the local budget officer, the local accountant, and the local treasurer showing that an appropriation therefor exists, the estimated amount of such expenditure has been obligated, and the funds are available for the purpose, respectively.
+
+**SECTION 367. Approval of Requisitions.** - Approval of the requisition by the head of office or department concerned who has administrative control of the appropriation against which the proposed expenditure is chargeable is deemed sufficient, except in case of requisition for supplies to be carried in stock which shall be approved by the local chief executive concerned: Provided, That such supplies are listed or included in the annual procurement plan and the maximum quantity thereof does not exceed the estimated consumption corresponding to a programmed three-month period: Provided, further, That nothing herein contained shall be held as authorizing the purchase of furniture and equipment for stock purposes.
+
+**SECTION 368. Call for Bids.** - When procurement is to be made by local government units, the provincial or city general services officer or the municipal or barangay treasurer shall call bids for open public competition. The call for bids shall show the complete specifications and technical descriptions of the required supplies and shall embody all terms and conditions of participation and award, terms of delivery and payment, and all other covenants affecting the transaction. In all calls for bids, the right to waive any defect in the tender as well as the right to accept the bid most advantageous to the government shall be reserved. In no case, however, shall failure to meet the specifications or technical requirements of the supplies desired be waived.
+
+**SECTION 369. Publication of Call for Bids.** - The call for bids shall be given the widest publicity possible, sending, by mail or otherwise, any known prospective participant in the locality, of copies of the call and by posting copies of the same in at least three (3) publicly accessible and conspicuous places in the provincial capitol or city, municipal, or barangay hall, as the case may be. It shall also be posted in the website of the local government unit concerned.
+
+The notice of the bidding may likewise be published in a newspaper of general circulation in the territorial jurisdiction of the local government unit concerned when the provincial or city general services officer or the municipal or barangay treasurer, as the case may be, deems it necessary in order to obtain the lowest responsible and complying bid.
+
+The opening of bids shall only be made in the presence of the provincial or city auditor or his duly authorized representative who shall initial and secure copies of the bids and certify the abstract of the bidding.
+
+**SECTION 370. Bids and Awards Committee.** - There shall be in every province, city or municipality a Bids and Awards Committee to ensure that the winning bids and questions of awards on procurement and disposal of property are in accordance with this Code. The Local Government Units shall be considered as the Procuring Entity and shall act through the Head of the Procuring Entity.
+
+The Head of the Procuring Entity in local government units shall be the Local Chief Executive who shall be the Governor (for Provinces) or the Mayor (for Cities and Municipalities). All procurement activities of the local government units require the approval of the Head of the Procuring Entity.
+
+The Bids and Awards Committee shall consist of at least five (5) members and shall not exceed seven (7) and all should be personnel occupying plantilla positions of the local government concerned. The Local Chief Executive shall designate the members and be composed of the following:
+
+i. One representative each from the regular offices under the Office of the Local Chief Executive such as, but not limited to, the following: Office of the Administrator, Budget Office, Legal Office, Engineering Office, General Services Offices; and
+
+ii. A representative from the end-user unit
+
+The Chairperson and Vice-Chairperson shall be designated by the Local Chief Executive. The Chairperson of the Bids and Awards Committee shall be at least a third (3rd) ranking permanent official of the Procuring Entity. In case of provinces, cities and municipalities, the head of any of the regular offices under the Office of the Local Chief Executive shall be considered third (3rd) ranking permanent employee. The first (1st) ranking official shall be the Mayor or the Governor, while the second (2nd) ranking permanent official shall be the Vice- Governor or Vice-Mayor.
+
+The results of the bidding shall be made public by conspicuously posting the same in the provincial capitol or city, municipal, or barangay hall.
+
+**SECTION 371. Terms of Membership** - The Bids and Awards Committee members shall be designated for a term of one (1) year only, reckoned from the date of designation. However, the LCE may renew or terminate such designation at his discretion.
+
+The designation of the Bids and Awards Committee members is within the exclusive prerogative and discretion of the Local Chief Executive and they may be removed from such designation for justifiable causes. In case of resignation, retirement, separation, transfer, re-assignment, or removal of a Bids and Awards Committee member, the Local Chief Executive shall designate a replacement that has similar qualifications as the official replaced. The replacement shall serve for the unexpired term. In case of leave or suspension, the replacement shall serve only for the duration of the leave or suspension.
+
+Upon expiration of the terms of the current members, they shall continue to exercise their functions until new Bids and Awards Committee members are designated.
+
+**SECTION 372. Prohibited Bids and Awards Committee Members-**The following officials are disqualified from membership in the BAC:
+
+a. LCE and other elective officials of the province/city/municipality;
+
+b. Official who approves procurement contracts;
+
+c. Chief Accountant or Head of the Provincial/City/Municipal Accounting Office and his/her staff, unless the Accounting Department is the end- user unit, in which case the Chief Accountant, Head of the Accounting Department or his/her staff may be designated as an end-user member.
+
+**SECTION 373. Quorum** - The simple majority (one-half of membership plus one) of the BAC members shall constitute a quorum, provided that the Chairperson or the Vice- Chairperson should be present in all meetings and deliberations.
+
+Physical presence of the Chairperson or the Vice Chairperson is necessary for the BAC to conduct its business. The Chairperson or, in his absence, the Vice- Chairperson shall preside over the meetings. The Chairperson or the Vice-Chairperson, acting as the Presiding Officer shall vote only in case of a tie.
+
+Presence of alternate Bids and Awards Committee members in meetings are considered for purposes of quorum. On the other hand, representatives of Bids and Awards Committee members shall be allowed to sit and listen during meetings but they shall not be considered for purposes of quorum.
+
+All Bids and Awards Committee decisions should be embodied in resolutions duly signed by at least a majority of the members and the Chairperson or Vice-Chairperson thereof, as the case may be.
+
+**SECTION 374. BAC Secretariat.** - The Head of Procuring Entity shall create a Secretariat which will serve as the main support unit of the Bids and Awards Committee. An existing organic office within the Procuring Entity may also be designated to serve as Secretariat.
+
+**SECTION 375. Technical Work Group** - The Bids and Awards Committee may create a TWG from a pool of technical, financial and/or legal experts to assist in the procurement process, particularly in the eligibility screening, evaluation of bids and post-qualification.
+
+**SECTION 376. Observers.** - To enhance the transparency of the process, the Bids and Awards Committee shall be effected by sending requests for the submission of price conference, preliminary examination of bids, bid evaluation, and post-qualification, invite, in addition to the representative of the Commission On Audit, at least two (2) observers, who shall not have the right to vote, to sit in its proceedings where:
+
+i. At least one (1) shall come from a duly recognized private group in a sector or discipline relevant to the procurement at hand, such as the Philippine Chamber of Commerce and Industry;
+
+ii. The other observer shall come from an accredited Civil Society Organization.
+
+**SECTION 377. Technical Work Group** - The Bids and Awards Committee may create a TWG from a pool of technical, financial and/or legal experts to assist in the procurement process, particularly in the eligibility screening, evaluation of bids and post-qualification.
+
+**SECTION 378. Rule on Awards.** - Awards in the procurement of supplies shall be given to the Lowest Calculated and Responsive Bid or Highest Rated and Responsive Bid which meets all the terms and conditions of the contract or undertaking.
+
+**SECTION 379. Alternative Modes of Procurement.** - Procurement of supplies may be made without the benefit of public bidding under any of the following modes:
+
+(a) Shopping;
+(b) Emergency cases;
+(c) Negotiated procurement;
+(d) Direct contracting; and
+(e) Purchase from other government entities.
+
+**SECTION 380. Shopping** – Upon approval by the Head of Procuring Entity, procurement of supplies may be effected by sending requests for the submission of price quotation for readily available off-the-shelf goods or ordinary/regular equipment to be procured directly from suppliers of known qualifications. This method of procurement shall be employed in any of the following cases:
+
+a) When there is an unforeseen contingency requiring immediate purchase, the amount shall not exceed the following:
+
+| Classification of LGUs | Province | City | Municipality |
+| :--- | :--- | :--- | :--- |
+| 1st Class | 200,000 | 200,000 | 100,000 |
+| 2nd Class | 200,000 | 200,000 | 100,000 |
+| 3rd Class | 200,000 | 160,000 | 100,000 |
+| 4th Class | 160,000 | 120,000 | 100,000 |
+| 5th Class | 120,000 | 100,000 | 100,000 |
+| 6th Class | 100,000 | 100,000 | 100,000 |
+
+In the case of barangays, Fifty Thousand Pesos (P50,000).
+
+b) Procurement of ordinary or regular office supplies and equipment not available in the DBM-PS, the amount shall not exceed the following:
+
+| Classification of LGUs | Province | City | Municipality |
+| :--- | :--- | :--- | :--- |
+| 1st Class | 1,000,000 | 1,000,000 | 200,000 |
+| 2nd Class | 1,000,000 | 1,000,000 | 200,000 |
+| 3rd Class | 800,000 | 800,000 | 200,000 |
+| 4th Class | 800,000 | 600,000 | 100,000 |
+| 5th Class | 600,000 | 400,000 | 100,000 |
+| 6th Class | 400,000 | 200,000 | 100,000 |
+
+In the case of barangays, Fifty Thousand Pesos (P50,000)
+
+The phrase “ordinary or regular office supplies” shall be understood to include those supplies, commodities, or materials which are necessary in the transaction of its official businesses, and consumed in the day-to-day office operations. However, office supplies shall not include services such as repair and maintenance of equipment and furniture, as well as trucking, hauling, janitorial, security, and related or analogous services.
+
+**SECTION 381. Emergency Cases.** - In cases of imminent danger to life or property during a state of calamity, or when time is of the essence arising from natural or man-made calamities or other causes where immediate action is necessary to prevent damage to or loss of life or property, or to restore vital public services, where the need for the supplies is exceptionally urgent or absolutely indispensable, local government units may, through the recommendation of the Bids and Awards Committee, directly negotiate with a supplier with technical, legal and financial capability to deliver the goods to address the emergency, regardless of amount, without public bidding. The local chief executive shall evaluate recommendation and approves or disapproves the same.
+
+After the approval is issued by the local chief executive and contractual procedures have been accomplished, it shall be immediately Award the contract to the supplier. Delivery of purchase orders or utilization of repair orders pursuant to this section shall be made within ten (10) days after placement of the same and must be utilized or availed of within fifteen (15) days from the date of delivery or availability.
+
+In all instances of this Section, the local chief executive, shall confirm in writing the existence and veracity of the ground or grounds relied upon before approving the ensuing contract.
+
+When the ground is based on imminent danger to life during a state of calamity, there must be a declaration by a competent authority of a state of calamity pursuant to existing laws, rules and regulations before any procurement activity be undertaken
+
+Without prejudice to criminal prosecution under applicable laws, the local chief executive, the head of department, or the chief of office making the procurement shall be administratively liable for any violation of this section and shall be a ground for suspension or dismissal from service.
+
+**SECTION 382. Negotiated Procurement.** - (a) In cases where public biddings have failed for two (2) consecutive times and no suppliers have qualified to participate or win in the biddings, local government units may, through the local chief executive concerned, undertake the procurement of supplies by negotiated purchase, regardless of amount, without public bidding: Provided, however, That the contract covering the negotiated procurement shall be approved by the Sanggunian concerned. Delivery of purchase orders or utilization of repair orders pursuant to this section shall be made within seven (7) days after placement of the same. Immediately after the negotiated purchase or repair order is made, the local chief executive concerned shall draw a regular requisition to cover the same which shall contain the following:
+
+(1) A complete description of the supplies acquired or the work done or to be performed;
+
+(2) By whom furnished or executed;
+
+(3) Date of placing the order and the date and time of delivery or execution;
+
+(4) The unit price and the total contract price;
+
+(5) A recommendation from the Bids and Awards Committee that the supplier was Single or Lowest Calculated and Responsive Quotation;
+
+(6) A Notice of Award issued by the local chief executive upon approval of the recommendation from the Bids and Awards Committee;
+
+(7) A certification of the local budget officer as to the existence of appropriations for the purpose, the local accountant as to the obligation of the amount involved, and the local treasurer as to the availability of funds.
+
+(b) In case of repeat orders for regular supplies, procurement may be made by negotiated purchase: Provided, That the repeat order is made within six (6) months from the last procurement of the same item awarded through public bidding and there has been partial delivery, inspection and acceptance of the goods within the same period: Provided, however, That the unit prices must be the same as or lower than those in the original contract and are still the most advantageous to the government after price verification: Provided, further, That the same terms and conditions of sale are obtained for the said repeat order. Provided, finally, That repeat orders shall not exceed twenty-five percent (25%) of the quantity of each item in the original contract. In order not to exceed the 25% threshold, the goods under the original contract must be:
+
+i. Quantifiable;
+ii. Divisible; and
+iii. Consisting of at least four (4) units per item.
+
+**SECTION 383. Direct Contracting.** - Direct Contracting or single source procurement is a method of procurement of goods that does not require elaborate Bidding Documents. The supplier is simply asked to submit a price quotation or a pro-forma invoice together with the conditions of sale. The offer may be accepted immediately or after some negotiations. Direct Contracting may be resorted to under any of the following conditions:
+
+a) Procurement of goods of proprietary nature which can be obtained only from the proprietary source, i.e., when patents, trade secrets, and copyrights prohibit others from manufacturing the same item;
+
+b) When the procurement of critical components from a specific supplier is a condition precedent to hold a contractor to guarantee its project performance, in accordance with the provisions of its contract; or
+
+c) Those sold by an exclusive dealer or manufacturer which does not have sub-dealers selling at lower prices and for which no suitable substitute can be obtained at more advantageous terms to the government.
+
+To justify the need to procure through the Direct Contracting method, the End-User should conduct a survey of the industry and determine the supply source. In all cases where Direct Contracting is contemplated, the survey must be conducted prior to the commencement of the procurement process. Moreover, the End-User must justify the necessity for an item that may only be procured through Direct Contracting, and it must be able to provide that there is no suitable substitute in the market that can be obtained at more advantageous terms.
+
+Procurement may be made directly from duly licensed manufacturers in cases of supplies of Philippine manufacture or origin and in case there are two (2) or more manufacturers of the required supplies, canvass of the known manufacturers shall be conducted to obtain the lowest price for the quality of the said supplies.
+
+**SECTION 384. Procurement from Government Entities.** - Procurement may be made directly from the government entities producing the required supplies, including units or agencies of foreign governments with which the Philippines maintains diplomatic relations. In the latter case, prior authority from the Office of the President shall be required.
+
+**SECTION 385. Annual Procurement Program.** - (a) On or before the fifteenth (15th) day of July each year, the local chief executive shall prepare an annual procurement program for the ensuing fiscal year which shall contain an itemized list of the estimated quantity of supplies needed for such year, a complete description thereof as to kind, quality, estimated cost, and balance on hand: Provided, however, That the estimated cost of the approved annual procurement program shall not exceed the total appropriations authorized for the acquisition of supplies. The local government units may augment the supplies and equipment provided by the Supreme Court to the lower courts located in their respective jurisdictions.
+
+(b) Except in emergency cases or where urgent indispensable needs could not have been reasonably anticipated, no purchase of supplies shall be made unless included in, or covered by, the approved procurement program.
+
+(c) The conversion of excess cash into supplies stock is hereby prohibited except to the extent of the kind and quantity specified in the approved annual procurement plan.
+
+A violation of this section shall be a ground for suspension or dismissal of any official or employee responsible therefor.
+
+**SECTION 386. Establishment of an Archival System.** - Every local government unit shall provide for the establishment of an archival system to ensure the safety and protection of all government property, public documents or records such as records of births, marriages, property inventory, land assessments, land ownership, tax payments, tax accounts, and business permits, and such other records or documents of public interest in the various departments and offices of the provincial, city, or municipal government concerned.
+
+**SECTION 387. Primary and Secondary Accountability for Government Property.** - (a) Each head of department or office of a province, city, municipality or Barangay shall be primarily accountable for all government property assigned or issued to his department or office. The person or persons entrusted with the possession or custody of government property under the accountability of any head of department or office shall be immediately accountable to such officer.
+
+(b) The head of a department or office primarily accountable for government property may any person in possession of the property or having custody and control thereof under him to keep such records and make reports as may be necessary for his own information and protection.
+
+(c) Buildings and other physical structures shall be under the accountability and responsibility of the provincial or city general services officer or the municipal mayor or Punong Barangay, as the case maybe.
+
+(d) Every officer primarily accountable for government property shall keep a complete record of all properties under his charge and render his accounts therefor semiannually to the provincial or city general services officer or the municipal mayor or Punong Barangay, as the case maybe.
+
+**SECTION 388. Responsibility for Proper Use and Care of Government Property.** - The person in actual physical possession of government property or entrusted with its custody and control shall be responsible for its proper use and care and shall exercise due diligence in the utilization and safekeeping thereof.
+
+**SECTION 389. Measure of Liability of Persons Accountable for Government Property.** - (a) The person immediately accountable for government property shall be liable for its money value in case of the illegal, improper or unauthorized use or misapplication thereof, by himself or any other person for whose acts he may be responsible, and he shall be liable for all loss, damage, or deterioration occasioned by negligence in the keeping or use of such property unless it is proved that he has exercised due diligence and care in the utilization and safe keeping thereof.
+
+(b) Unless he registers his objection in writing, an accountable person shall not be relieved from liability by reason of his having acted under the direction of a superior officer in using property with which he is chargeable; but the officer directing any illegal, unauthorized or improper use of property shall first be required to answer therefor.
+
+(c) In cases of loss, damage, or deterioration of government property arising from, or attributable to, negligence in security, the head of the security agency shall be held liable therefor.
+
+**SECTION 390. Credit for Loss Occurring in Transit or Due to Casualty.** - When a loss of government property occurs while the same is in transit or is caused by fire, theft, force majeure, or other casualty, the officer accountable therefor or having custody thereof shall immediately notify the provincial or city auditor concerned within thirty (30) days from the date the loss occurred or for such longer period as the provincial, city or municipal auditor, as the case may be, may in the particular case allow, and he shall present his application for relief, with the available evidence in support thereof. An officer who fails to comply with this requirement shall not be relieved of liability or allowed credit for any such loss in the settlement of his accounts.
+
+A provincial, city or municipal auditor shall not allow credit for these losses unless so expressly authorized by the Chairman of the Commission on Audit, to be exercised only if the loss is not in excess of fifty thousand pesos (Php50,000.00). In any case when the allowance of credit is not within the competence of the provincial, city or municipal auditor, the application and evidence, with the recommendation of the auditor concerned, shall be forwarded to the Chairman of the Commission on Audit for his appropriate action.
+
+**SECTION 391. Property Disposal.** - When property of any local government unit has become unserviceable for any cause or is no longer needed, it shall, upon application of the officer accountable therefor, be inspected and appraised by the provincial, city or municipal auditor, as the case may be, or his duly authorized representative or that of the Commission on Audit and, if found valueless or unusable, shall be destroyed in the presence of the inspecting officer.
+
+If found valuable, the same shall be sold at public auction to the highest bidder under the supervision of the committee on awards and in the presence of the provincial, city or municipal auditor or his duly authorized representative. Notice of the public auction shall be posted in at least three (3) publicly accessible and conspicuous places, and if the acquisition cost exceeds One hundred thousand pesos (Php100,000.00) in the case of provinces and cities, and Fifty thousand (Php50,000.00) in the case of municipalities, notice of auction shall be published at least two (2) times within a reasonable period in a newspaper of general circulation in the locality.
+
+**SECTION 392. Negotiated Sale of Property.** - Property no longer needed may also be disposed of at a private sale at such price as may be determined by the Bids and Awards Committee subject to the approval of the Commission on Audit or its duly authorized representative when the acquisition or transfer cost of the property exceeds Fifty thousand pesos (Php50,000.00) in the case of provinces and cities, and Twenty-five thousand (Php25,000.00) in the case of municipalities and Barangays. In case of real property, the disposal shall be subject to the approval of the Commission on Audit regardless of the value or cost involved.
+
+**SECTION 393. Transfer Without Cost.** - Property which has become unserviceable or is no longer needed may be transferred without cost to another office, agency, subdivision or instrumentality of the national government or another local government unit at an appraised valuation determined by the local committee on awards. Such transfer shall be subject to the approval of the Sanggunian concerned making the transfer and by the head of the office, agency, subdivision, instrumentality or local government unit receiving the property.
+
+**SECTION 394. Tax Exemption Privileges of Local Government Units.** - Local government units shall be exempt from the payment of duties and taxes for the importation of heavy equipment or machineries which shall be used for the construction, improvement, repair, and maintenance of roads, bridges and other infrastructure projects, as well as garbage trucks, fire trucks, and other similar equipment: Provided, however, That such equipment or machineries shall not be disposed of, either by public auction or negotiated sale as hereinabove provided, within five (5) years from the importation thereof. In case the machinery or equipment is sold within the five-year period, the purchasers or recipients shall be considered the importers thereof, and shall be liable for duties and taxes computed on the book value of such importation.
+
+**SECTION 395. Implementing Rules and Regulations.** - The implementation of the provisions of this Title, including requirements as to testing, inspection, and standardization of supply and property shall be in accordance with the rules and regulations promulgated by the Commission on Audit and Government Procurement and Policy Board of the Department of Budget and Management.
+
+***
+
+⁴⁹ Proposed provisions in this Chapter are based on RA 9184 or “the Government Procurement Reform Act”
+
+**BOOK III**
+**BANGSAMORO CONSTITUENT UNITS**
+
+**TITLE I**
+**THE BARANGAY**
+
+**CHAPTER I**
+**Role and Creation of the Barangay**
+
+**SECTION 396. Role of Barangay.** - As the basic political unit, the barangay serves as the primary planning and implementing unit of government policies, plans, programs, projects and activities in the community, as well as a forum wherein the collective views of the people may be expressed, crystallized and considered, and where disputes may be amicably settled.
+
+**SECTION 397. Manner of Creation.** - A barangay may be created, divided, merged, abolished, or its boundary substantially altered in accordance with the law enacted by the Sangguniang Panlalawigan, Sangguniang Panlungsod or Bangsamoro Parliament⁵⁰, subject to approval by a majority of the votes cast in a plebiscite to be conducted by the COMELEC in the directly affected local government unit or units within such period as may be determined by law or ordinance creating said barangay.
+
+**SECTION 398. Requisites for Creation.** - (a) A barangay may be created out of a contiguous territory with a population of at least two thousand (2,000) inhabitants as certified by the Philippine Statistics Authority. Provided, that the creation thereof shall not reduce the population of the original barangay or barangays to less than the minimum requirement prescribed herein.
+
+To enhance the delivery of basic services in the indigenous cultural communities, barangays may be created in such communities by an Act of Sangguniang Panlalawigan or the Bangsamoro Parliament, notwithstanding the above requirement.
+
+(b) The territorial jurisdiction of the new barangay shall be properly identified by metes and bounds or by more or less permanent natural boundaries. The territory need not be contiguous if it comprises two (2) or more islands.
+
+(c) There shall be a commitment to donate a lot area of not less than one hectares for the construction of a permanent government center like the barangay hall, health center, daycare center, health center, multi-purpose hall and similar others. The copy of intent to donate shall be attached to the petition for creation of barangay, municipality or province and copy furnished to the Ministry of Interior and Local Government⁵¹;
+
+(d) The concerned office of the city or municipal mayor may prepare a consolidation plan for barangays, based on the criteria prescribed in this Section. The plan shall be submitted to the Panggunian ng Panlungsod or Sangguniang Panlalawigan for appropriate action with copy furnished to the Bangsamoro parliament.
+
+**CHAPTER II**
+**Barangay Officials and Offices**
+
+**SECTION 399. Chief Officials and Offices.** - (a) There shall be in each barangay a Punong Barangay, seven (7) Sangguniang Barangay Members, the Sangguniang Kabataan Chairman, a Barangay Secretary and a Barangay Treasurer.
+
+(b) There shall also be in every Barangay a Lupon Tagapamayapa, Day Care Teacher, Barangay Health Worker, Purok Leader and Local Farm Technicians⁵². The Sangguniang Barangay may form community brigades and create such other positions or offices as may be deemed necessary to carry out the purposes of the barangay government in accordance with the needs of public services subject to the budgetary limitations on personal services prescribed under Title Five, Book II of this Code.
+
+**SECTION 400. Persons in Authority.** - For purposes of the Revised Penal Code, the Punong Barangay, Sangguniang Barangay Members, and members of the Lupong Tagapamayapa in each barangay shall be deemed as persons in authority in their jurisdictions, while other barangay officials and members who may be designated by law or ordinance, and charged with the maintenance of public order, protection and security of life and property, or the maintenance of a desirable and balanced environment, and any barangay member who comes to the aid of persons in authority, shall be deemed agents of persons in authority.
+
+**CHAPTER III**
+**The Punong Barangay**
+
+**SECTION 401. Chief Executive: Powers, Duties and Functions.** - (a) The Punong Barangay, as the chief executive of the barangay government, shall exercise such powers and perform such duties and functions as provided by this Code and other laws.
+
+(b) For efficient, effective and economical governance, the purpose of which is the general welfare of the barangay and its inhabitants pursuant to Section 16 of this Code, the Punong Barangay shall:
+
+(1) Enforce all laws and ordinances which are applicable within the barangay;
+
+(2) Negotiate, enter into, and sign contracts for and in behalf of the barangay, upon authorization of the Sangguniang Barangay;
+
+(3) Maintain public order in the barangay and, in pursuance thereof, assist the city or municipal mayor and the sanggunian members in the performance of their duties and functions;
+
+(4) Call and preside over the sessions of the Sangguniang Barangay and the Barangay Assembly, and vote only to break a tie;
+
+(5) Upon approval by a majority of all the members of the Sangguniang Barangay, appoint or replace the Barangay Treasurer, the Barangay Secretary, and other appointive barangay officials;
+
+(6) Organize and lead an emergency group whenever the same may be necessary for the maintenance of peace and order or on occasions of emergency or calamity within the barangay;
+
+(7) In coordination with the barangay development council, prepare the annual executive and supplemental budgets of the barangay;
+
+(8) Approve vouchers relating to the disbursement of barangay funds;
+
+(9) Enforce laws and regulations relating to pollution control and protection of the environment;
+
+(10) Administer the operation of the Katarungang Pambarangay in accordance with the provisions of this Code;
+
+(11) Exercise general supervision over the activities of the Sangguniang Kabataan;
+
+(12) The barangay government must ensure the delivery of basic services under Section 17 of this Code including the issuance of Barangay indigent certificate; such as⁵³:
+
+(i) Agricultural Services such as maintenance of buying station for farm products (bagsakan), conduct of lectures for farm related activities within their territorial jurisdiction, assist in the distribution of planting materials like seeds, fertilizers, and pesticides; maintenance of Gulayan sa Barangay and introducing improved farm practices as demonstrated in local farm technicians own farm in the barangay⁵⁴.
+
+(ii) Health Services such as primary health care services like giving first aid, nutritional education, feeding, immunization education, family planning education, sanitation and hygiene promotion educations;
+
+(iii) Social Services such as program for senior citizens, persons with disabilities, counseling for child in conflict with the law, maintenance of health center like purchase of tables, chairs and others, maintenance of day care center like purchase of chairs, tables, chalks, blackboards, and construction or provision of solid waste collection like material recovery facilities;
+
+(iv) Issuance of certificate of indigency which shall be free of charge;
+
+(v) Environment Services related to community hygiene and sanitation like beautification, community action for cleanliness and systematic collection, and disposal of solid waste;
+
+(vi) Provisions and Maintenance of Katarungang Pambarangay like purchase of tables, chairs and office supplies;
+
+(vii) Maintenance of barangay roads, bridges and water supply system, and for purposes of barangay road and bridge maintenance, the following are considered barangay road or bridge:
+
+(a) Those constructed by the barangay out of its own funds;
+
+(b) Those constructed by higher local government unit or national government and turned over to the barangay; and
+
+(c) Those constructed by private persons or entities and turned over to the barangay;
+
+(viii) Maintenance of multi- purpose hall and purchase of equipment such as chairs, tables, sound system and others, maintenance of multi-purpose pavement, plaza, sports center and other similar infrastructure; however, in the event that the barangay has sufficient funds to construct facilities necessary in the delivery of basic services, there must be proper coordination to the municipal government to avoid duplicity of projects or programs;
+
+(ix) Maintenance of Information and Reading Center or library such as the purchasing of chairs, tables, books and others;
+
+(x) Maintenance of public market such as provision of drainage, sanitation, peace and order;
+
+(13) Conduct an annual palarong barangay which shall feature traditional sports and disciplines included in national and international games, in coordination with the Ministry of Basic, Higher, and Technical Education;
+
+(14) Promote the general welfare of the barangay; and
+
+(15) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(c) In the performance of his/her peace and order functions and whenever necessary⁵⁵, the Punong Barangay shall be entitled to possess and carry one short firearm within his/her territorial jurisdiction, subject to appropriate rules and regulations.
+
+**CHAPTER IV**
+**The Sangguniang Barangay**
+
+**SECTION 402. Composition.** - The Sangguniang Barangay, the legislative body of the barangay, shall be composed of the Punong Barangay as presiding officer, and the seven (7) regular Sangguniang Barangay Members elected at large and Sangguniang Kabataan chairman, as members.
+
+**SECTION 403. Powers, Duties and Functions.** - (a) The Sangguniang Barangay, as the legislative body of the barangay, shall:
+
+(1) Enact ordinances as may be necessary to discharge the responsibilities conferred upon it by law or ordinance and to promote the general welfare of the inhabitants therein;
+
+(2) Enact tax and revenue ordinances, subject to the limitations imposed in this Code;
+
+(3) Enact annual and supplemental budgets in accordance with the provisions of this Code;
+
+(4) Provide for the construction or maintenance of barangay facilities and other public works projects chargeable to the general fund of the barangay or such other funds available for the purpose; however, in the event that the barangay has sufficient funds for the construction of barangay facilities, coordination shall be made to municipal government to avoid duplicity of the programs or projects⁵⁶;
+
+(5) Submit to the Sangguniang Panlungsod or Sangguniang Bayan such suggestions or recommendations as it may see fit for the improvement of the barangay or for the welfare of the inhabitants thereof;
+
+(6) Assist in the establishment, organization, and promotion of cooperative enterprises that will improve the economic condition and well-being of the residents;
+
+(7) Enact ordinances that regulate the use of multi-purpose halls, multi- purpose pavements, grain or copra dryers, patios and other post-harvest facilities, barangay waterworks, barangay markets, parking areas or other similar facilities constructed with government funds within the jurisdiction of the barangay and charge reasonable fees for the use thereof;
+
+(8) Solicit or accept monies, materials and voluntary labor for specific public works and cooperative enterprises of the Barangay from residents, land owners, producers and merchants in the barangay; monies from grants-in-aid, subsidies, contributions, and revenues made available to the barangays from national, provincial, city or municipal funds; and monies from other private agencies and individuals: Provided, however, That monies or properties donated by private agencies and individuals for specific purposes shall accrue to the barangay as trust fund;
+
+(9) Solicit or accept, in any or all the foregoing public works and cooperative enterprises, such cooperation as is made available by national, provincial, city or municipal agencies established by law to render financial, technical, and advisory assistance to barangays and to barangay residents: Provided, however, That in soliciting or accepting such cooperation, the Sangguniang Barangay need not pledge any sum of money for expenditure in excess of amounts currently in the barangay treasury or encumbered for other purposes;
+
+(10) Provide compensation, reasonable allowances or per diems as well as travel expenses for Sangguniang Barangay members and other Barangay officials, subject to the budgetary limitations prescribed under this Code: Provided, however, That no increase in the compensation or honoraria of the Sangguniang Barangay members shall take effect until after the expiration of the full term of all members of the Sangguniang Barangay approving such increase;
+
+(11) Hold fund-raising activities for Barangay projects without the need of securing permits from any national or local office or agency. The proceeds from such activities shall be tax-exempt and shall accrue to the general fund of the Barangay: Provided, That in the appropriation thereof, the specific purpose for which such fund- raising activity has been held shall be first satisfied: Provided, further, That no fund- raising activities shall be held within a period of sixty(60) days immediately preceding and after a national or local election, recall, referendum, or plebiscite: Provided, finally, That said fund-raising activities shall comply with national policy standards and regulations on morals, health, and safety of the persons participating therein. The Sangguniang Barangay, through the Punong Barangay, shall render a public accounting of the funds raised at the completion of the project for which the fund- raising activity was under- taken;
+
+(12) Authorize the Punong Barangay to enter into contracts in behalf of the Barangay, subject to the provisions of this Code;
+
+(13) Authorize the Barangay treasurer to make direct purchases in an amount not exceeding Five Thousand Pesos (P 5,000.00⁵⁷) at any one time for the ordinary and essential administrative needs of the barangay;
+
+(14) Prescribe fines in amounts not exceeding three Thousand Pesos (P 3,000.00) for violation of barangay ordinances;
+
+(15) Provide for the administrative needs of the Lupong Tagapamayapa or the pangkat ng tagapagkasundo;
+
+(16) Provide for the organization of community brigades, barangay tanod, or community service units as may be necessary;
+
+(17) Organize regular lectures, programs, or fora on community problems such as sanitation, nutrition, literacy, and drug abuse, and convene assemblies to encourage citizen participation in government;
+
+(18) Adopt measures to prevent and control the proliferation of squatters and mendicants in the barangay;
+
+(19) Provide for the proper development and welfare of children in the Barangay by promoting and supporting activities for the protection and total development of children, and shall establish a Local Council for the Protection of Children (LCPC)⁵⁸;
+
+(20) Organize Barangay Anti-Drug Abuse Council (BADAC)⁵⁹ and adopt measures towards the prevention, rehabilitation, and eradication of drug abuse, child abuse and juvenile delinquency;
+
+(21) Organize Peace and Order Council (BPOC) and adapt measures toward the prevention of crimes within their territorial jurisdictions;
+
+(22) May initiate or solicit financial assistance for the establishment of a barangay high school, whenever feasible, in accordance with law;
+
+(23) Provide for the establishment of a non-formal or vocational and technological training education center in the barangay whenever feasible, in coordination with the Ministry of Basic, Higher and Technical Education;
+
+(24) Provide for the Establishment of Violence Against Women and Their Children (VAWC)⁶⁰ desk in every barangay and provide assistance for the victims;
+
+(25) Provide and establish Barangay Citizens’ Charter⁶¹. The Charter should contain the Barangay’s specific frontline services, detailed steps or procedures, time allotted to accomplish each task, as well as the accountable person for each task;
+
+(26) The barangay must organize and provide Barangay Disaster Risk Reduction and Management Committee (BDRRMC)⁶² that shall be responsible for the setting of the direction, development, coordination of disaster risk reduction program within their jurisdictions;
+
+(27) Each Barangay must post the flow of its financial transactions for every quarter outside of its Barangay Hall and at least three conspicuous public places together with the soft copy of the said financial transactions in the website of the Ministry of Interior and Local Government (MILG);
+
+(28) There shall be in every Barangay a Barangay Registry Record containing of all the names of Barangay inhabitants. The Sangguniang Barangay must enact an ordinance that would provide a mechanism or procedure for new entrant and for exclusions of departing member to keep the Barangay Registry updated.⁶³ and
+
+(29) Exercise such other powers and perform such other duties and functions as may be prescribed by law, ordinance or higher authority.
+
+**SECTION 404. Other Duties of Sangguniang Barangay Members.** - In addition to their duties as members of the Sangguniang Barangay, Sangguniang Barangay members may:
+
+(a) Assist the Punong Barangay in the discharge of his/her duties and functions;
+
+(b) Act as peace officers in the maintenance of public order and safety;
+
+(c) The Barangay must Establish a community-based monitoring system with representative from Civic Society Organization (CSO), Religious sector and Academe that will monitor and report the conduct of government officials and/or status of government projects/facilities within their territorial jurisdiction;⁶⁴. The Barangay Monitoring Team may submit their report to higher local government unit and copy furnished to office of chief minister through Ministry of interior and local government; and
+
+(d) Perform such other duties and functions as the Punong Barangay may delegate.
+
+**SECTION 405. Benefits of Barangay Officials.** - The following are benefits of barangay officials:
+
+(a) The Barangay Chairman shall receive a fix salary of equivalent to or not more than salary grade fourteen (14), but in no case be less than an honorarium of Five Thousand Pesos (P5,000.00)⁶⁵;
+
+The payment thereof shall be subsidized and paid by Bangsamoro government through ministry of interior and local government commences from January 2021.
+
+However, after determination by Bangsamoro government through ministry of interior and local government that the funds of barangay are sufficient to pay the salary of punong barangay, the salary of such official shall be charge to barangay funds.
+
+(b) The Member of Sangguniang Barangay including Barangay Secretary, Barangay Treasurer and the Sangguniang Kabataan Chairman shall receive a salary equivalent to or not more than salary grade ten (10) subject to the availability and capability of their barangay funds but in no case be less than an honorarium of Three Thousand Pesos (P3,000.00) every month. Provided, however, That the annual appropriations for personal services shall be subject to the budgetary limitations prescribed under this Code;
+
+(c) The incumbent barangay officials including the barangay treasurer and the barangay secretary shall be entitled to personal insurance coverage of the Government Service Insurance System. The payment of its annual contribution must not be less than Two Hundred Pesos (P200.00) nor exceeding Four Hundred Pesos (P400.00) which shall be shouldered and charged to the budget of the barangay⁶⁶;
+
+(d) The Punong Barangay, the Sangguniang Barangay Members, the Barangay Treasurer, and the Barangay Secretary shall be entitled to Rice allowance of not less than Two Thousand Pesos (P2,000.00) each, but not more than fifty (50%) percent of their monthly salary or honorarium subject to the availability of barangay funds. The funds for the purpose shall be taken from the general fund of the barangay or from such other funds appropriated by the national government;⁶⁷
+
+(e) Be entitled to free medical care including subsistence, medicines and medical attendance in any government hospital or institution: Provided, that such hospital care shall include surgery or surgical expenses, medicines, X-rays, laboratory fees and other hospital expenses.
+
+(f) In case of extreme urgency where there is no available government hospital or institution, the barangay officials concerned may submit himself/herself for immediate medical attendance to the nearest private clinic, hospital or institution and the expenses not exceeding Five Thousand Pesos (P5,000.00) that may be incurred therein shall be chargeable against the funds of the barangay concerned.
+
+In the event that, the government hospitals or its officers and personnel refuse or fail to grant the medical privileges granted by this Code to the elective barangay officials including the treasurer and secretary without justifiable grounds, criminal, civil or administrative case may be filed against them;⁶⁸
+
+(g) Be exempted during their incumbency from paying tuition and matriculation fees for their legitimate dependent children attending public/state colleges or universities. He or she may likewise avail of such educational benefits in a state college or university located within the province or city to which the barangay belongs.
+
+In the event that, the school or its administrators and personnel refuse or fail to grant the educational benefits granted by this Code to the legitimate dependent children of elective barangay officials including treasurer and secretary without justifiable grounds, criminal, civil or administrative case may be filed against them;
+
+(h) Be entitled to appropriate civil service eligibility on the basis of the number of years of service to the barangay, pursuant to the rules and regulations issued by the Civil Service Commission;
+
+(i) Elective barangay officials shall have preference in appointments to any government position or in any government-owned or -controlled corporations, including their subsidiaries, after their tenure of office, subject to the requisite qualifications and the provisions of the immediately preceding paragraph; and
+
+(j) The incumbent barangay purok leaders, barangay tanod or their equivalent which shall compose of not more than twenty (20) persons shall be entitled to personal insurance coverage of the Government Service Insurance System. The payment of its annual contribution must not be less than One Hundred Eighty Pesos (P180.00) which shall be shouldered and charged to the budget of the barangay they belong.⁶⁹
+
+(k) The Punong Barangay with the concurrence of majority member of barangay kagawads may appoint a purok leaders with the same compensation and privileges to that of barangay tanods.
+
+(l) The honorarium of purok leaders and barangay tanods must be fixed through an ordinance enacted by the sangguniang barangay subject on the availability and capability of their funds.⁷⁰
+
+**CHAPTER V**
+**Appointive Barangay Officials**
+
+**SECTION 406. Barangay Secretary: Appointment, Qualifications, Powers and Duties.** - (a) The Barangay Secretary shall be appointed by the Punong Barangay with the concurrence of the majority of all the Sangguniang Barangay Members. The appointment of the Barangay Secretary shall not be subject to attestation by the Civil Service Commission.
+
+(b) The Barangay Secretary shall be of legal age, a qualified voter and an actual resident of the barangay concerned.
+
+(c) No person shall be appointed Barangay Secretary if he is a Sangguniang Barangay member, a government employee, or a relative of the Punong Barangay within the fourth civil degree of consanguinity or affinity.
+
+(d) Barangay Secretary shall:
+
+(1) Keep custody of all records of the Sangguniang Barangay and the Barangay Assembly meetings;
+
+(2) Prepare and keep the minutes of all meetings of the Sangguniang Barangay and the Barangay Assembly;
+
+(3) Prepare a list of members of the Barangay Assembly and have the same posted in conspicuous places within the barangay;
+
+(4) Assist in the preparation of all necessary forms for the conduct of barangay elections, initiatives, referenda or plebiscites, in coordination with the COMELEC;
+
+(5) Assist the municipal civil registrar in the registration of births, deaths and marriages;
+
+(6) Keep an updated Barangay Registry Record of all inhabitants of the barangay containing the following items of information: name, address, place and date of birth, sex, civil status, citizenship, occupation, and such other items of information as may be prescribed by law or ordinance;
+
+(7) Submit a report on the actual number of barangay residents as often as may be required by the Sangguniang Barangay; and
+
+(8) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 407. Barangay Treasurer: Appointment, Qualifications, Powers and Duties.** - (a) The Barangay Treasurer shall be appointed by the Punong Barangay with the concurrence of the majority of all the Sangguniang Barangay Members. The appointment of the Barangay Treasurer shall not be subject to attestation by the Civil Service Commission.
+
+(b) The Barangay Treasurer shall be of legal age, a qualified voter, and an actual resident of the barangay concerned.
+
+(c) No person shall be appointed Barangay Treasurer if he is a Sangguniang Barangay Member, a government employee, or a relative of the Punong Barangay within the fourth civil degree of consanguinity or affinity.
+
+(d) The Barangay Treasurer shall be bonded in accordance with existing laws in an amount to be determined by the Sangguniang Barangay but not exceeding Ten Thousand Pesos (P10,000.00), premiums for which shall be paid by the barangay.
+
+(e) The Barangay Treasurer shall:
+
+(1) Keep custody of barangay funds and properties;
+
+(2) Collect and issue official receipts for taxes, fees, contributions, monies, materials, and all other resources accruing to the barangay treasury and deposit the same in the account of the barangay as provided under Title Five, Book II of this Code;
+
+(3) Disburse funds in accordance with the financial procedures provided in this Code;
+
+(4) Submit to the Punong Barangay a statement covering the actual and estimates of income and expenditures for the preceding and ensuing calendar years, respectively, subject to the provisions of Title Five, Book II of this Code;
+
+(5) Render a written accounting report of all barangay funds and property under his/her custody at the end of each calendar year, and ensure that such report shall be made available to the members of the barangay assembly and other government agencies concerned;
+
+(6) Certify as to the availability of funds whenever necessary;
+
+(7) Plan and attend to the rural postal circuit within his jurisdiction; and
+
+(8) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 408. Other Appointive Officials.** - The qualifications, duties and functions of all other barangay officials appointed by the Punong Barangay shall be governed by the provisions of this Code and other laws or by barangay ordinances.
+
+**CHAPTER VI**
+**Barangay Assembly**
+
+**SECTION 409. Composition; Meetings.** - (a) There shall be a barangay assembly composed of all persons who are actual residents of the barangay for at least six (6) months, fifteen (15) years of age or over, citizens of the Philippines and duly registered in the list of barangay assembly members.
+
+(b) The barangay assembly shall meet at least twice a year to hear and discuss the semestral report of the Sangguniang Barangay concerning its activities and finances as well as problems affecting the barangay including revenue collection like real property tax. Its meetings shall be held upon call of the Punong Barangay or of at least four (4) members of the Sangguniang Barangay, or upon written petition of at least five percent (5%) of the assembly members.
+
+(c) No meeting of the barangay assembly shall take place unless a written notice is given one (1) week prior to the meeting except on matters involving public safety or security, in which case notice within a reasonable time shall be sufficient. The Punong Barangay, or in his absence, the Sangguniang Barangay Member acting as Punong Barangay, or any assembly member selected during the meeting, shall act as presiding officer in all the meetings of the assembly. The barangay secretary, or in his absence, any member designated by the presiding officer to act as secretary, shall discharge the duties of secretary of the barangay assembly.
+
+**SECTION 410. Powers of the Barangay Assembly.** - The Barangay Assembly shall:
+
+(a) Initiate legislative processes by recommending to the Sangguniang Barangay the adoption of measures for the welfare of the barangay and the city or municipality concerned;
+
+(b) Decide on the adoption of initiative as a legal process whereby the registered voters of the barangay may directly propose, enact or amend any ordinance; and
+
+(c) Hear and pass upon the semestral report of the Sangguniang Barangay concerning its activities and finances.
+
+**CHAPTER VII**
+**Katarungang Pambarangay**
+
+**SECTION 411. Lupong Tagapamayapa.** - (a) There is hereby created in each barangay a Lupong Tagapamayapa, hereinafter referred to as the Lupon, composed of the Punong Barangay as chairman and ten(10) to twenty (20) members coming from the following sectors:⁷¹ Religious ( Ustadz/Imam); Elders and/ or Tribal Leaders; Non- Muslims; Women; PWDs; Youth, and Solo Parents.
+
+The Lupon shall be constituted every three (3) years in the manner provided herein.
+
+(b) Any person actually residing or working in the Barangay, not otherwise expressly disqualified by law, and possessing integrity, impartiality, independence of mind, sense of fairness, and reputation for probity, may be appointed a member of the lupon.
+
+(c) A notice to constitute the lupon, which shall include the names of proposed members who have expressed their willingness to serve, shall be prepared by the Punong Barangay within the first fifteen (15) days from the start of his term of office. Such notice shall be posted in three (3) conspicuous places in the Barangay continuously for a period of not less than three (3) weeks;
+
+(d) The Punong Barangay, taking into consideration any opposition to the proposed appointment or any recommendations for appointments as may have been made within the period of posting, shall within ten (10) days thereafter, appoint as members those whom he determines to be suitable therefor. Appointments shall be in writing, signed by the Punong Barangay, and attested to by the Barangay secretary.
+
+(e) The list of appointed members shall be posted in three (3) conspicuous places in the Barangay for the entire duration of their term of office; and
+
+(f) In Barangays where majority of the inhabitants are members of indigenous cultural communities, local systems or through their councils of datus or elders shall be recognized without prejudice to the applicable provisions of this Code.
+
+**SECTION 412. Oath and Term of Office.** - Upon appointment, each lupon member shall take an oath of office before the Punong Barangay.
+
+Before assumption to the office, the Muslim members of the lupon, must make an affirmation before the Holy Qur’an and for non- Muslim, to holy books as recognized by the religious affiliations of such officials to perform their duties based on law, justice and equity.⁷²
+
+He/she shall hold office until a new lupon is constituted on the third year following his/her appointment unless sooner terminated by resignation, transfer of residence or place of work, or withdrawal of appointment by the Punong Barangay with the concurrence of the majority of all the members of the Lupon.
+
+**SECTION 413. Vacancies.** - Should a vacancy occur in the lupon for any cause, the Punong Barangay shall immediately appoint a qualified person who shall hold office only for the unexpired portion of the term.
+
+**SECTION 414. Functions of the Lupon.** - The lupon shall:
+
+(a) Exercise administrative supervision over the conciliation panels provided herein;
+
+(b) Meet regularly once a month to provide a forum for exchange of ideas among its members and the public on matters relevant to the amicable settlement of disputes, and to enable various conciliation panel members to share with one another their observations and experiences in effecting speedy resolution of disputes; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 415. Secretary of the Lupon.** - The barangay secretary shall concurrently serve as the secretary of the lupon. He/she shall record the results of mediation proceedings before the Punong Barangay and shall submit a report thereon to the proper city or municipal courts. He/she shall also receive and keep the records of proceedings submitted to him/her by the various conciliation panels.
+
+**SECTION 416. Pangkat ng Tagapagkasundo.** - (a) There shall be constituted for each dispute brought before the lupon a conciliation panel to be known as the pangkat ng tagapagkasundo, hereinafter referred to as the pangkat, consisting of three (3) members who shall be chosen by the parties to the dispute from the list of members of the lupon.
+
+Should the parties fail to agree on the pangkat membership, the same shall be determined by lots drawn by the lupon chairman.
+
+(b) The three (3) members constituting the pangkat shall elect from among themselves the chairman and the secretary. The secretary shall prepare the minutes of the pangkat proceedings and submit a copy duly attested to by the chairman to the lupon secretary and to the proper city or municipal court. He shall issue and cause to be served notices to the parties concerned.
+
+The lupon secretary shall issue certified true copies of any public record in his custody that is not by law otherwise declared confidential.
+
+**SECTION 417. Vacancies in the Pangkat.** - Any vacancy in the pangkat shall be chosen by the parties to the dispute from among the other lupon members. Should the parties fail to agree on a common choice, the vacancy shall be filled by lot to be drawn by the lupon chairman.
+
+**SECTION 418. Character of Office and Service of Lupon Members.** - (a) The lupon members, while in the performance of their official duties or on the occasion thereof, shall be deemed as persons in authority, as defined in the Revised Penal Code.
+
+(b) The lupon or pangkat members shall receive honorarium as determined by sagguniang barangay. While in the performance of their duties, the lupon or pangkat members, whether in public or private employment, shall be deemed to be on official time, and shall not suffer from any diminution in compensation or allowance from said employment.
+
+**SECTION 419. Legal Advice on Matters Involving Questions of Law.** - The provincial, city legal officer or prosecutor or the municipal legal officer shall render legal advice on matters involving questions of law to the Punong Barangay or any lupon or pangkat member whenever necessary in the exercise of his/her functions in the administration of the Katarungang Pambarangay
+
+**SECTION 420. Subject Matter for Amicable Settlement; Exception Thereto.** - The lupon of each barangay shall have authority to bring together the parties residing in the same city or municipality for amicable settlement of all disputes except:
+
+(a) Where one party is the government, or any subdivision or instrumentality thereof;
+
+(b) Where one party is a public officer or employee, and the dispute relates to the performance of his/her official functions;
+
+(c) Offenses punishable by imprisonment exceeding one (1) year or a fine exceeding Five Thousand Pesos (P5,000.00);
+
+(d) Offenses where there is no private offended party;
+
+(e) Where the dispute involves real properties located in different cities or municipalities unless the parties thereto agree to submit their differences to amicable settlement by an appropriate lupon;
+
+(f) Disputes involving parties who actually reside in barangays of different cities or municipalities, except where such barangay units adjoin each other and the parties thereto agree to submit their differences to amicable settlement by an appropriate lupon;
+
+(h) Such other classes of disputes which the Parliament may determine in the interest of justice or upon the recommendation of the secretary of Justice.
+
+The court in which non-criminal cases not falling within the authority of the lupon under this Code are filed may, at any time before trial, motu proprio refer the case to the lupon concerned for amicable settlement.
+
+**SECTION 421. Prohibition on Collection of Money or its Equivalent.**- No money or its equivalent shall be collected from the complainant or respondent in availing the services of the lupon and/or barangay officials except on minimal amount during the filling of complaint as a form of filling fee as provided by a barangay ordinance.
+
+Any barangay official or lupon member found to have collected any amount in violation of the preceding paragraph shall suffer the penalty of reprimand, suspension or removal from office after the observance of due process.⁷³
+
+**SECTION 422. Venue.** - (a) Disputes between persons actually residing in the same barangay shall be brought for amicable settlement before the lupon of said barangay.
+
+(b) Those involving actual residents of different barangays within the same city or municipality shall be brought in the Barangay where the respondent or any of the respondents actually resides, at the election of the complainant.
+
+(c) All disputes involving real property, or any interest therein shall be brought in the Barangay where the real property or the larger portion thereof is situated.
+
+(d) Those arising at the workplace where the contending parties are employed or at the institution where such parties are enrolled for study, shall be brought in the Barangay where such workplace or institution is located.
+
+Objections to venue shall be raised in the mediation proceedings before the Punong Barangay; otherwise, the same shall be deemed waived. Any legal question which may confront the Punong Barangay in resolving objections to venue herein referred to may be submitted to the secretary of Justice, or his duly designated representative, whose ruling thereon shall be binding.
+
+**SECTION 423. Procedure for Amicable Settlement.** - (a) Who may initiate proceeding - Upon payment of the appropriate filing fee, any individual who has a cause of action against another individual involving any matter within the authority of the lupon may complain, orally or in writing, to the lupon chairman of the barangay.
+
+(b) Mediation by lupon chairman - Upon receipt of the complaint, the lupon chairman shall within the next working day summon the respondent(s), with notice to the complainant(s) for them and their witnesses to appear before him for a mediation of their conflicting interests. If he fails in his mediation effort within fifteen (15) days from the first meeting of the parties before him, he shall forthwith set a date for the constitution of the pangkat in accordance with the provisions of this Chapter.
+
+(c) Suspension of prescriptive period of offenses - While the dispute is under mediation, conciliation, or arbitration, the prescriptive periods for offenses and cause of action under existing laws shall be interrupted upon filing of the complaint with the Punong Barangay. The prescriptive periods shall resume upon receipt by the complainant of the complaint or the certificate of repudiation or of the certification to file action issued by the lupon or pangkat secretary: Provided, however, That such interruption shall not exceed sixty (60) days from the filing of the complaint with the Punong Barangay.
+
+(d) Issuance of summons; hearing; grounds for disqualification- The pangkat shall convene not later than three (3) days from its constitution, on the day and hour set by the lupon chairman, to hear both parties and their witnesses, simplify issues, and explore all possibilities for amicable settlement. For this purpose, the pangkat may issue summons for the personal appearance of parties and witnesses before it. In the event that a party moves to disqualify any member of the pangkat by reason of relationship, bias, interest, or any other similar grounds discovered after the constitution of the pangkat, the matter shall be resolved by the affirmative vote of the majority of the pangkat whose decision shall be final. Should disqualification be decided upon, the resulting vacancy shall be filled as herein provided for.
+
+(e) Period to arrive at a settlement - The pangkat shall arrive at a settlement or resolution of the dispute within fifteen (15) days from the day it convenes in accordance with this section. This period shall, at the discretion of the pangkat, be extendible for another period which shall not exceed fifteen (15) days, except in clearly meritorious cases.
+
+**SECTION 424. Form of Settlement.** - All amicable settlements shall be in writing, in a language or dialect known to the parties, signed by them, and attested to by the lupon chairman or the pangkat chairman, as the case may be. When the parties to the dispute do not use the same language or dialect, the settlement shall be written in the language or dialect known to them.
+
+**SECTION 425. Conciliation.** - (a) Pre-condition to Filing of Complaint in Court. - No complaint, petition, action, or proceeding involving any matter within the authority of the lupon shall be filed or instituted directly in court or any other government office for adjudication, unless there has been a confrontation between the parties before the lupon chairman or the pangkat, and that no conciliation or settlement has been reached as certified by the lupon secretary or pangkat secretary as attested to by the lupon or pangkat chairman or unless the settlement has been repudiated by the parties thereto.
+
+(b) Where Parties May Go Directly to Court. - The parties may go directly to court in the following instances:
+
+(1) Where the accused is under detention;
+
+(2) Where a person has otherwise been deprived of personal liberty calling for habeas corpus proceedings;
+
+(3) Where actions are coupled with provisional remedies such as preliminary injunction, attachment, delivery of personal property, and support pendente lite; and
+
+(4) Where the action may otherwise be barred by the statute of limitations.
+
+(c) Conciliation Among Members of Indigenous Cultural Communities. - The customs and traditions of indigenous cultural communities shall be applied in settling disputes between members of the cultural communities.
+
+**SECTION 426. Arbitration.** - (a) The parties may, at any stage of the proceedings, agree in writing that they shall abide by the arbitration award of the lupon chairman or the pangkat. Such agreement to arbitrate may be repudiated within five (5) days from the date thereof for the same grounds and in accordance with the procedure hereinafter prescribed. The arbitration award shall be made after the lapse of the period for repudiation and within ten (10) days thereafter.
+
+(b) The arbitration award shall be in writing in a language or dialect known to the parties. When the parties to the dispute do not use the same language or dialect, the award shall be written in the language or dialect known to them.
+
+**SECTION 427. Proceedings Open to the Public; Exception.** - All proceedings for settlement shall be public and informal: Provided, however, That the lupon chairman or the pangkat chairman, as the case may be, may motu proprio or upon request of a party, exclude the public from the proceedings in the interest of privacy, decency, or public morals.
+
+**SECTION 428. Appearance of Parties in Person.** - In all Katarungang Pambarangay proceedings, the parties must appear in person without the assistance of counsel or representative, except for minors and incompetents who may be assisted by their next-of-kin who are not lawyers.
+
+**SECTION 429. Effect of Amicable Settlement and Arbitration Award.** - The amicable settlement and arbitration award shall have the force and effect of a final judgment of a court upon the expiration of ten (10) days from the date thereof, unless repudiation of the settlement has been made or a petition to nullify the award has been filed before the proper city or municipal court.
+
+**SECTION 430. Execution.** - The amicable settlement or arbitration award may be enforced by execution by the lupon within six (6) months from the date of the settlement. After the lapse of such time, the settlement may be enforced by action in the appropriate city or municipal court.
+
+**SECTION 431. Repudiation.** -Any party to the dispute may, within ten (10) days from the date of the settlement, repudiate the same by filing with the lupon chairman a statement to that effect sworn to before him, where the consent is vitiated by fraud, violence, or intimidation. Such repudiation shall be sufficient basis for the issuance of the certification for filing a complaint as hereinabove provided.
+
+**SECTION 432. Transmittal of Settlement and Arbitration Award to the Court.** - The secretary of the lupon shall transmit the settlement or the arbitration award to the appropriate city or municipal court within five (5) days from the date of the award or from the lapse of the ten-day period repudiating the settlement and shall furnish copies thereof to each of the parties to the settlement and the lupon chairman.
+
+**SECTION 433. Power to Administer Oaths.** - The Punong Barangay, as chairman of the Lupong Tagapamayapa, and the members of the pangkat are hereby authorized to administer oaths in connection with any matter relating to all proceedings in the implementation of the Katarungang Pambarangay.
+
+**SECTION 434. Administration; Rules and Regulations.** - The city or municipal mayor, as the case may be, shall see to it the efficient and effective implementation and administration of the Katarungang Pambarangay. The secretary of Justice shall promulgate the rules and regulations necessary to implement this Chapter.
+
+**SECTION 435. Appropriations.** - Such amount as may be necessary for the effective implementation of the Katarungang Pambarangay shall be provided for in the annual budget of the city or municipality concerned.
+
+**CHAPTER VIII**
+**Sangguniang Kabataan**
+
+**SECTION 436. Creation and Election.** - (a) There shall be in every Barangay a Sangguniang Kabataan to be composed of a chairman, seven (7) members, a secretary, and a treasurer.
+
+(b) A Sangguniang Kabataan official who, during his term of office, shall have passed the age of twenty-four (24) years shall be allowed to serve the remaining portion of the term for which he was elected.
+
+**SECTION 437. Katipunan ng Kabataan.** - The Katipunan ng Kabataan shall be composed of all citizens of the Philippines actually residing in the Barangay for at least six (6) months, fifteen (15) years of age or over, but not more than thirty (30) years of age, and who are duly registered in the list of the Sangguniang Kabataan or in the official Barangay list in the custody of the Barangay secretary.
+
+**SECTION 438. Meetings of the Katipunan ng Kabataan.** - The Katipunan ng Kabataan shall meet at least once in every six (6) months, or at the call of the chairman of the Sangguniang Kabataan or upon written petition of at least one-twentieth (1/20) of its members, to decide on important issues affecting the youth of the Barangay.
+
+**SECTION 439. Powers and Functions of the Sangguniang Kabataan.** - Powers and Functions of the Sangguniang Kabataan. - The Sangguniang Kabataan shall:
+
+(a) Promulgate resolutions necessary to carry out the objectives of the youth in the Barangay in accordance with the applicable provisions of this Code;
+
+(b) Initiate programs designed to enhance the social, political, economic, cultural, intellectual, moral, spiritual, and physical development of the members;
+
+(c) Hold fund-raising activities, the proceeds of which shall be tax-exempt and shall accrue to the general fund of the Sangguniang Kabataan: Provided, however, That in the appropriation thereof, the specific purpose for which such activity has been held shall be first satisfied;
+
+(d) Create such bodies or committees as it may deem necessary to effectively carry out its programs and activities;
+
+(e) Submit annual and end-of-term reports to the Sangguniang Barangay on their projects and activities for the survival and development of the youth in the Barangay ;
+
+(f) Consult and coordinate with all youth organizations in the Barangay for policy formulation and program implementation;
+
+(g) Coordinate with the appropriate national agency for the implementation of youth development projects and programs at the national level; and
+
+(h) Exercise such other powers and perform such other duties and functions as the Sangguniang Barangay may determine or delegate or as may be prescribed by law or ordinance.
+
+**SECTION 440. Meetings of the Sangguniang Kabataan.** - The Sangguniang Kabataan shall meet regularly once a month on the date, time, and place to be fixed by the said sanggunian. Special meetings may be called by the Sangguniang Kabataan chairman or any three (3) of its members by giving written notice to all members of the date, time, place, and agenda of the meeting at least one (1) day in advance. Notices of regular or special meetings shall be furnished the Punong Barangay and the Sangguniang Barangay.
+
+**SECTION 441. Qualifications.** - The Sangguniang Kabataan chairman and members shall have the following qualifications:
+
+1) A citizen of the Philippines;
+
+2) A qualified voter of the Katipunan ng Kabataan;
+
+3) A resident of the barangay for not less than one (1) year immediately preceding the day of the elections;
+
+4) At least 18 years but not more than 24 years of age on the day of the elections;
+
+5) At least junior high school level for Sangguniang Kabataan chairman and elementary level for member of Sangguniang Kabataan; ⁷⁴
+
+6) Must not be related within the second civil degree of consanguinity or affinity to any incumbent elected national official or to any incumbent elected regional, provincial, city, municipal or barangay official in the locality where the aspirant seeks to be elected;⁷⁵ and
+
+7) Must not have been convicted by final judgment of any crime involving moral turpitude.
+
+**SECTION 442. Term of Office.** - The Sangguniang Kabataan chairman and members shall hold office for a period of three (3) years, unless sooner removed for cause as provided by law, permanently incapacitated, die or resigned from office.
+
+**SECTION 443. Sangguniang Kabataan Chairman.** - The registered voters of the Katipunan ng Kabataan shall elect the chairman of the Sangguniang Kabataan who shall automatically serve as an ex-officio member of the Sangguniang Barangay upon his/her assumption to office. As such, he/she shall exercise the same powers, discharge the same duties and functions, and enjoy the same privileges as the regular Sangguniang Barangay members, and shall be the chairman of the committee on youth and sports development in the said sanggunian.
+
+**SECTION 444. Powers and Duties of the Sangguniang Kabataan Chairman.** - In addition to the duties which may be assigned to him/her by the Sangguniang Barangay, the Sangguniang Kabataan chairman shall:
+
+(a) Call and preside over all meetings of the Katipunan ng Kabataan and the Sangguniang Kabataan;
+
+(b) Implement policies, programs and projects within his/her jurisdiction in coordination with the Sangguniang Barangay;
+
+(c) Exercise general supervision over the affairs and activities of the Sangguniang Kabataan and the official conduct of its secretary, treasurer, and such other officers of the Sangguniang Kabataan within his/her jurisdiction;
+
+(d) With the concurrence of the Sangguniang Kabataan, appoint from among the members of the Sangguniang Kabataan, the secretary and treasurer, and such other officers as may be deemed necessary;
+
+(e) Submission of a Sangguniang Kabataan 3-year comprehensive development plan; ⁷⁶ and
+
+(f) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 445. Sangguniang Kabataan Secretary.** - The Sangguniang Kabataan Secretary shall:
+
+(a) Keep all records of the katipunan ng kabataan and Sangguniang Kabataan;
+
+(b) Prepare and keep the minutes of all meetings of the katipunan ng kabataan and Sangguniang Kabataan;
+
+(c) Prepare all forms necessary for the conduct of registrations, elections, initiatives, referenda, or plebiscites, in coordination with the Barangay secretary and the Comelec; and
+
+(d) Perform such other duties and discharge such other functions as the chairman of the Sangguniang Kabataan may prescribe or direct.
+
+**SECTION 446. Sangguniang Kabataan Treasurer.** - The Sangguniang Kabataan Treasurer shall:
+
+(a) Take custody of all Sangguniang Kabataan property and funds not otherwise deposited with the city or municipal treasurer;
+
+(b) Collect and receive contributions, monies, materials, and all other resources intended for the Sangguniang Kabataan and katipunan ng kabataan;
+
+(c) Disburse funds in accordance with an approved budget of the Sangguniang Kabataan;
+
+(d) Certify to the availability of funds whenever necessary;
+
+(e) Submit to the Sangguniang Kabataan and to the Sangguniang Barangay certified and detailed statements of actual income and expenditures at the end of every month; and
+
+(f) Perform such other duties and discharge such other functions as the chairman of the Sangguniang Kabataan may direct.
+
+**SECTION 447. Privileges of Sangguniang Kabataan Officials.**⁷⁷ - (1) The Sangguniang Kabataan chairman shall have the same privileges enjoyed by other Sangguniang Barangay officials under this Code subject to such requirements and limitations provided herein. During their incumbency, Sangguniang Kabataan officials shall be exempt from payment of tuition and matriculation fees while enrolled in public tertiary schools, including state colleges and universities. The national government shall reimburse said college or university the amount of the tuition and matriculation fees: Provided, That, to qualify for the privilege, the said officials shall enroll in the state college or university within or nearest their area of jurisdiction.
+
+(2) Be exempt from taking the National Service Training Program-Civic Welfare Training Service (NSTP-CWTS) subjects. In lieu thereof, concerned Sangguniang Kabataan officials shall submit written reports, preferably with photographs, or other documentations of their participation in the implementation of programs, projects and activities as outlined in the Comprehensive Barangay Investment Program. Absence of such reports and documentations or a finding to the contrary upon verification of submitted reports, will disqualify the concerned Sangguniang Kabataan officials from this privilege.
+
+(3) Be excused from attending their regular classes, if they are currently enrolled in any school, while attending then- regular or special Sangguniang Kabataan meetings, and the Sangguniang Barangay sessions, in case of the Sangguniang Kabataan chairperson. A certification of attendance shall be issued by the Sangguniang Kabataan secretary, attested by the Sangguniang Kabataan chairperson and duly noted by the Punong Barangay and shall be submitted to the concerned faculty member and the dean of the educational institution as proof of attendance. In the case of the Sangguniang Kabataan secretary, the Sangguniang Kabataan chairperson shall issue the certification duly noted by the Punong Barangay. In the case of the Sangguniang Kabataan chairperson, the barangay secretary shall issue the certification of attendance duly noted by the Punong Barangay. Any person who shall falsely certify as to the attendance of any Sangguniang Kabataan official shall be criminally and administratively liable;
+
+(4) Be provided by the National Government with Philippine Health Insurance Corporation (Philhealth) coverage;
+
+(5) Be entitled to receive actual travelling reimbursements as may be authorized by law, and subject to the availability of funds: Provided, That, such travel is directly related to the performance of their functions as Sangguniang Kabataan officials and is supported by duly approved travel order by the Punong Barangay in the case of the Sangguniang Kabataan chairperson, or by the Sangguniang Kabataan chairperson in the case of the other Sangguniang Kabataan officials; and
+
+(6) The Sangguniang Kabataan chairperson shall have the same privileges enjoyed by other Sangguniang Barangay officials under this code subject to such requirements and limitations provided herein.⁷⁸
+
+**SECTION 448. Succession and Filling of Vacancies.** - (a) In case a Sangguniang Kabataan chairman refuses to assume office, fails to qualify, is convicted of a felony, voluntarily resigns, dies, is permanently incapacitated, is removed from office, or has been absent without leave for more than three (3) consecutive months, the Sangguniang Kabataan member who obtained the next highest number of votes in the election immediately preceding shall assume the office of the chairman for the unexpired portion of the term, and shall discharge the powers and duties, and enjoy the rights and privileges appurtenant to the office. In case the said member refuses to assume the position or fails to qualify, the sanggunian member obtaining the next highest number of votes shall assume the position of the chairman for the unexpired portion of the term.
+
+(b) Where two (2) or more Sangguniang Kabataan members obtained the same next highest number of votes, the other Sangguniang Kabataan members shall conduct an election to choose the successor to the chairman from among the said members.
+
+(c) After the vacancy shall have been filled, the Sangguniang Kabataan chairman shall call a special election to complete the membership of said sanggunian. Such Sangguniang Kabataan member shall hold office for the unexpired portion of the term of the vacant seat.
+
+(d) In case of suspension of the Sangguniang Kabataan chairman, the successor, as determined in subsections (a) and (b) of this Section shall assume the position during the period of such suspension.
+
+**CHAPTER IX**
+**Pederasyon ng mga Sangguniang Kabataan**
+
+**SECTION 449. Pederasyon ng mga Sangguniang Kabataan.** - (a) There shall be an organization of all the Pederasyon ng mga Sangguniang Kabataan to be known as follows:
+
+(1) in municipalities, pambayang pederasyon ng mga Sangguniang Kabataan;
+
+(2) in cities, panlungsod na pederasyon ng mga Sangguniang Kabataan;
+
+(3) in provinces, panlalawigang pederasyon ng mga Sangguniang Kabataan;
+
+(4) in Bangsamoro Autonomous Region in Muslim Mindanao, panrehiyong pederasyon ng mga Sangguniang Kabataan;⁷⁹ and
+
+(5) on the national level, pambansang pederasyon ng mga Sangguniang Kabataan.
+
+(b) The pederasyon ng mga Sangguniang Kabataan shall, at all levels, elect from among themselves the president, vice-president and such other officers as may be necessary and shall be organized in the following manner:
+
+1. The panlungsod and pambayang pederasyon shall be composed of the Sangguniang Kabataan chairmen of barangays in the city or municipality, respectively;
+
+2. The panlalawigang pederasyon shall be composed of presidents of the panlungsod and pambayang pederasyon;
+
+3. The panrehiyong pederasyon shall be composed of presidents of the panlungsod and panlalawigang pederasyon;
+
+(c) The elected presidents of the pederasyon at the provincial and highly urbanized city shall constitute the pambansang katipunan ng mga Sangguniang Kabataan.
+
+**SECTION 450. Constitution and By-Laws.** - The term of office, manner of election, removal and suspension of the officers of the pederasyon ng mga Sangguniang Kabataan at all levels shall be governed by the constitution and by-laws of the pederasyon in conformity with the provisions of this Code and regional policies on youth.
+
+**SECTION 451. Membership in the Sanggunian.** - (a) A Sangguniang Kabataan chairman shall, upon certification of his/her election by the COMELEC and during his/her tenure of office is elected as pederasyon president, serve as an ex-officio member of the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang Bayan, as the case may be, without need of further appointment.
+
+(b) The vice-president of the pederasyon whose president has been elected as president of a higher pederasyon shall serve as ex-officio member of the sanggunian concerned without need of further appointment.
+
+(c) The pederasyon president or vice-president, as the case may be, shall be the chairman of the committee on youth and sports development of the sanggunian concerned.
+
+**CHAPTER X**
+**Linggo ng Kabataan**
+
+**SECTION 452. Observance of Linggo ng Kabataan.-** (a) Every barangay, municipality, city and province shall, in coordination with the pederasyon ng mga Sangguniang Kabataan at all levels, conduct an annual activity to be known as the Linggo ng Kabataan on such date as shall be determined by the Office of the President.
+
+(b) The observance of the Linggo ng Kabataan shall include the election of the counterparts of all local elective and appointive officials, as well as heads of national offices or agencies stationed or assigned in the territorial jurisdiction of the local government unit, among in-school and community youth residing in the local government unit concerned from ages fourteen (14) to eighteen (18). During said week, they shall hold office as boy and girl officials and shall perform such duties and conduct such activities as may be provided in the ordinance enacted pursuant to this Chapter.
+
+***
+
+⁵⁰ sec. 10. R.A 11054. Par. 2. The parliament has been empowered to create barangays.
+⁵¹ To avoid unnecessary transfer of barangay halls whenever new officials were elected.
+⁵² There is a need to institutionalize the appointment of Day care teachers, purok leaders, including barangay farm technicians because they have substantial contributions in running the affairs of barangays.
+⁵³ We have enumerated further the basic services provided under section 17 of this code. The barangay shall now issue certificates of indigency free of charge.
+⁵⁴ There is a need to appoint a Barangay Farm Worker or Local Farm Technicians as Suggested by galling pook to support our farmers. They are among neglected sector of our society; thus, they need to be supported.
+⁵⁵ We regulate the privilege of barangay chairman to carry firearms so that we can establish a community free from firearms and a peaceful barangay.
+⁵⁶ Coordination to higher LGU is required to avoid duplicity of programs and projects.
+⁵⁷ We increase the authority of barangay treasurer to direct purchase of office supplies from P1,000 under R.A 7160 to P5,000 due to high price of commodities.
+⁵⁸ Title II, Sections 15 of the Juvenile Justice and Welfare Act of 2006 (and Article 87 of Presidential Decree 603) provides for the establishment and strengthening of LCPC in all levels of LGU.
+⁵⁹ Organization of BADAC is a grass roots program of DILG being barangay stakeholder as first line of defense in countering drug related cases.
+⁶⁰ The DILG, together with the Philippine Commission on Women (PCW), DSWD, Department of Education and Department of Health issued JMC 2010-2 which provides for the establishment of a VAW Desk in every barangay to ensure that violence against women cases are fully addressed in a gender-responsive manner.
+⁶¹ R.A 9485 or anti red tape act of 2007 and to address our effort of advocacy on transparency and moral governance.
+⁶² sec. 12 of disaster risk reduction management act of 2010.
+⁶³ Suggested by galing pook to monitor the number of barangay inhabitant for proper allocation or delivery basic of services .
+⁶⁴ R.A 11315, to monitor the status of project in the community and the act of government officials.
+⁶⁵ E.O 332, series of 1996. integrating the barangay governments into the revised position classification and compensation system in the government, and Local Budget Circular-63,(3.1) oct.22, 1996.
+⁶⁶ R.A 6942 an act increasing the insurance benefits of local government officials and providing funds therefor. However, Based on DILG legal opinion no. 25, s. 2015. The benefits of incumbent Barangay officials under section 393(b)(2) has been suspended due to nonpayment of funds. Thus, the Barangay funds must be utilized to that effect.
+⁶⁷ Suggested by stakeholder during consultation.
+⁶⁸ This penal clause was suggested by stakeholders during consultation because many hospitals and schools denies this privilege granted by R.A 7160 to the barangay officials including sangguniang kabataan.
+⁶⁹ Suggested by stakeholder during consultation, The barangay tanods maintain peace and order, thus, their lives always in danger, hence, there should be an insurance for them.
+⁷⁰ The honorarium of porok leader, lupon and barangay tanod must be fixed by an ordinance for purpose of transparency.
+⁷¹ Art. 4, sec. 6 of R.A 11054 which provides: the Bangsamoro Government shall promote unity, justice and goodwill among all people, as well as encourage a just and peaceful settlement of dispute
+⁷² This was suggested by the stakeholders during the consultation to ensure impartiality in deciding a case under their jurisdiction, respectively.
+⁷³ This was suggested by a participant during the consultation because accordingly, some barangay officials or lupon member collected substantial amount of money to both complainant and respondent before or after the deliberation of their case.
+⁷⁴ It is to encourage our youth to study because they are the future leader of our community. Moreover, under SK reform law of 2015, the Sangguniang Kabataan is mandated to enact a resolution and other measures for the welfare of the youth. They are now responsible for the disbursement of their shares in barangay IRA.
+⁷⁵ It was adopted under SK reform law.
+⁷⁶ This is mandated under the SK reform law.
+⁷⁷ This was adopted under the SK reform law.
+⁷⁸ This was adopted under the SK Reform Law
+⁷⁹ It was suggested during the public consultation to have a regional federation for the Sangguniang Kabataan officials.
+
+**TITLE II**
+**THE MUNICIPALITY**
+
+**CHAPTER I**
+**Role and Creation of the Municipality**
+
+**SECTION 453. Role of the Municipality.** - The municipality, consisting of a group of Barangays, serves primarily as a general-purpose government for the coordination and delivery of basic, regular and direct services and effective governance of the inhabitants within its territorial jurisdiction.
+
+**SECTION 454. Manner of Creation.** - A municipality may be created, divided, merged, abolished, or its boundary substantially altered by an act of congress or the Parliament and subject to the approval by a majority vote of electorate⁸⁰ of the votes cast in a plebiscite to be conducted by the COMELEC in the local government unit or units directly affected. Provided, that the criteria laid down in RA 7160 shall be satisfied., the plebiscite shall be held within one hundred twenty (120) days from the date of its effectivity.
+
+**SECTION 455. Requisites for Creation.** - (a) A municipality may be created if it has average annual income of at least P2.5 million for the last two consecutive years as certified by Bangsamoro Treasury⁸¹;
+
+(b) a population of at least twenty-five thousand (25,000) inhabitants as certified by the Philippine Statistics Authority; and
+
+(c) A contiguous territory of at least fifty (50) square kilometers as certified by the Land Management Bureau: Provided, That the creation thereof shall not reduce the land area, population or income of the original municipality or municipalities at the time of said creation to less than the minimum requirements prescribed herein.
+
+There shall be a commitment to donate a lot area of not less than three hectares for the construction of a permanent government center like the municipal hall, health center, health center, multi-purpose hall and similar others. The copy of intent to donate shall be attached to the petition for creation of municipality or province and copy furnished to the Ministry of Interior and Local Government;⁸²
+
+**SECTION 456. Municipalities Converted into Regular Municipality.** - The municipalities existing as of the date of the effectivity of this Code like Al-Barka, Hadji Muhammad Ajul, Akbar, and Hadji Muhtamad in the Province of Basilan; and Datu Blah Sinsuat, Pandag, Mangudadatu, Northern Kabuntalan, Datu Anggal Midtimbang, Datu Hofer Ampatuan and Datu Salibo in the Province of Maguindanao shall be converted into regular municipalities entitled to IRA⁸³.
+
+**SECTION 457. Municipalities That May Be Created After the Effectivity of this Code.** - Any municipality that may be created after the effectivity of this Code must comply with the minimum standard laid down by RA 7160 and this Code: Provided, that it shall be approved by a majority of the votes cast in a plebiscite conducted in the political unit directly affected.⁸⁴
+
+**CHAPTER II**
+**Municipal Officials in General**
+
+**SECTION 458. Officials of the Municipal Government.** - (a) There shall be in each municipality a municipal mayor, a municipal vice-mayor, Sangguniang Bayan members, a secretary to the Sangguniang
+
+Bayan, a municipal treasurer, a municipal assessor, a municipal accountant, a municipal budget officer, a municipal planning and development coordinator, a municipal engineer/building official, a municipal health officer and a municipal civil registrar.
+
+(b) The mayor may also appoint a municipal agriculturist, a municipal environment and natural resources officer, a municipal social welfare and development officer.
+
+(c) The mayor may appoint a municipal administrator, a municipal legal officer and municipal information officer and municipal population officer.
+
+(d) In the appointment of municipal employees especially on career positions, preference shall be given to qualified residents of the municipality.⁸⁵
+
+**SECTION 459. Other Mandatory Position for Municipality**-The Municipal government must also appoint the following officers and provide office space, administrative support and allocate funding thereof, to wit:
+
+Local Disaster Risk and Reduction Management Officer⁸⁶, Local Economic Investment Promotion Officer⁸⁷, Tourism Officer⁸⁸, Environmental Officers, Information and Communication Technology Officer⁸⁹ and Community-Based Training for Enterprise Development⁹⁰, Local Youth and Development Officer.
+
+The minimum qualification of the applicant for the above position are the following to wit:
+a. Must be a college a graduate of any relevant course;
+b. Must have at least 60 hours of training relevant to the position he/she wish to apply;
+c. Holder of second level eligibility or its equivalent;
+d. Must be a resident of the Municipality he/she may be assigned.
+
+The officer/s appointed to the above position must enjoy all rights and protection afforded by law and same privileges granted by Municipal Government to its regular employees
+
+**CHAPTER III**
+**Officials and Offices Common to All Municipalities**
+**Article I - The Municipal Mayor**
+
+**SECTION 460. The Chief Executive: Powers, Duties, Functions and Compensation.** - (a) The municipal mayor, as the chief executive of the municipal government, shall exercise such powers and perform such duties and functions as provided by this Code and other laws.
+
+(b) For efficient, effective and economical governance the purpose of which is the general welfare of the municipality, the municipal mayor shall:
+
+(1) Exercise general supervision and control over all programs, projects, services, and activities within his municipality (of the municipal government,) for the general welfare of his constituent and in this connection, he shall:
+
+(i) Formulate the guidelines of municipal policies and be responsible to the Sangguniang Bayan for the program of government;
+
+(ii) Propose or Order the formulation of the municipal development plan, with the assistance of the municipal development council, and upon approval thereof by the Sangguniang Bayan, implement the same;
+
+(iii) At the opening of the regular session of the Sangguniang Bayan for every calendar year and, as may be deemed necessary, present the program of government and propose policies and projects for the consideration of the Sangguniang Bayan as the general welfare of the inhabitants and the needs of the municipal government may require;
+
+(iv) Initiate and propose legislative measures to the Sangguniang Bayan and, from time to time as the require, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions;
+
+Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of municipal funds and whose appointments are not otherwise provided for in this Code, as well as those he may be authorized by law to appoint; situation may
+
+(v) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of municipal funds and whose appointments are not otherwise provided for in this Code, as well as those he may be authorized by law to appoint;
+
+(vi) Upon authorization by the Sangguniang Bayan, represent the municipality in all its business transactions and sign on its behalf all bonds, contracts, and obligations, and such other documents made pursuant to law or ordinance;
+
+(vii) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities assist them to return to normal life by providing livelihood, social, and psychological support (stress debriefing, focused group discussions, etc.) or programs to start a new life;⁹¹
+
+(viii) Determine, according to law or ordinance, the time, manner and place of payment of salaries or wages of the officials and employees of the municipality;
+
+(ix) Allocate and assign office space to municipal and other officials and employees who, by law or ordinance, are entitled to such space in the municipal hall and other buildings owned or leased by the municipal government;
+
+(x) Ensure that all executive officials and employees of the municipality faithfully discharge their duties and functions as provided by law and this Code, and cause to be instituted administrative or judicial proceedings against any official or employee of the municipality who may have committed an offense in the performance of his official duties;
+
+(xi) Examine the books, records and other documents of all offices, officials, agents or employees of the municipality and in aid of his executive powers and authority, require all national officials and employees stationed in or assigned to the municipality to make available to him such books, records, and other documents in their custody, except those classified by law as confidential;
+
+(xii) Furnish copies of executive orders issued by him to the provincial governor within seventy-two (72) hours after their issuance and to the Office of the Chief Minister through the Ministry of Interior and Local Government;⁹²
+
+(xiii) Must visit component Barangays of the municipality at least once a month and consider such visit an outreach program for Delivering Basic Services to Barangays and to deepen his/her understanding on problems or conditions therein. He/She may also conduct ulat sa Barangay to inform the component Barangay officials and inhabitants of general laws and ordinances which especially concern them, listen and give appropriate counsel to local officials or inhabitants, featuring achievement of Barangay concern and the municipal government, financial reporting, recognition of local innovations⁹³ and conduct inspections to the end that the governance of the municipality will improve the quality of life of the inhabitants;
+
+(xiv) Submit to the provincial governor, and to the Office of the Chief Minister through Ministry of Interior and Local Government⁹⁴ the following reports: an annual report containing a summary of all matters pertaining to the management, administration and development of the municipality and all information and data relative to its political, social and economic conditions; and supplemental reports when unexpected events and situations arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the municipality, province, region or country.
+
+(xv) Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of leave credits according to law;
+
+(xvi) Authorize official trips outside of the municipality of municipal officials and employees for a period not exceeding thirty (30) days;
+
+(xvii) Call upon any national official or employee stationed in or assigned to the municipality to advise him on matters affecting the municipality and to make recommendations thereon, or to coordinate in the formulation and implementation of plans, programs and projects, and when appropriate, initiate an administrative or judicial action against a national government official or employee who may have committed an offense in the performance of his official duties while stationed in or assigned to the local government unit concerned;
+
+(xviii) Subject to availability of funds, authorize payment of medical care, necessary transportation, subsistence, hospital or medical fees of municipal officials and employees who are injured while in the performance of their official duties and functions;
+
+(xix) Solemnize marriages for non- muslim;
+
+(xx) Conduct a palarong bayan, in coordination with the Ministry of Basic, Higher, and Technical Education, as an annual activity which shall feature traditional sports and disciplines included in national and international games; and
+
+(2) Enforce all laws and ordinances relative to the governance of the municipality and the exercise of its corporate powers provided for under this Code, implement all approved policies, programs, projects, services and activities of the municipality and, in addition to the foregoing, shall:
+
+(i) Ensure that the acts of the municipality's component Barangays and of its officials and employees are within the scope of their prescribed powers, functions, duties and responsibilities;
+
+(ii) Call conventions, conferences, seminars or meetings of any elective and appointive officials of the municipality, including provincial officials and national officials and employees stationed in or assigned to the municipality at such time and place and on such subject as he may deem important for the promotion of the general welfare of the local government unit and its inhabitants;
+
+All conventions, seminars, conferences or meetings funded by local government unit concerned must be held within the territorial jurisdiction of the municipality or within Bangsamoro Autononmous Region in Muslim Mindanao; except justifiable reasons upon the approval of the Ministry of Interior in Local Government.⁹⁵
+
+(iii) Issue such executive orders as are necessary for the proper enforcement and execution of laws and ordinances;
+
+(iv) Whenever necessary, be entitled to carry one short firearm within his territorial jurisdiction; subject to the existing laws and regulation promulgated by a competent authority;
+
+(v) Act as the deputized representative of the National Police Commission, formulate the peace and order plan of the municipality and upon its approval, implement the same and exercise general and operational control and supervision over the local police forces in the municipality in accordance with R.A. No. 6975;
+
+(vi) Call upon the appropriate law enforcement agencies of the BARMM to suppress disorder, riot, lawless violence, sedition or to apprehend violators of the law when public interest so requires, and the municipal police forces are inadequate to cope with the situation or the violators;
+
+(vii) Establish a Local Council for the Protection of Children⁹⁶;
+
+(viii) Established a Municipal Youth Development Council which shall assist the planning and execution of projects and programs of the Sangguniang Kabataan and the Pederasyons in all levels. The council shall be put under the Office of the Local Chief Executive, the Office of the Planning and Development, the Office of the Social Welfare, or in any other office deemed appropriate by the local government unit⁹⁷
+
+(3) Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities as provided for under this Code, particularly those resources and revenues programmed for agro-industrial development and country-wide growth and progress, and relative thereto, shall:
+
+(i) Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the budget preparation process of this Code;
+
+(ii) Prepare and submit to the sanggunian for approval the executive and supplemental budgets of the municipality for the ensuing calendar year in the manner provided for under this Code;
+
+(iii) Ensure that all taxes and other revenues of the municipality are collected, and that municipal funds are applied in accordance with law or ordinance to the payment of expenses and settlement of obligations of the municipality;
+
+(iv) Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance;
+
+(v) Issue permits, without need of approval therefor from any national agency, for the holding of activities for any charitable or welfare purpose, excluding prohibited games of chance or shows contrary to law, public policy and public morals;
+
+(vi) Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permit, subject to such fines and penalties as may be imposed by law or ordinance, or to make necessary changes in the construction of the same when said construction violates any law or ordinance, or to order the demolition or removal of said house, building or structure within the period prescribed by law or ordinance;
+
+(vii) Adopt adequate measures to safeguard and conserve land, mineral, marine, forest, and other resources of the municipality; provide efficient and effective property and supply management in the municipality; and protect the funds, credits, rights and other properties of the municipality; and
+
+(viii) Institute or cause to be instituted administrative or judicial proceedings for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the municipality to be defended against all suits to ensure that its interests, resources and rights shall be adequately protected;
+
+(4) Ensure the delivery of basic services and the provision of adequate facilities as provided for under this Code:
+
+The following are basic services that must be delivered by the municipality:⁹⁸
+
+**FOR AGRICULTURAL SERVICES:** Extension and on-site research services and facilities related to agriculture and fishery activities which includes, dispersal of livestock and poultry, fingerlings, and other seeding materials for aquaculture; palay, corn and vegetable seeds farms; medicinal plant gardens; fruit tree, coconut and other kinds of seedling nurseries; demonstration farm; quality control of copra and improvement and development of local distribution channels preferably through cooperatives; inter-Barangay irrigation system, water and soil resource utilization and conservation projects; and enforcement of fishery laws in municipal waters including the conservation of mangroves;
+
+**ENVIRONMENTAL SERVICES:** Pursuant to national policies and subject to supervision, control and review of the DENR, implementation of community-based forestry projects which include: integrated social forestry programs and similar projects; management and control of communal forests with an area not exceeding fifty (50) square kilometers; establishment of tree pars, greenbelts, and similar forest development projects;
+
+**HEALTH SERVICES** which include: the implementation of programs and communicable and non-communicable disease control services; access to secondary health services; purchase of medicines, medical supplies, and equipment needed to carry out the services herein enumerated;
+
+**SOCIAL SERVICES** which include: programs and projects on child and youth welfare, family and community welfare, women's welfare, welfare of the elderly and disabled persons; community-based rehabilitation programs for vagrants, beggars, street children, scavengers, juvenile delinquents, and victim of drug abuse; livelihood and other pro-poor projects; nutrition services; and family planning services;
+
+**INFORMATION SERVICES** which include investments and job placement information system, tax and marketing information systems, and maintenance of a public library;
+
+**SOLID WASTE DISPOSAL SYSTEM** or environmental management system and services or facilities related to general hygiene and sanitation;
+
+**PUBLIC WORKS OR CONSTRUCTIONS** such as Municipal buildings, cultural centers, public parks including freedom parks, playgrounds, and sports facilities and equipment, and other similar facilities;
+
+**INFRASTRUCTURE FACILITIES** intended primarily to service the needs of the residents of the municipality and which are funded out of municipal funds including: but not limited to,
+
+**CONSTRUCTION AND MAINTENANCE OF MUNICIPAL ROADS AND BRIDGES;**
+
+The following are municipal roads and/ or bridges:
+
+1.Those constructed by municipality out of its own funds;
+
+2.Those constructed by higher local government unit or national government and turned over to municipality; and
+
+3.Those constructed by private persons or entity and turn over to municipality.
+
+**CONSTRUCTION OF OTHERS FACILITIES** such as for public elementary and secondary School; construction of clinics, health centers, and other health facilities necessary to carry out health services; construction of communal irrigation, small water impounding projects and other similar projects; fish ports; construction of artesian wells, spring development, rainwater collectors and water supply systems; construction of seawalls, dikes, drainage and sewerage, and flood control; provides traffic signals and road signs, and similar facilities, construction of public markets, slaughterhouses and other municipal enterprises; provide lot or space for public cemetery; construction of Tourism facilities and other tourist attractions, including: the acquisition of equipment, regulation and supervision of business concessions, and security services for such facilities; and Provide sites for police and fire stations, substation and the municipal jail;
+
+and, in addition thereto, shall:
+
+(xi) Ensure that the construction and repair of roads and highways funded by the national government shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the municipality and the province; and
+
+(xii) Coordinate the implementation of technical services rendered by national and provincial offices, including public works and infrastructure programs in the municipality;
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(c) During his incumbency, the municipal mayor shall hold office in the municipal hall.
+
+(d) The municipal mayor shall receive a minimum monthly compensation corresponding to Salary Grade twenty-seven (27) as prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article II - The Vice Mayor**
+
+**SECTION 461. Powers, Duties and Compensation.** - (a) The vice-mayor shall:
+
+(1) Be the presiding officer of the Sangguniang Bayan and sign all warrants drawn on the municipal treasury for all expenditures appropriated for the operation of the Sangguniang Bayan;
+
+(2) Subject to civil service law, rules and regulations, appoint all officials and employees of the Sangguniang Bayan, except those whose manner of appointment is specifically provided in this Code;
+
+(3) Assume the office of the municipal mayor for the unexpired term of the latter in the event of permanent vacancy as provided for this Code;
+
+(4) Exercise the powers and perform the duties and functions of the municipal mayor in cases of temporary vacancy as provided for this Code; and,
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(b) The vice-mayor shall receive a monthly compensation corresponding to Salary Grade twenty-five (25) as prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article III - The Sangguniang Bayan**
+
+**SECTION 462. Composition.** - (a) The Sangguniang Bayan, the legislative body of the municipality, shall be composed of the municipal vice-mayor as the presiding officer, the regular sanggunian members, the president of the municipal chapter of the liga ng mga Barangay, the president of the pambayang pederasyon ng mga Sangguniang Kabataan, and the sectoral representatives, as members.
+
+(b) In addition thereto, there shall be three (3) sectoral representatives: one (1) from the women; and, as shall be determined by the sanggunian concerned within ninety (90) days prior to the holding of local elections, one (1) from the agricultural or industrial workers; and one (1) from the other sectors, including the urban poor, indigenous cultural communities, or disabled persons.
+
+(c) The regular members of the Sangguniang Bayan and the sectoral representatives shall be elected in the manner as may be provided for by law.
+
+**SECTION 463. Powers, Duties, Functions and Compensation.** - (a) The Sangguniang Bayan, as the legislative body of the municipality, shall enact ordinances, approve resolutions and appropriate funds for the general welfare of the municipality and its inhabitants and in the proper exercise of the corporate powers of the municipality as provided under this Code, and shall:
+
+(1) Enact and approve ordinances or pass resolutions necessary for an efficient and effective municipal government, and in this connection shall:
+
+(i) Review all ordinances approved by the Sangguniang Barangay and executive orders issued by the Punong Barangay to determine whether these are within the scope of the prescribed powers of the sanggunian and of the Punong Barangay;
+
+(ii) Maintain peace and order by enacting ordinances or resolutions to prevent and suppress lawlessness, disorder, riot, violence, rebellion or sedition and impose penalties for the violation of said ordinances;
+
+(iii) Approve ordinances imposing a fine not exceeding Five Thousand Pesos (P5,000.00) or an imprisonment for a period not exceeding six (6) months, or both in the discretion of the court, for the violation of a municipal ordinance;
+
+(iv) Enact ordinances or resolutions to protect the inhabitants of the municipality from the harmful effects of man-made or natural disasters and calamities and to provide relief services and assistance for victims during and in the aftermath of said disasters or calamities and their return to productive livelihood following said events;
+
+(v) Enact ordinances or resolutions intended to prevent, suppress and impose appropriate penalties for habitual drunkenness in public places, vagrancy, mendicancy, prostitution, establishment and maintenance of houses of ill repute, gambling and other prohibited games of chance, fraudulent devices and ways to obtain money or property, drug addiction, maintenance of drug dens, drug pushing, juvenile delinquency, the printing, distribution or exhibition of obscene or pornographic materials or publications, and such other activities inimical to the welfare and morals of the inhabitants of the municipality;
+
+(vi) Enact an ordinance that would constitute Municipal Anti-Drug Abuse Council and adopt measures towards the prevention, rehabilitations and eradication of drug abuse, child abuse, and juvenile delinquency;⁹⁹
+
+(vi) Enact ordinances or resolution that will protect the environment and impose appropriate penalties for acts which endanger the environment, such as dynamite fishing and other forms of destructive fishing, illegal logging and smuggling of logs, smuggling of natural resources products and of endangered species of flora and fauna, slash and burn farming, and such other activities which result in pollution, acceleration of eutrophication of rivers and lakes, or of ecological imbalance;
+
+(vii) Subject to the provisions of this Code and pertinent laws, determine the powers and duties of officials and employees of the municipality;
+
+(viii) Determine the positions and the salaries, wages, allowances and other emoluments and benefits of officials and employees paid wholly or mainly from municipal funds and provide for expenditures necessary for the proper conduct of programs, projects, services, and activities of the municipal government;
+
+(ix) Authorize the payment of compensation to a qualified person not in the government service who fills up a temporary vacancy or grant honorarium to any qualified official or employee designated to fill a temporary vacancy in a concurrent capacity, at the rate authorized by law;
+
+(x) Provide a mechanism and the appropriate funds therefor, to ensure the safety and protection of all municipal government property, public documents, records of births, marriages, deaths, assessments, taxation, accounts, business permits, and such other records and documents of public interest in the offices and departments of the municipal government;
+
+(xi) When the finances of the municipal government allow, provide for additional allowances and other benefits to judges, prosecutors, public elementary and high school teachers, and other national government officials stationed in or assigned to the municipality;
+
+(xii) Provide for legal assistance to Barangay officials, Barangay tanod and lupon who, in the performance of their official duties or on the occasion thereof, have to initiate judicial proceedings or defend themselves against legal action; and
+
+(xiii) Provide for group insurance or additional insurance coverage for Barangay officials, including members of Barangay tanod brigades and other service units, with public or private insurance companies, when the finances of the municipal government allow said coverage.
+
+(2) Generate and maximize the use of resources and revenues for the development plans, program objectives and priorities of the municipality as provided for under section 18 of this Code with particular attention to agro-industrial development and countryside growth and progress, and relative thereto, shall:
+
+(i) Approve the annual and supplemental budgets of the municipal government and appropriate funds for specific programs, projects, services and activities of the municipality, or for other purposes not contrary to law, in order to promote the general welfare of the municipality and its inhabitants;
+
+(ii) Subject to the provisions of Book II of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Bayan, enact ordinances levying taxes, fees and charges, prescribing the rates thereof for general and specific purposes, and granting tax exemptions, incentives or reliefs;
+
+(iii) Subject to the provisions of Book II of this Code and upon the majority vote of all the members of the Sangguniang Bayan, authorize the municipal mayor to negotiate and contract loans and other forms of indebtedness;
+
+(iv) Subject to the provisions of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Bayan, enact ordinances authorizing the floating of bonds or other instruments of indebtedness, for the purpose of raising funds to finance development projects;
+
+(v) Appropriate funds for the construction and maintenance or the rental of buildings for the use of the municipality and, upon the majority vote of all the members of the Sangguniang Bayan, authorize the municipal mayor to lease to private parties such public buildings held in a proprietary capacity, subject to existing law, rules and regulations;
+
+(vi) Whenever necessary, enact an ordinance that would regulate and/or restraints the use of property within the jurisdiction of the municipality;
+
+(vii) Adopt a comprehensive land use plan for the municipality: Provided, that the formulation, adoption, or modification of said plan shall be in coordination with the approved provincial comprehensive land use plan; and that would align to Bangsamoro Autonomous Region in Muslim Mindanao regional plan;
+
+(viii) Reclassify land within the jurisdiction of the municipality, subject to the pertinent provisions of this Code;
+
+(ix) Enact integrated zoning ordinances in consonance with the approved comprehensive land use plan, subject to existing laws, rules and regulations; establish fire limits or zones, particularly in populous centers; and regulate the construction, repair or modification of buildings within said fire limits or zones in accordance with the provisions of the Fire Code;
+
+(x) Subject to national law and Bangsamoro Autonomous Region in Muslim Mindanao regional law, process and approve subdivision plans for residential, commercial, or industrial purposes and other development purposes, and collect processing fees and other charges, the proceeds of which shall accrue entirely to the municipality: Provided, however, That, where approval by a national or Bangsamoro Autonomous Region in Muslim Mindanao regional agency or office is required, said approval shall not be withheld for more than thirty (30) days from receipt of the application. Failure to act on the application within the period stated above shall be deemed as approval thereof;
+
+(xi) Subject to the provisions of this Code, grant the exclusive privilege of constructing fish corrals or fish pens, or the taking or catching of bangus fry, prawn fry or kawag-kawag or fry of any species or fish within the municipal waters;
+
+(xii) With the concurrence of at least two-thirds (2/3) of all the members of the Sangguniang Bayan, grant tax exemptions, incentives or reliefs to entities engaged in community growth-inducing industries, subject to the provisions of this Code;
+
+(xiii) Grant loans or provide grants to other local government units or to national, provincial and municipal charitable, benevolent or educational institutions: Provided, That said institutions are operated and maintained within the municipality;
+
+(xiv) Regulate the numbering of residential, commercial and other buildings; and
+
+(xv) Regulate the inspection, weighing and measuring of articles of commerce.
+
+(3) Subject to the provisions of this code, grant franchises, enact ordinances authorizing the issuance of permits or licenses, or enact ordinances levying taxes, fees and charges upon such conditions and for such purposes intended to promote the general welfare of the inhabitants of the municipality, and pursuant to this legislative authority shall:
+
+(i) Fix and impose reasonable fees and charges for all services rendered by the municipal government to private persons or entities;
+
+(ii) Regulate any business, or practice of profession or calling which does not require government examination within the municipality and the conditions under which the license for said business or practice of profession may be issued or revoked;
+
+(iii) Prescribe the terms and conditions under which public utilities owned by the municipality shall be operated by the municipal government or leased to private persons or entities, preferably cooperatives;
+
+(iv) Regulate the display of and fix the license fees for signs, signboards, or billboards at the place or places where the profession or business advertised thereby is, in whole or in part, conducted;
+
+(v) Prohibit and/or regulate the establishment, operation, and maintenance of cockpits, and regulate cockfighting and commercial breeding of gamecocks: Provided, that existing rights should not be prejudiced;
+
+(vi) Subject to the guidelines prescribed by the Department of Transportation and Communications, regulate the operation of tricycles, habal habal and grant franchises for the operation thereof within the territorial jurisdiction of the municipality;
+
+(vii) Upon approval by a majority vote of all the members of the Sangguniang Bayan, grant a franchise to any person, partnership, corporation, or cooperative to establish, construct, operate and maintain ferries, wharves, markets or slaughterhouses, or such other similar activities within the municipality as may be allowed by applicable laws: Provided, That, cooperatives shall be given preference in the grant of such a franchise.
+
+(4) Regulate activities relative to the use of land, buildings and structures within the municipality in order to promote the general welfare and for said purpose shall:
+
+(i) Declare, prevent or abate any nuisance;
+
+(ii) Require that buildings and the premises thereof and any land within the municipality be kept and maintained in a sanitary condition; impose penalties for any violation thereof, or upon failure to comply with said requirement, have the work done and require the owner, administrator or tenant concerned to pay the expenses of the same; or require the filling up of any land or premises to a grade necessary for proper sanitation;
+
+(iii) Regulate the disposal of clinical and other wastes from hospitals, clinics and other similar establishments;
+
+(iv) Regulate the establishment, operation and maintenance of cafes, restaurants, beerhouses, hotels, motels, inns, pension houses, lodging houses, and other similar establishments, including tourist guides and transports;
+
+(v) Prohibit and/or regulate the sale, giving away or dispensing of any intoxicating malt, vino, mixed or fermented liquors at any retail outlet;
+
+(vi) Regulate the establishment and provide for the inspection of steam boilers or any heating device in buildings and the storage of inflammable and highly combustible materials within the municipality;
+
+(vii) Prohibit and/ or regulate the establishment, operation, and maintenance of entertainment or amusement facilities, including theatrical performances, circuses, billiard pools, public dancing schools, public dance halls, sauna baths, massage parlors, and other places of entertainment or amusement; regulate such other events or activities for amusement or entertainment, particularly those which tend to disturb the community or annoy the inhabitants, or require the suspension or suppression of the same; or, prohibit certain forms of amusement or entertainment in order to protect the social and moral welfare of the community;
+
+(viii) Provide a place for impounding stray animals; regulate the keeping of animals in homes or as part of a business, and the slaughter, sale or disposition of the same; and adopt measures to prevent and penalize cruelty to animals; and
+
+(ix) Regulate the establishment, operation, and maintenance of funeral parlors and the burial or cremation of the dead, subject to existing laws, rules and regulations.
+
+(5) Approve ordinances which shall ensure the efficient and effective delivery of the basic services and facilities as provided for this Code, and in addition to said services and facilities, shall:
+
+(i.)Enact an ordinance that provide for the establishment, maintenance, protection, and conservation of communal forests and water sheds, tree parks, greenbelts, mangroves, and other similar forest development projects;
+
+(ii.)Enact an ordinance that establish markets, slaughterhouses or animal corrals and authorize the operation thereof, and regulate the construction and operation of private markets, talipapas or other similar buildings and structures;
+
+(iii.)Enact an ordinance or resolution that authorize the establishment, maintenance and operation of ferries, wharves, and other structures, and marine and seashore or offshore activities intended to accelerate productivity;
+
+(iv.)Regulate the preparation and sale of meat, poultry, fish, vegetables, fruits, fresh dairy products, and other foodstuffs for public consumption;
+
+(v.)Regulate the use of streets, avenues, alleys, sidewalks, bridges, parks and other public places and approve the construction, improvement, repair and maintenance of the same; establish bus and vehicle stops and terminals or regulate the use of the same by privately-owned vehicles which serve the public; regulate garages and the operation of conveyances for hire; designate stands to be occupied by public vehicles when not in use; regulate the putting up of signs, signboards, awnings and awning posts on the streets; and provide for the lighting, cleaning and sprinkling of streets and public places;
+
+(vi.)Regulate traffic on all streets and bridges, prohibit the putting up of encroachments or obstacles thereon, and, when necessary in the interest of public welfare, authorize the removal of encroachments and illegal constructions in public places;
+
+(vii.)Subject to existing laws, provide for the establishment, operation, maintenance, and repair of an efficient waterworks system to supply water for the inhabitants; regulate the construction, maintenance, repair and use of hydrants, pumps, cisterns and reservoirs; protect the purity and quantity of the water supply of the municipality and, for this purpose, extend the coverage of appropriate ordinances over all territory within the drainage area of said water supply and within one hundred (100) meters of the reservoir, conduit, canal, aqueduct, pumping station, or watershed used in connection with the water service; and regulate the consumption, use or wastage of water;
+
+(viii.)Regulate the drilling and excavation of the ground for the laying of water, gas, sewer, and other pipes and the construction, repair and maintenance of public drains, sewers, cesspools, tunnels and similar structures; regulate the placing of poles and the use of crosswalks, curbs, and gutters; adopt measures to ensure public safety against open canals, manholes, live wires and other similar hazards to life and property; and, regulate the construction and use of private water closets, privies and other similar structures in buildings and homes;
+
+(ix.)Regulate the placing, stringing, attaching, installing, repair and construction of all gas mains, electric, telegraph and telephone wires, conduits, meters and other apparatus; and, provide for the correction, condemnation or removal of the same when found to be dangerous, defective or otherwise hazardous to the welfare of the inhabitants;
+
+(x.)Subject to the availability of funds and to existing laws, rules and regulations, establish and provide for the operation of vocational and technical schools and similar post-secondary institutions and, with the approval of the Ministry of Basic, Higher and Technical Education, fix and collect reasonable fees and other school charges on said institutions, subject to existing laws on tuition fees;
+
+(xi.)Establish a scholarship fund for poor but deserving students residing within the municipality in schools located within its jurisdiction;
+
+(xii.)Enact an ordinances or resolutions to prevent the introduction and spread of diseases;
+
+(xiii.)Provide for an efficient and effective system of solid waste and garbage collection and disposal, and prohibit littering and the placing or throwing of garbage, refuse and other filth and wastes;
+
+(xiv.)Provide for the care and support for the paupers, the aged, the sick, persons of unsound mind, disabled persons, abandoned minors, juvenile delinquents, drug dependents, abused children and other needy and disadvantaged persons, particularly children and youth below eighteen (18) years of age and, subject to availability of funds, establish and provide for the construction and operation of centers and facilities for said needy and disadvantaged persons;
+
+(xv.)Establish and provide for the maintenance and improvement of jails and detention centers, institute sound jail management programs, and appropriate funds for the subsistence of detainees and convicted prisoners in the municipality;
+
+(xvi.)Establish a municipal council whose purpose is the promotion of culture and the arts, coordinate with government agencies and non-governmental organizations and, subject to the availability of funds, appropriate funds for the support and development of the same; and
+
+(xvii.)Establish a municipal council for the elderly which shall formulate policies and adopt measures mutually beneficial to the elderly and to the community; provide incentives for non-governmental agencies and entities and, subject to the availability of funds, appropriate funds to support programs and projects for the benefit of the elderly; and
+
+(6) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+The members of the Sangguniang Bayan shall receive a minimum monthly compensation corresponding to Salary Grade twenty-four (24) as prescribed under R.A. 6758.
+
+***
+
+⁸⁰ Under Art. 6. sec. 10. R.A 11054. Par. 2, the parliament is empowered to create municipalities.
+⁸¹ 
+⁸² This is to avoid unnecessary transfer of municipal sit of government whenever new officials are elected.
+⁸³ Art. 18, sec.2 of R.A 11054;
+⁸⁴ Art. 6, sec. 10, par. 2. Of R.A 11054;
+⁸⁵ Recommended by participant during consultation to optimized localized hiring;
+⁸⁶ R.A 10121 and DILG M.C. no. 113 series of 2010. Strengthening Disaster Risk Reduction and Management system;
+⁸⁷ DILG- MC-2010-113 requiring all LGU to designate LEIPO;
+⁸⁸ R.A 9593, tourism act of 2009, purposely to boost tourism industry in all level of LGU ,thus, bringing income to LGU concerned;
+⁸⁹ Suggested by participant during consultation to address the new era of technology and address online reporting;
+⁹⁰ DILG-MC- 2003-174 institutionalization of community-based training for enterprises development. ( CBTED)
+⁹¹ This was suggested by the participants during the consultation because accordingly, after the calamity, the victims were left with no more assistance from LGUs. They were just depending on the help from NGOs.
+⁹² To monitor the LGU whether or not, they issued an executive order in accordance within their power and authority.
+⁹³ It was suggested by galing pook to bring government in the barangay level and to see their actual situation for possible intervention. This will also increase the trust and confidence of the people to the government.
+⁹⁴ This is an exercise of power of supervision by the chief minister over constituent LGUs to ensure that they are acting within their powers and to monitor their activity as well in their respective jurisdiction.
+⁹⁵ This was suggested by the participants during the consultation to ensure that the funds of the Regional Government would circulate within the region and also to create more employment therein.
+⁹⁶ Title II, Sections 15 of the Juvenile Justice and Welfare Act of 2006 (and Article 87 of Presidential Decree 603) provides for the establishment and strengthening of LCPC in all levels of LGU
+⁹⁷ R.A 10742 or SK reform act of 2015, mandated the creation of LYDC in every level of LGU.
+⁹⁸ We have defined further the basic services under section 17 of this code.
+⁹⁹ Organization of MADAC is a gross roots program of DILG in countering drug related cases.
+
+**TITLE III**
+**THE CITY**
+
+**CHAPTER I**
+**Role and Creation of the City**
+
+**SECTION 464. Role of the City.** - The city, consisting of more urbanized and developed Barangays, serves as a general-purpose government for the coordination and delivery of basic, regular, and direct services and effective governance of the inhabitants within its territorial jurisdiction.
+
+**SECTION 465. Manner of Creation.** - A city may be created, divided, merged, abolished or its boundary substantially altered, only by an Act of Congress, and subject to approval by a majority of the votes cast in a plebiscite to be conducted by the COMELEC in the local government unit or units directly affected. Except as may otherwise be provided in such Act, the plebiscite shall be held within one hundred twenty (120) days from the date of its effectivity.
+
+**SECTION 466. Requisites for Creation.** - (a) A municipality or a cluster of barangays may be converted into a component city if it has a locally generated average annual income, as certified by the Department of Finance, of at least One hundred million pesos (P100,000,000) for the last two (2) consecutive years, and if it has the following requisites¹⁰⁰:
+
+(1) a contiguous territory of at least one hundred (100) square kilometers, as certified by the Lands Management Bureau; or
+
+(2) a population of not less than one hundred fifty thousand (150,000) inhabitants, as certified by the Philippine Statistics Authority: Provided, That, the creation thereof shall not reduce the land area, population, and income of the original unit or units at the time of said creation to less than the minimum requirements prescribed herein.
+
+(b) The territorial jurisdiction of a newly created city shall be properly identified by metes and bounds. The requirement on land area shall not apply where the city proposed to be created is composed of one (1) or more islands. The territory need not be contiguous if it comprises two (2) or more islands.
+
+(c) The average annual income shall include the income accruing to the general fund, exclusive of special funds, transfers, and non-recurring income.
+
+**CHAPTER II**
+**City Officials in General**
+
+**SECTION 467. Officials of the City Government.** - (a) There shall be in each city a mayor, a vice-mayor, Sangguniang Panlungsod members, a secretary to the Sangguniang Panlungsod, a city treasurer, a city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city veterinarian, a city social welfare and development officer, and a city general services officer.
+
+The city government must also appoint the following officer and provide office space, administrative support and allocate funding thereof, to wit: Local Disaster Risk and Reduction Management Officer; Local Economic Investment Promotion Officer; Tourism Officer; Environmental officers; Information and Communication Technology Officer; Community-Based Training for Enterprise Development.¹⁰¹
+
+The minimum qualification of the applicant for the above position are the following to wit:
+a. Must be a college a graduate of any relevant course;
+b. Must have at least 60 hours of training relevant to the position he/she wish to apply;
+c. Holder of second level eligibility or its equivalent;
+d. Must be a resident of theCity he/she may be assigned
+
+The office/s appointed to the above position must enjoy all rights, protection and privileges enjoyed by a regular employee of the said City.
+
+(b) In addition, thereto, the city mayor may appoint a city architect, a city information officer, a city agriculturist, a city population officer, a city environment and natural resources officer, and a city cooperatives officer.
+
+The appointment of a city population officer shall be optional in the city: Provided, however, that cities which have existing population offices shall continue to maintain such offices for a period of five (5) years from the date of the effectivity of this Code, after which said offices shall become optional.
+
+(c) In the appointment of city employees especially for career positions, preference shall be given to qualified resident of the city where he/she will be assigned.¹⁰²
+
+(d) The Sangguniang Panlungsod may:
+
+(1) Maintain existing offices not mentioned in subsections (a) and (b) hereof;
+
+(2) Create such other offices as may be necessary to carry out the purposes of the city government; or
+
+(3) Consolidate the functions of any office with those of another in the interest of efficiency and economy.
+
+(d) Unless otherwise provided herein, heads of departments and offices shall be appointed by the city mayor with the concurrence of the majority of all the Sangguniang Panlungsod members, subject to civil service law, rules and regulations. The Sangguniang Panlungsod shall act on the appointment within fifteen (15) days from the date of its submission, otherwise the same shall be deemed confirmed.
+
+(e) Elective and appointive city officials shall receive such compensation, allowances, and other emoluments as may be determined by law or ordinance, subject to the budgetary limitations on personal services prescribed under Title Five, Book II of this Code: Provided, That, no increase in compensation of the mayor, vice-mayor and Sangguniang Panlungsod members shall take effect until after the expiration of the full term of the said local officials approving such increase.
+
+**CHAPTER III**
+**Officials and Offices Common to All Cities**
+
+**Article I - The City Mayor**
+
+**SECTION 468. Chief Executive; Powers, Duties and Compensation.** - (a) The city mayor, as chief executive of the city government, shall exercise such powers and perform such duties and functions as provided by this Code and other laws.
+(b) For efficient, effective and economical governance the purpose of which is the general welfare of the city and its inhabitants pursuant to Section 16 of this Code, the city mayor shall:
+
+(1) Exercise general supervision and control over all programs, projects, services, and activities of the city government, and in this connection, shall:
+
+(i) Determine the guidelines of city policies and be responsible to the Sangguniang Panlungsod for the program of government;
+
+(ii) Direct and or propose the formulation of the city development plan, with the assistance of the city development council, and upon approval thereof by the Sangguniang Panlungsod, implement the same;
+
+(iii) Present the program of government and propose policies and projects for the consideration of the Sangguniang Panlungsod at the opening of the regular session of the Sangguniang Panlungsod every calendar year and as often as may be deemed necessary as the general welfare of the inhabitants and the needs of the city government may require;
+
+(iv) Initiate and propose legislative measures to the Sangguniang Panlungsod and as often as may be deemed necessary, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions;
+
+(v) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of city funds and whose appointments are not otherwise provided for in this Code, as well as those he may be authorized by law to appoint;
+
+(vi) Represent the city in all its business transactions and sign in its behalf all bonds, contracts, and obligations, and such other documents upon authority of the Sangguniang Panlungsod or pursuant to law or ordinance;
+
+(vii) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities and assist them to return in normal life by giving psychological counselling or stress debriefing and livelihood support or programs to start a new life;¹⁰³
+
+(viii) Determine the time, manner and place of payment of salaries or wages of the officials and employees of the city, in accordance with law or ordinance;
+
+(ix)Allocate and assign office space to city and other officials and employees who, by law or ordinance, are entitled to such space in the city hall and other buildings owned or leased by the city government;
+
+(x) Ensure that all executive officials and employees of the city faithfully discharge their duties and functions as provided by law and this Code, and cause to be instituted administrative or judicial proceedings against any official or employee of the city who may have committed an offense in the performance of his official duties;
+
+(xi)Examine the books, records and other documents of all offices, officials, agents or employees of the city and, in aid of his executive powers and authority, require all national officials and employees stationed in or assigned to the city to make available to him such books, records, and other documents in their custody, except those classified by law as confidential;
+
+(xii)Furnish copies of executive orders issued by him, to the provincial governor and copy furnished to the Office of the Chief Minister through Ministry of Interior and Local Government¹⁰⁴ and in the case of component city mayors, to the Office of the President in the case of highly-urbanized city mayors;
+
+(xiii)Visit component Barangays of the city at least once a month and consider such visit as an out reach to deliver basic services. He/ She may also make an Ulat sa Barangay to inform the component Barangay officials and inhabitants of general laws and ordinances which especially concern them, listen and give appropriate counsel to local officials and inhabitants, and conduct visits and inspections to ensure that the governance of the city will improve the quality of life of the inhabitants;
+
+(xiv)Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of their leave credits in accordance with law;
+
+(xv)Authorize official trips of city officials and employees outside of the city for a period not exceeding thirty (30) days;
+
+(xvi)Call upon any national official or employee stationed in or assigned to the city to advise him on matters affecting the city and to make recommendations thereon; coordinate with said official or employee in the formulation and implementation of plans, programs and projects; and, when appropriate, initiate an administrative or judicial action against a national government official or employee who may have committed an offense in the performance of his official duties while stationed in or assigned to the city;
+
+(xvii)Authorize payment for medical care, necessary transportation, subsistence, hospital or medical fees of city officials and employees who are injured while in the performance of their official duties and functions, subject to availability of funds;
+
+(xviii)Solemnize marriage to non-muslims, any provision of law to the contrary notwithstanding;
+
+(xix)Conduct an annual palarong panlungsod, which shall feature traditional sports and disciplines included in national and international games, in coordination with the Ministry of Basic, Higher, and Technical Education; and
+
+(xx)Submit to the provincial governor and the Office of the Chief Minister through the Ministry of Interior and Local Government¹⁰⁵; the following reports: an annual report containing a summary of all matters pertinent to the management, administration and development of the city and all information and data relative to its political, social and economic conditions; and supplemental reports when unexpected events and situations arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the city, province, region or country;
+
+(2)Enforce all laws and ordinances relative to the governance of the city and in the exercise of the appropriate corporate powers provided for under this Code, implement all approved policies, programs, projects, services and activities of the city and, in addition to the foregoing, shall:
+
+(i)Ensure that the acts of the city’s component Barangays and of its officials and employees are within the scope of their prescribed powers, duties and functions;
+
+(ii)Call conventions, conferences, seminars, or meetings of any elective and appointive officials of the city, including provincial officials and national officials and employees stationed in or assigned to the city, at such time and place and on such subject as he may deem important for the promotion of the general welfare of the local government unit and its inhabitants.
+
+All conventions, seminars, conferences or meetings funded by local government unit concerned must be held within the territorial jurisdiction of the city or within Bangsamoro Autonomous Region in Muslim Mindanao; except for some justified reason upon approval of the Ministry of Interior and Local Government¹⁰⁶;
+
+(iii)Issue such executive orders for the faithful and appropriate enforcement and execution of laws and ordinances;
+
+(iv)Whenever necessary, be entitled to carry one short firearm within his territorial jurisdiction subject to the existing laws and regulation promulgated by competent authority¹⁰⁷;
+
+(v)Act as the deputized representative of the National Police Commission, formulate the peace and order plan of the city and upon its approval, implement the same; and as such exercise general and operational control and supervision over the local police forces in the city, in accordance with R.A. No. 6975;
+
+(vi)Call upon the appropriate law enforcement agencies of Bangsamoro Government to suppress disorder, riot, lawless violence, rebellion or sedition, or to apprehend violators of the law when public interest so requires, and the city police forces are inadequate to cope with the situation or the violators;
+
+(3)Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities as provided for under this Code, particularly those resources and revenues programmed for agro-industrial development and countryside growth and progress and, relative thereto, shall:
+
+(i)Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the budget preparations process under this Code;
+
+(ii)Prepare and submit to the sanggunian for approval the executive and supplemental budgets of the city for the ensuing calendar year in the manner provided for under this Code;
+
+(iii)Ensure that all taxes and other revenues of the city are collected, and that city funds are applied to the payment of expenses and settlement of obligations of the city, in accordance with law or ordinance;
+
+(iv)Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance;
+
+(v)Issue permits, without need of approval therefor from any national agency, for the holding of activities for any charitable or welfare purpose, excluding prohibited games of chance or shows contrary to law, public policy and public morals;
+
+(vi)Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permit, subject to such fines and penalties as may be imposed by law or ordinance, or to make necessary changes in the construction of the same when said construction violates any law or ordinance, or to order the demolition or removal of said house, building or structure within the period prescribed by law or ordinance;
+
+(vii)Adopt adequate measures to safeguard and conserve land, mineral, marine, forest, and other resources of the city; provide efficient and effective property and supply management in the city; and protect the funds, credits, rights and other properties of the city; and
+
+(viii)Institute or cause to be instituted administrative or judicial proceedings for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the city to be defended against all suits to ensure that its interests, resources and rights shall be adequately protected;
+
+(4) Ensure the delivery of basic services and the provision of adequate facilities as provided for under section 17 of this Code:
+
+All the services and facilities of the municipality and province, and in addition thereto, the following:
+
+(i)Ensure that the construction and repair of roads and highways funded by the national government shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the city, and in the case of component cities, of the city and of the province; and
+
+(ii)Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices in the case of highly urbanized and independent component cities, and by national and provincial offices in the case of component cities; and
+
+(5)Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(c)During his incumbency, the city mayor shall hold office in the city hall.
+
+(d)The city mayor shall receive a minimum monthly compensation corresponding to Salary Grade thirty (30) as prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article II - The City Vice-Mayor**
+
+**SECTION 469. Powers, Duties and Compensation.** - (a) The city vice- mayor shall:
+
+(1) Be the presiding officer of the Sangguniang Panlungsod and sign all warrants drawn on the city treasury for all expenditures appropriated for the operation of the Sangguniang Panlungsod;
+
+(2) Subject to civil service law, rules and regulations, appoint all officials and employees of the Sangguniang Panlungsod, except those whose manner of appointment is specifically provided in this Code;
+
+(3) Assume the office of the city mayor for the unexpired term of the latter in the event of permanent vacancy as provided for in this Code;
+
+(4) Exercise the powers and perform the duties and functions of the city mayor in cases of temporary vacancy as provided for in this Code; and
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(b) The city vice-mayor shall receive a monthly compensation corresponding to Salary Grade twenty eight (28) for a highly urbanized city and Salary Grade twenty six (26) for a component city, as prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article III - The Sangguniang Panlungsod**
+
+**SECTION 470. Composition.** - (a) The Sangguniang Panlungsod, the legislative body of the city, shall be composed of the city vice-mayor as presiding officer, the regular sanggunian members, the president of the city chapter of the liga ng mga Barangay, the president of the panlungsod na pederasyon ng mga Sangguniang Kabataan, and the sectoral representatives, as members.
+
+(b) In addition thereto, there shall be three (3) sectoral representatives: one (1) from the women; and, as shall be determined by the sanggunian concerned within ninety (90) days prior to the holding of the local elections, one (1) from the agricultural or industrial workers; and one (1) from indigenous cultural communities¹⁰⁸.
+
+(c) The regular members of the Sangguniang Panlungsod and the sectoral representatives shall be elected in the manner as may be provided for by law.
+
+**SECTION 471. Powers, Duties, Functions and Compensation.** - (a) The Sangguniang Panlungsod, as the legislative body of the city, shall enact ordinances, approve resolutions and appropriate funds for the general welfare of the city and its inhabitants pursuant to section 16 of this Code and in the proper exercise of the corporate powers of the city as provided for under section 22 of this Code, and shall:
+
+(1) Approve ordinances and pass resolutions necessary for an efficient and effective city government, and in this connection, shall:
+
+(i) Review all ordinances approved by the Sangguniang Barangay and executive orders issued by the Punong Barangay to determine whether these are within the scope of the prescribed powers of the sanggunian and of the Punong Barangay;
+
+(ii) Maintain peace and order by enacting ordinances to prevent and suppress lawlessness, disorder, riot, terrorism, violent extremism, rebellion or sedition and impose penalties for the violation of said ordinances;
+
+(iii) Approve ordinances imposing a fine not exceeding Five thousand pesos (P5,000.00) or an imprisonment for a period not exceeding one (1) year, or both in the discretion of the court, for the violation of a city ordinance;
+
+(iv) Adopt measures to protect the inhabitants of the city from the harmful effects of man-made or natural disasters and calamities, and to provide relief services and assistance for victims during and in the aftermath of said disasters or calamities and their return to productive livelihood following said events;
+
+(v) Enact ordinances that intended to prevent or prohibit , suppress and impose appropriate penalties for habitual drunkenness in public places, vagrancy, mendicancy, prostitution, establishment and maintenance of houses of ill repute, gambling and other prohibited games of chance, fraudulent devices and ways to obtain money or property, drug addiction, maintenance of drug dens, drug pushing, juvenile delinquency, the printing, distribution or exhibition of obscene or pornographic materials or publications, and such other activities inimical to the welfare and morals of the inhabitants of the city;
+
+(vi) Enact ordinances that protect and rehabilitate the environment and impose appropriate penalties for acts which endanger the environment, such as dynamite fishing and other forms of destructive fishing, illegal logging and smuggling of logs, smuggling of natural resources products and of endangered species of flora and fauna, slash and burn farming, and such other activities which result in pollution, acceleration of eutrophication of rivers and lakes, or of ecological imbalance;
+
+(vii) Subject to the provisions of this Code and pertinent laws, determine the powers and duties of officials and employees of the city;
+
+(viii) Determine the positions and the salaries, wages, allowances and other emoluments and benefits of officials and employees paid wholly or mainly from city funds and provide for expenditures necessary for the proper conduct of programs, projects, services, and activities of the city government;
+
+(ix) Authorize the payment of compensation to a qualified person not in the government service who fills up a temporary vacancy or grant honorarium to any qualified official or employee designated to fill a temporary vacancy in a concurrent capacity, at the rate authorized by law;
+
+(x) Provide a mechanism and the appropriate funds therefor, to ensure the safety and protection of all city government property, public documents, or records such as those relating to property inventory, land ownership, records of births, marriages, deaths, assessments, taxation, accounts, business permits, and such other records and documents of public interest in the offices and departments of the city government;
+
+(xi) When the finances of the city government allow, provide for additional allowances and other benefits to judges, prosecutors, public elementary and high school teachers, and other national government officials stationed in or assigned to the city;
+
+(xii) Provide legal assistance to Barangay officials, tanod and lupon who, in the performance of their official duties or on the occasion thereof, must initiate judicial proceedings or defend themselves against legal action; and
+
+(xiii) Provide for group insurance or additional insurance coverage for all Barangay officials, including members of Barangay tanod brigades and other service units, with public or private insurance companies, when the finances of the city government allow said coverage;
+
+(2) Generate and maximize the use of resources and revenues for the development plans, program objectives and priorities of the city as provided for under section 18 of this Code, with particular attention to agro-industrial development and city-wide growth and progress, and relative thereto, shall:
+
+(i)Approve the annual and supplemental budgets of the city government and appropriate funds for specific programs, projects, services and activities of the city, or for other purposes not contrary to law, in order to promote the general welfare of the city and its inhabitants;
+
+(ii)Subject to the provisions of Book II of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Panlungsod, enact ordinances levying taxes, fees and charges, prescribing the rates thereof for general and specific purposes, and granting tax exemptions, incentives or reliefs;
+
+(iii)Subject to the provisions of Book II of this Code and upon the majority vote of all the members of the Sangguniang Panlungsod, authorize the city mayor to negotiate and contract loans and other forms of indebtedness;
+
+(iv)Subject to the provisions of Book II of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Panlungsod, enact ordinances authorizing the floating of bonds or other instruments of indebtedness, for the purpose of raising funds to finance development projects;
+
+(v) Enact an ordinance that appropriate funds for the construction and maintenance or the rental of buildings for the use of the city; and, upon the majority vote of all the members of the Sangguniang Panlungsod, authorize the city mayor to lease to private parties such public buildings held in a proprietary capacity, subject to existing laws, rules and regulations;
+
+(vi)Prescribe reasonable limits and restraints on the use of property within the jurisdiction and enact an ordinance that would regulate and/or restraints the use of property within the jurisdiction of the municipality;
+
+(vii)Adopt a comprehensive land use plan for the city: Provided, that in the case of component cities, the formulation, adoption or modification of said plan shall be in coordination with the approved provincial and regional comprehensive land use plan;
+
+(viii)Reclassify land within the jurisdiction of the city, subject to the pertinent provisions of this Code;
+
+(ix)Enact integrated zoning ordinances in consonance with the approved comprehensive land use plan, subject to existing laws, rules and regulations; establish fire limits or zones, particularly in populous centers; and regulate the construction, repair or modification of buildings within said fire limits or zones in accordance with the provisions of the Fire Code;
+
+(x) Subject to regional law and national law, process and approve subdivision plans for residential, commercial, or industrial purposes and other development purposes, and collect processing fees and other charges, the proceeds of which shall accrue entirely to the city: Provided, however, That where approval of a national agency or office is required, said approval shall not be withheld for more than thirty (30) days from receipt of the application. Failure to act on the application within the period stated above shall be deemed as approval thereof;
+
+(xi)Subject to the provisions of Book II of this Code, grant the exclusive privilege of constructing fish corrals or fish pens, or the taking or catching of bangus fry, prawn fry or kawag-kawag, or fry of any species or fish within the city waters;
+
+(xii)With the concurrence of at least two-thirds (2/3) of all the members of the Sangguniang Panlungsod, grant tax exemptions, incentives or reliefs to entities engaged in community growth-inducing industries, subject to the provisions of this Code;
+
+(xiii)Grant loans or provide grants to other local government units or to national, provincial, and city charitable, benevolent or educational institutions: Provided, That, said institutions are operated and maintained within the city;
+
+(xiv)Enact an ordinance that will regulate the numbering of residential, commercial and other buildings; and
+
+(xv)Regulate the inspection, weighing and measuring of articles of commerce.
+
+(3) Subject to the provisions of Book II of this Code, enact ordinances granting franchises and authorizing the issuance of permits or licenses, upon such conditions and for such purposes intended to promote the general welfare of the inhabitants of the city and pursuant to this legislative authority shall:
+
+(i) Enact an ordinance that will fix and impose reasonable fees and charges for all services rendered by the city government to private persons or entities;
+
+(ii)Enact an ordinance that will regulate or fix license fees for any business or practice of profession within the city and the conditions under which the license for said business or practice of profession may be revoked and enact ordinances levying taxes thereon;
+
+(iii)Provide for and set the terms and conditions under which public utilities owned by the city shall be operated by the city government, and prescribe the conditions under which the same may be leased to private persons or entities, preferably cooperatives;
+
+(iv) Enact an ordinance that will regulate and / or prohibit the display of and fix the license fees for signs, signboards, or billboards at the place or places where the profession or business advertised thereby is, in whole or in part, conducted;
+
+(v)Any law to the contrary notwithstanding, authorize and/ or regulate the issuance of license to the establishment, operation, and maintenance of cockpits, and regulate cockfighting and commercial breeding of gamecocks: Provided, that existing rights should not be prejudiced;
+
+(v)Subject to the guidelines prescribed by the Department of Transportation and Communications, regulate the operation of tricycles and grant franchises for the operation thereof within the territorial jurisdiction of the city;
+
+(vii)Upon approval by a majority vote of all the members of the Sangguniang Panlungsod: grant a franchise to any person, partnership, corporation, or cooperative to do business within the city; establish, construct, operate and maintain ferries, wharves, markets or slaughterhouses; or undertake such other similar activities within the city as may be allowed by existing laws: Provided, That, cooperatives shall be given preference in the grant of such a franchise.
+
+(4) Enact ordinances that will regulate activities relative to the use of land, buildings and structures within the city in order to promote the general welfare and for said purpose shall:
+
+(i)Declare, prevent or abate any nuisance;
+
+(ii)Enact ordinances that will require that buildings and the premises thereof and any land within the city be kept and maintained in a sanitary condition; impose penalties for any violation thereof; or, upon failure to comply with said requirement, have the work done at the expense of the owner, administrator or tenant concerned; or require the filling up of any land or premises to a grade necessary for proper sanitation;
+
+(iii)Regulate the disposal of clinical and other wastes from hospitals, clinics and other similar establishments;
+
+(iv) Enact ordinances that will prohibit and/ or regulate the establishment, operation and cafes, restaurants, beerhouses, hotels, motels, inns, pension houses, lodging houses, and other similar establishments, including tourist guides and transports;
+
+(iv) Enact ordinances that prohibits and/ or regulate the sale, giving away or dispensing of any intoxicating malt, vino, mixed or fermented liquors at any retail outlet;
+
+(vi) Regulate the establishment and provide for the inspection of steam boilers or any heating device in buildings and the storage of inflammable and highly combustible materials within the city;
+
+(vi) Enact ordinances that prohibit or regulate the establishment, operation, and maintenance of any entertainment or amusement facilities, including theatrical performances, circuses, billiard pools, public dancing schools, public dance halls, sauna baths, massage parlors, and other places for entertainment or amusement; regulate such other events or activities for amusement or entertainment, particularly those which tend to disturb the community or annoy the inhabitants, or require the suspension or suppression of the same; or, prohibit certain forms of amusement or entertainment in order to protect the social and moral welfare of the community;
+
+(viii)Provide for the place of impounding stray animals; regulate the keeping of animals in homes or as part of a business, and the slaughter, sale or disposition of the same; and adopt measures to prevent and penalize cruelty to animals; and
+
+(ix)Regulate the establishment, operation and maintenance of funeral parlors and the burial or cremation of the dead, subject to existing laws, rules and regulations.
+
+(5) Enact and approve ordinances which shall ensure the efficient and effective delivery of the basic services and facilities as provided for under Section 17 of this Code, and in addition to said services and facilities, shall:
+
+(i)Provide for the establishment, maintenance, protection, rehabilitation and conservation of communal forests, and watersheds, tree parks, greenbelts, mangroves, and other similar forest development projects;
+
+(ii)Establish and regulate markets, slaughterhouses or animal corrals and authorize the operation thereof by the city government; and regulate the construction and operation of private markets, talipapas or other similar buildings and structures;
+
+(iii)Authorize the establishment, maintenance and operation by the city government of ferries, wharves, and other structures intended to accelerate productivity related to marine and seashore or offshore activities;
+
+(iv)Regulate the preparation and sale of meat, poultry, fish, vegetables, fruits, fresh dairy products, and other foodstuffs for public consumption;
+
+(iv)Regulate the use of streets, avenues, alleys, sidewalks, bridges, parks and other public places and approve the construction, improvement, repair and maintenance of the same; establish bus and vehicle stops and terminals or regulate the use of the same by privately-owned vehicles which serve the public; regulate garages and the operation of conveyances for hire; designate stands to be occupied by public vehicles when not in use; regulate the putting up of signs, signboards, awnings and awning posts on the streets; and provide for the lighting, cleaning and sprinkling of streets and public places;
+
+(v)Regulate traffic on all streets and bridges; prohibit encroachments or obstacles thereon and, when necessary in the interest of public welfare, authorize the removal of encroachments and illegal constructions in public places;
+
+(vii)Subject to existing laws, establish and provide for the maintenance, repair and operation of an efficient waterworks system to supply water for the inhabitants and to purify the source of the water supply; regulate the construction, maintenance, repair and use of hydrants, pumps, cisterns and reservoirs; protect the purity and quantity of the water supply of the city and, for this purpose, extend the coverage of appropriate ordinances over all territory within the drainage area of said water supply and within one hundred (100) meters of the reservoir, conduit, canal, aqueduct, pumping station, or watershed used in connection with the water service; and regulate the consumption, use or wastage of water and fix and collect charges therefor;
+
+(viii)Regulate the drilling and excavation of the ground for the laying of water, gas, sewer, and other pipes and the construction, repair and maintenance of public drains, sewers, cesspools, tunnels and similar structures; regulate the placing of poles and the use of crosswalks, curbs, and gutters; adopt measures to ensure public safety against open canals, manholes, live wires and other similar hazards to life and property; and regulate the construction and use of private water closets, privies and other similar structures in buildings and homes;
+
+(ix)Regulate the placing, stringing, attaching, installing, repair and construction of all gas mains, electric, telegraph and telephone wires, conduits, meters and other apparatus; and provide for the correction, condemnation or removal of the same when found to be dangerous, defective, or otherwise hazardous to the welfare of the inhabitants;
+
+(x)Subject to the availability of funds and to existing laws, rules and regulations, establish and provide for the operation of vocational and technical schools and similar post-Secondary institutions and, with the approval of the Ministry of Basic, Higher, and Technical Education and subject to existing law on tuition fees, fix and collect reasonable tuition fees and other school charges in educational institutions supported by the city government;
+
+(xi)Establish a scholarship fund for the poor but deserving students in schools located within its jurisdiction or for students residing within the city;
+
+(xii)Approve measures and adopt quarantine regulations to prevent the introduction and spread of diseases;
+
+(xiii)Provide for an efficient and effective system of solid waste and garbage collection and disposal; prohibit littering and the placing or throwing of garbage, refuse and other filth and wastes;
+
+(xiv)Provide for the care and support to disabled persons, paupers, the aged, the sick, persons of unsound mind, abandoned minors, juvenile delinquents, drug dependents, abused children and other needy and disadvantaged persons, particularly children and youth below eighteen (18) years of age; and, subject to availability of funds, establish and provide for the operation of centers and facilities for said needy and disadvantaged persons;
+
+(xv)Establish and provide for the maintenance and improvement of jails and detention centers, institute a sound jail management, and appropriate funds for the subsistence of detainees and convicted prisoners in the city;
+
+(xvi)Establish a City council whose purpose is the promotion of culture and the arts, coordinate with government agencies and non-governmental organizations and, subject to the availability of funds, appropriate funds for the support and development of the same; and
+
+(xvii)Establish a City council for the elderly which shall formulate policies and adopt measures mutually beneficial to the elderly and to the community; provide incentives for non-governmental agencies and entities and, subject to the availability of funds, appropriate funds to support programs and projects for the benefit of the elderly; and
+
+(6) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(b)The members of the Sangguniang Panlungsod of component cities shall receive a minimum monthly compensation corresponding to Salary Grade twenty-five (25) and members of the Sangguniang Panlungsod of highly-urbanized cities shall receive a minimum monthly compensation corresponding to Salary Grade twenty-seven (27), as prescribed under R.A. 6758 and the implementing guidelines issued pursuant thereto.
+
+***
+
+¹⁰⁰ Republic act no. 9009, increases the average annual income requirement for a municipality or cluster of barangays to be converted into a component city.
+¹⁰¹ Creation of new office necessarily carries with it the allocation of funds for its necessary expenses.
+¹⁰² This is to promote localized hiring.
+¹⁰³ Suggested by the participants during the consultation because accordingly, after the calamity, the victims are left with no more assistance from LGUs. They are just depending on the help of NGOs.
+¹⁰⁴ This is in accordance with the power of supervision of the chief minister over LGUs to ensure that are LGUs acting within their authority. It is also an avenue to strengthen the coordination of constituent LGUs and the regional government.
+¹⁰⁵ This is an exercise of power of supervision by the chief minister over constituent LGU to ensure that they acted within their powers and to monitor their activity as well in their respective jurisdiction. It also increases the coordination of LGU and the regional government.
+¹⁰⁶ Suggested by a participant during the consultation to ensure that the funds of BARMM should circulate within the BARMM and to create more employment within the BARMM.
+¹⁰⁷ We regulate the privilege of local chief executives to carry firearms so that we can establish a community free from firearms and create an impression of peaceful and safe community.
+¹⁰⁸ R.A 8371 (IPRA LAW) ensures that the ICCs/IPs shall be given mandatory representation in policy- making bodies and other local legislative councils
+
+**TITLE IV**
+**PARLIAMENTARY DISTRICT**
+
+**SECTION 472. Redistricting for Parliamentary Membership.** - The parliament may undertake by law the new redistricting in order to ensure a more equitable representation of the constituent in the parliament¹⁰⁹.
+
+**SECTION 473. Manner of Creation.** - The parliament shall have power to reconstitute by law the parliamentary district apportioned among provinces, cities, municipalities, and geographical areas of Bangsamoro autonomous region to ensure equitable representation in the parliament.
+
+**SECTION 474. Requisites for the Creation.** - The redistricting of province, cities and municipalities may be made on the following conditions:
+
+(a) that each district shall be comprised, as far as practicable, of contiguous, compact, and adjacent territories; and
+
+(b) that each district shall have a population of at least One Hundred Thousand (100,000)¹¹⁰.
+
+**TITLE V**
+**LEGISLATIVE DISTRICT**
+
+**SECTION 475. Creation of Legislative District.** - Nothing in this Code shall be construed to allow the Bangsamoro government to create a legislative district.¹¹¹
+
+**SECTION 476. Procedure in Creating Legislative District.** - When an act requires the creation of legislative district, the Bangsamoro government shall cooperate and coordinate with the national government through the Philippine Congress- Bangsamoro Parliament forum to prioritize the deliberation on the creation of a legislative district¹¹².
+
+**TITLE VI**
+**THE PROVINCE**
+
+**CHAPTER I**
+**Role and Creation of the Province**
+
+**SECTION 477. Role of the Province.** - The province, composed of a cluster of municipalities, or municipalities and component cities, and as a political and corporate unit of government, serves as a dynamic mechanism for developmental processes and effective governance of local government units within its territorial jurisdiction.
+
+**SECTION 478. Manner of Creation.** - A province may be created, divided, merged, abolished, or its boundary substantially altered, only by an Act of Congress and subject to approval by a majority of the votes cast in a plebiscite to be conducted by the Comelec in the local government unit or units directly affected. The plebiscite shall be held within one hundred twenty (120) days from the date of effectivity of said Act, unless otherwise provided therein.
+
+**SECTION 479. Requisites for Creation.** - (a) A province may be created if it has a locally generated annual income for the last two consecutive years, as certified by the Department of Finance, of not less than P200 million and either of the following requisites¹¹³:
+
+(1) a contiguous territory of at least two thousand (2,000) square kilometers, as certified by the Land Management Bureau; or
+
+(2) a population of not less than two hundred fifty thousand (250,000) inhabitants as certified by the Philippine Statistics Authority;
+
+Provided, that the creation thereof shall not reduce the land area, population and income of the original unit or units at the time of said creation to less than the minimum requirements prescribed herein.
+
+(b) The territory need not be contiguous if it comprises two (2) or more islands or is separated by a chartered city or cities which do not contribute to the income of the province.
+
+(c) The average annual income shall include the income accruing to the general fund, exclusive of special funds, trust funds, transfers, and non-recurring income.
+
+**CHAPTER II**
+**Provincial Officials in General**
+
+**SECTION 480. Officials of the Provincial Government.** - (a) There shall be in each province a governor, a vice-governor, members of the Sangguniang Panlalawigan, a Secretary to the Sangguniang Panlalawigan, a provincial treasurer, a provincial assessor, a provincial accountant, a provincial engineer, a provincial budget officer, a provincial planning and development coordinator, a provincial legal officer, a provincial administrator, a provincial health officer, a provincial social welfare and development officer, a provincial general services officer, a provincial agriculturist, and a provincial veterinarian.
+
+The Provincial government must also appoint the following officer and provide office space, administrative support and allocate funding thereof, to wit: Provincial Local Disaster Risk and Reduction Management Officer; Provincial Local Economic Investment Promotion officer; Provincial Tourism Office; Environmental officer; Provincial Information and Communication Technology Officer; Provincial Community-Based Training for Enterprise Development.
+
+The minimum qualification of the applicant for the above position are the following to wit:
+a. Must be a college a graduate of any relevant course;
+b. Must have at least 60 hours of training relevant to the position he/she wish to apply;
+c. Holder of second level eligibility or its equivalent;
+d. Must be a resident of the Province where he/she may be assigned.
+
+The officer/s appointed to the above position must enjoy all rights, protection and privileges enjoyed by a regular employee of the said Province.
+
+(b) In addition, thereto, the governor may appoint a provincial population officer, a provincial natural resources and environment officer, a provincial cooperative officer, a provincial architect, and a provincial information officer.
+
+The appointment of a provincial population officer shall be optional in the province: Provided, however, that provinces which have existing population offices shall continue to maintain such offices for a period of five (5) years from the date of the effectivity of this Code, after which said offices shall become optional.
+
+(c) In the appointment of provincial employees especially on career positions, preference shall be given to qualified residents of the province.
+
+(d) The Sangguniang Panlalawigan may:
+
+(1) Maintain existing offices not mentioned in subsections (a) and (b) hereof;
+
+(2) Create such other offices as may be necessary to carry out the purposes of the provincial government; or
+
+(3) Consolidate the functions of any office with those of another in the interest of efficiency and economy;
+
+(e) Unless otherwise provided herein, heads of departments and offices shall be appointed by the governor with the concurrence of the majority of all the Sangguniang Panlalawigan members, subject to civil service law, rules and regulations. The Sangguniang Panlalawigan shall act on the appointment within fifteen (15) days from the date of its submission; otherwise the same shall be deemed confirmed;
+
+(f) Elective and appointive provincial officials shall receive such compensation, allowances, and other emoluments as may be determined by law or ordinance, subject to the budgetary limitations on personal services prescribed under Title Five, Book II of this Code: Provided, That, no increase in compensation shall take effect until after the expiration of the full term of all the elective officials approving such increase.
+
+**SECTION 481. Residence and Office.** - During the incumbency of the governor, he shall have his official residence in the capital of the province. All elective and appointive provincial officials shall hold office in the provincial capital: Provided, That, upon resolution of the Sangguniang Panlalawigan, elective and appointive provincial officials may hold office in any component city or municipality within the province for a period of not more than seven (7) days for any given month.
+
+**CHAPTER III**
+**Officials and Offices Common to All Provinces**
+**Article I - The Provincial Governor**
+
+**SECTION 482. The Chief Executive: Powers, Duties, Functions and Compensation.** - (a) The provincial governor, as the chief executive of the provincial government, shall exercise such powers and perform such duties and functions as provided by this Code and other laws.
+
+(b) For efficient, effective and economical governance the purpose of which is the general welfare of the province and its inhabitants pursuant to Section 16 of this Code, the provincial governor shall:
+
+(1) Exercise general supervision and control over all programs, projects, services, and activities of the provincial government, and in this connection, shall:
+
+(i) Formulate the guidelines of provincial policies and be responsible to the Sangguniang Panlalawigan for the program of government;
+
+(ii) Propose the formulation of the provincial development plan, with the assistance of the provincial development council, and upon approval thereof by the Sangguniang Panlalawigan, implement the same;
+
+(iii) Present the program of government and propose policies and projects for the consideration of the Sangguniang Panlalawigan at the opening of the regular session of the Sangguniang Panlalawigan every calendar year and as often as may be deemed necessary as the general welfare of the inhabitants and the needs of the provincial government may require;
+
+(iv) Initiate and propose legislative measures to the Sangguniang Panlalawigan and as often as may be deemed necessary, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions;
+
+(v) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of provincial funds and whose appointments are not otherwise provided for in this Code, as well as those he may be authorized by law to appoint;
+(vi) Represent the province in all its business transactions and sign in its behalf all bonds, contracts, and obligations, and such other documents upon authority of the Sangguniang Panlalawigan or pursuant to law or ordinance;
+
+(vii) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities as well as assist those affected in returning to normal life by giving them livelihood, and social and psychological support or programs;
+
+(viii) Determine the time, manner and place of payment of salaries or wages of the officials and employees of the province, in accordance with law or ordinance;
+
+(ix) Allocate and assign office space to provincial and other officials and employees who, by law or ordinance, are entitled to such space in the provincial capitol and other buildings owned or leased by the provincial government;
+
+(x) Ensure that all executive officials and employees of the province faithfully discharge their duties and functions as provided by law and this Code, and cause to be instituted administrative or judicial proceedings against any official or employee of the province who may have committed an offense in the performance of his official duties;
+
+(xi) Examine the books, records and other documents of all offices, officials, agents or employees of the province and, in aid of his executive powers and authority, require all national officials and employees stationed in the province to make available to him such books, records, and other documents in their custody, except those classified by law as confidential;
+
+(xii) Furnish copies of executive orders issued by him/her to the Office of the Chief Minister through the Ministry of Interior and Local Government within seventy-two (72) hours after issuance;
+
+(xiii) Must visit component cities and municipalities of the province at once a month and consider such visit an outreach program for Delivering Basic Services to Municipalities and to deepen his/her understanding on problems or conditions therein. He/She may also conduct ulat sa Bayan for each municipality or cluster of municipalities to inform the municipal officials and inhabitants of general laws and ordinances which especially concern them, listen and give appropriate counsel to local officials or inhabitants, featuring achievement of Municipalities concern and the provincial government, financial reporting, recognition of local innovations, good practices and present the proposed comprehensive land used plan.
+
+(xiv) Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of leave credits in accordance with law;
+
+(xv) Authorize official trips of provincial officials and employees outside of the province for a period not exceeding thirty (30) days;
+
+(xvi) Call upon any national official or employee stationed in or assigned to the province to advise him on matters affecting the province and to make recommendations thereon; coordinate with said official or employee in the formulation and implementation of plans, programs and projects; and when appropriate, initiate an administrative or judicial action against a national government official or employee who may have committed an offense in the performance of his official duties while stationed in or assigned to the province;
+
+(xvii) Authorize payment for medical care, necessary transportation, subsistence, hospital or medical fees of provincial officials and employees who are injuredwhile in the performance of their official duties and functions, subject to availability of funds;
+
+(xviii) Represent the province in inter-provincial or regional sports councils or committees, and coordinate the efforts of component cities or municipalities in the regional or national palaro or sports development activities;
+
+(xix) Conduct an annual palarong panlalawigan, which shall feature traditional sports and disciplines included in national and international games, in coordination with the Ministry of Basic, Higher, and Technical Education; and
+
+(xx) Submit to the Office of the Chief Minister through the Ministry of Interior and Local Government the following reports: an annual report containing a summary of all matters pertinent to the management, administration and development of the province and all information and data relative to its political, social and economic conditions; and supplemental reports when unexpected events and situations arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the province, region or country;
+
+(2) Enforce all laws and ordinances relative to the governance of the province and the exercise of the appropriate corporate powers provided under this Code, implement all approved policies, programs, projects, services and activities of the province and, in addition to the foregoing, shall:
+
+(i) Ensure that the acts of the component cities and municipalities of the province and of its officials and employees are within the scope of their prescribed powers, duties and functions;
+
+(ii) Call conventions, conferences, seminars, or meetings of any elective and appointive officials of the province and its component cities and municipalities, including national officials and employees stationed in or assigned to the province, at such time and place and on such subject as he may deem important for the promotion of the general welfare of the province and its inhabitants;
+
+All conventions, seminars, conferences or meetings funded by local government unit concerned must be held within the territorial jurisdiction of the municipality or, if not available, in any nearest establishments within the Bangsamoro Autonomous Region in Muslim Mindanao or, for justifiable reason, outside of BARMM upon approval of the Ministry of Interior and Local Government;
+
+(iii) Issue such executive orders for the faithful and appropriate enforcement and execution of laws and ordinances;
+
+(iv) Whenever necessary, be entitled to carry one short firearm within his/her territorial jurisdiction, subject to the existing laws and regulations;
+
+(v) In coordination with the mayors of component cities and municipalities and the National Police Commission, formulate the peace and order plan of the province and upon its approval, implement the same in accordance with R.A. No. 6975;
+
+(vi) Call upon the appropriate national law enforcement agencies to suppress disorder, riot, lawless violence, rebellion or sedition or to apprehend violators of the law when public interest so requires and the police forces of the component city or municipality where the disorder or violation is happening are inadequate to cope with the situation or the violators; and
+
+(vii) Establish a Local Council for the Protection of Children;
+
+(viii) Establish the Provincial Youth Development Council which shall assist the planning and execution of projects and programs of the Sangguniang Kabataan, and the Pederasyons in all levels.
+
+(3) Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities as provided for under this Code, particularly those resources and revenues programmed for agro-industrial development and country-wide growth and progress and, relative thereto, shall:
+
+(i)Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the budget preparation process under this Code;
+
+(ii)Prepare and submit to the sanggunian for approval the executive and supplemental budgets of the province for the ensuing calendar year in the manner provided for under this Code;
+
+(iii)Ensure that all taxes and other revenues of the province are collected, and that provincial funds are applied to the payment of expenses and settlement of obligations of the province, in accordance with law or ordinance;
+
+(iv)Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance;
+
+(v)Adopt adequate measures to safeguard and conserve land, mineral, marine, forest and other resources of the province, in coordination with the mayors of component cities and municipalities;
+
+(vi)Provide efficient and effective property and supply management in the province; and protect the funds, credits, rights, and other properties of the province; and;
+
+(vii)Institute or cause to be instituted administrative or judicial proceedings for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the province to be defended against all suits to ensure that its interests, resources and rights shall be adequately protected.
+
+(4) The province must ensure the delivery of basic services provided under section 17 of this Code such as:
+
+(i) **AGRICULTURAL SERVICES:** which include:¹¹⁴the prevention and control of the plant and animal pests and disease; dairy farms, livestock markets, animal breeding stations, and artificial insemination centers; and assistance in the organization of framer’s and fishermen’s cooperatives and other collective organizations, as well as the transfer of appropriate technology; Industrial research and development services, as well as the transfer of appropriate technology;
+
+(ii) **ENVIRONMENTAL SERVICES:** Pursuant to national policies and subject to supervision, control and review of the Ministry of Environment, Natural Resources and Energy , enforcement of forestry laws limited to community-based forestry projects, pollution control law, small-scale mining law, and other laws on the protection of the environment; and mini-hydroelectric projects for local purposes;
+
+(iii) **HEALTH SERVICES:** which include: Construction and maintenance of district hospitals, provincials’ hospitals and other tertiary health services;
+
+(iv) **SOCIAL SERVICES:** which include, programs and projects on rebel returnees and evacuees; relief operations; and, population development services;
+(v) **PUBLIC WORKS/OR CONSTRUCTION OF THE FOLLOWING**, to wit: Provincial buildings, provincial jails, freedom parks and other public assembly areas and other similar facilities;
+
+(vii) Infrastructure Facilities intended to service the needs of the resident of the province and which are funded out of provincial funds including , but not limited to, provincial roads and bridges ; inter-municipal waterworks drainage and sewerage , flood control , and irrigation systems; reclamation projects; and similar facilities;
+
+(viii) Programs and Project for low-cost housing and other mass dwellings , except those funded by the Social Security System (SSS) , Government Service Insurance System (GSIS) , and the Home Development Mutual Fund (HDMF): Provided, That national funds for these program and projects shall be equitably allocated among the regions in proportion to the ratio of the homeless to the population;
+
+(ix) Investment support services, including access to credit financing;
+
+(x) Upgrading and modernization of tax information and collection services through the use of computer hardware and software and other means;
+
+(xi) Inter-municipal telecommunication services , subject to national policy guidelines; and
+
+(xii) Tourism development and promotion programs.
+
+and in addition, thereto, shall:
+
+(xii.i) ensure that all construction or repair of roads and bridges funded by national government or BARMM as far as practicable, be carried out in spatially contiguous manner and in coordination with the LGU where the project is actually located.
+
+(xii.ii) There must be coordination in the implementation of technical services by BARMM or national offices for the province and its component cities and municipalities, including public works and infrastructure programs of the provincial government and its component cities and municipalities;
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(c)The provincial governor shall receive a minimum monthly compensation corresponding to Salary Grade thirty (30) prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article II - The Provincial Vice-Governor**
+
+**SECTION 483. Powers, Duties and Compensation.** - (a) The vice- governor shall:
+
+(1) Be the presiding officer of the Sangguniang Panlalawigan and sign all warrants drawn on the provincial treasury for all expenditures appropriated for the operation of the Sangguniang Panlalawigan;
+
+(2) Subject to civil service law, rules and regulations, appoint all officials and employees of the Sangguniang Panlalawigan, except those whose manner of appointment is specifically provided in this Code;
+
+(3) Assume the office of the governor for the unexpired term of the latter in the event of permanent vacancy as provided for in this Code;
+
+(4) Exercise the powers and perform the duties and functions of the governor in cases of temporary vacancy as provided for in this Code; and
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(b) The vice-governor shall receive a monthly compensation corresponding to Salary Grade twenty-eight (28) as prescribed under R.A. No. 6758 and the implementing guidelines issued pursuant thereto.
+
+**Article III - The Sangguniang Panlalawigan**
+
+**SECTION 484. Composition.** - (a) The Sangguniang Panlalawigan, the legislative body of the province, shall be composed of the provincial vice-governor as presiding officer, the regular sanggunian members, the president of the provincial chapter of the liga ng mga Barangay, the president of the panlalawigang pederasyon ng mga Sangguniang Kabataan, the president of the provincial federation of sanggunian members of municipalities and component cities, and the Sectoral representatives, as members.
+
+(b)In addition thereto, there shall be three (3) Sectoral representatives: one (1) from the women; and as shall be determined by the sanggunian concerned within ninety (90) days prior to the holding of the local elections, one (1) from the agricultural or industrial workers; and one (1) from the other Sectors, including the urban poor, indigenous cultural communities, or disabled persons.
+(c)The regular members of the Sangguniang Panlalawigan and the Sectoral representatives shall be elected in the manner as may be provided for by law.
+
+**SECTION 485. Powers, Duties, Functions and Compensation.** - (a) The Sangguniang Panlalawigan, as the legislative body of the province, shall enact ordinances, approve resolutions and appropriate funds for the general welfare of the province and its inhabitants and shall:
+
+(1) Approve ordinances and pass resolutions necessary for an efficient and effective provincial government and, in this connection, shall:
+
+(i)Review all ordinances approved by the sanggunians of component cities and municipalities and executive orders issued by the mayors of said component units to determine whether these are within the scope of the prescribed powers of the sanggunian and of the mayor;
+
+(ii)Maintain peace and order by enacting an ordinance or measures to prevent and suppress lawlessness, disorder, riot, violence, rebellion or sedition and impose penalties for the violation of said ordinances;
+
+(iii)Approve ordinances imposing a fine not exceeding Five thousand pesos (P5,000.00) or imprisonment not exceeding one(1) year, or both in the discretion of the court, for the violation of a provincial ordinance;
+
+(iv) Enact and adopt measures or comprehensive plan to protect the inhabitants of the province from the harmful effects of man-made or natural disasters and calamities, and to provide relief services and assistance for victims during and in the aftermath of said disasters and calamities and their return to productive livelihood following said events;
+
+(v)Enact and approve ordinances intended to prevent, suppress and impose appropriate penalties for habitual drunkenness in public places, vagrancy, mendicancy, prostitution, establishment and maintenance of houses of ill repute, gambling and other prohibited games of chance, fraudulent devices and ways to obtain money or property, drug addiction, maintenance of drug dens, drug pushing, juvenile delinquency, the printing, distribution or exhibition of obscene or pornographic materials or publications, and such other activities inimical to the welfare and morals of the inhabitants of the province;
+
+(vi) Enact and approve ordinances that will protect and rehabilitate the environment and impose appropriate penalties for acts which endanger the environment, such as dynamite fishing and other forms of destructive fishing, illegal logging and smuggling of logs, smuggling of natural resources products and of endangered species of flora and fauna, slash and burn farming, and such other activities which result in pollution, acceleration of eutrophication of rivers and lakes, or of ecological imbalance;
+
+(vii)Subject to the provisions of this Code and pertinent laws, determine the powers and duties of officials and employees of the province;
+
+(viii)Determine the positions and the salaries, wages, allowances and other emoluments and benefits of officials and employees paid wholly or mainly from provincial funds and provide for expenditures necessary for the proper conduct of programs, projects, services, and activities of the provincial government;
+
+(ix)Authorize the payment of compensation to a qualified person not in the government service who fills up a temporary vacancy, or grant honorarium to any qualified official or employee designated to fill a temporary vacancy in a concurrent capacity, at the rate authorized by law;
+
+(x)Provide a mechanism and the appropriate funds therefor, to ensure the safety and protection of all provincial government property, public documents, or records such as those relating to property inventory, land ownership, records of births, marriages, deaths, assessments, taxation, accounts, business permits, and such other records and documents of public interest in the offices and departments of the provincial government; and
+
+(xi)When the finances of the provincial government allow, provide for additional allowances and other benefits to judges, prosecutors, public elementary and high school teachers, and other national government officials stationed or assigned to the province.
+
+(2) Generate and maximize the use of resources and revenues for the development plans, program objectives and priorities of the province as provided for under Section 18 of this Code, with particular attention to agro-industrial development and country-wide growth and progress and relative thereto, shall:
+
+(i)Enact the annual and supplemental appropriations of the provincial government and appropriate funds for specific programs, projects, services and activities of the province, or for other purposes not contrary to law, in order to promote the general welfare of the province and its inhabitants;
+
+(ii)Subject to the provisions of Book II of this Code, Bangsamoro Organic Law and applicable laws and upon the majority vote of all the members of the Sangguniang Panlalawigan, enact ordinances levying taxes, fees and charges, prescribing the rates thereof for general and specific purposes, and granting tax exemptions, incentives or reliefs;
+
+(iii)Subject to the provisions of Book II of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Panlalawigan, authorize the provincial governor to negotiate and contract loans and other forms of indebtedness;
+
+(iv)Subject to the provisions of Book II of this Code and applicable laws and upon the majority vote of all the members of the Sangguniang Panlalawigan, enact ordinances authorizing the floating of bonds or other instruments of indebtedness, for the purpose of raising funds to finance development projects;
+
+(v) Enact and appropriate ordinances that would appropriate funds for the construction and maintenance or the rental of buildings for the use of the province; and upon the majority vote of all the members of the Sangguniang Panlalawigan, authorize the provincial governor to lease to private parties such public buildings held in a proprietary capacity, subject to existing laws, rules and regulations;
+
+(vi) Enact and approve an ordinance that would regulate or prohibit the use of property within the jurisdiction of the province;
+
+(vii)Review the comprehensive land use plans and zoning ordinances of component cities and municipalities and adopt a comprehensive provincial land use plan that would align to the comprehensive land use plan of the Bangsamoro Autonomous Region in Muslim Mindanao, subject to existing laws;
+
+(3) Adopt measures to enhance the full implementation of the national agrarian reform program in coordination with the Department of Agrarian Reform;
+
+(4) Subject to the provisions of Book II of this Code and the Bangsamoro Organic Law, grant franchises, approve the issuance of permits or licenses, or enact ordinances levying taxes, fees and charges upon such conditions and for such purposes intended to promote the general welfare of the inhabitants of the province, and pursuant to this legislative authority, shall:
+
+(i)Fix and impose reasonable fees and charges for all services rendered by the provincial government to private persons or entities; and
+
+(ii)Regulate and fix the license fees for such activities as provided for under this Code.
+
+(5) Enact and approve ordinances which shall ensure the efficient and effective delivery of the basic services and facilities as provided for under Section 17 of this Code, and, in addition to said services and facilities, shall:
+
+(i)Enact and approve ordinances that safeguards against pollution and for the preservation of the natural ecosystem in the province, in consonance with approved standards on human settlements and environmental sanitation;
+
+(ii)Subject to applicable laws, facilitate or provide for the establishment and maintenance of a waterworks system or district waterworks for supplying water to inhabitants of component cities and municipalities;
+
+(iii)Subject to the availability of funds and to existing laws, rules and regulations, provide for the establishment and operation of vocational and technical schools and similar post-Secondary institutions; and, with the approval of the Ministry of Basic, Higher, and Technical Education and subject to existing laws on tuition fees, fix reasonable tuition fees and other school charges in educational institutions supported by the provincial government;
+
+(iv)Establish a scholarship fund for the poor but deserving students in schools located within its jurisdiction or for students residing within the province;
+
+(v) Enact and approve ordinances or other quarantine regulations to prevent the introduction and spread of diseases within its territorial jurisdiction;
+
+(vi)Provide for the care and support for the paupers, the aged, the sick, persons of unsound mind, abandoned minors, abused children, disabled persons, juvenile delinquents, rehabilitation for drug dependents, and other needy and disadvantaged persons, particularly children and youth below eighteen (18) years of age; subject to availability of funds, establish and support the operation of centers and facilities for said needy and disadvantaged persons; and facilitate efforts to promote the welfare of families below the poverty threshold, the disadvantaged, and the exploited;
+
+(vii)Establish and provide for the maintenance and improvement of jails and detention centers, institute a sound jail management program, and appropriate funds for the subsistence of detainees and convicted prisoners in the province;
+
+(viii)Establish a provincial council whose purpose is the promotion of culture and the arts, coordinate with government agencies and non-governmental organizations and, subject to the availability of funds, appropriate funds for the support and development of the same;
+
+(ix)Establish a provincial council for the elderly which shall formulate policies and adopt measures mutually beneficial to the elderly and to the province; and subject to the availability of funds, appropriate funds to support programs and projects for the elderly; and provide incentives for non- governmental agencies and entities to support the programs and projects of the elderly; and
+(x)Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(b) The members of the Sangguniang Panlalawigan shall receive a minimum monthly compensation corresponding to Salary Grade twenty-seven (27) as prescribed under R.A. 6758 and the implementing guidelines issued pursuant thereto.
+
+***
+
+¹⁰⁹ art. 7. Sec. 10 of BOL empower the parliament to create parliamentary district.
+¹¹⁰ art. 7. Sec. 10. Par. 2. Of BOL provides for the requisites for creation of parliamentary district.
+¹¹¹ art. 6. Sec. 10. par. 4. Of BOL provides that only congress can create legislative district.
+¹¹² Art. 6. Sec. 10. Par.3 of BOL which provide manner for creation of legislative district.
+¹¹³ House Bill 6177 which seeks to rationalize the creation of municipalities, highly urbanized cities, and provinces.
+¹¹⁴ We have defined further the basic services under section 17 of this code.
+
+**TITLE VII**
+**APPOINTIVE LOCAL OFFICIALS COMMON TO ALL MUNICIPALITIES, CITIES AND PROVINCES**
+
+**Article I - Secretary to the Sanggunian**
+
+**SECTION 486. Qualifications, Powers and Duties.** - (a) There shall be a Secretary to the sanggunian who shall be a career official with the rank and salary equal to a head of department or office.
+
+(b )No person shall be appointed Secretary to the sanggunian unless he is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in law, commerce or public administration from a recognized college or university, and a first grade civil service eligible or its equivalent.
+
+The appointment of a Secretary to the sanggunian is mandatory for provincial, city and municipal governments.
+
+(c) The Secretary to the sanggunian shall take charge of the office of the Secretary to the sanggunian and shall:
+
+(1) Attend meetings of the sanggunian and keep a journal of its proceedings;
+
+(2) Keep the seal of the local government unit and affix the same with his signature to all ordinances, resolutions, and other official acts of the sanggunian and present the same to the presiding officer for his signature;
+
+(3) Forward to the governor or mayor, as the case may be, for approval, copies of ordinances enacted by the sanggunian and duly certified by the presiding officer, in the manner provided in Section 54 under Book I of this Code;
+
+(4) Forward to the sanggunian panlungsod or bayan concerned, in the case of the Sangguniang Barangay, and to the Sangguniang Panlalawigan concerned, in the case of the Sangguniang Panlungsod of component cities or Sangguniang Bayan, copies of duly approved ordinances, in the manner provided in Sections 56 and 57 under Book I of this Code;
+
+(5) Furnish, upon request of any interested party, certified copies of records of public character in his custody, upon payment to the treasurer of such fees as may be prescribed by ordinance;
+
+(6) Record in a book kept for the purpose, all ordinances and resolutions enacted or adopted by the sanggunian, with the dates of passage and publication thereof;
+
+(7) Keep his office and all non-confidential records therein open to the public during the usual business hours;
+
+(8) Translate into the dialect used by the majority of the inhabitants all ordinances and resolutions immediately after their approval, and cause the publication of the same together with the original version in the manner provided under this Code; and
+
+(9) Take custody of the local archives and, where applicable, the local library and annually account for the same; and
+
+(d) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance relative to his position.
+
+**Article II - The Treasurer**
+
+**SECTION 487. Appointment, Qualifications, Powers and Duties.** - (a) The treasurer shall be appointed by the Secretary of Finance from a list of at least three (3) ranking, eligible recommended by (of) the governor or mayor, as the case may be, subject to civil service law, rules and regulations.
+
+(b) The treasurer shall be under the administrative supervision of the governor or mayor, as the case may be, to whom he shall report regularly on the tax collection efforts in the local government unit;
+
+(c) No person shall be appointed treasurer unless he is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in commerce, public administration or law from a recognized college or university, and a first grade civil service eligible or its equivalent. He must have acquired experience in treasury or accounting service for at least five (5) years in the case of the city or provincial treasurer, and three (3) years in the case of the municipal treasurer.
+
+The appointment of a treasurer shall be mandatory for provincial, city and municipal governments.
+
+(d) The treasurer shall take charge of the treasury office, perform the duties provided for under Book II of this Code, and shall:
+
+(1) Advise the governor or mayor, as the case may be, the sanggunian, and other local government and national officials concerned regarding disposition of local government funds, and on such other matters relative to public finance;
+
+(2) Take custody of and exercise proper management of the funds of the local government unit concerned;
+
+(3) Take charge of the disbursement of all local government funds and such other funds the custody of which may be entrusted to him by law or other competent authority;
+
+(4) Inspect private commercial and industrial establishments within the jurisdiction of the local government unit concerned in relation to the implementation of tax ordinances, pursuant to the provisions under Book II of this Code; and
+
+(5) Maintain and update the tax information system of the local government unit;
+
+(e) In the case of the provincial treasurer, exercise technical supervision over all treasury offices of component cities and municipalities; and
+
+(f) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 488. Assistant Treasurer.** - (a) An assistant treasurer may be appointed by the Secretary of Finance from a list of at least three (3) ranking, eligible recommendees of the governor or mayor, subject to civil service law, rules and regulations.
+
+(b) No person shall be appointed assistant treasurer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in commerce, public administration, or law from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired at least five (5) years experience in the treasury or accounting service in the case of the city or provincial assistant treasurer, and three (3) years in the case of the municipal assistant treasurer.
+
+The appointment of an assistant treasurer shall be optional for provincial, city and municipal governments.
+
+(c) The assistant treasurer shall assist the treasurer and perform such duties as the latter may assign to him/her. He/she shall have authority to administer oaths concerning notices and notifications to those delinquent in the payment of the real property tax and concerning official matters relating to the accounts of the treasurer or otherwise arising in the offices of the treasurer and the assessor.
+
+**Article III - The Assessor**
+
+**SECTION 489. Qualifications, Powers and Duties.** - (a) No person shall be appointed assessor unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce, or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in real property assessment work or in any related field for at least five (5) years in the case of the city or provincial assessor, and three (3) years in the case of the municipal assessor.
+
+The appointment of an assessor shall be mandatory for provincial, city and municipal governments.
+
+(b) The assessor shall take charge of the assessor's office, perform the duties provided for under Book II of this Code and shall:
+
+(1) Ensure that all laws and policies governing the appraisal and assessment of real properties for taxation purposes are properly executed;
+
+(2) Initiate, review, and recommend changes in policies and objectives, plans and programs, techniques, procedures and practices in the valuation and assessment of real properties for taxation purposes;
+
+(3) Establish a systematic method of real property assessment;
+
+(4) Install and maintain a real property identification and accounting system;
+
+(5) Prepare, install and maintain a system of tax mapping, showing graphically all property subject to assessment and gather all data concerning the same;
+
+(6) Conduct frequent physical surveys to verify and determine whether all real properties within the province are properly listed in the assessment rolls;
+
+(7) Exercise the functions of appraisal and assessment primarily for taxation purposes of all real properties in the local government unit concerned;
+
+(8) Prepare a schedule of the fair market value for the different classes of real properties, in accordance with Title Two under Book II of this Code;
+
+(9) Issue, upon request of any interested party, certified copies of assessment records of real property and all other records relative to its assessment, upon payment of a service charge or fee to the treasurer;
+
+(10) Submit every semester a report of all assessments, as well as cancellations and modifications of assessments to the local chief executive and the sanggunian concerned;
+
+(11) In the case of the assessor of a component city or municipality attend, personally or through an authorized representative, all sessions of the local board of assessment appeals whenever his assessment is the subject of the appeal, and present or submit any information or record in his possession as may be required by the board;
+
+(12) In the case of the provincial assessor, exercise technical supervision and visitorial functions over all component city and municipal assessors, coordinate with component city or municipal assessors in the conduct of tax mapping operations and all other assessment activities, and provide all forms of assistance therefor: Provided, however, That, upon full provision by the component city or municipality concerned to its assessor’s office of the minimum personnel, equipment, and funding requirements as may be prescribed by the Secretary of Finance, such functions shall be delegated to the said city or municipal assessor; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**SECTION 490. Assistant Assessor.** - (a) No person shall be appointed assistant assessor unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in civil or mechanical engineering, commerce, or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in assessment or in any related field for at least three (3) years in the case of the city or provincial assistant assessor, and one (1) year in the case of the municipal assistant assessor.
+
+The appointment of an assistant assessor shall be optional for provincial, city and municipal governments.
+
+(b) The assistant assessor shall assist the assessor and perform such other duties as the latter may assign to him/her. He shall have the authority to administer oaths on all declarations of real property for purposes of assessment.
+
+**Article IV - The Accountant**
+
+**SECTION 491. Qualifications, Powers and Duties.** - (a) No person shall be appointed accountant unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, and a certified public accountant. He/she must have acquired experience in the treasury or accounting service for at least five (5) years in the case of the provincial or city accountant, and three (3) years in the case of the municipal accountant.
+
+The appointment of an accountant is mandatory for the provincial, city and municipal governments.
+
+(b) The accountant shall take charge of both the accounting and internal audit services of the local government unit concerned and shall:
+
+(1) Install and maintain an internal audit system in the local government unit concerned;
+
+(2) Prepare and submit financial statements to the governor or mayor, as the case may be, and to the sanggunian concerned;
+
+(3) Apprise the sanggunian and other local government officials on the financial condition and operations of the local government unit concerned;
+
+(4) Certify to the availability of budgetary allotment to which expenditures and obligations may be properly charged;
+
+(5) Review supporting documents before preparation of vouchers to determine completeness of requirements;
+
+(6) Prepare statements of cash advances, liquidation, salaries, allowances, reimbursements and remittances pertaining to the local government unit;
+
+(7) Prepare statements of journal vouchers and liquidation of the same and other adjustments related thereto;
+
+(8) Post individual disbursements to the subsidiary ledger and index cards;
+
+(9) Maintain individual ledgers for officials and employees of the local government unit pertaining to payrolls and deductions;
+
+(10) Record and post in index cards details of purchased furniture, fixtures, and equipment, including disposal thereof, if any;
+
+(11) Account for all issued requests for obligations and maintain and keep all records and reports related thereto;
+
+(12) Prepare journals and the analysis of obligations and maintain and keep all records and reports related thereto; and
+
+(13) Exercise such other powers and perform such other duties and functions as may be provided by law or ordinance.
+
+(c) The incumbent chief accountant in the office of the treasurer shall be given preference in the appointment to the position of accountant.
+
+**Article V - The Budget Officer**
+
+**SECTION 492. Qualifications, Powers and Duties.** - (a) No person shall be appointed budget officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in accounting, economics, public administration or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in government budgeting or in any related field for at least five (5) years in the case of the provincial or city budget officer, and at least three (3) years in the case of the municipal budget officer.
+
+The appointment of a budget officer shall be mandatory for the provincial, city, and municipal governments.
+
+(b) The budget officer shall take charge of the budget office and shall:
+
+(1) Prepare forms, orders, and circulars embodying instructions on budgetary and appropriation matters for the signature of the governor or mayor, as the case may be;
+
+(2) Review and consolidate the budget proposals of different departments and offices of the local government unit;
+
+(3) Assist the governor or mayor, as the case may be, in the preparation of the budget and during budget hearings;
+
+(4) Study and evaluate budgetary implications of proposed legislation and submit comments and recommendations thereon;
+
+(5) Submit periodic budgetary reports to the Department of Budget and Management;
+
+(6) Coordinate with the treasurer, accountant, and the planning and development coordinator for the purpose of budgeting;
+
+(7) Assist the sanggunian concerned in reviewing the approved budgets of component local government units; and
+
+(8) Coordinate with the planning and development coordinator in the formulation of the local government unit development plan;
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+(d) The appropriations for personal services of the budget officer provided under the Department of Budget and Management shall, upon effectivity of this Code, be transferred to the local government unit concerned. Thereafter, the appropriations for personal services of the budget officer shall be provided for in full in the budget of the local government unit.
+
+**Article VI - The Planning and Development Coordinator**
+
+**SECTION 493. Qualifications, Powers and Duties.** - (a) No person shall be appointed planning and development coordinator unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in urban planning, development studies, economics, public administration, or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in development planning or in any related field for at least five (5) years in the case of the provincial or city planning and development coordinator, and three (3) years in the case of the municipal planning and development coordinator.
+
+The appointment of a planning and development coordinator shall be mandatory for provincial, city and municipal governments.
+
+(b) The planning and development coordinator shall take charge of the planning and development office and shall:
+
+(1) Formulate integrated economic, social, physical, and other development plans and policies for consideration of the local government development council;
+
+(2) Conduct continuing studies, researches, and training programs necessary to evolve plans and programs for implementation;
+
+(3) Integrate and coordinate all sectoral plans and studies undertaken by the different functional groups or agencies;
+
+(4) Monitor and evaluate the implementation of the different development programs, projects, and activities in the local government unit concerned in accordance with the approved development plan;
+
+(5) Prepare comprehensive plans and other development planning documents for the consideration of the local development council;
+
+(6) Analyze the income and expenditure patterns, and formulate and recommend fiscal plans and policies for consideration of the finance committee of the local government unit concerned as provided under Title Five, Book II of this Code;
+
+(7) Promote people participation in development planning within the local government unit concerned; and
+
+(8) Exercise supervision and control over the Secretariat of the local development council;
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article VII - The Engineer**
+
+**SECTION 494. Qualifications, Powers and Duties.** - (a) No person shall be appointed engineer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, and a licensed civil engineer. He/she must have acquired experience in the practice of his/her profession for at least five (5) years in the case of the provincial or city engineer, and three (3) years in the case of the municipal engineer.
+
+The appointment of an engineer shall be mandatory for the provincial, city and municipal governments. The city and municipal engineer shall also act as the local building official.
+
+(b) The engineer shall take charge of the engineering office and shall:
+
+(1) Initiate, review and recommend changes in policies and objectives, plans and programs, techniques, procedures and practices in infrastructure development and public works in general of the local government unit concerned;
+
+(2) Advise the governor or mayor, as the case may be, on infrastructure, public works, and other engineering matters;
+
+(3) Administer, coordinate, supervise, and control the construction, maintenance, improvement, and repair of roads, bridges, and other engineering and public works projects of the local government unit concerned;
+
+(4) Provide engineering services to the local government unit concerned, including investigation and survey, engineering designs, feasibility studies, and project management;
+
+(5)In the case of the provincial engineer, exercise technical supervision over all engineering offices of component cities and municipalities; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article VIII - The Health Officer**
+
+**SECTION 495. Qualifications, Powers and Duties.** - (a) No person shall be appointed health officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, and a licensed medical practitioner. He/she must have acquired experience in the practice of his/her profession for at least five (5) years in the case of the provincial or city health officer, and three (3) years in the case of the municipal health officer.
+
+The appointment of a health officer shall be mandatory for provincial, and city governments.
+
+(b) The health officer shall take charge of the office on health and shall:
+
+(1)Take charge of the office on health services, supervise the personnel and staff of said office, formulate program implementation guidelines and rules and regulations for the operation of the said office for the approval of the governor or mayor, as the case may be, in order to assist him in the efficient, effective and economical implementation of a health services program geared to implementation of health- related projects and activities;
+
+(2) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out activities to ensure the delivery of basic services and provision of adequate facilities relative to health services provided under Section 17 of this Code;
+
+(3) Develop plans and strategies and upon approval thereof by the governor or mayor as the case may be, implement the same, particularly those which have to do with health programs and projects which the governor or mayor, is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(4) In addition to the foregoing duties and functions, the health officer shall:
+
+(i) Formulate and implement policies, plans, programs and projects to promote the health of the people in the local government unit concerned;
+
+(ii) Advise the governor or mayor, as the case may be, and the sanggunian on matters pertaining to health;
+
+(iii) Execute and enforce all laws, ordinances and regulations relating to public health;
+
+(iv) Recommend to the sanggunian, through the local health board, the passage of such ordinances as he may deem necessary for the preservation of public health;
+(v) Recommend the prosecution of any violation of sanitary laws, ordinances or regulations;
+
+(vi) Direct the sanitary inspection of all business establishments selling food items or providing accommodations such as hotels, motels, lodging houses, pension houses, and the like, in accordance with the Sanitation Code;
+
+(vii) Conduct health information campaigns and render health intelligence services;
+
+(viii)Coordinate with other government agencies and non-governmental organizations involved in the promotion and delivery of health services; and
+
+(ix) In the case of the provincial health officer, exercise general supervision over health officers of component cities and municipalities; and
+
+(40) Be in the frontline of health services delivery, particularly during and in the aftermath of man-made and natural disasters and calamities; and
+
+(c)Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article IX - The Civil Registrar**
+
+**SECTION 496. Qualifications, Powers and Duties.** - (a) No person shall be appointed civil registrar unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in civil registry work for at least five (5) years in the case of the city civil registrar and three (3) years in the case of the municipal civil registrar.
+
+The appointment of a civil registrar shall be mandatory for city and municipal governments.
+
+(b) The civil registrar shall be responsible for the civil registration program in the local government unit concerned, pursuant to the Civil Registry Law, the Civil Code, and other pertinent laws, rules and regulations issued to implement them.
+
+(c) The Civil Registrar shall take charge of the office of the civil registry and shall:
+
+(1) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with civil registry programs and projects which the mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(2) In addition to the foregoing duties and functions, the civil registrar shall:
+
+(i)Accept all registrable documents and judicial decrees affecting the civil status of persons;
+
+(ii)File, keep and preserve in a secure place the books required by law;
+
+(iii)Transcribe and enter immediately upon receipt all registrable documents and judicial decrees affecting the civil status of persons in the appropriate civil registry books;
+
+(iv)Transmit to the Office of the Civil Registrar- General, within the prescribed period, duplicate copies of registered documents required by law;
+
+(v)Issue certified transcripts or copies of any certificate or registered documents upon payment of the prescribed fees to the treasurer;
+
+(vi)Receive applications for the issuance of a marriage license and, after determining that the requirements and supporting certificates and publication thereof for the prescribed period have been complied with, issue the license upon payment of the authorized fee to the treasurer;
+
+(vii)Coordinate with the National Statistics Office in conducting educational campaigns for vital registration and assist in the preparation of demographic and other statistics for the local government unit concerned; and
+
+(3) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article X - The Administrator**
+
+**SECTION 497. Qualifications, Term, Powers and Duties.** - (a) No person shall be appointed administrator unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in public administration, law, or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in management and administration work for at least five (5) years in the case of the provincial or city administrator, and three (3) years in the case of the municipal administrator.
+
+The term of administrator is coterminous with the appointing authority.
+
+The appointment of an administrator shall be mandatory for the provincial and city governments, and optional for the municipal government.
+
+(b) The administrator shall take charge of the office of the administrator and shall:
+
+(1) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same particularly those which have to do with the management and administration-related programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(2) In addition to the foregoing duties and functions, the administrator shall:
+
+(i) Assist in the coordination of the work of all the officials of the local government unit, under the supervision, direction, and control of the governor or mayor, and for this purpose, he may convene the chiefs of offices and other officials of the local government unit;
+
+(ii) Establish and maintain a sound personnel program for the local government unit designed to promote career development and uphold the merit principle in the local government service;
+
+(iii) Conduct a continuing organizational development of the local government unit with the view in instituting effective administrative reforms;
+
+(3) Be in the frontline of the delivery of administrative support services, particularly those related to the situations during and in the aftermath of man-made and natural disasters and calamities;
+
+(4) Recommend to the sanggunian and advise the governor and mayor, as the case may be, on all other matters relative to the management and administration of the local government unit; and
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XI - The Legal Officer**
+
+**SECTION 498. Qualifications, Term, Powers and Duties.** - (a) No person shall be appointed legal officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, and a member of the Philippine Bar. He/she must have practiced his/her profession for at least five (5) years in the case of the provincial and city legal officer, and three (3) years in the case of the municipal legal officer. The term of the legal officer shall be coterminous with the appointing authority. The appointment of legal officer shall be mandatory for the provincial and city governments and optional for the municipal government.
+
+(b) The legal officer, the chief legal counsel of the local government unit, shall take charge of the office of legal services and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide legal assistance and support to the governor or mayor, as the case may be, in carrying out the delivery of basic services and provisions of adequate facilities as provided for under Section 17 of this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with programs and projects related to legal services which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code.
+
+(3) In addition to the foregoing duties and functions, the legal officer shall:
+
+(i) Represent the local government unit in all civil actions and special proceedings wherein the local government unit or any official thereof, in his official capacity, is a party: Provided, That, in actions or proceedings where a component city or municipality is a party adverse to the provincial government or to another component city or municipality, a special legal officer may be employed to represent the adverse party;
+
+(ii) When required by the governor, mayor or sanggunian, draft ordinances, contracts, bonds, leases and other instruments, involving any interest of the local government unit; and provide comments and recommendations on any instruments already drawn;
+
+(iii) Render his opinion in writing on any question of law when requested to do so by the governor, mayor, or sanggunian;
+
+(iv) Investigate or cause to be investigated any local official or employee for administrative neglect or misconduct in office, and recommend appropriate action to the governor, mayor or sanggunian, as the case may be;
+
+(v) Investigate or cause to be investigated any person, firm or corporation holding any franchise or exercising any public privilege for failure to comply with any term or condition in the grant of such franchise or privilege, and recommending appropriate action to the governor, mayor or sanggunian, as the case may be;
+
+(vi) When directed by the governor, mayor, or sanggunian, initiate and prosecute in the interest of the local government unit concerned any civil action on any bond, lease or other contract upon any breach or violation thereof; and
+
+(vii)Review and submit recommendations on ordinances approved and executive orders issued by component units;
+
+(4) Recommend measures to the sanggunian and advise the governor or mayor as the case may be on all other matters related to upholding the rule of law;
+
+(5) Be in the frontline of protecting human rights and prosecuting any violations thereof, particularly those which occur during and in the aftermath of man- made or natural disasters or calamities; and
+
+(6) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XII - The Agriculturist**
+
+**SECTION 499. Qualifications, Powers and Duties.** - (a) No person shall be appointed agriculturist unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree in agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have practiced his/her profession in agriculture or acquired experience in a related field for at least five (5) years in the case of the provincial and city agriculturist, and three (3) years in the case of the municipal agriculturist.
+
+The position of the agriculturist shall be mandatory for the provincial government and optional for city and municipal governments. However, five (5) years upon the effectivity of this Code, the appointment of municipal agriculturist shall be mandatory for the city and municipality provided that they are technically and financially capable as may be determined by Ministry of the Interior and Local Government after an assessment and evaluation to that effect.
+
+(b) The agriculturist shall take charge of the office for agricultural services, and shall:
+
+(1) Formulate measures for the approval of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out said measures to ensure the delivery of basic services and provision of adequate facilities relative to agricultural services as provided for under Section 17 of this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with agricultural programs and projects which the governor or mayor is empowered to implement and which the sanggunian us empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the agriculturist shall:
+
+(i) Ensure that maximum assistance and access to resources in the production, processing and marketing of agricultural and aqua-cultural and marine products are extended to farmers, fishermen and local entrepreneurs;
+
+(ii) Conduct or cause to be conducted location-specific agricultural researches and assist in making available the appropriate technology arising out of and disseminating information on basic research on crops, preventive and control of plant diseases and pests, and other agricultural matters which will maximize productivity;
+
+(iii) Assist the governor or mayor, as the case may be, in the establishment and extension services of demonstration farms or aqua-culture and marine products;
+
+(iv) Enforce rules and regulations relating to agriculture and aquaculture;
+
+(v) Coordinate with government agencies and non- governmental organizations which promote agricultural productivity through appropriate technology compatible with environmental integrity;
+
+(4) Be in the frontline of delivery of basic agricultural services, particularly those needed for the survival of the inhabitants during and in the aftermath of man-made and natural disasters; (5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters related to agriculture and aqua- culture which will improve the livelihood and living conditions of the inhabitants; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XIII - The Social Welfare and Development Officer**
+
+**SECTION 500. Qualifications, Powers and Duties.** - (a) No person shall be appointed social welfare and development officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a duly licensed social worker or a holder of a college degree preferably in sociology or any other related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in the practice of social work for at least five (5) years in the case of the provincial or city social welfare and development officer, and three (3) years in the case of the municipal social welfare and development officer.
+
+The appointment of a social welfare and development officer is mandatory for provincial and city governments, and optional for municipal government. However, Five (5) years upon the effectivity of this Code, the appointment of Social Welfare and Development officer shall be mandatory for municipality provided that are technically and financially capable as may be determined by Ministry of Interior and Local Government after an assessment and evaluation to that effect.
+
+(b) The social welfare and development officer shall take charge of the office on social welfare and development services and shall:
+
+(1) Formulate measures for the approval of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out measures to ensure the delivery of basic services and provision of adequate facilities relative to social welfare and development services as provided for under Section 17 of this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same particularly those which have to do with social welfare programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties, the social welfare and development officer shall:
+
+(i) Identify the basic needs of the needy, the disadvantaged and the impoverished and develop and implement appropriate measures to alleviate their problems and improve their living conditions;
+
+(ii) Provide relief and appropriate crisis intervention for victims of abuse and exploitation and recommend appropriate measures to deter further abuse and exploitation;
+
+(iii) Assist the governor or mayor, as the case may be, in implementing the Barangay level program for the total development and protection of children up to six (6) years of age;
+
+(iv) Facilitate the implementation of welfare programs for the disabled, elderly, and victims of drug addiction, the rehabilitation of prisoners and parolees, the prevention of juvenile delinquency and such other activities which would eliminate or minimize the ill-effects of poverty;
+
+(v) Initiate and support youth welfare programs that will enhance the role of the youth in nation-building;
+
+(vi) Coordinate with government agencies and non- governmental organizations which have for their purpose the promotion and the protection of all needy, disadvantaged, underprivileged or impoverished groups or individuals, particularly those identified to be vulnerable and high-risk to exploitation, abuse and neglect;
+
+(4) Be in the frontline of service delivery, particularly those which have to do with immediate relief during and assistance in the aftermath of man-made and natural disaster and natural calamities;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters related to social welfare and development services which will improve the livelihood and living conditions of the inhabitants; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XIV - The Environment and Natural Resources Officer**
+
+**SECTION 501. Qualifications, Powers and Duties.** - (a) No person shall be appointed environment and natural resources officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in environment, forestry, agriculture or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in environmental and natural resources management, conservation, and utilization, of at least five (5) years in the case of the provincial or city environment and natural resources officer, and three (3) years in the case of the municipal environment and natural resources officer.
+
+The appointment of the environment and natural resources officer is mandatory for provincial, city and municipal governments.
+
+(b) The environment and natural resources management officer shall take charge of the office on environment and natural resources and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out measures to ensure the delivery of basic services and provision of adequate facilities relative to environment and natural resources services as provided for under Section 17 of this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with environment and natural resources programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the environment and natural resources officer shall:
+
+(i) Establish, maintain, protect and preserve communal forests, watersheds, tree parks, mangroves, greenbelts and similar forest projects and commercial forest, like industrial tree farms and agro-forestry projects;
+
+(ii) Provide extension services to beneficiaries of forest development projects and technical, financial and infrastructure assistance;
+
+(iii) Manage and maintain seed banks and produce seedlings for forests and tree parks;
+
+(iv) Provide extension services to beneficiaries of forest development projects and render assistance for natural resources-related conservation and utilizationactivities consistent with ecological balance;
+
+(v) Promote the small-scale mining and utilization of mineral resources, particularly mining of gold;
+
+(vi) Coordinate with government agencies and non- governmental organizations in the implementation of measures to prevent and control land, air and water pollution with the assistance of the Department of Environment and Natural Resources;
+
+(4) Be in the frontline of the delivery of services concerning the environment and natural resources, particularly in the renewal and rehabilitation of the environment during and in the aftermath of man-made and natural calamities and disasters;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all matters relative to the protection, conservation, maximum utilization, application of appropriate technology and other matters related to the environment and natural resources; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XV - The Architect**
+
+**SECTION 502. Qualifications, Powers and Duties.** - (a) No person shall be appointed architect unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a duly licensed architect. He/she must have practiced his profession for at least five (5) years in the case of the provincial or city architect, and three (3) years in the case of the municipal architect. The appointment of the architect is optional for provincial, city and municipal governments.
+
+(b) The architect shall take charge of the office on architectural planning and design and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in providing the measures to ensure the delivery of basic services and provision of adequate facilities relative to architectural planning and design as provided for under Section 17 of this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with architectural planning and design programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to foregoing duties and functions, the architect shall:
+
+(i) Prepare and recommend for consideration of the sanggunian the architectural plan and design for the local government unit or a part thereof, including the renewal of slums and blighted areas, land reclamation activities, the greening of land, and appropriate planning of marine and foreshore areas;
+
+(ii) Review and recommend for appropriate action of the sanggunian, governor or mayor, as the case may be, the architectural plans and design submitted by governmental and non-governmental entities or individuals, particularly those forundeveloped, underdeveloped, and poorly-designed areas; and
+
+(iii) Coordinate with government and non-government entities and individuals involved in the aesthetics and the maximum utilization of the land and water within the jurisdiction of the local government unit, compatible with environmental integrity and ecological balance.
+
+(4) Be in the frontline of the delivery of services involving architectural planning and design, particularly those related to the redesigning of spatial distribution of basic facilities and physical structures during and in the aftermath of man-made and natural calamities and disasters;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters relative to the architectural planning and design as it relates to the total socioeconomic development of the local government unit; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XVI - The Information Officer**
+
+**SECTION 503. Qualifications, Powers and Duties.** - (a) No person shall be appointed information officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in journalism, mass communication or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have experience in writing articles and research papers, or in writing for print, television or broadcast media of at least three (3) years in the case of the provincial or city information officer, and at least one (1) year in the case of municipal information officer.
+
+The appointment of the information and communication technology officer is mandatory for the provincial, city and municipal governments.
+
+The term of the information officer is co-terminous with that of the appointing authority.
+
+(b) The information officer shall take charge of the office on public information and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in providing the information and research data required for the delivery of basic services and provision of adequate facilities so that the public becomes aware of said services and may fully avail of the same;
+
+(2) Develop plans and strategies and, upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with public information and research data to support programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the information officer shall:
+
+(i) Provide relevant, adequate, and timely information to the local government unit and its residents;
+
+(ii) Furnish information and data on local government units to government agencies or offices as may be required by law or ordinance; and non-governmental organizations to be furnished to said agencies and organizations;
+
+(iii) Maintain effective liaison with the various Sectors of the community on matters and issues that affect the livelihood and the quality of life of the inhabitants and encourage support for programs of the local and national government;
+
+(4) Be in the frontline in providing information during and in the aftermath of manmade and natural calamities and disasters, with special attention to the victims thereof, to help minimize injuries and casualties during and after the emergency, and to accelerate relief and rehabilitation;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters relative to public information and research data as it relates to the total socioeconomic development of the local government unit; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XVII - The Cooperatives Officer**
+
+**SECTION 504. Qualifications, Powers and Duties.** - (a) No person shall be appointed cooperative officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree preferably in business administration with special training in cooperatives or any related course from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have experience in cooperatives organization and management of at least five (5) years in the case of the provincial or city cooperatives officer, and three (3) years in the case of municipal cooperatives officer.
+
+The appointment of the cooperatives officer is optional for the provincial and city governments.
+
+(b) The cooperatives officer shall take charge of the office for the development of cooperatives and shall:
+
+(1) Formulate measures for the consideration of the sanggunian, and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out measures to ensure the delivery of basic services and provision of facilities through the development of cooperatives, and in providing access to such services and facilities;
+
+(2) Develop plans and strategies and, upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with the integration of cooperatives principles and methods in programs and projects which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the cooperatives officer shall:
+
+(i) Assist in the organization of cooperatives;
+
+(ii) Provide technical and other forms of assistance to existing cooperatives to enhance their viability as an economic enterprise and social organization;
+
+(iii) Assist cooperatives in establishing linkages with government agencies and non- government organizations involved in the promotion and integration of theconcept of cooperatives in the livelihood of the people and other community activities;
+
+(4) Be in the frontline of cooperatives organization, rehabilitation or viability enhancement, particularly during and in the aftermath of man-made and natural calamities and disasters, to aid in their survival and, if necessary subsequent rehabilitation;
+
+(5) Recommend to the sanggunian, or mayor or governor or mayor, as the case may be, on all other matters relative to cooperatives development and viability- enhancement which will improve the livelihood and quality of life of the inhabitants; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XVIII - The Population Officer**
+
+**SECTION 505. Qualifications, Powers and Duties.** - (a) No person shall be appointed population officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree with specialized training in population development from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have experience in the implementation of programs on population development or responsible parenthood for at least five (5) years in the case of the provincial or city population officer and three (3) years in the case of the municipal population officer.
+
+The appointment of a population officer shall be optional in the local government unit.
+
+(b) The population officer shall take charge of the office on population development and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in the implementation of the Constitutional provisions relative to population development and the promotion of responsible parenthood;
+
+(2) Establish and maintain an updated data bank for program operations, development planning and an educational program to ensure the people's participation in and understanding of population development;
+
+(3) Implement appropriate training programs responsive to the cultural heritage of the inhabitants; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XIX - The Veterinarian**
+
+**SECTION 506. Qualifications, Powers and Duties.** - (a) No person shall be appointed veterinarian unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a licensed Doctor of Veterinary Medicine. He/she must have practiced his/her profession for at least three (3) years in the case of provincial or city veterinarian and at least one (1) year in the case of the municipal veterinarian.
+
+The appointment of a veterinarian officer is mandatory for the provincial and city governments.
+
+(b) The veterinarian shall take charge of the office for veterinary services and shall:
+
+(1) Formulate measures for the consideration of the sanggunian, and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out measures to ensure the delivery of basic services and provision of adequate facilities pursuant to this Code;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with veterinary-related activities which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the veterinarian shall:
+
+(i) Advise the governor or the mayor, as the case may be, on all matters pertaining to the slaughter of animals for human consumption and the regulation of slaughterhouses;
+
+(ii) Regulate the keeping of domestic animals;
+
+(iii) Regulate and inspect poultry, milk and dairy products for public consumption;
+
+(iv) Enforce all laws and regulations for the prevention of cruelty to animals; and
+
+(v) Take the necessary measures to eradicate, prevent or cure all forms of animal diseases;
+
+(4) Be in the frontline of veterinary related activities, such as in the outbreak of highly- contagious and deadly diseases, and in situations resulting in the depletion of animals for work and human consumption, particularly those arising from and in the aftermath ofman-made and natural calamities and disasters;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters relative to veterinary services which will increase the number and improve the quality of livestock, poultry and other domestic animals used for work or human consumption; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**Article XX - The General Services Officer**
+
+**SECTION 507. Qualifications, Powers and Duties.** - (a) No person shall be appointed general services officer unless he/she is a citizen of the Philippines, a resident of the local government unit concerned, of good moral character, a holder of a college degree on public administration, business administration and management from a recognized college or university, and a first grade civil service eligible or its equivalent. He/she must have acquired experience in general services, including management of supply, property, solid waste disposal, and general sanitation, of at least five (5) years in the case of the provincial or city general services officer, and at least three (3) years in the case of the municipal general services officer. The appointment of a general services officer is mandatory for the provincial and city governments.
+
+(b) The general services officer shall take charge of the office on general services and shall:
+
+(1) Formulate measures for the consideration of the sanggunian and provide technical assistance and support to the governor or mayor, as the case may be, in carrying out measures to ensure the delivery of basic services and provision of adequate facilities pursuant to Section 17 of this Code and which require general services expertise and technical support services;
+
+(2) Develop plans and strategies and upon approval thereof by the governor or mayor, as the case may be, implement the same, particularly those which have to do with general services supportive of the welfare of the inhabitants which the governor or mayor is empowered to implement and which the sanggunian is empowered to provide for under this Code;
+
+(3) In addition to the foregoing duties and functions, the general services officer shall:
+
+(i) Take custody of and be accountable for all properties, real or personal, owned by the local government unit and those granted to it in the form of donation, reparation, assistance and counterpart of joint projects;
+
+(ii)With the approval of the governor or mayor, as the case may be, assign building or land space to local officials or other public officials, who by law, are entitled to such space;
+
+(iii) Recommend to the governor or mayor, as the case may be, the reasonable rental rates for local government properties, whether real or personal, which will be leased to public or private entities by the local government;
+
+(iv) Recommend to the governor or mayor, as the case may be, the reasonable rental rates of private properties which may be leased for the official use of the local government unit;
+
+(v) Maintain and supervise janitorial, Security, landscaping and other related services in all local government public buildings and other real property, whether owned or leased by the local government unit;
+
+(vi) Collate and disseminate information regarding prices, shipping and other costs of supplies and other items commonly used by the local government unit;
+
+(vii) Perform archival and record management with respect to records of offices and departments of the local government unit; and
+
+(viii) Perform all other functions pertaining to supply and property management heretofore performed by the local government treasurer; and enforce policies on records creation, maintenance, and disposal;
+
+(4) Be in the frontline of general services related activities, such as the possible or imminent destruction or damage to records, supplies, properties, and structures and the orderly and sanitary clearing up of waste materials or debris, particularly during and in the aftermath of man-made and natural calamities and disasters;
+
+(5) Recommend to the sanggunian and advise the governor or mayor, as the case may be, on all other matters relative to general services; and
+
+(c) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
+
+**TITLE XVIII**
+**LEAGUES OF LOCAL GOVERNMENT UNITS AND ELECTIVE OFFICIALS**
+
+**CHAPTER I**
+**Leagues of Local Government Units**
+**Article I - Liga ng Mga Barangay**
+
+**SECTION 508. Purpose of Organization.** - There shall be an organization of all Barangays to be known as the Liga ng mga Barangay for the primary purpose of determining the representation of the Liga in the Sanggunians, and for ventilating, articulating and crystallizing issues affecting Barangay government administration and securing, through proper and legal means, solutions thereto.
+
+**SECTION 509. Representation, Chapters, National Liga.** - Every Barangay shall be represented in said liga by the Punong Barangay, or in his absence or incapacity, by a sanggunian member duly elected for the purpose among its members, who shall attend all meetings or deliberations called by the different chapters of the liga. The liga shall have chapters at the municipal, city, and provincial levels. The municipal and city chapters of the liga shall be composed of the Barangay representatives of municipal and city Barangays, respectively. The duly elected presidents of component municipal and city chapters shall constitute the provincial chapter. The duly elected presidents of highly-urbanized cities and provincial chapters shall become part of the National Liga ng mga Barangay.
+
+**SECTION 510. Organization.** - The liga at the municipal, city, provincial, regional, and national levels directly elect a president, a vice-president, and five (5) members of the board of directors. The board shall appoint its Secretary and treasurer and create such other positions as it may deem necessary for the management of the chapter. A Secretary- general shall be elected from among the members of the national liga and shall be charged with the overall operation of the liga on the national level. The board shall coordinate the activities of the chapters of the liga.
+
+**SECTION 511. Ex-Officio Membership in Sanggunians.** - The duly elected presidents of the liga at the municipal, city and provincial levels, shall serve as ex-officio members of the Sangguniang Bayan, Sangguniang Panlungsod, Sangguniang Panlalawigan, respectively. They shall serve as such only during their term of office as presidents of the liga chapters, which in no case shall be beyond the term of office of the sanggunian concerned.
+
+**SECTION 512. Powers, Functions and Duties of the Liga.** - The Liga shall:
+
+(a) Give priority to programs designed for the total development of the Barangays and in consonance with the policies, programs and projects of the national government;
+
+(b) Assist in the education of Barangay residents for people's participation in local government administration in order to promote united and concerted action to achieve country-wide development goals;
+
+(c) Supplement the efforts of government in creating gainful employment within the Barangay;
+
+(d) Adopt measures to promote the welfare of Barangay officials;
+(e) Serve as a forum of the Barangays in order to forge linkages with government and non- governmental organizations and thereby promote the social, economic and political well- being of the Barangays;
+
+(f) Each Barangay league must submit to the office of the Ministry of Interior and Local Government a quarterly written report of their meetings and activities including some recommendation for effective delivery of public services and for good governance;¹¹⁵ they may also give or submit a report to the ministry on interior on local government anytime and in any form (*written or electronic*) on problems they have observed in the implementation of government projects within their territorial jurisdiction and/ or the acts/ performance of any government officials¹¹⁶.
+
+(g) Exercise such other powers and perform such other duties and functions which will bring about stronger ties between Barangays and promote the welfare of the Barangay inhabitants.
+
+**Article II - League of Municipalities**
+
+**SECTION 513. Purpose of Organization.** - There shall be an organization of all municipalities to be known as league of municipalities for the primary purpose of ventilating, articulating and crystallizing issues affecting municipal government administration, and securing, through proper and legal means, solutions thereto. The league shall form provincial chapters composed of the league presidents for all component municipalities of the province.
+
+**SECTION 514. Representation.** - Every municipality shall be represented in the league by the municipal mayor or in his absence, by the vice-mayor or a sanggunian member duly elected for the purpose by the members, who shall attend all meetings and participate in the deliberations of the league.
+
+**SECTION 515. Powers, Functions and Duties of the League of Municipalities.** - The league of municipalities shall:
+
+(a) Assist the Bangsamoro Autonomous Region in Muslim Mindanao and the national government in the formulation and implementation of the policies, programs and projects affecting cities as a whole;
+
+(b) Promote local autonomy at the municipal level;
+
+(c) Adopt measures for the promotion of the welfare of all municipalities and its officials and employees;
+
+(d) Encourage people's participation in local government administration in order to promote united and concerted action for the attainment of country-wide development goals;
+
+(e) Supplement the efforts of the Bangsamoro Autonomous Region in Muslim Mindanao and the national government in creating opportunities for gainful employment within the municipalities;
+
+(f) Give priority to programs designed for the total development of the municipalities in consonance with the policies, programs and projects of the national government;
+
+(g) Each municipal league must submit to the office of the Ministry of Interior and Local Government a quarterly written report of their meetings and activities including some recommendation for effective delivery of public services and for good governance¹¹⁷; they may also give or submit a report to the ministry on interior on local government anytime and in any form ( *written or electronic*) on problems they have observed in the implementation of government projects within their territorial jurisdiction and/ or the acts/ performance of any government officials
+
+(h) Serve as a forum for crystallizing and expressing ideas, seeking the necessary assistance of the national government, and providing the private sector avenues for cooperation in the promotion of the welfare of the municipalities; and
+
+(i) Exercise such other powers and perform such other duties and functions as the league may prescribe for the welfare of the municipalities.
+
+**Article III - League of Cities**
+
+**SECTION 516. Purpose of Organization.** - There shall be an organization of all cities to be known as the League of Cities for the primary purpose of ventilating, articulating and crystallizing issues affecting city government administration, and securing, through proper and legal means, solutions thereto. The League may form urbanized cities may also form a chapter of the League. The National League shall be composed of the presidents of the league of highly urbanized cities and the presidents of the provincial chapters of the league of component cities.
+
+**SECTION 517. Representation.** - Every city shall be represented in the league by the city mayor or in his absence, by the city vice-mayor or a sanggunian member duly elected for the purpose by the members, who shall attend all meetings and participate in the deliberations of the league.
+
+**SECTION 518. Powers, Functions and Duties of the League of City.** - The league of cities shall:
+
+(a) Assist the Bangsamoro Autonomous Region in Muslim Mindanao and the national government in the formulation and implementation of the policies, programs and projects affecting cities as a whole;
+
+(b) Promote local autonomy at the (city) all level;
+
+(c) Adopt measures for the promotion of the welfare of all cities and its officials and employees;
+
+(d) Encourage people's participation in local government administration in order to promote united and concerted action for the attainment of country-wide development goals;
+
+(e) Supplement the efforts of Bangsamoro Autonomous Region in Muslim Mindanao and the national government in creating opportunities for gainful employment the cities;
+
+(f) Give priority to programs designed for the total development of constituent unit in consonance with the policies, programs and projects of the national government;
+
+(g) Serve as a forum for crystallizing and expressing ideas, seeking the necessary assistance of the national government and providing the private sector avenues for cooperation in the promotion of the welfare of the cities;
+
+(h) Each city league must submit to the office of the Ministry of Interior and Local Government a quarterly written report of their meetings and activities including some recommendation for effective delivery of public services and for good governance; and they may also give or submit a report to the ministry on interior on local government anytime and in any form ( *written or electronic*) on problems they have observed in the implementation of government projects within their territorial jurisdiction and/ or the acts/ performance of any government officials
+
+(i) Exercise such other powers and perform such other duties and functions as the league may prescribe for the welfare of the cities.
+
+**Article IV - League of Provinces**
+
+**SECTION 519. Purpose of Organization.** - There shall be an organization of all provinces to be known as the League of Provinces for the primary purpose of ventilating, articulating and crystallizing issues affecting provincial government administration, and securing, through proper and legal means, solutions thereto.
+
+**SECTION 520. Representation.** - Every province shall be represented in the league by the provincial governor or in his/her absence, by the provincial vice-governor or a sanggunian member duly elected for the purpose by the members, who shall attend all meetings and participate in the deliberations of the league.
+
+**SECTION 521. Powers, Functions and Duties of the League of Provinces.** - The league of provinces shall:
+
+(a) Assist the Bangsamoro Autonomous Region in Muslim Mindanao and the national government in the formulation and implementation of the policies, programs and projects affecting provinces as a whole;
+
+(b) Promote local autonomy at the provincial level;
+
+(c) Adopt measures for the promotion of the welfare of all provinces and its officials and employees;
+
+(d) Encourage peoples participation in local government administration in order to promote united and concerted action for the attainment of countrywide development goals;
+
+(e) Supplement the efforts of the Bangsamoro Autonomous Region in Muslim Mindanao and the national government in creating opportunities for gainful employment within the province;
+
+(f) Give priority to programs designed for the total development of the provinces in consonance with the policies, programs and projects of the national government;
+
+(g) Serve as a forum for crystallizing and expressing ideas, seeking the necessary assistance of the national government and providing the private sector avenues for cooperation in the promotion of the welfare of the provinces;
+
+(h) Each provincial league must submit to the office of the Ministry of Interior and Local Government a quarterly written report of their meetings and activities including some recommendation for effective delivery of public services and for good governance; and they may also give or submit a report to the ministry on interior on local government anytime and in any form ( *written or electronic*) on problems they have observed in the implementation of government projects within their territorial jurisdiction and/ or the acts/ performance of any government officials
+
+(i) Exercise such other powers and perform such other duties and functions as the league may prescribe for the welfare of the provinces.
+
+**Article V - Provisions Common to All Leagues**
+
+**SECTION 522. Funding.** - (a) All leagues shall derive its funds from contributions of member local government units and from fund-raising projects and activities without the necessity of securing permits therefor: Provided, That the proceeds from said fund-raising projects and activities shall be used primarily to fund the projects for which the said proceeds have been raised, subject to the pertinent provision of this Code and the pertinent provisions of the Omnibus Election Code.
+
+(b) All funds of leagues shall be deposited as trust funds with its treasurer and shall be disbursed in accordance with the board of director's resolutions, subject to pertinent accounting and auditing rules and regulations: Provided, That the treasurer shall be bonded in an amount to be determined by the board of directors. The funds of a chapter shall be deposited as chapter funds and funds of the national league shall be deposited as national funds.
+
+(c) The municipal government, city government and provincial government and regional government must give financial subsidy to the league in support to their activity subject to the availability of funds¹¹⁸.
+
+(d) To maximize cooperation, coordination and camaraderie among and between local government units, They may group themselves or form an alliances for purposes commonly beneficial to them. The Regional Government is oblige to give financial subsidy for the said alliances subject for the availability of funds.
+
+**SECTION 523. Organizational Structure.** - To ensure the effective and efficient administration, the leagues for municipalities, cities and provinces shall elect chapter- level and national-level boards of directors and a set of officers headed by the president. A secretary- general shall be chosen from among the national league members to manage the day to day operation and activities of the national league. The board of directors on the chapter or national level may create such other positions as may be deemed necessary for the management of the chapters and of the national league. The national board of directors of the leagues for municipalities, cities or provinces shall coordinate programs, projects and activities of chapter and the national-level league.
+
+**SECTION 524. Constitution and By-laws of the Liga and the Leagues.** - All other matters not herein otherwise provided for affecting the internal organization of the leagues of local government units shall be governed by their respective constitution and by-laws which are hereby made suppletory to the provision of this Chapter: Provided, That said Constitution and By-laws shall always conform to the provisions of the Constitution and existing laws.
+
+**CHAPTER I**
+**Leagues and Federations of Local Elective Officials**
+
+**SECTION 525. Organization.** - (a) Vice-governor, vice-mayors, sanggunian members of barangays, municipalities, cities, highly-urbanized cities and provinces, and other elective local officials of local government units may form their respective leagues or federation, subject to applicable provisions of this Title and pertinent provisions of this Code;
+
+(b) Sanggunian members of component cities and municipalities shall form a provincial federation and elect a board of directors and a set of officers headed by the president. The duly elected president of the provincial federation of sanggunian members of component cities and municipalities shall be an ex-officio member of the Sangguniang Panlalawigan concerned and shall serve as such only during his term of office as president of the provincial federation of sanggunian members of component cities and municipalities, which in no case shall be beyond the term of office of the Sangguniang Panlalawigan concerned.
+
+**SECTION 526. Constitution and By-Laws.** - The leagues or federations shall adopt a Constitution and by-laws which shall govern their internal organization and operation: Provided, That said Constitution and by-laws shall always conform to the provision of the Constitution and existing laws.
+
+**SECTION 527. Funding.** - The leagues and federations may derive their funds from contributions of individual league or federation members or from fund-raising projects or activities. The local government unit concerned may appropriate funds to support the leagues or federation organized pursuant to this Section, subject to the availability of funds.
+
+**BOOK IV**
+**MISCELLANEOUS AND FINAL PROVISIONS**
+
+**TITLE ONE. – PENAL PROVISIONS**
+
+**Section 528. Posting and Publication of Ordinances with Penal Sanctions.** -(a) Ordinances with penal sanctions shall be posted at three (3) conspicuous¹¹⁹ places in the provincial capitol, city, municipal or Barangay hall, as the case may be, for a minimum period of *six* (6) consecutive weeks. Whenever available, such ordinances shall also be published in a newspaper of general circulation, within the territorial jurisdiction of the local government unit concerned, or by any other mode of publications¹²⁰. Unless otherwise provided therein, said ordinances shall take effect on the day following its publication, or at the end of the period of posting, whichever occurs later.
+
+(b) Any public officer or employee who violates an ordinance shall be meted administrative disciplinary action, without prejudice to the filing of the appropriate civil or criminal action.
+
+(c) The secretary to the Sanggunian concerned shall transmit official copies of such ordinances to the Chief Executive Officer of the Official Gazette within twelve (12) days following the approval of the said ordinance for publication purposes. The Official Gazette may publish ordinances with penal sanctions for archival and reference purposes.
+
+(d) Publication shall include its translation to local dialects¹²¹.
+
+**Section 529. Withholding of Benefits Accorded to Local Government Units Officials and Employees.** -Willful and malicious withholding of any of the benefits accorded to Barangay, Municipal, City, or Provincial officials and employees provided by this Code hereof shall be punished with suspension or dismissal, from office of the official or employee responsible therefor.
+
+**Section 530. Failure to Post and Publish the Itemized Monthly Collections and Disbursements.** - Failure by the local treasurer or the local chief accountant to post the itemized monthly collections and disbursements of the local government unit concerned within ten (10) days following the end of every month and for at least two (2) consecutive weeks at prominent places in the main office building of the local government unit concerned, its plaza and main street, and to publish said itemization in a newspaper of general circulation, where available, in the territorial jurisdiction of such unit, or by any other mode of publication, shall be punished by a fine not exceeding Five thousand pesos (Php 5,000.00) or by suspension or by imprisonment not exceeding one (1) *year* or both such fine, suspension or imprisonment at the discretion of the court.
+
+**Section 531. Engaging in Prohibited Business Transactions or Possessing Illegal Pecuniary Interest.** - Any local official and any person or persons dealing with him who violate the prohibitions provided in Section 89 of Book I hereof, shall be punished with imprisonment for six months and one day to six years, or a fine of not less than Fifteen thousand¹²² pesos (Php 15,000.00) nor more than Fifty thousand pesos (Php50,000.00), or both such imprisonment and fine, at the discretion of the court.
+
+**Section 532. Refusal or Failure of Any Party or Witness to Appear before the Lupon or Pangkat.** - Refusal or willful failure of any party or witness to appear before the Lupon or Pangkat in compliance with a summons issued pursuant to the provisions on the Katarungang PamBarangay under Chapter 7, Title One of Book III of this Code may be punished by the city or municipal court as for indirect contempt of court upon application filed therewith by the Lupon chairman, the Pangkat chairman, or by any of the contending parties. Such refusal or willful failure to appear shall be reflected in the records of the Lupon secretary or in the minutes of the Pangkat secretary and shall bar the complainant who fails to appear, from seeking judicial recourse for the same cause of action, and the respondent who refuses to appear, from filing any counterclaim arising out of, or necessarily connected with the complaint.
+
+A pangkat member who serves as such shall be entitled to an honorarium, the amount of which is to be determined by the Sanggunian concerned, subject to the provisions in this Code cited above.
+
+**Section 533.Penalties for Violation of Tax Ordinances.** – The Sanggunian of a local government unit is authorized to prescribe fines or other penalties for violation of tax ordinances but in no case shall such fines be less than Ten thousand pesos (Php 10,000.00) nor more than Fifty thousand pesos (Php 50,000.00), nor shall imprisonment be less than one (1)month nor more than six (6) months. Such fine or other penalty, or both, shall be imposed at the discretion of the court. The Sangguniang Barangay may prescribe a fine of not less than One thousand pesos (Php 1000.00) nor more than Ten thousand pesos (Php 10,000.00).
+
+**Section 534. Omission of Property from Assessment or Tax Rolls by Officers and Other Acts.** – Any officer charged with the duty of assessing real property who willfully fails to assess, or who intentionally omits from the assessment or tax roll any real property which he knows to be taxable, or who willfully or negligently underassesses any real property, or who intentionally violates or fails to perform any duty imposed upon him by law relating to the assessment of taxable real property shall, upon conviction, be punished by a fine of not less than Ten thousand pesos (Php 10,000.00) nor more than Fifty thousand pesos (Php 50,000.00), or by suspension, or by imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and suspension or imprisonment, at the discretion of the court.
+
+The same penalty shall be imposed upon any officer charged with the duty of collecting the tax due on real property who willfully or negligently fails to collect the tax and institute the necessary proceedings for the collection of the same.
+
+Any other officer required by this Code to perform acts relating to the administration of the real property tax or to assist the assessor or treasurer in such administration, who willfully fails to discharge such duties shall, upon conviction be punished by a fine of not less than Five thousand pesos (Php 5,000.00) nor more than Fifty thousand pesos (Php 50,000.00) or suspension, or imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and suspension or imprisonment, at the discretion of the court.
+
+**Section 535.Government Agents Delaying Assessment of Real Property and Assessment Appeals.-** Any government official who intentionally and deliberately delays the assessment of real property or the filing of any appeal against its assessment shall be liable for suspension ,or upon conviction, be punished by a fine of not less than Five thousand pesos (Php 5000.00) nor more than Fifty thousand pesos (Php 50,000.00), or by imprisonment of not less than one (1) month or more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
+
+**Section 536. Failure to Dispose of Delinquent Real Property at Public Auction.** – The local treasurer concerned who fails to dispose of delinquent real property at public auction in compliance with the pertinent provisions of this code, and any other local government official whose acts hinder the prompt disposition of delinquent real property at public auction shall, upon conviction, be subject to a fine of not less than Ten thousand pesos (Php 10,000.00) nor more than Fifty thousand pesos (Php 50,000.00), or imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
+
+**Section 537. Prohibited Acts Related to the Award of Contracts Under the Provisions on Credit Financing.** – It shall be unlawful for any public official or employee in the provincial, city, or municipal government, or their relatives within the fourth civil degree of consanguinity or affinity, to enter into or have any pecuniary interest in any contract for the construction, acquisition, operation, or maintenance of any project awarded pursuant to the provisions of Title Four in Book II hereof, or for the procurement of any supplies, materials, or equipment of any kind toused in the said project. Any person convicted for violation of the provisions of said Title shall be removed from office and shall be punishable by imprisonment of not less than two (2) month, nor more than three (3) years, at the discretion of the court, without prejudice to prosecution under other law.
+
+**Section 538. Act of Officials in Violation of the Provisions of this Code.** Any act of officials and employees in violation of the provisions of this Code shall be administratively liable, without prejudice to the filing of criminal and civil case.
+
+**TITLE TWO. – PROVISIONS FOR IMPLEMENTATION**
+
+**Section 539. Mandatory Review Every Five Years.** – The Bangsamoro Parliament shall undertake a mandatory review of this Code at least once every five (5) years and as often as it may deem necessary, with the primary objective of providing a more responsive and accountable local government structure.
+
+**Section 540. Insurance Coverage.** – The Government Service Insurance System (GSIS) shall establish and administer an appropriate system under which the Punong Barangay, the members of the Sangguniang Barangay, the Barangay secretary, the Barangay treasurer, and the members of the Barangay tanod shall enjoy insurance coverage as provided in this Code and other pertinent laws.
+
+There shall be a system that will provide insurance coverage for the Punong barangay, the members of the Sangguniang Barangay, the Barangay secretary, the Barangay treasurer, the members of the Barangay tanod, and the members of the Barangay Peacekeeping Action Team (BPAT) shall enjoy insurance coverage as provided in this Code and other pertinent laws.
+
+**Section 541. Personnel Retirement and/or Benefits.** – An official or employee of the national government or local government unit separated from the service as a result of reorganization effected under this Code shall, if entitles under the laws then in force, receive the retirement and other benefits accruing thereunder: Provided, however, That such benefits shall be given funding priority by the Department of Budget and Management in the case of national officials and employees, and the local government unit concerned in the case of local officials and employees.
+
+Where the employee concerned is not eligible for retirement, he shall be entitled to a gratuity from the national government or the local government unit concerned, as the case may be, equivalent to an amount not lower than one (1) month salary for every year of service over and above the monetary value of the leave credits said employee is entitled to receive pursuant to existing laws.
+
+**Section 542. Inventory of Infrastructure and Other Community Facilities.–** (a) Each local government unit shall conduct a periodic inventory of infrastructure and other community facilities and undertake the maintenance, repair, improvement, or reconstruction of these facilities through a closer cooperation among the various agencies of the national government operating within the province, city, or municipality concerned.
+
+(b) No infrastructure or community project within the territorial jurisdiction of any local 0government unit shall be undertaken without informing the local chief executive and the Sanggunian concerned.
+
+**Section 543. Records and Properties.** – All records, equipment, buildings, facilities, and other properties of any office or body of a local government unit abolished or reorganized under this Code shall be transferred to the office or body to which its powers, functions, and responsibilities are substantially devolved.
+
+**Section 544. Monitoring and Evaluation System.** The Bangsamoro Government shall establish a monitoring and evaluation system to ensure full delivery of basic services, faithful implementation of plans, programs, and projects, and compliance to existing policies, laws, rules and regulations.¹²³
+
+**TITLE THREE. – TRANSITORY PROVISIONS**
+
+**Section 545. Tax Ordinances or Revenue Measures.**– All existing tax ordinances or revenue measures of local government units shall continue to be in force and effect after the effectivity of this Code unless amended by the Sanggunian concerned, or inconsistent with, or in violation of, the provisions of this Code.
+
+**Section 546. Formulation of Implementing Rules and Regulations.-** (a)Within six (6) months after the approval of this Code, the Chief Minister shall convene the Oversight Committee as herein provided. The said Committee shall formulate and issue the appropriate rules and regulations necessary for the efficient and effective implementation of any and all provisions of this Code, thereby ensuring compliance with the principles of local autonomy as defined under the Constitution.
+
+(b) The Committee shall be composed of the following:
+
+(1) The Executive Secretary, who shall be the Chairperson;
+
+(2) Four (3) members of the Bangsamoro Parliament to be appointed by the Chief Minister of the Bangsamoro Government, to include the Chairperson of the Committee on Local Government;
+
+(3) The Cabinet, represented by the following:
+
+(i) Minister of the Interior and Local Government
+(ii) Ministry of Finance and Budget and Management
+
+(3) One (1) representative from each of the following:
+
+(i) The League of Provinces;
+(ii) The League of Municipalities; and
+(iii) The Liga ng mga Barangay.
+
+(c) The Committee shall submit its report and recommendation to the Chief Minister within two (2) months after its organization. If the Chief Minister fails to act within thirty (30) days from receipt thereof, the recommendation of the Oversight Committee shall be deemed approved. Thereafter, the Committee shall supervise the transfer of such powers and functions mandated under this Code to the local government units, together with the corresponding personnel, properties, assets and liabilities of the offices or agencies concerned, with the least possible disruptions to existing programs and projects. The Committee shall likewise recommend the corresponding appropriations necessary to effect the said transfer.
+
+For this purpose, the services of a technical staff shall be listed from among the qualified employees of the Parliament, the regional government offices, and the leagues constituting the Committee.
+
+(d) The funding requirements and the secretariat of the Committee shall be provided by the Office of the Chief Minister.
+
+(e) The sum of Three million pesos (P3,000,000.00), which shall be charged against the appropriations of the Office of the Chief Minister is hereby allotted to the Committee to fund the undertaking of an information campaign on this Code. The Committee shall formulate the guidelines governing the conduct of said campaign, and shall determine the national agencies or offices to be involved for this purpose.
+
+**SECTION 547. Transitory Provisions on the Gradual Devolution. –** Seven (7) years after the effectivity of the Code, the Committee shall conduct comprehensive assessment on the capacity of the local government units and promulgate guidelines in the implementation of the devolution process.
+
+After the completion of the assessment, the Committee shall submit. a comprehensive report on the devolution process including recommendations on effective collaboration between the Bangsamoro Government and the local government units in the delivery of devolved services and facilities.
+
+Affected ministries in the implementation of the gradual devolution shall reorganize their structure and services to avoid overlapping of functions. The ministries shall ensure the security of tenure of the affected personnel is respected and no demotion in rank as provided for by the existing rules and regulations. Further, the reorganization of concerned ministries shall be guided by the following policies:
+
+(a) Capacity development intervention to the local government units;
+(b) Prioritize regional mandate not covered by the devolved services and facilities;
+(c) Ensure the complementation of regional and local government services.
+
+The local government units may be allowed to implement projects funded by the Bangsamoro Government, particularly, projects operated and maintained by the concerned units and subject to their absorptive capacity as certified by Ministry of the Interior and Local Government and Ministry of Public Works.
+
+**SECTION 548. Transitory Provisions on the Barangays Without Internal Revenue Allotment. -** (a) The Ministry of the Interior and Local Government, within 60 days after the effectivity of this Code, shall create a committee that will revalidate the compliance of those barangays created under Muslim Mindanao Autonomy Act No. 25 that failed to meet the standard requirements laid down in Republic Act No. 7160.
+
+The Committee shall be composed of representatives from the Ministry of the Interior and Local Government, Philippine Statistics Authority, Ministry of Environment, Natural Resources and Energy, and Ministry of Finance, and Budget and Management.
+
+After revalidation, the validating team shall submit the result of the validation to the Office of the Chief Minister for appropriate action of those barangays that have already met the criteria laid down by Republic Act No. 7160. The said barangays shall automatically be entitled to the Internal Revenue Allotment as provided in Section 6, Article X of the 1987 Constitution.
+
+(b) Those barangays that still failed to meet the criteria laid down by RA 7160 shall be reverted to their mother barangays.
+
+(c) After the effectivity of this Code, the creation of a new barangay must comply with the requirements laid down by this Code.
+
+**SECTION 549. Transitory Provisions for Municipality. -** (a) Pending the conversion of the 63 barangays in North Cotabato into appropriate territorial or political subdivision, the barangays shall be constituted as a Special Geographic Area and be grouped into eight (8) clusters;
+
+(b) For this purpose, the Special Geographic Area Development Authority, created under BAA No. 13, shall manage the development affairs in the Special Geographic Area;
+
+(c) The Special Geographic Area Development Authority shall perform those powers and services devolved to local government units under this Code other than those delivered by the barangays;
+
+(d) The Special Geographic Area Development Authority shall be composed of the Board of Directors, the Administrator, and eight (8) Area Coordinators and shall perform planning, implementation, monitoring, and coordinating functions and in the process exercise supervisory and regulatory authority over the promotion of general welfare of the people without prejudice to the autonomy of barangay local government units; and
+
+(e) The Bangsamoro Government shall provide financial and technical support to the Special Geographic Area. The Ministries and agencies shall ensure allocation of sufficient funds for the delivery of basic services in the Special Geographic Area.
+
+**SECTION 550. Powers, duties and functions of the Administrator.** In addition to the functions enumerated under BAA No. 13, the Administrator of the Special Geographic Area Development Authority shall exercise the following powers, duties and functions:
+
+(1) Exercise general supervision and control over all programs, projects, services, and activities within Special Geographic Area for the general welfare of the constituent local government units and in this connection, the administrator shall:
+
+i. Upon recommendation of the Board of Directors and subsequent authorization of the Ministry of the Interior and Local Government, represent the Special Geographic Area in all its business transactions and sign on its behalf all bonds, contracts, and obligations, and such other documents;
+
+ii. Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities in coordination with the Bangsamoro Rapid Emergency Action on Disaster Incidence (Bangsamoro READi) and other concerned Ministries and agencies of the Bangsamoro Autonomous Region;
+
+iii. Ensure that all Area Coordinators shall faithfully discharge their duties and functions as provided by law and this Code;
+
+iv. Visit component Barangays of the Special Geographic Area at least once a month to deepen his/her understanding on problems or conditions therein;
+
+v. Coordinate with any regional office stationed in or assigned to the Special Geographic Area on matters affecting the Special Geographic Area;
+
+vi. Conduct a palarong bayan, in coordination with the Ministry of Basic, Higher, and Technical Education, as an annual activity which shall feature traditional sports and disciplines included in national and international games; and
+
+(2) Enforce all regional laws and issuances relative to the governance of the Special Geographic Area, implement all approved policies, programs, projects, services and activities of the Special Geographic Area and, in addition to the foregoing, shall:
+
+i. Ensure that the acts of the component Barangays and of its officials and employees are within the scope of their prescribed powers, functions, duties and responsibilities;
+
+ii. Call conferences, seminars or meetings of any elective and appointive officials of the component Barangays at such time and place and on such subject as he may deem important for the promotion of the general welfare of the local government unit and its inhabitants;
+
+iii. Seek the assistance of the appropriate law enforcement agencies of the Bangsamoro Autonomous Region to suppress disorder, riot, lawless violence, sedition or to apprehend violators of the law when public interest so requires, and the municipal police forces are inadequate to cope with the situation or the violators;
+
+(3) Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, program objectives and priorities as provided for under this Code and relative thereto, shall:
+
+i. Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law;
+
+ii. Issue permits for the holding of activities for any charitable or welfare purpose, excluding prohibited games of chance or shows contrary to law, public policy and public morals;
+
+iii. Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permit, subject to such fines and penalties as may be imposed by law, or to make necessary changes in the construction of the same when said construction violates any law;
+
+(4) Ensure the delivery of basic services and the provision of adequate facilities as provided for under Section 17 of this Code, in coordination with the Ministries and other offices of the Bangsamoro Autonomous Region.
+
+(5) Exercise such other powers and perform such other duties and functions as may be prescribed by law or regional laws.
+
+**TITLE FOUR. – FINALPROVISIONS**
+
+**Section 551. Devolved National Agencies and Offices. –** Line agencies of Office of the National Government devolved to the autonomous region pursuant to Section 4, Art. XIX of Republic Act No. 6734, as amended by Republic Act No. 9054 shall continue to be placed under the control and supervision of the Chief Minister.
+
+**Section 552. Repealing Clause. –** (a) All laws, orders, acts, charters, decrees, executive orders, proclamations, rules and regulation and all other issuances, or part thereof, which are inconsistent with this code are hereby repealed or modified accordingly.
+
+**Section 553. Separability Clause.-**If, for any reason or reasons, any part or provision of this Code shall be held to be unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+**Section 554. Effectivity Clause. –** This Code shall take effect immediately following its complete publication in at least one (1) newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
+
+Approved,
+
+(Signed)
+**HON. AHOD BALAWAG EBRAHIM**
+Chief Minister
+
+(Signed)
+ABDULRAOF A. MACACUA
+Executive Secretary
+
+***
+
+¹¹⁵ It was suggested during consultation to activate, monitor, and received recommendation from the leagues on matters that affect their groups or their constituent in general.
+¹¹⁶ Suggested by stakeholder during consultation to help the Bangsamoro government in monitoring the implementation of government project and the performance of government officials from region down to barangay.
+¹¹⁷ It was suggested during the consultation to activate, monitor, and received recommendation from the leagues on matters that affect their groups or their constituents in general.
+¹¹⁸ This was suggested during the consultation because their monthly dues are not sufficient to cover their proposed activities.
+¹¹⁹ Amended from prominent place to conspicuous place to ensure that the constituents are properly informed.
+¹²⁰ Provided an alternative mode of publication to ensure that information is disseminated to the people
+¹²¹ Included translation as suggested during the consultation because constituents could not understand ordinances from local government units.
+¹²² Higher penalties would deter violators from committing the acts as suggested during the consultation with BARMM constituents.
+¹²³ It was suggested by the constituents that a separate monitoring team be established in BARMM.
+
