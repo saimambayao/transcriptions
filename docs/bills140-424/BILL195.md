@@ -20,12 +20,10 @@ The State recognizes the right of the Filipino people to information and its imp
 
 > **Section 24. The State recognizes the vital role of communication and information in nation-building.**
 >
-> xxx
->
+
 > **Section 28. Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.**
 >
-> xxx
->
+
 > **Section 7. The right of the people to information on matters of public concern shall be recognized. Access to official records, and to documents, and papers pertaining to official acts, transactions, or decisions, as well as to government research data used as basis for policy development, shall be afforded the citizen, subject to such limitations as may be provided by law.**
 
 Executive Order No. 2, s. 2016, signed by President Rodrigo Duterte, further operationalizes the people’s constitutional right to information and the state policies to full public disclosure and transparency in public service.
@@ -62,9 +60,6 @@ Sec. 7, Article III of the 1987 Philippine Constitution
 ⁹ Sec. 3, Article IV, R.A. 11054
 ¹⁰ Sec. 8, Article IX, R.A. 11054
 
-**Chunk Complete. Ready for next group of provisions starting at the Title of the Act.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -177,9 +172,6 @@ Approved,
 ²² Sec. 25 (9), Title II, Book IV of the Bangsamoro Administrative Code
 ²³ Sec. 14, Chapter 3, Book I of the Bangsamoro Administrative Code
 
-**Chunk Complete. Ready for next group of provisions starting at the Signatory Section.**
-
-***
 
 AUTHOR:
 
