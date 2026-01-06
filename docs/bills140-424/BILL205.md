@@ -28,9 +28,6 @@ Be it enacted by the Bangsamoro Transition Authority Parliament in session assem
 
 **SECTION 3. Social Justice Measures and Assistance Programs to OBCs.** – In pursuit of the policy stated in Section 2 of this Act, the Bangsamoro Government shall develop and implement comprehensive social justice measures and assistance programs aimed at promoting the social, economic, and cultural development of OBCs. These measures shall address the specific needs and challenges faced by OBCs, with the ultimate goal of achieving social justice, equity, inclusion, peace, and sustainable development for these communities.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 4.
-
-***
 
 **SECTION 4. Social Development Measures and Programs.** – The following projects and programs shall be implemented to promote the social development in OBCs:
 
@@ -72,9 +69,6 @@ b. Support to Bangsamoro arts and crafts. – This includes capacity building fo
 
 c. Promotion of Bangsamoro history. – This includes development of educational materials, support for local historical research, and promotion of historical sites and landmarks to enhance awareness and understanding of the history of the Bangsamoro people.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 7.
-
-***
 
 **SECTION 7. Implementation.** – The Office of the Chief Minister (OCM), through the Office for Other Bangsamoro Communities (OOBC), shall be the lead agency in the planning, coordination, and implementation of this Act. As the lead agency, it shall:
 
