@@ -34,9 +34,6 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 **AN ACT PROVIDING FOR BASIC DIGITAL LITERACY AND INTERMEDIATE INFORMATION AND COMMUNICATION TECHNOLOGIES (ICT) SKILLS TRAINING IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -84,9 +81,6 @@ D. Research - It shall conduct research on the needs and opportunities in the IC
 
 E. Policy Development - It shall work with the relevant stakeholders, ministries, offices, and agencies to develop policies and regulations to support the development of the ICT industry in the region.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 6.**
-
-***
 
 **Section 6. Appropriations.** The amount necessary to carry out the provisions of this Act shall be included in the budget of the MBHTE’s current budget and shall thereafter be included in the annual Appropriations Act.
 
