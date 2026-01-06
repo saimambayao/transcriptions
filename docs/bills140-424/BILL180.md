@@ -30,9 +30,6 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -62,9 +59,6 @@ ADOPTING AN INTEGRATED COASTAL MANAGEMENT POLICY IN THE BANGSAMORO REGION, ESTAB
 
 **SEC. 4. Coastal Zoning and Management.** — The Ministry of Environment, Natural Resources and Energy (MENRE) shall provide the guidelines for coastal zoning and management, including the delineation of coastal areas, identification of land uses, and regulation of activities in the coastal zone.
 
-**Chunk Complete. Ready for next group of provisions starting at SEC. 5.**
-
-***
 
 **SEC. 5. Integrated Coastal Management Council.** — There is hereby created an Integrated Coastal Management Council (ICMC) to be composed of the following:
 
@@ -95,9 +89,6 @@ f. Coordinate with the Ministry of the Interior and Local Government in ensuring
 
 **SEC. 7. Appropriations.** — The amount necessary to carry out the provisions of this Act shall be charged against the MENRE’s current budget and shall thereafter be included in the annual Appropriations Act.
 
-**Chunk Complete. Ready for next group of provisions starting at SEC. 8.**
-
-***
 
 **SEC. 8. Separability Clause.** — In case any provision of this Act is declared unconstitutional or invalid, the other provisions hereof which are not affected thereby shall continue in full force and effect.
 
