@@ -38,9 +38,6 @@ Member of the Parliament – Bangsamoro Transition Authority
 ² https://www.officialgazette.gov.ph/2014/05/23/government-saves-p3-1b-through-the-barangay-justice-system/
 ³ RA 7160, sec.399
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
