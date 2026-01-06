@@ -54,9 +54,6 @@ Attested by:
 **ATTY. PANGALIAN M. BALINDONG**
 Parliament Speaker
 
-Chunk Complete. Ready for next group of provisions starting at ANNEX 1a.
-
-***
 
 **ANNEX 1a. Barangays covered by the Municipality of Sheik Abas Hamza, their original mother municipality, and respective land area, population, and annual income as of 2020.**
 
