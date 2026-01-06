@@ -36,9 +36,6 @@ This bill, through its comprehensive provisions, aims to create a conducive envi
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 **AN ACT**
 **ESTABLISHING A FRAMEWORK FOR THE PROMOTION AND RECOGNITION OF THE 'BANGSAMORO' BRAND, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
@@ -61,9 +58,6 @@ Towards this end, it shall promote and internationalize the "Bangsamoro" brand a
 (f) Services - refer to any intangible product, including but not limited to tourism, hospitality, education, healthcare, and professional services.
 (g) Creative Products - refer to artistic and cultural works, including but not limited to visual arts, literature, music, film, and performing arts.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 4.**
-
-***
 
 **Section 4. Bangsamoro Brand Promotion and Internationalization Strategy.** The Bangsamoro Government, through the Ministry of Trade, Investments, and Tourism (MTIT), and in coordination with relevant agencies and stakeholders, shall develop and implement a comprehensive strategy to enhance the visibility and recognition of "Bangsamoro" products and services in both the national and international communities. The strategy shall include, but not be limited to, the following measures:
 
@@ -91,9 +85,6 @@ Any individual or entity, printing establishment, advertising, and sales agency 
 
 **Section 11. Monitoring and Evaluation.** The MTIT shall establish a monitoring and evaluation mechanism to assess the effectiveness and impact of the initiatives implemented under this Act. Regular reviews and assessments shall be conducted to measure progress, identify challenges, and recommend improvements. The findings of these evaluations shall be used to refine strategies and adjust policies accordingly.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 12.**
-
-***
 
 **Section 12. Public Awareness and Participation.** The MTIT shall initiate public awareness campaigns to inform the Bangsamoro community and the general public about the objectives and benefits of this Act. It shall actively encourage the participation and involvement of stakeholders, including Bangsamoro entrepreneurs, industry associations, civil society organizations, and the general public, in the implementation and promotion of the Bangsamoro brand.
 
