@@ -32,9 +32,6 @@ Through this measure, taking cognizance of the various forms of crises, natural 
 
 As the Bangsamoro government is mandated to pass labor laws that expand or enhance the rights of workers, it is for this reason, that the immediate passage of this bill is earnestly sought.
 
-Chunk Complete. Ready for next group of provisions starting at **Parliament Bill No. 194 (Main Act Body)**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -90,9 +87,6 @@ e.) **Own-account worker** – refers to workers who, working on their own accou
 
 f.) **Social and Solidarity Economy Units** – refer to enterprises and organizations including cooperatives as defined under Republic Act No. 9520 (Philippine Cooperative Code of 2008), mutual benefit societies, associations, foundations, and social enterprises which produce goods, services and knowledge that meet the needs of the community they serve, through the pursuit of specific social and environmental objectives and the fostering of solidarity.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 5. REGISTRATION**.
-
-***
 
 **Section 5. REGISTRATION.** – Pursuant to its functions under Republic Act 7160 (Local Government Code of 1991) as amended, the LGUs through its Local Development Council, through its Secretariat or through the creation of a sectoral of functional committee, shall establish a system of registration of workers of the IE. The system shall be as follows:
 
