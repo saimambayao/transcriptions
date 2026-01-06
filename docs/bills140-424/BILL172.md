@@ -37,9 +37,6 @@ For these reasons, this representation earnestly asks for the approval of the bi
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
