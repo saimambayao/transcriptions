@@ -46,9 +46,6 @@ B) Special Holidays:
 
 The Chief Minister may modify by order or proclamation the actual dates of the observance of the regular non-working holidays or special holidays in the region, provided that the same must be consistent with the policy of the Bangsamoro Government declared in this Act.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 6.
-
-***
 
 **SECTION 6. Declaration of Islamic Holidays.** – The Bangsamoro Mufti shall recommend to the Chief Minister the actual dates on which the observance of any holidays that are based on the Hijri calendar shall fall, including the celebration of the *Eid’l Fitr’* and *Eid’l Adha*.
 
