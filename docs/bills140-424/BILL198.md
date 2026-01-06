@@ -30,9 +30,6 @@ In view of the foregoing, this representation earnestly seeks the enactment of t
 **DR. HASHEMI N. DILANGALEN**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 **Be it enacted by the Bangsamoro Parliament in session:**
 
