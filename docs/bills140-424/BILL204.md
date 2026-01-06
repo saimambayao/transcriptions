@@ -84,9 +84,6 @@ m) Coordinate with national government agencies, local government units, interna
 
 n) Perform such other duties and functions as may be provided by law.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 5.
-
-***
 
 **SECTION 5. Bangsamoro Cultural Heritage Program.** - The Bangsamoro Cultural Heritage Program is hereby established, guided by the Bangsamoro Commission for the Preservation of Cultural Heritage (BCPCH) in partnership with relevant agencies and local government units. The program incorporates and advances the following components:
 
@@ -122,9 +119,6 @@ g) *Such Other Components or Programs Adopted by the BCPCH and Other Implementin
 
 **SECTION 14. Bangsamoro Endowment Fund (Awqaf) for Cultural Heritage.** - An Islamic endowment fund (Awqaf), referred to as the "Bangsamoro Endowment Fund for Cultural Heritage", shall hereby be established. This fund shall be devoted to the protection, preservation, conservation, and promotion of the Bangsamoro cultural heritage. It shall be sourced from donations, grants, contributions, endowments, legacies or gifts from various sources, both local and international, the annual budget allocation of the Bangsamoro Government from revenues it generates as determined in the Bangsamoro Revenue Code, and income from the development and utilization of cultural heritage properties.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 15.
-
-***
 
 **SECTIONS 15. Prohibited Acts.** - To the extent that the offense is not punishable by a higher punishment under another provision of law, violations of this Act may be made by whoever intentionally:
 
