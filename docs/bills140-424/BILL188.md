@@ -48,9 +48,6 @@ Author
 ³ Extracted from the Explanatory Note of Senate Bill No. 969 by Senator Grace Poe.
 ⁴ https://car.dole.gov.ph/news/ofw-ang-bagong-bayani/
 
-**Chunk Complete. Ready for next group of provisions starting at Article I.**
-
-***
 
 **ARTICLE I**
 **GENERAL PROVISIONS**
@@ -93,9 +90,6 @@ While recognizing the significant contribution of overseas Bangsamoro workers to
 ⁷ Patterned from "Technical Notes on the Survey on Overseas Filipinos (SOF)" https://psa.gov.ph/content/technical-notes-survey-overseas-filipinos-sof
 ⁸ Ibid.
 
-**Chunk Complete. Ready for next group of provisions starting at Article II.**
-
-***
 
 **ARTICLE II**
 **MANDATE, POWERS, AND FUNCTIONS OF THE MINISTRY OF BANGSAMORO MIGRANT WORKERS**
@@ -132,9 +126,6 @@ While recognizing the significant contribution of overseas Bangsamoro workers to
 ⁹ Extracted from R.A. 11641 (https://www.officialgazette.gov.ph/downloads/2021/12dec/20211230-RA-11641-RRD.pdf)
 ¹⁰ Patterned from R.A. 11641 (https://www.officialgazette.gov.ph/downloads/2021/12dec/20211230-RA-11641-RRD.pdf)
 
-**Chunk Complete. Ready for next group of provisions starting at Article III.**
-
-***
 
 **ARTICLE III**
 **POWER, FUNCTIONS, AND QUALIFICATIONS OF THE MINISTER AND DEPUTY MINISTER**
@@ -202,9 +193,6 @@ The Deputy Minister shall perform the following powers and functions:¹³
 ¹² Patterned from Section 10 of R.A. 11641, also known as Department of Migrant Workers Act
 ¹³ Patterned from Section 10 Chapter 2 Book IV of Executive Order No. 292 or the Administrative Code of 1987.
 
-**Chunk Complete. Ready for next group of provisions starting at Article IV.**
-
-***
 
 **ARTICLE IV**
 **ORGANIZATIONAL STRUCTURE OF THE MINISTRY**
@@ -301,9 +289,6 @@ A provincial office shall also be created in each of the provinces of Maguindana
 ¹⁵ Patterned and extracted from Section 9 of R.A. No. 11641.
 ¹⁶ Based from Section 12 of R.A. 11641 or the Department of Migrant Workers Act
 
-**Chunk Complete. Ready for next group of provisions starting at Article V.**
-
-***
 
 **ARTICLE V**
 **TRANSITORY PROVISIONS**
