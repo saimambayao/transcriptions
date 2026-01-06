@@ -34,9 +34,6 @@ It is, therefore, our fervent hope that this bill will receive the support and a
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Title.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -75,9 +72,6 @@ a. International Sports Competitions— refers to international sports competiti
 
 b. Bangsamoro Athletes — refers to athletes who are Bangsamoro, recognized and accredited by the Philippine Olympic Committee (POC) and the Philippine Sports Commission, including athletes with disabilities who are recognized and accredited by the National Paralympics Committee of the Philippines (NPC Phil) and the PSC and who have represented the country in international sports competitions.
 
-Chunk Complete. Ready for next group of provisions starting at Section 4.
-
-***
 
 **Section 4. Benefits for Bangsamoro Athletes.** Exceptional athletes from the BARMM who have achieved significant success in international competitions, who win gold, silver, or bronze medals in international sports competitions, shall be eligible to receive incentives as determined by the Bangsamoro Sports Commission (BSC).
 
