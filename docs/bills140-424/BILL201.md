@@ -37,9 +37,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-**Chunk Complete. Ready for next group of provisions starting at the Title.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -78,9 +75,6 @@ c) Competition – any competition promoted locally or internationally by associ
 
 d) Examination – any formal examination to test a person’s knowledge or proficiency that gives the person legal authority to practice his/her profession. This shall only include those 4-year degree or above courses.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 4.**
-
-***
 
 **Section 4. Members of the Committee.** – To implement this Act, a committee is hereby created which shall be headed by a Senior Minister of the BARMM and the following shall be its members:
 
@@ -129,9 +123,6 @@ Those individuals who shall win in any competition held within the Philippines, 
 
 1) An individual who shall rank Top 1 in any exam, whether national or international, shall receive one hundred thousand pesos (Php100,000.00);
 
-**Chunk Complete. Ready for next group of provisions starting at Page 6, Item 2.**
-
-***
 
 2) An individual who shall rank Top 2 in any exam, whether national or international, shall receive eighty thousand pesos (Php80,000.00);
 
