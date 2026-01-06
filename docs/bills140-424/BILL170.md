@@ -37,9 +37,6 @@ Member of the Parliament – Bangsamoro Transition Authority
 
 ¹ Silvia Sanz-Ramos Rojo. The Barangay Justice System in the Philippines: Is It An Effective Alternative To Improve Access to Justice for Disadvantaged People? (2002)
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
