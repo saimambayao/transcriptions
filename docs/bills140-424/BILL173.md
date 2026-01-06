@@ -80,9 +80,6 @@ The municipal and city chapters of the Federation shall be composed of the baran
 
 The Ministry of Interior and Local Government shall facilitate the election of the federation heads of the Lupon in each Municipality, City, Province, and the Region.
 
-Chunk Complete. Ready for next group of provisions starting at **ARTICLE III**.
-
-***
 
 **ARTICLE III**
 **THE BARANGAY JUSTICE SUMMIT**
@@ -114,9 +111,6 @@ They shall provide their sector’s insights into their role in the implementati
 
 **SECTION 14. Budget for the Summit.** – The funds needed to defray the expenses necessary for the conduct of the summit shall come from the allocation of the Office of the Chief Minister, Ministry of Interior and Local Government, Ministry of Public Order and Safety, and the Ministry of Social Services and Development for this intended purpose. The Regional Council may also conduct fund-raising projects and activities. Provided That, the proceeds from said fund-raising projects and activities shall be used primarily to fund the Summit.
 
-Chunk Complete. Ready for next group of provisions starting at **ARTICLE IV**.
-
-***
 
 **ARTICLE IV**
 **MUNICIPAL OR CITY COUNCIL OF ELDERS**
@@ -154,9 +148,6 @@ Nothing in this code shall act to supersede the Barangay Unit’s authority and 
 
 **SECTION 18. Honoraria for Appearance in the Council of Elders.** – The council of Elders shall receive an appearance fee of not less than five hundred pesos (Php 500.00) each when they appear and fulfill their role as a chosen mediator for a specific case. The honoraria for the elders shall be derived from the funds of the City or Municipal Government that is served by the council.
 
-Chunk Complete. Ready for next group of provisions starting at **ARTICLE V**.
-
-***
 
 **ARTICLE V**
 **BARANGAY JUSTICE SYSTEM MULTISECTORAL TRADITIONAL AND CUSTOMARY LAWS ADVISORY COUNCIL**
@@ -190,9 +181,6 @@ f. Such other functions as may be required by the Barangay Justice Implementers.
 
 For the purpose of this Act, “Katarungang Pambarangay Law” refers to the provisions in Chapter 7, Title I, Book III of the Local Government Code of 1991 or to the applicable provision of the Bangsamoro Local Governance Code. Provided That, in case of conflict, the latter shall govern.
 
-Chunk Complete. Ready for next group of provisions starting at **ARTICLE VII**.
-
-***
 
 **ARTICLE VII**
 **FINAL PROVISIONS**
