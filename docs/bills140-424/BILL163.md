@@ -31,9 +31,6 @@ Member of Parliament – Bangsamoro Transition Authority
 ¹ https://www.philatlas.com/mindanao/barmm/tawi-tawi/languyan.html
 ² DOH Hospitals Profile First Edition, Health Facility development Bureau, Health Facilities and Infrastructure Development Team, Department of Health, Republic of the Philippines
 
-Chunk Complete. Ready for next group of provisions starting at **SEC. 1**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -69,9 +66,6 @@ Any future increase in bed capacity and upgrading of health care services and fa
 
 **SEC. 9. Effectivity.** - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) regional newspapers of general circulation.
 
-Chunk Complete. Ready for next group of provisions starting at [Approved/Authors].
-
-***
 
 **Approved,**
 
