@@ -1,5 +1,3 @@
-Republic of the Philippines
-Bangsamoro Autonomous Region in Muslim Mindanao
 **BANGSAMORO TRANSITION AUTHORITY**
 Cotabato City
 
