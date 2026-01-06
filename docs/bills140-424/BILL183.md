@@ -32,9 +32,6 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT ENABLING... (Main Act Body)**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -94,9 +91,6 @@ The Director shall have the power to appoint the heads of the divisions, units, 
 
 The Infrastructure Acceleration Office may also engage the services of consultants, experts, and other personnel, as necessary, subject to the approval of the Chief Minister and in accordance with existing laws, rules, and regulations.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 5. Powers and Functions...**
-
-***
 
 **Section 5. Powers and Functions of the Infrastructure Acceleration Office.** The Infrastructure Acceleration Office shall have the following powers and functions:
 
