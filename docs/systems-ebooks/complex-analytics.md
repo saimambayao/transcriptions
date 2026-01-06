@@ -1,0 +1,1013 @@
+
+**Complex Data Analytics**
+**An Overview**
+
+***
+
+**Complex Data Analytics**
+**An Overview**
+
+A Complexity Labs Publication
+Written by Joss Colchester
+Creative Commons
+2018
+
+***
+
+**Contents**
+
+**Overview**
+1. Complex Data Analytics Overview
+2. Data Analytics
+3. Big Data Advanced Analytics
+4. Complex Analytics
+
+**Big Data**
+5. Datafication
+6. Big data
+7. Dark Data
+8. Data Driven Decisions
+9. Dataism
+10. Data Privacy
+
+**Advanced Algorithms**
+11. Rise of Algorithms
+12. Machine Learning
+13. Learning Approaches
+14. Neural Nets
+15. Deep Learning
+16. Limitations of Algorithms
+
+**Smart Systems**
+17. Smart Systems
+18. Smart Platforms
+19. Autonomous Agents
+20. Smart Systems Security
+
+**Data Driven Organizations**
+21. Data Driven Organizations
+22. DIKW
+23. Analysis and Synthesis
+
+***
+
+**Overview**
+
+The information revolution that began in the mid-twentieth century is entering a new stage of development; the confluence of major trends in cloud computing, new data sources, advances in algorithms and the rise of the internet of things are assuring in profound changes that take us into the era of big data.
+
+The first wave of the information revolution based around the personal computer and the world wide web has created a torrent of new data sources from web blogs, internet search histories, large-scale e-commerce practices, retail transactions, RFID tags, GPS, sensor networks, social networks and mobile computing have all worked to create what we now call big data.
+
+But this mass of data would be no use without computing capacities to process it. Throughout human history, computing power was a scarce resource. However, with the recent advent of global scale cloud computing, high-end computing is now available to organizations of almost all size at low cost and on-demand.
+
+The third major element that has fallen into place is a powerful new set of algorithmic approaches. Breakthroughs in machine learning and deep learning in particular now provide the software systems to process these ever more complex data sets; algorithms that learn from data, that can deal with millions of parameters, that can coordinate vast digital platforms, optimizing logistics networks, automating financial trades, predicting maintenance on electrical grids.
+
+**New Instrument**
+With these new tools, we are now peering into massive unstructured data sets using ever more sophisticated algorithmic frameworks to see what we could never before see. Many compare this to building a new kind of microscope or telescope. But whereas with the microscope we revealed the microscopic mysteries of life and with the telescope the stars and galaxies, this tool lets us see the complex systems all around us.
+
+Data is opening up our ability to perceive things around us that were previously invisible; our evolved social, economic and technological systems that have become so complex we can no longer see them are being revealed to us in new ways. The implications of this are huge; just as the telescope changed our understanding of our place in the universe, complex analytics is changing our understanding of the world around us, the systems we form part of and this opens the door to a shift in the nature of how we make decisions and management is conducted.
+
+More and more governments, business sectors, and institutions begin to realize data is becoming the most valuable asset and its analysis is becoming core to competitiveness. Today data is becoming a new universal language, mastering it can win sports matches, can make movies a success, can win elections, can build smart cities, can make the right trade at the right time, it may even win wars.
+
+This course explores the world of complex data analytics: information systems that are able to analyze big data and transform these restless streams of data into insight, decisions, and action. Complex analytics focuses on how we extract the data from a complex system - such as a financial market, a transport network or a social network - and process that into meaningful patterns and actionable insights.
+
+**Big Data**
+After starting the course with an overview to the subject we will look at the emergence of big data and the expanding universe of dark data; we talk about the ongoing process of datafication, the quantification of more and more aspects of our lives and the many issues that it brings with respect to privacy.
+
+**Advanced Algorithms**
+In the second section, we will talk about the rise of algorithms as they are coming to effect ever more spheres of our world. We will introduce you to the workings of machine learning systems and the different approaches used, we go more in-depth on neural networks and deep learning before assessing the limitations of algorithms.
+
+**Smart Systems**
+The third section is dedicated to smart systems, as the convergence of machine learning with the internet of things is beginning to populate our world with systems that exhibit adaptive and responsive behavior, which are autonomous and can interact with humans in a natural way. Here we look at cyber-physical systems, smart platforms, and autonomous systems before discussing security issues.
+
+**Data Driven Organizations**
+The final section deals with the relationship between people and technology and the emergence of a new form of analytics and data-driven networked organization. We talk about the fundamental distinction between synthetic and analytical reasoning as a way of understanding the distinction between digital computation and human reasoning and as a means for interpreting the rapidly evolving relationship between the two.
+
+This is not a technical course where you will learn the details of data modeling or how to build machine learning systems. What it does provide is an overview of this very exciting and important new area that will be of relevance to almost all domains, researchers, engineers and designers, business and the general public alike.
+
+The course aims to be a comprehensive overview to complex analytics, it aims to be inclusive in scope. We try to provide an understanding of the context to these major technological developments; a conceptual understanding of the methods and approaches of big data modeling and analysis; an overview to the underlying technology and address the issues and consequences both positive and negative of such technological developments.
+
+***
+
+**Complex Data Analytics Overview**
+
+In this module we are going to give an overview of the domain of complex data analytics, touching upon many of the major themes that will be expanded upon during the rest of the course.
+
+Computers do analytical processing of data, in the past, this was largely about individual machines acting on individual well-defined data structures. We called this data analytics, which is the use of computers to analyze data and find meaningful patterns within it that can be used to make decisions.
+
+Today computing is evolving to cloud platforms, advanced algorithms, and big data and we can call this advanced analytics or complex analytics. Complex data analytics is the use of advanced algorithms to process complex data structures.
+
+With the convergence of cloud computing platforms, advances in algorithms, the growth of unlabeled big data sources and now the internet of things the revolution in information is entering a new stage, with the capacities of information technology greatly expanding.
+
+The creation of personal computing, the internet, and mobile devices has created a flood of new data sources. In response, computing is moving up from individual machines with well-defined instructions acting on well defined individual data sets, to now running on clusters of machines, on massive amounts of unstructured data, using qualitatively different algorithms in the form of machine learning.
+
+In this process, we are collecting ever more data about ever more aspects of our world, we bring that into data centers and apply ever more sophisticated mathematical models and computer science methods to bear on building algorithms that allow us to look into this big data, to see what we have never seen before. A world that was previously only accessible through our imagination is being presented to us as real data and visualizations.
+
+**Datafication**
+Our data production is on an exponential growth curve with no end in sight. Our global information network is now growing at some 205,000 new gigabytes per second. A constant barrage of web searches, email, e-commerce transactions, chats, blog posts, social media feeds, data streams from factories, cars, closed-circuit TV, from financial markets, transport systems, mining equipment and buildings creates a continuous stream of structured and unstructured data. More information crosses the internet every second now than was in the entire internet just 15 years ago.
+
+As we begin to instrument our world with sensors and mobile computing our every action becomes data, it is sent to the cloud where huge modular algorithmic frameworks process and cross-correlate it with the data from everyone else. Everything becomes data, your movement, purchases, traffic, and the data gets moved to the cloud where it gets processed and compared with data from other devices, it is no longer just what you do but what everyone else also does.
+
+We begin to be able to see and connect our individual actions with those of others and the whole of the systems that we form part of like never before. When hundreds of millions of people and devices start to contribute data we can start to see patterns emerge from across society or across the whole world.
+
+But the challenge is that 80% of all this data that is created is dark, unstructured data. Data that the computers we have developed in the last 40 years are not able to analyze efficiently we miss 80% of the knowledge inside of this data. Unlocking this unstructured complex set of data sources requires new models and algorithms and this is the third part of the puzzle that has clicked into place only just recently.
+
+**Algorithms**
+Not only do we have a new computing infrastructure available to organizations on-demand and a wealth of new data sources but now we how new paradigm to algorithms in the form of machine learning systems. The algorithms of the past were well-defined rules that were pre-specified and hard-coded into the software, they were mechanistic in nature.
+
+Recent breakthroughs in machine learning, neural nets, and deep learning techniques have opened up new possibilities for processing large and unstructured data sets. Today a deep learning algorithm can easily deal with tens of millions of parameters and billions of connections, meaning they can do things that were previously unimaginable. Drive cars, detect security anomalies, analyze job applications, process insurance claims, coordinate traffic and the list is ever expanding.
+
+These machine learning algorithms often take the form of self-organizing computational networks, as exemplified by the hugely successful approach of deep learning. This approach enables computers to act on large unstructured datasets and to derive insight from them. As a consequence algorithms are no longer confined to the internal workings of your computer but can now expand out into the world acting on ever larger, more complex data structures.
+
+An algorithmic revolution is underway as we shift more and more of our systems of organization to cloud platforms. At the heart of those platforms will be advanced analytics which is used to coordinate and optimize the network, whether we are talking about on-demand car sharing or e-commerce and logistics platforms.
+
+With the current rise of cloud platforms, we are in the process of converting centralized closed organizations into large open networks. These networks will be based around market dynamics but to coordinate and optimize such complex systems will require the use of advanced analytics. Just as the vast user networks of Facebook, Uber, Alibaba, and Amazon are coordinated via advanced analytics the same will be true for all organizations. Mastering this new paradigm means not just understanding data science and machine learning but also how they operate in the context of this emerging platform economy.
+
+**Smart Systems**
+The last major component is the integration of complex analytics with the internet of things. Machine learning will be delivered as a service over the internet and the smartness that it delivers will flow to all kinds of things, as physical systems of all kind start to exhibit new forms of adaptive, responsive, autonomous and smart behavior.
+
+The internet is in the process of coming offline, into the physical world and machine learning is a central element in this as it enables the ingestion of large amounts of unstructured data it enables machines to interpret and understand the physical environment, human behavior and likewise interact with people in a fluid fashion.
+
+Not only do these advances in algorithms enable mass automation and the proliferation of autonomous robots into the everyday world, but more significantly advanced analytics is increasingly being connected ...into whole physical infrastructure systems. The smart grid will throw off massive amounts of big data and be coordinated via complex analytical systems, performing dynamic load balancing, dynamic pricing, performance reporting, predictive maintenance etc. The same will be true for transport systems - whole metro systems like that of Dubai are now automated - for mines, for fleets of ships. Rolls-Royce, for example, is partnering with Google’s Cloud Machine Learning Engine as they research and develop the next generation fleet of autonomous ships.
+
+**Managing Complexity**
+The rise of big data and advanced analytics represents a profound change in both how we understand the world, make decisions and act on those decisions, the depth, scope and significance of which is difficult to overstate. In a recent paper by Ericsson the authors capture some of the significance when they note “In contrast to digitalisation, which enabled productivity improvements and efficiency gains on already-existing processes, datafication promises to completely redefine nearly every aspect of our existence as humans on this planet. Significantly beyond digitalisation, this trend challenges the very foundations of our established methods of measurement and provides the opportunity to recreate societal frameworks, many of which have dictated human existence for over 250 years.”
+
+Advanced data analytics can be interpreted as simply how we manage our world in an age of complex systems. It holds out the possibility of actually seeing and understanding the complex systems that now run our world, from transport networks to social networks to cities and global supply chains, we actually have the possibility to manage these systems in a new way.
+
+Sean Gourley founder of Quid states it clearly when he says "We live in a very complex world, there are 7 billion minds now, and those 7 billion minds have created a world that not one of them can understand and yet we still have to make decisions we have to decide whether or not to sent troops to Iraq and we have to decide what to do about climate change and we have to decide how to deal with a global financial market that doesn't want to stay still."
+
+**Visualization**
+Firstly, complex analytics enables a new form of data-driven understanding to our world, in that it enables us to visualize and in some way see these systems that have become so complex that no one person can comprehend them. Big Data and new visualization methods can abstract away from the underlying complexity to present a quick, high-level view to an otherwise impenetrable complicated data set. Financial markets that today are hidden behind layers of opaque, complicated obscurity, could be seen and grasped by every trader in the market. Billions of data points from around the planet could be ingested, cross-correlated and visualized to deliver a real-time vision of global security threats to everyone on the planet in a way that anyone could understand in a few seconds. The threats of climate change, the risks of cybersecurity, the real social and environmental impacts of your current purchase, all could be made transparent to any one of us, enabling us all to take responsibility for our actions and incentivizing us to make the right decisions.
+
+As MIT Professor Alex Pentland put it “This is the first time in human history that we have the ability to see enough about ourselves that we can hope to actually build social systems that work qualitatively better than the systems we’ve always had.” This is not just true for society it is true for all of the complex systems that now make up our engineered environment.
+
+**Decision Making**
+Secondly, datafication changes the nature of how decisions are made in society. Companies' decision-making processes have undergone a tremendous shift in the last 20 years. Enterprises are changing their centers of gravity in their decision making units from human expertise to big data-driven systems. This shift can be attributed to people's limited information processing capabilities in relation to the explosion of data.
+
+Take for example the shipping company Maersk Line which operates a global network with a total seaborne freight of over 2 million containers that travel to 350 different ports and work to move about 15 percent of the worlds sea freight. They estimate that they are spending more than 1 billion dollars a year moving empty containers back and forth. No human could begin to reason about how to effectively coordinate such a system, but Maersk is using data and analytics to automate and optimize where empty containers go next and strip out the wasted resources in the network.
+
+This is though, a relatively simple example compared to the data challenges that societies face going forward. As the sea of data gets larger, the haystack gets larger and it becomes more difficult to find the needle. While those who fail to evolve get lost in the noise and paralyzed by the complexity, the winners at this game are those that can use this technology to see through that complexity, to find the signal in the noise with which to move fast and strategically in so doing radically outperform their peers. In an information economy, it is not the big fish that eat the small, but the smart fish that are able to see what is coming and adapt the fastest that survive. For large organizations to be those smart adaptive fish is a huge challenge and mastering big data analytics is at the heart of it. The key feature of successful organizations in the age of datafication is their ability to capture and effectively analyze the wealth of data available to them and quickly convert it into actionable insights.
+
+**Automation**
+Not only does big data analytics offer new ways of knowing our world through data and visualizations and new ways of making decisions through advanced algorithms, but mass automation likewise offers new ways to execute on those decisions. For better or worse mass automation of physical systems and basic services is now here. Around the planet from Germany to Japan physical systems are becoming automated and connected up to the cloud. With the rise of cyber-physical technologies and autonomous systems, the nature of how we manage and control our environment is also changing fast.
+
+As Steve Lohr, of the New York Times puts it "indeed the long view of the technology is that it will become a layer of data-driven artificial intelligence that resides on top of both the digital and the physical realms and today we're seeing the early steps toward that vision." Although Steve Lohr statement has a touch of science fiction to it, the surprising thing is that science fiction is becoming a new reality in our world.
+
+**Conclusion**
+The more the information we get and effectively use the larger the problems we can solve. But every powerful tool has a dark side. Such powerful technology also has profound philosophical and ethical considerations coupled with it, a dark side, of extreme concentrations of power, of control and manipulation on an unprecedented scale, of a civilization spinning out of control; the stakes have never been so high. These issues need to be addressed in the context of the underlying technological changes that are happening and we will address each of them at the appropriate stage as we go through the course.
+
+***
+
+**Data Analytics**
+
+In this module, we are going to lay down a basic understanding of what we mean by this term analytics or data analytics. Lets first take a look at some of the definitions that are out there to get an intuition for what we are talking about.
+
+Wikipedia has a straightforward definition: "Analytics is the discovery, interpretation, and communication of meaningful patterns in data."
+
+The Business Dictionary expands upon this: "Analytics often involves studying past historical data to research potential trends, to analyze the effects of certain decisions or events, or to evaluate the performance of a given tool or scenario. The goal of analytics is to improve the business by gaining knowledge which can be used to make improvements or changes"
+
+Or a third definition from David Gould who defines it as "how an entity(i.e., business) arrives at the most optimal or realistic decision from a variety of available options, based on existing data."
+
+Analytics then can be understood quite simply as, using data to answer questions. It is the process of assessing and studying data in order to derive insight, from which one can make decisions and take actions that lead to effective outcomes.
+
+On a more generalized level, we can understand analytics as simply the information processing activity that takes place within all organisms, individuals and organizations, whereby we take in information process it and create a response that enables the development of the organization within its environment.
+
+**Information**
+The central aspect here is that of information. Information is understood on a technical level as a measure of uncertainty. If we take a binary digit that can have two states 1 or 0, before I am given any information I am uncertain about the state of this system, it could be 1 or 0, however when you give me that piece of information I can check to see which state it is in and in so doing reduce the uncertainty about its value.
+
+Indeed information is not just about uncertainty but by extension, it is the capacity for an organization to grow and develop. This is due to the fact that by reducing the uncertainty we increase the certainty that our actions will be successful. When we reduce the uncertainty we can increase the efficiency with which we allocate resources and can thus develop faster.
+
+A simple example of this would be in finance, when we are trying to hedge our bets if we know that a certain outcome or set of outcomes will not occur, then we do not need to hedge against them and spread our resources, instead we can concentrate the allocation of our capital to a specific set of outcomes and thus increase our returns.
+
+This is important because it is a general condition, the more information we have the less we have to expend resources in uncertain conditions and the more the organization can invest in those options that will lead to growth. When I walk into a train station that I have never been to before, I will have to expend a considerable amount of time finding where to buy a ticket, what time the train leaves, which platform, where the platform is etc. but the next time I enter the station I will have all this information from past experience and I will walk straight to the ticket machine and then straight to the train, thus conserving time and energy, less time and resources expended means they are available for me to invest in other options.
+
+The same is true for technology, if I have a motion sensor in my house it can know when there is no one there and switch the lighting and heating off so as to have more resources to allocate in the future.
+
+So this is why we are interested in analytics because it is the central part of the information processing system within any organization that can enable it to develop and grow more effectively.
+
+**Automated**
+Analytics is all about finding patterns in data, which is exactly what humans do all day every day. However, our aim here is to automate this process of pattern discovery so that it is scalable.
+When we use the term analytics we are typically talking about the systematic computational analysis of data within an organization. We take data and use computers to search through it to answer a question that is in some way of importance to the success of the organization.
+
+If we can figure out how to formalize the problem into computer code then we can harness the true power of computation, which is to irrorate very rapidly on simple rules. By iterating very rapidly on simple rules that are combined into high-level algorithms a computer can analyze much more data much faster than a human can. As a result, we can begin to approach the amount of data analysis that is required for enabling a whole organization to operate successfully, which is the end objective.
+
+So data analytics is the information processing unit of an organization that uses data, computation and mathematical modeling to generate actionable insights.
+
+**Process**
+It all starts with data. Unlike a more theoretical approach that might start with logical reasoning and theoretical frameworks for deducing information, in contrast, analytics is always grounded in data.
+
+We sample a state space, taking in data about the system or environment and data modeling is used to organize and structure it into a form that can be processed by the system.
+This may be called descriptive analytics which is the simplest form involving the gathering and describing of data. Most analytics is of this form simply sampling data and presenting it to the organization to make decisions with. Descriptive analytics in the form of pie charts and bar charts in presentations have been the staple of business intelligence for decades.
+
+A step up from this is predictive analytics which tries to apply rules to the data to process it into forecasts about what will happen in the future. Beyond this prescriptive analytics involves using that insight to make recommendations and suggest courses of action for the organization.
+
+**Intelligence**
+All data analytics exists within the context of the broader business intelligence of the organization. This typically involves people asking the questions to start with and making the important decisions at the end of the day.
+
+As such if we want effective overall outcomes we have to think about the system as a whole; the people and the technology.
+
+You don't just need the right data, models, and technology you also need the right people asking the right questions. If you ask the wrong question in the first place it doesn't matter how good your answer is it will still lead you in the wrong direction.
+
+You need human intelligence and you need that working with the analytical capacities of the organization, it is only then that you can hope to really achieve sustained success.
+
+At the end of the day, this is all about the success of the organization, and that is dependent upon the whole system of human intelligence and analytical computation processes working together.
+
+***
+
+**Big Data & Advanced Analytics**
+
+The term big data analytics refers to the use of advanced computerized analytical methods for the processing of large complex data sets. In so doing organizations can uncover hidden patterns, correlations and other insights that enable them to perform new functions and deliver new services.
+Big data and advanced analytics represent a new paradigm in computing and a new stage to the digital transformation that organizations, economies, and societies are currently going through.
+
+The programmable computers that formed the basis of the information revolution in the 20th century are giving way to a new computing paradigm. Today the information revolution has moved on from the personal computer, spreadsheets, emails and web pages into a new information computing model built around mobile devices, IoT, big data, advanced analytics and cloud computing.
+
+This new wave to the information revolution moves up from the micro-level of individual computerized devices to whole systems of people, technology, and information networks, that generate huge amounts of unstructured data which require new algorithmic approaches to interpret.
+
+The first wave of the information revolution was built around implementing the digital format, putting data into well-structured databases, leveraging the capabilities of individual processors and the personal computer. Information was still relatively confined to specific places, well-structured and limited in volume and variety, with individual computers executing on a well-defined set of rules written by a programmer. Computers of the past have operated in predictable environments using structured and uniform data to perform prescribed operations.
+
+The rise of the internet, blogging, social networking and the Internet of Things - combined with the proliferation of mobile devices - has created a new type of data, what is called big data that comes in massive volumes, is unstructured and heterogeneous. 90% of the data in the world today is estimated to have been created in the past two years; A tweet, a photo taken at a birthday party, an online purchase made, a barcode, a web search, a video watched, an image tag, all of these contain little traces of data that can, when combined en masse, contain valuable insight.
+
+This unstructured big data now accounts for an estimated 80% of all data and it largely goes unutilized due to our lack of capabilities and thus gets the name "dark data" as we have not previously had the capacity to capture or use.
+
+Whereas the information revolution was built on the exponential growth in speed of the microprocessor - Moore's Law - this next generation is built on this explosion in unstructured data. The information revolution has created already a huge amount of data but with the rise of the Internet of Things - as we embed chips in all kinds of devices and objects - we are starting to sense our world like never before with the amount of data from this set to grow exponentially to an overwhelmingly vast amounts in the coming years.
+
+**Smart Computing**
+Just as the locus has moved from data to big data, computing has moved from personal computing to cloud computing. Cloud computing is the networking of many computers and the making of their capabilities available over the internet as a service on-demand. This next generation of computer systems has to read and interpret vast amounts of unstructured data and use it to identify patterns, often in real time.
+
+This could mean to read over, learn and understand a law book or thousands of medical journals or it could be to find a certain pattern, like a face, in millions of images or to analyze incoming communication, e-mail, voice or a social stream, to be able to give a better customer experience, it could also be to give a quick, accurate and personal reply to a customer that interacts with the company being able to understand them and find the right information for them.
+
+These systems use information from many different sources to cross-correlate them and reason about the "meaning" in the data. This next generation goes beyond the programmable computing paradigm in that these new systems learn directly from the data instead of being programmed explicitly. Machine learning methods are largely based on data instead of logic, they use data to build logic.
+
+The basic problem-solving patterns that these smart systems use applies to virtually all areas. This type of computing opens up a new world of insight in that humans are quite bad at dealing with large amounts of information, we are able to take in and cross-reference just a few data points in a rational fashion. A cloud-based application can potentially cross-analyze millions of different facts across many different domains creating a new kind of insight that is currently beyond our capabilities. In many ways, it is an important capability for managing today's large, complex industrial systems effectively.
+
+As a concrete example we could take new developments in the insurance industry. Instead of depending upon a few data points to determine the cost of coverage, car insurance companies are now trying to develop dynamic insurance premiums based upon big data. They do this by using mobile phone sensors and an app which runs in the background to establish how good the driver actually is, not only looking at how well they're driving but what roads they're using, how often they drive, how dangerous those roads are, the weather conditions etc. and then the person pays their insurance based on when and how well they have been driving. Likewise these companies also now use machine learning algorithms to look at voice data on the claims that come into their call centers.
+
+***
+
+**Complex Analytics**
+
+As we discussed in the past module, analytics is all about using data to answer questions. But how we approach doing this is very much dependent upon the complexity of the system we are dealing with and the kind of questions we want to ask.
+
+Analytics has been used within organizations in a formal way for over a century now, being pioneered by Frederick Taylor in his analysis of work processes and Henry Ford's measuring of his newly established assembly line.
+
+However, this is a relatively basic form of analytics where we are studying a very limited number of components and processes in a somewhat linear fashion. This linear approach has largely dominated business intelligence until quite recently, but as we will discuss in this module things have just got a lot more complex and our approach to analytics is likewise changing to become a lot more sophisticated, and this is now what we call advanced analytics or complex analytics.
+
+Whereas with more basic approaches to analytics we are asking relatively straightforward questions about a relatively simple system that is limited in scope. With complex analytics, we can try to answer complex questions or another way of saying that is that it is analytics for complex systems.
+
+**Complexity**
+To give this context and relevance we can note how our world has just got greatly more complex along almost every dimension over the past decades. Whether we are talking about, telecommunications, transport, international politics, supply chain management or the media landscape, the number of nodes and the degree of connectivity has greatly increased, in many cases, such as with financial markets, it is orders of magnitude greater than it was prior to the 90s. This new level of complexity that has emerged within virtually all of our systems of organization has major implications for how we should approach analytics.
+
+Living in a small town you could simply walk around and talk to people to find out what was going on. As we formed larger organizations during the industrial age new tools of communications emerge, the telegraph, telephone, and postal system enable people to communicate effectively within large organizations. Television and newspaper informed people of what was going on in their region, city or nation.
+
+But today we find ourselves embedded within vast complex systems that often span around the planet. Corporate supply chains, huge social networks, sprawling metropolitan areas, global air transport systems, the global biosphere, financial markets these are things that shape all our lives, but somehow we don't have the means, the vocabulary or the methods to actually grasp them in their complexity, to see them, to really know what is going on. As a consequence of not being able to see the workings of these systems - and thus in some way manage them - we get financial crises, we get environmental crises, we get violent social outburst because we can't see the mounting tensions, large corporations drop off the S&P 500 faster and faster because they can't see through the complexity and respond fast enough. In these increasingly complex environments that organizations operate in today traditional conceptions of linear cause and effect break down, things become ambiguous and simply left without interpretation, we find out selves in a reactionary state, continuously surprised and shocked, volatility increases, we start to see only some of the trees and no longer the forest, we become incapable of acting decisively, knowing what to do and making important long-term decisions and investments. As the complexity proliferates we are burying the proverbial needle in the haystack. More data means more noise; we stop being able to hear the things that we need to be able to here. This is the same problem for business, for individuals, for researchers, for policymakers for everyone living in this world of globalization and information technology.
+
+**New Tools**
+So how do we make sense of a complex world? We need new models and new ways of looking at the world, but just as importantly we need new tools and methods for amassing and processing data and information. This is what this course is about, these new data sources and tools to support a more comprehensive understanding of the complex systems that we are now challenged to try and manage.
+
+Whereas traditional business analytics of the past has been based upon well defined and well-structured data sets that were limited in size and complexity, today we have a wealth of new data coming from a myriad of new sources and we call this big data. Whereas the data of the past was structured into specific vertical categories being used to answer specific questions. This stream of unstructured data from a multiplicity of sources enables us to create context by making connections between a diversity of data.
+
+We no longer just have data about what products we sold and look to see how changes in price changed sales, but we now have a massive amount of data from different sources that can be used to find much more complex patterns and correlations. Data about customers, about locations, about all the other products available, specificities about the store where an item was sold or the time of day etc. and all of this can be put together in new ways to find new patterns that were previously hidden.
+
+Whereas in the past if we wanted to know where a fire might break out in a city or an accident on a highway happen, we were inclined to look at that phenomenon itself, but with complex analytics, insight may come from a completely different realm that has nothing to do with that actual activity. With analytics, we look simply at the event, with complex analytics we can now look at a network of data points to create some kind of context to the phenomenon. So that we are no longer dependent upon simplified mechanistic cause and effect descriptions but we can begin to look at things in a more realistic fashion as a network of interacting factors.
+
+John Kelly of IBM talks about this change as such "What's different now and has changed is it's no longer about taking this data putting it into a computer running a calculation and getting a balance sheet answer… what's important now is what is the context of the data, what is it connected to, what effect is it having on data around it… it's basically a network of the data, it's no longer sort of tabular columns of rows of data it's interconnected patterns."
+
+Just as data is no longer a single thing, so to the means with which we process it is changing. In the past, we used mechanistic rules, like formulas in a spreadsheet that were dependent upon strict well-defined datasets as input. Today we are moving from rule-based mechanistic algorithms, where all components are prespecified and well-defined to computational graphs, which are networks of nodes, that learn through self-organization. Complex analysis gives computers the capacity to understand data in a new way like humans do, this means that computation can now act on data derived directly from unstructured contexts and real-world environments.
+
+**New Telescope**
+One of the best examples of complex data analytics is web search. Web search was one of the first widely used application of big data and advanced analytics. A search engine like Google's looks through massive amounts of data and within seconds analyzeS it in a multiplicity of ways.
+
+Web search has given us the capacity to look into big data, to look into all this information that we have and we can think about the effects of that on transport, on research, on almost every area which now depends upon this big data of the internet and complex analytics in the form of search engines.
+
+In this respect, people often equate our newly found technological capacities of complex data analytics to that of the microscope or telescope. Jay Walker of Tedmed describes this revolution well when he says "the microscope in the 1650s and 60s opened up the invisible world and we for the first time we're seeing cells and bacteria and creatures that we couldn't imagine were there. It then happened again when we reveal the atomic world… but now there's actually a super visible world coming into play, ironically big data is a microscope, we're now collecting exabytes and petabytes of data and we're looking through that microscope using incredibly powerful algorithms to see what we would never see."
+
+With these new technologies that we will be talking about in this course, it is like we are building a new kind of instrument like we are building the telescope for complex systems. For the first time, we are able to look at these complex systems that are all around us which have a structure, a pattern and even a beauty that are invisible without the right instruments. The implications of this are huge, in terms of how we understand the world and our place within it and of course how we make decisions and act.
+
+***
+
+**Datafication**
+
+Datafication refers to the fact that we are looking at more and more things and using technology to render them into a data format. Simply said, it is about taking previously invisible process/activity and turning it into data, that can be monitored, tracked, analyzed and optimised.
+
+Whereas digitization has been a process taking place over many decades now, datafication is a relatively new phenomenon. The difference being that whereas digitization was about converting information into a digital format, datafication is more about the interaction between the digital domain and physical objects, processes, and environments.
+
+With mobile computing and the internet of things, we now have all kinds of sensors in our environments and we are starting to convert all sorts of things into a data format. There are many examples, from putting sensors on a bridge to monitor structural integrity, monitoring parking spaces, performing a 3D scan of an object to print it out later, to measuring the activity levels of a person for health.
+
+One specific example is General Electric that is in the process of converting themselves from an industrial company to what they call a digital industrial company where they create a digital twin for every one of their products. Their physical technologies are now surrounded by sensors and controllers that can pull a massive amount of data from a jet engine, from an MRI scan, from a gas turbine, wind turbine, or jet engine which all provide real-time data about themselves that goes into a virtual model of the system that is unique to that machine. This digital twin is a cloud-based virtual image of the physical asset maintained throughout the lifecycle and easily accessible. Within seconds of a new wind turbine going into operations tens of thousands of data points are created.
+
+Likewise more and more of our social activities are being rendered into a digital format. Facebook datafize our friendships, Linkedin datafize our professional accomplishments and twitter datafize our thoughts, Google maps datafize out location. A multitude of different technologies are now available that help individuals monitor and measure things that were previously difficult or impossible to quantify. Everything from how much energy and water one uses, what your food purchasing habits are, the air quality of your neighborhood, when you are awake and asleep, knowing when you are stressed or what road you select to drive to work, how you brush your teeth. We create data every time we talk on the phone, SMS, watch a video, withdraw money from an ATM, use a credit card, or even walk past a security camera. All this can now be measured, quantified and compared.
+
+**Data**
+Data comes from the Latin term meaning literally ‘something given,’ it is a set of quantities, characters, or symbols, an assumption or premise from which inferences may be drawn, it is the basis of reasoning or calculation.
+
+Data represents discrete units of information and thus we are always isolating some aspect of the phenomenon and freezing it. Data is always a slice of reality, we are chopping the world up in to little bits and taking that information as in some way complete. This makes the data portable, it can be taken from one context and brought into another.
+
+All data in the real world exist within an integrated context, no matter how extensive our gathering of data it will only ever be able to capture a partial representation of the system and in so doing separate it from its overall context. Data is always incomplete but the discrete nature of data makes it quantifiable and thus accessible to formal quantitative methods of analysis.
+
+As such data as a general concept refers to the fact that some existing information or knowledge is represented or coded in some form suitable for better usage or processing. Whereas data and information have always existed all around us what datafication does is make that information available for analysis with computers.
+
+**Formal Systems**
+The primary use of data is for manipulation within computer programs, which are formal systems. Thus with datafication, we are taking the informal everyday world and converting it into a virtual structured format that can be used within a formal system.
+
+Whereas previously with digitalization we converted many forms of information that were already in a structured and quantifiable format into a digital format for them to be accessible within individual computer programs.
+
+What we are doing today is building platforms that operate as computers but on the macro level. A computer is a system that manipulates data according to a set of instructions, whereas previously this data and instructions were within an individual computer, now with cloud computing online platforms are the computers, with their algorithms running in data centers they take in data about people and things and analyze it to create an output.
+
+A platform society is where our technologies and social lives are increasingly channeled through online platforms. Our informal lives and our engineered systems become moved on to formal platforms, whether this is dating websites, car sharing platforms, or healthcare. They all require that we datafy the things in our world and our lives and input that data to the platform which then acts on it; analyzing it to create insight, make decisions, match and coordinate different systems.
+
+As a consequence of moving ever more of our systems of organization to these automated platforms, we begin to increasingly understand and manage organizations and things via sets of data points, as an ever more complete information picture of who we are and our engineered environments is compiled in these information systems.
+
+This is the journey that we are on, we are going to turn our world into data so that we can bring it into these platforms, these formal systems and process it. However, a lot of the problems we are going to have later on down the line are going to really come from this incompleteness of data. Datafication will unavoidably omit many features of the world, distort others and decontextualize events.
+
+**Significance**
+This process of datafication enables us to change the very foundations upon which we make decisions for organizing society and economy, instead of people making best effort guesses in a context of incomplete information it takes us into a world of decisions being made by algorithms based upon huge amounts of data which coordinate the platforms that increasingly mediate every aspect of our lives. This has profound long-term consequences. It begins to challenge some of the fundamental mechanisms upon which society has always depended upon – from the basis of the techniques used in the scientific method to how the economy is measured and structured.
+
+In a recent publication by Ericson they summarize the distinction between digitization and datafication as such “In contrast to digitalization, which enabled productivity improvements and efficiency gains on already-existing processes, datafication promises to completely redefine nearly every aspect of our existence as humans on this planet. Significantly beyond digitalization, this trend challenges the very foundations of our established methods of measurement and provides the opportunity to recreate societal frameworks, many of which have dictated human existence for over 250 years.”
+
+***
+
+**Big Data**
+
+Big data is a term that has come to be used in reference to data structures that are diverse, complex, and of a massive scale.
+Although the term has been in use since the 1990s it is only with the rise of web 2.0, mobile computing and the internet of things that organizations find themselves increasingly faced with a new scale and complexity of data. The term big data implies an increase in the quantity of data, but it also results in a qualitative transformation of how we store and analyze such data - it is certainly the case with big data that more is different.
+
+**Context**
+The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s resulting in an extraordinary increase in data storage capacity. Since that time the amount of information in the world has exploded. Likewise, the digitalization of that information has happened in a historical blink of an eye. Back in the late 80s, less than 1% of the world's information was in digital format by now more than 99% of all the information in the world that is stored is in digital format.
+
+Equally the amount of data available through the internet has grown at an extraordinary level. The world's effective capacity to exchange information through telecommunication networks was 281 petabytes in 1986, 471 petabytes in 1993, 2.2 exabytes in 2000, 65 exabytes in 2007 and predictions put the amount of internet traffic at 667 exabytes annually by 2014.
+
+From this data we can see how a little after the year 2000 the amount of digital information began to explode and at the same time - largely due to the mass adoption of the internet and user-generated systems - the nature of that data change from being largely structured to being largely unstructured; we might identify this as the tipping point from the world of data to the world of big data.
+
+Indeed, industry, government, and academia have long produced massive data sets, such as remote sensing, weather prediction, scientific experiments or financial markets. However, given the costs and difficulties of generating, processing, analyzing and storing such datasets, these data have been produced in tightly controlled ways using sampling techniques that limit their scope, temporality, and size.
+
+For example, to make the compiling of national census data manageable they have been produced once every 5 or 10 years, asking just 30 to 40 questions, and their outputs are usually quite coarse in resolution. While the census may wish to be exhaustive, listing all people living in a country, most surveys and other forms of data generation are samples, seeking to be representative of a population but not technically capable of representing all features.
+
+Big data has a number of key attributes that make it distinct in nature from these more traditional data sets, including its volume, velocity of data capture, variety of data sources, its high resolution and often exhaustive scope of sampling.
+
+**Volume**
+Firstly as the name implies big data is truly huge in volume, consisting of terabytes or petabytes of data. Take for example the Chinese rides-sharing platform DiDi, which serves some 450 million users across over 400 cities in China. Every day, DiDi's platform generates over 70TB worth of data, processes more than 20 billion routing requests, and produces over 15 billion location points. Or for example, a typical 20-bed intensive care unit generates an estimated 260,000 data points a second. A military fighter jet drone may have 20,000 sensors in one single wing to enable it to fly by itself. On one single flight, an A850 airplane can produce 250 gigabytes of data.
+
+**Velocity**
+Secondly, these data sources can be high velocity as data is being created in, or near real-time to produce massive, dynamic flows of fine-grained data. For example, Facebook reported that it was processing 2.5 billion pieces of content, 2.7 billion ‘Like’ actions and 300 million photo uploads per day in 2012. Similarly in 2012 Wal-Mart was generating more than 2.5 petabytes of data relating to more than 1 million customer transactions every hour.
+
+**Variety**
+The variety of the data and data sources is a key aspect of big data that differentiates it from more traditional forms of structured data. Photos, videos, text documents, audio recordings, books, email messages, presentations, geolocations, tweets, are all data, but they're generally unstructured, and incredibly varied.
+
+As an article in the Sloan Review entitled "Variety, Not Volume, Is Driving Big Data Initiatives" notes "The past several years have been period of exploration, experimentation, and trial and error in Big Data among Fortune 1,000 companies... For these firms, it is not the ability to process and manage large data volumes that is driving successful Big Data outcomes. Rather, it is the ability to integrate more sources of data than ever before — new data, old data, big data, small data, structured data, unstructured data, social media data, behavioral data, and legacy data."
+
+While this variety may be the key source of complexity to big data it may also be the key source of insight; by referencing different sources we can begin to build up context to an event or outcome instead of unidimensional interpretations.
+
+For example, if we take something like fraud detection on a debit card, an ATM machine may just swallow your debit card because you are simply using it in a different country from where you usually are, the result of this analysis based upon a single data point gives very crude outcomes. But with a variety of data sources, such as social media, purchase history, geolocation etc. a much more nuanced picture could be build up to better understand if it is really you standing in front of the ATM or not.
+
+**Exhaustive**
+Big data is often exhaustive in scope, striving to capture entire populations or systems and all relevant data points. Take for example a recent project initiated by the U.S. Securities Exchange Commission to try and capture and analyze every single US financial market event, every day. The goal of the project called Consolidated Audit Trail or CAT is to track every life cycle event, every tick, every trade, every piece of data that's involved in the US market in one place. The goal is to build a next-generation system that will allow them to understand in a reasonable amount of time what is happening in the market. This involves taking data from all the different silos, across all these banks, the broker-dealers, the executions, the dark pools, and bringing them into a single system.
+
+The system has to ingest between 50 and 100 billion market events per day, that's 15 terabytes of data a day that needs to be processed within four hours and made available for running queries on the whole data set, so that any trade from that day can be traced from its origins all the way through to completion.
+
+We can note how we are no longer simply looking at a very limited amount of historical snapshots but in fact, all market events are available for analysis.
+Previously due to limitations of storage and computational devices, we would basically compute based upon samples and then make inferences but the hope of this exhaustive sampling is ...that with big data there may be no sampling error.
+
+**High Resolution**
+Big Data is characterized by being generated continuously, seeking to be exhaustive and fine-grained in scope. Examples of the production of such data include: digital CCTV; the recording of retail purchases; digital devices that record and communicate the history of their own use such as mobile phones; the logging of transactions and interactions across digital networks like, email or online banking; measurements from sensors embedded into objects or environments; social media postings and the scanning of machine-readable objects such as travel passes or barcodes.
+
+**New Methods**
+The scale and complexity of Big data require in turn a change in computing paradigm, both in how we structure data and how we process it. Big data usually includes data sets with sizes beyond the ability of commonly used software tools to capture, curate, manage, and process data within a reasonable time.
+
+Database systems up until just a decade ago were almost completely structured relational databases. Data was structured into tables and columns but with the rise of big data has come to the evolution of databases into a "nonrelational" form what can be referred to as NoSQL. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. In contrast to relational databases where data schemas are carefully designed before the database is built, NoSQL systems create flexible data schema or no schema at all. For example, one type of NoSQL structure a graph storage. Graph data storage organizes data as nodes, which are like records in a relational database, and edges, which represent connections between nodes. Because the graph system stores the relationship between nodes, it can support richer representations of data relationships. Also, unlike relational models reliant on strict schemas, the graph data model can evolve over time and use.
+
+Additional technologies being applied to big data include massively parallel-processing databases; multidimensional big data can also be represented effectively as tensors, making it more efficient to handle by tensor-based computation. Likewise the paradigm of computing is also evolving to meet the requirements of big data. As the head of research at IBM John Kelly puts it "we are going through a revolution in computing systems, we went from tabulating systems, to programmable systems, we are entering this era of cognitive systems that are systems that are able to make sense of this big data in a reasonable way."
+
+This new computing paradigm for the age of big data is based around the various forms of complex analysis that we will be talking about incoming videos such as machine learning that can automatically mine, detect patterns and build predictive models to optimize outcomes on large datasets.
+
+***
+
+**Dark Data**
+
+The digital universe - consisting of all the data we create annually - is currently doubling in size every 12 months. According to research by IDC, it is expected to reach 44 zettabytes - that’s 44 trillion gigabytes - in size by 2020 and will contain nearly as many digital bits as there are stars in the universe. What’s more, these projections may actually be conservative given the rise of IoT. Likewise, it is estimated that by 2030 more than 90% of this data will be unstructured.
+
+This explosion of data is of course far outstripping our capacities to use it. A small fraction is in a traditional structure form that is easily accessible and usable by organizations, a larger section of big data is unstructured but at least somewhat accessible, while the vast majority is simply hidden all together going unseen and unused, this, we can call dark data.
+
+As Alessandro Curioni of IBM notes "80% of all this data that is created is dark, unstructured data, data that the computers we have developed in the last 40 years are not able to analyze efficiently... we miss 80% of the knowledge inside of this data."
+
+Few organizations have been able to explore non-traditional data sources such as audio, image, and video files; the growing flow of machine and sensor information generated by the Internet of Things; and the enormous stores of raw data found in the unexplored depths of the ‘deep web.’ These all constitute dark data.
+
+As an example, we can think of supply chain data. A recent Gartner survey found that 85% of respondents felt that supply chain complexity is now a significant and growing challenge for their operations. Supply chain is a data-driven industry, spanning across a network of global suppliers, distribution channels and customer base, this industry churns out data in big numbers. Given that an estimated only 5% of this data is being used there is ample opportunity for big data technologies to bring this 95% dark data to light.
+
+Dark data was a term coined by the IT consulting firm Gartner who define it as "the information assets organizations collect, process and store during regular business activities, but generally fail to use for other purposes - for example, analytics, business relationships and direct monetizing. Similar to dark matter in physics, dark data often comprises most organizations’ universe of information assets."
+
+Data may be considered dark for a number of different reasons because it is unstructured, because it is behind a firewall on the internet, it may be dark because of speed or volume, or because people simply have not made the connections between the different datasets.
+
+In many organizations, large collections of both structured and unstructured data sit idle. On the structured side, it’s typically because connections haven’t been easy to make between disparate data sets that may have meaning—especially information that lives outside of a given system, business unit or function.
+
+Regarding “traditional” unstructured data, such as emails, messages, documents, logs, notifications. These are often text-based and reside within organizational firewalls but remain largely untapped, this may be because they do not reside in a relational database or because until relatively recently, the tools and techniques needed to leverage them efficiently did not exist. Buried within these unstructured data assets could be valuable information.
+
+**Unstructured**
+The second dark analytics dimension focuses on a different category of unstructured data that cannot be mined using traditional analytics techniques, such as audio, still image and video files from others sources. Much of the world's information is now being created in rich media such as images and video but computer scientist of long since view video as the dark matter of the internet universe because they did not have the tools to analyze it.
+
+In 2016 alone we took an estimated trillion photographs, in the past, this was simply unstructured data we couldn't use they were just collections of dots of color. The same for videos unless someone put a tag on it to describe the contents in text it was effectively dark data.
+
+It is only very recently with advances in machine learning and image recognition methods that this is changing. Googles Video analysis API can now go through every seen in a video and identify specific elements in those scenes, such as a dog, birthday cake, a mountain, a house etc. A search engine can then be implemented to look through these videos to identify specific features and when they show up in the video, thus converting the dark data into light data.
+
+**Deep Web**
+As a major dimension to dark analytics, the deep web owns what may be considered the largest body of untapped information. The deep web consists of information that is not index by publicly accessible search engines today. According to a study published in Nature, Google throws up about 16 percent of the surface web. Popular Science described it “like fishing in the top two feet of the ocean.” It is impossible to accurately calculate the deep web’s size, but by some estimates, it is 500 times larger than the surface web that most people search daily. The domain’s sheer size and distinct lack of structure makes it a daunting complex adventure. Data curated by academics, consortia, government agencies, communities, and other third-party domains, medical records, legal documents, scientific documentaries, multilingual databases, financial information, government resources, organization-specific databases, all hidden from outside usage and largely unknown to anyone but their owners.
+
+**Dark Analytics**
+To date, companies have explored only a tiny fraction of the digital universe for analytic value. The term "dark analytics" refers to turning dark data into intelligence and insight that an organization can use. Dark analytics seeks to remove those limits by casting a much wider data net that can capture a corpus of currently untapped signals.
+
+Recent advances in computer vision, pattern recognition, and cognitive analytics are making it possible for companies to shine a light on these untapped sources and derive insights. New dark analytics companies like Deep Web Technologies builds search tools for retrieving and analyzing data that would be inaccessible to standard search engines. Or Lattice Data recently purchased by Apple is a company that applies an AI-enabled inference engine to take unstructured, “dark” data and turn it into structured and more usable information.
+
+***
+
+**Data Driven Decision Making**
+
+When Hurricane Katrina was about to hit the coast of the United States a large retailer did a study to prepare themselves by asking what products they might sell out of and what they should stock up on. A roomful of intelligent and experienced executives thought through what those products might be and came up with reasonable answers such as flashlights, batteries, water, canned foods, sandbags and more, but when they ran the data and analytics the number one product was, in fact, Budweiser beer. This is the power of data to illuminate insight, to take us beyond intuition and help us make a data empowered decision and it has relevance for almost everything we do.
+
+More and more of our actions and interactions with the world are becoming mediated by data. This alters how we interact with the choices we make. Understanding and seeing data can completely change the ranking of a set of options available to us and hence how we allocate resources, both as individuals and collectively. Almost everything can be tested, measured and improved and this is truly bringing about a quiet but fundamental cultural transformation in how we make decisions.
+
+Datafication brings about a more objective form of decision making, what is called data-driven decision making. For example, when it comes to choosing a movie we used to go to the store and pick up the movie, browse through all the titles, read the description and decide if we want to see it. Now we are confronted with algorithms that make recommendations based on the data from the past films that you have seen, as well as who your friends are, what films they have seen and liked and the aggregation of feedback from thousands or millions of other people.
+
+Madeline McIntosh from a book publishing house talks about how the culture of publishing change with the arrival of Amazon's data-driven approach. The traditional culture of publishing was what she called a culture of lunches, culture of conversations where people had hunches and ideas about books and they discussed them. Amazon then brought a data-driven, numbers and math-driven approach to this and was able to basically figure out much better what was working and what wasn't working, with the result being that they basically took over the market. This transformation is happening in many areas of our economy, more traditional companies are being displaced by companies that have embraced this new technology and cultural paradigm of data.
+
+Think about wine tasting which is maybe the quintessential human skill, there are human experts who look at and smell the wine to tell you what it tastes like if it is of good quality. This is a highly refined skill and sensory ability but it's also true that wine is at the end of the day just a certain molecular composition and you can analyze it with numbers. The wine analytics company Enolytics have been able to figure out that you can predict how an expert will rate it before they even taste the wine with remarkable accuracy.
+
+Of course, this applies to more and more spheres of life, Wall Street is no longer full of people on seats making trades based on intuition and hope, but up to 70% of those decisions are now made by algorithms acting on data. Likewise, decisions on healthcare diagnostics are increasingly made by analytical systems acting on data, sports decisions are based on big data extracted from cameras and sensors in the shirts of players etc.
+
+The implicit premise of big data is that decisions can be made wholly based upon data and computerized models, shifting the locus of decision making from people and intuition to data and formal models.
+
+**HiPPOs**
+EMC big data guru Bill Schmarzo describes well how decisions are currently made based on gut feeling. “One of the most critical aspects of big data is its impact on how decisions are made and who gets to make them. When data are scarce, expensive to obtain, or not available in digital form, it makes sense to let well-placed people make decisions, which they do on the basis of experience they’ve built up and patterns and relationships they’ve observed and internalized. ‘Intuition’ is the label given to this style of inference and decision-making. People state their opinions about what the future holds—what’s going to happen, how well something will work, and so on—and then plan accordingly.”
+
+The term HiPPO is an acronym now used to describe this typical corporate decision-making process, where the highest-paid person in the room gets to make the final call. Much of our approach to decision making has been a function of simply not having data and not knowing. In the past, we have had to make decisions about complex environments and complex systems without being able to see or know what they were really like, just based on some intuition. But big data analytics offers this new telescope with which to actually see these systems and the difference between having a hunch and actually seeing the data can be huge in terms of the actual decisions that get made.
+
+Every minute, the world loses an area of forest the size of 48 football fields. And deforestation in the Amazon Basin accounts for the largest share, contributing to reduced biodiversity, habitat loss, climate change, and other devastating effects. But better data about the location of deforestation and human encroachment on forests could help governments and local stakeholders respond more quickly and effectively.
+
+A project called Planet, is currently developing the world’s largest constellation of Earth-imaging satellites, it will soon be collecting daily imagery of the entire land surface of the earth at 3-5 meter resolution. While considerable research has been devoted to tracking changes in forests, it typically depends on coarse-resolution imagery, Furthermore, these existing methods generally cannot differentiate between human causes of forest loss and natural causes.
+
+Planet are challenging the analytics community to develop machine learning models for labeling satellite image clips with atmospheric conditions and various classes of land cover and land usage types. Resulting algorithms will help to better understand where, how, and why deforestation happens all over the world A much clear image of this complex system would enable action-oriented decisions to be taken.
+
+Data holds out huge potential to revolutionize how we make decisions, to shake up existing inert patterns of thought and action taking, to over through unquestioned bias, to question established assumptions, but data also has its limitations and this is what we will look at in the next module as we go further into the conceptual foundations of the big data paradigm talking about dataism.
+
+***
+
+**Dataism**
+
+The explosion in the production of Big Data, along with the development of new analytical methods, is leading many to argue that a data revolution is underway that has far-reaching consequences for not only how business is conducted and governance enacted but the very nature of how knowledge is produced within society. This is because Big Data analytics enables an entirely new epistemological approach for making sense of the world; rather than testing a theory by analyzing relevant data, new data analytics seeks to gain insights that simply emerge from the data itself without apparent interpretation being imposed upon it.
+
+This idea was expressed in a somewhat provocative way in a 2008 article by, Chris Anderson of Wired magazine, where he argued that Big Data analytics signal a new era of knowledge production characterized by ‘the end of theory’. He wrote that ‘the data deluge makes the scientific method obsolete’; that the patterns and relationships contained within Big Data inherently produce meaningful and insightful knowledge about complex phenomena. Essentially arguing that Big Data enables a more empirical mode of knowledge creation as terabytes and petabytes of data allow us to say: ‘Correlation is enough.’ We can simply analyze the data without hypotheses about what it might show.
+
+As he writes "we can throw the numbers into the biggest computing clusters the world has ever seen and let statistical algorithms find patterns where science cannot … Correlation supersedes causation, and science can advance even without coherent models, unified theories, or really any mechanistic explanation at all. There’s no reason to cling to our old ways."
+
+Anderson's article is a flamboyant elaboration on what has come to be called dataism. Dataism may be recognized as the general underlying philosophy of big data which holds data as a primary source of truth in its own right. Big Data offers the possibility of shifting from static snapshots to dynamic flows; from coarse aggregations to high resolutions; from data-scarce to data-rich; from relatively simple models to more complex, sophisticated simulations.
+
+This all-encompassing, pervasive, fine-grained nature to big data takes us into a new kind of paradigm where we could at last access the world without any kind of mediation, directly, in the language of 1s and 0s. In its capacity to present us with raw facts data may take us beyond our intuition, assumptions, bias, prejudice and other distortions. But at the same time, data can be deceptive, hiding behind a veil of objectivity while excluding the relevance of context. Thus if we want to really push what we can do with data analytics we need to be aware of where its limitations lie and how this paradigm of big data works.
+
+**Approaches**
+The traditional way we have done science is by creating a hypothesis, we then go into the data to test that hypothesis. Usually, statistics has aimed first at the discovery of preexisting hypothesis. But the very idea of data mining is not to determine pre-existing hypothesis but make hypothesis surface from the data itself, so hypothesis or categories do not preexist the collection and processing of data; hypothesis instead is the result of the processing of data, which reverses the traditional more theoretical approach.
+
+What people increasingly want now are tools that find interesting things about the data, what is called data-driven discovery. The analyst does not even have to bother proposing a hypothesis anymore. The argument is that ‘mining Big Data reveals relationships and patterns that we didn’t even know to look for.
+
+Rebecca Siegel in a 2013 paper states this as such "we usually don’t know about causation, and we often don’t necessarily care ... the objective is more to predict than it is to understand the world ...It just needs to work; prediction trumps explanation."
+
+We can take the case of a retail chain that analyzed 12 years’ worth of purchase transactions for possible unnoticed relationships between products that when into shoppers’ baskets. Discovering correlations between certain items led to new product placements and a 16% increase in revenue per shopping cart in the first month’s trial. There was no hypothesis that Product B was often bought with Product Z that was then tested. The data were simply queried to discover what relationships existed that might have previously been unnoticed.
+
+Amazon’s recommendation system produces suggestions for other products a user might be interested in without necessarily knowing anything about the product itself; it simply identifies patterns of purchasing across customer orders. Whilst it might be interesting to explain why these associations exist within the data, such explanation is often seen as largely unnecessary in a world of commerce where all that matters are outcomes.
+
+**Basic Principles**
+There is a comprehensive and attractive set of ideas at work in the data paradigm that run counter to the deductive approach that is in many ways dominant within modern science. The basic premise is that because Big Data can capture a whole domain, providing a complete high-resolution dataset, there is no need for prior theory, models or hypotheses, as through the application of data analytics the data can speak for themselves free of human bias or framing. Meaning transcends context or domain-specific knowledge and is thus neutral being able to be interpreted by anyone.
+
+As Yuval Noah Harari in his book Homo Deus: A Brief History of Tomorrow writes "For politicians, business people, and ordinary consumers, Dataism offers groundbreaking technologies and immense new powers. For scholars and intellectuals, it also promises to provide the scientific holy grail that has eluded us for centuries: single overarching theory that unifies all the scientific disciplines from musicology through economics to biology. According to Dataism, Beethoven’s Fifth Symphony, a stock-exchange bubble and the flu virus are just three patterns of dataflow that can be analyzed using the same basic concepts and tools.”
+
+We can already see how this idea of the universality of data is being applied as small groups of mathematicians, physicists, computer scientists and data analysts come to be incorporated into more and more domains, from finance to business consulting companies to energy companies and all forms of technology companies, which implies that there is a single language of data that applies to all equally.
+
+**Limitations**
+So what are the limitations of the data paradigm? Dataism is an extension of the reductionist paradigm in an age of information. Reductionism is the idea that a system, any system is nothing more than the sum of its parts. It is to say that nothing is truly continuous, everything can be rendered into a discrete quantified format without any loss of content. This is of course what datafication does, all data is discrete in that it takes a section of the universe and sticks a label or value onto it, presenting it as in some way separate from everything else and thus making it possible to move around and process into new configurations. Through analysis, we break systems down to isolate component parts, quantify them and describe the whole as some combination of the parts.
+
+Reductionism has many great achievements but it also has its limitations. It systematically de-promotes complex relations, context and continuous processes. It takes no account of emergent phenomena that result in irreducible whole systems and processes. It can tell us about the billions of neurons in the brain but not about consciousness, it can tell us about the molecular makeup of water but not why when we combine the molecules they create something that has the property of being wet.
+
+Data is objective and it is discrete, it cannot tell us about what is subjective and continuous. The discrete nature of data is why it is so useful, it means that we can take it, separate it from the world and put it into an algorithm to manipulate and interpret in new ways. But it is also its inherent limitation, it can't tell us about the synergies between the parts that make them continuous, more than the sum of those parts and irreducible to those discrete units.
+
+Datafication gives us a new tool to look at the world, but the problem is that that tool is incomplete; as convincing as it appears reductionism is only ever half of the story. By its inherent nature, it lets us see somethings and not others. The risk of it though is that we stay looking under the streetlamp because that is the only place that data sheds light and forget about everywhere else that it doesn't shed light. Such an incomplete interpretation of the world can only ever lead to incomplete outcomes.
+
+The technology ethnographer Tricia Wang describes this well when she says "that's why just relying on big data alone increases the chance that we'll miss something, while giving us this illusion that we already know everything… we have this thing that I call the quantification bias which is the unconscious belief of valuing the measurable over the immeasurable… But the problem is that quantifying is addictive and when we forget that and when we don't have something to kind of keep that in check, it's very easy to just throw out data because it can't be expressed as a numerical value... this is a great moment of danger for any organization, because oftentimes, the future we need to predict -- it isn't in that haystack, but it's that tornado that's bearing down on us outside of the barn. This analogy of the haystack and the barn touches on an important idea, which is that analytics helps us to better understand what is inside of the box and how the box works, but it can't help us in seeing what is outside of the box, for that you need a very different process of reasoning call synthesis, and we will pick this theme up again in a later module.
+
+***
+
+**Data Privacy**
+
+With information technology, we have gone from a world that was private by default, to a world that is public by default. In a pre-digital world, our lives were primarily private by default, by the fact that most of our communications were not mediated by tools for mass communications; that our conversations were bounded by the physical location and thus it took extra resources and effort to publish publicly. Now it takes extra effort to make it private. This massive amount of data that is being generated by people can, of course, be used for beneficial outcomes or for detrimental outcomes. This social data can be used by researchers to understand society better, it can be used for beneficial security reasons, it can be used for enhance services provided. But there are growing concerns that our data is or might be used against us in a multiplicity of ways. If the interests of the platform were always aligned with the interests of the user then there would be no great concern. The issue arises when the two are misaligned.
+
+Today our platform societies are engaged in a dubious, questionable relationship with their platform providers. Individual people give over their information willingly to online platforms in exchange for the services they provide, but few fully appreciate the negative externalities of this when taken on aggregate. The ubiquity and complexity of surveillance are very difficult for people to grasp. For example, one of the largest data brokers, Acxiom claims to have 1500 pieces of information on 200 million Americans while the Company Hundt says that it can predict people's consumer preference from just 5 data points about them. Our private information is being traded all around us and ever more sophisticated technology is being used to predict and alter our behavior without our even knowing it.
+
+As we become more digitized we start to leave an endless trail of data dust behind us that is hoovered up by companies and used to predict and alter our next step. With the next generation of technologies - Internet of Things, advances in big data storage, advanced analytics and smart systems - this data economy will greatly expand and so too will the predictive capabilities of organizations, creating a significant imbalance of power.
+
+The first question though is why should we care about privacy? Social systems always engender a complex dynamic between the group and individual, between the public and private. Functioning social systems require a diversity of individuals, that are able to come together, connect, find commonality and coordinate. Both differentiation of individual and commonality of the whole are required. Individuality and diversity require subjectivity that is inherently private, it has to be developed autonomously. This requires individual space and privacy to develop ways of being that others may not like or may not be aligned with the group.
+
+Social dynamics emerge out of the interaction between the private and the public, it is an inherent part of how social systems evolve through individuals developing new solutions in private to overthrow the commonly accepted norms; this is how we got rid of slavery and achieved women's rights. When these movements were started the society of the time would have rejected them if they had not had the private space to be incubated. Without that privacy there would be no incubation of new solutions, limited diversity and societies would become stagnant. The same is true for gay marriage and marijuana that are currently in the process of being legalized around the world, we would never have got there in a world of perfect information and complete surveillance.
+
+Frank Rieger of the Chaos Computer Club states it clearly when he says "if you have your privacy guaranteed, technically or politically, then you can come up with political dissent, ways to change the world. When you don't have privacy, when all the things you do are completely transparent, knowable and predictable then you cease at that point."
+
+People need places where they can be free from the judgment of others in order to develop underdeveloped subjective dimensions to themselves, to develop into new people. That is not to say they will not abuse that privacy and use it for other less worthy ends - they often do - but it is a reason why privacy cannot simply be done away with by hyperconnectivity. Privacy is a space where creativity, exploration, and dissent can thrive. When we do away with privacy we limit those valuable resources required to sustain a society. A measure of how good a society is not how well it treats is favored, compliant and obedient citizens but how well it treats its dissidents and rebels. Mass surveillance dampens our freedom in all sorts of systemic ways that are largely unnoticed, it removes many behavior choices without us knowing that they have been excluded from our options.
+
+There is plenty of research to corroborate the fact that when people are in a public setting where their behavior is being observed, or they know that they might be watched in some way by others, the behavior they undertake is greatly more conformist and compliant. Human shame is a very powerful motivator shaping behavior towards conformity. When people are being watched, people make decisions that are not necessarily of their own innate agency and are, in fact, the expression more of the will of others and their society's orthodox - surveillance creates a conceptual set of constraints and conformity.
+
+**Technology**
+The idea that government regulation is somehow going to solve the privacy equation is somewhat naive. It is important to appreciate that the power of the technological process of change that is underway far outstrips our existing institutional capacity to deal with it.
+Professor José van Dijck of Amsterdam University notes this well when she says "what's at stake here is not one platform or one thing, it's the credibility of the system in which commercial state public interests are becoming increasingly intertwined and very hard to discern… the core of the problem, of the paradox, is that public values are no longer rooted in public institutions... deinstitutionalization, deregulation, globalization have really caused the erosion of what public value is all about… I think and I regret that public institutions are alarmingly unprepared for the questions raised by this global information influx."
+
+If you are serious about finding solutions to such issues as privacy then you really need to work with the technologies not against them. There is clearly a shift that needs to take place in data ownership and privacy for the platform economy to arrive at a more sustainable model. The current model where data becomes public, the property of private organizations, and stored in centralized data centers by default, needs to change to one where it first becomes the property of the individual and is public to the extent that it needs to be public, thus reducing risk and negative externalities. The blockchain can, and probably will play a central role in this. The next round of internet applications built on the blockchain and Ethereum can enable the creation of distributed social platforms without centralized management, where data is secure and owned by the user with it then being up to them as to when and how they share that data. The blockchain actually gives us the technological means to build platforms that would take us to a more sustainable data future.
+
+The algorithmic regulation in the form that is currently emerging in contemporary modern democracies seems to be providing a one-way mirror that allows institutions to look down to surveil those below, but those below have no real prospect of peering into let alone understanding and challenging these algorithmic black boxes that regulate their lives, but it doesn't have to be like this. As Kevin Kelly of Wired Magazine says "Our central choice now is whether this surveillance is a secret, one-way panopticon - or a mutual, transparent kind of 'coveillance' that involves watching the watchers" -
+
+Through open source software and blockchain technology we can shift this balance of power from centralized institutions to individuals, to build systems that put data in the hands of people and make it secure and only accessible under their consent, we can build systems that have a two-way transparency and accountability; the question is will we.
+
+***
+
+**The Rise of Algorithms**
+
+The term algorithm is currently making a meteoric rise to fame. A geeky term that was previously confined to the world of mathematicians and software engineers is making its way into the mainstream, as people are increasingly recognizing the material impact on society that algorithms are starting to have.
+
+Algorithms, that used to be buried away inside of computer program files, used to find the derivative of a slope, or to find the shortest path between two locations, have today expanded to almost all areas of human activity.
+
+Algorithms for determining the value of a basketball player based upon a computerized analysis of his performance last season. Algorithms that analyze the incoming customer service calls and rout them to the most appropriate agent. Algorithms determining the likelihood of a convict reoffending, for analyzing insurance claims, for coordinating the nightly maintenance on a mass transit system, for driving cars, identifying symptoms. Algorithms to determine which candidate a company should hire, who should we recommend as a friend on social media or what films, books or music would someone like. And of course, algorithms have taken over financial markets, now making up 70% of trades, as stock markets have become layers upon layers of algorithms.
+
+An algorithm is a set of instructions for performing a certain operation. An algorithmic system takes an input and transforms it into a set of operations to create an output. Cooking a loaf of bread may be seen to follow an algorithm, where we take an input such as flour, water, salt and so on and perform a set of operation on them, such as mixing, needing, baking etc. to create an output which is the cooked loaf of bread.
+
+Algorithms are as old a civilization itself - Euclid's algorithm being one of the first examples dating back some 2300 years - but what we are doing with them today is very different from what they did in the past which was largely strict formal mathematical operations and limited statistical analysis. Algorithms are being transformed from the mechanistic linear form of the past, where we prespecified all the rules, hand-coded them with the end result looking like cogs in a gearbox, to today where algorithms take a more networked form, they are self-organizing and learn from data. These new forms of algorithms take many different names from cognitive systems to artificial intelligence, to machine learning.
+
+Fei-Fei Li of Stanford describes some of the factors involved in this transformation "Around 2010, around that time, thanks to the convergence of the maturing of statistical machine learning tools the convergence of big data, brought to us by the internet and by the sensors, and the convergence of computing, the Moore's law, carried us to much better hardware. These three pillars came together and lifted AI from the in vitro stage into what I call the in vivo stage AI in vivo is where AI is making a real impact to the world it's just the beginning every single industry… is going through a transformation because of cloud, because of data, because of AI and machine learning and this is what I see as the historical moment, but I also want to say that it is just the beginning."
+
+These advanced algorithms, unlike the static mechanical models of the past, are adaptive in nature: They may learn as information changes, and as goals and requirements evolve. They may resolve ambiguity and tolerate unpredictability. They may be engineered to feed on dynamic data in real time, or near real time they are amenable to the processing of unstructured data, the processing of millions of parameters and complex patterns. Such as speech recognition, sentiment analysis, face detection, risk assessment, fraud detection, behavioral recommendations, sentiment analysis. This means these advanced analytical methods are no longer confined to mathematical operations but can handle more unstructured human-like activities such as many basic services.
+
+**Cloud Platforms**
+As we have previously touched on big data and advanced analytics can be most effectively understood as an evolution in computing, where the internet and cloud computing have enabled us to move the locus of computing from individual machines to whole macro-level systems.
+The idea of a computer is really just an abstract model for systems that store and manipulate data according to a set of instructions called algorithms. The implementation of this model can take many forms. We are used to thinking of it as the personal computer on our desktop, but with the rise of mobile computing, the internet and cloud computing this computing is becoming pervasive but also integrated through these cloud platforms.
+
+How the model of a computer is being realized is changing from the individual computers of the past to the cloud-based information systems of today. In the process, we go from data as contained in individual databases and well-structured files to big data. Likewise how we manipulate that data changes, not only does the nature of the algorithms change but also how those algorithms operate shifts to cloud platforms.
+
+Cloud computing platforms have been a key innovation over the past decade, although a relatively straightforward idea - of centralizing computing resources within a datacenter and then delivering them as a service over a network - the outcomes of doing this are though extremely impactful. These new forms of advanced algorithmic methods, that we will discuss in coming modules are very compute intensive. The demand for computation resources does not scale linearly with the size of the data but scales quadratically or cubically with the size of the data and when you are talking about billions of data points that causes problems and we need new computing platforms to mitigate that.
+
+Throughout human history, computing power was a scarce resource, and until the past few years, high-end computer processing and storage offerings were out of the reach of all except the largest of organizations and then at the cost of millions of dollars. However, with the advent of global scale cloud computing, high-end computing is now available to organizations of almost all size at low cost and on-demand.
+
+The arrays of billion-dollar scale data centers owned and operated by Amazon, Google, and Microsoft, are now at the fingertips of many. Many of the largest applications on the internet today run on cloud computing infrastructure. Take for example Airbnb, that now coordinates an average of half a million people's accommodation each night in 65,000 cities with their platform running almost entirely on Amazon Web Services. Likewise, each month Netflix delivers a dillion hours of video streaming globally by running on Amazon cloud. Indeed Amazon’s AWS is so widely used that when it doesn’t work right, the entire internet is in jeopardy. These along with the other major web applications now run a complex set of machine learning algorithms to coordinate their platforms.
+
+**Services**
+A basic driver behind many of the recent business disruptions in a wide range of industries is the transformation of computing resources from a scarce to an abundant resource.
+Combining cloud computing, with advances in algorithms and mobile computing we get machine learning platforms that are able to coordinates and run ever large and more complex service systems. This allows an increasing swath of human activity to be captured by algorithms, which allows it to be split apart, transformed, altered, and recombined.
+
+These platforms bring about an ever growing integration between technology and services. As data and information processing become more pervasive and computation becomes embed within virtually all systems, traditional divides are going to become ever more blurred, information technology and socio-economic organization will become ever more integrated and inseparable. As the saying goes, every company will become a technology company and this will fundamentally change the structure and nature of those organizations.
+
+What is happening today is a convergence of these cloud computing platforms, new algorithms and the rise of the services economy. Recent years have seen the emergence of physical products that are digitally networked with other products and with information systems to enable the creation of smart service systems which are coordinated via algorithms.
+
+What is happening as we move into the services economy is that products become commoditized, people stop wanting to own things, what they want is to be able to push a button on their smartphone and the thing delivered as-a-service. An app for food services, an app for transport services, an app for accommodation, etc. and of course all these services are delivered on demand via cloud platforms that are coordinated via advanced algorithms.
+
+Services are not like products, whereas products were mass produced, services have to be personalized; products were static once-off purchases, services are processes; products were about things, services are about functionality and value. Service systems are all about the coordination of different components around the end user's specific needs, to do that you need lots of data, advanced analytics, and cloud computing. We can already see the data-driven services organization in the form of Uber, Alibaba or DiDi Chuxing, which don't own anything they just use data and advanced analytics within their platform to coordinate resources toward delivering a service. Service companies like DiDi would be impossible without data.
+
+**Dematerialization**
+Dematerialization is one aspect of the information age. Material products become commoditized, data and information are used to strip physical technologies down to there most basic material requirements; value-added shifts to the organization of systems rather than the production and ownership of physical assets. This is seen with the rise of platforms over the past decade, which are really large networks that use data and analytics to optimize systems.
+
+As the venture capitalist, Steve Jurvetson put it "[in the past] the thing mattered, now it is all about the software and services layer... reduce the physical thing to its minimalist thing, for a container for software and code and that is what is happening in more and more products and services… the thing that every business makes is becoming a software product, in the long run, everything will cost a dollar a pound for things and what people will pay for and value is the software and services that come around that, it is what makes every product magical ...I think what you are seeing as common practice in the IT-centric industries of today, in software and computers, what was the telecom transition of years past will be the case for every industry, the key question is when and in what sequence, some like agriculture and healthcare are in the middle or early phases of that transition but every industry will inevitably compete on how they process information, that's how they will win or lose and the transition will not be easy for some"
+
+What will differentiate one company from another is not how fancy their product is, but how seamless and integrated their service system is and this is done through their capacity to master data and analytics. Organizations will become platforms and will compete based on their intelligence, which will be contained in their algorithms and people.
+
+In short, the physical technologies of the industrial age are being converted into services and connected to cloud platforms wherein advanced algorithms coordinate them. As Matt Turck of FirstMar puts it succinctly "Everything becomes data, your physical activity, traffic, purchases, and the data gets moved to the cloud, but it gets processed and compared with other devices, it is no longer just what you do but what everyone else also does, which keeps making the system smarter and smarter."
+
+This is the essence of the process we are going through today; datafication converting everything into data, cloud platforms for aggregating and running the machine learning for processing it and iterating on that. Through servitization and dematerialization organizations become differentiated based on their data and algorithms as algorithmic systems extend to coordinate more and more spheres of human activity as we move further into the unknown world of the information age.
+
+***
+
+**Machine Learning Overview**
+
+At a recent Google Cloud conference Rob Craft product lead for Cloud Machine Learning got up on stage and told the crowd that quote "On words of nine years ago we got out of the rules business, everyone in this room probably writes rules for a living if you write code, if this, then that, those are rules, if the following things are met the following things should execute, the stored procedure sees this, the stored procedure writes that, those are all rule-based systems. What if you were able to declare through a statistical model here is what good looks like and the confidence that good is this thing and why doesn't the system then determined on its own how it should determine to get to that good thing, that is what a predictive type of system tries to do."
+
+What he is describing here is the shift that has taken place over just the past decade towards machine learning becoming an ever more popular method for building software systems.
+Machine learning has seen explosive growth over the past decade and application within many different areas. For example, the machine learning algorithms on Yelp’s website help the company’s staff to compile, categorize, and label images more efficiently. Machine learning applications are being used at Facebook to filter out spam and poor-quality content, and the company is also researching computer vision algorithms that can “read” images to visually impaired people. Baidu’s R&D lab uses machine learning to build what the company calls Deep Voice, a deep neural network that can generate entirely synthetic human voices that are very difficult to distinguish from genuine human speech.
+
+Machine learning refers to the process through which a computer can construct an algorithm based upon the analysis of data. Such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions, through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance are difficult or infeasible. In such cases we tell the computer what we want the output to be and then it builds the model based upon the data that will be able to produce those results when presented with new data sources to process.
+
+Machine learning can be largely characterized as an optimization process over some set of data. To solve any machine learning problem we want to find a metric that tells us how far we are from the solution and try to minimize that value; minimize the error which is called the loss function.
+The formal definition is stated as such, A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
+
+Which just means that the computer is given a task, and some metric for success and with each iteration, over the task it is performing, it gets better at doing it, as measured by the performance metric.
+
+For example, Google used a machine learning algorithm to drastically reduce the electrical consumption in its data centers. Using a system of neural networks trained on different operating scenarios and parameters within their data centers, they created an efficient and adaptive framework to understand data center dynamics and their optimize efficiency. They accomplished this by taking the historical data that had already been collected by thousands of sensors within the data center and using it to train a set of deep neural networks. The machine learning system analyzed the internal arrangement within the data center and tried different configurations to assess the efficiency of energy consumption, it stays iterating, adjusting the configuration and trying to reduce that value, learning at each iteration. Ultimately the algorithm managed to reduce the amount of energy use for cooling by up to 40 percent.
+
+This is the key to most machine learning problems, you take the problem and minimize the error by using gradient descent. Trying different options to see which reduces the error by the most and then iterating on this.
+
+**Supervise or Unsupervised**
+Machine Learning systems are typically categorized as being either supervised or unsupervised. The biggest difference is that supervised learning deals with labeled data while unsupervised learning deals with unlabeled data. Labeled data is a group of samples that have been tagged with one or more labels. The process of labeling typically takes a set of unlabeled data and attempts to apply meaningful tags to that data that are informative of its contents. For example, these labels might indicate whether a photo contains a mountain or a lake, what type of action is being performed in a video, what the topic of a news article is, what the overall sentiment of a tweet is etc. Labeling can be a time-consuming exercise that is often done by humans.
+
+After obtaining a labeled dataset, machine learning models can be applied to the data so that new unlabeled data can be presented to the model and a likely label can be guessed or predicted for that piece of unlabeled data automated by the algorithm.
+
+Techniques that can work with unlabeled data are called unsupervised learning. With unsupervised learning, we are trying to get the machine to find and create different categories within the data. In an unsupervised approach, you are trying to build a prediction where you don't actually have the outcome as a reference for training the algorithm, but we let the model work on its own to discover information that may not be visible to the human eye.
+Clustering is one such example where a set of inputs is to be divided into groups, this involves the analysis of patterns and sets of unlabeled data to find groups that are similar.
+
+Unsupervised learning is important, because most of the time, the data that we get in the real world doesn't have little tags attached to tell us what it is, and you need to perform some kind of analytics before going any further.
+
+**Supervised Learning**
+With supervised learning, the computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that maps inputs to outputs. We do this by training the model, that is we load the model with knowledge so that we could have it predict future instances. For example, we teach a model by training it with some data from a labeled data set, and then provide it with new data for it to try and match the original labels. Main types of supervised learning are classification and regression. Spam filtering is an example of classification, where the inputs are email messages and the classes are "spam" and "not spam". Likewise one might feed the system a data set of flowers to have it classify the different types.
+
+A core objective of a machine learning system is to generalize from its experience. Generalization in this context is the ability of a learning machine to perform accurately on new, unseen examples/tasks after having experienced a learning data set. The training examples come from some generally unknown probability distribution and the system has to build a general model about this space that enables it to produce sufficiently accurate predictions in new cases.
+
+The key aspect of machine learning that makes it an important method with respect to big data is that we don't have to hardcode prespecified rules. The iterative aspect of machine learning is important because as models are exposed to new data, they are able to independently adapt and evolve. They learn from previous computations to produce reliable, repeatable decisions and results.
+
+There are many different approaches to machine learning in the next module we will give an overview to some of the primary approaches taken.
+
+***
+
+**Machine Learning Approaches**
+
+Machine learning is a very complex and challenging area of computer science and engineering and there are many different approaches to building machine learning systems.
+As yet there is no formal classification of these different approaches but in his book The Master Algorithm, Pedro Domingos of the University of Washington provides a coherent and accessible overview to the different methods currently being pursued.
+
+The book describes five "tribes" which each emphasize a different method of machine learning with each being particularly well suited to solving for some core challenge. Domingos begins by identifying five basic methods through which a computer can build a model and then associates these with the different approaches currently taken to machine learning. First is filling in gaps in existing knowledge through inverse deduction. Secondly mimicking the human brain which is associated with a connectionist, neural network approach. Thirdly evolutionary selection, which is associated with techniques that enable the computer to simulate evolution. Forth is reducing uncertainties through statistics and Bayesian inference. And lastly making contrasts between old and new sets of information through analogy.
+
+**The Symbolists**
+The symbolist's approach is said to operate on the basis of formal logic and more specifically the premise of inverse deduction. The approach is to think of deductive learning as being the inverse of deduction. Deduction is going from general rules two specific facts, the opposite of that is called induction which is going from specific facts to general rules. For example, if we can figure out that 2 + 2 is 4 then we can also fill in the gaps in the question where we know that we have 2 and have to find what we have to add to that to get 4. The system has to ask itself “what is the knowledge that is missing?” and acquire that knowledge through analysis of existing datasets.
+
+**Connectionists**
+A second approach is based upon the networked structure of the brain and how the brain learns through encoding patterns within neural networks. This is the neural network approach. An artificial neural network is an interconnected group of nodes, akin to the vast network of neurons in a brain. Here, each circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another.
+The network is trained on data so that a specific set of connections between the nodes forms to represent the pattern. The weight of the connections between nodes is altered with each iteration so that the output to the system better matches the desired output. For example, Google used this approach to train its computers to identify cats in Youtube videos. Much of the breakthrough in machine learning in recent years have come from this approach and because it is well suited for dealing with big data we will be looking more closely at how neural nets and deep learning work in the coming modules.
+
+**Evolutionary**
+Another very different approach is that of trying to simulate the process of evolution. Genetic algorithms work the way evolution does, through the production of variety, the exposure of these variants to an operating environment and then selection, cross mixing, duplication and iteration on the whole process.
+You have a population of individuals each of which is described by specific characteristics and then each of these individuals goes out in the world and is evaluated based on it success at the given task, those that perform well gain a payoff of a higher fitness value and will, therefore, have a higher chance of being the parents of the next generation. Individuals that have performed well cross mix and random mutation is added to create a new population and the process is iterated on. After some number of generations of this you actually have things that are doing non-trivial functions, indeed algorithms can learn surprisingly powerful things this way.
+
+**Bayesian**
+The Bayesian approach deals with uncertainty through probabilistic inference. Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available. You create a hypothesis that there will be some outcomes that are more likely, then update a hypothesis as more data comes in. After some iteration of this some hypotheses become more likely than others. This Bayesian approach is used for example in email spam filtering. The system typically uses a bag of words to identify spam e-mail, it then goes through the message and everytime it finds more evidence confirming or disconfirming this hypothesis it adjusts the probability that it should be rejected or accepted.
+Bayesian ideas have had a big impact on machine learning in the past 20 years or so because of the flexibility they provide in building structured models of real-world phenomena. Algorithmic advances and increasing computational resources have made it possible to fit rich, highly structured models which were previously considered intractable.
+
+**Analogies**
+The fifth approach is that of analogy, analogy is a powerful and fundamental tool that our brains use to categorize new information by comparing it to what we already know, to see how closely it resembles other things and thus whether we can place it in to or near to a category that we already know. The general method is that of the “nearest neighbor” principle, essentially asking what is the thing closest to and then positioning it indifferent to other things based on its similarity to them.
+A popular method here is support vector machine SVM. Given a set of training examples, each marked as belonging to one or the other of two categories, a support vector machine training algorithm builds a model that assigns new examples to one category or the other.
+This approach is at the heart of a lot of outcomes that are extremely effective for some kinds of Machine Learning. Support vector machines were probably the most powerful type of learning that was common until recently. Handwritten characters can be recognized using SVM and support vector clustering is often used in industrial applications. Amazon's and Netflix's recommendation systems are based on this method of analogy. If someone else has given five stars to something you have and one start to something else that you have given one start to, then by analogy the system extrapolates out to recommend to you something that that person with similar taste to you has liked.
+
+**Summary**
+The idea is that each one of them has a problem they can solve better than all the others and it has a particular master algorithm that solves that problem. So, for example, the problem that the symbolist solve that none of the others know how to solve is the problem of learning knowledge that you can compose in many different ways and they learn that knowledge with inverse deduction. Connectionist solved the credit assignment problem through the development of complex networks where individual nodes and connections are adjusted based upon how well they contribute to match the desired output. The evolutionary approach solves the problem of learning structure. The Bayesian approach can deal with uncertainty, the fact that all the knowledge that you learn is uncertain it knows how to update the probabilities of hypotheses to better match the desired outcome.
+
+***
+
+**Neural Networks**
+
+Artificial neural networks are computing systems inspired by the biological neural network of the brain. Such systems can progressively improve their ability to do tasks and recognize patterns by learning from examples.
+
+Artificial neural networks are in their essence computational networks that can perform certain specific tasks like clustering, classification, pattern recognition. They do this by representing patterns in data as networks of connections between nodes on the network. They then learn by altering the strength of the connections between the nodes to create new network structures that can represent new patterns.
+
+For example, neural nets are now widely used for image recognition, where they learn to identify images that contain say a house by analyzing example images that have been manually labeled as such and using the results to identify houses in other images.
+
+As the name implies they are directly inspired and modeled on the working of the brain. Thus to understand neural networks it is of value to understand a little how the brain works to represent and process information. The brain is composed of neurons and connections between them called axons, which have synapses where the different neurons meet. Neurons generate electrical signals that travel along their axons. Any given neuron has a number of inputs from other neurons if those inputs are above a given threshold then it is activated and fires. If a neuron is activated it then sends out signals to other neurons that it is connected to.
+The synapses change in their chemical composition as one learns in order to create stronger connections between networks of neurons. In such a way the cognitive system can adapt and changes over time to form new patterns of neural networks. If two neurons are turned on when a pattern is stimulated then the synaptic connection between them becomes stronger. The brain is physically built as a neural network and cognition happens in patterns. Networks of interconnected neurons form a pattern which corresponds to an idea or memory.
+
+An artificial neural network is based on this very same architecture as a collection of connected nodes that form a network. Each connection between nodes can transmit a signal to another node. The receiving node can process the signal and then signal downstream nodes connected to it. They're all connected to each other going down through the layers. The nodes mimic neurons in that they're little triggers.
+Each neuron has something of a threshold where it makes a decision. Nodes take inputs from connected nodes and have some internal function to determine when or if they will fire to send a signal downstream. The nodes and connections may also have a weight which can increase or decrease the strength of the signal that is send downstream which varies as learning proceeds. Typically weight represents the strength of the interconnection between neurons inside the neural network. As such artificial neural networks can be viewed as weighted directed graphs in which artificial neurons are nodes and directed edges with weights are connections between neuron outputs and neuron inputs.
+
+**Layering**
+Typically, neurons are organized in layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first (input), to the last (output) layer, possibly after traversing the layers multiple times.
+The input layer contains those units (artificial neurons) which receive input from the outside world on which the network will learn or process.
+The output layer contains units that respond to the information about how it’s learned any task.
+These units between input and output layers are termed hidden layers. A neural network with many layers in between is called a deep learning neural network.
+When there are no layers in between it is simply a neural network. Because there are very few practical applications for a two-layer neural network virtually all are going to be of the deep learning form.
+
+As of 2017, neural networks typically have a few thousand to a few million units and millions of connections. These different layers of the network can be used to represent the different levels of abstraction during classification and identification as we will discuss farther in the coming module on deep learning.
+
+**Back Propagation**
+The key innovation required to actually get a functioning neural network is what is called backpropagation. This involves the network learning through an iterative process where you send all the information back through the network and the network adjusts its weights so as to learn to match the output better. The basic idea in backprop is quite intuitive, it is simply looking for the difference between the network's actual output and the desired output. The error in the networks output is used to determine how much the network adjusts and changes on the next iteration. The error between the desired output and the real output we are trying to minimize. So if we put in a graphic of a circle and asked the system to identify it and it outputted an estimate that it was .8 likely to be a circle we know that there is an error of .2 We can then adjust the nodes up and down by a very small amount to see how the error changes. The amount that they're adjusted is determined by how big the error is, with a large error they are adjusted a lot, with a small error just a bit, with no error they're not adjusted at all.
+
+We are doing this alteration to try to go down the gradient to where the error is minimal. We keep making these adjustments to the weight of the nodes and connections all the way back to the input and this is why it's called backpropagation, because what we are doing is propagating back the errors and updating the weights to make the error as small as possible.
+
+This backpropagation algorithm is what is at the heart of deep learning and these days is used for just about everything you hear about in machine learning. Very early on people use it to do things like predicting the stock market, these days it is used for search, for automatic adding color to Black and White images, for video recognition, for automatic handwriting generation, for generating captions on images, for speech recognition, for simultaneous translation, social network filtering, playing board and video games, medical diagnosis, and many other applications.
+
+**Conclusion**
+The idea of neural networks has been around since the sixties but at that time computers didn't have enough processing power to effectively handle the work required by large neural networks. Neural network research slowed until computers achieved far greater processing power. Support vector machines and other, much simpler methods such as linear classifiers gradually overtook neural networks in machine learning popularity.
+It is only very recently that this has changed as available computing power increased through the use of GPUs and distributed computing; neural networks are now starting to be deployed on a large scale. They have found best usage in applications difficult to express with a traditional computer algorithm using rule-based programming. Neural networks are the basis of deep learning, that has become highly popular in the past years and we will take a look at this hot topic in the next module.
+
+***
+
+**Deep Learning**
+
+Deep nets are the current state of the art in pattern recognition, but they build upon a decades-old technology of neural networks talked about in the past module. It took many decades after the initial concept to arrive at functional deep nets because they are very hard to train. The method suffered from an issue called the vanishing gradient problem. Up until around 2006 deep nets underperformed relative to more basic nets and other machine learning algorithms. But everything started to change after three breakthrough papers published at that time and today they are the hottest topic in machine learning.
+
+Deep learning is a machine learning method based on neural networks. What distinguishes deep learning from the more general approach of neural networks is its use of multiple layers within the network to represent different levels of abstraction.
+Deep learning algorithms use a cascading structure with multiple layers of nonlinear processing units for feature extraction and transformation. Each successive layer uses the output from the previous layer as input. In this way, they learn multiple levels of representations that correlate to different levels of abstraction.
+
+Just like neural networks, deep-learning software attempts to mimic the activity in layers of neurons in the neocortex. It uses multiple layers of nodes with each successive layer using the output from the previous layer as input. Varying numbers of layers and layer sizes can provide different degrees of abstraction. Deep learning exploits this idea of hierarchical representation, where higher level, more abstract concepts are learned from the lower level ones.
+When you simply have ten or fewer parameters as input then other forms of machine learning are typically better such as support vector machine or logistic regression. Basic classification engines and shallow neural networks are not sufficed for complex tasks and neural nets with only a small number of layers can become unmanageable. Because the number of nodes in each layer grows exponentially with the number of possible patterns in the data, eventually training becomes expensive and accuracy starts to deteriorate. Thus when the patterns get very complex, neural nets start to outperform their competition.
+
+The key to deep learning can be largely ascribed to breaking the processing of the patterns down and distributing that out across many different layers in the network. For example, we might be applying this ML system to detect for flowers in an image, we would then use edges to detect different parts of the flower, petals, stalk, etc. and then combine them to create the whole flower. The process of using simpler patterns as modules that can be combined to create more complex patterns is a key part of the power of deep learning.
+
+As another example, if you feed it a bunch of images of lorries, down at the lowest layers there will be things like edges and then higher up things that look like tires, wheels or a cab and at a level above that things that are clearly identifiable as lorries.
+
+Once the network is trained, you can put one image in at the front, and the nodes will fire when they see the thing they are trained to identify. In the example of face detection, it first learns features like edges and color contrasts, these simple features form more complex facial features like the eyes and nose which are then combined to form the face. The neural network does all of this on its own during the training process without any direction from the person building it. These neural nets are almost always built for a specific task, such as voice recognition or various other forms of data mining.
+
+The system self-organizes in such a way that the nodes in the layers closest to the input data become reactive to simple features and then as you move through the layers the features that the neurons respond to become higher and higher order. Interestingly people have found a very similar structure in our own brains, where the visual system for different layers also extracts higher and higher order features.
+Once you have a deep learning network that is trained this way it should be possible to also run it backward, if you have trained a network so that it knows everything about what a cat is like it should be able to produce new pictures that look like cats or dogs, these are called generative neural networks.
+
+Deep nets take a long time to train but the advent of new hardware in the form of graphics processing units can reduce the processing time by one or even two orders of magnitude.
+There are now lots of different types of deep nets to use. For text analysis, such as name recognition and sentiment analysis, recursive tensor networks are typically used. Image recognition processes often involve a convolutional net or deep belief net. For object recognition one may use a convolutional net, or recurrent nets may be used for speech recognition. These deep learning algorithms can be applied to unsupervised learning tasks. This is an important benefit because unlabeled data are more abundant than labeled data.
+The end result of training a deep learning neural net yields a self-organizing stack of transducers, well-tuned to their operating environment and capable of modeling complex non-linear relationships.
+
+A deep learning platform is an out-of-the-box application that lets you configure deep nets without needing to know anything about coding in order to use the tools. A platform provides a set of tools and an interface for building custom deep nets. Typically, they provide a user with a selection of deep nets to choose from, along with the ability to integrate data from different sources, manipulate data, and manage models through a user interface. Some platforms may also help with performance if a net needs to be trained with a large data set.
+The downside is that you are constrained by the platform’s selection of deep nets as well as the configuration options. But for anyone looking to quickly deploy a deep net, a platform is the best way to go. There are now a variety of such platforms, one of the most widely used is Tensorflow, an open source library of ML methods created by Google which has grown rapidly in popularity.
+
+***
+
+**Limitations of Algorithms**
+
+For better or worse our world is in the midst of a silent algorithmic revolution. Many of the decisions that humans once made are being handed over to mathematical formulas. Today, we expect algorithms to provide us with the answer—who to date, where to live, how to deal with an economic problem. With the correct algorithms, the idea is, computers can drive cars better than human drivers, trade stocks better than Wall Street traders and deliver to us the news we want to read better than newspaper publishers.
+
+As Karen Yeung of King's College London proposes "Just in the way that social theorists have identified markets on the one hand and bureaucratic hierarchy on the other as two quite different ways to coordinate social activity. I'm going to suggest too that algorithmic regulation can be understood as a third form of social ordering... it's different because it's underlying logic is driven by the algorithm which is mathematical." It would appear that more and more authority is shifting to these automated systems, it is then important for us to ask what are the consequences of that.
+
+**Formal Systems**
+The fundamental issue is really that of the interaction between the informal world of people and the formal world of computers and trying to translate between these different systems of organization. With cloud computing and advanced analytics, we are extending computation out into the real world like never before.
+
+Through these platforms and the algorithms that operate on them we are trying to bring in and coordinate more and more spheres of our social, economic and technological systems of organization. As we do this we are trying to take an informal world that has evolved over a prolonged period and bring it into the world of formal systems.
+
+The math and science framework out of which we build our algorithms is unfortunately not a universal language but is very much a partial language that is heavily dependent upon a reductionist paradigm that creates many limitations in its capacities, the resulting models are not in anyway a neutral interpretation of reality.
+
+Just as data can deceive, models likewise can deceive. All paradigms and theories are only ever partial accounts of reality and the models that derive from them are never neutral, they reflect the particular paradigm upon which they are based, no matter how rock solid you think the maths is all of our mathematical frameworks are incomplete. All models are based on opinions and perspectives about the way the world is, some of those are better than others but none are complete. It doesn't matter how fancy and internally consistent the logic of the model is, all models are ultimately incomplete and thus dependent upon opinions and stories about the way the world is.
+
+The mathematics that we know is beautiful, pure and logically consistent until you look out the window and realize that the world is not full of triangles, squares and smooth curves, and that's the problem as we bring this technology out into the world we will stay hitting that gap.
+Even if the process is automated, the algorithms used to process the data are imbued with particular values and contextualized within a particular scientific approach. This is not just on a fundamental level of the underlying science but also on a more practical level.
+Algorithms don't do anything on their own they reflect the social and institutional truths of the world in which we live. If, for example, society is racist then that will be in the data and the algorithm will pick up on that and it will also pick up on and amplify any other bias. Take for example an employer trying to figure out who to hire, given that men have always been more successful in certain career fields than women, because of all kinds of institutional bias, then the algorithm is likely to just reflect that, it'll just tell you, you should hire these men because they've been more successful in the past.
+
+So there are lots of ways in which algorithms can reflect both our incomplete knowledge and also reflect the bias that we live with every day, and they will hide these behind a guise of neutrality and objectivity. But also because of the scale, scope, and power of the technology they can potentially have mass effects and this is something, unfortunately, we will inevitably find out more about as we build out this IT infrastructure to our global economy.
+
+**Weapons of Math Destruction**
+The negative externalities of these algorithms are outlined in a recent book by Cathy O'Neil called Weapons of Math Destruction. She defines weapons of math destruction as mathematical models or algorithms that attempt to quantify socially important aspects: creditworthiness, teacher quality, insurance claims, college rankings, employment application screeners, policing and sentencing algorithms, workplace wellness programs etc. but have harmful outcomes and often reinforce inequality, keeping the poor poor and the rich rich. She lists three things that these weapons of math destruction have in common: opacity, scale, and damage.
+
+In the book, she expands on stories of people who have been marked as low ranking in some way by an algorithm. Such as the competent teacher who is fired due to a low score on a teacher assessment tool, the people whose credit card spending limits were lowered because they made purchases at certain shops, the college student who couldn’t obtain a job at a grocery store due to his answers on a personality test. The algorithms that judge and rate them are completely opaque and can not be questioned. People often have no capacity to contest when the algorithm makes a mistake. The author lists three common characteristics of these weapons of math destruction. They are often proprietary or otherwise shielded from prying eyes so that they are in effect black boxes. They affect large numbers of people, increasing the chances that they get it wrong for some of them and they have a negative effect on people.
+
+**Black Box**
+Most platforms are privately owned enterprises and do not wish to expose the internal workings of their algorithms to the view of the end user. Added to this the complexity of these systems often overwhelms people's capacity to comprehend them. In this respect subprime mortgages are a perfect example of a WMD. Most of the people buying, selling, and even rating them had no idea how risky they were. This, of course, extends to the whole of the financial market where one can only speculate about what algorithms might be out there.
+Machine learning algorithms operate in high dimensional space in order to process possibly millions of parameters, which is hard for us as humans to comprehend. Communicating such things to humans will require new uses of visualization so that people can quickly understand in an innovative way how the system works.
+
+The only sustainable way to develop these systems is by keeping people informed and engaged. If we want to develop these technologies in a sustainable way then we need a system of design that includes transparency and accountability. That means integrating the language of the machine and that of the human by creating visualizations and other methods that can quickly and intuitively communicate what the underlying technology is doing.
+
+If we develop this technology without including people we will end up in the same unsustainable situation that we are currently in with economic inequality; with the 99% resenting the 1%. Just as people's relationship with finance quickly turned sour with the financial crisis, the same can happen to technology companies. If we exclude people their love affair with technology companies will evaporate as the first major technology crisis unfolds. Technological crisis inevitably occurs when technology becomes too complicated, too coupled and obfuscated and something goes wrong in the system as a whole.
+
+**Contextualization & Optimization**
+The other issue is that of contextualization which results from the narrow form of intelligence that analytics represents. The problem with analytics is that it decontextualizes. By focusing on things it isolates them from their context and leaves them open to misinterpretation. By simply looking at them from one perspective we can gain greater detail from that perspective but we can also lose the relevant connections that give it its full meaning and implications.
+Advanced data analytics enables us to see farther, to focus more clearly, to pick out the needle in the haystack. However, the more powerful we make the telescope, the more focused we become and the more decontextualized the information becomes, which is an issue, as it becomes easier and easier to optimize for a single parameter but create more and more negative externalities on those other metrics that are not captured due to the narrowing of our vision.
+Finance is a very good illustration of this, because of the quantitative and complex nature of financial markets it has been probably the most advanced user of algorithms and a good illustration of where we are heading with the technology. Finance is obviously very focused on optimizing for monetary outcomes.
+
+Real world economic goods like, food and energy get brought into the financial system and made available for trading, algorithms them operate on them with the sole focus of optimizing for profit, but the consequences of that can be food riots in Egypt when the price of grain goes too high, or it can be elderly people in Canada who can't afford the price of their heating gas during winter because of speculation. As we start to connect everything up through cloud platforms, more and more we are operating within very complex systems and narrow algorithmic optimization in one place can lead to unintended consequences in another.
+
+**Predictive Limitations**
+It is also important to note that algorithms are analytical tools, they are built out of the analytical capacities of digital computers. Analytics always acts on data, all algorithms take in data and perform some operation on it. However data is always from the past, there is no such thing as data from the future.
+This has the implication that these models can only tell us about a future that resembles the past. Of course, the algorithm can perform operations on past data to define a future that looks different from the past, however, these models are inherently not designed to tell us about a future that is qualitatively different from the past. We can put all sorts of nonlinear and stochastic stuff into those models to make them look like what happens in the real world, but at the end of the day, their essential reference point is past data, which makes them inherently conservative. This is fine if the system you are dealing with is in a normal state of development, but that is not always the case, sometimes major changes happen and the model is unlikely to tell us much about that, this is exemplified by the extraordinary poor predictive capacity of economic models in relation to financial crises.
+
+In order to get a future that looks qualitatively different from the past you need a theory, data and analytics are not going to help you with that. As such data without theory can lock you into the past. Analytics will always tend towards reinforcing past patterns. Data analytics systems don't know what might be, what could be, or what we might want to be; as such they often create self-fulfilling path-dependencies.
+
+In an article in Harvard Business Review entitled Learning to Live with Complexity the authors note "in complex systems, events far from the median may be more common than we think. Tools that assume outliers to be rare can obscure the wide variations contained in complex systems. In the U.S. stock market, the 10 biggest one-day moves accounted for half the market returns over the past 50 years. Only a handful of analysts entertained the possibility of so many significant spikes when they constructed their predictive models."
+
+This is one of the key problems with an over-reliance on analytical reasoning, it tells us that the future will be similar to the past and because it often is it lulls us into a false sense of security. Even though major changes happens rarely, because they can be so large and the incremental changes are typically so small, the unpredictable paradigm shifts end up being more significant than all the linear incremental changes that the system predicted so well.
+To create real change, change in paradigm we need something qualitatively different. Visions, imagination, and theories can inform us of futures that have never existed while algorithms are not really designed to deliver that. We could try to get computers to think "outside the box" but this is not what analytical reasoning is designed for, it is like trying to put a screw into a piece of wood with a hammer, you will get better results in the long run if you invest in using the correct tool for the correct application.
+
+***
+
+**Smart Systems**
+
+Since the rise of the internet, we have found ourselves living in two seemingly parallel worlds, one the familiar physical world the other this growing world of information. But with the convergence of advanced analytics, cloud computing and the Internet of Things, these two worlds are starting to collide in powerful new ways as the internet starts to come offline into the physical world.
+
+Technology that we once thought of as physical tools and machines are no longer so, as a wave of information that started with personal computing and the internet is breaking out into the real world of physical things. Today information is out of its box and it is redefining our technology landscape.
+
+Technology is no longer a one-off object that performs some physical operation, as we network our world placing sensors and actuators in all kinds of objects, technologies are becoming more like systems for executing on algorithms. Phones that just ten years ago were lumps of plastic and electronics with buttons for making calls have become smartphones that are designed to simply run code. Cars are becoming smart cars, whole cities are becoming smart cities with all of this technology increasingly connected up to the cloud where smart systems run analytics, crunching data, learning and feeding it back to the devices to optimize their performance.
+
+As a revolution in information technology unfolds at a fast pace, science fiction appears to be becoming science fact. Within just a couple of short decades, we have gone from the PC to the internet and mobile computing, to today world of cloud computing and smart systems. The age of smart systems is becoming a reality as ever more products and services that we use every day - from search-engine advertising applications to facial recognition on social media sites to “smart” cars, phones and electric grids - are coming to demonstrate aspects of "smartness".
+
+**Characteristics**
+These smart systems incorporate functions of sensing, actuation, and control in order to describe and analyze a situation and make decisions based on the available data in a predictive or adaptive manner, thereby performing smart actions. In most cases, the “smartness” of the system can be traced back to autonomous operations based on closed loop control, machine learning and networking capabilities that enable the system to exhibit adaptive behavior.
+
+These smart systems will sit at the intersection of humans and our technology infrastructure as they perform basic control operations for our technology infrastructure and interact with people so as to understand their needs and perform required actions.
+
+The extraordinary capacity of this new stage in the development of information technology is in the convergence of advanced analytics, cloud platforms and the Internet of Things. In every decade we have approximately ten times as many connected devices as we did in the past decade and this will likely continue for the foreseeable future. Everything that used to be dumb and disconnected is becoming smart and connected, as devices and technologies become connected into cloud platform.
+
+Smart systems are software entities that carry out some set of operations on behalf of a user or another program with some degree of independence or autonomy, and in so doing, employ some knowledge or representation of the user's goals or desires and the environment within which they act in order to achieve those goals. Such an agent is a system situated in, and part of, a technical or natural environment, which senses any or some status of that environment, and acts on it in pursuit of its own agenda. Such an agenda evolves from programmed goals. The agent acts to change part of the environment or of its status and influences what it sensed.
+
+The central characteristic of these smart systems are, adaptive capacity, dynamic interactivity, a degree of context awareness and learning capacities. Adaptive: They may adapt as information changes, and as goals and requirements evolve. They may resolve ambiguity and tolerate unpredictability. Interactive: They may interact easily with users so that those users can define their needs comfortably. They can also interact with other processes, devices, and cloud services. Contextual: They may understand, identify, and extract contextual elements such as meaning, syntax, time, location etc. drawing on multiple sources of information, structured and unstructured. Learning: They can reason on data to create new information and use closed-loop feedback to rapidly iterate and learn from the output, meaning they get smarter and smarter.
+
+***
+
+**Smart Platforms**
+
+Coupled with the rise of this next generation of computing has been the expansion of cyber-physical systems. The information revolution that started in computers and on the internet is very rapidly coming to the real world of things. With the Internet of Things, devices, objects, and all type of technologies are becoming instrumented and networked to algorithms running in the cloud. With this next generation, computers are starting to come out of the world of well- structured data into the everyday world of unstructured environments, where they use large amounts of data to create the context within which they can interpret new things and interact with the world in a fluid fashion.
+
+This next generation of robots are safe for and can interact with humans in a more fluid fashion, what is called human-centered robotics. They have a sense of touch and are very precise. Amazon's warehouses that may have up to ten thousand robots assisting people in bringing them the packages is one example. The same evolution in computing that has developed into the platform model is also coming to robots, where multi-purpose physical robotic capabilities can be delivered via a cloud platform that enables developers to bundle them into new processes and applications.
+
+Again it can't be over emphasise how important the rise of cloud computing is to this whole equation. Fei-Fei Li of Google Gloud presents it well when she notes "It took me a while but I start to realize that cloud is the biggest computing platform humanity has ever created, and what is computing today, computing is to make your data speak intelligently and to act intelligently to solve your problem or your customers problem, so really this marriage between AI and cloud is like this perfect vehicle to democratize AI"
+
+The combination of smart systems, cloud platforms, and cyber-physical systems will revolutionize our technology landscape in the coming decades. With the rapid commodification of smart systems, connectivity to the cloud, and sensing devices more and more of our technologies will become cyber-physical, from shopping trolleys to shoes, cars, to whole houses. But also smart platforms will be plugged into whole infrastructure systems like the power grid, internet routing, city transport systems; taking in massive amounts of data, learning from it in order to optimize the system. This will be a massive source of technology disruption that is coming at us very fast as the investment in smart systems is growing year on year.
+
+**Smart Platforms**
+Much media attention and public imagination is currently focused on robotics and individual cyber-physical systems, although a little robots cleaning our house or delivering a pizza might be the most apparent manifestation of this change the real innovation will be delivering these machine learning algorithms as a service to IoT platforms that network whole infrastructure systems, whether that is the cloud analytics connected to the smart grid, transport networks, or connecting an enterprise's whole supply chain up, or the smart city itself. Take for example the mining industry that is currently going through a massive wave of automation as mining companies are rolling out autonomous trucks, drills, and trains.
+From a control center in Perth, Rio Tinto employees operate autonomous mining equipment in Australia's remote but mineral-rich Pilbara region. 73 trucks - each the size of a small two-story house - find their way around using precision GPS and look out for obstacles using radar and laser sensors, and work alongside robotic rock drilling rigs. From their single operation center, they integrate information from all their minds, ports and rail systems and visualization technology gives their personnel a 3D display of all their operations. As the company says "these technologies take us ever closer to whole mine automation."
+
+Cloud analytics is a service model in which elements of the data analytics process are provided through a public or private cloud. Cloud analytics applications and services are typically offered under a subscription-based or utility (pay-per-use) pricing model.
+Google, Microsoft, and Amazon also expect to increase profitability and enhance their cloud services through machine learning. Their strategy is to allow other companies – which are unable to develop ML solutions at that level – to access their cloud-based ML services through APIs. One example of this is an app recently developed by Microsoft for the facial recognition of Uber drivers.
+
+Companies like Uber already have a machine learning platform - or at least a group responsible for building and scaling their machine learning technology - and increasingly these new technologies will be used to analyze the data coming from their car sharing platform and optimize where cars go, what route they take, how much they charge, essentially automate the most basic management activities of their platform. This can offer us a good insight into what will come.
+
+**Services Model**
+The platform model will be important in developing smart solutions in that it will enable different smart capabilities to be offered as modular utility functions that can then be plugged into and bundled together by enterprises according to their specific needs. Instead of having just one general purpose system, a platform model allows developers to draw upon specific capabilities and integrate them into their solutions, such as machine learning to recognize a face, or voice recognition software, or advanced analytics for specific domains.
+Equally the platform, plug and play model will work to commoditize smart systems making them available as a service to almost any technology developer. APIs and developer toolkits are already offered by IBM for their system Watson that can be plugged into a wide variety of applications from health diagnostics to analyzing data coming from transport systems. In such a way smart capabilities will flow to almost all types of technologies in the coming decades.
+
+This cloud-based platform model to smart systems will mean that through an internet connection even the smallest of computers, like a mobile phone, can operate like the most powerful computers in the world, by simply sending the inputs to the cloud where it is processed and then output the information that is returned. This is quite an extraordinary phenomena in that it means the most powerful computer operations and algorithms can be accessed anywhere there is internet connection on the planet. This means that the most advanced technologies of our age can be accessed and used virtually anywhere on the planet through just a mobile phone and internet connection. Whereas previously we put computing devices into the hands of people, now we are putting supercomputers in their hands.
+
+The primary beneficial function of analytical systems will be in the management and optimization of large complex networks, they will be connected into whole transport networks, power grids, cities and possibly even whole urban networks analyzing that data to make predictions, optimizations and adaptations. API's will make high end machine learning capabilities available to all forms of devices and physical systems. As one commentator noted, "APIs are not a dime a dozen, they are a dime a million."
+
+**Fleet Learning**
+One aspect of the platform model is that it can harness fleet learning. Because any component is operating within a network when one robot learns something then all can have access to that new information. That kind of network effect means that the system could improve in capacities at an exponential rate. The system will learn over time due to network effect and big data machine learning. Networked components can help each other create a wisdom of crowds effect.
+The CEO of Tesla explains fleet learning within their network. “The whole Tesla fleet operates as a network. When one car learns something, they all learn it" he goes on to explain how each driver using the autopilot system essentially becomes an “expert trainer for how the autopilot should work.” The company’s autopilot service is constantly learning and improving through machine learning algorithms.
+Because all of Tesla’s cars have an always-connected wireless connection, data from driving and using autopilot is collected, sent to the cloud, and analyzed with software. For autopilot, Tesla takes the data from cars using the new automated steering or lane change system and uses it to train its algorithms. Tesla then takes these algorithms, tests them out and incorporates them into their upcoming software. In this way we can see how cloud platforms, machine learning and the internet of things can work in a synergistic way.
+
+***
+
+**Autonomous Agents**
+
+This next generation of computing that we have been discussing involves a degree of agency on the behalf of computers. With machine learning, computers have the capacity to take in large amounts of information, make decisions of some sort and act on that; what is called agency. Autonomous systems use information gathered from sensors to make independent decisions and then act on them using corresponding actuators.
+An autonomous agent is a "smart" agent operating on an owner's behalf but without any interference of that ownership entity. A thermostat is an example of a very simple autonomous agent in that it senses the environment and acts to change the heater. An autonomous agent has the capacity to process information within a restricted domain giving it autonomy and then take an action based upon the rules it has been given or learned. Agency derives from the Latin "agere" meaning "to do" autonomous agents are software entities that carry out some set of operations on behalf of a user or another program with some degree of independence or autonomy, and in so doing, employ some understanding or representation of the user's goals or desires.
+
+An agent is a system situated in, and part of, a technical or natural environment, which senses in some way that environment, and acts on it in pursuit of its own agenda. Such an agent acts to change part of the environment and its status in order to evolve towards certain goals. High-frequency trading systems are an example of this, they observe the order flow, they orientate with respect to passed order flows, they decide whether there are some imbalances in that flow, they decide to place a trade or actually place that trade, they observe whether that trade was effective or how it impacted the market and then decide again.
+Computerized systems can iterate very quickly, because they iterate quickly and because it's a closed loop they can learn and become better and better over time. So high-frequency trading is a big commercial success of these kinds of systems, as is targeted advertising, as both have a closed loop that can be iterated on and learned from.
+Agents are colloquially known as bots - from the term robot. They may be physical systems, as when execution is coupled with a physical robot, or as software such as a chatbot executing on a phone or other computing device, such as Siri on Apple's iPhone. Software Agents may be autonomous or work together with other agents or people. Software agents interact with people and may possess human-like qualities such as natural language understanding, Honda's robot Asimo being one example.
+
+Today, with advances in server-side processing power and improvements in implementing machine learning, bots are starting to provide real value to end-users. The tide has finally turned and these bots are entering the mainstream consciousness, with many of the large IT companies investing heavily in developing their own personal assistance.
+
+The first wave of bots were used to automate simple, repetitive tasks based on a well-specified set of rules. Today these agents have advanced to the point where they are explaining frequently asked questions, working in support centers, booking appointments, and making orders. Originally, these tasks required multiple inputs from a human to answer rule-based logic questions. But with advancements in deep/machine learning, bots are now able to perform more complex tasks and may well in the coming years evolve to become the new interface between people and our information systems.
+
+**Categorization**
+To actively perform their functions, intelligent Agents today are normally gathered in a hierarchical structure containing many “sub-agents”. Intelligent sub-agents process and perform lower level functions. Taken together, the intelligent agent and sub-agents create a complete system that can accomplish difficult tasks or goals with behaviors and responses that display a form of intelligence. The capacities of an autonomous agent are contingent upon its internal complexity. In there book Artificial Intelligence a Modern Approach Russell & Norvig group autonomous agents into five classes based on their degree of perceived capability.
+
+The most basic kind is called a simple reflex agent, where the agent's function is based on the condition-action rule: if condition then action. This agent function only succeeds when the environment is fully observable and can get trapped into closed loops. Model-based reflex agents maintain some form of internal model that depends on the perceived history and thereby reflects at least some of the unobserved aspects of the current state. A goal-based agent further expands on the capabilities of the model-based agent, by using "goal" information. Goal information describes situations that are desirable. This allows the agent to choose among multiple possibilities, selecting the one which reaches a goal state.
+A utility-based agent chooses the action that maximizes the expected utility of the action outcome - that is, what the agent expects to derive, on average, given the probabilities and utilities of each outcome. A utility-based agent has to model and keep track of its environment, tasks that have involved a great deal of research on perception, representation, reasoning, and learning.
+
+A learning agent. Learning has the advantage that it allows the agent to initially operate in unknown environments and to become more capable than its starting knowledge alone might allow for. The most important distinction is between the learning function, which is responsible for making improvements, and the system's performance function, which is responsible for selecting the required actions in the environment. The learning element uses feedback on how the agent is doing and determines how the performance element should be modified to optimize outcomes in the future.
+
+**Multi-agent Systems**
+A combination of many agents acting in coordination forms a multi-agent system which is a computerized system composed of multiple interacting intelligent agents within an environment. This set of agents form a loosely coupled network of adaptive nodes that interact to solve problems that are beyond the individual capacities or knowledge of each problem solver.
+
+One example of these swarm robotic systems might be in logistics to coordinate many autonomous drones towards the transport of goods in remote areas. A multi-agent system of this kind has to efficiently retrieve, filter, and globally coordinate information from sources that are spatially distributed. They can allow for the interconnection and interoperation of multiple existing legacy systems by building an agent wrapper around each component to form a larger complex adaptive system.
+An MAS provides solutions in situations where resources may be spatially and temporally distributed. Multi-agent systems can be used to solve problems that are difficult or impossible for an individual agent or a monolithic system to solve and can enhance overall system performance, specifically along the dimensions of computational efficiency, reliability and flexibility. In a swarm system there is no single point of failure – if a unit fails, the whole system keeps on going, which makes it very fault-tolerant and robust.
+
+***
+
+**Smart Systems Security**
+
+The rise of smart systems represents a natural evolution of our information technology but with this next generation of information systems, we are both vastly expanding our technological capabilities and also consolidating - plus handing over - an extraordinary amount of power to these automated algorithms and because of this there needs to be major consideration given to the appropriate use of that control and power; along with the more traditional concerns about securing access to it.
+The scale of the risk involved is unprecedented as our critical infrastructure becomes automated, networked and remotely controlled via common smart platforms. Today a typical car’s airbag, steering, and brakes can all be hacked and controlled through the Internet for malicious ends. Control systems in nuclear power plants can be broken into and with the rollout of IoT platforms software will soon be permeating all types of technologies as our critical infrastructure becomes increasingly dependent upon it.
+
+Autonomous agents can be understood as essentially advanced optimization algorithms. When we let a machine autonomously pursue a goal we don't know exactly what action it will take. With only a limited and narrow form of awareness that is trying to optimize for a limited number of parameters, many negative externalities can result.
+For example, corporations are a form of agent within the free market capitalist system that is designed to optimize for shareholder value and financial returns. We have long seen how this narrow focus on the profit motive due to the structure of the incentive system can lead to negative environmental and social externalities, indeed it can be identified as a key driver of the current sustainability crisis.
+This illustrates how narrow analytical reasoning - the kind that these smart systems will be based upon for the foreseeable future - that is not supported by or operating within some broader form of awareness to the overall context, often leads - due to the incorporation of only a limited set of factors - to negative externalities that create unsustainable results.
+
+We can say a system is under control and operating in a sustainable fashion when its actions are integrated with the broader context. The problem with smart systems is their narrow analytical form of awareness. As autonomous agents become more autonomous given greater scope to define the means through which they achieve a given end, there is great potential for them to perform acts that are misaligned with the overall context in their narrow pursuit of their ends without overall awareness of the environment within which they operate.
+For this smart technology landscape to be developed in a sustainable fashion there needs to be a systems-of-systems approach to control, where more narrow and specific forms of smart systems are nested within larger more general forms of awareness which are in turn coordinated and monitored by broader forms of human intelligence.
+
+A system is only really in control when awareness, responsibility, and power are all aligned. This means the exercising of control through a multi-tier framework with more intelligent and aware systems guiding systems that are lower in their capacity for information and knowledge processing. Whereas information and data may be growing at an exponential rate, this only works to make intelligence an increasingly scarce resource. Information technology, on the one hand, commoditizes information and data driving its value right down. But because of this it also increases the value of knowledge and intelligence making them scarce resources. Wherever there is demand for a scarce resource there is a hierarchy based on access to that resource. This drives a new kind of hierarchical structure that is emerging out of the information revolution, captured in the acronym of DIKW, which stands for data, information, knowledge, and wisdom. Controlling these systems in a long-term sustainable and secure way means understanding this hierarchy and building it into our systems of technology so that this world of complex information systems that we are going into is governed and controlled by true knowledge and insight of context and consequences.
+
+**Enabling and Constraining**
+The rise of smart systems can be seen as a whole new level to our development of technology and like all technologies, it holds out the possibility to both enable us or constrain us depending on how it is designed, developed and operated. However, this being said technology should not be understood as always being a neutral thing, perhaps in the abstract as a means to an end it is neutral, but all technologies have to go through a design and development process, and how that process is carried out will determine to a large extent whether the technology is constructive or destructive in nature; whether it works to ultimately enable people or constrain them.
+
+It is possible to industrialize an economy without creating the negative environmental externalities that our particular set of industrial technologies created when we built them, thus they cannot be said to be neutral. A combustion engine that emits toxic fumes into its environment is not a neutral thing, it is destructive in this sense. Technological development may be inevitable and its evolution in the abstract may well be a neutral thing, but how we conduct that process of development is neither inevitable nor neutral, thus there is a responsibility associated with it. The negative externality of smart systems is the potential for an excess of narrow analytical reasoning - which smart systems represent a massive proliferation of - and a lack of broad synthetic reasoning to balance and direct it towards constructive ends.
+
+The computer scientist Stuart Russell summarizes this issue as such "this is essentially the old story of the genie in the lamp, or the sorcerer's apprentice, or King Midas: you get exactly what you ask for, not what you want. A highly capable decision maker — especially one connected through the Internet to all the world's information and billions of screens and most of our infrastructure — can have an irreversible impact on humanity. This is not a minor difficulty. Improving decision quality, irrespective of the utility function chosen, has been the goal of AI research — the mainstream goal on which we now spend billions per year."
+
+An excess of analytical reasoning and lack of synthetic reasoning could take us into a world where we have an extraordinary amount of technical capabilities and power without sufficient knowledge and wisdom to direct it effectively, the result being unsustainable results. For the opportunities in smart systems to be realized and the negative externalities limited would require a concomitant massive expansion in synthetic reasoning capabilities and the appropriate control and alignment of smart systems within larger more intelligent frameworks of organization. In such a way ensuring its correct alignment and ultimately the appropriate use of that power towards ends that are integrated with a broader context and thus sustainable in the long term.
+
+As far back as 1960, Norbert Wiener said: "We had better be quite sure that the purpose put into the machine is the purpose which we really desire." As the machines get smarter and more powerful it is our job to stay thinking about the context, to think about the overall desired outcome and align the means with those. An expansion in technological means requires an expansion in human ends and an alignment between the two in order to develop in a sustainable way.
+
+***
+
+**Data-Driven Organizations**
+
+The information and knowledge revolution is creating a new form of economy right before our eyes. Within just the space of a single generation, we will switch from an economy grounded in an industrial model to one based on information and knowledge and out of this will emerge a new form of enterprise. This new form of enterprise will be based on services, it will be managed through information platforms and coordinated by advanced analytics, with the function of people in this new enterprise primarily moving into the domains of design, innovation and all kinds of knowledge activities. The rise of this innovation economy is set to change the nature of work in fundamental ways in the coming decades. The advent of smart systems and cognitive computing raises many fundamental questions about the relationship between computers and humans and challenges us to reinvent organizations based on information and knowledge production.
+
+In this section, we are going to be talking about data-driven organizations. Which is a term we are using to implied organizations that base themselves on data and analytics as the foundation to how they operate and make decisions? The next generation of organization won't just do analytics, they will be analytics, whether we are talking about those operating in the realm of the smart grid, personal health data, IoT, insurance or real estate; analytics will be first and foremost, to what they are and do.
+In research by the consulting firm Bain & Company they note that "big data and advanced analytics are creating profound new opportunities for businesses, yet we found that only 4% of companies are able to combine the right people, tools, data and organizational focus to take advantage."
+With the rapid developments of advanced analytics and big data over the past years, we are starting to see the importance of the analytics revolution that is underway. But to fully appreciate the scale and depth of this transformation that organizations will go through it is important to link it to broader processes of change.
+
+That broader process of change is what we call the information revolution, that transition that advanced economies are going through as they move away from the centuries-old industrial economic model to the new form of information, services and innovation economy that is emerging.
+All organizations operate within this broader economic social context and when the context change it is required that they too change their structure and function, the data-driven organization is this new form of organization that is relevant for the information economy.
+
+**New Organizations**
+Complex analytics will enable us to create new forms of organization. With the advent of globalization, the internet and cloud computing we are in the process of developing ever larger networked systems of organization that span across whole industries and around the planet.
+We find that our systems of organization are being converted into large automated networks that process information to coordinate themselves, our capacity to manage those networks will depend upon our capacity to master complex analytics.
+
+Technology is driving the natural scaling of the activity beyond the institutional boundaries within which we have been used to thinking about it. The basic story here is that what used to be vertically integrated, oligopolistic competition among essentially similar kinds of competitors is evolving, by one means or another, from a vertical structure to a horizontal one. It's happening because transaction costs are falling drastically. The dropping of transaction costs weakens the glue that holds value chains together and allows them to separate. This allows for scalable networked communities to replace conventional corporate production. Big data and advanced analytics are a key component in the development of these ever larger networks as they require a much more complex fluid and dynamic form of coordination.
+
+The problem that we are having the level at which we can process information. With our existing institutional structures that are based around closed centralized and hierarchical organization, we are constrained by the amount of information that the central members can process, which is limited it doesn't really scale to very large complex systems.
+
+Information technology enables massive amounts of people to collaborate within open networks like never before. Unlike physical products knowledge is nonrivalrous, new discoveries differ from other inputs because they are nonrivalrous and fuel further innovation and this can be the foundations for collaboration instead of competition within an innovation economy. It is increasingly becoming recognized that organizations can thrive and serve their users better as participants within open networks.
+
+Unlike products that are largely zero-sum rival goods - meaning they can only belong and be consumed by one person before they have to be produced again - knowledge and information are positive-sum meaning they can be accessed and utilized by many people at the same time. This means the locus of production can shift to much greater investment and collaboration around producing the initial item and then it can be duplicated and exchanged many times. For example, instead of having thousands of lectures around the world giving the same introductory course on economics, that course can be produced once with the best teacher and then distributed via the internet.
+
+**Learning Organizations**
+The organizations that win this game will not be those that are simply most technically competent it will be those that are able to integrate people and information systems effectively.
+Those that are able to build a full stack of not just big data and advanced analytical capacities but or able to use that information in context and are able to integrate it with human knowledge and insight.
+An information economy implies an innovation economy, when we commoditize physical processes and automate information processing the function of people has to move up to the level of ideas and innovation.
+
+The move into the information age also engenders a changing dynamic in knowledge and knowledge production as knowledge becomes no longer confined to books and academia but begins to flow in all directions, it becomes increasingly recognized as the critical asset and resource that flow throughout the economy and society.
+
+A learning organization is the business term given to a company that facilitates the learning of its members so as to be capable of continuously transforming itself. The key shift from a traditional organization to an innovative one is the move from a fixed structure designed to maximize efficiencies to one that is designed to respond to new ideas.
+A knowledge organization works with ideas, creates new ones and transfers them around the organization, it keeps them alive but it is also able to act on those ideas. In a knowledge economy ideas are something real and the organization is a means for executing on them, not a fixed structure. The ability to work autonomously and be an active component of a network becomes paramount in the new economy.
+
+This kind of worker requires higher order thinking skills. Just as previous technology revolutions drove the need for members to have greater thinking skills and knowledge so too does the innovation economy. In an agrarian economy, most people needed a ‘know-how’ type of knowledge. The required knowledge was very practical and they learned this knowledge by participating in the everyday life of their community without the need for formal education. In the Industrial Age economy, people needed a more abstract ‘know-what’ kind of knowledge, they needed a basic stock of general knowledge about the world and basic logic with which to reason in an analytical fashion. In a post-industrial economy, members need more than a stock of "know-what" knowledge they also need to be able to generate new knowledge, they need to be able to think.
+
+Thinking requires developing a systematic set of intellectual capabilities. It requires a more abstract set of conceptual skills, the intellectual infrastructure of critical thinking, systems thinking and creative thinking to synthesize information and process it into new knowledge. Just as innovation is a combination of abstract knowledge and its application, so also an innovative organization needs not only these workers with abstract thinking skills but also it has to have in place the processes for the whole organization to execute on new knowledge, receive feedback and iterate through an evolutionary process.
+
+***
+
+**DIKW**
+
+DIKW framework describes a hierarchical relationship between data, information, knowledge, and wisdom. The hierarchy referred to variously as the ‘Knowledge Hierarchy’, the ‘Information Hierarchy’ and the ‘Knowledge Pyramid’ is one of the fundamental, widely recognized models in the information and knowledge literatures. It is often quoted, or used implicitly, in definitions of data, information, and knowledge in the information management, information systems and knowledge management literatures. Typically information is defined in terms of data, knowledge in terms of information, and wisdom in terms of knowledge, but there is less consensus in the description of the processes that transform elements lower in the hierarchy into those above them.
+
+**Data**
+Data comes in the form of signs and signals, such as numbers, words or other signs that represent discrete facts about an objective reality. Data can be described with reference to objective metrics and thus can be verified and decisively proven to be correct or incorrect. Data is an organized string of symbols that represents something, a set of signs that represent empirical stimuli or perception. They are unorganized and without interpretation and thus data has no meaning. We can use automated computation to capture and sort data
+
+**Information**
+Information comes from providing context to data. It is data that has been endowed with meaning and purpose. Information can be used to answer interrogative questions such as "who", "what", "where", "how many", "when" etc.
+
+**Knowledge**
+Knowledge is the synthesis of multiple sources of information over time, to create conceptual frameworks, theories, and axioms. Knowledge gives context through experiences, values, and insight; enabling judgment based upon justifiable belief. Knowledge is tacit, it has a subjective dimension to it, meaning once made symbolic, and objective, knowledge is reduced to information.
+
+**Wisdom**
+Wisdom is a state of awareness, a paradigm or set of principles; it is the ultimate context and frame of reference. Wisdom is the ability to use knowledge to make correct judgments in response to a unique context, without the aid of facts. Wisdom is the know why, an evaluated understanding, acceptance and appreciation of why something is the way it is, it is seeing the whole. Wisdom involves knowing the right things to do, for the greater good. It requires a sense of what is right and wrong, ethical and unethical. It is most uniquely human.
+
+**Pyramid Structure**
+The framework of data, information, knowledge, and wisdom - the DIKW framework - forms a fundamental ordering principle to information and knowledge environments. In this world of information, it tells us what is the same and what is qualitatively different; it is like a map that tells us where the true limitations lie. Going up the hierarchy means increasing abstraction, context, human input, meaning, and value. Typically information is defined in terms of data, knowledge in terms of information, and wisdom in terms of knowledge. This is because as we move up the levels we go through a synthesizing process, where we are combining or putting together the building blocks bellow to create something new. As we put things together it requires choosing how things are put together and thus the increase in the importance of context, human agency, and meaning as we go up the hierarchy. Going down means breaking things down - what is called analysis - and a reduction in meaning, context and an increase in automation.
+
+***
+
+**Synthesis and Analysis**
+
+There is currently much debate surrounding the relationship between humans and smart systems. Such questions span the full spectrum from practical considerations surrounding work displacement and employment to existential threats to humanity. Indeed, it is important to recognize that at the end of the day the success of this technology revolution is ultimately almost completely dependent upon how human and information systems can work together.
+
+The introduction of this new technology that can perform many of the tasks previously the exclusive purview of humans creates a disruptive and sometimes difficult adjustment of human activity, both on a practical level of work processes but also on a cultural level. A prolonged process of readjustment and realignment is certainly ahead of us, critical to this process though is understanding the limits of computation, figuring out what computers are best at and what humans are more adapted to and how to create synergies between the two to achieve optimal overall outcomes.
+It is decades now since the world's best chess master was beaten by a computer, but today the world's best chess master is not a computer but instead a combination of person and computer working together. This will be the same for individuals as for organizations and whole societies, whichever can figure out how to harness the unique capacities of each and coordinate them in a synergistic fashion will be the winners in the information age.
+
+Key to understanding this differentiation between people and machines is understanding the difference between analytical and synthetic reasoning. Analytical reasoning is what computers do. Analysis is a method of inquiry that proceeds by breaking a system down into its elementary parts, studying those parts in isolation and then forming a description of the whole system in terms of its basic components and interactions. Analytical reasoning deals with closed systems, it involves scrutinizing a situation in order to break it down and solve the associated sub-problems. Analytical processes operate on a prespecified problems space and solve it by defining a set of steps or algorithm. Computers will become masters of analytical reasoning. There is no barrier stopping algorithms from expanding to all areas of analytical reasoning and in this respect within just a couple of seconds [OCR Error in original: probably meant years/decades], there will be almost nothing that we can compete with them at.
+
+The barrier though is with synthetic reasoning. Synthesis is the combining of two or more things in a specific way to create something that is new and different. We take two discrete things and because of the specific synergistic way we arrange them they become integrated into something new which is continuous. Synthetic reasoning is the essence of creative thinking and innovation.
+
+Analytics acts on a pre-defined problems space but it can not create the problem space itself. Analytical reasoning is effective at studying what is, while synthetic reasoning is effective at understanding context so as to create new problem spaces.
+As Prof. Joel Mokyr of Northwestern University states it "it is the humans who ask the questions, it is very hard to teach machines to tell them what are the interesting questions we need an answer to... once we pose the question they can help us answer it."
+
+**Technology**
+Artificial intelligence, machine learning, advanced analytics these are all information technologies. Technologies can be understood as automated systems for resolving a given constraint. All technologies are algorithms in their essence, they are designed to find the most efficient way to map a given input to a desired output. They are an automated means to an end. Technology can only ever be a means to an end, technology can never be an end in itself.
+As the futurist Gerd Leonhard states it "technology is not what we seek, but how we seek." Because technology is a means to an end it is always doing something, every technology does something. In contrast, being is not doing something it is the creation of a possibility.
+Technologies are only ever means to an end, they can't create their own ends. To understand the ends of some thing we have to ask the why question, why do we want to be able to do something. The why question is always an expansive question, if you stay asking why, it will lead you into dealing with broader and broader context, which requires synthetic reasoning, it leads you into dealing with poorly defined categories and concepts so as to be able to grasp the whole, which is precisely what computers are bad at.
+
+Synthetic reasoning looks at the system within the context of its environment making it possible to redefine the system and the problem space. This gives paradigm shifts and quantum leaps in results. It is the job of people to defined the ends and from that the problem space. The ends are given by the context or the environment and the environment is understood through synthetic reasoning.
+
+As technologies will get better at resolving problems spaces, people will have to get better at being, creating the future possibilities that machines then execute on. It requires humans to move up the value chain to become more what we are in essence.
+
+To better understand this distinction between analytic and synthetic reasoning and the distinction between means and ends. Think about this question, why can we successfully apply data analytics to sports matches or to a production line but not to going backpacking across Africa or to our relationship with our partner.
+The answer lies in the fact that in the first instance we can define the desired output to the system, we want to win the match or we want our production line to produce more widgets per hour and the process is just a means for achieving that, thus we can apply an algorithm for optimizing it.
+In the second set of examples we can't really defined an output to the system, in fact the process is the output, it is not a process that creates a desired output, but more like a process out of which emerges some form of value. We could come up with an algorithm for the most efficient way to backpack across africa or to interact with your partner, but in fact the very act of optimizing the process depletes the value of it. Unlike in the first examples where the more efficiently we can complete the process the better the overall outcome, with the second examples the more you do the process the more value you get. The more deviation from the optimal path to get across Africa the richer your traveling experience will be, the more your relationship deviates from some predefined algorithm the more valuable the relationship will be.
+
+Throughout civilization, we have use objects and technologies as ways of objectifying our experience so as to escape from the inherent challenges of being. We do this now again with this new technology, instead of taking responsibility for our decisions we defer to an app, instead of living with uncertainty we resort to statistics.
+It is this that is the real risk and what creates the existential threat, by deferring our humanity to an object we give over control to that thing. Whoever then controls the technology will control us, that's been the case since the origins of civilization, what is different now is that technology may end up being autonomous, and we collectively defer our humanity to these systems then we become control by them.
+
+That is a systemic existential threat, there is no silver bullet simple solution to it. There is no algorithm you can write, no master button to press ...if things get out of control. These are the risks we are taking that will be defined by the choices we make individually and collectively in our every interaction with these systems of technology. We are on a journey the opportunities are immense but the risks are just as high.
+
+Just as with the current environmental crisis, where we did not really appreciate our natural environment until it was degraded and now have the opportunity to re-engage with it in new ways with a new level of appreciation, the same may be true of our humanity, the development of this technology will create many negative social and cultural externalities - like that of the combustion engine during the industrial age - which will both degrade our culture but also offer us new ways to appreciate it and re-engage with who we are and what is of value.
+
+The risk is not machines thinking like people, but quite the opposite people thinking like machines. Unfortunately, this is exactly what we wanted of people during the Industrial Age and have built a whole educational system, even a whole culture around this, it is the inertia in that system to change that sets people up to fail in this new economy.
+The opportunities of this ongoing revolution in information are immense, but so too are the perils. Smart systems represent an expected evolution to our technology landscape one that is in many ways required. However, for this current stage in our technology development to be sustainable this expansion in technological means will require a concomitant expansion in human ends and it is yet to be defined whether such a counterbalancing force can or will emerge.
+
+***
+
+**Reference**
+
+**Overview**
+
+The Human Face of Big Data
+Big Data: A Revolution That Will Transform
+Big Data Analytics: The Revolution Has Just Begun
+
+**Data**
+
+Big Data, New Epistemologies and Paradigm Shifts
+The Impact of Datafication on the Strategic Landscape
+Datafication, dataism and dataveillance
+Consolidated Audit Trail (CAT)
+Dark Analytics
+Discover The Digital Universe of Opportunities
+
+**Analytics**
+
+Learning to Live with Complexity
+The Master Algorithm
+Dark Analytics
+AI: Where are we at and where are we heading?
+Weapons of Math Destruction
+Deep Learning Simplified
+The 7 Steps of Machine Learning
+Cloud Computing
+The Platform Society
+
+**Smart Systems**
+
+Advanced Analytics: Drones
+Mine of the Future
+Drones Getting Smarter with AI | Intel
+principles for creating safer AI
