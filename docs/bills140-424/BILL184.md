@@ -36,9 +36,6 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 **BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
