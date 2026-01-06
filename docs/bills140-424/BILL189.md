@@ -31,9 +31,6 @@ To effectively respond to the present gaps and challenges of the DSBMMH this mea
 
 In view of the foregoing, the passage of this bill is earnestly sought.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
