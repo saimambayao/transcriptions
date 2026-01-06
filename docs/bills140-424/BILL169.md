@@ -43,9 +43,6 @@ Principal Author and Sponsor:
 **MOHAMMAD KELIE U. ANTAO**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at **Section 1. Title.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
