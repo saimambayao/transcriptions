@@ -49,9 +49,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-**Chunk Complete. Ready for next group of provisions starting at Republic of the Philippines (Page 4).**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
