@@ -55,9 +55,6 @@ As an autonomous government, it is thus proper for the Bangsamoro region to esta
 
 In view of the foregoing, the support of all the Members of the Parliament for the prompt passage of this measure is earnestly sought.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -120,9 +117,6 @@ f) Integrate strategies promoting mental health in educational institutions, the
 
 (h) Perform other duties and functions necessary to carry out the purpose of this Act.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 6.**
-
-***
 
 **Section 6. Integration Of Islamic Mental Health Awareness** – Recognizing the importance of Islamic Education in mental health, the Islamic mental health awareness shall be integrated in the narrative of Mental Health Plan to be implemented in the Bangsamoro Autonomous Region.
 
