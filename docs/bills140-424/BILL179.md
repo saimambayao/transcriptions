@@ -37,9 +37,6 @@ ____________________
 ² Cuenca, J. A Note on the 2019 President's Budget, Philippine Institute for Development Studies (Quezon City: 2019), p. 2
 ³ Ibid, p. 1
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
