@@ -36,9 +36,6 @@ Co-authors: **MP Ishak V. Mastura, MP Rasol Y. Mitmug, Jr., MP Dan S. Asnawie, M
 
 (f) Improve the reach of the OOBC by channelling its consultation activities, coordination mechanisms, support and other services through the Peace and Culture Centers.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 4.**
-
-***
 
 **SECTION 4. Programs and Services of the OBC Peace and Culture Centers.** – In coordination and collaboration with the appropriate government agencies and concerned local government units (LGUs), the OOBC shall develop the following programs and services to be implemented in the Peace and Culture Centers:
 
@@ -64,9 +61,6 @@ The OOBC shall also encourage and facilitate the management committees of the Ce
 
 In managing the Peace and Culture Centers, the OOBC and the management committees of the Centers shall ensure their effective functioning as dynamic hubs for social, cultural, and economic development of OBCs, coordinating resources, implementing diverse programs, and conducting regular performance assessments.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 9.**
-
-***
 
 **SECTION 9. Grievance and Dispute Resolution Mechanisms within the OBC Peace and Culture Centers.** – Robust grievance and dispute resolution mechanisms shall be established by the OOBC within the Peace and Culture Centers, in consulation with their management committees. These mechanisms shall address conflicts or issues related to the operations, programs, and services of the Centers arising among the members or organizations of the OBCs.
 
