@@ -72,9 +72,6 @@ e. **Career development opportunities and access to appropriate training facilit
 
 f. Specific support and recognition mechanisms for exceptional individuals, as determined by the relevant Bangsamoro Government bodies.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 6.**
-
-***
 
 **SECTION 6. Requirements.** - For a topnotcher, sports achiever, or exceptional individual to be entitled to the incentives under this Act, he or she shall submit the following minimum documentary requirements:
 
@@ -132,9 +129,6 @@ The implementing agencies shall document and assess the impact of this Act on th
 (3) Review and evaluate the effectiveness of the recognition and incentive programs and recommend necessary amendments or modifications to enhance their efficiency and effectiveness; and
 (4) Undertake other functions and responsibilities necessary to achieve the objectives of this Act.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 12.**
-
-***
 
 **SECTION 12. Conferment of Recognition.** The implementing agency shall endorse the conferment of recognition of the Bangsamoro Achievers to the Bangsamoro Parliament.
 
