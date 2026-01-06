@@ -32,7 +32,6 @@ The recognitions of religious, historical and/or cultural significance, the valu
 
 It is therefore just fitting to give recognition that the Bangsamoro truly deserves, the passage of this proposed measure is earnestly sought.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
