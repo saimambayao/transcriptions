@@ -26,9 +26,6 @@ Among these are the differently abled persons or Persons with Disabilities (PWDs
 
 It is relevant to note that the Bangsamoro Organic Law provides for the establishment of a special agency, support facilities, and livelihood or skills training for persons with special needs, and other disadvantaged persons for their rehabilitation and productive integration into
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -56,9 +53,6 @@ Towards this end, it shall provide for a balanced and responsive approach to soc
 
 For this purpose, the Bangsamoro Government shall give its full support to the improvement of the total well-being of differently abled persons and their integration into the mainstream of society, thereby ensuring their rehabilitation, self-development, and self-reliance.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 3.**
-
-***
 
 **Section 3. Establishment of the Regional Persons with Disabilities Affairs Office.** – There shall be established a *Regional Persons with Disabilities Affairs Office (R-PDAO)*, under the control and supervision of the Ministry of Social Services and Development (MSSD), which shall explore livelihood opportunities and other undertakings that shall enhance the health, physical fitness, economic and social well-being of Persons with Disabilities. It shall have the following functions:
 
@@ -77,9 +71,6 @@ j. Perform such other functions as may be necessary for the promotion and protec
 
 **Section 5. Implementing Rules and Regulations.** – Within ninety (90) days from the approval of this Act, the MSSD shall formulate and promulgate the necessary rules and regulations to implement the provisions of this Act. The implementing rules and regulations issued pursuant to this section shall take effect thirty (30) days after its publication in at least two (2) newspapers of general circulation.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6.**
-
-***
 
 **Section 6. Separability Clause.** – If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
 
