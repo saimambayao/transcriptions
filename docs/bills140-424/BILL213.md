@@ -47,9 +47,6 @@ In view of the foregoing, this representation is seeking for the early passage o
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -97,9 +94,6 @@ The MBHTE may likewise use the learners’ academic performance to determine tho
 
 Priority shall be given to non-readers, younger learners, and incoming secondary and college students.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 7.**
-
-***
 
 **SECTION 7. Tutors under the Supplemental Academic Learning Amelioration Program.** - Teachers with mastery in Language, Science, and Mathematics, as identified by the school principal, shall be responsible for tutoring learners under this program. Graduates of any degree in education, tertiary level students, and other professionals who have acquired mastery in Language, Science, and Mathematics may volunteer as tutors provided that they can show proof of mastery of the subject that they will be teaching and have passed a mock tutoring session to be administered by the Schools Division Offices of the MBHTE.
 
@@ -129,10 +123,6 @@ In addition to pre-and post-assessments, tutors shall conduct formative assessme
 **SECTION 14. Parental Involvement.** – Tutors shall develop rapport and maintain regular communication with the parents of the learners. The parents, being a primary resource and essential support in the education of their children, shall enhance their parental roles by assisting their children through home learning activities and making significant contributions to their educational development at home.
 
 **SECTION 15. Mandatory Review and Impact Assessment.** - The MBHTE shall conduct a mandatory review of the implementation of this Act, and submit an assessment report to Parliament on its impact and effectiveness, not later than one (1) year from the effectivity of this Act.
-
-**Chunk Complete. Ready for next group of provisions starting at Section 16.**
-
-***
 
 **SECTION 16. Parliament Oversight Committee.** - There is hereby created Oversight Committee to oversee, monitor and evaluate the implementation of this Act. The Oversight Committee shall be composed of five (5) members, one (1) from each province, plus the Minister of the MBHTE as the Chairman.
 
