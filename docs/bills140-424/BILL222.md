@@ -31,9 +31,6 @@ Hence, to give recognition worthy of the achievements of these Bangsamoro Topnot
 **HON. ABDULLAH B. HASHIM**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -68,9 +65,6 @@ Co-Authors:
 
     d. Learning Institution – refers to a Higher Education Institution within the Bangsamoro Region from where the topnotcher finished his/her degree as a prerequisite to take a specific national licensure examination.
 
-**Chunk Complete. Ready for next group of provisions starting at SEC. 4.**
-
-***
 
 **SEC. 4. Incentives for Bangsamoro Bar and Physician Topnotchers.** – Bangsamoro Topnotchers of the Philippine Bar Examinations and Physician Licensure Examinations shall be entitled to cash incentive in the following amounts:
 
