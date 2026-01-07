@@ -56,7 +56,6 @@ APPROVED:
 Chief Minister
 Date: 04 SEP 2023
 
-***
 
 **Appendix. Map of the Municipality of Kapalawan.**
 
@@ -88,7 +87,6 @@ CONFIRMED BY:
 **AKMAD A. BRAHIM**
 MINISTER
 
-***
 
 **TECHNICAL DESCRIPTION**
 **KAPALAWAN**
@@ -180,7 +178,6 @@ Bounded on the NE along line 149-150 and line 1-2 by Brgy. Poblacion thence on t
 
 **CONTAINING AN AREA OF : 10,417.2345 HAS.**
 
-***
 
 PREPARED BY:
 Recommending Approval:
