@@ -72,9 +72,6 @@ The sum allocated for the integration of solar energy systems shall include the 
 
 All end-users should be informed by way of its monthly electric bill how much of its monthly energy consumption and generation charge is provided by the installed solar energy system.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6.**
-
-***
 
 **Section 6. General Guidelines.** – For the purpose of this Act, the following are the general guidelines for solar energy systems in all socialized housing programs in the BARMM:
 
