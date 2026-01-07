@@ -52,9 +52,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 | Lantawan | 48,777
 | Hadji Muhtamad | 30,122
 
-Chunk Complete. Ready for next group of provisions starting at the Province of Lanao Del Sur.
-
-***
 
 **Province of Lanao Del Sur (9 Parliamentary Districts)**
 
@@ -120,9 +117,6 @@ Chunk Complete. Ready for next group of provisions starting at the Province of L
 | Amai Manabilang | 14,837
 | Lumba Bayabao | 50,959
 
-Chunk Complete. Ready for next group of provisions starting at the Province of Maguindanao Del Norte.
-
-***
 
 **Province of Maguindanao Del Norte (5 Parliamentary Districts)**
 
@@ -192,9 +186,6 @@ Chunk Complete. Ready for next group of provisions starting at the Province of M
 | Sultan Sa Barongis | 27,929
 | Paglat | 21,317
 
-Chunk Complete. Ready for next group of provisions starting at the Province of Tawi-Tawi.
-
-***
 
 **Province of Tawi-Tawi (4 Parliamentary Districts)**
 
@@ -239,9 +230,6 @@ Chunk Complete. Ready for next group of provisions starting at the Province of T
 | Old Kaabakan | 16,181
 | Kapalawan | 29,191
 
-Chunk Complete. Ready for next group of provisions starting at the City of Cotabato.
-
-***
 
 **City of Cotabato (3 Parliamentary Districts)**
 
