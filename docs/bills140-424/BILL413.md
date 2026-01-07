@@ -48,9 +48,6 @@ Author
 
 ¹https://www.who.int/initiatives/sports-and-health#:~:text=Regular%20physical%20activity%20helps%20prevent,world%20is%20becoming%20less%20active.
 
-Chunk Complete. Ready for next group of provisions starting at [**Section 1. Title.**].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
