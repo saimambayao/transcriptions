@@ -34,9 +34,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -86,9 +83,6 @@ B. Shoulder the costs for operation and maintenance and repair, except in the ev
 
 **Section 7. Design Approval.** – The provision for a rainwater harvesting facility shall be required and/or provided by the Ministry of Agriculture, Fisheries, and Agrarian Reform (MAFAR) to be incorporated in the design of all new industrial, commercial, and agricultural development projects, and no project design shall be approved for construction unless it includes such facility. The MAFAR, in close coordination with concerned constituent LGUs, shall ensure that these facilities are built during the construction phase of the projects.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 8.**
-
-***
 
 **Section 8. Design Requirements.** – The rainwater harvesting facility must be designed to cope with a rain return period and must have a storage capacity prescribed by the MAFAR, in consultation with the Ministry of Public Works (MPW). The design of the rainwater harvesting facility shall include the following:
 
