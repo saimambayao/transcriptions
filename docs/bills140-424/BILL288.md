@@ -32,7 +32,6 @@ With this in mind, the passage of this legislative measure is earnestly sought.
 **MP DON MUSTAPHA A. LOONG, CE, JD, MPSA, MPM, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-***
 
 **AN ACT PROVIDING RECOGNITION AND INCENTIVES TO BANGSAMORO AUTHORS WHO HAVE WRITTEN AND PUBLISHED BOOKS OF EXCELLENCE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -194,6 +193,3 @@ Attested:
 
 **HON. ATTY. PANGALIAN M. BALINDONG**
 *Speaker*
-
-***
-
