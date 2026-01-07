@@ -52,7 +52,6 @@ In view of the foregoing, the passage of this legislative measure is earnestly s
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, CSEE, MNSA**
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
