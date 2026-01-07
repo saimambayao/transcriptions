@@ -42,7 +42,6 @@ The implementation of a green infrastructure policy in the region will undeniabl
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
