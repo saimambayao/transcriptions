@@ -67,7 +67,6 @@ Be it enacted by the Parliament of the Bangsamoro Transition Authority assembled
 
 **CHAPTER VII. FINAL PROVISIONS**
 
-***
 
 **CHAPTER I**
 **GENERAL PROVISIONS**
@@ -663,7 +662,7 @@ In addition, the Bangsamoro Government shall ensure that mental health and psych
 
 Facilities providing necessary interventions to survivors of violence as well as programs directly benefiting the clients shall be actively supported by the Bangsamoro Government. These facilities will include Crisis Intervention Units (CIUs) by the MSSD, and VAWC centers by the MSSD and LGUs, the Women and Children Protection Desk (WCPD’s) by the PNP, Legal Assistance Desk (LAD) by the DOJ and the Women and Children Protection Units (WCPUs) by the MOH, and the Women Peace Centers (WPCs) in the Provinces of Lanao del Sur, Basilan, Sulu, Tawi-Tawi, Maguindanao, and the City of Cotabato.
 
-***
+
 ⁴¹ Article 12 of the UN International Covenant on Economic, Social, and Cultural Rights
 ⁴² RA 7600, as amended by RA 10028, "Expanded Breastfeeding Promotion Act of 2009"
 
@@ -1196,7 +1195,6 @@ Author:
 **AHOD B. EBRAHIM**
 Chief Minister
 
-***
 ⁵⁹ Recommendation from BWC 2022 Policy Research entitled "Policy Issue on Development of Gender Disaggregated Data on Employment, Education, and Governance"
 ⁶⁰ H.B.G. Karon, A. Alfonso, L. Enriquez, N. Lakim, M.E. Pabillan, "Breaking Barriers: Advancing Gender Justice/Equality through Effective Gender and Development (GAD) Fund Utilization in the BARMM, 2023.
 
