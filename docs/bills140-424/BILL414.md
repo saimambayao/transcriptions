@@ -58,9 +58,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-Chunk Complete. Ready for next group of provisions starting at the main text of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -119,9 +116,6 @@ e) Food and daily subsistence;
 
 f) Other essential academic-related expenses as may be determined by MBHTE.
 
-Chunk Complete. Ready for next group of provisions starting at SECTION 7.
-
-***
 
 **SECTION 7. Eligibility Criteria and Application.** - The MBHTE shall formulate the guidelines on eligibility, documentary requirements, selection process, and disbursement mechanisms, giving priority to:
 
