@@ -41,9 +41,6 @@ By institutionalizing development assistance to Bangsamoro people and communitie
 
 In view of the foregoing, approval of this measure is earnestly sought.
 
-Chunk Complete. Ready for next group of provisions starting at [The Act Title].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -113,9 +110,6 @@ d. Economic development initiatives, such as livelihood programs, aquaculture an
 e. Cultural preservation and promotion activities; and,
 f. Strengthening of local government institutions and capacities, subject to Section 10 (j) hereof.
 
-Chunk Complete. Ready for next group of provisions starting at [Section 7].
-
-***
 
 **Section 7. Creation of the Management Council** - There is hereby created a Bangsamoro Development Assistance and Management Council (BDAMC) which shall serve as the implementing and management body to execute the BDAP and other issuances of the Chief Minister pertinent to this Act.
 
@@ -175,9 +169,6 @@ d. Establish coordination with concerned LGUs, national government agencies and 
 e. Coordinate with the Technical Working Group (TWG) that the Council may create to effectively implement the plans and programs set by the Council, and,
 f. Perform such other delegated powers and functions as assigned by the Council.
 
-Chunk Complete. Ready for next group of provisions starting at [Section 12].
-
-***
 
 **Section 12. Creation of Special Fund & Appropriation**- There shall be created a special fund known as the **“Bangsamoro Aid Fund”**. An initial amount of One Hundred Million Pesos (P100,000,000.00) shall be allocated for the initial implementation of this Act, to be sourced from the Office of the Chief Minister. Thereafter, a regular budget in the Bangsamoro General Appropriations shall be provided by the concerned ministries/offices/agencies relevant to the implementation of this Act. *Provided that*: not less than 5% of the approved budget of the concerned Ministry/Office/Agency shall be allocated for the implementation of the BDAP exclusively for the designated BPAs, BPCs and SDAs. *Provided further that*: Additional funds may be sourced from National government allocations, international development partners, and private sector contributions. These funds shall be directly managed by the Council, in coordination with the concerned national government agencies or funding partner.
 
