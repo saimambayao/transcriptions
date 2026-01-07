@@ -44,9 +44,6 @@ Member of the Parliament
 ² BFAR, 2021.
 ³ BFAR, 2010.
 
-**Chunk Complete. Ready for next group of provisions starting at "AN ACT INCENTIVIZING SEAWEED FARMING..."**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -83,9 +80,6 @@ b. Improvement of farmers’ access to financing in the form of credit grants;
 c. Provision of access to improved technologies through research and development; and
 d. Provision of business support and development services, particularly in the areas of access to markets, marketing, and networking.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 4.**
-
-***
 
 **Section 4. Coverage of the Program.** – The Program shall cover the following areas:
 
