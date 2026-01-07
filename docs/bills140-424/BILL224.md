@@ -31,9 +31,6 @@ If enacted into law, the school authorities will finally have direct control and
 
 Attached is the proposed bill as an immediate legislative measure.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -74,9 +71,6 @@ For the purpose of this provision, just compensation shall be based on the amoun
 
 **SECTION 8. ORDER OF REGISTRATION IMMEDIATELY EXECUTORY.** – All judgments ordering the registration of a qualified school sites shall be immediately executory. The Register of Deeds, upon receipt of such order, shall forthwith register and issue the title and the corresponding Certificate of Title in favor of the Ministry of Basic, Higher and Technical Education.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 9.**
-
-***
 
 **SECTION 9. SCHOOL SITES UNDER A CONTRACT OF USUFRUCT.** – In order to protect the interest of the Ministry of Basic, Higher and Technical Education, school sites under a Contract of Usufruct shall be annotated in the Certificate of Title of such property. The Ministry may initiate expropriation proceedings mentioned in Section 7 of this Act upon expiration of the Contract of Usufruct.
 
