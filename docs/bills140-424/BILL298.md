@@ -42,7 +42,6 @@ Member of Parliament – Bangsamoro Transition Authority
 **DR. KADIL M. SINOLINDING, JR.**
 Member of Parliament – Bangsamoro Transition Authority
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
