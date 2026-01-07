@@ -39,9 +39,6 @@ Member of the Parliament
 
 ¹ https://www.bworldonline.com/economy/2022/04/27/445076/barmm-tops-regions-in-2021-agriculture-growth-by-value/
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 **AN ACT**
 **REORGANIZING THE MINISTRY OF AGRICULTURE, FISHERIES, AND AGRARIAN REFORM, RENAMING IT TO MINISTRY OF AGRICULTURE, ADJUSTING ITS UNITS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
@@ -70,9 +67,6 @@ i. Issue clearance for the importation and exportation of agricultural commoditi
 
 **Section 5. Structural Organization.** – The Ministry shall be headed by a Minister, and shall be composed of the ministry proper, the bureaus, offices and their divisions, and the provincial, municipal and city offices.
 
-Chunk Complete. Ready for next group of provisions starting at Section 6.
-
-***
 
 **Section 6. The Minister.** – The Minister shall be appointed by the Chief Minister and shall exercise all powers and authority inherent to his/her office and responsibility.
 
@@ -102,9 +96,6 @@ Chunk Complete. Ready for next group of provisions starting at Section 6.
 
 **Section 10. Attached Agencies.** – The Philippine Coconut Authority in the BARMM is hereby attached to the Ministry.
 
-Chunk Complete. Ready for next group of provisions starting at Section 11.
-
-***
 
 **Section 11. Transfer of Officers and Personnel.** – The Office of the Bangsamoro Director-General for Agriculture, and all operating units of the Ministry of Agriculture, Fisheries and Agrarian Reform (MAFAR) with functions and responsibilities dealing with agriculture are hereby abolished, and their powers and functions, applicable funds and appropriations, records, equipment, property, and personnel transferred to the Ministry.
 
