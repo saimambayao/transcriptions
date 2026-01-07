@@ -42,9 +42,6 @@ Establishing the Bangsamoro Bureau of Quarantine is no longer optional—it's fu
 
 In view of the foregoing, the immediate passage of this bill is earnestly sought.
 
-Chunk Complete. Ready for next group of provisions starting at [Proposed Bill No. 421 Title].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -114,9 +111,6 @@ For purposes of implementing these regulations, the Director of the Bureau may p
 
 (b) Any vessel or aircraft that violates any provision of this Act shall forfeit to the Bureau a fine of not less than One Hundred Thousand pesos (P100,000.00) but not more than Five Hundred thousand pesos (P500,000.00).
 
-Chunk Complete. Ready for next group of provisions starting at [SECTION 10. Authority to Utilize Income].
-
-***
 
 **SECTION 10. Authority to Utilize Income.** - The Bureau shall be authorized to use at least fifty percent (50%) of the income generated subject to accounting and auditing rules and regulations.
 
