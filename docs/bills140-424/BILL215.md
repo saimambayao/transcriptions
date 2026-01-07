@@ -30,10 +30,6 @@ In view of the foregoing, this representation is seeking for the early passage o
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
-
 **Republic of the Philippines**
 **Bangsamoro Autonomous Region in Muslim Mindanao**
 **BANGSAMORO TRANSITION AUTHORITY**
@@ -70,9 +66,6 @@ c) Structural/Building Capacity - The IP Community Centers shall be constructed 
 
 The Ministry of Public Works (MPW) shall be in charge of the construction of IP community centers and formulating the building specifications therefore based on standards, issuances, and other guidelines set by the MPW. The design of which shall be reflective of the identity of the IP for whom the center is to be constructed. It shall also ensure that the construction of such IPCC is in accordance with the above-mentioned requirements during its construction.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 4 (d).**
-
-***
 
 d) Amenities — The IPCC shall be well-ventilated and shall have the capacity to accommodate a large number of people. The centers shall have the following minimum amenities:
 a. Assembly or meeting room;
