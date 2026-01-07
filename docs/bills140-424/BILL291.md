@@ -52,7 +52,6 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
