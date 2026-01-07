@@ -33,11 +33,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Signed)
 **MP BAINTAN ADIL-AMPATUAN, MNSA**
 
-***
-
-**Chunk Complete. Ready for next group of provisions starting at the body of the Act.**
-
-***
 
 **AN ACT DECLARING COTABATO CITY AS THE PERMANENT SEAT OF THE REGIONAL GOVERNMENT OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO AND FOR OTHER PURPOSES**
 
