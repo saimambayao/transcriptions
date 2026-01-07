@@ -59,7 +59,6 @@ Date: 04 SEP 2023
 
 xxx
 
-***
 
 **Appendix. Map of the Municipality of Ligawasan.**
 
@@ -69,7 +68,6 @@ MUNICIPALITY OF LIGAWASAN
 
 [Map Image omitted]
 
-***
 
 **This is the technical description for the Municipality of Ligawasan**
 
