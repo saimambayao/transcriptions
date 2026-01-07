@@ -46,7 +46,6 @@ Through this legislative measure, it is sought to institutionalize a shariah-com
 **MP ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-***
 
 ¹ Micro, small, and medium enterprises. (n.d.). https://serp-p.pids.gov.ph/feature/public/index view?feauredtype_id=1&slug=micro-small-and-medium-enterprises
 ² Department of Trade and Industry. (2024, November 22). MSME Statistics | Department of Trade and Industry Philippines. Department of Trade and Industry Philippines. https://www.dti.gov.ph/resources/msme-statistics/
