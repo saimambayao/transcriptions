@@ -34,7 +34,6 @@ In view of the foregoing, this representation humbly for the early passage of th
 **HASHEMI N. DILANGALEN, MD, CHA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
