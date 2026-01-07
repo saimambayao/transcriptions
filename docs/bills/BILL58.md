@@ -59,9 +59,6 @@ Co-Authors: Atty. Rasol Mitmug Jr., MP Jose Lorena, MP Randolph Parcasio, MP Uba
 
 (h) **“Social and Solidarity Economy Units”** refers to enterprises and organizations, including cooperatives as defined under Republic Act No. 9520, otherwise known as the Philippine Cooperative Code of 2008, mutual benefit societies, associations, foundations, and social enterprises which produce goods, services, and knowledge that meet the needs of the community they serve, through the pursuit of specific social and environmental objectives and the fostering of solidarity.
 
-Chunk Complete. Ready for next group of provisions starting at **Chapter II**.
-
-***
 
 **Chapter II**
 **RIGHTS AND BENEFITS**
@@ -136,9 +133,6 @@ Chunk Complete. Ready for next group of provisions starting at **Chapter II**.
 
 Towards this end, all Bangsamoro Government agencies, government financial institutions, and local government units’ plans, programs, and policies shall foster an atmosphere conducive to the exercise of the right to self-organization of the workers in the informal economy. Such policies shall also facilitate and promote access to credit, skills training, and inputs at lower cost. These policies shall also be geared towards assisting such workers in obtaining fair prices for their produce or products and ensuring uninterrupted supply chain for the efficient, effective and economical transport of their products to consumers.
 
-Chunk Complete. Ready for next group of provisions starting at **Chapter III**.
-
-***
 
 **Chapter III**
 **SECURITY IN THE WORKPLACE OF WORKERS IN THE INFORMAL ECONOMY OR EMPLOYMENT**
@@ -171,9 +165,6 @@ Chunk Complete. Ready for next group of provisions starting at **Chapter III**.
 
 **SEC. 13. Relocation of Terminals and Change of Route.** – Relocation of designated terminals for tricycles, pedicabs, jeepneys and other similar modes of transportation and any change of route shall not be arbitrarily carried out without prior notice and consultation with the drivers and/or transport groups concerned, legitimate organizations of workers, affected community, and other relevant sectors. The relocation of terminals and change of route shall be implemented through an ordinance, the enactment of which shall be subject to the required consultation and notice as provided in this Chapter.
 
-Chunk Complete. Ready for next group of provisions starting at **Chapter IV**.
-
-***
 
 **Chapter IV**
 **SOCIAL PROTECTION FOR THE INFORMAL SECTOR**
