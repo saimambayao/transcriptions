@@ -63,11 +63,7 @@ Chief Minister
 | 12. Simsiman | Pigcawayan | 8.52 | 2,506 | 2,287,270.00 |
 | **Total** | | **50.13** | **19,627** | **62,848,863.44** |
 
-***
 
 **Annex 1b. Map of the municipality of Pahamudin.**
 
 [Image: Map depicting the geographical layout of the following barangays: Simsiman, Datu Binasing, Buricain, Lower Baquer, Balacayon, Lower Pangangkalan, Matilac, Upper Pangangkalan, Kadilingan, Libungan Torreta, and Datu Mantil.]
-
-***
-
