@@ -14,7 +14,6 @@ Funding will be sourced from the Bangsamoro Government's budget as well as from 
 
 In view of the foregoing, the immediate enactment of this bill is earnestly sought. Its passage will demonstrate the Bangsamoro Government's strong resolve to uphold the rights and wellbeing of former women combatants. It will send a clear message that no one will be left behind in the shared task of building a peaceful, progressive, and resilient Bangsamoro.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -135,7 +134,6 @@ g. Such other related functions as directed by the Chief Minister.
 
 ***Approved,***
 
-***
 
 ¹ Social Justice. Section 7, Article IV, RA 11054
 ² Rehabilitation and Development. Section 1, Article XIV, RA 11054
