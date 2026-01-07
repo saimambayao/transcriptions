@@ -45,9 +45,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **HON. AHOD BALAWAG EBRAHIM**
 Chief Minister
 
-Chunk Complete. Ready for next group of provisions starting at the main body of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -101,9 +98,6 @@ The Regional Bangsamoro Irrigation Board shall convene at least once every quart
 (e) Ensure support to the irrigators associations in order to improve their productivity;and
 (f) Ensure the implementation of Republic Act No. 10969; or the “Free Irrigation Service Act”. To this end, the Regional Bangsamoro Irrigation Board shall keep a registry of all entitled beneficiaries’ farmers and identify challenges in the implementation of this law.
 
-Chunk Complete. Ready for next group of provisions starting at Section 7.
-
-***
 
 **SECTION 7.** Functions and Responsibilities of the Office. – The Bangsamoro Irrigation Office shall have the following functions and responsibilities:
 
@@ -171,9 +165,6 @@ Chunk Complete. Ready for next group of provisions starting at Section 7.
 (a) Provide support services relating to personnel, staff development, records management, supplies and equipment, budgeting and accounting, collection, and general clerical and utility services; and
 (b) Perform other related functions as may be assigned by the Executive Director and other competent authorities.
 
-Chunk Complete. Ready for next group of provisions starting at Section 11.
-
-***
 
 **SECTION 11.** Local Government Participation. — The Local Government Units shall, together with the National Irrigation Administration and the Municipal Agriculture Officer, submit plans and periodic reports on the status of irrigation in their respective areas.
 
