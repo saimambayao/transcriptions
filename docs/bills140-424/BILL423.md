@@ -34,9 +34,6 @@ The bill encourages organized and sustained public education campaigns to streng
 
 Passing this bill supports BARMM's goals for better healthcare, reduced reliance on paid blood sources, and increased community awareness of the importance of blood donations in saving lives.
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
