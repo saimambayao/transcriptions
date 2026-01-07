@@ -34,9 +34,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -68,9 +65,6 @@ a. Board, Bar, and other National Licensure Examinations – refers to examinati
 
 b. Topnotchers – refers to individuals who officially ranked from top 1 to top 10 of national licensure examinations, with the corresponding certification from the appropriate administering agency.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 4**.
-
-***
 
 **Section 4. Scope and Coverage.** – This Act shall include all Bangsamoro individuals and other inhabitants in the Bangsamoro Autonomous Region in Muslim Mindanao who shall rank from top 1 to top 10 in any national licensure examination in the academic/educational field, including professional licensure examinations given by the Professional Regulatory Commission, and the Philippine Bar Examination exclusively administered by the Supreme Court of the Philippines.
 
