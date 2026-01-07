@@ -32,9 +32,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -66,9 +63,6 @@ For this purpose, the Bangsamoro Government shall endeavor to allocate a suitabl
 
 The constituent local government units shall ensure that the registration requirements as well as the mandated design parameters and road specifications for all Bangsamoro public cemeteries such as, but not limited to burial plot sizes, access to plots, circulation system, service utilities, buffer strip, facilities and amenities, and perimeter fence are in accordance with HLURB Board Resolution No. 681 Series of 2002, and all other pertinent rules and regulations.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 4.**
-
-***
 
 **Section 4. Management and Operation.** – All constituent local government units in the Bangsamoro Autonomous Region shall have the power and authority to establish, maintain and operate all Bangsamoro public cemeteries within their respective territorial jurisdictions and to ensure compliance with existing rules on applicable design standards, sanitation requirements, and safety guidelines.
 
