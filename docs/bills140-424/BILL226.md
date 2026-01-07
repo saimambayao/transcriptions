@@ -37,10 +37,7 @@ Based from the foregoing, the approval of this bill is urgently requested.
 (Sgd.)
 **JAAFAR APOLLO MIKHAIL L. MATALAM**
 Member of Parliament
-
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act and **SECTION 1**.
-
-***
+s
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -131,9 +128,6 @@ The four (4) members of the Board of Trustees shall constitute a quorum and may 
 
 By including the Cancer Assistance Fund, the bill demonstrates its dedication to extending financial support and assistance to indigent constituents, ensuring that no one is deprived of essential cancer treatment due to financial constraints. This fund will play a pivotal role in ensuring the availability and affordability of cancer care services, empowering indigent Bangsamoro constituents to obtain the treatment they require and rightfully deserve.
 
-Chunk Complete. Ready for next group of provisions starting at **SEC. 9**.
-
-***
 
 **SEC. 9. Powers of the Bangsamoro Cancer Care Center.** - In order to achieve and advance the aforementioned goals and objectives, the Bangsamoro Cancer Care Center, functioning as a separate legal entity, with its Board of Trustees as the governing body, possesses the authority similar to that of a juridical person, and is thus empowered, among other things, to::
 
