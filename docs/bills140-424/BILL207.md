@@ -36,9 +36,6 @@ In light of the vital significance of education in nation-building, the approval
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 **BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
