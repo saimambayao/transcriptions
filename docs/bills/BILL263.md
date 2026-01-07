@@ -25,7 +25,6 @@ Given the undeniable urgency and the transformative potential of this legislatio
 **JAAFAR APOLLO MIKHAIL L. MATALAM**
 Member of Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
