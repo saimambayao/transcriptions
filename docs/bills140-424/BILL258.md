@@ -32,7 +32,6 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 **AN ACT**
 **ESTABLISHING THE BANGSAMORO TEACHERS’ CONTINUING EDUCATION PROGRAM, AND APPROPRIATING FUNDS THEREFOR**
