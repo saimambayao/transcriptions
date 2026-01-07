@@ -32,7 +32,6 @@ Also, Article XV, Section 4 of the 1987 Constitution declares that it is the dut
 
 Thus, this bill seeks the Bangsamoro Government to approve an established mechanism for the beloved senior citizens.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
