@@ -37,7 +37,6 @@ In light of the above, the immediate passage of this Act is earnestly sought.
 **Hon. Omar Yasser C. Sema**
 Deputy Speaker
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
