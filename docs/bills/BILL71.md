@@ -36,9 +36,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at ARTICLE I. PRELIMINARY PROVISIONS.**
-
-***
 
 **ARTICLE I. PRELIMINARY PROVISIONS**
 
@@ -116,9 +113,6 @@ DILG-ARTA Joint Memorandum Circular No. 2019-01, entitled: “Guidelines on the 
 
 PPPC-DILG Joint Memorandum Circular No. 2019-01, entitled: “Supplemental Guidelines for the Implementation of Public-Private Partnership for the People Initiative for Local Government (LGU P4)”
 
-**Chunk Complete. Ready for next group of provisions starting at ARTICLE II. INCORPORATION OF ENERGY PROJECTS INTO THE LGU SPATIAL PLAN AND COMPREHENSIVE DEVELOPMENT PLAN.**
-
-***
 
 **ARTICLE II. INCORPORATION OF ENERGY PROJECTS INTO THE LGU SPATIAL PLAN AND COMPREHENSIVE DEVELOPMENT PLAN**
 
@@ -160,9 +154,6 @@ Upon the submission of the complete documents by the energy project applicant, t
 
 The duly received/stamped as received application form of the energy project applicant by the concerned LGU shall serve as the relevant permit if the LGU fails to act on the application within the provided time frame.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 8. Denial of Application.**
-
-***
 
 **Section 8. Denial of Application.** In case of denial of application, the LGU shall notify the energy project applicant in writing stating the reason/s for disapproval.
 
@@ -212,9 +203,6 @@ The Bangsamoro Government shall coordinate with the DOE and the DILG for the iss
 
 **Section 14. Local Energy Efficiency and Conservation Plan.** The Bangsamoro Government, through its EECO and planning development office, with the assistance of the MENRE and in coordination with the MILG, shall develop and implement their respective Regional EE&C Plans and incorporate these in their local development.
 
-**Chunk Complete. Ready for next group of provisions starting at ARTICLE VII. PRIVATE SECTOR PARTICIPATION.**
-
-***
 
 **ARTICLE VII. PRIVATE SECTOR PARTICIPATION**
 
