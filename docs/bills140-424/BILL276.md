@@ -32,7 +32,6 @@ The Moral Recovery Leave Act does not intend to favor any particular group or re
 **DR. HASHEMI N. DILANGALEN**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
