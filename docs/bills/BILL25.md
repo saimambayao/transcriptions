@@ -84,9 +84,6 @@ h. Submit to the Parliament and to the President recommendations for further act
 
 i. Perform other such functions as may be necessary for the effective discharge of its mandate.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 8**.
-
-***
 
 **Section 8. Organizational Structure and Staffing Pattern.** — Within three (3) months from the convening of the Regional Commission, the organizational structure and staffing pattern shall be formulated and finalized in coordination with the Ministry of Finance, and Budget and Management. To assist the Regional Commission in the performance of its duties, four (4) sub-commissions are hereby created, which shall deal with specific aspects of transitional justice for the Bangsamoro:
 
