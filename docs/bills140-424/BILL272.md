@@ -44,9 +44,6 @@ PRINCIPAL AUTHOR
 **ALI MONTAHA DATU HARON BABAO**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Population and Area Annexes.
-
-***
 
 **BARANGAYS** | **POPULATION (2020 SURVEY)**
 --- | ---
@@ -126,7 +123,6 @@ RUNGGAYAN | 8762.07 | 87625055.63
 SABALA DILAUSAN | 32.27 | 322751.25
 **TOTALS** | **62727.54** | **627306881.20**
 
-***
 
 **Economy**
 
@@ -145,9 +141,6 @@ The annual regular revenue of Maguing for the fiscal year of 2016 was ₱126,575
 **2015** | 114,732,079.99 | 14.39% ▲
 **2016** | 126,575,696.96 | 10.32% ▲
 
-Chunk Complete. Ready for next group of provisions starting at the Map visual.
-
-***
 
 **MUNICIPALITY OF MAGUING**
 **PROVINCE OF LANAO DEL SUR**
