@@ -26,7 +26,6 @@ This bill is being proposed to provide remedy for the gap under our labor laws i
 **ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
