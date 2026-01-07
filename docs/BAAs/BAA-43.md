@@ -56,7 +56,6 @@ APPROVED:
 Chief Minister
 Date: 04 SEP 2023
 
-***
 
 **Appendix. Map of the Municipality of Nabalawag.**
 
@@ -80,7 +79,6 @@ SCALE: 1:40,000
 
 [Signatures of Robert M. Abellon, Roderick Pamlian, and Akmad A. Brahim]
 
-***
 
 **This is the Technical Description Municipality of Nabalawag.**
 
