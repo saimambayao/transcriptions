@@ -32,10 +32,6 @@ We are at the height of making a difference for the Bangsamoro People and at the
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-Chunk Complete. Ready for next group of provisions starting at the Title/Enacting Clause.
-
-***
-
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
 **BANGSAMORO TRANSITION AUTHORITY**
@@ -113,10 +109,6 @@ C. Increasing public confidence in the integrity of public records keeping and m
 D. Ensuring accessibility of public records relevant to the promotion and preservation of Bangsamoro cultural heritage; and
 
 E. Supporting the safekeeping of private records.
-
-Chunk Complete. Ready for next group of provisions starting at Article II.
-
-***
 
 **ARTICLE II**
 
