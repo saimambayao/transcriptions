@@ -32,7 +32,6 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 **AN ACT**
 **DEVELOPING AND PROMOTING THE BANGSAMORO TOURISM, ESTABLISHING THE BANGSAMORO TOURISM PROMOTION BOARD FOR THE PURPOSE AND APPROPRIATING FUNDS THEREFOR**
