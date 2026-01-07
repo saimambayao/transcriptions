@@ -33,9 +33,6 @@ Thus, in view of the foregoing, the immediate approval of this bill is earnestly
 **BUTCH P. MALANG**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
