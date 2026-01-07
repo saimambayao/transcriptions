@@ -27,7 +27,6 @@ The nearest existing hospital from the Municipality of Tipo-tipo is Lamitan Dist
 
 Given the circumstances, the establishment of an infirmary hospital for the constituents of the Municipality of Tipo-tipo is highly sought. This creation shall be in support of the Enhanced 12-Point Priority Agenda of the Bangsamoro Government to create an environment where everyone has access to healthcare services, facilities, and resources to improve health.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
