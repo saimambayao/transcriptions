@@ -30,7 +30,6 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 **Section 1. Short Title. –** This Act shall be known as the “*Bangsamoro Palliative and Hospice Care Act of 2022.*”
 
