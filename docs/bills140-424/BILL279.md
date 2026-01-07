@@ -41,7 +41,6 @@ Member of the Parliament
 ³ https://medicalpinas.com/dialysis-centers-philippines/
 https://www.philstar.com/headlines/2023/06/23/2275932/philhealth-expands-hemodialysis-package
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
