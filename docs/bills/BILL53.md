@@ -38,9 +38,6 @@ In view of the foregoing, the passage of this legislative measure is earnestly s
 **DR. SUSANA SALVADOR ANAYATIN**
 Member – BTA Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Be it enacted by the Bangsamoro Autonomous Region in Muslim Mindanao, Bangsamoro Transition Authority (BTA) Interim Parliament.
 
@@ -141,9 +138,6 @@ The members shall serve without compensation, but they shall be reimbursed for n
 
 **SECTION 10. The President.** - The administration of the School shall be vested in the president of the School who shall render full-time service. He shall be appointed by the Board, upon recommendation of a duly constituted search committee. He shall have a term of four (4) years and shall be eligible for reappointment for another term.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 10 continued.**
-
-***
 
 In case of vacancy by reason of death, resignation, removal for cause or incapacity of the president to perform the functions of his office, the Board shall have the authority to designate an officer-in-charge pending the appointment of a new president.
 
