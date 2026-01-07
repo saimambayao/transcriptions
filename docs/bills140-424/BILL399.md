@@ -49,9 +49,6 @@ Member of Parliament
 5. Open Government Partnership (2020). *Global Report: Democracy Beyond the Ballot Box*. Washington, D.C.: OGP.
 6. The Asia Foundation (2023). *Mapping Study on Civil Society Organizations’ Engagement with the Bangsamoro Government*. Manila: The Asia Foundation.
 
-Chunk Complete. Ready for next group of provisions starting at Section 1.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -112,9 +109,6 @@ Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mi
 
 (12) Provide capacity-building programs, mentoring, and training for government personnel and CSOs to effectively engage and implement participatory governance practices.
 
-Chunk Complete. Ready for next group of provisions starting at Section 6.
-
-***
 
 **Section 6. Composition.** — The Bangsamoro CSO Coordinating Office (BCCO) shall be composed of the following key personnel, subject to existing civil service rules and applicable laws:
 
@@ -162,9 +156,6 @@ The Committee shall likewise have the authority to issue findings and recommenda
 
 **Section 12. Funding and Resource Allocation.** — For the initial operating expenses of the BCCO to carry out the mandate of this Act, the amount of Fifty Million Pesos (P 50,000,000.00) is hereby appropriated from the Contingent Fund. Thereafter, its regular budget shall be included in the General Appropriations Act of the Bangsamoro (GAAB).
 
-Chunk Complete. Ready for next group of provisions starting at Page 8.
-
-***
 
 The BCCO, through the OCM, is authorized to accept donations, contributions, grants, bequests, or gifts from domestic or foreign sources, for purposes relevant to its mandate and functions, in accordance with applicable laws, rules, and regulations subject to government accounting and auditing rules and regulations.
 
