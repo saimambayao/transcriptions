@@ -31,7 +31,6 @@ It is in this context of urgency and need that we seek the passage of this.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
