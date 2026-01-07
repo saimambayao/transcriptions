@@ -37,9 +37,6 @@ Let this law be remembered not just as a policy, but as a turning point—the mo
 **ATTY. NAGUIB G. SINARIMBO**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
