@@ -57,7 +57,6 @@ In view of the foregoing data and compelling need, the immediate enactment of th
 **MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-***
 
 ¹ 1987 Philippine Constitution, Article III, Section 6.
 ² Civil Aviation Authority of the Philippines (CAAP), "List of Airports," caap.gov.ph.
@@ -77,9 +76,6 @@ Author
 ¹⁶ Office of the Presidential Adviser on Peace, Reconciliation, and Unity (OPAPRU), 2023 Normalization Status Report.
 ¹⁷ BARMM Ministry of Trade, Investments and Tourism (MTIT), 2024 Regional Economic Outlook.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 1. Title.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
