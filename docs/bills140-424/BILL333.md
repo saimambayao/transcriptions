@@ -9,7 +9,6 @@ In G.R. Nos. 271741 and 271972, Datu Sajid S. Sinsuat et al. v. Hon. Ahod Balawa
 
 As such, this bill is filed to amend Section 5 of BAA No. 55, allowing qualified voters from both the new and mother municipality of Sheik Abas Hamza in the province of Maguindanao del Norte to vote in the plebiscite pursuant to Article 10, Section 10 of the Constitution.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
