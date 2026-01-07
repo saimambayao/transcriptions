@@ -61,9 +61,6 @@ _________________________
 ⁵ https://www.philstar.com/the-freeman/opinion/2025/02/06/2419482/filipino-students-are-dropping-out-college
 ⁶ *Ibid.*
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
 
@@ -136,9 +133,6 @@ The President shall be assisted by a Vice President for Academic Affairs, a Vice
 
 The President shall be subject to periodic performance evaluation by the Board based on transparent and merit-based criteria.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 11.**
-
-***
 
 **Section 11. The Secretary.** – There shall be a Secretary of the University who shall be appointed by the Board. The Secretary shall serve both the Board and the University, and shall be responsible for keeping all records and minutes of the meetings of the Board.
 
