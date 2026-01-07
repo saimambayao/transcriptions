@@ -40,9 +40,6 @@ Thus, in view of the foregoing, the immediate approval of this bill is earnestly
 **MP ATTY SUHARTO M AMBOLODTO, MNSA**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at the Title of the Bill.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -78,9 +75,6 @@ Co-Authors:
 
 **Section 5. Administration.** - Upon effectivity of this Act, the Sultan Mastura General Hospital shall be under the administrative supervision of the Minister of Health who is hereby authorized to determine and approve the appropriate organizational structure for the management and operations of the hospital.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6.**
-
-***
 
 **Section 6. Appropriations.** - The amount necessary to carry out the provisions of this this Act shall be included in the Bangsamoro Appropriations Act. Thereafter, funds necessary for the maintenance and operation of the hospital shall be provided in accordance with the provisions of the Bangsamoro Appropriations Act and other pertinent laws.
 
