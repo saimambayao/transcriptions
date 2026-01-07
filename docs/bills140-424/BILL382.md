@@ -37,7 +37,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **NURREDHA I. MISUARI**
 Member of the Parliament
 
-***
 ¹ World Health Organization (WHO). (2020). Maternal mortality factsheet. Retrieved from https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
 ² United Nations Population Fund (UNFPA). (2020). Maternal health in the Philippines. Retrieved from https://www.unfpa.org/
 ³ Philippine Statistics Authority (PSA). (2021). Maternal Health and Mortality Statistics. Retrieved from https://psa.gov.ph/
@@ -45,9 +44,6 @@ Member of the Parliament
 ⁵ Bangsamoro Planning and Development Authority (BPDA). (2023). Annual Report: Health and Social Services in BARMM. Retrieved from https://bpda.bangsamoro.gov.ph/
 ⁶ United Nations Development Programme (UNDP). (2020). Development and Health in BARMM. Retrieved from https://www.undp.org/
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter I.**
-
-***
 
 **CHAPTER I**
 **GENERAL PROVISIONS**
@@ -111,9 +107,6 @@ Member of the Parliament
 5) Islamic Scholars (to provide religious and spiritual support)
 6) Administrative and Support Staff
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter III.**
-
-***
 
 **CHAPTER III**
 **PROGRAMS AND SERVICES**
