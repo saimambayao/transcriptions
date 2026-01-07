@@ -19,7 +19,6 @@ When passed into law, this bill will fulfil the mandate of the Bangsamoro Govern
 
 In this connection please allow me to file this bill ____ as BTA Parliament Bill for the benefit of our people in the Municipality of South Upi Province of Maguindanao Del Sur. Fiyo Bagi Meuyag.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
