@@ -59,9 +59,6 @@ For this purpose, employers’ and workers’ organization shall, as far as prac
 
 (o) **“Tripartism”** refers to the mechanism and the process for negotiation, consultation or exchange of information between and among representatives of governments, employers’ and workers’ organizations on economic and social issue of common interests.
 
-Chunk Complete. Ready for next group of provisions starting at **Chapter II**.
-
-***
 
 **Chapter II**
 **SECTORAL REPRESENTATION IN DECISION, CONSULTATIVE AND POLICY-MAKING BODIES OF THE BANGSAMORO GOVERNMENT**
@@ -88,9 +85,6 @@ The Bureau of Labor Relations and Standards (BLRS) of the MOLE shall provide tec
 
 **SEC. 9. Sectoral representation of Overseas Bangsamoro Workers; Overseas Land-based and Sea-based Tripartite Committee (OLSTC).** – Full sectoral representation and consultation on matters affecting the Overseas Bangsamoro Workers (OBW), whether land-based or sea-based, shall be ensured by the Minister of Labor and Employment. For this purpose, organizations of land-based and sea-based OBWs shall be promoted and be accorded two (2) representatives each in the Overseas Land-based and Sea-based Tripartite Committee (OLSTC), which is hereby constituted as a sub-committee of the BTIPC. In addition, the OLSTC shall also have one representative from women OBWs, BARMM registered land-based recruitment agency, and BARMM registered sea-based manning agency. The OLSTC sectoral representatives shall be appointed by the Minister of Labor and Employment, upon nomination by their respective organization, for three (3) years unless sooner replaced or recalled by the nominating organization.
 
-Chunk Complete. Ready for next group of provisions starting at **Chapter III**.
-
-***
 
 **Chapter III**
 **MECHANISMS FOR SOCIAL DIALOGUE AT THE WORKPLACE**
