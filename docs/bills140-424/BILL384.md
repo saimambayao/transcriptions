@@ -49,7 +49,6 @@ By institutionalizing a comprehensive peace and public safety framework, this me
 **NURREDHA I. MISUARI**
 Member of the Parliament
 
-***
 
 ¹ United Nations. (2015). Transforming our world: the 2030 Agenda for Sustainable Development. https://sdgs.un.org/2030agenda
 ² United Nations Security Council. (2000). Resolution 1325 on Women, Peace and Security. https://undocs.org/S/RES/1325(2000)
