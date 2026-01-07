@@ -48,9 +48,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
                                               Lantawan                                                          31,040
                                               Hadji Muhtamad                                               26,867
 
-**Chunk Complete. Ready for next group of provisions starting at Province of Lanao Del Sur.**
-
-***
 
 **Province of Lanao Del Sur (9 Parliamentary Districts)**
 
@@ -115,9 +112,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
                                               Binidayan                                                         25,965
                                               Bayang                                                              28,023
 
-**Chunk Complete. Ready for next group of provisions starting at Province of Maguindanao Del Norte.**
-
-***
 
 **Province of Maguindanao Del Norte (5 Parliamentary Districts)**
 
@@ -186,9 +180,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
                                               Paglat                                                                18,727
                                               Pandag                                                               26,356
 
-**Chunk Complete. Ready for next group of provisions starting at Province of Tawi-Tawi.**
-
-***
 
 **Province of Tawi-Tawi (4 Parliamentary Districts)**
 
@@ -281,9 +272,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
                                               Rosary Heights VIII                                           9,947
                                               Rosary Heights XIII                                          5,614
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 3.**
-
-***
 
 **SECTION 3. Filing of Candidacy for Parliamentary Districts.** The Commission on Elections shall issue appropriate guidelines on the filing of candidacies for parliamentary district representatives.
 
