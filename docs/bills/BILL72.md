@@ -26,10 +26,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly reques
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
-
 **AN ACT**
 **ESTABLISHING THE BANGSAMORO ENDOWMENT FUND FOR CULTURE AND THE ARTS**
 
@@ -69,9 +65,6 @@ The members of the Council shall not be entitled to additional compensation exce
 (c) Projects and productions that will encourage public knowledge, education, understanding, and appreciation of Bangsamoro culture;
 (d) Workshops that will encourage and develop the appreciation and enjoyment of the arts by the Bangsamoro;
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6 (e).**
-
-***
 
 (e) Programs for the arts at the local level;
 (f) Publication of literary pieces reflective of Bangsamoro culture; and
