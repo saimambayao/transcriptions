@@ -29,7 +29,6 @@ Besides improving public health, it is also an urgent need to establish a genera
 
 Thus, in view of the foregoing, passage of this Bill is earnestly sought.
 
-***
 
 **“AN ACT CREATING AND ESTABLISHING A LEVEL 1 GENERAL HOSPITAL TO BE KNOWN AS ALEEM ABDULAZIS S. MIMBANTAS MEMORIAL HOSPITAL IN THE MUNICIPALITY OF MASIU, PROVINCE OF LANAO DEL SUR AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES”**
 
