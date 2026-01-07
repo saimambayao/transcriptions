@@ -5323,7 +5323,6 @@ Chief Minister
 ABDULRAOF A. MACACUA
 Executive Secretary
 
-***
 
 ¹¹⁵ It was suggested during consultation to activate, monitor, and received recommendation from the leagues on matters that affect their groups or their constituent in general.
 ¹¹⁶ Suggested by stakeholder during consultation to help the Bangsamoro government in monitoring the implementation of government project and the performance of government officials from region down to barangay.
