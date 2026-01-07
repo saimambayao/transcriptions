@@ -33,7 +33,6 @@ This bill underscores the government's commitment to respecting the religious di
 **HON. JAMEL B. MACACUA**
 Member of Parliament – Bangsamoro Transition Authority
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
