@@ -37,7 +37,6 @@ In essence, the Bangsamoro People’s Equity and Enterprise Participation Act of
 **NURREDHA I. MISUARI**
 Member of the Parliament
 
-***
 ¹ Philippine Statistics Authority (PSA). (2023). Poverty Statistics of BARMM and National Averages. https://psa.gov.ph
 ² United Nations. (2023). Sustainable Development Goals Report. https://sdgs.un.org
 ³ World Bank. (2022). Finance for an Equitable Recovery. World Bank Publications. https://www.worldbank.org/en/publication/wdr2022
@@ -45,9 +44,6 @@ Member of the Parliament
 ⁵ Tok, E.; Yesuf, A.J.;Mohamed, A. Sustainable Development Goals and Islamic Social Finance: From Policy Divide to Policy Coherence and Convergence. *Sustainability* 2022, 14, 6875. https://doi.org/10.3390/su14116875
 ⁶ Bangsamoro Organic Law (BOL), Republic Act No. 11054, 2018.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter I.**
-
-***
 
 **CHAPTER I**
 **GENERAL PROVISIONS**
@@ -143,9 +139,6 @@ b. All income, returns, dividends, and proceeds derived from SEIF investments sh
 
 c. The MSSD, as the fund manager, shall prepare an Annual Investment Plan (AIP) for SEIF operations, subject to review by the Inter-Ministerial Board and concurrence by BPDA and the Bangsamoro Parliament’s appropriate committee.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter III.**
-
-***
 
 **CHAPTER III**
 **INSTITUTIONAL FRAMEWORK AND GOVERNANCE**
@@ -223,9 +216,6 @@ a. Comply with the social equity ownership mandate as prescribed by this Act;
 b. Integrate community development, skills transfer, and empowerment initiatives into their operations;
 c. Submit annual audited reports on their social impact and equity management, subject to independent verification by the SEIF Board and the Commission on Audit – BARMM.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter VII.**
-
-***
 
 **CHAPTER VII**
 **MONITORING, EVALUATION, AND ACCOUNTABILITY**
