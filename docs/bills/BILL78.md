@@ -40,9 +40,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at [Section 1. Short Title].**
-
-***
 
 **AN ACT**
 **CREATING THE BANGSAMORO PARLIAMENT CORPORATE BODY, ENHANCING THE PARLIAMENTARY GOVERNANCE OF THE REGION, AND APPROPRIATING FUNDS THEREFOR**
@@ -71,9 +68,6 @@ To provide greater flexibility in its operations, the BPCB shall be autonomous i
 
 (e) Establish and operate parliamentary communications and visitor services, including the parliamentary briefing service, educational and visitor services, and broadcasting facilities and events.
 
-**Chunk Complete. Ready for next group of provisions starting at [Section 5. Powers and Functions].**
-
-***
 
 **Section 5. Powers and Functions.** – The BPCB shall exercise the following powers and functions:
 
@@ -128,9 +122,6 @@ e. Submit quarterly and annual reports to the Board, and such other reports as m
 f. Represent the BPCB in all dealings with other offices, agencies, and instrumentalities of the government and with all persons and entities, public or private; and
 g. Exercise such other powers and perform such other duties as may be directed by the Board.
 
-**Chunk Complete. Ready for next group of provisions starting at [Section 10. Sunset Clause].**
-
-***
 
 **Section 10. Sunset Clause.** – Unless it is sooner dissolved by the Parliament, the existing organizational structure and personnel of the Bangsamoro Transition Authority shall continue to subsist and perform its functions pursuant to pertinent laws, rules and regulations until the Bangsamoro Parliament Corporate Body is organized and becomes fully operational by virtue of this Act.
 
