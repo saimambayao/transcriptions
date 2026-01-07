@@ -58,9 +58,6 @@ Member of Parliament
 **MUDJIB C. ABU**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the main text of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -108,9 +105,6 @@ Member of Parliament
 **MUDJIB C. ABU**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at Annex 1.
-
-***
 
 **Annex 1. Composition, land area, population and annual income of the proposed 1st SGA Parliamentary District, 2020.**
 
