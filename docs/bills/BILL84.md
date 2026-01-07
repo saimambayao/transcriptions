@@ -44,9 +44,6 @@ In view of the foregoing, the passage of this bill is earnestly urged.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at "AN ACT MEMORIALIZING THE VALOR..."**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -96,9 +93,6 @@ The MBHTE shall prepare literature on the ideals and bravery espoused by the cor
 
 **Section 8. Appropriation.** – The amount necessary to carry out the provisions of this Act shall be included in the annual budget of the BCPCH.
 
-**Chunk Complete. Ready for next group of provisions starting at "Section 9. Implementing Rules and Regulations."**
-
-***
 
 **Section 9. Implementing Rules and Regulations.** – The BCPCH, together with the MBHTE and the Ministry of Interior and Local Government, in consultation with relevant stakeholders, such as the Moro Islamic Liberation Front and the Moro National Liberation Front, shall issue the Implementing Rules and Regulations (IRR) within sixty (60) days from the effectivity of this Act.
 
