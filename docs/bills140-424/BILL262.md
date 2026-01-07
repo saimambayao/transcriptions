@@ -10977,7 +10977,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | **235** | **159,815,423.00** |
 | **Total Number of Positions** | **1,681** | **1,617,892,500.00** |
 
-***
 
 **II. OFFICE OF THE CHIEF MINISTER**
 
@@ -11023,7 +11022,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | **104** | **53,781,651.00** |
 | **Total Number of Positions** | **372** | **344,019,913.00** |
 
-***
 
 **A. BANGSAMORO INFORMATION OFFICE**
 
@@ -11049,7 +11047,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **37** | **24,918,896.00** |
 
-***
 
 **B. BANGSAMORO DARUL-IFTA'**
 
@@ -11076,7 +11073,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **31** | **28,760,471.00** |
 
-***
 
 **C. BANGSAMORO BOARD OF INVESTMENTS**
 
@@ -11102,7 +11098,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **16** | **15,940,636.00** |
 
-***
 
 **D. BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE**
 
@@ -11127,7 +11122,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **19** | **15,411,744.00** |
 
-***
 
 **E. OFFICE FOR SETTLER COMMUNITIES**
 
@@ -11153,7 +11147,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **17** | **13,248,292.00** |
 
-***
 
 **III. MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT**
 
@@ -11195,7 +11188,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **250** | **203,652,435.00** |
 
-***
 
 **IV. MINISTRY OF SOCIAL SERVICES AND DEVELOPMENT**
 
@@ -11228,7 +11220,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **514** | **303,333,185.00** |
 
-***
 
 **V. MINISTRY OF TRADE, INVESTMENTS, AND TOURISM**
 
@@ -11267,7 +11258,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **266** | **206,779,833.00** |
 
-***
 
 **VI. MINISTRY OF LABOR AND EMPLOYMENT**
 
@@ -11340,7 +11330,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **307** | **220,029,767.00** |
 
-***
 
 **VIII. MINISTRY OF BASIC, HIGHER, AND TECHNICAL EDUCATION**
 
@@ -11384,7 +11373,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **39,682** | **20,598,780,206.00** |
 
-***
 
 **IX. MINISTRY OF INDIGENOUS PEOPLES' AFFAIRS**
 
@@ -11414,7 +11402,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **69** | **47,588,597.00** |
 
-***
 
 **X. MINISTRY OF HEALTH**
 
@@ -11461,7 +11448,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | **95** | **72,343,222.00** |
 | **Total Number of Positions** | **4,374** | **3,192,548,593.00** |
 
-***
 
 **XI. MINISTRY OF PUBLIC WORKS**
 
@@ -11495,7 +11481,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **690** | **402,980,196.00** |
 
-***
 
 **XII. MINISTRY OF THE INTERIOR AND LOCAL GOVERNMENT**
 
@@ -11534,7 +11519,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **446** | **378,928,124.00** |
 
-***
 
 **XIII. MINISTRY OF ENVIRONMENT, NATURAL RESOURCES AND ENERGY**
 
@@ -11575,7 +11559,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **739** | **402,453,012.00** |
 
-***
 
 **XIV. MINISTRY OF HUMAN SETTLEMENTS AND DEVELOPMENT**
 
@@ -11607,7 +11590,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **108** | **83,734,839.00** |
 
-***
 
 **XV. MINISTRY OF SCIENCE AND TECHNOLOGY**
 
@@ -11638,7 +11620,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **105** | **80,827,758.00** |
 
-***
 
 **XVI. MINISTRY OF AGRICULTURE, FISHERIES AND AGRARIAN REFORM**
 
@@ -11674,7 +11655,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **1,191** | **728,295,038.00** |
 
-***
 
 **XVII. MINISTRY OF PUBLIC ORDER AND SAFETY**
 
@@ -11706,7 +11686,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **81** | **60,375,146.00** |
 
-***
 
 **XVIII. OFFICE OF THE WALI OF BANGSAMORO**
 
@@ -11731,7 +11710,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **22** | **19,142,422.00** |
 
-***
 
 **XIX. BANGSAMORO YOUTH COMMISSION**
 
@@ -11759,7 +11737,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **58** | **44,756,908.00** |
 
-***
 
 **XX. BANGSAMORO WOMEN COMMISSION**
 
@@ -11787,7 +11764,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **54** | **42,685,285.00** |
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -11816,7 +11792,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **36** | **33,896,698.00** |
 
-***
 
 **XXII. BANGSAMORO COMMISSION FOR THE PRESERVATION OF CULTURAL HERITAGE**
 
@@ -11844,7 +11819,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **49** | **41,356,314.00** |
 
-***
 
 **XXIII. BANGSAMORO PLANNING AND DEVELOPMENT AUTHORITY**
 
@@ -11878,7 +11852,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **66** | **61,170,420.00** |
 
-***
 
 **XXIV. BANGSAMORO ATTORNEY-GENERAL'S OFFICE**
 
@@ -11905,7 +11878,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **33** | **30,752,992.00** |
 
-***
 
 **XXV. BANGSAMORO PILGRIMAGE AUTHORITY**
 
@@ -11932,7 +11904,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **38** | **30,449,343.00** |
 
-***
 
 **XXVI. COOPERATIVES AND SOCIAL ENTERPRISE AUTHORITY**
 
@@ -11959,7 +11930,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **39** | **27,457,816.00** |
 
-***
 
 **XXVII. DEVELOPMENT ACADEMY OF THE BANGSAMORO**
 
@@ -11988,7 +11958,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | - | - |
 | **Total Number of Positions** | **34** | **27,205,640.00** |
 
-***
 
 **XXVIII. BANGSAMORO HUMAN RIGHTS COMMISSION**
 
