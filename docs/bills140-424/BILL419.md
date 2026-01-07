@@ -63,9 +63,6 @@ Member of the Parliament
 **MP ATTY. ISHAK V. MASTURA**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at ARTICLE III.
-
-***
 
 **AN ACT AMENDING BANGSAMORO AUTONOMY ACT NO. 35, ENTITLED “AN ACT PROVIDING FOR THE BANGSAMORO ELECTORAL CODE OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO”**
 
