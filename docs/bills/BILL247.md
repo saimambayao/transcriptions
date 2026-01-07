@@ -49,7 +49,6 @@ Attested by:
 **ATTY. PANGALIAN M. BALINDONG**
 Parliament Speaker
 
-***
 
 **ANNEX 1a. Barangays covered by the Municipality of Bonggo, their original mother municipality, and respective land area, population, and annual income as of 2020.**
 
@@ -69,7 +68,6 @@ Parliament Speaker
 *Technical Description of Barangays
 **Philippine Statistics Authority, 2020 Census of Population and Housing
 
-***
 
 This are the following Barangay's of proposed Municipality of Bonggo and their Technical Description and Areas
 
