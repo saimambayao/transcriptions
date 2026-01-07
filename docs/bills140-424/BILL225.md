@@ -43,9 +43,6 @@ Author
 ² https://www.who.int/health-topics/hospitals#tab=tab_1
 ³ https://www.who.int/health-topics/universal-health-coverage#tab=tab_1
 
-Chunk Complete. Ready for next group of provisions starting at the main text of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
