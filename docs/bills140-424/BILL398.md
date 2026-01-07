@@ -37,10 +37,6 @@ Member of the BTA Parliament
 **HON. DR. IBRAHIM P. IBAY**
 Member of the BTA Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at ARTICLE I.**
-
-***
-
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
 **BANGSAMORO TRANSITION AUTHORITY 2**
