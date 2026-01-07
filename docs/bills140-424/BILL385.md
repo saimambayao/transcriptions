@@ -39,7 +39,6 @@ All these efforts toward water sustainability are not merely matters of policy �
 **NURREDHA I. MISUARI**
 Member of the Parliament
 
-***
 
 ¹ UN General Assembly. (2010). Resolution A/RES/64/292: The human right to water and sanitation. https://www.un.org/en/ga/64/resolutions.shtml
 ² UN-Water. (2021). Summary Progress Update 2021: SDG 6 — water and sanitation for all. https://www.unwater.org/publications/summary-progress-update-2021-sdg-6-water-and-sanitation-all
@@ -54,9 +53,6 @@ Member of the Parliament
 ¹¹ Philippine Climate Change Commission. (2018). Philippine Climate Change Assessment Report: Working Group II (Impacts, Vulnerabilities and Adaptation). https://climate.gov.ph
 ¹² UN-Water. (2023). World Water Development Report 2023: Partnerships and Cooperation for Water. https://www.unwater.org/publications/un-world-water-development-report-2023
 
-**Chunk Complete. Ready for next group of provisions starting at [Chapter I].**
-
-***
 
 **CHAPTER I**
 **PRELIMINARY PROVISIONS**
@@ -96,9 +92,6 @@ e. **Construction of Level I Water Supply System** – In areas where only Level
 
 **Section 5. BARMM Water Sustainability Framework** – The BARMM Water Sustainability Framework shall be developed collaboratively by the Ministry of the Interior and Local Government (MILG), Ministry of Public Works (MPW), Ministry of Science and Technology (MOST), Ministry of Environment, Natural Resources, and Energy (MENRE), Ministry of Agriculture, Fisheries and Agrarian Reform (MAFAR), and community representatives. This framework shall define annual targets, budgetary needs, and performance indicators, ensuring inclusivity, particularly of women, marginalized and vulnerable groups. It shall integrate and update all existing regional policies and plans to guide sustainability efforts.
 
-**Chunk Complete. Ready for next group of provisions starting at [Chapter II].**
-
-***
 
 **CHAPTER II**
 **COMPREHENSIVE REGIONAL FRAMEWORK FOR BARMM WATER SUSTAINABILITY**
@@ -161,9 +154,6 @@ f) **Water-Related Ecosystems** - The Framework is designed to encompass a compr
 g) **International and Private Linkages and Cooperation** - The Framework also develops collaboration. It enhances capabilities through strategic partnerships with various nations and private sector entities, focusing on initiatives related to water and sanitation. It advocates for engaging in and supporting projects encompassing water harvesting, desalination, water efficiency improvements, and wastewater treatment, recycling, and reuse through innovative technologies.
 h) **Local Engagement and Support** - It shall likewise encourage, support, and strengthen the participation of local communities in improving water and sanitation management.
 
-**Chunk Complete. Ready for next group of provisions starting at [Section 12].**
-
-***
 
 **Section 12. Water Cooperatives** – The WBS shall promote and support the establishment of Water Cooperatives within BARMM communities. These cooperatives shall operate local water systems, ensure equitable distribution, and maintain facilities sustainably. The Board shall develop training and capacity-building programs, provide technical assistance, and facilitate access to financing, including grant support and subsidies for these cooperatives.
 
