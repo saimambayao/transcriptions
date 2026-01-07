@@ -750,7 +750,6 @@ Violation of the rules and regulations of the Commission issued to implement thi
 
 **SECTION 27. BEO time.**⁴⁷ - The Commission shall procure radio and television time to be known as "BEO Time" which shall be allocated equally and impartially among the candidates within the area of coverage of all radio and television stations. For this purpose, the franchise of all radio broadcasting and television stations are hereby amended so as to provide radio and television airtime, free of charge, during the period of the campaign. However, the BEO may decide to allocate the said BEO time to itself for purposes of public information on rules and regulations of the BEO, with emphasis on the election offenses and notable periods to be observed, for guidance of the electorate and the candidates for elective positions.
 
-***
 
 ²⁸ This is similar to Section 68 of the OEC. And Section 68 should be correlated with Sections 72 and 12 of the OEC and Section 6 of R.A. 6646.
 ²⁹ This is similar to Section 69 of the OEC.
@@ -1334,7 +1333,6 @@ Chief Minister
 **ABDULRAOF A. MACACUA**
 Senior Minister
 
-***
 
 ⁴⁸ Based on Sections 149-150, OEC.
 ⁴⁹ Ibid.
