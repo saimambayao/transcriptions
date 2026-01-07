@@ -41,7 +41,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
