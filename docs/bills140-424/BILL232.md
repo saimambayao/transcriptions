@@ -28,9 +28,6 @@ More than safety to motorists, unlawful constructions or obstructions in public 
 **HUSSEIN P. MUÑOZ**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -70,9 +67,6 @@ SHIEK
 
 (f) “Placing” is any act of putting, placing, stocking, or piling freely and voluntarily any object to public roads and bridges which includes but not limited to sand, gravel, cement, woods, sticks, corn, rice, coffee beans, copra, animal cages, stalls, rocks, obstacles, tires, goods, signage, tarpaulins, streamers, and posters;
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 4.**
-
-***
 
 **SECTION 4. Prohibited Act –** In addition to acts and omissions punishable under other existing laws, the following shall constitute prohibited acts and hereby declared to be unlawful:
 
@@ -102,9 +96,6 @@ Unauthorized construction shall be removed at the expenses of the person constru
 
 **SECTION 10. Appropriation Clause. -** The sum of five (5) million pesos (Php5,000,000.00) is hereby authorized to be appropriated, to carry out the functions of the Board under this Act. Thereafter, the sum needed for the operation of the Board shall be included in the annual budget of the MPW?
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 11.**
-
-***
 
 **SECTION 11. Separability Clause. –** If any part of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall continue to be in full force and effect.
 
