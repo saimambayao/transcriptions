@@ -30,7 +30,6 @@ The honor and recognition given to these historic sites and considering the same
 
 We are sponsoring this bill seeking to declare the house of Sheikh Salamat Hashim in Camp Abubakar and the Islamic Center in Pagalungan, Maguindanao del Sur as a historical place and providing for its restoration, renovation and upkeep befitting our great leader's status and in recognition of his struggles which paved the way for our present governance and existence.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -136,6 +135,3 @@ Section 24, R. A. No. 11054 otherwise known as the "Bangsamoro Organic Law" stat
 **MP FAIZAL G. KARON**
 **MP MATARUL M. ESTINO**
 **MP BAINTAN A. AMPATUAN**
-
-***
-
