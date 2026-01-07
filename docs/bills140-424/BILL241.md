@@ -24,7 +24,6 @@ Above all, this bill also serves as a reinforcement to the residents of BARMM an
 **ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -50,9 +49,6 @@ Co-authors:
 
 **SEC. 2. Purpose.** This bill is in reverence to the right of the Muslims in BARMM to practice their religion and to be respected therewith. Attune to the promotion of halal tourism and halal industry, the bill seeks to provide for a guidelines or parameter within which visitors and non-muslims can use as their reference when visiting BARMM or engaging with BARMM officials. Most importantly, this bill seeks to establish the foundation of moral governance wherein each employee is consistently reminded of their obligation to do right as a form of their worship.
 
-**Chunk Complete. Ready for next group of provisions starting at SEC. 3.**
-
-***
 
 **SEC. 3. Coverage.** This bill shall cover all offices in the Bangsamoro Government, the local government units, stores and business enterprises within BARMM, airports, sea ports, integrated terminals, organizations operating within BARMM, chapters, branches or sub-offices located in BARMM, all other establishments that cater/employ Muslims, and all persons residing or sojourning the Bangsamoro region.
 
