@@ -28,9 +28,6 @@ It is by the establishment of a rehabilitation center in the Bangsamoro Autonomo
 
 In view of the foregoing, the passage of this bill is earnestly sought.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -76,9 +73,6 @@ h. Client - shall refer to any person who is successfully admitted to the Center
 
 i. Drug Dependency Examination (DDE) - shall refer to the medical examination conducted by a DOH - accredited Physician to evaluate the extent of drug abuse of a person and to determine whether he/she is a drug dependent or not, which includes history taking, intake interview, determination of a criterion for drug dependency, mental and physical status, medical and psychiatric complications and co- morbidities, and detection of the dangerous drugs in body specimens through laboratory procedures.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 4.**
-
-***
 
 **Section 4. Drug Rehabilitation Center** - To implement the above-mentioned policies, there shall be established a Bangsamoro Drug Rehabilitation Center in the Bangsamoro Autonomous Region.
 
@@ -124,9 +118,6 @@ j. One (1) Administrative Aide IV - SG 4
 (c) To formulate plans and initiate program, projects and activities consistent to the mandate of the center for its sustainability and function, and
 (d) To hire and/or augment human resources to comply with the staffing requirements of the center.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 11.**
-
-***
 
 **Section 11. Admission to the Center** - The Center Director shall approve the admission of the client upon the recommendation of the attending physician as requisites of the Drug Dependency Examination (DDE), provided the permission from the client and/or the guardian shall be acquired by voluntary drug dependents.
 
