@@ -50,7 +50,6 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -352,7 +351,7 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
+
 ¹ This bill is patterned from the entry of Jamal R. Pandapatan in the 2023 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled “*An Act Institutionalizing the Comprehensive Social Protection Program for Bangsamoro Agri-fishery Workers, Creating for Its Purpose the Bangsamoro Social Protection for Agri-fishery Workers Board and the Bureau of Social Protection of Ministry of Agriculture, Fisheries, and Agrarian Reform, Appropriating Funds Thereof and For Other Purposes.*”
 ² United Nations Philippines (2020). BARMM: From fighters to forest rangers and farmers.
 ³ Estanislao, H. & Madayag, W. (2021). A Sector Study on Philippine Agriculture: Is it Growing or Dying?
