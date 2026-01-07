@@ -26,7 +26,6 @@ Hence, its passage is earnestly sought.
 **ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
