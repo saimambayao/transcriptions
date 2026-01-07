@@ -42,9 +42,6 @@ In view of the foregoing, approval of this measure is earnestly sought.
 
 ¹ Sec. 30, Chapter V of RA 9710 defines "*Women in Especially Difficult Circumstances*" shall refer to victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention, victims and survivors of rape and incest, and such other related circumstances which have incapacitated them functionally.
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -100,9 +97,6 @@ k) "*State of undress*" means not dressed or not fully dressed, including a stat
 
 l) "*Solitary confinement*" refers to confinement for twenty-two (22) hours or more without meaningful human contact.
 
-Chunk Complete. Ready for next group of provisions starting at Section 4.
-
-***
 
 **Section 4. The Right to Dignity of WDLs in the BARMM.** WDLs shall have the right to be treated with dignity and fairness, and shall be provided with gender-responsive measures for their protection, health, and welfare.
 
@@ -159,9 +153,6 @@ Jails and correctional facilities shall designate specific areas as prayer facil
 
 g) *Right to Work and Education.* WDLs shall have the right to be provided with access to education programs, vocational training, and work opportunities that are designed to develop their skills and support their rehabilitation and reintegration into society.
 
-Chunk Complete. Ready for next group of provisions starting at Section 5.
-
-***
 
 **Section 5. Special Provisions for Pregnant WDLs and WDLs with Infants.**
 
