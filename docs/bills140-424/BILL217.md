@@ -37,9 +37,6 @@ I, therefore, seek your support for the passage of this bill.
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -71,10 +68,6 @@ Parliament Bill No. **217**
 **SECTION 7. Effectivity.** - This Act shall take effect fifteen (15) days after its publication in the Bangsamoro Gazette or a newspaper of regional circulation.
 
 **APPROVED**,
-
-**Chunk Complete. Ready for next group of provisions starting at the list of Authors and Signatories.**
-
-***
 
 Author:
 
