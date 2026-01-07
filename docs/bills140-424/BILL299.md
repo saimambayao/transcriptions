@@ -43,9 +43,6 @@ Member of Parliament – Bangsamoro Transition Authority
 
 ¹ https://asianlegacylibrary.org/organization/mission/a-perspective-on-cultural-preservation/?gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xQJOUa5od0PAzzEnXah7blpvCr5GWdOKqawMx5bFoUo5pBOZNHbyk4aAhhWEALw_wcB
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
@@ -85,9 +82,6 @@ The amount of Ten Million Pesos (Php 10,000,000.00) shall be appropriated to sup
 
 **SECTION 9. Effectivity.** This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or a newspaper of general circulation in the Bangsamoro Autonomous Region.
 
-**Chunk Complete. Ready for next group of provisions starting at the Approval and Attestation section.**
-
-***
 
 APPROVED,
 
