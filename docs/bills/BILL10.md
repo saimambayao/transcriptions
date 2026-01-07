@@ -36,7 +36,6 @@ In view of the foregoing, the passage of this legislative measure is earnestly s
 
 ¹ Rahman, R. (April 2021). Halal principles as one of the food safety measurements. Food and Fertilizer Technology Center for the Asian and Pacific Region. Retrieved from https://ap.fftc.org.tw/article/2731
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
