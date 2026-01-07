@@ -49,9 +49,6 @@ In view of the aforementioned, the passage of this legislative measure is earnes
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT AUTHORIZING THE ESTABLISHMENT...**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -104,9 +101,6 @@ The facilities shall include basic necessities such as stable power supply, gene
 
 **Section 7. Target Users.** – The target users of the Annex BGC shall be ministries and offices offering frontline services such as health, education, social welfare services, and special programs, as well as ministries and offices without office buildings in the existing BGC.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 8. Bangsamoro Parliament.**
-
-***
 
 **Section 8. Bangsamoro Parliament.** – The Bangsamoro Transition Authority (BTA) shall construct a high rise building, as well as develop and expand its current land area to cover areas being occupied by offices that are adjacent to the existing BTA building, such as the Population Commission (POPCOM) Region XII, Ministry of Basic, Technical, and Higher Education (MBHTE), and Department of Agrarian Reform (DAR) Region XII.
 
