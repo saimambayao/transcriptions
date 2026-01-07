@@ -71,9 +71,6 @@ e. Create a database of these human rights violations including a registry and s
 
 In the performance of these mandates, the Commission may enter into Memorandums of Agreement with the Commission on Human Rights, the Human Rights Violations Victims’ Memorial Commission, the former Regional Human Rights Commission of the former Autonomous Region in Muslim Mindanao, and other government instrumentalities for the sharing of relevant information and data.
 
-Chunk complete. Ready for next group of provisions starting at **CHAPTER II**.
-
-***
 
 **CHAPTER II**
 **Documentation of Past Human Rights Violations**
@@ -114,9 +111,6 @@ v. Fighting between military and rebel forces in February 2003 and August 2008.
 
 **Section 8. Work Period; Sunset Clause.** — The Office shall complete its work, including the transfer of all documents to the assigned office or institution, within two (2) months after the publication of the report, as provided in Section 7 of this Act. After such a period, it shall become *functus officio*.
 
-Chunk complete. Ready for next group of provisions starting at **CHAPTER III**.
-
-***
 
 **CHAPTER III**
 **Recognition of Human Rights Violation Victims**
@@ -140,9 +134,6 @@ g. Widow and/or orphan of war status.
 
 **Section 12. Deduplication.** — The Commission shall employ deduplication methods or techniques to ensure there are no redundancies in the data pertaining to an individual human rights violation victim.
 
-Chunk complete. Ready for next group of provisions starting at **CHAPTER IV**.
-
-***
 
 **CHAPTER IV**
 **General Provisions**
@@ -169,9 +160,6 @@ e. Protection of victims and witnesses and all those who come into contact with 
 
 The Commission shall include in its procedures detailed protocols on confidentiality of information and measures for data protection which shall include, among others, protocol on informed consent on using and sharing information, redaction of original materials before sharing them, handling and storing personal information, and the applicable provisions under Republic Act No. 10173 or the ‘Data Privacy Act of 2012.’
 
-Chunk complete. Ready for next group of provisions starting at **CHAPTER V**.
-
-***
 
 **CHAPTER V**
 **Final Provisions**
