@@ -24,7 +24,6 @@ Through this measure, the Parliament ensures consistency with constitutional and
 
 Approval of this bill is earnestly sought.
 
-***
 
 Republic of the Philippines
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
