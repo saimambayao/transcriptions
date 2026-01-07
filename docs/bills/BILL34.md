@@ -28,9 +28,6 @@ In view of the foregoing, the immediate passage of the bill is earnestly sought.
 **HON. AHOD BALAWAG EBRAHIM**
 Chief Minister
 
-Chunk Complete. Ready for next group of provisions starting at the main body of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -86,9 +83,6 @@ The voting power of all such stock owned by the Bangsamoro Government shall be v
 
 Provided, That, unless the public interest so requires, the BDC shall not engage in such activities as to bring it into competition with private enterprises.
 
-Chunk Complete. Ready for next group of provisions starting at Section 7.
-
-***
 
 **SECTION 7. Management.** - The management of the BDC shall be vested in a Board of Trustees, consisting of the following:
 
