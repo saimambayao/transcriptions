@@ -45,7 +45,6 @@ PRINCIPAL AUTHOR
 **ALI MONTAHA DATU HARON BABAO**
 Member of Parliament
 
-***
 
 **BARANGAYS** | **POPULATION (2020 SURVEY)**
 --- | ---
