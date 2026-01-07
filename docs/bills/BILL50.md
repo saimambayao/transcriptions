@@ -55,9 +55,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
 
@@ -118,5 +115,3 @@ Adopted,
 
 (Sgd.)
 **MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
-
-**Chunk Complete. Last Provision: Section 11.**
