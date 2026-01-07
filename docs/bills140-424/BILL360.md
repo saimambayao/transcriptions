@@ -40,11 +40,9 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-***
 
 ¹ This bill is patterned from the entry of Marinelle Diocolano Veruen in the 2024 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "An Act Mandating the Integration of Bangsamoro History in the Secondary Education Curriculum of all Public and Private Education Institutions in the BARMM and Appropriating Funds Therefor".
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
