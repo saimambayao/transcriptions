@@ -21,7 +21,6 @@ This era of technology is a blessing as it makes works easier and services acces
 **HUSSEIN P. MUNOZ**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
