@@ -20,7 +20,6 @@ Be it enacted by the Bangsamoro Transition Authority assembled:
 
 Chunk Complete. Ready for next group of provisions starting at **GENERAL PROVISIONS, Section 2**.
 
-***
 
 **GENERAL PROVISIONS**
 
