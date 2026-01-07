@@ -26,9 +26,6 @@ This proposal seeks to adopt the best practices of other jurisdictions which may
 **ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at the Title.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -55,10 +52,6 @@ Co-authors:
 The law seeks not only to ease the burden of collecting local revenues through business registration but also to facilitate easy access to essential public services.
 
 **SEC. 3. Coverage.** This bill governs all cities and municipalities within the Bangsamoro Autonomous Region in Muslim Mindanao. This bill shall provide for the registration of all businesses in the region regardless of business size, whether micro, small, medium, or large.
-
-**Chunk Complete. Ready for next group of provisions starting at SEC. 4.**
-
-***
 
 **SEC. 4. Definition of Terms.** For purposes of this Act, the terms hereunder provided shall have the following meaning, to wit:
 
