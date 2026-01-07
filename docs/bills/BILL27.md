@@ -115,9 +115,6 @@ d. While being a scholar, the scholar commits gross misconduct in a manner that 
 
 Qualified scholars shall serve in the MAFAR or MENRE, preferably in the provincial offices closest to their hometown: *Provided, That* if the scholar decides to apply and be successfully employed in the local agriculture office of the municipality or city where he/she resides, the period of employment shall be counted in the required number of years of return service program under this Act.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 11**.
-
-***
 
 **Section 11. Sanctions.** — A scholar who has availed of the Program but fails or refuses to comply with the mandatory return service and integration provided under this Act shall be required to pay two (2) times the full cost of scholarship, including other benefits and expenses incurred by reason of participation in the Program.
 
