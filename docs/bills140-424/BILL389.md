@@ -40,9 +40,6 @@ In view of the foregoing, the passage of this measure is earnestly sought.
 **MP ATTY. AMER ZAAKARIA A. RAKIM**
 Principal Author
 
-Chunk Complete. Ready for next group of provisions starting at [The Act Proper].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -109,9 +106,6 @@ p. **Transition Period** refers to the one-year phase after the effectivity of t
 
 Other Terms not herein defined shall be construed in accordance with RA 9003, RA 11054, the Bangsamoro Governance Code, and other applicable laws and regulations.
 
-Chunk Complete. Ready for next group of provisions starting at [Section 5].
-
-***
 
 **SECTION 5. Prohibited Acts.** - Upon the expiration of the transition period, it shall be unlawful for any person or entity within the BARMM to:
 
@@ -147,9 +141,6 @@ b. A post-usage recovery plan is submitted to MENRE within thirty (30) days of u
 
 MENRE shall issue the corresponding guidelines under the IRR to operationalize this Section, including the criteria, documentary requirements, certification timelines, and procedures for reviewing exemptions.
 
-Chunk Complete. Ready for next group of provisions starting at [Section 7].
-
-***
 
 **SECTION 7. - Transition and Phased Implementation.** a. A transition period of one (1) year from the effectivity of this Act shall be observed to allow stakeholders to adjust and comply.
 
@@ -167,9 +158,6 @@ ii. **After one (1) year:** Ban on all items enumerated in Section 4.k, unless e
 
 iii. MENRE may adjust the schedule by IRR, upon evidence of non-availability of alternatives in specific LGU jurisdictions, provided such adjustment is time-bound and subject to periodic review.
 
-Chunk Complete. Ready for next group of provisions starting at [Section 8].
-
-***
 
 **SECTION 8. Extended Producer Responsibility (EPR).** - a. All manufacturers, importers, and distributors of plastic products operating in BARMM shall:
 
@@ -209,9 +197,6 @@ d. Persistent failure or neglect by any LGU to implement this Act, or to enforce
 
 e. Awards and recognition for LGUs demonstrating exemplary enforcement shall be provided under existing national or BARMM-wide programs, with details and criteria to be specified in the Implementing Rules and Regulations (IRR).
 
-Chunk Complete. Ready for next group of provisions starting at [Section 12].
-
-***
 
 **SECTION 12. Penalties.** - Any person or entity found violating this Act shall be subject to the following penalties, without prejudice to the filing of other applicable cases:
 
