@@ -44,10 +44,6 @@ Member of the Parliament – Bangsamoro Transition Authority
 ² Ibid.
 ³ Bringing the State Closer to People | World Development Report 1997 (worldbank.org)
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
-
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
 **BANGSAMORO TRANSITION AUTHORITY**
@@ -94,9 +90,6 @@ The Committee shall lead and organize the preparation, development, and implemen
 
 The Committee shall immediately convene within thirty (30) days upon the effectivity of this Act. It shall cease to exist upon completion and full implementation of the objectives of this Act, which shall not exceed ten (10) years unless further extended by the Parliament.
 
-Chunk Complete. Ready for next group of provisions starting at Section 6.
-
-***
 
 **SECTION 6. Parliament Oversight Committee.** – Upon the effectivity of this Act, a Parliament Oversight Committee, hereafter referred to as POC, is hereby constituted. This Committee shall set the overall framework to review the implementation of this Act. It shall likewise determine inherent weaknesses in the law and recommend necessary remedial legislation or executive measures.
 
