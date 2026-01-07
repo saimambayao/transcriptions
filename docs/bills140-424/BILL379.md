@@ -46,9 +46,6 @@ Respectfully submitted,
 **ATTY. NAGUIB G. SINARIMBO**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
