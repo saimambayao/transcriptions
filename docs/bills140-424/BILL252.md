@@ -55,7 +55,6 @@ Author
 ⁴ Ibid.
 ⁵ Ibid.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
