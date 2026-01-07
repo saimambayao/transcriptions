@@ -38,7 +38,6 @@ Member of the Parliament
 ⁴ S.L. Daway, L. Quiao, Toward inclusive and sustainable energy development: issues and challenges, EPDP conference 2016 (2016).
 ⁵ United Nations Development Programme, National Consultant for De-risking Renewable Energy Investment (“DREI”) Analysis and Reports for Off-Grid Solar PV Minigrid Energy Technologies in the Bangsamoro Autonomous Region in Muslim Mindanao, https://jobs.undp.org/cj_view_job.cfm?cur_job_id=102559#_ftn1. Accessed 04 June 2022.
 
-***
 
 **AN ACT**
 **CREATING THE MINISTRY OF ENERGY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
