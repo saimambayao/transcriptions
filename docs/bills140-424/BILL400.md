@@ -25,9 +25,6 @@ Now therefore, this Bill seeks to institutionalize the Bangsamoro Trust Fund for
 Deputy Floor Leader
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at **SECTION 1**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -78,9 +75,6 @@ d. Other legally authorized sources expressly appropriated or reallocated for de
 
 All fund sources shall be recorded, reported, and audited in accordance with the relevant provisions of the Bangsamoro Organic Law, the Government Accounting Manual (GAM), applicable Commission on Audit (COA) regulations, and the Implementing Rules and Regulations of this Act.
 
-Chunk Complete. Ready for next group of provisions starting at **SECTION 6**.
-
-***
 
 **SECTION 6. Eligible Uses.** The Bangsamoro Trust Fund for Development Continuity (BTFDC) shall be utilized exclusively to support development undertakings that are consistent with the principles of good governance, inclusive growth, and strategic resilience. The following shall constitute eligible uses of the Fund:
 
@@ -118,9 +112,6 @@ The BTFDC Management Board shall be composed of the following:
 
 The Board shall be assisted by a Technical Secretariat, which shall serve as the administrative and operational arm of the Fund and shall be based within the Ministry of Finance, Budget, and Management (MFBM). The Secretariat shall be responsible for coordinating project evaluation, fund release, documentation, records management, and inter-agency liaison.
 
-Chunk Complete. Ready for next group of provisions starting at Page 6 (BTFDC support).
-
-***
 
 The BTFDC shall also be supported by:
 
