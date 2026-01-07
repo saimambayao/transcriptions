@@ -34,9 +34,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 **HON. ABDULBASIT R. BENITO, MPSA**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at [SECTION 1. Title].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -123,9 +120,6 @@ e) Child protection protocols
 
 All construction and procurement shall follow MBHTE and other relevant rules and regulations.
 
-Chunk Complete. Ready for next group of provisions starting at [SECTION 11. Funding].
-
-***
 
 **SECTION 11. Funding.** The amount necessary for the initial implementation of this Act shall be charged against the current appropriations of the MBHTE. Thereafter, such sums as may be necessary for its continued operation shall be included in the annual Bangsamoro Appropriations Act.
 
