@@ -44,7 +44,6 @@ Member of the Parliament
 ⁶ Supra at 1
 ⁷ Id
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
