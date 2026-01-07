@@ -60,9 +60,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -325,9 +322,6 @@ e) ***Inclusivity and Social Justice.*** – The drawing of districts shall prom
 | Nabalawag | 25,500 |
 | Pahamuddin | 19,262 |
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 5.**
-
-***
 
 **SECTION 5. Separability Clause.** - If any provision of this Act declared unconstitutional or inconsistent with Republic Act No. 11054, otherwise known as the "Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao", the provisions not affected thereby shall remain valid and effective.
 
