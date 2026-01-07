@@ -58,7 +58,6 @@ Date: 04 SEP 2023
 
 XXX
 
-***
 
 **Appendix. Map of the Municipality of Old Kaabakan.**
 
@@ -92,7 +91,6 @@ CONFIRMED BY:
 **AKMAD A. BRAHIM**
 MINISTER
 
-***
 
 **This is the Technical Description Municipality of Old Kaabakan**
 
