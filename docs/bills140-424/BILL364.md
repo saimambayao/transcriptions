@@ -44,9 +44,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 Deputy Speaker
 Author
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
