@@ -45,9 +45,6 @@ Our ongoing experience with the coronavirus disease (COVID19) pandemic is a star
 
 In view of the foregoing, the passage of this bill is earnestly sought.
 
-**Chunk Complete. Ready for next group of provisions starting at Enacting Clause.**
-
-***
 
 **AN ACT CREATING THE BANGSAMORO NUTRITION COUNCIL IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR ITS MANDATE, POWERS, AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
 
