@@ -29,7 +29,6 @@ The attached bill recognizes the importance of making education inclusive for ev
 **ABRAR J. HATAMAN**
 Author
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
