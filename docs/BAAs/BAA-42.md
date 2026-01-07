@@ -54,7 +54,6 @@ AHOD BALAWAG EBRAHIM
 Chief Minister
 Date: 04 SEP 2023
 
-***
 
 Appendix. Map of the Municipality of Kadayangan.
 
@@ -102,7 +101,6 @@ KAPINPILAN
 TUGAL
 TUMBRAS
 
-***
 
 This is the Technical Description Municipality of Kadayangan
 
@@ -157,7 +155,6 @@ TIE LINE: S. 51°39' W.,
 
 AREA = 5,111.8338 HAS.
 
-***
 
 Prepared by:
 February 06, 2023
