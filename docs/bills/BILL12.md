@@ -48,9 +48,6 @@ Member of the Parliament
 ¹ https://www.idea.int/sites/default/files/publications/state-of-local-democracy-autonomous-region-muslim-mindanao.pd
 ² https://psa.gov.ph/fisheries-situationer
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 **AN ACT**
 **CREATING THE MINISTRY OF FISHERIES AND AQUATIC RESOURCES, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
@@ -104,9 +101,6 @@ Be it enacted by the Bangsamoro Parliament in session:
 (w) formulate and implement rules and regulations for the conservation and management of straddling fish stocks and highly migratory fish stocks;
 (x) perform such other related functions which shall promote the rational and sustainable development, conservation, management, protection, and utilization of fisheries and aquatic resources.
 
-Chunk Complete. Ready for next group of provisions starting at Section 5.
-
-***
 
 **Section 5. Composition.** – The Ministry shall be headed by a Minister, and shall be composed of the ministry proper, the bureaus, offices and their divisions, and the provincial, municipal and city offices.
 
@@ -154,9 +148,6 @@ Chunk Complete. Ready for next group of provisions starting at Section 5.
 
 (4) Inland Fisheries and Aquaculture Division. – The Inland Fisheries and Aquaculture Division, headed by a Division Chief, shall formulate, review, and recommend policies, plans, programs, and regulations for the conservation, development, rehabilitation, and utilization of fisheries and aquatic resources in freshwater, marine, and brackishwater environment for aquaculture and provide aquaculture related extension services to all stakeholders to improve production at sustainable levels through Good Aquaculture Practices. It shall have three (3) sections: Freshwater Aquaculture Section, Mariculture Section, and Brackishwater Section.
 
-Chunk Complete. Ready for next group of provisions starting at Section 9.
-
-***
 
 **Section 9. Provincial, Municipal, and City Fisheries Offices.** - The Ministry shall have Provincial, Municipal, and City Fisheries Offices to ensure the coordinated implementation of fishery programs and projects as well as the strict enforcement of fishery laws at the provincial, city, and municipal level. The Provincial and City Fisheries Offices shall serve as the fishery and aquatic arm for resource management, protection, and development at the grassroots levels, accessible to the fisherfolks, LGUs, and private entities.
 
