@@ -45,14 +45,10 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-***
 ¹ https://www.manilatimes.net/2024/01/07/news/national/2023-fireworks-related-injuries-up-98-doh/1926985
 ² https://pia.gov.ph/news/2024/01/03/doh-records-higher-fireworks-related-injuries
 ³ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220320/
 
-**Chunk Complete. Ready for next group of provisions starting at Parliament Bill No. 316 Main Text.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -165,6 +161,5 @@ Adopted,
 **MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-***
 ⁴ Copied from Section 2 of Republic Act No. 7183, or the Act Regulating the Sale, Manufacture, Distribution and Use of Firecrackers and Other Pyrotechnic Devices.
 
