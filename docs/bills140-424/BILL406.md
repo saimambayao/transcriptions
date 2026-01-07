@@ -41,7 +41,6 @@ In view of the urgent need to provide safe, therapeutic, and child-appropriate r
 **ATTY. AMER ZAAKARIA A. RAKIM**
 Member of the BTA Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
