@@ -40,9 +40,6 @@ The Local Government Unit (LGU) of Lamitan City is hereby mandated to provide th
 **MP ABRAR JAINUDDIN HATAMAN**
 Principal Author
 
-Chunk Complete. Ready for next group of provisions starting at [Explanatory Note].
-
-***
 
 Republic Act of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
