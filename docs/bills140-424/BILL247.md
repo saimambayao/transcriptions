@@ -69,7 +69,6 @@ Parliament Speaker
 *Technical Description of Barangays
 **Philippine Statistics Authority, 2020 Census of Population and Housing
 
-***
 
 This are the following Barangay's of proposed Municipality of Bonggo and their Technical Description and Areas
 
