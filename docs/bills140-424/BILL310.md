@@ -95,9 +95,6 @@ Pursuant thereof, there is hereby created the **Liguasan Marsh Management Commis
 
 **Section 3. The Deputy Executive Director**- There shall be appointed a Deputy Executive Director who shall assist the Executive Director in his official duties and functions. His term of office shall be the same with that of the Executive Director.
 
-Chunk Complete. Ready for next group of provisions starting at Article II, Section 4.
-
-***
 
 **Section 4. Qualifications and Appointment**- No person shall be appointed as Executive Director or Deputy Executive Director unless he or she possesses the following qualifications:
 
