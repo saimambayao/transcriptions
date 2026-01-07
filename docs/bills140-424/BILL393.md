@@ -44,9 +44,6 @@ Member of the Parliament
 **MP BUTCH P. MALANG**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at [The Act Sections].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
