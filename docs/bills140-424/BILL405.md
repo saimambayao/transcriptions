@@ -39,9 +39,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 Member of the Parliament – BTA
 Executive Director, Office for Settler Communities
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
