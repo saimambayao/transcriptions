@@ -81,9 +81,6 @@ This Act shall cover responsibilities of the Bangsamoro Government and all LGUs,
 
 To address the risks involved in natural hazards or disasters, due reference shall be made to the pertinent provisions of other relevant laws such as Republic Act No. 9729, otherwise known as the “Climate Change Act of 2009” and Republic Act No. 10121, otherwise known as the “Philippine Disaster Risk Reduction and Management Act of 2010”, other related laws, as well as relevant regional laws that may be enacted by the Bangsamoro Parliament.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter II.**
-
-***
 
 **CHAPTER II**
 
@@ -210,9 +207,6 @@ The regional authorities shall coordinate with other concerned offices and agenc
 
 When, for reasons of safety and security, internally displaced persons are still unable or not allowed to return, the regional authorities, in coordination with security and other relevant government agencies, shall pursue all available means to create favorable conditions for return.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter III.**
-
-***
 
 **CHAPTER III**
 
@@ -281,9 +275,6 @@ The Bangsamoro Government affirms and acknowledges the jurisdictions of the nati
 
 The Bangsamoro Government further recognizes that the national government has retained its authority to manage the funding for the Task Force Bangon Marawi, as provided for in Article VI, Section 13 of the Bangsamoro Organic Law, without prejudice to the power of the Bangsamoro Government to provide for supplemental funding for such programs and project.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter IV.**
-
-***
 
 **CHAPTER IV**
 
