@@ -33,9 +33,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **ATTY. LAISA MASUHUD-ALAMIA, RN, CESE, MNSA, LLM**
 Member of Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at the formal Act introduction.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -79,9 +76,6 @@ e. Internal displacement refers to the involuntary movement or forced evacuation
 
 To address the risks involved in natural hazards and the overall impact of climate change and global warming on the rights of those who are internally displaced, due reference shall be made to the pertinent provisions of Republic Act No. 9729, otherwise known as the “Climate Change Act of 2009”, Republic Act No. 10121, otherwise known as the “Philippine Disaster Risk Reduction and Management Act of 2010” and the counterpart laws that may be enacted by the Bangsamoro Government.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 5.**
-
-***
 
 **Section 5. Bangsamoro Internal Displacement Management Council.** — A Bangsamoro Internal Displacement Management Council, hereinafter referred to as the Council, is created to ensure interagency and intergovernmental coordination and cooperation in addressing internal displacement in the Bangsamoro Autonomous Region in Muslim Mindanao.
 
@@ -156,9 +150,6 @@ l. To ensure a multi-stakeholder participation in the development and implementa
 
 **Section 10. Internal Displacement Regional Program.** — The Bangsamoro Internal Displacement Program shall be formulated by the BIDCMO to be reviewed and approved by the Council. The document shall set out policies, plans, and strategies in addressing the needs and protecting the rights of Bangsamoro IDPs during and after displacement as well as in their return and resettlement elsewhere. The document shall cover a five-year period to be reviewed annually by the Council. The BIDP shall lay down all assistance or support programs to be extended to the Bangsamoro IDPs.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 11.**
-
-***
 
 **Section 11. Rights During and After Displacement.** — Pursuant to the provisions of the Bill of Rights under Article III of the Philippine Constitution, the following rights shall be afforded to IDPs during and after displacement, without discrimination of any kind, such as those based on race, color, sex, languange, religion or belief, political or other opinion, national, ethnic or social origin, legal or social status, age, disability, property, birth or on any other similar criteria:
 
@@ -255,9 +246,6 @@ vi. Destruction, arbitrary and illegal appropriation, occupation or use.
 
 The rights and obligations herein shall not be interpreted as restricting, modifying or impairing the provisions of any international human rights or international humanitarian law or rights granted to persons under domestic law.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 12.**
-
-***
 
 **Section 12. Return, Local Integration or Resettlement Elsewhere.** — Competent authorities shall have the primary duty and responsibility to establish conditions and provide means for Bangsamoro IDPs to return voluntarily, in safety and with dignity, to their homes or places of habitual residence, or to resettle voluntarily in places of refuge and/or in another part of the country, taking into consideration the right of IDPs to choose a residence.
 
