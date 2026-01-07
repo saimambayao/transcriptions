@@ -25,9 +25,6 @@ Furthermore, the effects of climate change in the Bangsamoro territory are not m
 
 Therefore, it is of primordial importance for the Bangsamoro Government to intervene and mitigate the effects of climate change. It should establish and institutionalize policies, initiatives, plans, and programs dedicated to addressing climate change. It is for these reasons that the approval of this bill is earnestly sought after.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -90,9 +87,6 @@ It shall be organized within sixty (60) days from the effectivity of this Act.
 (l) Promote and provide technical and financial support to local research and development programs and projects in vulnerable communities and areas; and
 (m) Oversee the dissemination of information on climate change, local vulnerabilities and risks, relevant laws and protocols and adaptation and mitigation measures.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6.**
-
-***
 
 **Section 6. Qualification, Tenure and Compensation of the Commissioners.** – The Commissioners must be Filipino citizens, residents of the Bangsamoro Autonomous Region, at least thirty (30) years of age at the time of the appointment with at least five (5) years of experience on climate change and of proven honesty and integrity. The Commissioners shall be experts in climate change by virtue of their educational background, training and experience.
 
@@ -152,10 +146,6 @@ The Bangsamoro Climate Change Action Plan shall include, but not limited to, the
 (f) The identification of options, prioritization of appropriate adaptation measures for joint projects of national and local governments.
 
 **Section 13. Coordination with Various Sectors.** In the development and implementation of the Bangsamoro Climate Change Plan, the local action plans, the Commission shall coordinate with non-government organizations, civic organizations, academe, people’s organizations, private and corporate sectors and other concerned stakeholder groups.
-
-**Chunk Complete. Ready for next group of provisions starting at Section 14.**
-
-***
 
 **Section 14. Authority to Receive Donations and/or Grants.** - The Commission is hereby authorized to accept grants, contributions, donations, endowments, bequests, or gifts in cash or in kind from local and foreign sources in support of the development and implementation of climate change programs and plans; Provided, that in case of donations from foreign governments, acceptance thereof shall be subject to prior clearance from the Chief Minister upon securing approval from the President as stated in Bangsamoro Organic Law; Provided further, that such donations shall not be used to fund personal services expenditures and other operating expenses of the Commission.
 
