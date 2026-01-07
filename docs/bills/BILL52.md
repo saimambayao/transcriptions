@@ -38,9 +38,6 @@ In view of the foregoing, the passage of this measure is earnestly sought.
 **DR. SUSANA SALVADOR ANAYATIN**
 Member – BTA Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Be it enacted by the Bangsamoro Autonomous Region in Muslim Mindanao, Bangsamoro Transition Authority (BTA) Interim Parliament.
 
