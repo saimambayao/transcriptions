@@ -53,7 +53,6 @@ BTA Parliament Bill No. **328**
 Introduced by:
 MP Engr. Baintan Adil-Ampatuan; MP Atty Omar Yasser C. Sema; MP Atty. Sittie Fahanie S. Uy-Oyod; MP Baileng Mantawil; MP Atty. Laisa M. Alamia; MP Atty. Paisalin P. Tago; MP Michael E. Midtimbang; MP Khalid Ma-Ampor Hadji Abdullah; MP Ramon Piang, Sr.; MP Suharto Esmael; MP Susana S. Anayatin; MP Tarhata Maglangit; MP Eddie Alih; MP Atty. Jose I. Lorena; MP Froilyn T. Mendoza; MP Jamel B. Macacua; MP Rasul Enderez Ismael; MP Engr. Don Mustapha A. Loong; and MP Ali Sangki
 
-***
 
 **AN ACT**
 **RENAMING THE MUNICIPALITY OF DATU BLAH T. SINSUAT, MAGUINDANAO DEL NORTE TO MUNICIPALITY OF WEST UPI, MAGUINDANAO DEL NORTE**
