@@ -36,9 +36,6 @@ Hence, to better provide due and proper recognition to our Bangsamoro athletes, 
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 **BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
@@ -77,10 +74,6 @@ Competitions granting prize money shall not be included.
 d. Bangsamoro athletes shall refer to athletes, including persons with disabilities who are Filipino citizens and residents of any province of the Bangsamoro Autonomous Region in Muslim Mindanao, accredited by the BSC and MBHTE for national Sports Athletic Competition, and members of the national training pool, who are recognized and accredited by the Philippine Olympic Committee (POC) and the PSC for international sports competition, including athletes with disabilities (AWD) as defined in par. A of this section;
 
 e. Student-Athlete shall refer to a student currently enrolled in any school who is part of any of the school’s athletic teams or programs and who represents or has an intention of representing the school in an interschool athletic program or competition.
-
-Chunk Complete. Ready for next group of provisions starting at Section 4.
-
-***
 
 **SECTION 4. Cash Incentives for Athletes.** — In addition to the incentives and benefits that Bangsamoro athletes will receive from the national government in an international sports competition, the Bangsamoro athletes and other athletes who are not officially or currently members of the Bangsamoro training pool but who have otherwise represented the region in national and international sports competitions, who won gold, silver and bronze medals in national and international sports competitions shall be entitled to cash incentives in the following amounts:
 
@@ -131,10 +124,6 @@ For competitions with five (5) or more participants per team, each team member s
 *Provided*, That for demonstration and exhibition sports events in the Olympics, the winning athlete shall receive twenty-five percent (25%) of the cash incentives for Olympic medalists as herein provided.
 
 *Provided, further*, That Bangsamoro athletes and other athletes who surpass Bangsamoro or Philippine records or ranking in any measurable national and international sports competition shall be given cash incentives, the amount of which may be determined by the BSC.
-
-Chunk Complete. Ready for next group of provisions starting at Section 5.
-
-***
 
 **SECTION 5. Implementing Rules and Regulations (IRR).** — The BSC, in consultation with the Ministry of Health (MOH), the Ministry of Basic, Higher and Technical Education (MBHTE), the Ministry of Finance, Budget and Management (MFBM), among others, and other concerned agencies shall promulgate and issue the implementing rules and regulations within sixty (60) days upon approval of this Act: *Provided*, That the failure of the BSC to promulgate the rules and regulations shall not prevent the implementation of this Act upon its effectivity.
 
