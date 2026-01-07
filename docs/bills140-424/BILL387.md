@@ -42,9 +42,6 @@ Member of the Parliament – BTA
 Member of the Parliament – BTA
 Executive Director, Office for Settler Communitites
 
-Chunk Complete. Ready for next group of provisions starting at [Article I].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -143,9 +140,6 @@ The Administrative and Finance Division in each agency shall be composed of the 
 
 The Bangsamoro Human Resource and Development Office (BHRDO), in coordination with the Ministry of Finance, and Budget and Management (MFBM), shall assist in defining position titles, plantilla allocations, and qualification standards for each section.
 
-Chunk Complete. Ready for next group of provisions starting at [Article III].
-
-***
 
 **III. FISCAL AUTONOMY**
 
