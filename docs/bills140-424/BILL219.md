@@ -63,9 +63,6 @@ In line with this, the passage of this bill is earnestly sought.
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-Chunk Complete. Ready for next group of provisions starting at **SECTION 1. Short Title**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
