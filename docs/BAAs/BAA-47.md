@@ -58,13 +58,11 @@ Date: 04 SEP 2023
 
 xxx
 
-***
 
 **Appendix. Map of the Municipality of Tugunan.**
 
 [Map Image]
 
-***
 
 **This is the Technical Description Municipality of Tugunan**
 
