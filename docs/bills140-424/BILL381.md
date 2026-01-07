@@ -143,7 +143,6 @@ Doctors of the Soul shall adhere to an Ethical Code of Conduct to be issued in t
 **Section 10. Capacity Building and Development** – The BARMM Government shall invest in the holistic development of accredited counselors. MSSD shall:
 a) Partner with universities, madrasah institutions, seminaries, and Indigenous learning centers for training;
 
-***
 
 **Section 17. Effectivity** – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation within the Bangsamoro Autonomous Region.
 
