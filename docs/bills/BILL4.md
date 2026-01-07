@@ -84,9 +84,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 ¹⁷ https://www.pnvsca.gov.ph/?page_id=92
 ¹⁸ https://www.goldininstitute.org/news/9-leadership-development/1082-volunteering-the-key-to-peace-in-bangsamoro
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 *Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:*
 
@@ -101,9 +98,6 @@ Chunk Complete. Ready for next group of provisions starting at the Enacting Clau
 a. **Volunteerism** – refers to an act involving a wide range of activities, including traditional forms of mutual aid and development interventions that provides an enabling and empowering environment both on the part of the beneficiary receiving and the volunteer rendering the act, undertaken for reasons arising from socio-developmental, business or corporate orientation, commitment or conviction for the attainment of the public good and where monetary and other incentives or reward are not the primary motivating factors.¹⁹
 b. **Volunteers** – refer to individuals or groups who, for reasons arising from their socio-developmental, business and corporate orientation, commitment or conviction, contribute time, service, and resources, whether on full-time or part-time basis, to a just and essential social development cause, mission, or endeavor in the belief that their activity is mutually meaningful and beneficial to public interest as well as to themselves.²⁰
 
-Chunk Complete. Ready for next group of provisions starting at Section 5.
-
-***
 
 **Section 5. Modalities of Volunteerism in the Bangsamoro.** – The modalities of volunteerism in the Bangsamoro, include but not limited to the following:
 
@@ -144,9 +138,6 @@ e. Serve as a venue for enhancing policies and measures that will link volunteer
 ¹⁹ Based on Republic Act No. 9418 or An Act Institutionalizing Strategy for Rural Development, Strengthening Volunteerism and for Other Purposes
 ²⁰ Ibid
 
-Chunk Complete. Ready for next group of provisions starting at Section 8.
-
-***
 
 **Section 8. Creation of Bangsamoro Volunteer's Coordinating Bureau (BVCB).** – There is hereby created a Bangsamoro Volunteer’s Coordinating Bureau as an attached Bureau under the BPDA.
 
