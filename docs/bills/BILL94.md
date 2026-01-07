@@ -93,9 +93,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT PROMOTING THE SAFETY...**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -155,9 +152,6 @@ k. **Child in Conflict with the Law** refers to a child who is alleged as, accus
 l. **Court** refers to a family court or, in places where there are no family courts, any regional trial court.
 m. **Habitual Violator*** refers to a minor who has repeatedly violated the Act more than three (3) times.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 4. Curfew.**
-
-***
 
 **Section 4. Curfew.** – There shall be imposed a 10:00 pm to 4:00 am for all minors in the BARMM.
 
@@ -220,9 +214,6 @@ A child in conflict with the law shall only be searched by a law enforcement off
 
 **Section 9. Obligations and Responsibility of Parents or Guardians.** – The parent(s) or guardian(s) are mandated to supervise the conduct and activities of their minor children and to see to it that the latter are already in their home prior to and until after the occurrence of the curfew.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 10. Responsibility of the Community.**
-
-***
 
 **Section 10. Responsibility of the Community.** – Any person who has personal knowledge of the presence of any minor in any public place during the curfew hours must immediately call the attention of any law enforcement officer.
 
