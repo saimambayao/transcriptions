@@ -33,9 +33,6 @@ Based from the foregoing, the approval of this bill is urgently requested.
 **JAAFAR APOLLO MIKHAIL L. MATALAM**
 Member of Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
