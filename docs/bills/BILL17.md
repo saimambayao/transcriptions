@@ -40,7 +40,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 **AN ACT**
 **CREATING THE MINISTRY OF TECHNICAL EDUCATION AND SKILLS DEVELOPMENT, PROVIDING FOR ITS POWERS, STRUCTURE, AND FOR OTHER PURPOSES**
