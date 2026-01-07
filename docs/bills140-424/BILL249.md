@@ -52,7 +52,6 @@ Let us not only acknowledge the extraordinary potential of this legislation but 
 **DR. HASHEMI N. DILANGALEN**
 Author
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
