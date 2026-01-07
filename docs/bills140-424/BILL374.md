@@ -45,7 +45,6 @@ In light of the foregoing, the immediate passage of this bill is earnestly sough
 **DR. HASHEMI N. DILANGALEN, CHA**
 Author
 
-***
 
 ¹ World Health Organization. (2019). Rehabilitation 2030: A Call for Action.
 ² World Bank. (2023). Philippine Human Capital Review.
