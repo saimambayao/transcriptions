@@ -39,7 +39,6 @@ Thus, in view of the foregoing, the immediate approval of this bill is earnestly
 **MP ATTY SUHARTO M. AMBOLODTO, MNSA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
