@@ -51,9 +51,6 @@ In view thereof, the swift approval of this bill is urgently sought.
 **RAMON A. PIANG, SR.**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -158,9 +155,6 @@ v) Establish policy guidelines and procedures for participative decision-making 
 
 w) Extend the term of the President of the University beyond the age of retirement but not later than the age of seventy (70), whose performance has been unanimously rated as outstanding and upon unanimous recommendation by the search committee for the president o the institution concerned.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 8**.
-
-***
 
 **Section 8. Meetings of the Board.** - The Board of Trustees shall regularly convene at least once of every quarter. The chairperson of the Board of Trustees may call a special meeting whenever necessary: *Provided, That* the Chairperson of the Board, or the president of the University are among those present in the meeting.
 
@@ -200,9 +194,6 @@ The Academic Council shall have the power to review and recommend curricular off
 
 **Section 17. Filing of Annual Report.** - On or before the fifteenth (15th) day of the second month after the opening of the regular classes each year, the Board shall file with the Office of the Chief Minister of the BARMM, through the chairperson of the MBHTE and to the Parliament, a detailed report on the progress, conditions and needs of the University.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 18**.
-
-***
 
 **Section 18. Assets, Liabilities and Personnel.** - All assets, real and personal, personnel and records of the UAS, as well as liabilities or obligations, are hereby transferred to the University: *Provided, That* the positions, rights and security of tenure of personnel therein employed under existing laws prior to absorption by the University are not impaired: *Provided, further, That* the incumbents of the positions shall remain in the same status until otherwise provided for by the Board.
 
