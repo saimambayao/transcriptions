@@ -40,9 +40,6 @@ Hence, this representation earnestly sought the passage of this bill.
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 **AN ACT PROVIDING FOR THE MAINTENANCE OF LOCAL ROADS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO AND FOR OTHER PURPOSES**
 
