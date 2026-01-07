@@ -56,9 +56,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 ² https://psa.gov.ph/content/ten-regions-expected-grow-faster-national-average
 ³ http://rssoarmm.psa.gov.ph/statistics/health?fbclid=IwAR1eJVwHUnKVdFKdMIR2jGLQtjCQMLtMpbV9WPnvfYz7bfkIbyKNi9sZl8
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1. Short Title.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -128,9 +125,6 @@ In carrying out its functions as the implementing arm of the region, the Regiona
 ---
 ⁴ http://hrlibrary.umn.edu/research/Philippines/Republic%20Act%2010354.pdf
 
-**Chunk Complete. Ready for next group of provisions starting at Section 8.**
-
-***
 
 **Section 8. Powers, Duties and Responsibilities of the Executive Director.** The Executive Director shall have the following powers, duties and responsibilities:
 
