@@ -27,7 +27,6 @@ This bill seeks to declare the first seven days of Shawwal as "Mental Wellness a
 (Sgd.)
 **MP Baileng S. Mantawil**
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
