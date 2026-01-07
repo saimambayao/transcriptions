@@ -43,7 +43,6 @@ Member of the Parliament
 ¹ https://ched.gov.ph/ched/
 ² Sec. 1, E.O. No. 315
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
