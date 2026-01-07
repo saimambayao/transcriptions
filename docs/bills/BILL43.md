@@ -28,9 +28,6 @@ c) Ministries, Offices, Agencies;
 
 **SECTION 3.** Exclusion of the Bangsamoro Government Center from the control of the Local Government Unit. — Pursuant to the power of the Parliament to create, divide, merge, abolish or substantially alter boundaries of municipalities or barangays within the autonomous region, it is hereby declared that the location of the Bangsamoro Government Center within the Municipality of Parang is autonomous from the local government unit and will be directly under the control and supervision of the regional government. To ensure smooth transition, consultations and dialogues with the local government units concerned and other stakeholders shall be conducted.
 
-Chunk Complete. Ready for next group of provisions starting at Section 4.
-
-***
 
 **SECTION 4.** Preparations. - The Bangsamoro government, through a Committee, shall immediately take action towards the development and implementation of masterplans, strategies and timetables that will provide the framework for the development of the Municipality of Parang as the new administrative center of the Bangsamoro government.
 
