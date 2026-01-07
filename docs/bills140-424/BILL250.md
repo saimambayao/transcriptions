@@ -41,7 +41,6 @@ Republic Act No. 10754 or also known as “*An Act Expanding the Benefits and Pr
 
 Given these premises, there is a need to call for the creation and establishment of a “Disability Affairs Office” in the Bangsamoro, who will serve a policy, planning, monitoring and implementing body to ensure the full protection of the rights and privileges of PWDs as mandated by disability laws and its implementing rules and regulation, provide them equal opportunities and decent work, and enhance disability-specific social protection programs with the final aim of realizing their aspirations, improving their living condition, and empowering them to participate more actively in society.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
