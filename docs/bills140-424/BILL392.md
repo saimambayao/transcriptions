@@ -31,9 +31,6 @@ Respectfully submitted,
 **ATTY. KITEM D. KADATUAN**
 Member of Parliament
 
-Chunk Complete. Ready for next group of provisions starting at [The Enacting Clause].
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
