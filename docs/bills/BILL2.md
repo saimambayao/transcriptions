@@ -32,9 +32,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Signed)
 **MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 *Be it enacted by the Bangsamoro Transition Authority Parliament assembled:*
 
@@ -65,9 +62,6 @@ f) Monitor and assess the effectiveness of the implementation of the Bangsamoro 
 g) Integrate ecology and environmental concepts, principles, and practices into the Bangsamoro Development Plan for a balanced and integrated approach to the regional development of the Bangsamoro Autonomous Region; and
 h) Study and recommend to the Chief Minister and to the Parliament, sources of revenues, as well as measures to reduce unnecessary expenditures to the end that the resources of the Bangsamoro Government will be maximized.
 
-Chunk Complete. Ready for next group of provisions starting at Section 5.
-
-***
 
 **Section 5. Secretariat.** – The Bangsamoro Planning and Development Authority shall serve as the secretariat of the Council to be assisted by personnel from the Office of the Chief Minister and planning staff of the Parliament.
 
