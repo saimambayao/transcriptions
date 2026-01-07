@@ -49,9 +49,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **MP BAINTAN ADIL-AMPATUAN, MNSA**
 
-**Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.**
-
-***
 
 Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
 
@@ -88,9 +85,6 @@ f. organize activities that will help promote sportsmanship and athleticism betw
 g. administer administrative and financial matters necessary for the discharge the functions of the office; and
 h. perform such other powers as may be granted by higher authorities and succeeding laws.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 6.**
-
-***
 
 **Section 6. Functions of the Commission.** – The Bangsamoro Commission on Women, Youth, and Sports has the following functions:
 
@@ -109,9 +103,6 @@ l. devise mechanisms for effective monitoring and evaluation of programs and pro
 m. refer cases of women, youth, and athletes who need immediate assistance and intervention to the concerned Bangsamoro or National Government ministry or department, agency, or office;
 n. perform such other functions as may be required by competent authorities.
 
-**Chunk Complete. Ready for next group of provisions starting at Title III.**
-
-***
 
 **TITLE III**
 **ORGANIZATIONAL STRUCTURE**
@@ -176,9 +167,6 @@ For the commissioner representing the youth, the appointee shall not exceed the 
 
 For the ex-officio commissioners, they shall be entitled to *per diems* in attending official meetings and activities of the Commission.
 
-**Chunk Complete. Ready for next group of provisions starting at Title IV.**
-
-***
 
 **TITLE IV**
 **SECRETARIAT, EXECUTIVE DIRECTORS, AND DIVISIONS**
@@ -202,9 +190,6 @@ d. submission of periodic accomplishment reports to the Commission;
 e. preparation of annual reports of the Commission;
 f. exercising such other functions as the Commission may direct, in accordance with its mandate.
 
-**Chunk Complete. Ready for next group of provisions starting at Title V.**
-
-***
 
 **TITLE V**
 **ARRANGEMENTS AFTER MERGING**
