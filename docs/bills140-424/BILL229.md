@@ -28,7 +28,6 @@ Further, the bureau may recommend policies and guidelines to the Minister of Hea
 
 In view of the foregoing, the passage of this bill is earnestly sought.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
