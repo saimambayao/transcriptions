@@ -56,16 +56,12 @@ In view of the foregoing, the immediate passage and approval of this measure is 
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-***
 $^1$ This bill is patterned from the entry of Norjannah P. Mohammad in the 2024 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "An Act Establishing a Regional Center for Autism Spectrum Disorder in the Bangsamoro Autonomous Region in Muslim Mindanao, Appropriating Funds Therefor, and for Other Purposes”.
 $^2$ https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
 $^3$ https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders?gad_source=1&gclid=CjwKCAjw_4S3BhAAEiwa_64YhhecBXj_Z39cQK2lhn4Ih_18tHD1H hBljZbXdm49tMwj k7WbKSHi1hoCKVoQAvD_BwE
 $^4$ Ibid.
 $^5$ https://www.pna.gov.ph/articles/1200240
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -142,9 +138,6 @@ The MOH shall promulgate guidelines and standards to ensure that the interventio
 
 **Section 10. Confidentiality of Medical Information.** – To ensure the proper implementation of early detection, screening tests, vaccinations, medical treatment, and rehabilitation for individuals with Autism Spectrum Disorder (ASD), the Ministry of Health (MOH), in consultation with the Bangsamoro Attorney General’s Office (BAGO), shall formulate the relevant implementing guidelines to protect the confidentiality of medical records of individuals with ASD. This is to safeguard against unwarranted intrusion into the privacy of the individuals, particularly concerning their medical conditions.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 11.**
-
-***
 
 **Section 11. Annual Report to the Parliament.** – The Ministry of Health (MOH) shall submit a report to the Parliament within one (1) year from the implementation of this Act, and annually thereafter, detailing the progress of its implementation.
 
