@@ -29,9 +29,6 @@ In view of the foregoing, the immediate passage of this measure is earnestly req
 **AMILBAHAR S. MAWALLIL**
 *Member of the Parliament*
 
-Chunk Complete. Ready for next group of provisions starting at the Title and Section 1.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -113,9 +110,6 @@ The Board shall establish an Executive Committee composed of five (5) members, n
 
 (c) Three (3) of the members of the Board.
 
-Chunk Complete. Ready for next group of provisions starting at the continuation of Section 10 and Section 11.
-
-***
 
 The Board shall formally prescribe the functions of the Executive Committee, which may include taking action on its behalf in any aspect of the authority vested in the Board under this Act, subject to ratification at the next meeting of the Board.
 
