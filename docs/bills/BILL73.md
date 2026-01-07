@@ -46,9 +46,6 @@ Member of the Parliament
 
 ¹ Al-Syd Sabq, Fiqh Al-Sunnah
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter I.**
-
-***
 
 **CHAPTER I**
 **PURPOSES AND OBJECTIVES; ESTABLISHMENT AND NATURE OF BARTER TRADE ZONES**
@@ -97,9 +94,6 @@ The BBTB through its principal agent, the Chairperson or any of its Commissioner
 
 Each Barter Trade Zone shall implement the zero-tariff benefits under the CEPT Scheme in accordance with the obligations under Article 19 and Article 21 of the ATIGA. In the event any subsequent changes are made in the basic Philippine rate of duty on any of the articles listed in the Annexes shall automatically be accorded the corresponding reduced duty.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter II.**
-
-***
 
 **CHAPTER II**
 **GOVERNING STRUCTURE**
@@ -166,9 +160,6 @@ The Barter Trade Zone advisory body shall have the following functions:
 a. Advise their respective Barter Trade Zone executive committees on matters pertaining to policy initiatives; and
 b. Assist their respective Barter Trade Zone executive committees in settling problems arising between barter traders;
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter III.**
-
-***
 
 **Chapter III**
 **REGISTRATION AND INCENTIVES**
@@ -219,9 +210,6 @@ In case of violation of any provisions of this subsection, the individual or ind
 
 2. Any violation of any provision of this Act for which no penalty is imposed shall be punished by imprisonment of not less than six (6) months nor more than six (6) years and a fine of not less than fifty thousand pesos (P50,000.00), or both at the discretion of the court.
 
-**Chunk Complete. Ready for next group of provisions starting at Chapter V.**
-
-***
 
 **CHAPTER V**
 **TRANSITORY PROVISIONS**
