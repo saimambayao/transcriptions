@@ -39,9 +39,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 **AN ACT**
 **REORGANIZING THE MINISTRY OF BASIC, HIGHER, AND TECHNICAL EDUCATION, ADJUSTING ITS UNITS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
@@ -77,9 +74,6 @@ p. Establish, promote and foster linkages and conduits with national as well as 
 q. Ensure effective institutional and funding support for IPEd across all Bangsamoro Education System education levels; and
 r. Perform such other functions and powers as may be provided by law.
 
-Chunk Complete. Ready for next group of provisions starting at Section 6.
-
-***
 
 **Section 6. Composition.** – The Ministry shall be headed by a Minister and shall be composed of the Ministry Proper, the ministry services, bureaus, divisions, and units, and provincial, municipal, and city offices.
 
@@ -106,9 +100,6 @@ The Administrative and Finance Services shall be headed by a Director II while e
 a. Curriculum and Learning Division - The Curriculum and Instruction Division, headed by a Division Chief, shall develop appropriate delivery services and ensure the provision of learning resources so that the organization focuses on the delivery of a relevant, responsive, and effective education curriculum around which all other offices shall provide support.
 b. Quality Assurance Division - The Quality Assurance Division, headed by a Division Chief, shall ensure the maintenance of high standards by all basic, *Madaris*, and IPs education institutions in the Bangsamoro Autonomous Region by assessing, monitoring, and evaluating their performance.
 
-Chunk Complete. Ready for next group of provisions starting at Section 12.
-
-***
 
 **Section 12. Bureaus.** - The following bureaus, headed by a Director I, shall be under the supervision of the Bangsamoro Director-General for Basic Education:
 
@@ -135,9 +126,6 @@ The Bureau for *Madaris* Education and the Bureau for IPEd shall be under the su
 
 **Section 17. Structure and Staffing Pattern.** – Subject to the approval of the Ministry of Finance, Budget and Management (MFBM), the Ministry shall determine its organizational framework and staffing pattern. The authorized new positions created therein shall be filled by regular appointments by the Chief Minister or the Minister as the case may be: Provided, That, in the filling of positions created, preference shall be given to the personnel of the MBHTE; Provided, however, That such individuals comply with the qualification standards set by the Civil Service Commission for the positions that they shall be appointed to: Provided, finally, That, if such individuals possess the same qualifications, seniority shall be given priority.
 
-Chunk Complete. Ready for next group of provisions starting at Section 18.
-
-***
 
 **Section 18. Transition Period.** - The transfer of functions, assets, funds, equipment, properties, transactions, and personnel of the office and units, and the formulation of the internal organic structure, staffing pattern, operating system, and revised budget of the Ministry shall be completed within six (6) months from the effectivity of this Act, during which time, the existing personnel shall continue to assume their posts at MBHTE in holdover capacities until new appointments are issued: Provided, That after the transfer of offices as specified in Section 16 of this Act, the Ministry, in coordination with the MFBM, shall determine and create new positions as may be needed.
 
