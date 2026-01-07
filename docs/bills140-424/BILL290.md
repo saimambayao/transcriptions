@@ -59,7 +59,6 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -150,6 +149,5 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
 ¹ This bill is patterned from the entry of Abdulnawaf M. Daud in the 2023 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled “*An Act Establishin Regional Diagnostic and Clinical Laboratory and Appropriating Funds Therefor.*”
 
