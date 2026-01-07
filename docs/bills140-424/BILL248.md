@@ -39,9 +39,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-Chunk Complete. Ready for next group of provisions starting at the Title of the Act.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -88,10 +85,6 @@ Exceptions granted under this section shall be subject to periodic review and ma
 **Section 6. Regulation of Single-use Plastic Materials in Forests, Parks, Zoos, and Similar Areas.** – In addition to the regulations outlined in Section 5, the use of single-use plastic materials is strictly prohibited in forests, parks, zoos, wildlife sanctuaries, and other natural and protected areas within the Bangsamoro Autonomous Region in Muslim Mindanao. Signs and educational materials shall be prominently displayed within these areas, informing the public about the prohibition of single-use plastics and promoting sustainable practices.
 
 Visitors, tourists, and concessionaires in the mentioned areas shall be encouraged to utilize reusable and eco-friendly reusable materials for packaging and carrying food, beverages, and other items. The MENRE, in coordination with the concerned authorities managing these areas, shall implement monitoring and enforcement measures to ensure compliance with this provision.
-
-Chunk Complete. Ready for next group of provisions starting at **Section 7**.
-
-***
 
 **Section 7. Government Procurement for Sustainable Materials.** – All government agencies within the Bangsamoro Autonomous Region shall prioritize the procurement of products and materials with sustainable packaging and alternatives to single-use plastics. In government procurement processes, preference shall be given to suppliers and products that utilize environmentally friendly, biodegradable, and compostable materials over single-use plastics.
 
