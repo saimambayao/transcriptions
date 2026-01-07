@@ -60,9 +60,6 @@ Patient wards shall be constructed such that segregation of the sexes is observe
 
 **Section 6. Standards of Accreditation.** - In order that a certification can be issued, an institution must meet the standards set in the IFH Accreditation standards indicated in the Assessment Tool.
 
-Chunk Complete. Ready for next group of provisions starting at Section 6 (continuation).
-
-***
 
 For the partially met standards, the facility will be given ninety (90) days to comply with the recommendations before the final decision can be rendered.
 
