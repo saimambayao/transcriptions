@@ -43,9 +43,6 @@ Member of Parliament – Bangsamoro Transition Authority
 
 ¹ https://pcw.gov.ph/violence-against-women/
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -96,9 +93,6 @@ The Bangsamoro Government agencies' GAD budgets, which shall be at least five pe
 
 **SECTION 6. Implementing Rules and Regulations.** The Ministry of Social Service and Development (MSSD) shall promulgate and issue implementing rules and regulations for the successful implementation of this act upon its effectivity.
 
-Chunk Complete. Ready for next group of provisions starting at the Visitorial Power provision.
-
-***
 
 The Bangsamoro Women’s Commission (BWC) shall be vested a visitorial power over the havens and rehabilitation centers to ensure the effective implementation and continuous compliance of this act.
 
