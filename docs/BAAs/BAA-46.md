@@ -59,7 +59,6 @@ Date: 04 SEP 2023
 
 xxx
 
-***
 
 **Appendix. Map of the Municipality of Malidegao.**
 
@@ -69,7 +68,6 @@ MUNICIPALITY OF MALMAR
 
 [Map]
 
-***
 
 **This is the technical description for the Municipality of Malidegao**
 
@@ -145,7 +143,6 @@ TIE LINE: N 36° 26' W,
 CAD-1123-D
 to Corner Marked "1":
 
-***
 
 **PREPARED BY:**
 (Signed)
