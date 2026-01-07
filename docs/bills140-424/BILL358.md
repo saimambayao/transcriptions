@@ -26,9 +26,6 @@ This Act sets forth the objectives, powers, and functions of the Shariff Kabunsu
 
 As the sponsor of this Bill, I seek to honor Shariff Kabunsuan for his historical significance to the Bangsamoro people by establishing this shrine dedicated to his legacy.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
-
-***
 
 BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled, as follows:
 
