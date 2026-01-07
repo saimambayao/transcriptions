@@ -44,7 +44,6 @@ APPROVED,
 **HON. AHOD B. EBRAHIM**
 Chief Minister
 
-***
 
 **Annex 1a. Barangays covered by the Municipality of Pahamudin, their original mother municipality, and respective land area, population and annual income as of 2020.**
 
