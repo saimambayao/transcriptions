@@ -38,7 +38,6 @@ Author
 ² Jaminola, L. (2023, April 30). [ANALYSIS] Improving waste worker welfare through budget reforms in local government. RAPPLER. https://www.rappler.com/voices/ispeak/analysis-improving-waste-worker-welfare-budget-reforms-local-government/
 ³ (Outfitting Waste Workers: Testimonies of a Safer, More Equitable Waste Sector in the Philippines - Urban Links, 2022)
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao BANGSAMORO TRANSITION AUTHORITY
