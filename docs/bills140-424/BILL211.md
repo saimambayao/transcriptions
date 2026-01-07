@@ -34,9 +34,6 @@ Member of Parliament – Bangsamoro Transition Authority
 
 ¹ Expanded Data Analysis and Policy Research for National ICT Household Survey 2019, Philippine institute for development studies.
 
-**Chunk Complete. Ready for next group of provisions starting at the Title/Enacting Clause.**
-
-***
 
 **AN ACT CREATING THE BUREAU OF INFORMATION AND COMMUNICATIONS TECHNOLOGY UNDER THE MINISTRY OF TRANSPORTATION AND COMMUNICATION**
 
@@ -129,9 +126,6 @@ Member of Parliament – Bangsamoro Transition Authority
 
 6.4. Promote and assist LGUs and local stakeholders in developing specialized ICT-enabled investment areas by providing technical and industry-calibrated assistance in the use of ICT for the enhancement of key public services, development, and promotion of local arts and culture, tourism, digital literacy, and talent development.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 7.**
-
-***
 
 **SECTION 7. Transfer of Agencies and personnel**
 
