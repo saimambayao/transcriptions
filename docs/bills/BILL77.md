@@ -42,9 +42,6 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-**Chunk Complete. Ready for next group of provisions starting at [AN ACT STRENGTHENING...].**
-
-***
 
 **AN ACT**
 **STRENGTHENING THE BANGSAMORO SATELLITE COORDINATING OFFICES, DEFINING ITS COVERAGE, AND FOR OTHER PURPOSES**
@@ -102,9 +99,6 @@ Nothing in this Act shall be construed as restricting the right of the Bangsamor
 
 **Section 9. Meetings.** Each BASCO shall hold and conduct meetings with local chief executives of each BARMM constituent LGU within their respective sub-regions once every quarter or as necessary to ensure the continuous integration of regional and local programs and activities.
 
-**Chunk Complete. Ready for next group of provisions starting at [Section 10. Implementing Rules...].**
-
-***
 
 **Section 10. Implementing Rules and Regulations.** The Office of the Chief Minister, in consultation with the Deputy Chief Ministers and the Ministry of Interior and Local Government, shall issue rules and regulations contrary to effectively implement the provisions of this Act.
 
