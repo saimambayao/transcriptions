@@ -46,9 +46,6 @@ In view of the foregoing, approval of this bill is earnestly requested.
 **DR. TOMANDA D. ANTOK**
 Member of Parliament – Bangsamoro Transition Authority
 
-Chunk Complete. Ready for next group of provisions starting at **Section 1**.
-
-***
 
 **AN ACT CREATING THE BANGSAMORO COMMISSION ON HIGHER EDUCATION (BCHED), AMENDING BOOK VI, TITLE II OF THE BANGSAMORO ADMINISTRATIVE CODE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -132,9 +129,6 @@ Except as may otherwise be agreed upon, the BCHED Board of Advisers shall conven
 
 a. formulate and recommend to the executive and legislative branches of BARMM development plans, policies, priorities, grants, and programs on higher education and research, including higher Madaris education, in the Bangsamoro region;
 
-Chunk Complete. Ready for next group of provisions starting at **Section 10(b)**.
-
-***
 
 b. recommend to the executive and legislative branches of the Bangsamoro government, priorities and grants on higher education and research;
 c. Set minimum standards for programs in and institutions of higher learning for the higher Madaris education as recommended by panels of experts in higher Madaris education and subject to public hearings, and enforce the same;
@@ -203,9 +197,6 @@ d. The Fund shall be utilized equitably according to provinces, cities and progr
 
 The BCHED shall also be represented as ex officio member of the Board of Regents and Board of Trustees of state colleges and universities and local universities and colleges within the territorial jurisdiction of BARMM.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 21**.
-
-***
 
 **Section 21. Representation in the Governing Boards of SUCs, LUCs and non-chartered public higher education institutions within the BARMM.** – The Commission Chairman shall act as Chairman of the Board of Regents/Trustees of all regional colleges and universities that may be created by the Bangsamoro Parliament. The Commission Chairman shall also act as Chairman of the Board of Regents/Trustees of all existing non-chartered public higher education institutions within the BARMM.
 
