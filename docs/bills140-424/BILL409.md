@@ -29,7 +29,6 @@ On December 03, 2020, the Bangsamoro Autonomy Act No. 13, otherwise known as the
 
 Last but not least is that the registration of business investors with the BBOI is the primary mechanism wherein corporations and corporate entities become recognized by the Bureau of Internal Revenue as regional tax payers because only investors in the region may register for fiscal incentives with BBOI. After their fiscal incentives from the BBOI expires, the autonomous regional government will partake of its share of the taxes levied on such investors as provided in Article XII, Section 12 on Payment by Corporations, Partnerships or Firms of the Organic Law. The CREATE law, as amended by the CREATE MORE specifically includes the BBOI as among the Investment Promotion Agencies recognized and covered by the law. For these and the foregoing reasons and premises this bill is submitted to the Bangsamoro Parliament for its urgent and priority enactment into law.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
