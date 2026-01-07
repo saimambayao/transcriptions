@@ -39,9 +39,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 (Signed)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-Chunk Complete. Ready for next group of provisions starting at the Enacting Clause.
-
-***
 
 Be it enacted by the Bangsamoro Transition Authority Parliament assembled:
 
@@ -66,9 +63,6 @@ h) Perform such other duties and responsibilities as may be assigned by the Dire
 
 **Section 6. Staff.** – Pending the approval of the plantilla and appointments of personnel, the SGA Sub-District Engineering Office shall be manned by employees of other district engineering offices in BARMM as may be assigned by the Minister of the MPW.
 
-Chunk Complete. Ready for next group of provisions starting at Section 7.
-
-***
 
 **Section 7. Assets And Liabilities.** – Construction and maintenance equipment, and other resources for the operation of the Sub-District Engineering Office shall be provided by the Ministry of Public Works in accordance with the needs of the new office.
 
