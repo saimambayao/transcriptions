@@ -39,7 +39,6 @@ In light of the foregoing, the immediate passage of this bill is earnestly sough
 **DR. HASHEMI N. DILANGALEN, CHA**
 Author
 
-***
 ¹ Philippine Statistics Authority, 2020 Census of Population and Housing (2020 CPH), Official Release, July 2021.
 ² United Nations Population Fund (UNFPA), Ageing and Older Persons in the Philippines, 2022.
 ³ Department of Health, as cited in Inquirer.net, BARMM has lowest COVID-19 vaccination coverage of elderly, July 2022. https://newsinfo.inquirer.net/1620657
@@ -99,9 +98,6 @@ Author
 
 (n) **Senior Citizen** – Any Filipino citizen who is a resident of BARMM and who is sixty (60) years of age or older.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 5.**
-
-***
 
 **Section 5. Coverage.** – The Bangsamoro Healthy Ageing and Wellness Program shall cover all senior citizens who are bona fide residents of the BARMM, regardless of income level, civil status, health condition, religious affiliation, or ethnic identity.
 
@@ -181,9 +177,6 @@ All services under the Program shall be delivered in accordance with the princip
 
 In particular, the Program shall ensure responsiveness to the needs of Moro elders, non-Muslim indigenous peoples, internally displaced elderly persons (IDPs), conflict survivors, persons with disabilities, and other marginalized or at-risk senior populations, through culturally aligned protocols, respectful communication, gender-appropriate staff assignments, and accommodations for physical, emotional, or psychosocial limitations, as may be further defined in the implementing rules and regulations.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 8.**
-
-***
 
 **Section 8. Geriatric Wellness Centers and Mobile Services.** – To ensure the effective and equitable delivery of specialized health and wellness services for senior citizens across the region, the MOH shall establish, operate, and maintain a network of fixed and mobile geriatric service delivery units, which shall serve as the primary implementing mechanisms of the Bangsamoro Healthy Ageing and Wellness Program.
 
@@ -249,9 +242,6 @@ In particular, the Program shall ensure responsiveness to the needs of Moro elde
 
 (a) The Program shall recognize and support the central role of families, household members, and community caregivers in promoting the health, dignity, and well-being of senior citizens. In accordance with the values of intergenerational solidarity, compassion, and mutual respect—whether rooted in Islamic tradition, Indigenous customs, or other belief systems—the Bangsamoro Government shall strengthen the capacity of families and communities to care for the elderly, while ensuring that no senior citizen is left behind due to the absence of household support.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 11(b).**
-
-***
 
 (b) The MOH, in coordination with the MSSD, LGUs, and community-based partners, shall engage family caregivers and household members through the following:
 
