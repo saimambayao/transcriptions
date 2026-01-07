@@ -36,9 +36,6 @@ This government promised Moral Governance, and with Moral Governance, we shall s
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at the Title of the Act.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -80,9 +77,6 @@ Provided further that the Office of the Chief Minister, the Bangsamoro Parliamen
 
 **SECTION 7. Obligations of the Regional Government.** - The Autonomous Regional Government and officers authorized to issue appointments shall take appropriate actions to encourage applicants from diverse tribal groups, indigenous peoples, and settler communities and to continuously provide public service training programs on diversity, cultural and religious understanding, and other interventions designed to produce a cohesive, peaceful and all-inclusive Bangsamoro constituency;
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 8.**
-
-***
 
 **SECTION 8. Creation of an All-Inclusive Focal Point System.** - All concerned agencies and instrumentalities of the regional government shall develop an All-Inclusive Focal Point System (AIFPS), designate a focal person, therefore, and demonstrate and accelerate all-inclusiveness within the agency.
 
