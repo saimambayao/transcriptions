@@ -31,7 +31,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **ATTY. LAISA MASUHUD-ALAMIA,RN, CESE,MNSA, LLM**
 Member of Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
