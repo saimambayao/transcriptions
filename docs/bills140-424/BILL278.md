@@ -43,7 +43,6 @@ In fine, the creation of the BRBMC is a vital step towards enhancing coordinatio
 **HASHEMI N. DILANGALEN, MD, CHA**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
