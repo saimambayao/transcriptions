@@ -38,9 +38,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 
 ¹ Bangsamoro Development Plan, 2020-2022 p. 293
 
-Chunk Complete. Ready for next group of provisions starting at Enacting Clause.
-
-***
 
 Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
 
@@ -81,9 +78,6 @@ d) Lead the formulation of policy measures as well as development plans and prog
 e) Actively participate in the meetings, conferences, and other functions of the cabinet; and
 f) Establish a recruitment system guided by civil service rules and regulations in the selection of its prospective staff and employees in the career service.
 
-Chunk Complete. Ready for next group of provisions starting at Section 7.
-
-***
 
 **Section 7. Functions and Responsibilities of the Division.** – The technical and administrative divisions shall have the following functions and responsibilities:
 
