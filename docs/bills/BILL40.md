@@ -23,9 +23,6 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
 **SECTION 3.** The BCPCH in coordination with the Ministry of Basic, Technical and Higher Education shall monitor the annual activities prepared and implemented by BARMM government agencies, schools, colleges and universities.
 
-Chunk Complete. Ready for next group of provisions starting at Section 4.
-
-***
 
 **SECTION 4.** This Act shall take effect fifteen (15) days following its publication.
 
