@@ -59,9 +59,6 @@ In the event that a scholar fails the bar examination on his first attempt, he o
 (c) Payment for Special Shariah bar exam fee as prescribed by the Supreme Court
 (d) Transportation and accommodation allowance to the Shariah Bar exam site Those who receive financial assistance to take the SBE are only eligible for two attempts at financial assistance, and if they fail, they must pay for subsequent SBEs themselves.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 5- Qualifications and Requirements.**
-
-***
 
 **Section 5- Qualifications and Requirements. –**
 
@@ -118,9 +115,6 @@ Furthermore, Shariah Bar examinees who receive financial assistance but fail to 
 
 If the scholar fails to obtain a passing grade in the Bar Exam within five (5) years from the time the scholar has completed his or her law degree, Provided, That, instead of repaying the full cost of the scholarship and related expenses, the scholar whose scholarship status has been terminated under this Act may opt to engage in work within the BARMM government for a period prorated to the number of years of mandatory return service provided under this Act.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 8. Alternative to Mandatory Return Service-**
-
-***
 
 **Section 8. Alternative to Mandatory Return Service-** Beneficiaries of the BLSSRS Program who, after three (3) years from admission to the practice of law , fail to secure an appointment in government shall have the option to (i) pay the full cost of scholarship and related benefits received, including all the expenses incurred during the participation in the scholarship program; or (ii) undertake alternative compliance program to be formulated by the Bangsamoro Attorney General Office pursuant to the provisions of this Act and Republic Act (RA) No. 9999, otherwise known as the Free Legal Assistance Act of 2010: Provided, finally, That in the application of Republic Act No. 9999, the allowable deduction from the gross income shall be the amount that could have been collected from the actual free legal services rendered or up to twenty percent (20%) of the gross income derived from the actual performance of the legal profession, whichever is lower.
 
