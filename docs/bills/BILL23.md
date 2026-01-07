@@ -48,9 +48,6 @@ d. *Parent* is the mother or father of a child, including the ones acting in loc
 
 e. *Report of the Transitional Justice and Reconciliation Commission* refers to the 151-page Report of the Transitional Justice and Reconciliation Commission published with a Philippine Copyright in 2016
 
-Chunk Complete. Ready for next group of provisions starting at **CHAPTER II**.
-
-***
 
 **CHAPTER II**
 **The Orphans of War**
@@ -106,9 +103,6 @@ Social workers from the city or municipal government shall conduct monthly monit
 
 **Section 13. Other Programs.** — Other government agencies of the Bangsamoro Government are enjoined to render the necessary services to orphans of war in coordination with the Commission and agencies mentioned in this Act. The agencies shall ensure that the programs are culturally-sensitive, gender-responsive and age-appropriate. The amount necessary for this purpose shall be sourced from the budget of the agency concerned in the annual General Appropriations Act (GAA).
 
-Chunk Complete. Ready for next group of provisions starting at **CHAPTER IV**.
-
-***
 
 **CHAPTER IV**
 **Endowment Fund for Orphans of War**
