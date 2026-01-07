@@ -32,7 +32,6 @@ By harnessing the skills, knowledge, and local resources of Bangsamoro communiti
 
 Chunk Complete. Ready for next group of provisions starting at **AN ACT INSTITUTIONALIZING THE PRIORITY USE OF NEGOTIATED PROCUREMENT-COMMUNITY PARTICIPATION**.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -147,5 +146,3 @@ CO- AUTHORS:
 
 **MP MATARUL ESTINO**
 **MP SAID SHIEK**
-
-Chunk Complete. Document ends. Ready for new assignment.
