@@ -47,9 +47,6 @@ h. *Socioeconomic status* - refers to the social standing of the veteran measure
 
 i. *Surviving spouse* - the lawful widow or widower of the deceased veteran, or the innocent spouse if he or she was legally separated by final judicial decree from the deceased;
 
-Chunk Complete. Ready for next group of provisions starting at **CHAPTER II**.
-
-***
 
 **CHAPTER II**
 **Benefits of Bangsamoro Veteran Mujahideen/Mujahidat**
@@ -86,9 +83,6 @@ C. **Disability Benefit.** – Any Beneficiary who is permanently disabled owing
 
 **Section 8. Additional Benefits from the Government.** — Notwithstanding any existing laws, rules and regulations, ex combatants and their dependents or survivors who receive such benefits under this law may also receive any additional benefits granted by the National Government and/or their respective local governments.
 
-Chunk Complete. Ready for next group of provisions starting at **CHAPTER III**.
-
-***
 
 **CHAPTER III**
 **Administration**
@@ -144,9 +138,6 @@ d. If he or she does not meet the standards of performance based on the evaluati
 
 **Section 21. Bangsamoro Mujahideen/Mujahidat Benefits Fund.** — Four (4) months after the creation of the BARMM-MMBS, there is hereby established a Bangsamoro Mujahideen/Mujahidat Benefits Fund, which shall be used to fund the benefits and services under this Act.
 
-Chunk Complete. Ready for next group of provisions starting at **CHAPTER V**.
-
-***
 
 **CHAPTER V**
 **Powers and Duties of the BARMM-MMBS**
