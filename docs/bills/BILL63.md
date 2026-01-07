@@ -32,9 +32,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 *Member of the Parliament*
 
-Chunk Complete. Ready for next group of provisions starting at Section 1.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -78,9 +75,6 @@ g. *Violent conflict* – Similar to armed conflict but also includes one-sided 
 
 Whenever practicable, the principles of conflict sensitivity and Do No Harm (DNH) may be applied to other planning processes of the Bangsamoro Government and its constituent local government units.
 
-Chunk Complete. Ready for next group of provisions starting at Article I.
-
-***
 
 **ARTICLE I**
 **GENERAL PROVISIONS**
@@ -126,9 +120,6 @@ Finally, the assistance of international peace, humanitarian, and/or development
 
 **Section 13. Lead Body.** – The BRPOC shall take the lead in ensuring compliance with the provisions of this Act. Authorities and responsibilities not expressly mentioned in this Act that are deemed reasonable and necessary to effectively implement this Act shall fall under the MILG.
 
-Chunk Complete. Ready for next group of provisions starting at Article II.
-
-***
 
 **ARTICLE II**
 **CONFLICT SENSITIVE COMPREHENSIVE DEVELOPMENT PLANNING**
@@ -141,9 +132,6 @@ Chunk Complete. Ready for next group of provisions starting at Article II.
 
 **Section 17. Integration of Sectoral and Cross-Sectoral Analysis.** – Multi-level and multi-stakeholder participation in data gathering and analysis shall be adopted. Constituent LGUs shall promote participatory approaches throughout the different planning activities. Conflict analysis used as a basis for the local situation analysis, resource allocation, and policy direction must also be participatory. All sectoral and cross-sectoral data and analysis can be used in the preparation of other local and regional plans. As such, they shall be part of the BCMS.
 
-Chunk Complete. Ready for next group of provisions starting at Article III.
-
-***
 
 **ARTICLE III**
 **CONFLICT SENSITIVE CONTINGENCY PLANNING**
@@ -158,9 +146,6 @@ Each constituent LGU shall determine the composition, number, and qualifications
 
 **Section 20. Format of the Contingency Plan.** – To promote interoperability, the Ministry of Interior and Local Government (MILG) shall determine the required format of the local CPs: Provided, That the CP shall, at the minimum, have the following sections—(1) situation analysis, (2) scenario planning, (3) objectives and strategies, (4) management and coordination, and (5) response plans with preparedness actions: Provided, finally, that the MILG shall integrate conflict sensitivity across the different sections of the CP.
 
-Chunk Complete. Ready for next group of provisions starting at Article IV.
-
-***
 
 **ARTICLE IV**
 **CONFLICT SENSITIVE DISASTER RISK REDUCTION AND MANAGEMENT PLANNING**
@@ -169,9 +154,6 @@ Chunk Complete. Ready for next group of provisions starting at Article IV.
 
 **Section 22. Strengthening the DRRMCs.** – The Bangsamoro DRRM Council led by the Chief Minister and the Local DRRM Councils, or their representatives, charged with the duty to conduct DRRM planning at their respective levels shall undergo capacity development on conflict sensitivity.
 
-Chunk Complete. Ready for next group of provisions starting at Article V.
-
-***
 
 **ARTICLE V**
 **FINAL PROVISIONS**
