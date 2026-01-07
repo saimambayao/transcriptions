@@ -31,9 +31,6 @@ In view of the foregoing, this representation is seeking for the early passage o
 **MP ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 1.**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -76,9 +73,6 @@ Parliament Bill No. **218**
 
 **SECTION 7. Establishment of a Buffer Zone.** – There shall also be established buffer zones surrounding the BTP for the purpose of providing extra protection around the area against and for the tourists or visitors as well as local people, where restrictions shall apply. Such buffer zones shall be managed according to the ecotourism development and management plan formulated pursuant to this Act. The Council shall exercise its authority over the designated buffer zone.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 8.**
-
-***
 
 **SECTION 8. Formation of the Bud Tukay Peak Development Council and its composition.** – A multi-sectoral council to be known as the "Bud Tukay Peak Development Council," hereinafter referred to as the Council, is hereby created. It shall be composed of the following members:
 
