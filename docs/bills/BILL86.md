@@ -49,9 +49,6 @@ Member of the Parliament
 ³ Cottier-Cook, E.J. “Safeguarding the future of the global seaweed aquaculture industry.” Institute for Water, Environment and Health and Scottish Association for Marine Science Policy Brief. 2016.
 ⁴ Adenle, Ademola A. “Global assessment of research and development for algae biofuel production and its potential role for sustainable development in developing countries.” Energy Policy. Vol 61. October 2013.
 
-**Chunk Complete. Ready for next group of provisions starting at "AN ACT CREATING THE SEAWEED INDUSTRY DEVELOPMENT AUTHORITY..."**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -117,9 +114,6 @@ In the discharge of its functions, the Authority shall ensure appropriate consul
 
 The Authority shall submit to the Bangsamoro Parliament annual reports of its accomplishments and activities.
 
-**Chunk Complete. Ready for next group of provisions starting at "Section 5. Board of Directors."**
-
-***
 
 **Section 5. Board of Directors.** The power of the Authority shall be vested in and exercised by a Board of Directors, hereinafter referred to as the “Board”, to be composed of the following:
 
