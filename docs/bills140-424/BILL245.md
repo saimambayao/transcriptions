@@ -63,7 +63,6 @@ Author
 ⁴Global prevalence of autism: A systematic review update. Zeidan J et al. Autism Research 2022 March.
 ⁵http://www.autismsocietyphilippines.org/p/autism-is-lifelong-developmental.html
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
