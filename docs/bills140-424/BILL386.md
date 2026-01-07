@@ -37,7 +37,6 @@ In light of the above, the immediate approval of this proposed measure is sincer
 **NURREDHA I. MISUARI**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
