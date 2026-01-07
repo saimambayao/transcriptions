@@ -49,7 +49,6 @@ Principal Author:
 **MOHAMMAD KELIE U. ANTAO**
 Member of Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
