@@ -10,7 +10,6 @@ Section 8, Article IX of the Bangsamoro Organic Law states that “the Bangsamor
 
 Therefore, it is incumbent upon the Bangsamoro Government as part of its core mandate to afford the people of Sibutu quality medical facilities and services by upgrading the only hospital in that municipality from level i of ten (10) bed capacity to level ii of (50) bed capacity.
 
-***
 
 First Regular Session
 Second Parliament
