@@ -31,7 +31,6 @@ Member of Parliament- Bangsamoro Transition Authority
 **HON. AMROUSSI A. MACATANONG**
 Member of Parliament- Bangsamoro Transition Authority
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
