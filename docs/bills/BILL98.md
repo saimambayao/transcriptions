@@ -50,7 +50,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 
-***
 
 ¹ https://www.ohchr.org/en/special-procedures/sr-internally-displaced-persons/international-standards
 ² https://www.corteidh.or.cr/tablas/r39606-eng.pdf
