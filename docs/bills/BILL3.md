@@ -42,9 +42,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 ¹ https://authdocs.deped.gov.ph/wp-content/uploads/2021/09/FINAL-01-Health-Requirements-for-Safe-Return-to-School-Infra_0912110-20210908.pdf
 ² https://newsinfo.inquirer.net/775412/thousands-of-public-schools-lack-clean-water-toilets-deped-reveals
 
-**Chunk Complete. Ready for next group of provisions starting at the main text of the Act.**
-
-***
 
 **BTA PARLIAMENT**
 **BTA Parliament Bill No. 03**
