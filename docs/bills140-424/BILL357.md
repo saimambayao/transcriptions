@@ -47,7 +47,6 @@ Ultimately, this measure is being proposed in the interest of protecting the rid
 **ROMEO K. SEMA, DPA**
 Member of the Parliament
 
-***
 
 $^1$ Angkas backs legitimization of habal-habal transport. (2024, July 15). Philstar.com. https://www.philstar.com/business/2024/07/16/2370374/angkas-backs-legitimization-habal-habal-transport
 $^2$ Tuffour, Y. A., & Nkrumah, K. (2014). Motorcycle taxis public transportation services within the Accra Metropolis. American Journa of Civil Engineering, 2(4).
@@ -55,9 +54,6 @@ $^3$ Karema, F. M. (2015). The Role of Commercial Motorcycles in the Rural Econo
 $^4$ Section 38, Republic Act No. 11054.
 $^5$ Section 480 (XII)(C), Parliament Bill No. 58.
 
-**Chunk Complete. Ready for next group of provisions starting at the Title and Preamble.**
-
-***
 
 Republic of the Philippines
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**

@@ -423,5 +423,3 @@ Approved:
 (Signed)
 **ABDULRAOF A. MACACUA**
 Chief Minister
-
-***

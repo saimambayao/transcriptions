@@ -33,9 +33,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Signed)
 **MP ATTY. NAGUIB G. SINARIMBO**
 
-**Chunk Complete. Ready for next group of provisions starting at the Preamble and Section 1.**
-
-***
 
 **AN ACT ESTABLISHING AND INSTITUTIONALIZING THE SALAMAT EXCELLENCE AWARD FOR LEADERSHIP (SEAL) PROGRAM FOR THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), AND APPROPRIATING FUNDS THEREFORE.**
 
@@ -128,9 +125,6 @@ Be it enacted by the Bangsamoro Transition Authority Parliament in session assem
 (d) Sign the minutes of the meeting or terminal report drafted by the TWG and the assessment forms used during the selection process; and
 (e) Convene, select, and deliberate on the findings and recommendations of the assessment to declare the awardees of the SEAL Program through secret voting.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 10.**
-
-***
 
 **Section 10. Minimum Qualification for Nomination.** No LCE shall be qualified for nomination unless the nominee meets the following eligibilities:
 
@@ -190,9 +184,6 @@ To ensure integrity of the SEAL Program, the MILG shall engage accredited academ
 (b) Conduct independent reviews of documented achievements, community impact, and governance innovations;
 (c) Submit an annual analytical report to the MILG, Validation Team and Selection Committee, highlighting best practices and lessons learned.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 19.**
-
-***
 
 **Section 19. Curriculum Integration.** Documented information, case studies, and leadership models derived from SEAL Awardees shall be institutionalized in the Public Administration courses of higher education institutions (HEIs) in BARMM. The SEAL TWG shall work with HEIs to:
 

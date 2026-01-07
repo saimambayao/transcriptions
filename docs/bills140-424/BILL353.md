@@ -51,9 +51,6 @@ d. ensure that the future generations of the peoples within and outside the Bang
 
 e. foster an environment within the Bangsamoro that is conducive to unity and respect for diversity as a result of healing and reconciliation.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 5.**
-
-***
 
 **SEC. 5. Bangsamoro Transitional Justice and Reconciliation Program.** – There shall be a comprehensive regional program on transitional justice and reconciliation to be called the Bangsamoro Transitional Justice and Reconciliation Program, hereinafter “the Program,” that will, as much as practicable and to the maximum extent allowed by the authorities and jurisdiction of the Bangsamoro Government under the Constitution and the BOL, serve as the regional mechanism to aid in addressing the legitimate grievances, correcting historical injustices, redressing human rights violations, and setting to right the marginalization through land dispossession suffered by the Bangsamoro people and other indigenous peoples in the region, in accordance with the relevant provisions of the CAB.
 
@@ -204,9 +201,6 @@ One (1) Administrative Officer III
 One (1) Administrative Assistant
 One (1) Administrative Aide IV
 
-**Chunk Complete. Ready for next group of provisions starting at Section 12.**
-
-***
 
 **SEC. 12. Powers and Functions.** – The BTJRC shall have the following powers and functions:
 
@@ -306,9 +300,6 @@ f. Assist the Offices of the Commissioners on History, Memory, and Truth; Human 
 
 g. Perform such other functions as may be necessary to fulfill his/her mandate under this Act.
 
-**Chunk Complete. Ready for next group of provisions starting at Section 15.**
-
-***
 
 **SEC. 15. CSO Forum.** – There shall be created a Civil Society Organization Forum, hereinafter “Forum,” that will be the platform for regular engagement by the BTJRC with civil society and grassroots organizations in all matters pertaining to transitional justice and reconciliation for the Bangsamoro.
 
