@@ -38,9 +38,6 @@ c. “Special Geographic Areas (SGA)” refers to the 63 barangays that opted fo
 6. Bagoinged, S. Balong, S. Balongis, Barungis, Batulawan, Bualan, Buliok, Bulol, Fort Pikit, Gli-Gli, Gokotan, Kabasalan, Lagunde, Macabual, Macasendeg, Manaulanan, Nabundas, Nalapaan, Nunguan, Pamalian, Panicupan, and Rajahmuda, all in Pikit, Cotabato; and
 7. Any province, city, municipality, barangay or geographic area that may opt to join through any legal process.
 
-Chunk Complete. Ready for next group of provisions starting at the sectoral offices (Agri-Fisheries and Agrarian Reform Offices for SGA).
-
-***
 
 **Agri-Fisheries and Agrarian Reform Offices for SGA**
 
