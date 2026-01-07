@@ -74,9 +74,6 @@ b. Ensure the security of data of the Bangsamoro Government;
 
 (h) Undertake the registration, accreditation and regulation of agricultural, fisheries and biosystems facilities, buildings and structures in coordination and collaboration with BAFE-DA.
 
-Chunk Complete. Ready for next group of provisions starting at **SEC. 4. Composition and Structure**.
-
-***
 
 **SEC. 4. Composition and Structure of BAFE-BARMM.** – The BAFE-BARMM shall be headed byaBureau ExecutiveDirectorand Assistant Bureau Executive Director with equivalent ranks pursuant to existing laws, to be appointed by the Chief Minister and who must be registered and licensed agricultural and biosystems engineers.
 The BAFE-BARMM shall initially have the following minimum divisions:
@@ -128,9 +125,6 @@ k) Formulate local (Provincial, City and Municipal) Agricultural and Biosystems 
 
 l) Exercise such other powers and perform such other duties and functions as may be prescribed by law or ordinance.
 
-Chunk Complete. Ready for next group of provisions starting at "This also includes functions...".
-
-***
 
 This also includes functions and responsibilities on agricultural and biosystems engineering under RA No. 10915, such as, but not limited to animal/livestock production engineering, aquaculture engineering, agricultural and biological waste management, and farm electrification and bio-energy development as part of the agricultural and fisheries modernization, environmental protection and food security program of the provincial, city and municipal LGUs.
 
