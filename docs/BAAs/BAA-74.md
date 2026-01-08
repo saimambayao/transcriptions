@@ -135,5 +135,3 @@ Secretary-General
 **ABDULRAOF A. MACACUA**
 Chief Minister
 Date: JULY 09, 2025
-
-**XXX**
