@@ -72,20 +72,15 @@ Towards this end, the Bangsamoro Government shall establish a mechanism for the 
 (c) To motivate and encourage the senior citizens to contribute to nation building;
 
 (d) To encourage their families and the communities they live with to reaffirm the valued Filipino tradition of caring for the senior citizens;
-
 (e) To provide a comprehensive health care and rehabilitation system for disabled senior citizens to foster their capacity to attain a more meaningful and productive aging; and
-
 (f) To recognize the important role of the private sector in the improvement of the welfare of senior citizens and to actively seek their partnership.
 
 **Section 4.1.** In accordance with these objectives, this Act shall:
 (1) establish mechanisms whereby the contributions of the senior citizens are maximized;
 
 (2) adopt measures whereby our senior citizens are assisted and appreciated by the community as a whole;
-
 (3) establish a program beneficial to the senior citizens, their families and the rest of the community they serve: and
-
 (4) establish community-based health and rehabilitation programs for senior citizens in every political unit of society.
-
 **Section 4.2.** The following are the functions of the Commission:
 1. Ensure the full implementation of laws, policies, and programs of the government pertaining to senior citizens and review thereof and recommend appropriate actions and policies thereon to Bangsamoro Transition Authority and Bangsamoro Government;
 2. Formulate and implement policies for the promotion and protection of the rights and wellbeing of senior citizens;
