@@ -203,7 +203,6 @@ This is why it’s important to chart a roadmap and build an external accountabi
 **13:20**
 Instill a bootstarting mindset to get you to the first significant milestone: Problem/Solution Fit. This is when you go from hoping you’ll create something people want to knowing you will. Spend three months now to save yourself three years later.
 
-***
 
 ### **Notes**
 
