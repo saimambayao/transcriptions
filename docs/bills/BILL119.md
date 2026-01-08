@@ -123,10 +123,15 @@ e. One (1) representative each from Non-Government Organizations in the field of
 **Section 7. Powers and Functions of the Council.** The Council shall have the following powers, functions, and duties:
 
 a. Formulate and implement the Green Building Rating System for purposes of determining whether a building is resource-efficient and ecologically efficient;
+
 b. Determine the organizational structure of the Council, define the duties and responsibilities of all its officials and employees and adopt a compensation and benefits scheme, subject to existing laws, rules and regulations;
+
 c. Create such task forces, divisions, and positions as may be deemed necessary for the efficient, economical, and effective conduct of the activities of the Council;
+
 d. Submit an annual report of the operation and such other reports as may be required to the Bangsamoro Parliament;
+
 e. Prescribe policies, rules and regulations to govern the conduct of operations of the Council for the effective implementation of the provisions of this Act;
+
 f. Exercise such powers and perform such other functions which are proper and necessary to implement the objectives of the Council and to carry out the provisions of this Act.
 
 **Section 8. Executive Director to the Council.** The management of the Council and the general conduct of its operations shall be vested in the Executive Director. As such, he/she shall have the following powers and functions:
