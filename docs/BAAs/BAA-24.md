@@ -58,5 +58,3 @@ Secretary-General
 Chief Minister
 
 Date: FEB. 7, 2022
-
-xxx
