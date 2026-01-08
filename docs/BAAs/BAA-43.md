@@ -134,7 +134,6 @@ SCALE: 1:40,000
 **TIE LINE: S.36°24'W., 12,346.55M.from BLLM NO. 1,Pb-124709 to Corner “1”**
 **AREA = 6,144.0018 HAS.**
 
-***
 
 Prepared by:
 February 06, 2023
