@@ -30,8 +30,6 @@ Appropriations, by Program (in pesos)
 | Special Legislature Activities | | 267,840,000.00 | | 267,840,000.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 1,599,735,419.00 | 2,250,918,676.00 | 88,491,758.00 | 3,939,145,853.00 |
 
-***
-
 Appropriations, by Object of Expenditures
 (in pesos)
 
@@ -98,7 +96,6 @@ Furniture, Fixtures and Books: 20,000,000.00
 
 **TOTAL APPROPRIATIONS: 3,939,145,853.00**
 
-***
 
 **I. BANGSAMORO TRANSITION AUTHORITY**
 
@@ -193,7 +190,6 @@ Appropriations, by Program (in pesos)
 | Marawi Rehabilitation Program | 4,330,126.00 | 360,425,656.00 | 155,700,000.00 | 520,455,782.00 |
 | **TOTAL 2023 APPROPRIATIONS** | **321,489,322.00** | **3,232,627,936.00** | **2,199,062,439.00** | **5,753,179,697.00** |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -276,7 +272,6 @@ Furniture, Fixtures and Books: 767,000.00
 
 **TOTAL APPROPRIATIONS: 5,753,179,697.00**
 
-***
 
 **II. OFFICE OF THE CHIEF MINISTER**
 
@@ -354,7 +349,6 @@ Bangsamoro Culture, Heritage, Identity and Diversity. Advance the mainstreaming 
 | 2. Number of IDPs who benefited from MRP projects | 2,250 |
 | 3. Percentage of implementation of all MRP projects | 50% |
 
-***
 
 **C. SPECIAL PROVISIONS**
 
@@ -491,7 +485,6 @@ Machinery and Equipment: 463,000.00
 
 **TOTAL APPROPRIATIONS: 56,126,942.00**
 
-***
 
 **A. BANGSAMORO INFORMATION OFFICE**
 
@@ -532,7 +525,6 @@ Machinery and Equipment: 463,000.00
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **B. BANGSAMORO DARUL-IFTA'**
 
@@ -550,7 +542,6 @@ Appropriations, by Program (in pesos)
 | Promulgation of Religious Edicts | 20,836,978.00 | 5,617,200.00 | | 26,454,178.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 27,930,252.00 | 18,472,020.00 | | 46,402,272.00 |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -610,7 +601,6 @@ Other Maintenance and Operating Expenses: 500,000.00
 
 **TOTAL APPROPRIATIONS: 46,402,272.00**
 
-***
 
 **B. BANGSAMORO DARUL-IFTA'**
 
@@ -643,7 +633,6 @@ Other Maintenance and Operating Expenses: 500,000.00
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **C. BANGSAMORO BOARD OF INVESTMENTS**
 
@@ -661,7 +650,6 @@ Appropriations, by Program (in pesos)
 | Promotional and Investment Services | 2,195,625.00 | 2,480,278.00 | | 4,675,903.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 14,882,959.00 | 8,870,346.00 | 190,000.00 | 23,943,305.00 |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -724,7 +712,6 @@ Machinery and Equipment: 190,000.00
 
 **TOTAL APPROPRIATIONS: 23,943,305.00**
 
-***
 
 **C. BANGSAMORO BOARD OF INVESTMENTS**
 
@@ -755,7 +742,6 @@ Machinery and Equipment: 190,000.00
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **D. BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE**
 
@@ -773,7 +759,6 @@ Appropriations, by Program (in pesos)
 | Harmonization of Bangsamoro Agenda on Information Communications Technology | 12,471,791.00 | 7,060,300.00 | 10,000,000.00 | 29,532,091.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 15,382,881.00 | 20,009,739.00 | 10,000,000.00 | 45,392,620.00 |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -841,7 +826,6 @@ Machinery and Equipment: 10,000,000.00
 
 **TOTAL APPROPRIATIONS: 45,392,620.00**
 
-***
 
 **D. BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE**
 
@@ -880,7 +864,6 @@ Machinery and Equipment: 10,000,000.00
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **E. OFFICE FOR SETTLER COMMUNITIES**
 
@@ -898,7 +881,6 @@ Appropriations, by Program (in pesos)
 | Promotion of the Welfare of Settler Communities in the Bangsamoro Region | 5,283,612.00 | 11,141,640.00 | | 16,425,252.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 12,443,896.00 | 21,443,611.00 | 120,000.00 | 34,007,507.00 |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -965,7 +947,6 @@ Machinery and Equipment: 120,000.00
 
 **TOTAL APPROPRIATIONS: 34,007,507.00**
 
-***
 
 **E. OFFICE FOR SETTLER COMMUNITIES**
 
@@ -1020,7 +1001,6 @@ Appropriations, by Program (in pesos)
 | Financial Sustainability and Revenue Strengthening Program | 29,482,389.00 | 26,323,203.00 | 150,000.00 | 55,955,592.00 |
 | **TOTAL 2023 APPROPRIATIONS** | 180,073,409.00 | 174,908,776.00 | 3,311,200.00 | 358,293,385.00 |
 
-***
 
 Appropriations, by Object of Expenditures
 (in pesos)
@@ -1089,7 +1069,6 @@ Leased Assets Improvements: 800,000.00
 
 **TOTAL APPROPRIATIONS: 358,293,385.00**
 
-***
 
 **III. MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT**
 
@@ -1155,7 +1134,6 @@ Revenue Generation and Economic Comparative Advantage. Intensify revenue generat
 | 2. Percentage of information, education, and other promotional activities conducted within schedule | 70% |
 | 3. Percentage of support to Shari'ah Supervisory Board and other institutions extended | 80% |
 
-***
 
 **C. SPECIAL PROVISIONS**
 
@@ -1264,7 +1242,6 @@ Intangible Assets Outlay: 4,000,000.00
 
 **TOTAL APPROPRIATIONS: 3,070,979,617.00**
 
-***
 
 **IV. MINISTRY OF SOCIAL SERVICES AND DEVELOPMENT**
 
@@ -1327,7 +1304,6 @@ Disaster Resilience and Climate-Change Adaptation. Build resilience of communiti
 | 2. No. of volunteers mobilized and trained to respond to social issues in the community. | 12,400 |
 | 3. No. of vulnerable individuals provided with assistance to alleviate their immediate needs. | 21,330 |
 
-***
 
 **C. SPECIAL PROVISIONS**
 
@@ -8817,7 +8793,6 @@ Output indicator(s):
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -9018,7 +8993,6 @@ Output indicator(s):
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXII. BANGSAMORO COMMISSION FOR THE PRESERVATION OF CULTURAL HERITAGE**
 
@@ -10306,7 +10280,6 @@ Available PS allotments arise under the following circumstances:
 (a) MFBM; and
 (b) Implementing Ministry/Office's website.
 
-***
 
 **XXX. MISCELLANEOUS PERSONNEL BENEFIT FUND**
 
@@ -10340,7 +10313,6 @@ Appropriations, by Purpose (in pesos)
 (a) MFBM; and
 (b) Implementing Ministry/Office's website.
 
-***
 
 **XXXI. CONTINGENT FUND**
 
@@ -10400,7 +10372,6 @@ The implementation of the ESC and SHS-Voucher Program as well as other programs 
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXXII. SPECIAL DEVELOPMENT FUND**
 
@@ -10453,7 +10424,6 @@ The adjustments are subject to the endorsement of the TWG and the approval of th
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules, and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXXIII. LOCAL GOVERNMENT SUPPORT FUND**
 
@@ -10533,7 +10503,6 @@ For this purpose, recipient local government units are required to submit report
 | **Total Non-permanent Position** | **225** | **159,551,489.00** |
 | **Total Number of Positions** | **1,470** | **1,599,735,419.00** |
 
-***
 
 **II. OFFICE OF THE CHIEF MINISTER**
 
@@ -10577,7 +10546,6 @@ For this purpose, recipient local government units are required to submit report
 | **Total Non-permanent Position** | **104** | **53,678,999.00** |
 | **Total Number of Positions** | **347** | **321,489,322.00** |
 
-***
 
 **A. BANGSAMORO INFORMATION OFFICE**
 
@@ -10601,7 +10569,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **37** | **24,870,322.00** |
 
-***
 
 **B. BANGSAMORO DARUL-IFTA'**
 
@@ -10626,7 +10593,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **30** | **27,930,252.00** |
 
-***
 
 **C. BANGSAMORO BOARD OF INVESTMENTS**
 
@@ -10650,7 +10616,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **13** | **14,882,959.00** |
 
-***
 
 **D. BANGSAMORO INFORMATION AND COMMUNICATIONS TECHNOLOGY OFFICE**
 
@@ -10673,7 +10638,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **19** | **15,382,881.00** |
 
-***
 
 **E. OFFICE FOR SETTLER COMMUNITIES**
 
@@ -10697,7 +10661,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **16** | **12,443,896.00** |
 
-***
 
 **III. MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT**
 
@@ -10737,7 +10700,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **231** | **180,073,409.00** |
 
-***
 
 **IV. MINISTRY OF SOCIAL SERVICES AND DEVELOPMENT**
 
@@ -10768,7 +10730,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **509** | **300,681,708.00** |
 
-***
 
 **V. MINISTRY OF TRADE, INVESTMENT, AND TOURISM**
 
@@ -10805,7 +10766,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **253** | **197,614,922.00** |
 
-***
 
 **VI. MINISTRY OF LABOR AND EMPLOYMENT**
 
@@ -10839,7 +10799,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **132** | **100,640,859.00** |
 
-***
 
 **VII. MINISTRY OF TRANSPORTATION AND COMMUNICATIONS**
 
@@ -10876,7 +10835,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **286** | **202,307,630.00** |
 
-***
 
 **VIII. MINISTRY OF BASIC, HIGHER, AND TECHNICAL EDUCATION**
 
@@ -10918,7 +10876,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **39,671** | **20,549,697,615.00** |
 
-***
 
 **IX. MINISTRY OF INDIGENOUS PEOPLE'S AFFAIRS**
 
@@ -10946,7 +10903,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **62** | **42,320,247.00** |
 
-***
 
 **X. MINISTRY OF HEALTH**
 
@@ -10991,7 +10947,6 @@ For this purpose, recipient local government units are required to submit report
 | **Total Non-permanent Position** | **95** | **72,233,329.00** |
 | **Total Number of Positions** | **3,618** | **2,613,493,637.00** |
 
-***
 
 **XI. MINISTRY OF PUBLIC WORKS**
 
@@ -11023,7 +10978,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **690** | **400,710,270.00** |
 
-***
 
 **XII. MINISTRY OF INTERIOR AND LOCAL GOVERNMENT**
 
@@ -11060,7 +11014,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **440** | **371,752,680.00** |
 
-***
 
 **XIII. MINISTRY OF ENVIRONMENT, NATURAL RESOURCES AND ENERGY**
 
@@ -11099,7 +11052,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **732** | **394,891,607.00** |
 
-***
 
 **XIV. MINISTRY OF HUMAN SETTLEMENTS AND DEVELOPMENT**
 
@@ -11129,7 +11081,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **97** | **75,870,037.00** |
 
-***
 
 **XV. MINISTRY OF SCIENCE AND TECHNOLOGY**
 
@@ -11158,7 +11109,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **90** | **69,945,320.00** |
 
-***
 
 **XVI. MINISTRY OF AGRICULTURE, FISHERIES AND AGRARIAN REFORM**
 
@@ -11191,7 +11141,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **1,157** | **697,342,403.00** |
 
-***
 
 **XVII. MINISTRY OF PUBLIC ORDER AND SAFETY**
 
@@ -11221,7 +11170,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **71** | **53,175,699.00** |
 
-***
 
 **XVIII. OFFICE OF THE WALI OF BANGSAMORO**
 
@@ -11244,7 +11192,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **22** | **19,112,437.00** |
 
-***
 
 **XIX. BANGSAMORO YOUTH COMMISSION**
 
@@ -11270,7 +11217,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **56** | **42,592,465.00** |
 
-***
 
 **XX. BANGSAMORO WOMEN COMMISSION**
 
@@ -11296,7 +11242,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **53** | **41,823,716.00** |
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -11323,7 +11268,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **36** | **33,827,082.00** |
 
-***
 
 **XXII. BANGSAMORO COMMISSION FOR THE PRESERVATION OF CULTURAL HERITAGE**
 
@@ -11349,7 +11293,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **42** | **36,697,290.00** |
 
-***
 
 **XXIII. BANGSAMORO PLANNING AND DEVELOPMENT AUTHORITY**
 
@@ -11381,7 +11324,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **65** | **60,434,668.00** |
 
-***
 
 **XXIV. BANGSAMORO ATTORNEY-GENERAL’S OFFICE**
 
@@ -11406,7 +11348,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **31** | **29,452,373.00** |
 
-***
 
 **XXV. BANGSAMORO PILGRIMAGE AUTHORITY**
 
@@ -11431,7 +11372,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **23** | **19,269,493.00** |
 
-***
 
 **XXVI. COOPERATIVE SOCIAL ENTERPRISE AUTHORITY**
 
@@ -11456,7 +11396,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **38** | **27,054,795.00** |
 
-***
 
 **XXVII. DEVELOPMENT ACADEMY OF THE BANGSAMORO**
 
@@ -11483,7 +11422,6 @@ For this purpose, recipient local government units are required to submit report
 | **Non Permanent Positions** | - | - |
 | **Total Number of Positions** | **31** | **26,113,218.00** |
 
-***
 
 **XXVIII. BANGSAMORO HUMAN RIGHTS COMMISSION**
 
