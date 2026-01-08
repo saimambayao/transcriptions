@@ -8529,7 +8529,6 @@ Current Operating Expenditures (Cash-based)
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XV. MINISTRY OF SCIENCE AND TECHNOLOGY**
 
@@ -9509,7 +9508,6 @@ Current Operating Expenditures (Cash-based)
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XIX. BANGSAMORO YOUTH COMMISSION**
 
@@ -9679,7 +9677,6 @@ Current Operating Expenditures (Cash-based)
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XX. BANGSAMORO WOMEN COMMISSION**
 
@@ -9878,7 +9875,6 @@ The BWC shall promote, protect, and uphold women’s rights as human rights, wor
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -11019,7 +11015,6 @@ Current Operating Expenditures (Cash-based)
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **XXVIII. BANGSAMORO HUMAN RIGHTS COMMISSION**
 
@@ -11189,7 +11184,6 @@ Current Operating Expenditures (Cash-based)
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **SPECIAL PURPOSE FUNDS**
 
@@ -11225,7 +11219,6 @@ Available PS allotments arise under the following circumstances:
    (a) MFBM; and
    (b) Implementing Ministry's/Office's/Agency's website.
 
-***
 
 **XXX. MISCELLANEOUS PERSONNEL BENEFIT FUND**
 
@@ -11260,7 +11253,6 @@ Current Operating Expenditures
    (a) MFBM; and
    (b) Implementing Ministry's/Office's/Agency's website.
 
-***
 
 **XXXI. CONTINGENT FUND**
 
@@ -11301,7 +11293,6 @@ Current Operating Expenditures
 
 The implementing Ministries, Offices, and Agencies shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries, Offices, and Agencies shall be considered the date of compliance with this requirement.
 
-***
 
 **XXXII. SPECIAL DEVELOPMENT FUND**
 
@@ -11353,7 +11344,6 @@ The adjustments are subject to the endorsement of the TWG and the approval of th
 
 The implementing Ministries, Offices, and Agencies shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules, and regulations. The date of notice to said Ministries, Offices, and Agencies shall be considered the date of compliance with this requirement.
 
-***
 
 **XXXIII. SHARE OF THE CONSTITUENT LOCAL GOVERNMENT UNITS IN TAXES WITHIN THE BANGSAMORO AUTONOMOUS REGION**
 
@@ -11380,7 +11370,6 @@ For this purpose, recipient local government units are required to submit report
 
 4. **Reporting and Posting Requirements.** The Bangsamoro Treasury Office under the Ministry of Finance, and Budget and Management shall submit quarterly reports on the transfer of funds within thirty (30) days after the end of every quarter, through the MFBM website.
 
-***
 
 **XXXIV. LOCAL GOVERNMENT SUPPORT FUND**
 
