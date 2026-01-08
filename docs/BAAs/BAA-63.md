@@ -17,7 +17,6 @@ Be it enacted by the Bangsamoro Transition Authority Parliament in session assem
 
 **SECTION 1. *Appropriation of Funds.*** – The amounts set forth in this section are hereby appropriated out of the unutilized prior years’ appropriations from the Bangsamoro Treasury for the operation of the Bangsamoro Government, except where otherwise specifically provided herein:
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -45,7 +44,6 @@ Professional Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38,508,800.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -83,7 +81,6 @@ Transportation Equipment Outlay . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195,002,933.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -111,7 +108,6 @@ Buildings and Other Structures . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,500,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -143,7 +139,6 @@ Other Maintenance and Operating Expenses . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148,385,580.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -181,7 +176,6 @@ Transportation Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129,248,710.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -226,7 +220,6 @@ Furniture, Fixtures and Books Outlay . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 375,787,509.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -257,7 +250,6 @@ Representation Expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,392,500.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -307,7 +299,6 @@ Transportation Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,000,661,574.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -341,7 +332,6 @@ Transportation Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,210,224,400.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -387,7 +377,6 @@ Transportation Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 956,492,335.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -427,7 +416,6 @@ Machinery and Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45,230,500.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -503,7 +491,6 @@ Machinery and Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194,578,999.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -552,7 +539,6 @@ Biological Assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,677,848,135.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -596,7 +582,6 @@ Transportation Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 271,650,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -627,7 +612,6 @@ Representation Expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69,450,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -662,7 +646,6 @@ Rent/Lease Expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 **TOTAL APPROPRIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7,500,000.00**
 
----
 
 **GENERAL PROVISIONS**
 
