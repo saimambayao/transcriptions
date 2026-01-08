@@ -153,7 +153,6 @@ i. Other investigations as required by the Electoral Committee.
 
 **SECTION 10. Administration and Finance Bureau** – shall be primarily responsible for the financial and administrative operations of the Bangsamoro Electoral Office. It shall ensure efficient administrative and financial management systems are developed and implemented.
 
-***
 
 ¹ This language is patterned after two national laws namely: Section 1 of the OEC and Section 1 of the LGC of 1991. There is redundancy of the term ‘Bangsamoro’ in the original provision.
 ² This proposed additional provision is intended to emphasize the nature of BARMM as a parliamentary ministerial government. Therefore, any construction or interpretation must be contextualized with the parliamentary ministerial form of government of the BARMM.
@@ -451,7 +450,6 @@ The determination of the representatives for non-Moro indigenous peoples shall b
 
 The Chief Minister and the Cabinet, during the holdover period, shall not make appointments, except temporary appointments to positions when continued vacancies therein will prejudice public service or endanger public safety.
 
-***
 
 ¹² Patterned after Rule 15 of the HRET Rules.
 ¹³ Patterned after Rules 2-3 of the HRET Rules.
@@ -615,7 +613,6 @@ Law enforcement agencies shall, upon prior authorization by the BEO, have access
 
 Any candidate or authorized representative of an accredited political party, upon formal request made to an election officer, shall be entitled to a certified copy of the most recent electoral roll in any precinct, municipality, city or province, upon payment of a reasonable fee for its reproduction, as may be prescribed by the BEO.
 
-***
 
 ²² ‘Sixth civil degree of consanguinity or affinity’ should be considered.
 ²³ ‘Sixth civil degree of consanguinity or affinity’ should be considered.
