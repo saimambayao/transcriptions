@@ -118,5 +118,3 @@ Secretary General
 **AHOD B. EBRAHIM**
 Chief Minister
 Date: MARCH 13, 2024
-
-XXX
