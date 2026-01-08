@@ -151,14 +151,19 @@ Also, the organization should develop an information security policy, which will
 Risk management is always the starting point for an effective approach to cybersecurity. Thus, an organization – as a whole – should establish an information security management system, which:
 
 (i) will be implemented through the deployment of risk-based technical and organizational cybersecurity measures,
+
 (ii) will have the full financial and organizational support of the senior management,
+
 (iii) will be regularly assessed and updated and
+
 (iv) will create a common cybersecurity culture among all stakeholders (senior management, employees, providers, and suppliers).
 
 For an information security management system to be effectively implemented, an appropriate department responsible for the security of network and information systems should be established within every organization. This department should:
 
 (i) be equipped with the appropriate roles and responsibilities,
+
 (ii) be adequately staffed with individuals with the necessary technical and legal expertise on cybersecurity issues and
+
 (iii) have at its disposal the necessary resources to achieve the cybersecurity objectives.
 
 **APPOINTMENT OF CHIEF INFORMATION SECURITY OFFICER (CISO)**
@@ -177,9 +182,13 @@ Create an inventory of all IT assets (devices and software) hosted in the physic
 The larger an organization is, the more demanding its overall asset management (hardware and software). The assets may reside in more than one location as well as in the cloud, in a modern environment that is constantly changing and currently includes mobile devices (laptops, tablets, smartphones) as well as the dimension of teleworking. Without a system that regularly records their hardware and software assets, organizations face various types of threats:
 
 *   They cannot track their legally established resources or detect any unauthorized devices that have been connected to their network.
+
 *   Attackers are constantly and automatically scanning the IP address range of organizations across the Internet, seeking to identify unprotected systems connected to the organization's network or vulnerable versions of network applications that may be remotely exploited.
+
 *   There may exist unregistered machines with insecure configurations in the internal network or vulnerable versions of client software, such as browsers, email or office applications, which are at high risk of malware infection via email or other means.
+
 *   Connections and disconnections of mobile devices, such as laptops, tablets, smartphones and wireless access points are not identified.
+
 *   In the event of a cyber attack, it becomes difficult to trace the original source of the network traffic as well as to locate all vulnerable or compromised devices.
 
 **SUB-CONTROLS**
@@ -229,7 +238,9 @@ Perform secure configuration on a regular basis on workstations (desktops, lapto
 In most cases, operating systems and applications are provided by their vendors with default features and settings that do not primarily focus on security. Indicatively, default credentials (e.g. 'admin' / 'admin'), user accounts with unnecessary privileges, older version protocols (and therefore vulnerable), pre-installed software that does not serve the business needs, etc., are frequent examples. In addition, in many cases there is a failure in the planning and timely downloading of software updates and patches (patch management), which results in the long-term use of applications that contain known vulnerabilities. All the above lead to several risks:
 
 *   Exploitation of vulnerabilities in software: the attacker, by executing appropriate code (exploit), may gain unauthorized access to corporate systems and data.
+
 *   Exploitation of insecure system configurations: the attacker may gain control of an account that has unnecessary privileges, which may give them extended access throughout the business network.
+
 *   Unauthorized changes: some configurations that protect systems and applications may be intentionally altered by unauthorized individuals, which may increase the exposure of systems and data to risks.
 
 **SUB-CONTROLS**
@@ -299,11 +310,13 @@ Apply the principle of least functionality by configuring all systems to run onl
 The more applications running on a system, the larger the attack surface of that system, i.e. the whole set of:
 
 *   the different access points exposed to an attacker to gain access to the system and
+
 *   the data used by an application (credentials, personal data, corporate data, etc.) that can be extracted from the system.
 
 Increasing the attack surface entails some serious risks:
 
 *   Attackers are constantly scanning organizational networks for open ports and network services running on those ports (e.g. web servers, mail servers, SMB servers etc.), in order to search for vulnerable versions of software. Then, by executing the appropriate commands, they exploit the vulnerabilities and can gain access to the system. In many cases the breach occurs due to vulnerable applications that were installed without the business need to do so.
+
 *   In recent years, due to the improvement of mitigation measures for malware detection and blocking, attackers use a new and more sophisticated technique, the so-called fileless attacks. The term derives from the fact that in this case the malicious code runs directly in memory and does not create an executable file saved in the hard drive, so in most cases the antivirus cannot detect the attack. Most of these attacks start with a phishing email that seeks to lure the victim to open the attached file or click the link contained in the mail message. In the latter case, the victim is usually redirected to a fake webpage which mimics the legitimate one and asks for credentials. In the former case, when the user opens the attachment (usually a malicious word or excel file), script code is executed directly in memory by utilizing pre-installed and white-listed Windows tools, such as PowerShell, Windows Management Instrumentation (WMI) etc., implementing the intentions of the attacker without being detected.
 
 **SUB-CONTROLS**
@@ -352,6 +365,7 @@ Restrict access to your network and information systems to authorized users and 
 Misconfigurations in granting privileges and access rights to users and processes offer attackers many opportunities to spread to an organization's network. For example:
 
 *   If a user has unnecessary local administrator privileges on their PC and the machine is infected with malware, e.g., because the user has opened a malicious email attachment, then the malware will be executed with administrator permissions. In this case the attacker may gain full control of the PC and use it to move laterally to other systems within the network.
+
 *   When users have been granted access rights unnecessary for their role, e.g., while working in the financial department they also have access to systems in other departments, if their account is breached many other systems within the organization are put at unnecessary risk.
 
 In any case, restricting the granting of increased privileges and implementing role-based access control are crucial measures to reduce the impact in the event of a cyber attac.
@@ -395,10 +409,15 @@ Implement measures and procedures to verify the identity of any user wishing to 
 Authentication systems are a primary target for any attacker, for their compromise results in identity theft and unauthorized access to an entity's valuable resources. There are several ways to steal user credentials, such as:
 
 *   Weak passwords. Most users use easy-to-remember passwords, which can be easily retrieved with a dictionary attack.
+
 *   Employees storing credentials in plain sight.
+
 *   Implementation of weak cryptographic techniques for password storage.
+
 *   Stealing the password from a personal user account, with the same password being used in a corporate account.
+
 *   Using social engineering to deceive the user to reveal their credentials, e.g., by submitting a fake online form to which the user is redirected from a web link that was sent in a phishing email.
+
 *   Use of malware that retrieves passwords from computer memory or by sniffing the network.
 
 **SUB-CONTROLS**
@@ -446,11 +465,17 @@ Strengthen your network infrastructure by implementing secure architecture techn
 Protecting the network, both from external and internal threats, is a fundamental priority for any entity. Failure to implement an effective network architecture and appropriate security measures puts the organizations at various risks:
 
 *   **Malware infection**: the infection may lead to system compromise as well as to the alteration and / or sensitive data theft. Especially in the case of ransomware, if the appropriate protection measures are not applied, it may lead to the encryption of critical business files throughout the corporate network.
+
 *   **Man-in-the-middle attacks**: if the networking protocols are not properly secured, the attacker may sniff the traffic and steal corporate data and credentials transmitted over the network.
+
 *   **Distributed denial-of-service attacks**: attackers create botnets, i.e., networks of large numbers of infected devices, which are scheduled to simultaneously send huge volumes of network traffic to corporate servers that have a public IP address, with the aim to interrupt the services provided to legitimate users.
+
 *   **Web defacement**: attackers who have breached an organization's network may modify the content of its website by posting various types of messages or photos, and thus causing damage to the organization's reputation and loss of public trust in its digital services.
+
 *   **Threats in wireless networks**: the nature of wireless communication channels and the high portability of wireless devices introduce new types of threats, such as:
-    *   **Rogue access point**: a device that secretly connects to an entity's internal network and thus provides access to the attacker.
+
+    *   **Rogue access point**: a device that secretly connects to an entity's internal network and thus provides access to the attacker
+
     *   **“Evil twin” attack**: variant of the previous one, where the unauthorized access point transmits the same SSID (Service Set Identifier), but with a stronger signal compared to the legal access point. In this case the attacker can steal passwords and other sensitive data entered by unsuspecting users connected to it.
     *   **MAC address spoofing**: the attacker, by secretly monitoring the network traffic, may identify the valid MAC address of a corporate device that has elevated privileges and change their MAC address with the identified one. By this way they can impersonate another legal device and therefore bypass access control lists.
 
@@ -536,8 +561,11 @@ Implement a wireless intrusion detection system (WIDS) to detect unauthorized wi
 The figure above shows an example of good practice in segmenting networks into different zones. Among other things, the following are observed:
 
 (a) The corporate network is separated into three zones, two DMZs (demilitarized zones) and one internal zone, with the use of a firewall. Red arrows indicate the allowed traffic flows.
+
 (b) In the DMZ-1, the web, email and proxy servers have public IPs and communicate directly with the Internet. The network flow from the Internet to the DMZ-1 passes through the firewall, which allows the traffic only through specific ports (e.g. 80, 443, 25, etc.). All other TCP / UDP ports are closed.
+
 (c) Some servers may generally need to communicate with other servers, e.g. the web server with a database server, and while at first glance it seems convenient to install them on the same machine, it is not recommended from a security point of view. In the figure above, the database server is located separately in the DMZ-2 zone and the traffic from DMZ-1 to DMZ-2 is one-way and is allowed only through specific ports.
+
 (d) The internal zone is isolated from the Internet and consists of workstations and internal servers. Direct traffic from the Internet to the internal zone is prohibited. Employee users' access to the Internet is directed through the HTTP proxy server located in the DMZ-1 zone.
 
 **7. MALWARE PROTECTION**
