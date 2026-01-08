@@ -87,7 +87,6 @@ b. To create favorable business climate to trigger multiplier effect on the grow
 Companies in the manufacturing, hotel and tourism sectors, or any other commercial or industrial sectors that participate in halal-promoted activity or produce promoted halal products are eligible for PS or ITA.
 
 Investment Tax Allowance-is an incentive granted based on the capital expenditure incurred on industrial building, plants and machinery used for the purpose of promoted activities or production of Halal-oriented commodities and services given for a period of five (5) to ten (10) years.
-
 **2. Specific Activities Eligible for incentives (Current and Proposed):**
 
 A. High Technology activity in the Halal manufacturing and services sectors and other activities that directly benefit the region's economy.
