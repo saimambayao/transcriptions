@@ -122,9 +122,6 @@ The preceding enumerated rights shall include all the rights and privileges reco
 
 (e) As to the host country. Every OBW shall respect the customs, traditions and religious practices of the host country, and obey the laws of the host country.
 
-Chunk Complete. Ready for next group of provisions starting at **Article III. PRE-EMPLOYMENT**.
-
-***
 
 **Article III. PRE-EMPLOYMENT**
 
@@ -264,9 +261,6 @@ In addition to the acts enumerated above, it shall also be unlawful for any pers
 
 The persons criminally liable for the above offenses are the principals, accomplices and accessories. In case of juridical persons, the officers having ownership, control, management or direction of their business that are responsible for the commission of the offense and the responsible employees/agents thereof shall be liable.
 
-Chunk Complete. Ready for next group of provisions starting at **Article IV. DEPLOYMENT**.
-
-***
 
 **Article IV. DEPLOYMENT**
 
@@ -338,9 +332,6 @@ In all criminal prosecutions under this Act, the procedures and impositions of t
 
 **Section 35. Prohibition on Officials and Employees.** – It shall be unlawful for any official or employee of the Ministry of Labor and Employment, or other Bangsamoro government agencies involved in the implementation of this Act, or their relatives within the fourth civil degree of consanguinity or affinity, to engage, directly or indirectly, in the business of recruiting migrant workers as defined in this Act. The penalties provided in the third paragraph of the preceding section shall be imposed upon them.
 
-Chunk Complete. Ready for next group of provisions starting at **Article VII. LEGAL ASSISTANCE**.
-
-***
 
 **Article VII. LEGAL ASSISTANCE**
 
@@ -409,10 +400,6 @@ In case an Overseas Bangsamoro Worker is found to be not medically fit upon his/
 Any Bangsamoro government official or employee who violates any provision of this subsection shall be removed or dismissed from service with disqualification to hold any appointive public office for five (5) years. Such penalty is without prejudice to any other liability which he/she may have incurred under existing laws, rules or regulations.
 
 (d) Bangsamoro Local Government Units. – In the fight against illegal recruitment, the local government units (LGUs), in partnership with the MOLE, its bureau, other concerned government agencies, and non-government organizations advocating the rights and welfare of Overseas Bangsamoro Workers, shall take a proactive stance by being primarily responsible for the dissemination of information to their constituents on all aspects of overseas employment. To carry out this task, the following shall provide a venue for the BEPW, other concerned government agencies and non-government organizations to conduct PEOS to their constituents on a regular basis;
-
-Chunk Complete. Ready for next group of provisions starting at **Article X. FEES AND OTHERS COST**.
-
-***
 
 **Article X. FEES AND OTHERS COST**
 
