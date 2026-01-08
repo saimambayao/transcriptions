@@ -56,8 +56,6 @@ APPROVED:
 Chief Minister
 Date: 04 SEP 2023
 
-XXX
-
 
 **Appendix. Map of the Municipality of Old Kaabakan.**
 
