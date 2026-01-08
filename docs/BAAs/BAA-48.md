@@ -57,8 +57,6 @@ APPROVED:
 Chief Minister
 Date: 04 SEP 2023
 
-xxx
-
 
 **Appendix. Map of the Municipality of Ligawasan.**
 
