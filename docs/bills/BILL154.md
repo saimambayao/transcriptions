@@ -7532,7 +7532,6 @@ Available PS allotments arise under the following circumstances:
 (a) MFBM; and
 (b) Implementing Ministry/Office's website.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -7566,7 +7565,6 @@ Current Operating Expenditures
 (a) MFBM; and
 (b) Implementing Ministry/Office's website.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -7623,7 +7621,6 @@ The implementation of the ESC and SHS-Voucher Program as well as other programs 
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -7676,7 +7673,6 @@ The adjustments are subject to the endorsement of the TWG and the approval of th
 
 The implementing Ministries and Offices shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said Ministries and Offices shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -7765,7 +7761,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **1,470** | **1,378,963,023.00** |
 
-***
 
 **II. OFFICE OF THE CHIEF MINISTER**
 
@@ -7822,7 +7817,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **462** | **416,999,632.00** |
 
-***
 
 **III. MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT**
 
@@ -7870,7 +7864,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **231** | **180,073,409.00** |
 
-***
 
 **IV. MINISTRY OF SOCIAL SERVICES AND DEVELOPMENT**
 
@@ -7952,7 +7945,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **253** | **197,614,922.00** |
 
-***
 
 **VI. MINISTRY OF LABOR AND EMPLOYMENT**
 
@@ -7994,7 +7986,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **132** | **100,640,859.00** |
 
-***
 
 **VII. MINISTRY OF TRANSPORTATION AND COMMUNICATIONS**
 
@@ -8039,7 +8030,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **286** | **202,307,630.00** |
 
-***
 
 **VIII. MINISTRY OF BASIC, HIGHER, AND TECHNICAL EDUCATION**
 
@@ -8089,7 +8079,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **39,671** | **20,549,697,615.00** |
 
-***
 
 **IX. MINISTRY OF INDIGENOUS PEOPLE'S AFFAIRS**
 
@@ -8175,7 +8164,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **3,618** | **2,613,493,637.00** |
 
-***
 
 **XI. MINISTRY OF PUBLIC WORKS**
 
@@ -8215,7 +8203,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **690** | **400,710,270.00** |
 
-***
 
 **XII. MINISTRY OF INTERIOR AND LOCAL GOVERNMENT**
 
@@ -8260,7 +8247,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **440** | **371,752,680.00** |
 
-***
 
 **XIII. MINISTRY OF ENVIRONMENT, NATURAL RESOURCES AND ENERGY**
 
@@ -8307,7 +8293,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **732** | **394,891,607.00** |
 
-***
 
 **XIV. MINISTRY OF HUMAN SETTLEMENTS AND DEVELOPMENT**
 
@@ -8345,7 +8330,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **97** | **75,870,037.00** |
 
-***
 
 **XV. MINISTRY OF SCIENCE AND TECHNOLOGY**
 
@@ -8382,7 +8366,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **90** | **69,945,320.00** |
 
-***
 
 **XVI. MINISTRY OF AGRICULTURE, FISHERIES AND AGRARIAN REFORM**
 
@@ -8423,7 +8406,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **1,157** | **697,342,403.00** |
 
-***
 
 **XVII. MINISTRY OF PUBLIC ORDER AND SAFETY**
 
@@ -8461,7 +8443,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **71** | **53,175,699.00** |
 
-***
 
 **XVIII. OFFICE OF THE WALI OF BANGSAMORO**
 
@@ -8492,7 +8473,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **22** | **19,112,437.00** |
 
-***
 
 **XIX. BANGSAMORO YOUTH COMMISSION**
 
@@ -8526,7 +8506,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **56** | **42,592,465.00** |
 
-***
 
 **XX. BANGSAMORO WOMEN COMMISSION**
 
@@ -8560,7 +8539,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **53** | **41,823,716.00** |
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -8595,7 +8573,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **36** | **33,827,082.00** |
 
-***
 
 **XXII. BANGSAMORO COMMISSION FOR THE PRESERVATION OF CULTURAL HERITAGE**
 
@@ -8629,7 +8606,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **42** | **36,697,290.00** |
 
-***
 
 **XXIII. BANGSAMORO PLANNING AND DEVELOPMENT AUTHORITY**
 
@@ -8669,7 +8645,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **65** | **60,434,668.00** |
 
-***
 
 **XXIV. BANGSAMORO ATTORNEY-GENERAL'S OFFICE**
 
@@ -8702,7 +8677,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **31** | **29,452,373.00** |
 
-***
 
 **XXV. BANGSAMORO PILGRIMAGE AUTHORITY**
 
@@ -8735,7 +8709,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **23** | **19,269,493.00** |
 
-***
 
 **XXVI. COOPERATIVE SOCIAL ENTERPRISE AUTHORITY**
 
@@ -8768,7 +8741,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **38** | **27,054,795.00** |
 
-***
 
 **XXVII. DEVELOPMENT ACADEMY OF THE BANGSAMORO**
 
@@ -8803,7 +8775,6 @@ For this purpose, recipient local government units are required to submit report
 | | | |
 | **Total Number of Positions** | **31** | **26,113,218.00** |
 
-***
 
 **XXVIII. BANGSAMORO HUMAN RIGHTS COMMISSION**
 
