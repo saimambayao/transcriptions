@@ -71,5 +71,3 @@ Secretary-General
 **AHOD B. EBRAHIM**
 Chief Minister
 Date: MAR 03 2025
-
-**XXX**
