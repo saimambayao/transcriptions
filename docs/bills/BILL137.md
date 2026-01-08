@@ -24,7 +24,13 @@ MP. SUWAIB L. ORANON; AND MP BASSIR D. UTTO
 
 The Ligawasan marsh — or simply *Ligawasan* in the Maguindanao language, which this bill also endeavors to popularize in order to bolster the distinctiveness and historical significance of the place — is the largest wetland in the Philippines, comprising about 10% of the Mindanao river basin¹, covering a total area of 288,000 hectares spread across the provinces of Maguindanao del Sur, Maguindanao del Norte, North Cotabato and Sultan Kudarat with approximately 100,000 families living therein.²
 
-In the Bangsamoro Autonomous Region, crucial portions of the Ligawasan biogeographic zone are areas of responsibility of eleven (11) local governments of the province of Maguindanao del Sur namely the municipalities of Ampatuan, Datu Piang, Talitay, Pagalungan, Datu Montawal, Buluan, Pandag, Mangudadatu, Datu Paglas, Paglat, and SK Pendatun; the three (3) municipal governments of the province of Maguindanao del Norte that include the municipalities of Mother Kabuntalan, Northern Kabuntalan and Southern Kabuntalan; and a significant number of barangays of the Special Geographic Area (SGA) particularly those from the municipalities of Pikit, Midsayap and Pigcawayan that were annexed to the Bangsamoro autonomous region in the February 6, 2019 plebiscite.
+In the Bangsamoro Autonomous Region, crucial portions of the Ligawasan biogeographic zone are areas of responsibility of eleven (11) local governments of the province of Maguindanao del Sur namely the municipalities of Ampatuan, Datu Piang, Talitay, Pagalungan, Datu Montawal, Buluan, Pandag, Mangudadatu, Datu Paglas, Paglat, and SK Pendatun; the three (3) municipal governments of the province of Maguindanao del Norte that include the municipalities of Mother Kabuntalan, Northern
+
+¹Sarmiento, S. (2021, October 28). Philippine wetland oil riches untouched by war now up for grabs in peacetime. MONGABAY, News and Inspiration from Nature’s Frontline. https://news.mongabay.com/2021/10/philippine-wetland-oil-riches-untouched-by-war-now-up-for-grabs-in-peacetime/
+
+²UNDP (2004, October). The Wetland Biodiversity Component for Ligawasan Marsh Study A Project of the Department of Environment and Natural Resources (DENR) supported with a grant from the Global Environmental Facility (GEF) and the World Bank, with supervision of the United Nations Development Programme (UNDP). https://faspselib.denr.gov.ph/sites/default/files//Publication%20Files/Volume%20III%20-%20Project%20Brief.pdf
+
+ Kabuntalan and Southern Kabuntalan; and a significant number of barangays of the Special Geographic Area (SGA) particularly those from the municipalities of Pikit, Midsayap and Pigcawayan that were annexed to the Bangsamoro autonomous region in the February 6, 2019 plebiscite.
 
 The Ligawasan complex is a distinct and unique region among the fifteen (15) biogeographic regions of the Philippines considering its significant number of fauna (vegetation) and flora (wildlife) species. Records show that the complex supports a variety of vegetation that includes species of endangered water-subsisting native trees, bushes, and other wild undergrowth species. It also is a haven of a significant number of wildlife species that include herons, egrets, rails, shorebirds, ducks and other wild waterbird genus; mudfish, catfish, ells and other classes of endangered native fishes; and the famous but vanishing Philippine crocodile, bats and other water habituated wild animals.³
 
@@ -67,7 +73,11 @@ Program-wise, this bill supports the commitment of the Bangsamoro Transition Aut
 (d) **Item No. 6** *(Energy security),* and
 (e) **Item No. 11** *(Peace, justice and security).*
 
-Mindful of the significance of a well-regulated and managed Ligawasan natural resources to recuperate the political, social, cultural and economic existence of the constituents and communities in the Area, and the potential contribution of the Area to economic growth of the region and the country; and thinking further that normalization is now getting better in the Area in effect of the orderly implementation of the GRP-MILF agreements and other fulfilled accords between the government and the MNLF; and considering finally the legal foundations of this bill and its promising support to the realization of BTA’s 12-point Agenda for 2023-2025, it is the **PRAYER** of this proposed legislation for its expeditious passage in the Bangsamoro parliament. Hence, the support of the members of the Bangsamoro Parliament is earnestly sought.
+Mindful of the significance of a well-regulated and managed Ligawasan natural resources to recuperate the political, social, cultural and economic existence of the constituents and communities in the Area, and the potential contribution of the Area to economic growth of the region and the country; and thinking further that normalization is now getting better in the Area in effect of the orderly implementation of the GRP-MILF agreements and other fulfilled accords between the government and the MNLF; and considering finally the legal foundations of this bill and its promising support to the 
+
+⁷POLITOKO (2022, June 15). CM Ebrahim cites BTA’s 12-point priority agenda for 2023-2025, Mindanao.politics.com.ph.https://mindanao.politics.com.ph/cm-ebrahim-cites-btas-12-point-priority-agenda-for-2023-2025/ - Modified cross-reference style.
+
+realization of BTA’s 12-point Agenda for 2023-2025, it is the **PRAYER** of this proposed legislation for its expeditious passage in the Bangsamoro parliament. Hence, the support of the members of the Bangsamoro Parliament is earnestly sought.
 
 Insha Allah, the realization of this bill will create breakthroughs in the institutionalization of justpeace, alongside with balanced and sustainable economic development in the Area and the rest of the Bangsamoro region being its domino effect, and consequently the rebirth of a normal Bangsamoro society particularly in the Ligawasan enclave and its peripheries.
 
@@ -77,14 +87,10 @@ Insha Allah, the realization of this bill will create breakthroughs in the insti
 **MOHAMMAD KELIE U. ANTAO**
 Member of Parliament
 
-____________________________________________________________________________________________________
-¹Sarmiento, S. (2021, October 28). Philippine wetland oil riches untouched by war now up for grabs in peacetime. MONGABAY, News and Inspiration from Nature’s Frontline. https://news.mongabay.com/2021/10/philippine-wetland-oil-riches-untouched-by-war-now-up-for-grabs-in-peacetime/
-²UNDP (2004, October). The Wetland Biodiversity Component for Ligawasan Marsh Study A Project of the Department of Environment and Natural Resources (DENR) supported with a grant from the Global Environmental Facility (GEF) and the World Bank, with supervision of the United Nations Development Programme (UNDP). https://faspselib.denr.gov.ph/sites/default/files//Publication%20Files/Volume%20III%20-%20Project%20Brief.pdf
 ³Ibid (UNDP, 2004)
 ⁴DENR (2019). Proposed Ligawasan Marsh Protected Area: Management Plan. Department of Environment and Natural Resources (DENR) Foreign-Assisted and Special Projects Service eLibrary, https://faspselib.denr.gov.ph/node/1219 - Modified literature review and footnote styles.
 ⁵Flores, A. (2021, January 24). PNOC-EC still keen on probing Ligawasan Marsh oil, gas potential https://manilastandard.net/business/power-technology/345220/pnoc-ec-still-keen-on-probing-ligawasan-marsh-oil-gas-potential.html
 ⁶Loc. Cit. (Sarmiento, 2021)
-⁷POLITOKO (2022, June 15). CM Ebrahim cites BTA’s 12-point priority agenda for 2023-2025, Mindanao.politics.com.ph.https://mindanao.politics.com.ph/cm-ebrahim-cites-btas-12-point-priority-agenda-for-2023-2025/ - Modified cross-reference style.
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -219,6 +225,7 @@ v. Seven to nine (7-9) resident-representatives from the traditional leaders, Ul
 d) There shall also be a group of technical individuals representing concerned ministries, offices, organizations and groups to constitute the Board of Consultants. These consultants can participate in the deliberation of businesses during Board meetings. They shall also be expected to provide practical advises and assistance to the Board, subject to necessities.
 
 These technical members of the Board shall include competent representatives from the following ministries, offices, and other instrumentalities and groups:
+
 i. Ministry of Agriculture, Fisheries and Aquatic Resources (MAFAR);
 ii. Ministry of Public Order and Safety (MPOS);
 iii. Ministry of Higher, Basic and Technical Education (MHBTE);
