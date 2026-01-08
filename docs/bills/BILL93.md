@@ -64,15 +64,25 @@ c) To achieve vertical integration of the coconut industry so that coconut farme
 **Section 5. Powers and Functions of the Authority.** – To carry out the purposes and objectives mentioned in the preceding section, the Authority, through its Board, as hereinafter constituted, is hereby vested with the following powers:
 
 a) To formulate and adopt a general development program for the coconut and other palm oils industry in the region;
+
 b) To evaluate the existing policies, programs and projects of all BARMM agencies and instrumentalities having to do with industry development and to integrate and coordinate the various facets of such activities into the approved general development program;
+
 c) To implement such policies, plans and programs for the promotion of the coconut industry;
+
 d) To supervise, coordinate, and evaluate the activities of all ministries and offices charged with the implementation of the various aspects of industrial development, and coordinate the release of public funds in accordance with approved development programs and projects;
+
 e) To regulate the marketing and export of coconut products and by-products within the region, as well as those of other palm oils, including the establishment of quotas thereon, whenever the national interest so requires;
+
 f) To receive and administer funds provided by law in support of its program, and to accept donations, grants, gifts and assistance of all kinds from international and local private foundations, associations or entities, and to administer the same in accordance with the instructions or directions of the donor or, in default thereof, in the manner it may determine in its direction;
+
 g) To issue bonds and other instruments of indebtedness, subject to existing rules and regulations of the Central Bank, for the purpose of financing programs and projects deemed vital for the attainment of its goals and objectives;
+
 h) To formulate and recommend for adoption credit policies affecting production, marketing and processing of coconut and other palm oils;
+
 i) To formulate and recommend for adoption by other agencies and instrumentalities, such programs and projects as are necessary to accelerate industry development; and
+
 j) To enter into, make, and execute contracts of any kind as may be necessary or incidental to the attainment of its purposes; and
+
 k) To exercise all the powers necessary to achieve the purposes and objectives for which it is organized.
 
 **Section 6. Governing Board.** – The powers and duties of the Authority shall be vested in, and exercised by a Board, to be designated and/or appointed by the Chief Minister:
