@@ -48,7 +48,6 @@ Other Maintenance and Operating Expenses .......................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 400,000,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -107,7 +106,6 @@ Furniture, Fixtures and Books ..................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 1,501,002,314.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -151,7 +149,6 @@ Machinery and Equipment ........................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 8,702,767.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -194,7 +191,6 @@ Intangible Assets ..............................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 229,478,100.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -222,7 +218,6 @@ Machinery and Equipment ........................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 835,500.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -253,7 +248,6 @@ Other Maintenance and Operating Expenses .......................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 200,937,023.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -297,7 +291,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 399,777,350.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -341,7 +334,6 @@ Buildings and Other Structures .................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 447,156,203.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -369,7 +361,6 @@ Financial Assistance/Subsidy ...................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 2,250,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -430,7 +421,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 462,375,700.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -463,7 +453,6 @@ Machinery and Equipment ........................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 425,913,400.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -504,7 +493,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 715,363,470.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -540,7 +528,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 39,900,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -579,7 +566,6 @@ Buildings and Other Structures .................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 720,805,789.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -633,7 +619,6 @@ Furniture, Fixtures and Books ..................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 85,094,521.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -679,7 +664,6 @@ Biological Assets ..............................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 1,268,850,019.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -725,7 +709,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 206,341,632.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -767,7 +750,6 @@ Transportation Equipment .......................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 10,000,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -795,7 +777,6 @@ Training and Scholarship Expenses ..............................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 2,000,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -839,7 +820,6 @@ Furniture, Fixtures and Books ..................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 23,779,700.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -875,7 +855,6 @@ Rent/Lease Expenses ............................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 52,000,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -910,7 +889,6 @@ Other Maintenance and Operating Expenses .......................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 8,794,045.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -938,7 +916,6 @@ Financial Assistance/Subsidy ...................................................
 
 **TOTAL APPROPRIATIONS .................................................................................... 24,000,000.00**
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -972,7 +949,6 @@ Appropriations, by Purpose (in pesos)
 (a) Submission of hardcopy to the MFBM; and
 (b) Submission of reports through electronic means.
 
----
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -1019,7 +995,6 @@ Appropriations, by Purpose (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
----
 
 **GENERAL PROVISIONS**
 
@@ -1091,5 +1066,3 @@ OIC-Secretary-General
 **ABDULRAOF A. MACACUA**
 Chief Minister
 Date: 06/16/25
-
-**XXX**
