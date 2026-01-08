@@ -129,7 +129,6 @@ Annex 1. Composition, land area, population and annual income of the proposed 1s
 | 34. Rajamuda | Pikit | 1.84 | 2,116 | 4.31 |
 | **Total** | | **289.39** | **103,233** | **120.66** |
 
-***
 
 Annex 2. Composition, land area, population and annual income of the proposed 2nd SGA Parliamentary District, 2020.
 
