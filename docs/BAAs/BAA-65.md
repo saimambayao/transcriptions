@@ -9401,7 +9401,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules, and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
