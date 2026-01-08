@@ -54,9 +54,6 @@ Secretary-General
 Chief Minister
 Date: 04 SEP 2023
 
-XXX
-
-***
 
 **Appendix. Map of the municipality of Pahamuddin.**
 
@@ -99,7 +96,6 @@ PROV OF MAGUINDANAO
 NORTHERN KABUNTALAN
 MUN OF BULDON
 
-***
 
 **This is the technical description for the Municipality of Pahamuddin**
 
@@ -168,7 +164,6 @@ AREA=6,253.7231 HAS.
 **MEETS AND BOUNDS**
 Bounded on the NE along line1-6 by Brgy. malagkit, on the SE along line 6-7 by Brgy. Bulucoon, on the SE & SW along line 7-73 by libungan river, on the NW along line 73-114 by mindanao river, on the NE along line 114-116 by Mun. of Buldon, on the NW along line 116-118 by Mun. of Alamada, on the NE along line 118-119 by Mun. of Libungan, on the SE along line 119-121 by Brgy. Renibon, on the SE along line 121-123 by Brgy. Poyong-Poyong, on the SE along line 123-136 by Brgy. New Iloilo.
 
-***
 
 PREPARED BY:
 **ROBERT M. ABELLON**
