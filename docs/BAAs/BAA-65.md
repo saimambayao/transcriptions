@@ -9049,7 +9049,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -9625,7 +9624,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -9783,7 +9781,6 @@ The amount herein appropriated as honoraria of the BEDC is subject to existing r
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -9919,7 +9916,6 @@ Appropriations, by Object of Expenditures (in pesos)
 | 3. Number of briefers and other technical documents prepared | 24 |
 | 4. Percentage of Technical Working Committees and other IGR mechanisms meetings provided with technical secretariat support as requested | 95% |
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10063,7 +10059,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10189,7 +10184,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules, and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10325,7 +10319,6 @@ Appropriations, by Object of Expenditures (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10533,7 +10526,6 @@ Appropriations, by Purpose (in pesos)
    (b) Submission of reports through electronic means; and
    (c) Publication to M/O/A's website.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10570,7 +10562,6 @@ Appropriations, by Purpose (in pesos)
    (b) Submission of reports through electronic means; and
    (c) Publication to M/O/A's website.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10614,7 +10605,6 @@ Appropriations, by Purpose (in pesos)
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10669,7 +10659,6 @@ The adjustments are subject to the endorsement of the TWG and the approval of th
 
 The implementing M/O/As shall send written notice when said reports have been submitted or posted on its website to the MFBM and other offices where the submission of reports is required under existing laws, rules, and regulations. The date of notice to said M/O/As shall be considered the date of compliance with this requirement.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10736,7 +10725,6 @@ The fund shall be released to the local government units by the MFBM through the
 
 **2. Reporting and Posting Requirements.** The Bangsamoro Treasury Office shall submit quarterly reports on the transfer of funds within thirty (30) days after the end of every quarter to the MFBM.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10761,7 +10749,6 @@ Appropriations, by Purpose (in pesos)
 
 **3. Reporting and Posting Requirements.** The recipient Shari’ah Court shall submit quarterly utilization reports to the MFBM within thirty (30) days after the end of every quarter in hardcopy and softcopy.
 
-***
 
 **BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
@@ -10827,7 +10814,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | **266** | **205,379,112.00** |
 | **Total Number of Positions** | **1,712** | **1,796,074,119.00** |
 
-***
 
 **II. OFFICE OF THE CHIEF MINISTER**
 
@@ -10948,7 +10934,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **18** | **15,168,496.00** |
 | **Total Number of Positions** | **18** | **15,168,496.00** |
 
-***
 
 **III. MINISTRY OF FINANCE, AND BUDGET AND MANAGEMENT**
 
@@ -10982,7 +10967,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **267** | **241,604,020.00** |
 | **Total Number of Positions** | **267** | **241,604,020.00** |
 
-***
 
 **IV. MINISTRY OF SOCIAL SERVICES AND DEVELOPMENT**
 
@@ -11007,7 +10991,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **532** | **383,406,269.00** |
 | **Total Number of Positions** | **532** | **383,406,269.00** |
 
-***
 
 **V. MINISTRY OF TRADE, INVESTMENTS AND TOURISM**
 
@@ -11038,7 +11021,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **271** | **232,565,416.00** |
 | **Total Number of Positions** | **271** | **232,565,416.00** |
 
-***
 
 **VI. MINISTRY OF LABOR AND EMPLOYMENT**
 
@@ -11066,7 +11048,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **154** | **127,402,749.00** |
 | **Total Number of Positions** | **154** | **127,402,749.00** |
 
-***
 
 **VII. MINISTRY OF TRANSPORTATION AND COMMUNICATIONS**
 
@@ -11097,7 +11078,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **333** | **255,217,646.00** |
 | **Total Number of Positions** | **333** | **255,217,646.00** |
 
-***
 
 **VIII. MINISTRY OF BASIC, HIGHER AND TECHNICAL EDUCATION**
 
@@ -11133,7 +11113,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **39,793** | **22,733,050,694.00** |
 | **Total Number of Positions** | **39,793** | **22,733,050,694.00** |
 
-***
 
 **IX. MINISTRY OF INDIGENOUS PEOPLES' AFFAIRS**
 
@@ -11155,7 +11134,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **80** | **58,139,579.00** |
 | **Total Number of Positions** | **80** | **58,139,579.00** |
 
-***
 
 **X. MINISTRY OF HEALTH**
 
@@ -11196,7 +11174,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Non-permanent Positions** | **95** | **79,331,470.00** |
 | **Total Number of Positions** | **4,897** | **3,852,758,678.00** |
 
-***
 
 **XI. MINISTRY OF PUBLIC WORKS**
 
@@ -11222,7 +11199,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **700** | **448,123,332.00** |
 | **Total Number of Positions** | **700** | **448,123,332.00** |
 
-***
 
 **XII. MINISTRY OF THE INTERIOR AND LOCAL GOVERNMENT**
 
@@ -11253,7 +11229,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **480** | **442,267,492.00** |
 | **Total Number of Positions** | **480** | **442,267,492.00** |
 
-***
 
 **XIII. MINISTRY OF ENVIRONMENT, NATURAL RESOURCES AND ENERGY**
 
@@ -11286,7 +11261,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **758** | **454,349,891.00** |
 | **Total Number of Positions** | **758** | **454,349,891.00** |
 
-***
 
 **XIV. MINISTRY OF HUMAN SETTLEMENTS AND DEVELOPMENT**
 
@@ -11310,7 +11284,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **120** | **101,038,524.00** |
 | **Total Number of Positions** | **120** | **101,038,524.00** |
 
-***
 
 **XV. MINISTRY OF SCIENCE AND TECHNOLOGY**
 
@@ -11335,7 +11308,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **131** | **110,496,644.00** |
 | **Total Number of Positions** | **131** | **110,496,644.00** |
 
-***
 
 **XVI. MINISTRY OF AGRICULTURE, FISHERIES AND AGRARIAN REFORM**
 
@@ -11363,7 +11335,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **1,198** | **803,950,482.00** |
 | **Total Number of Positions** | **1,198** | **803,950,482.00** |
 
-***
 
 **XVII. MINISTRY OF PUBLIC ORDER AND SAFETY**
 
@@ -11387,7 +11358,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **88** | **70,011,664.00** |
 | **Total Number of Positions** | **88** | **70,011,664.00** |
 
-***
 
 **XVIII. OFFICE OF THE WALI OF BANGSAMORO**
 
@@ -11404,7 +11374,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **22** | **20,903,038.00** |
 | **Total Number of Positions** | **22** | **20,903,038.00** |
 
-***
 
 **XIX. BANGSAMORO YOUTH COMMISSION**
 
@@ -11424,7 +11393,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **59** | **49,746,482.00** |
 | **Total Number of Positions** | **59** | **49,746,482.00** |
 
-***
 
 **XX. BANGSAMORO WOMEN COMMISSION**
 
@@ -11444,7 +11412,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **55** | **47,190,958.00** |
 | **Total Number of Positions** | **55** | **47,190,958.00** |
 
-***
 
 **XXI. BANGSAMORO SPORTS COMMISSION**
 
@@ -11465,7 +11432,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **38** | **38,280,025.00** |
 | **Total Number of Positions** | **38** | **38,280,025.00** |
 
-***
 
 **XXII. BANGSAMORO COMMISSION FOR THE PRESERVATION OF CULTURAL HERITAGE**
 
@@ -11485,7 +11451,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **53** | **48,540,892.00** |
 | **Total Number of Positions** | **53** | **48,540,892.00** |
 
-***
 
 **XXIII. BANGSAMORO PLANNING AND DEVELOPMENT AUTHORITY**
 
@@ -11511,7 +11476,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **73** | **72,923,969.00** |
 | **Total Number of Positions** | **73** | **72,923,969.00** |
 
-***
 
 **XXIV. BANGSAMORO ATTORNEY-GENERAL’S OFFICE**
 
@@ -11531,7 +11495,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **40** | **43,036,903.00** |
 | **Total Number of Positions** | **40** | **43,036,903.00** |
 
-***
 
 **XXV. BANGSAMORO PILGRIMAGE AUTHORITY**
 
@@ -11550,7 +11513,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **41** | **34,809,716.00** |
 | **Total Number of Positions** | **41** | **34,809,716.00** |
 
-***
 
 **XXVI. COOPERATIVES AND SOCIAL ENTERPRISE AUTHORITY**
 
@@ -11569,7 +11531,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **39** | **30,160,648.00** |
 | **Total Number of Positions** | **39** | **30,160,648.00** |
 
-***
 
 **XXVII. DEVELOPMENT ACADEMY OF THE BANGSAMORO**
 
@@ -11589,7 +11550,6 @@ Appropriations, by Purpose (in pesos)
 | **Total Permanent Positions** | **34** | **28,215,968.00** |
 | **Total Number of Positions** | **34** | **28,215,968.00** |
 
-***
 
 **XXVIII. BANGSAMORO HUMAN RIGHTS COMMISSION**
 
