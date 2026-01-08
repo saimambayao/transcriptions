@@ -149,5 +149,3 @@ Approved:
 **AHOD B. EBRAHIM**
 Chief Minister
 Date: Dec. 26, 2023
-
-xxx
