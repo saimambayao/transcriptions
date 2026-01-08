@@ -27,8 +27,6 @@ Introduced by
 Co-authored by
 **ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
 
----
-
 **AN ACT**
 **TO PROMOTE AND PROTECT THE RIGHTS OF HUMAN RIGHTS DEFENDERS IN THE BANGSAMORO REGION**
 
@@ -43,8 +41,6 @@ $^3$ OHCHR (n.d.) *What are human rights?* OHCHR. https://www.ohchr.org/en/issue
 $^4$ Evans, D. (2009). Human rights and state fragility: Conceptual foundations and strategic directions for state-building. *Journal of Human Rights Practice*, Volume 1 (2), pp. 181-207. https://doi.org/10.1093/jhuman/hup007
 
 1
-
----
 
 It is in understanding the interrelatedness of these concepts that we are able to draw on the relevance of safeguarding human rights at a time when discussions on them in both public and political spheres are highly polarizing. With many seeking to downplay the importance of human rights—and worse, others who demonize those who defend their free exercise. Not to mention, given the observations and comments from the international community and multilateral institutions, like the United Nations, on the need to proactively strengthen and protect the free exercise of human rights in the country. The urgency is clear when we think of how the COVID-19 pandemic has reinforced and exacerbated the long-existing social cleavages in our society.
 
@@ -61,8 +57,6 @@ $^9$ See Preamble; Article V (ee); Sections 1 & 6, Article IX; among others of R
 
 2
 
----
-
 national level are gaining ground, we too must provide complementary legislation that can even set the tone for others.
 
 The multidimensional nature of human rights requires us to not only facilitate structural and policy change, but also complement top-down approaches with bottom-up mechanisms. The members of civil society are our integral partners in advocating for human rights. It is but rational that we endeavor their protection so that we can truly pave the way for a broad-based human rights approach to moral governance and conflict transformation in the BARMM. Our partners who serve as “defenders” of human rights must be given the institutional support for them to freely serve as force multipliers in promoting and protecting human rights and fundamental freedoms. At the same time, we need to ensure that safeguards are present so that we can hold our own in government accountable in case of violations. By instituting reforms to safeguard our human rights, we as freedom-loving peoples, manifested in our struggle for self-determination, can move forward and help ensure that the horrors that plagued our forebears no longer affect the succeeding generations.
@@ -75,8 +69,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 *Member of the Parliament*
 
 3
-
----
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -93,7 +85,6 @@ Introduced by
 Co-authored by
 **ATTY. LAISA MASUHUD ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL, ENGR. DON MUSTAPHA A. LOONG**
 
----
 
 **AN ACT**
 **TO PROMOTE AND PROTECT THE RIGHTS OF HUMAN RIGHTS DEFENDERS IN THE BANGSAMORO REGION**
@@ -110,8 +101,6 @@ Co-authored by
 (2) Give highest priority to the implementation of legislative enactments, executive issuances and judicial decisions that guarantee respect, protection, promotion, and fulfillment of human rights and fundamental freedoms;
 
 4
-
----
 
 (3) Provide access to legal remedies and reparative measures including but not limited to monetary compensation and psychosocial accompaniment and rehabilitation to human rights violations victims;
 
@@ -137,8 +126,6 @@ j. General Comments and Resolutions of the United Nations General Assembly and H
 
 5
 
----
-
 (3) Human Rights Organization. – refers to a group, organization or association in the local, national, regional or international level, whether formal or informal, that strive for the protection of human rights and fundamental freedoms;
 
 (4) Human rights violation. – is any act committed by State and non-State actors acting under the orders of and/or with acquiescence of State actors, in violation of any human rights of any individual, group or organization, registered or otherwise from which injury and damage to any individual, mental or physical, or property or reputation or privacy of any individual or organization shall be occasioned;
@@ -159,8 +146,6 @@ c. a legal or other representative of the human rights defender appointed to con
 d. a family member or relative of the human rights defender, up to fourth degree of consanguinity or affinity, and includes common law relations;
 
 6
-
----
 
 e. a group, association, organization, community or network, whether formal or informal, with which the human rights defender is associated; or the home, property, or possessions of the human rights defender or any of the other persons or entities in items (b) to (f).
 
@@ -185,8 +170,6 @@ a. Know, seek, access, obtain, receive and hold information about all human righ
 
 7
 
----
-
 b. Know, seek access, obtain, receive and hold such information from business enterprises and other private actors as may be necessary for exercising or protecting, or assisting to exercise or protect, human rights and fundamental freedoms;
 c. Freely publish, impart or disseminate to others’ views, information and knowledge on all human rights and fundamental freedoms;
 d. Study, discuss, form and hold opinions on the observance, both in law and in practice, of all human rights and fundamental freedoms and, through these and other means, to draw public attention to these matters;
@@ -207,8 +190,6 @@ a. Submit to any public authority, or agency or organization concerned with publ
 b. Make recommendations to any public authority regarding legislative or regulatory changes relating to human rights and fundamental freedoms;
 
 8
-
----
 
 c. Draw to the attention of any public authority any aspect of its work that may hinder or impede the promotion, protection and realization of human rights and fundamental freedoms;
 d. Call the attention of any public authority to any action or omission by any actor, private or public, that may involve or contribute to a violation of human rights or fundamental freedoms; and
@@ -233,8 +214,6 @@ d. Submit communications and information of the type referred to in Section 10.
 
 9
 
----
-
 and the right to carry out his or her human rights activities in the entire territory or place of jurisdiction.
 
 (2) No one lawfully within the Bangsamoro territory shall be expelled, by means of an individual or a collective measure, from its territory wholly or partially on account of his or her acts as a human rights defender.
@@ -258,8 +237,6 @@ and the right to carry out his or her human rights activities in the entire terr
 (1) Consistent with Article 18 (1) of the UN Declaration on Human Rights Defenders, everyone, individually or in association with others, has the right to the unhindered exercise of his or her cultural rights in his or her activities and work as a human rights defender and to the free and full development of his or her personality,
 
 10
-
----
 
 (2) The right in Subsection (1) includes the right to challenge and change traditional customs and practices that violate human rights and fundamental freedoms.
 
@@ -287,8 +264,6 @@ Said sanctuary shall be considered established if and when he/she gives confiden
 
 11
 
----
-
 proportionate, and are solely for the purpose of securing due recognition of and respect for the human rights and fundamental freedoms of others and meeting the reasonable requirements of public order and general welfare in a democratic society.
 
 **CHAPTER III**
@@ -311,8 +286,6 @@ proportionate, and are solely for the purpose of securing due recognition of and
 (4) Government reports and information submitted to international human rights bodies and mechanisms;
 
 12
-
----
 
 (5) Reports and communications of international human rights bodies and mechanisms involving the country’s compliance with international treaty obligations;
 (6) Documents and information related to the decisions or activities of the BHRC and other national authorities with competence in the field of human rights and fundamental freedoms;
@@ -337,8 +310,6 @@ All such other information as may be necessary to secure or enable the exercise 
 
 13
 
----
-
 **Section. 31. *Obligation to Ensure Protection from Arbitrary or Unlawful Intrusion and Interference*.** –
 (1) Public authorities shall take all necessary measures to ensure the protection of human rights defenders from arbitrary or unlawful intrusion and interference in his or her family, home, places of work, possessions, and correspondence, both online and offline.
 
@@ -355,8 +326,6 @@ All such other information as may be necessary to secure or enable the exercise 
 (1) The Bangsamoro Government shall establish, promote, and provide resources for guarantees of non-recurrence. This can be in the form of, but not limited to, institutional, legislative, educational, and security sector reforms, as well as setting up of truth and justice
 
 14
-
----
 
 mechanisms and other non-recurrence mechanisms. These reforms and mechanisms shall be without prejudice to the transitional justice mechanism that the Bangsamoro Government shall establish.
 
@@ -380,8 +349,6 @@ The Ministry of Basic, Higher, and Technical Education (MBHTE-BARMM) shall requi
 (1) There shall be an independent collegial body to be known as the Human Rights Defenders Protection Committee composed of one (1) Chairperson and six (6) Members, herein referred to as the Committee. The Chairperson shall be selected by the Commissioners of the Bangsamoro Human Rights Commission (BHRC-BARMM) from among themselves in an *en banc* session. The six members shall be nominated by representatives from human
 
 15
-
----
 
 rights organizations, as well as other similar groups advocating for protection of human rights, who may later be accredited by the BHRC-BARMM in a meeting called for this purpose, without prejudice to the nominations of other human rights organizations who have proven track records of probity and independence.
 
@@ -407,8 +374,6 @@ rights organizations, as well as other similar groups advocating for protection 
 
 16
 
----
-
 (3) Facilitate and promote interagency and inter-department coordination to prevent, protect from, investigate, and ensure accountability for acts of intimidation or reprisal;
 (4) Investigate on its own or on complaint by any party all forms of violations of human rights and fundamental freedoms of human rights defenders;
 (5) Publicly acknowledge and promote the legitimate and important role, activities and work of human rights defenders;
@@ -431,8 +396,6 @@ rights organizations, as well as other similar groups advocating for protection 
 
 17
 
----
-
 penal laws shall be considered an aggravating circumstance in the imposition of the penalty in the said crime.
 
 **CHAPTER VI**
@@ -454,7 +417,6 @@ i. Generating support from a strong, independent, and effective national human r
 
 18
 
----
 
 j. Open access to the United Nations and international human rights bodies contributes to a safe and enabling environment for human rights defenders to work in.
 
