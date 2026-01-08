@@ -28,7 +28,7 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
 **SECTION 4. Territorial Boundary.** The territorial boundary of the new municipality shall follow the existing boundaries of the constituent barangays as above enumerated.
 
-**SECTION 4. Plebiscite Requirement.** The Municipality of Malmar shall acquire corporate existence upon ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the barangays comprising the municipality pursuant to Section 2 hereof within sixty (60) days after the approval of the Act.
+**SECTION 5. Plebiscite Requirement.** The Municipality of Malmar shall acquire corporate existence upon ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the barangays comprising the municipality pursuant to Section 2 hereof within sixty (60) days after the approval of the Act.
 
 **SECTION 6. Conduct of Plebiscite.** The Commission on Election, through the Bangsamoro Electoral Office, shall conduct and supervise the plebiscite. The expenses in holding the plebiscite shall be taken out of the available funds of the Commission on Elections under the current fiscal year appropriations.
 
