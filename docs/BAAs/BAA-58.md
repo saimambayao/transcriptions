@@ -307,5 +307,3 @@ Secretary General
 Chief Minister
 
 Date: FEBRUARY 28 2024
-
-XXX
