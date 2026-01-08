@@ -41,7 +41,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **MP BAINTAN ADIL-AMPATUAN, MNSA**
 
----
 ² Elias, N. U. & Nuñeza, O. M. (2015). *Microhabitat utilization of leaf-dwelling pholcids (Araneae: Pholcidae) in Mount Baya, Camp Abubakar, and Dimapatoy Watershed in Mindanao, Philippines*. Retrieved from https://www.ajbls.com/sites/default/files/AsianJBioLifeSci_4_3_189.pdf
 ³ Metro Cotabato Water District (n.d.). *Brief History and Background Information*. Retrieved from metrocotabatowd.gov.ph/?page_id=542
 ⁴ Philippine Statistics Authority (2020). *Census of Population*. Retrieved from https://psa.gov.ph/sites/default/files/attachments/ird/pressrelease/Region%2012.xlsx
