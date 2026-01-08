@@ -171,5 +171,3 @@ Secretary-General
 **AHOD BALAWAG EBRAHIM**
 Chief Minister
 Date: 04 SEP 2023
-
-XXX
