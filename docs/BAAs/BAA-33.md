@@ -64,5 +64,3 @@ Secretary-General
 **AHOD B. EBRAHIM**
 Chief Minister
 Date: 06-19-1444 / 01-12-2023
-
-xxx
