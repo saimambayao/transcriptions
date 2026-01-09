@@ -54,6 +54,23 @@ Member of the Parliament
 ¹² UN-Water. (2023). World Water Development Report 2023: Partnerships and Cooperation for Water. https://www.unwater.org/publications/un-world-water-development-report-2023
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Fourth Regular Session
+
+Parliament Bill No. **385**
+
+Introduced by:
+**MP ABDULKARIM T. MISUARI, MP NURREDHA I. MISUARI, MP RANDOLPH C. PARCASIO, MP ROMEO K. SEMA, MP SARIPUDDIN D. JIKIRI**
+
+**AN ACT**
+**ESTABLISHING A COMPREHENSIVE REGIONAL FRAMEWORK FOR THE WATER SUSTAINABILITY IN THE BARMM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+
 **CHAPTER I**
 **PRELIMINARY PROVISIONS**
 
