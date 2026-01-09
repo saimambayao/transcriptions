@@ -67,7 +67,6 @@ c. To promote financial and industrial cooperation between the Bangsamoro Autono
 d. To vest economic zones in certain areas thereof within the Bangsamoro Autonomous Region with the status of a separate customs territory, within the framework of the Constitution and the national sovereignty and territorial integrity of the Philippines.
 
 **Section 4. Definition of Terms.** – For purposes of this Act, the following definitions shall apply to the following terms:
-
 a. Bangsamoro Economic Zone – refers to selected areas within the Bangsamoro Autonomous Region with highly developed or which have the potential to be developed into agro-industrial, industrial tourist/recreational, commercial, banking, investment and financial centers. An economic zone may contain industrial estates and/or free ports.
 b. Industrial Estate – refers to a tract of land subdivided and developed according to a comprehensive plan under a unified continuous management and with provisions for basic infrastructure and utilities, with or without pre-built standard factory buildings and community facilities for the use of the community of industries.
 c. Free Port – refers to port of entries where imported goods may be unloaded for immediate transshipment or stored, repacked, sorted, mixed, or otherwise manipulated without being subject to import duties. However, movement of these imported goods from the free-trade area to a non-free-trade area in the country shall be subject to import duties.
