@@ -1,3 +1,8 @@
+**BANGSAMORO TRANSITION AUTHORITY**
+First Regular Session
+
+BTA Bill No. **59**
+
 Authors: MP Romeo K. Sema, MP Raissa H. Jajurie, MP Jose I. Lorena, MP Randolph C. Parcasio, MP Paisalin P. Tago and MP Eddie M. Alih
 
 Co-Authors: MPs Atty. Lanang T. Ali Jr., Atty. Rasol Mitmug Jr., Hatimil Hassan, Atty. Ubaida Pacasem, Muslimin Jakilan, Aida M. Silongan, Abdullah B. Hashim, Suwaib L. Oranon, Ali O. Salik, Rasul E. Ismael
@@ -99,7 +104,9 @@ c. In the Ministry of Labor and Employment training center or other public train
 **Section 21. Voluntary Organization of Apprenticeship Programs; Exemptions.**
 
 a. The organization of apprenticeship program shall be primarily a voluntary undertaking by employers or accredited entity;
+
 b. When regional security or particular requirements of economic development so demands, the Chief Minister may require compulsory training of apprentices in certain trades, occupations, jobs or employment levels where shortage of trained human resources is deemed critical as determined by the Minister of Labor and Employment. Appropriate rules in this connection shall be promulgated by the Minister of Labor and Employment; and
+
 c. Where services of foreign technicians are utilized by private companies in apprenticeable trades, said companies are required to set up appropriate understudy programs to ensure transfer of technical know-how to Bangsamoro workers.
 
 **Section 22. Learners; When learners may be hired.** Learners may be employed when no experienced workers are available, or the employment of learners is necessary to prevent curtailment of employment opportunities, and the employment does not create unfair competition in terms of labor costs or impair or lower working standards.
@@ -107,8 +114,11 @@ c. Where services of foreign technicians are utilized by private companies in ap
 **Section 23. Learnership Agreement.** Any employer desiring to employ learners shall enter into a learnership agreement with them, which agreement shall include:
 
 a. The names and addresses of the learners;
+
 b. The duration of the learnership period, which shall not exceed three (3) months;
+
 c. The wages or salary rates of the learners shall not be less than the applicable minimum wage, and shall be based on forty percent (40%) from the Ministry of Labor and Employment and sixty percent (60%) from the employer;
+
 d. A commitment to employ the learners as regular employees upon completion of the learnership. All learners who have been allowed or suffered to work during the first two (2) months shall be deemed regular employees if training is terminated by the employer before the end of the stipulated period through no fault of the learners.
 
 **Section 24. Learners in Piecework.** Learners employed in piece or incentive-rate jobs during the training period shall be paid in full for the work done, which shall not be less than the prevailing minimum wage rate in the area.
@@ -162,6 +172,7 @@ To harmonize the provision of employment services in a given territorial jurisdi
 **Section 38. Definition of terms.**
 
 a. "Overseas Bangsamoro Worker" refers to a person who is to be engaged, is engaged or has been engaged in a remunerated activity in a state of which he or she is not a citizen or on board a vessel navigating the foreign seas other than a government ship used for military or non-commercial purposes or on an installation located offshore or on the high seas; to be used interchangeably with Migrant Worker.
+
 b. “Recruitment and Placement” refers to any act of canvassing, enlisting contracting, transporting, utilizing, hiring or procuring workers, and includes referrals, contracts, services, promising or advertising for employment, locally or abroad, whether for profit or not: Provided, that any person or entity which, in any manner, offers or promises for a fee, employment to two or more persons shall be deemed engaged in recruitment.
 
 **Section 39. Regulations on Overseas Employment.** The Minister of Labor and Employment shall, consistent with the Bangsamoro Government policies and objectives, restrict and regulate the recruitment and placement activities for overseas employment as authorized within the BARMM. The Minister shall implement the provisions of Bangsamoro Autonomy Act No. 9, or the Recruitment Agency Regulations Act of 2020, the Overseas Bangsamoro Workers Act of 2020, and such other related laws as may be issued by the Bangsamoro Parliament ensuring welfare services and assistance to Overseas Bangsamoro Workers (OBW).
@@ -179,10 +190,15 @@ b. “Recruitment and Placement” refers to any act of canvassing, enlisting co
 **Section 45. Disqualified Individual and Entities.** - No certificate of accreditation shall be issued to the following disqualified persons and/or individuals:
 
 a. Travel agencies and sales agencies of airline companies;
+
 b. Officers or members of the Board of any corporation or partners in a partnership engaged in the business of a travel agency;
+
 c. Corporations and partnerships, where any of its officers, members of the board or partners is also an officer, member of the board or partner of a corporation or partnership engaged in the business of a travel agency;
+
 d. Individuals, partners, officers or directors of an insurance company who make, propose or provide an insurance contract under the compulsory insurance coverage for agency-hired Overseas Bangsamoro Workers;
+
 e. Sole proprietors, partners or officers and members of the Board with derogatory records; and
+
 f. Any official or employee of the Bangsamoro Government, DOLE, POEA, OWWA, DEA, DOJ, DOH, Bl, IC, NLRC, TESDA, CFO, NBI, PNP, Civil Aviation Authority of the Philippines (CAAP), international airport authorities, and other government agencies directly involved in the implementation of Republic Act No. 8042, as amended by Republic Act No. 10022, and Bangsamoro Autonomy Act No. 9, Overseas Bangsamoro Workers Act of 2020, and/or any of his/her relatives within the fourth civil degree of consanguinity or affinity.
 
 Those who are found guilty of violating the provisions of this Code shall be charged with illegal recruitment and without prejudice, in the case of employees of the National Government or of the Bangsamoro Government, to perpetual disqualification from government service.
@@ -207,8 +223,11 @@ Those who are found guilty of violating the provisions of this Code shall be cha
 **Section 50. Employment Agreement.** Any employer who employs differently-abled persons shall enter into an employment agreement with them, which agreement shall include:
 
 a. The names and addresses of differently-abled persons to be employed;
+
 b. Agreements providing for wage rates for differently-abled persons shall start at seventy-five percent (75%) of the applicable minimum wage and shall be duly approved by the Ministry of Labor and Employment.
+
 c. The duration of employment period; and
+
 d. The work to be performed by differently-abled persons.
 
 The employment agreement shall be subject to inspection by the Minister of Labor or his or her duly authorized representative.
@@ -223,23 +242,33 @@ The employment agreement shall be subject to inspection by the Minister of Labor
 **Section 53. Statement of Objectives.** This Chapter aims to:
 
 a. Help meet the needs of the elderly who are still physically and mentally fit to contribute as trained manpower;
+
 b. Help the elderly augment their financial needs and/or provide fulfillment in their lives after retirement;
+
 c. Establish a regional special apprenticeship program for the elderly through the participation of employers, workers and government and non-government agencies;
+
 d. Establish special apprenticeship standards for the protection of elderly workers or special apprentices; and
+
 e. Assist the elderly to become more familiar with and adept to changes in technology and modernization in the workplace.
 
 **Section 54. Definition of Terms.** As used in this Chapter:
 
 a. “Elderly workers” means those who are at least sixty (60) years old and have already retired, but still have the desire to work and meet the fitness requirement for re-employment.
+
 b. “Special apprenticeship” means any trade, form of employment or occupation for elderly workers, or special apprentices, which requires more than three (3) months of practical training on the job supplemented by related theoretical instruction in the industries and scopes of work, which have been identified and approved by the MOLE as open for re-employment for elderly workers.
+
 c. “Special Apprenticeship Agreement” is an employment contract or agreement wherein the employer binds himself to train the elderly worker under a special apprenticeship, and the Elderly Worker in turn accepts the terms and conditions of training.
+
 d. “Re-employment” is employment of an elderly worker, or special apprentice, who is covered by a written Special Apprenticeship Agreement with an individual employer in an approved industry for special apprenticeship.
 
 **Section 55. Eligibility for Special Apprenticeship; Qualifications.** Elderly workers may be hired as special apprentices if their age as well as physical and mental condition are not hindrances to their employment. To qualify as a special apprentice, an elderly worker shall:
 
 a. Be between the ages of sixty (60) years and sixty-nine (69) years of age;
+
 b. Possess aptitude and capacity for appropriate tests;
+
 c. Possess physical and mental fitness as certified by a government physician; and
+
 d. Possess the ability to comprehend and follow oral and written instructions.
 
 **Section 56. Employment Agreement.** Any employer who employs elderly workers as special apprentices shall enter into an employment agreement with them, which agreement shall include:
@@ -260,9 +289,13 @@ The employment agreement shall be subject to inspection by the Minister of Labor
 **Section 57. Employment of Children.** Children below eighteen (18) years of age shall not be employed anywhere in the BARMM except as provided in Republic Act No. 7610, as amended by Republic Act No. 9231, which states:
 
 a. When a child works directly under the sole responsibility of his or her parents or legal guardian and where only members of his or her family are employed: Provided, however, that his or her employment neither endangers his or her life, safety, health, and morals, nor impairs his or her normal development: Provided, further, That the parent or legal guardian shall provide the said child with the prescribed primary and/or secondary education; or
+
 b. Where a child's employment or participation in public entertainment or information through cinema, theater, radio, television or other forms of media is essential: Provided, That the employment contract is concluded by the child's parents or legal guardian, with the express agreement of the child concerned, if possible, and the approval of the Ministry of Labor and Employment: Provided, further, That the following requirements in all instances are strictly complied with:
+
 1. The employer shall ensure the protection, health, safety, morals and normal development of the child;
-2. The employer shall institute measures to prevent the child's exploitation or discrimination taking into account the system and level of remuneration, and the duration and arrangement of working time; and
+
+2. The employer shall institute measures to prevent the child's exploitation or discrimination taking into account the system and level of remuneration, and the duration and arrangement of working time; 
+
 3. The employer shall formulate and implement, subject to the approval and supervision of competent authorities, a continuing program for training and skills acquisition of the child.
 
 In the above-exceptional cases where any such child may be employed, the employer shall first secure, before engaging such child, a work permit from the Ministry of Labor and Employment which shall ensure observance of the above requirements.
@@ -284,17 +317,29 @@ c. No child below fifteen (15) years of age shall be allowed to work between eig
 **Section 62. Prohibition Against Worst Forms of Child Labor.** No child shall be engaged in the worst forms of child labor. The phrase "worst forms of child labor" shall refer to any of the following:
 
 a. All forms of slavery, as defined under the "Anti-trafficking in Persons Act of 2003", or practices similar to slavery such as sale and trafficking of children, debt bondage and serfdom and forced or compulsory labor, including recruitment of children for use in armed conflict; or
+
 b. The use, procuring, offering or exposing of a child for prostitution, for the production of pornography or for pornographic performances; or
+
 c. The use, procuring or offering of a child for illegal or illicit activities, including the production and trafficking of dangerous drugs and volatile substances prohibited under existing laws; or
+
 d. Work which, by its nature or the circumstances in which it is carried out, is hazardous or likely to be harmful to the health, safety or morals of children, such that it:
+
 1. Debases, degrades or demeans the intrinsic worth and dignity of a child as a human being; or
+
 2. Exposes the child to physical, emotional or sexual abuse, or is found to be highly stressful psychologically or may prejudice morals; or
+
 3. Is performed underground, underwater or at dangerous heights; or
+
 4. Involves the use of dangerous machinery, equipment and tools such as power-driven or explosive power-actuated tools; or
+
 5. Exposes the child to physical danger such as, but not limited to the dangerous feats of balancing, physical strength or contortion, or which requires the manual transport of heavy loads; or
+
 6. Is performed in an unhealthy environment exposing the child to hazardous working conditions, elements, substances, co-agents or processes involving ionizing, radiation, fire, flammable substances, noxious components and the like, or to extreme temperatures, noise levels, or vibrations; or
+
 7. Is performed under particularly difficult conditions; or
+
 8. Exposes the child to biological agents such as bacteria, fungi, viruses, protozoans, nematodes and other parasites; or
+
 9. Involves the manufacture or handling of explosives and other pyrotechnic products.
 
 **Section 63. Prohibition on the Employment of Children in Certain Advertisements.** No child shall be employed as a model in any advertisement directly or indirectly promoting alcoholic beverages, intoxicating drinks, tobacco and its by products, gambling or any form of violence or pornography.
