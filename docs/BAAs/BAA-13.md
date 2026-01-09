@@ -1,6 +1,18 @@
+Republic of the Philippines
+**BANGSAMORO PARLIAMENT**
+Bangsamoro Autonomous Region in Muslim Mindanao
+BARMM Compound, Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY**
+**(SECOND REGULAR SESSION)**
+
 **BANGSAMORO AUTONOMY ACT NO. 13**
 
-**AN ACT PROVIDING FOR THE BANGSAMORO ADMINISTRATIVE CODE AND FOR OTHER RELATED PURPOSES**
+Begun and held in Cotabato City, on Friday, the 29th day of March, 2019.
+
+**AN ACT**
+**PROVIDING FOR THE BANGSAMORO ADMINISTRATIVE CODE**
+**AND FOR OTHER RELATED PURPOSES**
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
@@ -4721,7 +4733,7 @@ The Commission may engage the services of a private lawyer to represent or rende
 
 **B. Monitoring**
 
-**Sec. 34**Sec. 34. Monitoring.** - Monitoring refers to the active collection, verification, and use of documents and information from various relevant sources in order to ascertain the existence or non-existence of certain facts and/or conditions. In the protection of human rights, the Commission shall conduct:
+**Sec. 34. Monitoring.** - Monitoring refers to the active collection, verification, and use of documents and information from various relevant sources in order to ascertain the existence or non-existence of certain facts and/or conditions. In the protection of human rights, the Commission shall conduct:
 
 	(a) Policy monitoring or assessing, evaluating, and reviewing the government’s compliance with human rights standard with regard to its legislation, regulations, rules, guidelines, actions, and practices.
 	(b) Thematic monitoring on pervasive, rampant, and widespread human rights violations and abuses;
