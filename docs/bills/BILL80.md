@@ -24,6 +24,10 @@ The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) shares 46.5% of the 
 
 Seaweed farming is the primary livelihood source for coastal villagers, particularly in the BARMM. It is considered a family venture involving nearly all family members, including children. It utilizes between 100,000-200,000 labors, where 90% are seaweed farmers, and the rest are seaweed processors and traders.³
 
+¹ PSA, 2020.
+² BFAR, 2021.
+³ BFAR, 2010.
+
 Farming of seaweeds is usually dependent on the availability of capital in order to start farming. In Tawi-Tawi, one of the problems that hindered farmers from intensifying seaweed farming was the lack of capital and government support, which resulted in low socio-economic status.
 
 This measure seeks to reduce the wealth inequality in the seaweed value chain and create shared value among the private companies and local communities in the BARMM by institutionalizing the Seaweed Farming Development Program. This program shall make use of science-based technologies in the promotion and development of the seaweed farming industry in the region.
@@ -40,9 +44,6 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-¹ PSA, 2020.
-² BFAR, 2021.
-³ BFAR, 2010.
 
 
 Republic of the Philippines
