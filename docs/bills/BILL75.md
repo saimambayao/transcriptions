@@ -158,7 +158,7 @@ Upon exhaustion of the administrative remedies provided for in this Act, the app
 
 The BIO shall submit the list of government officers who fail to comply with the provisions of this Act to the OCM who shall decide on the appropriate administrative and disciplinary sanctions.
 
-**Section 16. System of Incentives and Rewards.** A system of special incentives and rewards is hereby established to be given to the appropriate office in the Bangsamoro government that initiated and displayed full compliance and full participation in the meaningful implementation of this Act. The office’s current budget and shall thereafter be included in the annual Appropriations Act.
+**Section 16. System of Incentives and Rewards.** A system of special incentives and rewards is hereby established to be given to the appropriate office in the Bangsamoro government that initiated and displayed full compliance and full participation in the meaningful implementation of this Act. The incentivves and rewards may include, but not limited to, social projects, grants-in-aid, recognition, and similar entitlements. 
 
 **Section 17. Appropriations.** The amount necessary to carry out the provisions of this Act shall be charged against the office’s current budget and shall thereafter be included in the annual Appropriations Act.
 
