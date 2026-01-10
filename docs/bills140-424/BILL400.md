@@ -10,6 +10,8 @@ Fourth Regular Session
 Introduced by:
 **HON. ATTY. RASOL Y. MITMUG, Jr.**
 
+Co-Authors:
+
 **EXPLANATORY NOTE**
 
 Whereas, Section 15, Article XII of Republic Act No. 11054 (Bangsamoro Organic Law) guarantees the Bangsamoro Government’s fiscal autonomy, including the right to receive an annual block grant and other development assistance from the national government;
@@ -37,6 +39,8 @@ Fourth Regular Session
 
 Introduced by:
 **HON. ATTY. RASOL Y. MITMUG, Jr.**
+
+Co-Authors:
 
 **AN ACT INSTITUTIONALIZING THE BANGSAMORO TRUST FUND FOR DEVELOPMENT CONTINUITY (BTFDC), PROVIDING FOR ITS STRUCTURE, MANAGEMENT, UTILIZATION, AND FOR OTHER PURPOSES**
 
