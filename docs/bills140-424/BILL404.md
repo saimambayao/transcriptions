@@ -9,6 +9,7 @@ Fourth Regular Session
 Bill No. **404**
 
 Authored by: MP Froilyn T. Mendoza
+
 Co-Authored by:
 
 **AN ACT DECLARING SITIO MEKIR IN BARANGAY LAMUD, SOUTH UPI, MAGUINDANAO DEL SUR AS A PEACE SANCTUARY AND SAFE EVACUATION CENTER FOR NON-MORO INDIGENOUS PEOPLES DURING ARMED HOSTILITIES, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
@@ -28,8 +29,11 @@ It is hereby declared the policy of the Bangsamoro Government to promote and pro
 This Act aims to:
 
 a. Declare Sitio Mekir in Barangay Lamud, South Upi, Maguindanao del Sur, as a Peace Sanctuary and Safe Evacuation Center for Non-Moro Indigenous Peoples;
+
 b. Ensure protection, humanitarian assistance, and cultural preservation of Indigenous communities during armed hostilities;
+
 c. Strengthen coordination among ministries, local government units, and traditional leadership structures in sustaining peace and security mechanisms; and
+
 d. Institutionalize Indigenous conflict resolution and peacekeeping systems consistent with their customs, traditions, and worldviews.
 
 **SECTION 4. Definition of Terms.**
