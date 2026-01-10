@@ -24,6 +24,12 @@ Since its establishment, the BTA has carried the heavy responsibility of laying 
 
 In recognition of their dedicated service, this measure seeks to create a **BTA Gratuity Fund** to provide financial assistance to qualified employees *who are serving the Bangsamoro Government upon the termination of the transition period*. This fund shall be administered by the **Ministry of Finance, Budget, and Management (MFBM)** and shall cover **permanent, contractual, and co-terminous employees** who meet the eligibility requirements to be determined by the **Human Resource Management Unit (HRMU)** in coordination with the **Civil Service Commission for BARMM (CSC-BARMM)**.
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
 A clear precedent for this measure exists. During the dissolution of the ARMM in 2019, the **National Government**, in partnership with the **Bangsamoro Transition Authority** and the **Department of Budget and Management (DBM)**, allocated an initial ₱500 million to provide gratuity and **separation benefits** to thousands of ARMM employees affected by the transition. The computation of benefits followed Section 10, Article XVI of the BOL, granting one hundred percent (100%) of the monthly basic salary for every year of service to those with at least one year but less than five; one hundred fifty percent (150%) for those with five but less than ten; and two hundred percent (200%) for those with ten years or more of service.
 
 The same principle of equity, fairness, and gratitude should now be extended to BTA employees who faithfully served the Bangsamoro Government during the transition phase. The gratuity is **not an incentive, but a form of compensatory and humanitarian assistance**, recognizing the sacrifices made by those who have contributed to peacebuilding, governance, and the establishment of the BARMM’s institutions.
@@ -58,21 +64,32 @@ Co-Authors:
 
 **AN ACT ESTABLISHING A GRATUITY FUND FOR SEPARATED EMPLOYEES OF THE BANGSAMORO TRANSITION AUTHORITY AFTER THE TRANSITION PERIOD, PROVIDING FOR THE GRANT OF SEPARATION BENEFITS, AND FOR OTHER PURPOSES**
 
+
 Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:
+
 
 **SECTION 1. Short Title.**
 
 This Act shall be known as the “*BTA Gratuity Fund Act*.”
 
+
 **SECTION 2. Declaration of Policy.**
 
 It is hereby declared the policy of the Bangsamoro Government to uphold the welfare and recognize the dedicated service of employees who have contributed to the transition governance of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). In pursuit of this, a Gratuity Fund shall be established to provide financial assistance to personnel of the Bangsamoro Transition Authority who shall be separated from service upon the termination of the transition period.
+
 
 **SECTION 3. Definition of Terms.**
 
 For purposes of this Act, the following terms are hereby defined:
 
 a. *Gratuity* – refers to a form of financial assistance (one-time financial benefit) granted by the Government to an employee who is separated from service, usually due to retirement, non-absorption, or abolition of office, as an expression of appreciation and recognition for faithful, efficient, and loyal service, and not as a matter of right or demandable claim. It is distinct from retirement, separation, or terminal leave benefits.
+
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
 
 b. *Permanent Employee* – refers to an individual who holds a position in the BTA duly approved by the Parliament and whose appointment has been attested by the Civil Service Commission for BARMM (CSC-BARMM), enjoying security of tenure until separation or retirement in accordance with existing laws and regulations.
 
@@ -94,7 +111,15 @@ The qualification of employees to be granted gratuity benefits under this Act sh
 
 The grant of gratuity benefits under this Act shall be equivalent to one (1) month salary for every year of government service, based on the highest monthly basic salary rate received by the employee during his or her period of service.
 
-A fraction of at least six (6) months of service shall be considered as one (1) whole year for purposes of computing the gratuity. The computation shall be based on verified service records and salary certifications duly validated by the HRMU in coordination with the CSC-BARMM.
+A fraction of at least six (6) months of service shall be considered as one (1) whole year for purposes of computing the gratuity. The computation shall be based on 
+
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+verified service records and salary certifications duly validated by the HRMU in coordination with the CSC-BARMM.
 
 **SECTION 7. Administration of the Fund.**
 
@@ -117,6 +142,12 @@ However, this prohibition shall not apply to reemployment under consultancy, con
 **SECTION 10. Implementing Rules and Regulations (IRR).**
 
 Within sixty (60) days from the effectivity of this Act, the MFBM, in coordination with the CSC-BARMM, shall promulgate the necessary rules and regulations to implement the provisions of this Act.
+
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
 
 **SECTION 11. Separability Clause.**
 
