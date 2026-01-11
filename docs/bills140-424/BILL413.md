@@ -39,14 +39,15 @@ A sports center holds great significance in shaping the Bangsamoro's future—a 
 
 To pursue the aforementioned policies and laws, the establishment of Bangsamoro Grand Athletic and Sports Complexes in Cotabato City and Lamitan City is sought. These sports Complexes are strategic investments in peacebuilding that can result in regional transformation by nurturing the development and well-being of the Bangsamoro youth.
 
+
+¹https://www.who.int/initiatives/sports-and-health#:~:text=Regular%20physical%20activity%20helps%20prevent,world%20is%20becoming%20less%20active.
+
 Furthermore, these Complexes would also give the Bangsamoro region a facility that can train and hone athletes who could compete in local and international tournaments, thereby bringing honor and glory to the Bangsamoro and the nation.
 
 In view of the foregoing, the passage of this measure is earnestly sought.
 
 ENGR. BAINTAN ADIL-AMPATUAN, MNSA
 Author
-
-¹https://www.who.int/initiatives/sports-and-health#:~:text=Regular%20physical%20activity%20helps%20prevent,world%20is%20becoming%20less%20active.
 
 
 Republic of the Philippines
