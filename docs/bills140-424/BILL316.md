@@ -161,5 +161,5 @@ Adopted,
 **MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-⁴ Copied from Section 2 of Republic Act No. 7183, or the Act Regulating the Sale, Manufacture, Distribution and Use of Firecrackers and Other Pyrotechnic Devices.
+
 
