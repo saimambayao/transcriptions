@@ -62,6 +62,25 @@ _________________________
 ⁶ *Ibid.*
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Fourth Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **359**
+
+**Introduced by:**
+MP Engr. Baintan Adil-Ampatuan, CSEE, MNSA; MP Tomanda D. Antok, MP Atty. Kitem D. Kadatuan, Jr.; MP Atty. Sittie Fahanie Uy-Oyod; MP Khalid M. Hadji Abdullah
+
+**Co-Authors:**
+MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Engr. Don Mustapha A. Loong, MNSA; MP Rasul E. Ismael, EMDRCM; MP Atty. Rasol Mitmug; CESE; MP Dr. Hashemi N. Dilangalen; MP Tawakal B. Midtimbang; MP Jaafar Apollo Mikhail L. Matalam; MP Michael E. Midtimbang; and MP Mujib C. Abu
+
+**AN ACT**
+**ESTABLISHING THE BANGSAMORO STATE UNIVERSITY IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
 Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:
 
 **Section 1. Title.** – This Act shall be known as the **“Bangsamoro State University Act of 2025”**.
