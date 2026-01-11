@@ -34,6 +34,22 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **MP ATTY. NAGUIB G. SINARIMBO**
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Third Parliament
+4th Regular Session
+
+BTA Bill No. **355**
+
+Introduced by:
+**MP Atty. Naguib G. Sinarimbo**
+
+Co-authored by:
+MP Abdullah B. Hashim; MP Romeo K. Sema; MP Rashdi T. Adiong; MP Atty. Alirakim T. Munder; MP Atty. Amer Zaakaria A. Rakim; MP Tomanda D. Antok; MP Atty. Kitem D. Kadatuan, Jr., CPA; MP Ma-arouph B. Candao; MP Abdulbasit R. Benito; MP Alindato K. Pagayao; MP Ibrahim P. Ibay; MP Butch P. Malang; and MP Muhammad Nadzir S. Ebil
+
 **AN ACT ESTABLISHING AND INSTITUTIONALIZING THE SALAMAT EXCELLENCE AWARD FOR LEADERSHIP (SEAL) PROGRAM FOR THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), AND APPROPRIATING FUNDS THEREFORE.**
 
 Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:
