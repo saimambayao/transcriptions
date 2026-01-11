@@ -38,6 +38,16 @@ Section 38, Article XIII authorizes the Bangsamoro Government to issue regional 
 On June 22, 2023, Cotabato Airport was temporarily closed for runway overlay and terminal rehabilitation. Of the 100-day shutdown period, military and private flights resumed on August 19, and commercial operations fully reopened on October 1, 2023.⁸ During closure, BARMM residents had to travel to Davao or General Santos airports, significantly increasing travel time and costs.
 
 The reopening was met with immediate positive impact. The Bangsamoro Business Council reported that the return of commercial flights boosted business and tourism in BARMM.⁹ Regional media noted improved investor confidence and the establishment of satellite offices of regulatory bodies at the airport.¹⁰
+¹ 1987 Philippine Constitution, Article III, Section 6.
+² Civil Aviation Authority of the Philippines (CAAP), "List of Airports," caap.gov.ph.
+³ Philippine Statistics Authority (PSA), Air Transportation Statistics, 2022.
+⁴ Department of Transportation (DOTr) Region XII Data Brief, 2023.
+⁵ Republic Act No. 11054, Bangsamoro Organic Law, Article V, Section 3.
+⁶ Ibid., Article XIII, Section 37.
+⁷ Ibid., Article XIII, Sections 2 and 38.
+⁸ Manila Bulletin, "Cotabato Airport reopens for commercial flights," October 1, 2023.
+⁹ Bangsamoro Business Council Press Briefing, October 2023.
+¹⁰ Philippine Information Agency (PIA) Region XII News Reports, 2023.
 
 City-level data further underscore the airport's strategic importance: Cotabato City recorded ₱1.2 billion in new investments and a 10.5% annual growth rate between 2014–2019, with 2022 GDP at ₱72 billion (~₱221,766 per capita).¹¹ BARMM, meanwhile, posted a 7.5% regional growth rate in 2021—the second-fastest in the country following major peace and infrastructure initiatives.¹²
 
@@ -58,16 +68,7 @@ In view of the foregoing data and compelling need, the immediate enactment of th
 Author
 
 
-¹ 1987 Philippine Constitution, Article III, Section 6.
-² Civil Aviation Authority of the Philippines (CAAP), "List of Airports," caap.gov.ph.
-³ Philippine Statistics Authority (PSA), Air Transportation Statistics, 2022.
-⁴ Department of Transportation (DOTr) Region XII Data Brief, 2023.
-⁵ Republic Act No. 11054, Bangsamoro Organic Law, Article V, Section 3.
-⁶ Ibid., Article XIII, Section 37.
-⁷ Ibid., Article XIII, Sections 2 and 38.
-⁸ Manila Bulletin, "Cotabato Airport reopens for commercial flights," October 1, 2023.
-⁹ Bangsamoro Business Council Press Briefing, October 2023.
-¹⁰ Philippine Information Agency (PIA) Region XII News Reports, 2023.
+
 ¹¹ Cotabato City LGU Annual Economic Report, 2022.
 ¹² Philippine Statistics Authority (PSA), Gross Regional Domestic Product, 2021.
 ¹³ National Economic and Development Authority (NEDA), PDP 2023–2028; BARMM Development Plan, 2023–2028.
