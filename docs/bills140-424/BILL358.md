@@ -26,6 +26,23 @@ This Act sets forth the objectives, powers, and functions of the Shariff Kabunsu
 
 As the sponsor of this Bill, I seek to honor Shariff Kabunsuan for his historical significance to the Bangsamoro people by establishing this shrine dedicated to his legacy.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Bangsamoro Government Center, Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY**
+**(FOURTH REGULAR SESSION)**
+
+BTA Parliament Bill No. **358**
+
+**Introduced by:**
+MP ATTY. LANANG T. ALI, JR.
+
+**Co-Authored by:**
+MPs Mujib C. Abu, Kitem Duque Kadatuan Jr., Mohammad Kellie U. Antao, Baileng S. Mantawil, Ma-Arouph B. Candao, Butch P. Malang
+
+**AN ACT ESTABLISHING THE SHARIFF KABUNSUAN SHRINE IN BARANGAY KALANGANAN 2, COTABATO CITY, AND APPROPRIATING FUNDS THEREFOR**
 
 BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled, as follows:
 
