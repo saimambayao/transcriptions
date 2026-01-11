@@ -27,6 +27,25 @@ This bill recognizes the long-serving employees and their contributions to publi
 
 In view of the foregoing, the approval of this bill is earnestly sought.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+**BTA Parliament**
+**Proposed Bill No. 345**
+
+Introduced by:
+**MP MARJANIE S. MACASALONG**
+
+Co-authors:
+**MP SAID M. SHIEK, MP MOHAMMAD KELIE U. ANTAO, MP MACATANONG A. AMROUSSI, MP ABDULAZIZ M. AMENODEN, MP OMAR YASSER C. SEMA, MP ALI MONTAHA D. BABAO, MP MUDJIB C. ABU, MP RASUL E. ISAMEL, MP BAI MALEIHA B. CANDAO, MP BAILENG S. MANTAWIL, MP TAWAKAL B. MIDTIMBANG, MP MOHAMMAD S. YACOB, MP EDDIE M. ALIH, MP MICHAEL E. MIDTIMBANG, MP RANDOLPH C. PARCASIO, MP HATIMIL E. HASSAN, MP FROILYN T. MENDOZA**
+
+**AN ACT GRANTING CIVIL SERVICE ELIGIBILITY UNDER CERTAIN CONDITIONS TO BANGSAMORO GOVERNMENT EMPLOYEES APPOINTED UNDER JOB ORDER, CONTRACT OF SERVICE, CASUAL OR CONTRACTUAL STATUS WHO HAVE RENDERED A TOTAL OF TEN (10) YEARS OF EFFICIENT SERVICE, AND FOR OTHER PURPOSES**
+
 **Section 1. All government employees, who are holding career civil service positions appointed under job order, contract of service, casual or contractual status who have rendered at least a total of ten (10) years of continuous and efficient service are hereby granted civil service eligibility. Thereafter, they are entitled to permanent appointments to their present positions or to other positions to which the eligibility conferred herein qualifies them as determined by the Civil Service Commission.**
 
 **Section 2. The Bangsamoro Civil Service Commission shall promulgate the rules and regulations to implement this Act consistent with merit and fitness principle within ninety (90) days after its effectivity.**
