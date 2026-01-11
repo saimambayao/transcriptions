@@ -57,6 +57,26 @@ Author
 ⁴ https://www.pna.gov.ph/articles/1211404
 ⁵ https://www.who.int/philippines/news/detail/16-05-2023-doh--who--and-australian-gov-t-support-mindful-media-for-the-responsible-reporting-of-mental-health
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Third Regular Session
+
+**BANGSAMORO PARLIAMENT (BP)**
+**BP Bill No. 344**
+
+Introduced by:
+**MP Engr. Baintan Adil-Ampatuan, CSEE, MNSA**
+
+Co-Authored by:
+**MP Don Mustapha A. Loong, MNSA; MP. Rasul E. Ismael, EMDRCM; MP Atty. Rasol Mitmug, Jr.; CESE, MP Atty. Laisa M. Alamia, MNSA; MP Amilbahar S. Mawallil, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Tawakal B. Midtimbang; MP Jaafar Apollo Mikhail L. Matalam; MP Michael E. Midtimbang; MP Atty. Sittie Fahanie S. Uy-Oyod; MP Khalid Ma-Ampor Hadji Abdullah; and MP Bassir D. Utto**
+
+**AN ACT**
+**STRENGTHENING THE PROMOTION AND DELIVERY OF MENTAL HEALTH SERVICES BY ESTABLISHING STRUCTURES AND MECHANISMS IN THE BANGSAMORO AUTONOMOUS REGION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
 **CHAPTER I**
 **GENERAL PROVISIONS**
 
