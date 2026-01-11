@@ -40,7 +40,6 @@ Member of Parliament – Bangsamoro Transition Authority
 ¹ https://www.betterhealth.vic.gov.au/health/healthyliving/exercise-and-mental-health
 ² Section 22, Article IX, R.A. 11054
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
