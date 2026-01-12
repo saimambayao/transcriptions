@@ -22,6 +22,10 @@ The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) is home to a growing
 
 Despite this growth, older persons in the region remain among the most underserved sectors in terms of health access, social protection, and inclusion. Many elderly Bangsamoro live in remote, conflict-affected, or geographically isolated and disadvantaged areas (GIDAs), where basic health services are either limited or entirely absent. According to the Department of Health and national reports, BARMM has consistently posted the lowest vaccination coverage for senior citizens, with only 46% of its A2 population (senior citizens) vaccinated against COVID-19 as of mid-2022, far below the national average.³ The region’s Expanded Program on Immunization has also struggled to achieve full routine vaccine coverage due to logistical challenges, limited health personnel, and sociocultural barriers.⁴
 
+¹ Philippine Statistics Authority, 2020 Census of Population and Housing (2020 CPH), Official Release, July 2021.
+² United Nations Population Fund (UNFPA), Ageing and Older Persons in the Philippines, 2022.
+³ Department of Health, as cited in Inquirer.net, BARMM has lowest COVID-19 vaccination coverage of elderly, July 2022. https://newsinfo.inquirer.net/1620657
+
 Moreover, as of 2023, BARMM still lacks a dedicated, region-wide program for geriatric health and wellness. There are no institutionalized Geriatric Wellness Centers, and mobile outreach systems are not yet equipped to deliver age-appropriate services such as physical therapy, mental health support, assistive devices, or home-based care for bedridden elders.
 
 The gap is not merely logistical—it is systemic and structural. There is no consolidated Senior Citizen Health Information System (SCHIS) in place, leaving many senior citizens invisible to public planners. Moreover, there is no comprehensive training program on geriatric care for barangay health workers, caregivers, or community-based staff in BARMM.
@@ -39,14 +43,28 @@ In light of the foregoing, the immediate passage of this bill is earnestly sough
 **DR. HASHEMI N. DILANGALEN, CHA**
 Author
 
-¹ Philippine Statistics Authority, 2020 Census of Population and Housing (2020 CPH), Official Release, July 2021.
-² United Nations Population Fund (UNFPA), Ageing and Older Persons in the Philippines, 2022.
-³ Department of Health, as cited in Inquirer.net, BARMM has lowest COVID-19 vaccination coverage of elderly, July 2022. https://newsinfo.inquirer.net/1620657
 ⁴ Inquirer.net, Lukewarm support among issues in BARMM's low vax rate, February 2022. https://newsinfo.inquirer.net/1558731
 
-**Chunk Complete. Ready for next group of provisions starting at Section 1.**
 
-***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Third Regular Session
+
+**BTA PARLIAMENT**
+BTA Parliament Bill No. **375**
+
+Introduced by:
+MP Dr. Hashemi N. Dilangalen, CHA,
+
+Co-authored by:
+MPs Atty. Nabil Tan, Zulfikar-Ali S. Bayam, Atty. John Anthony L. Lim, Suharto Esmael, Michael Midtimbang, Mudjib C. Abu, Suwaib Oranon, Tawakal Midtimbang,
+
+**AN ACT ESTABLISHING A COMMUNITY-BASED HEALTH AND WELLNESS PROGRAM FOR SENIOR CITIZENS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR INCLUSIVE ACCESS TO ESSENTIAL HEALTH AND SOCIAL SERVICES, AND APPROPRIATING FUNDS THEREFOR**
+
 
 **AN ACT ESTABLISHING A COMMUNITY-BASED HEALTH AND WELLNESS PROGRAM FOR SENIOR CITIZENS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO, PROVIDING FOR INCLUSIVE ACCESS TO ESSENTIAL HEALTH AND SOCIAL SERVICES, AND APPROPRIATING FUNDS THEREFOR**
 
