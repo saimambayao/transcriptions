@@ -1,4 +1,3 @@
-Principles
 
 **THE 1987 CONSTITUTION**
 
