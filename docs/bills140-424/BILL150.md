@@ -39,6 +39,24 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 150**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, ATTY. RASOL Y. MITMUG, JR., ATTY. SITTIE FAHANIE S. UY-OYOD, HASHEMI N. DILANGALEN, MD., HAMID U. MALIK**
+Co-authored by
+**MPs ATTY. LAISA M. ALAMIA, ENGR. BAINTAN A. AMPATUAN, ENGR. DON MUSTAPHA A. LOONG, ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
+
+**AN ACT**
+**STRENGTHENING THE BANGSAMORO AGRICULTURAL SUPPORT SYSTEM, THEREBY CREATING THE BANGSAMORO PLANT AND ANIMAL INDUSTRIES OFFICE (BPAIO), DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
 **Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:**
 
 **CHAPTER I**
