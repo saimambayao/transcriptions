@@ -33,6 +33,22 @@ For these reasons, this representation earnestly asks for the approval of the bi
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 171**
+
+Authored by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasul E. Ismael, Atty. John Anthony L. Lim, Hatimil E. Hassan, Bai Maleiha B. Candao, Suwaib L. Oranon, Abdulaziz M. Amenoden, Eddie M. Alih, Tawakal B. Midtimbang, Tarhata M. Maglangit, Nabila Margarita P. Pangandaman, Michael E. Midtimbang, Atty. Jose I. Lorena, Abdulkarim T. Misuari, Nurredha I. Misuari, Matarul M. Estino, and Ramon A. Piang Sr.**
+
 **AN ACT**
 **MANDATING THE INTEGRATION OF BANGSAMORO AND INDIGENOUS PEOPLES’ CULTURE, TRADITIONS, CUSTOMS AND BELIEFS IN THE SECONDARY EDUCATION CURRICULUM OF ALL PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS IN BARMM, AND APPROPRIATING FUNDS THEREFOR**
 
