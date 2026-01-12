@@ -23,6 +23,12 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
 **SECTION 3. Area.** The declared area shall be at least 1000 square meters, covering the memorial site in the Municipality of Sultan Kudarat, Maguindanao del Norte. The determination of the exact site shall be executed by a management board hereinafter created.
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
 **SECTION 4. Preservation and Promotion.** The memorial site shall be preserved and reconstructed whenever necessary, to maintain its original form.
 
 **SECTION 5. Recognition as a Historical Tourism and Heritage Site.** The *Ghazali Jaafar Memorial Site* shall form part of the tourism and heritage sites recognized by the relevant ministries, agencies, and offices in the Bangsamoro Autonomous Region in Muslim Mindanao.
@@ -45,6 +51,13 @@ f. A representative from the family as a member.
 An initial amount of Five Million Pesos (P5,000,000.00) is hereby appropriated for this purpose.
 
 **SECTION 8. Repealing Clause.** All laws, decrees, orders, rules, and regulations, or any part thereof inconsistent with this Act are hereby repealed or amended accordingly.
+
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
 
 **SECTION 9. Effectivity.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of national/general or regional circulation in the BARMM.
 
