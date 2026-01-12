@@ -88,6 +88,13 @@ c. Ensure the reduction of the vulnerability of women, girls, and marginalized g
 
 d. Ensure and support preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among its residents, maintain peace and order, and preserve the comfort and convenience of its inhabitants.⁶
 
+¹ Protection of Women, Section 12, Article IX, RA 11054
+² Rehabilitation and Development, Section 1, Article XIV, RA 11054
+³ Regional Action Plan on Women, Peace and Security (RAP-WPS)
+⁴ Bangsamoro Action Plan on Youth, Peace and Security (BAPYPS)
+⁵ Comprehensive Framework for Sustainable Development, Section 3, Article XIII, RA 11054
+⁶ General Welfare, Section 3, Article V, RA 11054
+
 e. Promote the important role of women in nation-building and regional development, ensuring their representation in decision-making and policy-determining bodies of the Bangsamoro Government.⁷
 
 f. Recognize the role of women in governance, ensure their fundamental equality before the law, and guarantee their full and direct participation in governance and development process, ensuring that women shall benefit equally in the implementation of development programs and projects.⁸
@@ -111,6 +118,12 @@ b. Each individual deserves dignity and respect regardless of their gender. All 
 
 c. The sanctity and value of human life, highlighting that taking a life unjustly is akin to killing all of humanity, while saving a life is as if saving all of humanity. The importance of protecting humanity, promoting peace and justice, and condemning violence and mischief underscores the responsibility of every individual to uphold the sanctity and value of human life and contribute to the well-being and safety of the community. Furthermore, harming an innocent life, including violence against women and children, is condemnable.¹²
 
+⁷ Participation of Women in the Bangsamoro Government, Section 11, Article IX, RA 11054
+⁸ Gender and Development, Section 5, Article XIII, RA 11054
+⁹ Gender and Development, Section 5, Article XIII, RA 11054
+¹⁰ Surah An-Nisa', Verse 1
+¹¹ Sūrah Al-Isrā', Verse 70
+
 d. Men and women are assured of equal value, they are equal in responsibility and accountability for their actions and contributions, and they are equally deserving of forgiveness and rewards.¹³
 
 e. Men and women have equal opportunity to earn rewards through righteous deeds and they are encouraged to have active and equitable participation in all spheres of life¹⁴.
@@ -126,6 +139,18 @@ i. Men and women are partners in life, including in seeking lawful provisions.¹
 j. It is the duty of a husband to provide for the necessities of his wife, highlighting the importance of responsibility and care within the family structure.²⁰ However, women have the right to own and manage their property independently, underscoring their economic independence and empowerment²¹.
 
 k. The diversity and cooperation among men and women in their duties and roles in nation-building and development are recognized and form part of the strength of human society²².
+
+¹² Sūrah Al-Mā'idah, Verse 32
+¹³ Sūrah An-Nah'l, Verse 97; Sūrah Al-Ahzāb, Verse 35
+¹⁴ Sūrah An-Nisā', Verse 124
+¹⁵ Sūrah Ar-Rūm, Verse 21
+¹⁶ Hadeeth: Bukhari, Kitab Nikah 5186
+¹⁷ Sūrah Luqmān, Verse 14
+¹⁸ Sūrah An-Nah'l, Verse 72
+¹⁹ Sūrah At-Tawbah, Verse 71
+²⁰ Hadeeth: Bukhari, Nafaqaat 5353
+²¹ Hadeeth: Aisha Ra-Suyuti 2560
+²² Sūrah Al-Hujurāt, Verse 13
 
 **Section 5. Guiding Principles from International Commitments.** – In alignment with the global commitments to gender equality, gender equity, and women’s rights and empowerment, this Code shall integrate and practice the following guiding principles, among others:
 
@@ -149,6 +174,15 @@ f. Adherence to and integration of the principles enshrined in the Sustainable D
 
 4. Promote policies that support productive activities, decent job creation, entrepreneurship, creativity, and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services, ensuring women’s full and effective participation and equal opportunities for leadership.³¹
 
+²³ Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)
+²⁴ UN Declaration on the Elimination of Violence Against Women (1993)
+²⁵ Convention on the Rights of the Child (CRC)
+²⁶ United Nations Security Council Resolutions (UNSCRs) 1325 and 1820
+²⁷ Beijing +5 Platform for Women
+²⁸ SDG 5. Gender Equality
+²⁹ SDG 3. Good Health and Well-being
+³⁰ SDG 4. Quality Education
+
 5. Empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion, economic, or other status, and ensure equal opportunity and reduce inequalities of outcome, including through the elimination of discriminatory laws, policies, and practices.³²
 
 6. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels, ensuring responsive, inclusive, participatory, and representative decision-making at all levels³³.
@@ -162,6 +196,11 @@ f. Adherence to and integration of the principles enshrined in the Sustainable D
 a. Respect for the cultural identity and heritage of all indigenous peoples and local communities within the Bangsamoro Autonomous Region, acknowledging their unique practices, beliefs, and traditions related to gender and development.
 
 b. Recognition and promotion of traditional conflict resolution mechanisms that are in harmony with the principles of justice and gender equity, ensuring that women have significant participation and representation in these processes.
+
+³¹ SDG 8. Decent Work and Economic Growth
+³² SDG 10. Reduced Inequality
+³³ SDG 16. Peace, Justice, and Strong Institutions
+³⁴ SDG 17. Partnerships for the Goals
 
 c. Preservation and promotion of traditional arts, crafts, and industries, particularly those led or predominantly participated in by women, as a means of labor, employment, economic empowerment, and cultural preservation.
 
@@ -301,41 +340,20 @@ a. Women shall be recognized as equals of men in worth, dignity, and humanity, a
 
 b. The protection of women’s life and dignity shall be paramount. The Bangsamoro Government and all constituent political units of BARMM shall safeguard them from all forms of violence and ensure their active involvement in fostering community peace, justice, and overall well-being.
 
-¹ Protection of Women, Section 12, Article IX, RA 11054
-² Rehabilitation and Development, Section 1, Article XIV, RA 11054
-³ Regional Action Plan on Women, Peace and Security (RAP-WPS)
-⁴ Bangsamoro Action Plan on Youth, Peace and Security (BAPYPS)
-⁵ Comprehensive Framework for Sustainable Development, Section 3, Article XIII, RA 11054
-⁶ General Welfare, Section 3, Article V, RA 11054
-⁷ Participation of Women in the Bangsamoro Government, Section 11, Article IX, RA 11054
-⁸ Gender and Development, Section 5, Article XIII, RA 11054
-⁹ Gender and Development, Section 5, Article XIII, RA 11054
-¹⁰ Surah An-Nisa', Verse 1
-¹¹ Sūrah Al-Isrā', Verse 70
-¹² Sūrah Al-Mā'idah, Verse 32
-¹³ Sūrah An-Nah'l, Verse 97; Sūrah Al-Ahzāb, Verse 35
-¹⁴ Sūrah An-Nisā', Verse 124
-¹⁵ Sūrah Ar-Rūm, Verse 21
-¹⁶ Hadeeth: Bukhari, Kitab Nikah 5186
-¹⁷ Sūrah Luqmān, Verse 14
-¹⁸ Sūrah An-Nah'l, Verse 72
-¹⁹ Sūrah At-Tawbah, Verse 71
-²⁰ Hadeeth: Bukhari, Nafaqaat 5353
-²¹ Hadeeth: Aisha Ra-Suyuti 2560
-²² Sūrah Al-Hujurāt, Verse 13
-²³ Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)
-²⁴ UN Declaration on the Elimination of Violence Against Women (1993)
-²⁵ Convention on the Rights of the Child (CRC)
-²⁶ United Nations Security Council Resolutions (UNSCRs) 1325 and 1820
-²⁷ Beijing +5 Platform for Women
-²⁸ SDG 5. Gender Equality
-²⁹ SDG 3. Good Health and Well-being
-³⁰ SDG 4. Quality Education
-³¹ SDG 8. Decent Work and Economic Growth
-³² SDG 10. Reduced Inequality
-³³ SDG 16. Peace, Justice, and Strong Institutions
-³⁴ SDG 17. Partnerships for the Goals
 ³⁵ Surah An-Nisa', Verse 1
+
+c. Women shall have the unequivocal right to participate and contribute in nation-building and societal development, ensuring their access to opportunities for achieving and receiving recognition for their righteous endeavors.
+
+d. The agency and consent of women in marital relationships shall be upheld, promoting a marital bond based on equality, mutual respect, and understanding.
+
+e. The institution of marriage shall be upheld as a domain of mutual respect, compassion, and understanding, with the aim of establishing a nurturing and harmonious family life. Wives shall have the right to sufficient provisions by their husbands.
+
+f. The pivotal role of women, especially as wives and mothers, in nurturing and shaping the future generation shall be recognized and revered, with due acknowledgment and support for their wellbeing.
+
+g. Women shall have an equal right to seek lawful employment and enter into enterprise.
+
+h. Women have the right to own, manage, and control their property and income.
+
 
 **CHAPTER II**
 **PROTECTION AND PREVENTION**
@@ -352,6 +370,11 @@ b. The protection of women’s life and dignity shall be paramount. The Bangsamo
 **Section 13. Strengthening Women-led Early Warning and Early Response (EWER) Systems³⁸.** The Bangsamoro Government shall ensure the following:
 
 a. Establishment of women-led, disaster-related community-based EWER systems;
+
+³⁶ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
+³⁷ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
+³⁸ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
+
 b. Develop local models with EWER functionality checklist; and
 c. Support installation of evacuation signage to households indicating presence of the elderly and persons with disabilities.
 
@@ -389,10 +412,15 @@ c. Any intentional contact with use of force, threat, intimidation, and coercion
 Trafficking in women shall include the following, but is not limited to:
 
 a. For any person’s association, cult, religion or organization or similar entities to commit the following acts:
+
 i. Establish or carry on a business for the purpose of matching women for marriage to foreigner either on a mail order basis or through personal introduction or cyberspace;
+
 ii. Advertise, publish, print or distribute, or cause the advertisement, publication, printing or distribution of any brochure, flyer or propaganda material calculated to promote the above-mentioned prohibited acts for profit or advantage;
+
 iii. Solicit, enlist or attack/induce any woman to join any club, association or organization whose objective is to match women for marriage to foreigners either on a mail-order basis or through personal introduction or cyberspace or any forms which facilitate the act of solicitation;
+
 iv. Use the postal services, cyberspace or satellite TV to promote the above-mentioned prohibited acts;
+
 v. Inclusion of massage parlors and videoke rooms in the list of entertainment facilities that allow, attract or entice prostitution are prohibited.
 
 b. To buy or sell a woman, or any of her body parts for profit;
@@ -412,6 +440,8 @@ This practice is a form of violence against women and shall be unlawful and puni
 **Section 19. Sexual Harassment Defined.** It is a form of misconduct involving an act or a series of unwelcome sexual advances, requests for sexual favors, or other verbal or physical behavior of a sexual nature, made directly, indirectly or impliedly.
 
 Sexual harassment shall be unlawful in public spaces, online, employment, education, or training environment as prescribed in Republic Act No. 7877 and RA 11313.
+
+³⁹ An Act to Declare Unlawful the Practice of Matching Filipino Women for Marriage to Foreign Nationals on a Mail Order Basis and Other Similar Practices, Including the Advertisement, Publication, Printing or Distribution of Brochures, Fliers and Other Propaganda Materials in Furtherance Thereof and Providing Penalty Therefore, 13 June 1990.
 
 **Section 20. Other Forms of Sexual Violence.** Other than the forms of violence described above, sexual violence also include those covered by the Revised Penal Code such as Acts of Lasciviousness.
 
@@ -461,6 +491,9 @@ Local Government Units are mandated to pass ordinances that will localize the Sa
 1. **Pornographic and Indecent Shows.** Indecent shows as used in this Code include nude or other provocative gestures which further project and exhibit women as sex objects. Any person or agency who organizes, funds, or markets shows depicting women as sex objects in private or in public places shall violate women’s rights;
 
 2. **Live shows.** Nude shows and other provocative gestures that further project and exhibit individuals as sex objects are considered haram. It shall be a violation of women’s rights to influence or force a woman or girl-child to dance or do naked shows in public or private places for commercial or entertainment purposes; and
+
+⁴⁰ DILG, PCW, MOH, DSWD and DepEd. "JMC-2010-2: Establishment of VAW Desk. December 10, 2010"
+
 
 3. **Protection of Women Deprived of Liberty (WDL).** In recognition of the vulnerability of WDLs, the Bangsamoro Government in coordination with Bureau of Jail Management and Penology (BJMP) and other government agencies concerned shall ensure that WDLs are not used, exploited, or exposed to any form of obscene or pornographic contents, displays, and publications. Any act of voyeurism and other acts that violate the privacy of vulnerable women deprived of liberty in detention facilities shall also be prohibited.
 
@@ -561,14 +594,6 @@ The Bangsamoro Government shall collaborate with the National Government on vari
 
 **Section 41. Reporting of Cases of Harassment Committed Against Persons with Disability.** The Bangsamoro Government, through the Ministry of Interior and Local Government, shall require all LGUs in the Bangsamoro Autonomous Region to monitor and report cases of harassment committed against persons with disability.
 
-***
-
-³⁶ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
-³⁷ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
-³⁸ Bangsamoro Regional Action Plan on Women, Peace and Security 2023-2028
-³⁹ An Act to Declare Unlawful the Practice of Matching Filipino Women for Marriage to Foreign Nationals on a Mail Order Basis and Other Similar Practices, Including the Advertisement, Publication, Printing or Distribution of Brochures, Fliers and Other Propaganda Materials in Furtherance Thereof and Providing Penalty Therefore, 13 June 1990.
-⁴⁰ DILG, PCW, MOH, DSWD and DepEd. "JMC-2010-2: Establishment of VAW Desk. December 10, 2010"
-
 **CHAPTER III**
 **WELFARE PROVISIONS**
 
@@ -621,6 +646,9 @@ d. Proscription of abortion and management of abortion complications;
 e. Adolescent and youth reproductive health guidance and counseling;
 f. Prevention, treatment, and management of reproductive tract infections (RTIs), HIV and AIDS, and other sexually transmittable infections (STIs);
 g. Elimination of violence against women and children and other forms of sexual and gender-based violence;
+
+⁴¹ Article 12 of the UN International Covenant on Economic, Social, and Cultural Rights
+
 h. Culturally-sensitive and appropriate education and counseling on sexuality and reproductive health;
 i. Treatment of breast and reproductive tract cancers and other gynecological conditions and disorders;
 j. Male responsibility and involvement and men’s reproductive health;
@@ -643,6 +671,8 @@ The Bangsamoro government shall strengthen and ensure availability and access to
 
 **Section 59. Mobile Health Care Delivery Services.** There shall be a monthly mobile maternal and health care delivery service through a mobile health clinic in all cities and municipalities of the Bangsamoro Autonomous Region for their constituents, especially women and those in the marginalized sectors. Towards this end, each municipality on the mainland shall provide a van and motorized boat for the island municipality to promptly attend to the needy patients.
 
+⁴² RA 7600, as amended by RA 10028, "Expanded Breastfeeding Promotion Act of 2009"
+
 The MOH, in coordination with the Integrated Provincial Health Offices (IPHOs), shall provide the human resource requirement of the program. The concerned LGUs shall be responsible for the implementation, maintenance and sustainability of the program in their respective jurisdictions. It shall also be responsible for ensuring proper information dissemination to all residents, particularly the indigenous people’s communities.
 
 **Section 60. Conduct of Maternal and Neonatal Mortality and Morbidity Review.** All LGUs shall formulate their respective ordinances for the regular reporting of maternal and neonatal mortality and morbidity indices. Annual maternal and infant death reviews shall be conducted which shall be attended by the concerned agencies such as the Ministry of Health (MOH), Bangsamoro Population and Development Office (BPDO), Ministry of Social Services and Development (MSSD), the Ministry of Interior and Local Government (MILG), Philippine Statistics Authority (PSA) - BARMM, the Barangay Local Government Units (BLGUs), Municipal Local Government Units (MLGUs), and provincial government with the purpose of formulating plans, programs, and projects to target a ten percent (10%) yearly decrease in maternal and infant mortality and morbidity.
@@ -661,10 +691,6 @@ In addition, the Bangsamoro Government shall ensure that mental health and psych
 **Section 64. Comprehensive Support to Women in Especially Difficult Circumstances.** All Provinces in the Bangsamoro Government shall provide comprehensive support to survivors of violence irrespective of gender, age, religion, affiliation, or ethnicity. Women in Especially Difficult Circumstances (WEDCs) shall be provided with the necessary services and interventions stipulated under Chapter V, Section 31 of RA 9710.
 
 Facilities providing necessary interventions to survivors of violence as well as programs directly benefiting the clients shall be actively supported by the Bangsamoro Government. These facilities will include Crisis Intervention Units (CIUs) by the MSSD, and VAWC centers by the MSSD and LGUs, the Women and Children Protection Desk (WCPD’s) by the PNP, Legal Assistance Desk (LAD) by the DOJ and the Women and Children Protection Units (WCPUs) by the MOH, and the Women Peace Centers (WPCs) in the Provinces of Lanao del Sur, Basilan, Sulu, Tawi-Tawi, Maguindanao, and the City of Cotabato.
-
-
-⁴¹ Article 12 of the UN International Covenant on Economic, Social, and Cultural Rights
-⁴² RA 7600, as amended by RA 10028, "Expanded Breastfeeding Promotion Act of 2009"
 
 Further, it is vital that these facilities and services must be gender, religious, and culturally sensitive to establish a safe space that ensures a physical and psychological security for the Bangsamoro women.
 
@@ -790,6 +816,10 @@ The Bangsamoro Government shall also support the conduct of Pre-Marriage Orienta
 
 **Section 102. Representation of Women in the Political and Public Sphere.** The Bangsamoro Government shall institute the following affirmative action mechanisms so that women can participate meaningfully in the formulation, implementation, and evaluation of policies, plans, and programs for national, regional, and local development.
 
+⁴³ Magna Carta of Women
+⁴⁴ Amended from Muslim Mindanao Act No. 280, Chapter 16, Section 86.
+⁴⁵ Taken from The Women Development Code of Davao City, City Ordinance No. 5004, "An Ordinance Providing for a Women's Development Code of Davao City, and for Other Purposes" 
+
 a) Empowerment within the Civil Service. – Within the next five (5) years from the approval of this code, the number of women in third (3rd) level positions in government shall be incrementally increased to achieve a fifty-fifty (50-50) gender balance;
 
 b) Development Councils and Planning Bodies. – To ensure the participation of women in all levels of development planning and program implementation, at least forty percent (40%) of membership of all development councils from the regional, provincial, city, municipal, and barangay levels shall be composed of women;
@@ -818,6 +848,9 @@ C. Every February 1 as World Hijab Day;
 D. Declaring 25 November to 12 December as the 18-Day Campaign to End Violence Against Women (VAW);
 E. Declaring the Last Monday of March of Every Year as Women with Disabilities Day.
 
+⁴⁶ Taken from Magna Carta of Women and Muslim Mindanao Act No. 280
+⁴⁷ Amended from Section 22 of Muslim Mindanao Act No. 280
+
 The conduct of critical consciousness raising activities relevant to the events by the MAOs of BARMM and LGUs shall also be encouraged. A report on the implementation of this Act shall be presented during these events.
 
 **Article 20**
@@ -843,6 +876,9 @@ The Bangsamoro Government shall actively promote and support initiatives that em
 
 **Section 109. Integrated Development Program for Indigenous Women.** The Bangsamoro Government shall develop a program which shall facilitate empowerment of the indigenous women. Active support for the preservation of the indigenous women’s knowledge of the environment shall be incorporated in the program.⁴⁸
 
+⁴⁸ Taken from RA 8371 and Section 24 of Muslim Mindanao Act No. 280
+⁴⁹ Taken from The Women Development Code of Davao City City Ordinance No. 5004, "An Ordinance Providing for a Women's Development Code of Davao City, and for Other Purposes"
+
 **Article 23**
 **Women and the Environment**
 
@@ -867,19 +903,11 @@ It shall likewise recognize the active role of women in the conservation, protec
 
 **Section 117. Collaboration for Sustainable Development Goals (SDGs).** The Bangsamoro Government shall foster strategic partnerships to support programs addressing the intersection of gender and sustainable development, in alignment with the SDGs. Knowledge exchange and best practice sharing shall be encouraged at regional and international forums.
 
-***
-
-⁴³ Magna Carta of Women
-⁴⁴ Amended from Muslim Mindanao Act No. 280, Chapter 16, Section 86.
-⁴⁵ Taken from The Women Development Code of Davao City, City Ordinance No. 5004, "An Ordinance Providing for a Women's Development Code of Davao City, and for Other Purposes"
-⁴⁶ Taken from Magna Carta of Women and Muslim Mindanao Act No. 280
-⁴⁷ Amended from Section 22 of Muslim Mindanao Act No. 280
-⁴⁸ Taken from RA 8371 and Section 24 of Muslim Mindanao Act No. 280
-⁴⁹ Taken from The Women Development Code of Davao City City Ordinance No. 5004, "An Ordinance Providing for a Women's Development Code of Davao City, and for Other Purposes"
-⁵⁰ Amended from Chapter 15, Section 85 of Muslim Mindanao Act No. 280
 
 **CHAPTER V**
 **INSTITUTIONAL ROLES AND MECHANISMS**
+
+⁵⁰ Amended from Chapter 15, Section 85 of Muslim Mindanao Act No. 280
 
 **ARTICLE 26**
 **Role of the Bangsamoro Government and its Ministries, Agencies, and Offices (MAOs)**
@@ -906,6 +934,8 @@ b. Development councils.
 
 c) Ensure active participation of local committees/councils in partnership with national/regional government agencies, academe, private sector and civil society organizations (CSOs) operating at the local level for effective gender mainstreaming;
 
+⁵¹ Republic Act No. 9054. AN ACT TO STRENGTHEN AND EXPAND THE ORGANIC ACT FOR THE AUTONOMOUS REGION IN MUSLIM MINDANAO, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6734, ENTITLED "AN ACT PROVIDING FOR THE AUTONOMOUS REGION IN MUSLIM MINDANAO," AS AMENDED. March 31, 2001, 
+
 d) Establish and/or strengthen their monitoring and evaluation systems to assess the effectiveness and efficiency of their gender mainstreaming efforts;⁵²
 
 **ARTICLE 26**
@@ -914,8 +944,11 @@ d) Establish and/or strengthen their monitoring and evaluation systems to assess
 **Section 121. Role of Bangsamoro Human Rights Commission as the Gender and Development Ombud.** The Bangsamoro Human Rights Commission (BHRC) as the Gender and Development Ombud shall:
 
 1. Monitor the compliance with this Code, in partnership with BWC and other concerned agencies within the BARMM;
+
 2. Establish guidelines and mechanisms that will facilitate access of women to legal remedies under this Code and related laws, and enhance the protection and promotion of the rights of women, especially marginalized women;
+
 3. Assist in the filing of cases against individuals, agencies, institutions or establishments that violate the provision of this Code; and
+
 4. Regularly submit to the Office of the President, Office of the Chief Minister, the Bangsamoro Transition Authority, and furnish the Bangsamoro Women Commission (BWC), an assessment report on the compliance of this Code.⁵³
 
 **Section 122. The Commission on Audit (COA).** The Commission on Audit (COA), with the assistance of the Bangsamoro Women Commission (BWC), shall conduct an annual audit of Gender and Development (GAD) funds. This audit aims to assess the prudent utilization of the GAD budget and the efficiency and effectiveness of interventions aimed at addressing gender issues. The purpose is to ensure these measures contribute to the fulfillment of the objectives of the Bangsamoro’s commitments, plans, and policies on GAD, gender equality, and women’s empowerment.
@@ -926,6 +959,10 @@ The COA shall furnish the BWC with any assessment reports and audit findings on 
 **Role of LGUs and the Local Women Development Councils**
 
 **Section 123. Role of the Local Government Units.** The LGUs in the Bangsamoro Autonomous Region shall provide political and institutional support, through mainstreaming of gender and development, in the preservation and enrichment of culture, promotion of health and safety, enhancement of the right of the people to a balanced ecology, encouragement of the development of appropriate and self-reliant scientific and technological capabilities, improvement of public morals, enhance economic prosperity and social justice, promote full employment, maintain peace and order and preserve the comfort and convenience among its inhabitants. Local officials and employees shall be responsible for promoting and ensuring that gender and development are mainstreamed in local policymaking, planning, programming, budgeting, implementation, monitoring and evaluation.
+
+⁵² Sustainability of Women Economic Empowerment (Policy Research Volume 2), 2023
+⁵³ Section 7, Article IX of Republic Act No. 11054 (the Bangsamoro Organic Law)
+⁵⁴ Philippine Commission on Women. "Gender and Development Audit Guide., Commission on Audit. COA Circular No. 2021-008: Guidelines for the Audit of Gender and Development (GAD) Funds, Commission on Audit. "Gender and Development Audit Performance Summary Reports." 
 
 **ARTICLE 28**
 **GAD Focal Point System**
@@ -945,6 +982,8 @@ The COA shall furnish the BWC with any assessment reports and audit findings on 
 
 1. Ensure that all laws protecting women and children are appropriately enforced and undertake proactive measures to prevent and address the recruitment of children and young people into extremist groups;
 
+⁵⁵ Magna Carta of Women
+ 
 2. Ensure that WCPDs, Family and Juvenile Gender and Development – Regional Community Affairs Development Division (FJGAD-RCADD), and Office of Army Gender and Development (OAGAD) are fully functional;
 
 3. Uphold gender representation in the recruitment process, at the very least, by complying with a relevant quota of women recruits as defined by law;
@@ -970,6 +1009,12 @@ The COA shall furnish the BWC with any assessment reports and audit findings on 
 **Section 129. Role of Peoples, Non-Governmental and Civil Society Organizations.** The Bangsamoro Government and local government units (LGUs) shall promote the establishment of peoples’ non-governmental and civil society organizations to serve as active partners for gender-responsive development.
 
 Such organizations shall carry-out the following:
+
+⁵⁶ UN Women – Asia-Pacific, "Championing a more peaceful, secure and gender-inclusive BARMM," https://asiapacific.unwomen.org.
+United Nations Development Programme, "Bangsamoro Women at the Helm of Peacebuilding and Community Resilience in BARMM," https://www.undp.org.
+United Nations Development Programme, "Bangsamoro Women Unveil Renewed Regional Action Plan for Women, Peace, and Security,"[date], https://www.undp.org.
+Philippine Information Agency, "BARMM government secures long-term plan for women empowerment, security," https://pia.gov.ph.
+Bangsamoro Government Official Website, "BWC launches Bangsamoro Regional Action Plan on Women, Peace, and Security," https://bangsamoro.gov.ph.
 
 1. Mobilization of grassroots communities, poor and marginalized peoples, particularly women, to assert and exercise their rights;
 
@@ -1005,6 +1050,14 @@ Such organizations shall carry-out the following:
 
 **Section 130. Role of the Private Sector.** The participation of the private sector shall be encouraged to drive economic growth, generate income by creating new jobs that may lead to sustained poverty reduction, awareness and advocacy campaigns, widened women’s participation in economic activities, and the promotion of religious and culturally-appropriate gender and development programs with the end-goal of achieving protection and promotion of women’s rights and empowerment.⁵⁸
 
+⁵⁷ UN Women – Headquarters, "Gender-Responsive Policies and Institutions," accessed [date], https://www.unwomen.org.
+UN Women – Europe and Central Asia, "Role of Civil Society in Gender Responsive Budgeting: Participation, Advocacy and Accountability," https://eca.unwomen.org.
+Human Rights Careers, "25 Organizations Fighting for Gender Equality," accessed [date], https://www.humanrightscareers.com.
+⁵⁸ UN Women – Headquarters, "How the private sector can help women’s empowerment and peace," accessed, https://www.unwomen.org.
+Bangsamoro Official Website, "Better collaboration between BARMM Gov't, private sector could drive regional development," https://bangsamoro.gov.ph.
+iBAN, "The Role of the Private Sector in Women's Economic Empowerment in Asia," accessed, https://www.inclusivebusiness.net.
+
+
 **Section 131. Role of the Traditional Leaders.** The Bangsamoro Government shall maintain a strong relationship with traditional leaders in the Bangsamoro Autonomous Region. As custodians and protectors of their own culture, customs and values, traditional leaders shall promote positive values within their own community and advocate respect for women and girls.
 
 The role of traditional leaders shall be as provided under Republic Act No. 11054, or the Organic Act for the Bangsamoro Autonomous Region in Muslim Mindanao, Republic Act No. 8371 or the Indigenous Peoples’ Rights Act of 1997, and Presidential Decree No. 1083 or the Code of Muslim Personal Laws.
@@ -1016,38 +1069,33 @@ The Madaris and public schools in the Bangsamoro Autonomous Region shall be stre
 **Section 133. Role of the Religious Sector.** The Bangsamoro Government and the local government units (LGUs) shall promote and ensure the active participation of the Bangsamoro Darul-Ifta’ of the Bangsamoro Government, jurisconsult and other recognized religious groups in the rendition of *fatwa* on contentious issues such as, but not limited to, the following:
 
 1. Gender justice in the context of Islam;
+
 2. Leadership and political rights of women;
+
 3. Gender equity in relation to women’s rights to inheritance and economic rights;
+
 4. Early and arranged marriages of persons below eighteen (18) years of age;
+
 5. Determination of appropriate marrying age for men and women;
+
 6. Forced marriages and proxy marriages;
+
 7. Pre-marriage counseling as requirement for solemnization of marriage;
+
 8. Rights to alimony and support to dependent wife and children;
+
 9. Women’s rights to pursue and practice profession;
+
 10. Abuses in the practice of polygyny and their impact on women and children; and
+
 11. Violence against women and children
 
-**ARTICLE 30**
+**ARTICLE 30** 
 **Mechanisms for Implementation and Coordination**
 
-***
+3BL Media, "The Role of the Private Sector in Women's Economic Empowerment," https://www.3blmedia.com.
 
-⁵¹ Republic Act No. 9054. AN ACT TO STRENGTHEN AND EXPAND THE ORGANIC ACT FOR THE AUTONOMOUS REGION IN MUSLIM MINDANAO, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6734, ENTITLED "AN ACT PROVIDING FOR THE AUTONOMOUS REGION IN MUSLIM MINDANAO," AS AMENDED. March 31, 2001,
-⁵² Sustainability of Women Economic Empowerment (Policy Research Volume 2), 2023
-⁵³ Section 7, Article IX of Republic Act No. 11054 (the Bangsamoro Organic Law)
-⁵⁴ Philippine Commission on Women. "Gender and Development Audit Guide., Commission on Audit. COA Circular No. 2021-008: Guidelines for the Audit of Gender and Development (GAD) Funds, Commission on Audit. "Gender and Development Audit Performance Summary Reports."
-⁵⁵ Magna Carta of Women
-⁵⁶ UN Women – Asia-Pacific, "Championing a more peaceful, secure and gender-inclusive BARMM," https://asiapacific.unwomen.org.
-United Nations Development Programme, "Bangsamoro Women at the Helm of Peacebuilding and Community Resilience in BARMM," https://www.undp.org.
-United Nations Development Programme, "Bangsamoro Women Unveil Renewed Regional Action Plan for Women, Peace, and Security,"[date], https://www.undp.org.
-Philippine Information Agency, "BARMM government secures long-term plan for women empowerment, security," https://pia.gov.ph.
-Bangsamoro Government Official Website, "BWC launches Bangsamoro Regional Action Plan on Women, Peace, and Security," https://bangsamoro.gov.ph.
-⁵⁷ UN Women – Headquarters, "Gender-Responsive Policies and Institutions," accessed [date], https://www.unwomen.org.
-UN Women – Europe and Central Asia, "Role of Civil Society in Gender Responsive Budgeting: Participation, Advocacy and Accountability," https://eca.unwomen.org.
-Human Rights Careers, "25 Organizations Fighting for Gender Equality," accessed [date], https://www.humanrightscareers.com.
-⁵⁸ UN Women – Headquarters, "How the private sector can help women’s empowerment and peace," accessed, https://www.unwomen.org.
-Bangsamoro Official Website, "Better collaboration between BARMM Gov't, private sector could drive regional development," https://bangsamoro.gov.ph.
-iBAN, "The Role of the Private Sector in Women's Economic Empowerment in Asia," accessed, https://www.inclusivebusiness.net.
+Women's Empowerment Principles (WEPs), "The private sector's role in women's economic empowerment," accessed, https://www.empowerwomen.org.
 
 **Section 134. Creation of GAD Offices in the Ministries, Agencies, and Offices (MAOs).** All Ministries, Offices, and Agencies (MAOs) shall create a GAD Office to be used by the Gender and Development Focal Point System (GFPS) Secretariat to ensure the integration of gender equality and women’s empowerment principles into their policies, programs, and projects. This includes providing adequate facilities for the GFPS Secretariat.
 
@@ -1068,6 +1116,8 @@ The Bangsamoro Government, through the Bangsamoro Women Commission (BWC) in coor
 All concerned ministries and agencies shall prepare their GAD Plan and Budget using the reporting format and as provided under the rules and regulations prescribed by the Bangsamoro Women Commission. At least five to thirty percent (5%-30%) of overseas development assistance (ODA) and at least five percent (5%) of the total annual budget of each ministry, office and LGU shall be programmed for Gender and Development.
 
 **Section 139. Mainstreaming of Gender and Development (GAD) Programs in the Local Development Plan.** The Bangsamoro Government through Bangsamoro Women Commission (BWC) shall issue a circular directing ministries and offices as well as LGUs to integrate gender and development programs in their year-round local development plans and activities.
+
+⁵⁹ Recommendation from BWC 2022 Policy Research entitled "Policy Issue on Development of Gender Disaggregated Data on Employment, Education, and Governance"
 
 The Bangsamoro Government shall ensure that ministries, offices and local government units take full responsibility towards the effective and efficient mainstreaming of GAD in their respective plans and budget.
 
@@ -1090,14 +1140,23 @@ Further, the Chief Minister, through the BWC, shall report regularly to the Bang
 **Section 146. Bangsamoro Women Commission.** The BWC shall be the primary policymaking and coordinating body for women and gender equality concerns in the BARMM Region. It shall be the principal women development agency of the BARMM that shall promote women’s economic empowerment, protect and advance women’s rights through strengthened services and justice delivery system, promote gender-responsive governance through promotion of equal representation of women in decision-making bodies and promote gender and development programs. Notably, its function shall be, but not limited to, the following:
 
 1. Facilitate the monitoring of the effective implementation of this Code;
+
 2. Review and update this Code to amend or revise the same;
+
 3. Collect and consolidate reports on women and Gender and Development concerns as well as make recommendations thereon;
+
 4. Coordinate with law enforcement agencies for the protection of women and their children and provision of free legal assistance, security and safety of gender-based violence survivors;
+
 5. Serve as a repository of data on gender and development for the formulation of programs, projects, proposals and strategies;
+
 6. Spearhead the enhancement, updating of and provision of technical assistance relative to existing guidelines and tools on gender-responsive planning and budgeting, gender analysis, GAD Code formulation, gender mainstreaming, gender audit and/or gender assessment at the local level in partnership with MILG, MFBM, BPDA, civil society organizations, academe and other stakeholders;
+
 7. Take the lead in advocating the use of the HGDG for the program and/or project design, development, management, implementation, monitoring and evaluation, in partnership with BPDA and MILG;
+
 8. Lead the development of a monitoring and evaluation system to determine progress and results of implementing the MCW in partnership with MILG, BPDA, MFBM and concerned agencies;
+
 9. Provide technical assistance and as necessary, support the capacity building of MILG, BPDA and MFBM to enable them to perform their roles as stipulated in this Code; and
+
 10. Develop a mentorship program or workshops to guide and support ministries, offices, and agencies, and local government units in the GAD fund utilization and documentation and reporting processes for such purpose.
 
 **Section 147. Implementing Rules and Regulations.** Within one hundred eighty (180) days following the effectivity of this Code, the Bangsamoro Gender and Development Committee (BGADC), chaired by the Bangsamoro Women Commission, and in consultation with the concerned regional line agencies and LGUs shall have completed the formulation of the implementing rules and regulations necessary for the effective implementation of this Code.
@@ -1187,6 +1246,8 @@ Filing a complaint under this Code shall not preclude the offended party from pu
 
 **Section 155. Suppletory Clause.** On matters not provided for in this Code, any existing applicable laws, executive orders, rules and regulations shall apply suppletorily.
 
+⁶⁰ H.B.G. Karon, A. Alfonso, L. Enriquez, N. Lakim, M.E. Pabillan, "Breaking Barriers: Advancing Gender Justice/Equality through Effective Gender and Development (GAD) Fund Utilization in the BARMM, 2023.
+
 **Section 156. Effectivity Clause.** This Code shall take effect after fifteen (15) days following the completion of its publication in any newspaper of regional circulation.⁶⁰
 
 Author:
@@ -1195,6 +1256,5 @@ Author:
 **AHOD B. EBRAHIM**
 Chief Minister
 
-⁵⁹ Recommendation from BWC 2022 Policy Research entitled "Policy Issue on Development of Gender Disaggregated Data on Employment, Education, and Governance"
-⁶⁰ H.B.G. Karon, A. Alfonso, L. Enriquez, N. Lakim, M.E. Pabillan, "Breaking Barriers: Advancing Gender Justice/Equality through Effective Gender and Development (GAD) Fund Utilization in the BARMM, 2023.
+
 
