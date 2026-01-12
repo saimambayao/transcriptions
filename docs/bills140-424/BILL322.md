@@ -55,9 +55,6 @@ In consideration of the foregoing, and as the principal authors of this bill, we
 (Sgd.)
 **MP Rasul E. Ismael**
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT ESTABLISHING A COMPREHENSIVE BIKE ROUTE NETWORK...**
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
