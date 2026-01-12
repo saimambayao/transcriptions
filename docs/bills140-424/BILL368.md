@@ -23,6 +23,19 @@ To support them effectively, the government must invest more in infrastructure, 
 **ABRAR J. HATAMAN**
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **368**
+
+Principal Author: MP Abrar Jainuddin Hataman
+
+
 **AN ACT GRANTING SPECIAL HARDSHIP ALLOWANCE FOR PUBLIC SCHOOL TEACHERS IN THE ISLAND PROVINCES OF BASILAN, SULU, AND TAWI-TAWI AND APPROPRIATING FUNDS THEREOF**
 
 **Section 1. Declaration of Policy.**
