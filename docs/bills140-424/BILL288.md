@@ -32,6 +32,21 @@ With this in mind, the passage of this legislative measure is earnestly sought.
 **MP DON MUSTAPHA A. LOONG, CE, JD, MPSA, MPM, CESE**
 Member of Parliament – Bangsamoro Transition Authority
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 288**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, MPM, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Jr., Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasul E. Ismael, Benjamin T. Loong, Atty. Jose I. Lorena, Hatimil E. Hassan, Eddie M. Alih, Michael Midtimbang, Mohammad Kelie U. Antao, Tawakal B. Midtimbang, Nureedha I. Misuari, Dan S. Asnawie, Abdulaziz M. Amenoden, Denmartin A. Kahalan, Dr. Kadil M. Sinolinding, Jr., Dr. Marjanie S. Macasalong, Ali Montaha D. Babao, Abdulwahab M. Pak, Ramon A. Piang, Sr., Ali B. Solaiman, Abdulkarim T. Misuari, Nabila Margarita P. Pangandaman, Mudjib C. Abu, Amroussi A. Macatanong, Basit S. Abbas, Atty. Nabil A. Tan, Hamid U. Malik, Bai Maleiha B. Candao, Tarhata M. Maglangit, and Jaafar Apollo Mikhail L. Matalam**
 
 **AN ACT PROVIDING RECOGNITION AND INCENTIVES TO BANGSAMORO AUTHORS WHO HAVE WRITTEN AND PUBLISHED BOOKS OF EXCELLENCE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
