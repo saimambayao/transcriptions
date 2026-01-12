@@ -34,6 +34,19 @@ In view of the foregoing, the passage of this Bill is earnestly sought.
 Member of Parliament
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **363**
+
+Principal Author: **MP Laisa Masuhud Alamia**
+
+
 **AN ACT ESTABLISHING THE BANGSAMORO SHARI’AH JUDICIAL AND LEGAL ACADEMY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FOR ITS GOVERNANCE AND SUPPORT, AND FOR OTHER PURPOSES**
 
 *Be it enacted by the Bangsamoro Transition Authority in session assembled:*
