@@ -54,6 +54,25 @@ Member of Parliament – Bangsamoro Transition Authority
 **HON. MICHAEL E. MIDTIMBANG**
 Member of Parliament – Bangsamoro Transition Authority
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+BTA PARLIAMENT
+Third Regular Session
+
+Parliament Bill No. **323**
+
+Introduced by
+
+**Members of Parliament JAMEL B. MACACUA and MICHAEL E. MIDTIMBANG**
+
+Co-Authors:
+
+**Members of Parliament Basit S. Abbas, Mudjib C. Abu, Ibrahim D. Ali, Abdulaziz M. Amenodin, Mohammad Kelei U Antao, Hatimil E. Hassan, Rasul E. Ismael, Don Mustapha A. Loong, Atty. Jose I. Lorena, Tarhata T. Maglangit, Nurredha I. Misuari, and Nabila Margarita P. Pangandaman**
+
 **AN ACT ESTABLISHING A COMPREHENSIVE FRAMEWORK FOR ACKNOWLEDGING AND REWARDING OUTSTANDING PERFORMANCE AMONG BANGSAMORO GOVERNMENT EMPLOYEES, THROUGH A POINTS-BASED SYSTEM, AND PROVIDING GUIDELINES FOR THE CONVERSION OF EARNED POINTS INTO LEAVE BENEFITS**
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
