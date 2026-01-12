@@ -23,6 +23,8 @@ The right to education is a universally recognized human right, as articulated i
 
 The 1987 Philippine Constitution, under Section 1, Article XIV, mandates the State to protect and promote the right of all citizens to quality education at all levels and to take appropriate steps to make education accessible to all.
 
+¹ This bill is patterned from the entry of Marinelle Diocolano Veruen in the 2024 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "An Act Mandating the Integration of Bangsamoro History in the Secondary Education Curriculum of all Public and Private Education Institutions in the BARMM and Appropriating Funds Therefor".
+
 This national commitment is echoed and expanded within the Bangsamoro Organic Law (Republic Act No. 11054). Section 13, Article IX affirms the responsibility of the Bangsamoro Government to provide, maintain, and ensure the delivery of quality education and other essential services to the people of the region.
 
 Further, Section 16, Article IX of the BOL underscores the Bangsamoro Government’s duty to establish, maintain, and support a complete and integrated system of quality education—one that is responsive to the ideals, values, and aspirations of the Bangsamoro people and aligned with national education standards.
@@ -39,9 +41,6 @@ In view of the foregoing, the immediate passage of this bill is earnestly sought
 
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
-
-
-¹ This bill is patterned from the entry of Marinelle Diocolano Veruen in the 2024 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "An Act Mandating the Integration of Bangsamoro History in the Secondary Education Curriculum of all Public and Private Education Institutions in the BARMM and Appropriating Funds Therefor".
 
 
 Republic of the Philippines
