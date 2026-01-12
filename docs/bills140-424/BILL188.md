@@ -48,6 +48,26 @@ Author
 ³ Extracted from the Explanatory Note of Senate Bill No. 969 by Senator Grace Poe.
 ⁴ https://car.dole.gov.ph/news/ofw-ang-bagong-bayani/
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Second Regular Session
+
+**BTA PARLIAMENT**
+**BTA Parliament Bill No. 188**
+
+Introduced by
+**MP Engr. Baintan Adil-Ampatuan, MNSA**
+
+Co-authors
+**MP Amilbahar S. Mawallil, MPSA; MP Atty. Laisa M. Alamia, MNSA; MP Atty. Suharto M. Ambolodto, MNSA; MP Don Mustapha A. Loong, MPSA; MP Atty. Rasol Y. Mitmug, Jr., CESE; and MP Rasul E. Ismael**
+
+**AN ACT**
+**CREATING THE MINISTRY OF BANGSAMORO MIGRANT WORKERS, ESTABLISHING ITS POWERS AND JURISDICTION, AMENDING SECTIONS 14 TO 17, TITLE IX OF THE BANGSAMORO AUTONOMY ACT NO. 13, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+**BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
 **ARTICLE I**
 **GENERAL PROVISIONS**
