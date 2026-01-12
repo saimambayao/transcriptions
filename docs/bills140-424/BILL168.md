@@ -48,6 +48,20 @@ With the foregoing conclusive anticipations of the proposed measure, the Bangsam
 **MOHAMMAD KELIE U. ANTAO**
 Member of Parliament
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+BANGSAMORO TRANSITION AUTHORITY
+Cotabato City
+
+___ Regular Session
+BTA Bill No. **168**
+
+Principal Author:
+**MP MOHAMMAD KELIE U. ANTAO**
+
+Co-Authors:
+**MP MOHAGHER M. IQBAL; MP LANANG T. ALI, JR.; MP SUWAIB L. ORANON; MP BASSIR D. UTTO; MP TAWAKAL B. MIDTIMBANG AND MP MUDJIB C. ABU**
+
 **AN ACT ESTABLISHING THE SPECIAL MADRASAH FUND TO PROVIDE SUSTAINABLE FINANCIAL SURGES FOR THE REINVENTION, PILOT TESTING AND IMPLEMENTATION OF QUALITY AND COMPETITIVE BALANCED BASIC MADRASAH EDUCATION CURRICULA IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
 
 Be it enacted by the Bangsamoro Parliament assembled:
