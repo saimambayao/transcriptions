@@ -30,6 +30,23 @@ In view of the foregoing, this representation earnestly seeks the enactment of t
 **DR. HASHEMI N. DILANGALEN**
 Member of the Parliament
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**Second Regular Session**
+
+**BTA PARLIAMENT**
+**BTA Bill No.: 198**
+
+**Introduced by:**
+**MPs Hashemi N. Dilangalen, MD, Atty. Mary Ann M. Arnado, Suharto S. Esmael, and Michael E. Midtimbang**
+
+**Co-authored by:**
+**MPs Amilbahar S. Mawallil, Hamid U. Malik, Nabil A. Tan, Atty. John Anthony L. Lim, Atty. Sittie Fahanie S. Uy-Oyod, Mohammad Kelie Antao, Hatimil E. Hassan, Rasul E. Ismael, Tawakal B. Midtimbang, Bassir D. Utto, Mudjib C. Abu, Suwaib L. Oranon, Khalid M. Hadji Abdullah, Abdulaziz M. Amenoden, and Albakil D. Jikiri**
+
+**AN ACT GRANTING CASH INCENTIVES TO BANGSAMORO TOPNOTCHERS OF BAR AND BOARD EXAMINATIONS AND WINNERS OF INTERNATIONAL SPORTS, SKILLS AND ACADEMIC COMPETITIONS, APPROPRIATING FUNDS THEREFOR**
 
 **Be it enacted by the Bangsamoro Parliament in session:**
 
