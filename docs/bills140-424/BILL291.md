@@ -131,10 +131,7 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
-¹ This bill is patterned from the entry of Nor-Alejah P. Anarig in the 2023 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "*An Act Requiring the Ministry of Basic, Higher, and Technical Education (MBHTE) to Include Basic Knowledge on Agriculture and Farming as a Subject in all Public and Private Schools in the Bangsamoro Autonomous Region and Appropriating Funds Therefor.*"
+
 ² https://www.bworldonline.com/editors-picks/2019/05/07/229745/bangsamoro-touted-as-major-source-of-agricultural-growth-da
 ³ Ibid.
 ⁴ https://reliefweb.int/report/philippines/food-security-and-nutrition-roadmap-bangsamoro-autonomous-region-muslim-mindanao
-⁵ This bill is patterned from the entry of Nor-Alejah P. Anarig in the 2023 Bill and Resolution Drafting Contest conducted by the Offices of MP Engr. Baintan Adil-Ampatuan, MNSA, MP Don Mustapha A. Loong, CESE, MP. Rasul E. Ismael, EMDRCM, and MP Atty. Rasol Mitmug, Jr., CESE, entitled "*An Act Requiring the Ministry of Basic, Higher, and Technical Education (MBHTE) to Include Basic Knowledge on Agriculture and Farming as a Subject in all Public and Private Schools in the Bangsamoro Autonomous Region and Appropriating Funds Therefor.*"
-

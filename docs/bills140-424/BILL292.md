@@ -134,13 +134,3 @@ g. Such other related functions as directed by the Chief Minister.
 
 ***Approved,***
 
-
-¹ Social Justice. Section 7, Article IV, RA 11054
-² Rehabilitation and Development. Section 1, Article XIV, RA 11054
-³ Protection of Women. Section 12, Article IX, RA 11054
-⁴ 1996 Final Peace Agreement between the Government and the MNLF and the 2014 Comprehensive Agreement on the Bangsamoro by the Government and the MILF
-⁵ Section 12, Article VI, RA 11054 provides for “Assistance to Other Bangsamoro Communities.”
-⁶ The Comprehensive Agreement on the Bangsamoro (CAB), the peace agreement that became the basis of the Bangsamoro Organic Law that created BARMM, was signed on March 27, 2014.
-⁷ Justice is included in Section 4(m) because the former women combatants may have experienced or witnessed human rights violations, abuses, or injustices, and they may need legal assistance, protection, and redress.
-⁸ The Peace, Security and Reconciliation Office (PSRO) under the Office of the Chief Minister created by virtue of Executive Order No. 08, Series of 2022, issued by the Chief Minister on October 17, 2022, is the “primary agency to support and serve the transitioning combatants.”
-
