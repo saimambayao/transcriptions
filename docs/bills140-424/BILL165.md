@@ -133,9 +133,6 @@ A short statement of the fiscal impact as assessed by the MFBM shall be included
 
 **Section 10. Initiatives Coordinator.** — There shall be created within the Bangsamoro Attorney General's Office a unit to be known as the Initiatives Coordination Office, to coordinate all initiative measures as provided for in this Act, as well as to provide the necessary guidance and support to proponents in the procedure provided for under this law.
 
-Chunk Complete. Ready for next group of provisions starting at Section 11.
-
-***
 
 **Section 11. Circulating the Petition and Gathering Signatures.** - Proponents shall have one hundred and eighty (180) days from receipt of the circulating title and summary, mentioned in Section 9 paragraph b hereof, to collect the required number of signatures.
 
