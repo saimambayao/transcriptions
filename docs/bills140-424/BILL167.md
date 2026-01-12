@@ -140,7 +140,3 @@ Author
 **MP ATTY. RASOL Y. MITMUG, JR.**
 Author
 
-____________________
-⁴ Section 16, Article IX of R.A. 11054 or the Bangsamoro Organic Law
-⁵ Bangsamoro Education Code of 2021
-
