@@ -36,6 +36,23 @@ In view of the foregoing, approval of this bill is earnestly sought.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **184**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, ATTY. RASOL Y. MITMUG, JR., ATTY. SITTIE FAHANIE S. UY-OYOD, HASHEMI N. DILANGALEN, MD., HAMID U. MALIK**
+Co-authored by
+**MPs ATTY. LAISA M. ALAMIA, ENGR. BAINTAN A. AMPATUAN, ENGR. DON MUSTAPHA A. LOONG, ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
+
+**AN ACT**
+**PROMOTING AGRICULTURAL MICROFINANCE IN THE BANGSAMORO AUTONOMOUS REGION, PROVIDING FOR THE ESTABLISHMENT OF A REGIONAL AGRICULTURAL MICROFINANCE PROGRAM, AND FOR OTHER PURPOSES**
 
 **BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
