@@ -31,6 +31,19 @@ Principal Author
 ²Section 22, RA 11054
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Private Member Bill No. **366**
+
+Principal Author: MP Abrar Jainuddin Hataman
+
+
 **AN ACT PROVIDING FOR HEALTH MAINTENANCE ORGANIZATION (HMO) BENEFITS TO ALL EMPLOYEES OF THE BANGSAMORO GOVERNMENT, CREATING A BARMM HEALTH BENEFIT PROGRAM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
 **SECTION 1. Title.**
