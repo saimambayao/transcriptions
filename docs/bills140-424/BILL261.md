@@ -32,6 +32,22 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 261**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, HASHEMI N. DILANGALEN,
+HAMID U. MALIK, RASOL Y. MITMUG, JR.**
+Co-authored by
+**MPs LAISA M. ALAMIA, BAINTAN A. AMPATUAN,
+DON MUSTAPHA A. LOONG, SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
 
 **AN ACT**
 **DEVELOPING AND PROMOTING THE BANGSAMORO TOURISM, ESTABLISHING THE BANGSAMORO TOURISM PROMOTION BOARD FOR THE PURPOSE AND APPROPRIATING FUNDS THEREFOR**
