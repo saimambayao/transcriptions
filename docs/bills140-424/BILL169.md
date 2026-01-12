@@ -101,9 +101,6 @@ Specifically, this Act articulates the creation of the Bangsamoro Investigative 
 
 (b) Gathering information needed to design coordinated programs and actions that consistently impart tactical and strategic advantage to the Office of the Chief Minister specifically in the Office’s administrative concerns for Moral Governance, development justice and security of the Bangsamoro region.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 5. Powers and Functions.**
-
-***
 
 **Section 5. Powers and Functions.** – In allusion to Section 4 hereof, the Agency shall perform the following powers and functions, preferably in coordination and collaboration with other right public and private persons or offices:
 
