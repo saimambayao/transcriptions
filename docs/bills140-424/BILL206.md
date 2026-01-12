@@ -40,6 +40,21 @@ Hence, this representation earnestly sought the passage of this bill.
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **206**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Jaafar Apollo Mikhail L. Matalam, Michael E. Midtimbang, Hatimil E. Hassan, Tawakal B. Midtimbang, Albakil D. Jikiri, Abdulaziz M. Amenoden, Dan S. Asnawie, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Atty. Ishak V. Mastura, Nabila Margarita P. Pangandaman, and Denmartin A. Kahalan**
 
 **AN ACT PROVIDING FOR THE MAINTENANCE OF LOCAL ROADS IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO AND FOR OTHER PURPOSES**
 
