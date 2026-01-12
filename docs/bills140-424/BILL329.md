@@ -27,6 +27,18 @@ The Bangsamoro Government should pursue PPP projects consistent with its infrast
 
 The legal basis of the proposed bill are the following: (a) *Section 20, Article X of the 1987 Constitution* provides that the organic act of autonomous regions shall provide for legislative powers over, among others, regional urban and rural planning development and such other matters as may be authorized by law for the promotion of the general welfare of the people of the region; (b) *Section 2, Article V of Republic Act (RA) No. 11054* entitled “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao” empowers the Bangsamoro Government to exercise authority over the following matters, among others, public works and infrastructure; (c) *Section 5, Article VII of RA No. 11054* empowers the Parliament to enact laws to regulate the grant of regional concessions and to promote, protect and ensure the general welfare of the Bangsamoro people and other inhabitants in the Bangsamoro Autonomous Region. **NOW,** in consideration of the above-cited laws, and with the blessings of the Almighty Allah Sub’hanahu Wa Taala, the Bangsamoro people by the act of the Bangsamoro Parliament wish to ordain and promulgate the following act.
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**3rd Regular Session**
+**BTA Bill No. 329**
+
+Authors:
+**MP MOHAMMAD KELIE U. ANTAO, AL-HAJ; MP MOHAGHER M. IQBAL; MP LANANG T. ALI, JR.; MP SUWAIB L. ORANON; MP MUJIB C. ABU; MP TAWAKAL B. MIDTIMBANG; MP SUHARTO M. AMBOLODTO; MP BASSIR D. UTTO; MP AIDA M. SILONGAN AND MP BAINTAN A. AMPATUAN**
+
 **AN ACT AUTHORIZING AND PROMOTING PUBLIC-PRIVATE PARTNERSHIPS (PPPs) IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), ESTABLISHING THE REQUIREMENTS, STANDARDS, AND PROCEDURES THEREFOR, AND FOR OTHER PURPOSES**
 
 **Be it enacted by the Bangsamoro Parliament in session assembled:**
