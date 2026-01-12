@@ -27,6 +27,22 @@ Pursuant to Section 22, Article IX of Republic Act No. 11054, otherwise known as
 
 In light of the foregoing, approval of this bill is intently sought.
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Bill No. **264**
+
+Authored by **MP HAMID U. MALIK, MP NURREDHA I. MISUARI, DEPUTY SPEAKER ABDULAKARIM T. MISUARI, MP TARHATA M. MAGLANGIT, MP AMILBAHAR S. MAWALIL, MP ATTY. RASOL Y. MITMOG, MP HASHEMI N. DILANGALEN, MP ALBAKIL D. JIKIRI, MP ROMEO K. SEMA, MP MUSLIMIN A. JAKILAN, MP KADIL M. SINOLINDING, MP ADZFAR H. USMAN, MP DENMARTIN A. KAHALAN, MP ATTY. RANDOLPH C. PARCASIO, MP. ABDULAZIS M. AMENODEN**
+
+**AN ACT**
+**STANDARDIZING THE BED CAPACITY OF THE SIASI DISTRICT HOSPITAL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU FROM ITS PRESENT OPERATIONAL TWENTY-FIVE (25) BEDS TO FITY (50) BEDS AND APPROPRIATING FUNDS THEREFOR**
+
 Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:
 
 **SECTION 1. Short Title.** - This Act shall be known as the “Siasi District Hospital Standardization Act of 2023.”
