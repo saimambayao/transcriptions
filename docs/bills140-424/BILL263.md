@@ -1,3 +1,11 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+____ Regular Session
+
 **EXPLANATORY NOTE**
 
 **BTA BILL NO. 263**
@@ -7,15 +15,41 @@ The proposed Bangsamoro Electrification Administration Act of 2023 serves as a c
 
 For an extended period, the people of BARMM have endured the crippling effects of inadequate and unreliable electricity access. This unremitting instability has exacted a heavy toll, affecting every facet of daily life, imposing barriers to educational opportunities, impeding access to essential healthcare services, and stifling the potential for robust economic growth. The undeniable and pressing truth is that the imperative to address these issues comprehensively and expeditiously cannot be overstated.
 
-The legislative initiative before us is not merely a response to a local issue; it draws inspiration from the historical success of rural electrification initiatives at the national level in the Philippines. It aspires to replicate these successes within the specific jurisdiction of the BARMM. The Act, by empowering the Bangsamoro Electrification Administration (BEA) as a Government-Owned or -Controlled Corporation (GOCC), equips the region with the necessary tools and resources to promote and facilitate rural electrification, with a particular emphasis on underserved areas.
+The legislative initiative before us is not merely a response to a local issue; it draws inspiration from the historical success of rural electrification initiatives at the national level in the Philippines. It aspires to replicate these successes within the specific jurisdiction of the BARMM. The Act, by empowering the Bangsamoro Electrification Administration (BEA) as a Government-Owned or - Controlled Corporation (GOCC), equips the region with the necessary tools and resources to promote and facilitate rural electrification, with a particular emphasis on underserved areas.
 
 It is crucial to emphasize that rural electrification is not a mere aspiration but a fundamental necessity for the advancement of the BARMM. The region envisions fostering economic growth, improving living standards, and creating an environment conducive to investments and development. A stable and reliable power supply is not just a cornerstone of this vision; it is the very foundation upon which the BARMM can build a brighter, more prosperous, and electrified future.
 
 Given the undeniable urgency and the transformative potential of this legislation, we strongly urge the approval of this bill. The necessity to improve rural electrification in BARMM cannot be delayed any further.
 
+(Sgd.)
 **JAAFAR APOLLO MIKHAIL L. MATALAM**
 Member of Parliament
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY PARLIAMENT**
+____ Regular Session
+
+**BTA BILL NO. 263**
+(Private Member Bill)
+
+Introduced by:
+
+MP JAAFAR APOLLO MIKHAIL L. MATALAM
+MP EDUARD UY GUERRA, ARCH’T.
+
+Co-authored by:
+
+MP HATIMIL E. HASSAN, MP TAWAKAL B. MIDTIMBANG,
+MP ATTY. SITTIE FAHANIE UY-OYOD, MPA, MP BASSIR D. UTTO,
+MP DR. SUSANA S. ANAYATIN, MP SUHARTO AMBOLODTO
+MP ENGR. BAINTAN ADIL AMPATUAN, MP ABDULKARIM T. MISUARI, MP MARJANIE S. MACASALONG, MP DENMARTIN A. KAHALAN,
+MP BASIT S. ABBAS, MP RASUL E. ISMAEL, MP DAN S. ASNAWIE
+MP DR. KADIL M. SINOLINDING, JR., MP TARHATA M. MAGLANGIT,
 
 **AN ACT**
 **TO RECOGNIZE, PROTECT, PROMOTE AND STRENGTHEN THE BANGSAMORO RIGHTS TO RURAL ELECTRIFICATION, CREATING A BANGSAMORO ELECTRIFICATION ADMINISTRATION (BEA), DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
@@ -31,13 +65,17 @@ Due to their non-profit nature, cooperative ethos, and the significant financial
 
 **Section 3. Definition of Terms. -**
 
-a.	“BEA” refers to the Bangsamoro Electrification Administration;
-b.	“Cooperative” shall mean a corporation organized under this Act or cooperative supplying or empowered to supply service in the Bangsamoro region;
-c.	“Public service entities” refers to either cooperative, any local government or other privately-owned public service entities in operation which supply electric service in the Bangsamoro region;
-d.	“Person” refers to any natural or juridical entity, the National Government or any political subdivision, agency or instrumentality thereof, for purposes of this Act;
-e.	“Service” refers to electric service, either at wholesale or retail, including but not limited to the furnishing of any auxiliary or related service;
-f.	“Step-in” refers to the authority or action of a regulatory or oversight body to take over the operations or management of an entity, such as an electric cooperative, under specific circumstances, often to ensure the continued provision of services or to address financial or operational issues.
+a. “BEA” refers to the Bangsamoro Electrification Administration;
 
+b. “Cooperative” shall mean a corporation organized under this Act or cooperative supplying or empowered to supply service in the Bangsamoro region;
+
+c. “Public service entities” refers to either cooperative, any local government or other privately-owned public service entities in operation which supply electric service in the Bangsamoro region;
+
+d. “Person” refers to any natural or juridical entity, the National Government or any political subdivision, agency or instrumentality thereof, for purposes of this Act;
+
+e. “Service” refers to electric service, either at wholesale or retail, including but not limited to the furnishing of any auxiliary or related service;
+
+f. “Step-in”refers to the authority or action of a regulatory or oversight body to take over the operations or management of an entity, such as an electric cooperative, under specific circumstances, often to ensure the continued provision of services or to address financial or operational issues.
 
 **ARTICLE II**
 **Establishment and Objectives**
@@ -49,7 +87,8 @@ The BEA shall have an initial term of fifty (50) years from the date of its esta
 
 **Section 5. Purposes.** The BEA is hereby created for the following purposes:
 
-5.1	To facilitate and ensure the total electrification of the Bangsamoro Region on an area coverage basis, aiming to promote equitable and sustainable development and enhance the quality of life for its inhabitants.
+5.1 To facilitate and ensure the total electrification of the Bangsamoro Region on an area coverage basis, aiming to promote equitable and sustainable development and enhance the quality of life for its inhabitants.
+
 5.2	To promote, encourage, and support public service entities engaged in supplying electric service, particularly electric cooperatives, in their diligent pursuit of the objective of total electrification in the Bangsamoro Region.
 5.3	To provide institutional, financial, and technical assistance to electric cooperatives, ensuring their economic and financial viability and enabling them to effectively contribute to the electrification goals of the Bangsamoro Region.
 5.4	To supervise and manage the operations of electric cooperatives within the BARMM, ensuring their compliance with established standards and governance practices.
