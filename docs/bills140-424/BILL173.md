@@ -57,9 +57,6 @@ Be it enacted by the Bangsamoro Parliament assembled:
 
 **SECTION 2. Declaration of Policy.** – It is the policy of the Bangsamoro Government that the Bangsamoro justice system shall be administered in accordance with the unique cultural and historical heritage of the Bangsamoro. To this end, a strengthened barangay justice system should be institutionalized considering the diverse and trans-cultural methods of settling disputes among the constituents of the Bangsamoro. This shall be achieved by augmenting the already existing mechanisms of the Revised Katarungang Pambarangay Law found in the Local Government Code of 1991 and the applicable provisions of the Bangsamoro Local Governance Code, in favor of creating new policies to support the operation of the Lupon as well as other aspects of the traditional modes of settling disputes.
 
-Chunk Complete. Ready for next group of provisions starting at **ARTICLE II**.
-
-***
 
 **ARTICLE II**
 **FEDERATION OF LUPONG TAGAPAMAYAPA**
