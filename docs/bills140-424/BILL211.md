@@ -34,6 +34,21 @@ Member of Parliament – Bangsamoro Transition Authority
 
 ¹ Expanded Data Analysis and Policy Research for National ICT Household Survey 2019, Philippine institute for development studies.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **211**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Benjamin T. Loong, Jaafar Apollo Mikhail L. Matalam, Abdulkarim T. Misuari, Atty. Jose I. Lorena, Abdulaziz M. Amenoden, Diamila D. Ramos, Adzfar H. Usman, Mohammad Kelie U. Antao, Eddie M. Alih, Tawakal B. Midtimbang, Mudjib C. Abu, Suwaib L. Oranon, Bassir D. Utto, Bai Maleiha B. Candao, and Michael E. Midtimbang**
 
 **AN ACT CREATING THE BUREAU OF INFORMATION AND COMMUNICATIONS TECHNOLOGY UNDER THE MINISTRY OF TRANSPORTATION AND COMMUNICATION**
 
