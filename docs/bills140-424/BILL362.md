@@ -88,12 +88,19 @@ The Committee shall be composed of representatives from the following:
 
 *   Bangsamoro Planning and Development Authority (BPDA);
 *   Ministry of Basic, Higher and Technical Education (MBHTE);
+
 *   Ministry of Indigenous Peoples’ Affairs (MIPA);
+
 *   Ministry of Science and Technology (MOST);
+
 *   Local Government Units (LGUs);
+
 *   State Universities and Colleges (SUCs);
+
 *   Civil society organizations (CSOs), people's organizations (POs), and faith-based groups;
+
 *   Media and youth sectors;
+
 *   Representatives of the decommissioned Moro Islamic Liberation Front (MILF) and Moro National Liberation Front (MNLF), selected through a joint process with the Joint Normalization Committee (JNC) and the Ministry of Public Order and Safety (MPOS).
 
 The specific roles, responsibilities, and decision-making processes of the Technical Steering Committee shall be defined in the Implementing Rules and Regulations (IRR) to be developed by MENRE, in consultation with relevant ministries and stakeholders.
