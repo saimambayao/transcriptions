@@ -25,8 +25,11 @@ Consistent with the Bangsamoro Government’s commitment to youth development, s
 **SECTION 3. Definition of Terms.**
 
 *   Sports - refer to all forms of physical activity which, through casual or organized participation, aim at expressing or improving physical fitness and mental well-being, forming social relationships, or obtaining results in competition at all levels.
+
 *   Athlete - a person who is proficient in sports and other forms of physical exercise.
+
 *   Bangsamoro Sports Institute (BSI) - A school, training center, and organization in the Bangsamoro Region that helps young people learn, develop, and improve their mental and physical skills through sports.
+
 *   Bangsamoro Sports Development Fund - refers to a special fund allocated by the Bangsamoro Government and sourced from annual appropriations, grants, or donations, intended solely for the planning, implementation, monitoring, and evaluation of sports development programs and related infrastructure projects within the Bangsamoro Autonomous Region. This Fund shall support grassroots sports, talent identification and training, capacity-building of sports personnel, procurement of equipment, and the maintenance and improvement of sports facilities.
 
 **SECTION 4. Basis.** – This Act is enacted pursuant to:
@@ -42,11 +45,17 @@ Consistent with the Bangsamoro Government’s commitment to youth development, s
 **SECTION 6. Objectives.** – The objectives of the BSI shall be:
 
 (a) To serve as the primary regional hub for sports training, education, and athlete development in BARMM;
+
 (b) To produce world-class athletes through scientific training, coaching, and sports research;
+
 (c) To provide training and certification programs for coaches, referees, and sports officials;
+
 (d) To serve as a venue for local, national, and international sports events;
+
 (e) To support peacebuilding and social inclusion through sports and physical activities across diverse communities in BARMM; and
+
 (f) To promote Islamic values, discipline, and character development through sports.
+
 (g) To coordinate with the Philippines Sports Institute of the Philippine Sports Commission for supporting Bangsamoro athletes competing internationally.
 
 **SECTION 7. Legal Mandate and Interagency Coordination.** - The Bangsamoro Sports Institute shall operate under the policy guidance and supervision of the Bangsamoro Sports Commission and shall coordinate with the Philippine Sports Commission, Department of Education, Commission on Higher Education, and other relevant national sports bodies to ensure conformity with national training, competitions, and accreditation standards.
