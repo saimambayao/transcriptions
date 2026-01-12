@@ -144,9 +144,6 @@ The Council shall perform the following functions:
 
 Within six (6) months after the approval of this Act, all barangay, city, municipal, and provincial local chief executives and the Chief Minister shall issue an executive order establishing the council and start implementing the provisions of this Act. The members shall not receive any remuneration for the performance of their duties.
 
-**Chunk Complete. Ready for next group of provisions starting at SECTION 7.**
-
-***
 
 **SECTION 7. Classification of Provincial, City, Municipal, and Barangay Roadways.** – For the purpose of delineating the scope of responsibility of each local government unit, roads are classified as follows:
 
