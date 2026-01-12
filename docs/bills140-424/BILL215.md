@@ -40,7 +40,14 @@ Member of Parliament – Bangsamoro Transition Authority
 
 **Parliament Bill No. 215**
 
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Benjamin T. Loong, Jaafar Apollo Mikhail L. Matalam, Abdulkarim T. Misuari, Atty. Jose I. Lorena, Abdulaziz M. Amenoden, Diamila D. Ramos, Adzfar H. Usman, Mohammad Kelie U. Antao, Eddie M. Alih, Tawakal B. Midtimbang, Mudjib C. Abu, Suwaib L. Oranon, Bassir D. Utto, Bai MaleIha B. Candao, Michael E. Midtimbang, Basit S. Abbas, Muslimin A. Jakilan, and Albakil D. Jikiri**
+
 **AN ACT ESTABLISHING INDIGENOUS PEOPLE’S COMMUNITY CENTERS IN THE BANGSAMORO REGION AND APPROPRIATING FUNDS THEREFOR**
+
 
 **BE IT ENACTED** by the Bangsamoro Transition Authority in Parliament assembled:
 
