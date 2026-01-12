@@ -45,6 +45,26 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 (Sgd.)
 **MP ATTY. RASOL Y. MITMUG, JR., CESE**
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 155**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, ATTY. RASOL Y. MITMUG, JR., ATTY. SITTIE FAHANIE S. UY-OYOD, HASHEMI N. DILANGALEN, MD., HAMID U. MALIK**
+Co-authored by
+**MPs ATTY. LAISA M. ALAMIA, ENGR. BAINTAN A. AMPATUAN, ENGR. DON MUSTAPHA A. LOONG, ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
+
+**AN ACT**
+**TO CREATE THE LAKE LANAO REHABILITATION AND DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
+*Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao assembled:* 
+
 **CHAPTER I**
 **General Provisions**
 
