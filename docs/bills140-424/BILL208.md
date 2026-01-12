@@ -36,6 +36,23 @@ Hence, to better provide due and proper recognition to our Bangsamoro athletes, 
 **HON. ENGR. DON MUSTAPHA A. LOONG, JD, MPSA, CESE**
 Member of the Parliament – Bangsamoro Transition Authority
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **208**
+
+Introduced by
+**MP Engr. Don Mustapha A. Loong, JD, MPSA, CESE**
+
+Co-authored by
+**MPs Atty. Laisa A. Alamia, Benjamin T. Loong, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Amilbahar S. Mawallil, Atty. Suharto M. Ambolodto, Rasol E. Ismael, Atty. John Anthony L. Lim, Jaafar Apollo Mikhail L. Matalam, Michael E. Midtimbang, Hatimil E. Hassan, Tawakal B. Midtimbang, Albakil D. Jikiri, Abdulaziz M. Amenoden, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Nabila Margarita P. Pangandaman, and Denmartin A. Kahalan**
+
+**AN ACT GRANTING CASH INCENTIVES TO BANGSAMORO ATHLETES IN NATIONAL AND INTERNATIONAL SPORTS COMPETITIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
 
 **BE IT ENACTED by the Bangsamoro Transition Authority in Parliament assembled:**
 
