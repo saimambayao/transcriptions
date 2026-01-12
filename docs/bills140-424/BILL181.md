@@ -30,7 +30,6 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
