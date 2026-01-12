@@ -96,9 +96,6 @@ Introduced by:
 
 >The MFBM is authorized to issue the necessary guidelines for the effective implementation of the cash budgeting system.”
 
-**Chunk Complete. Ready for next group of provisions starting at Section 5.**
-
-***
 
 **Section 5. Repealing Clause.** - All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
 
