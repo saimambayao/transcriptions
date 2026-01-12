@@ -44,6 +44,25 @@ Member of Parliament – Bangsamoro Transition Authority
 ¹ https://asianlegacylibrary.org/organization/mission/a-perspective-on-cultural-preservation/?gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xQJOUa5od0PAzzEnXah7blpvCr5GWdOKqawMx5bFoUo5pBOZNHbyk4aAhhWEALw_wcB
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Second Regular Session
+
+Parliament Bill No. **299**
+
+Introduced by
+
+**Members of Parliament JAMEL B. MACACUA and EDDIE M. ALIH**
+
+Co-authored by
+**Members of Parliament Susana S. Anayatin, Abdulaziz M. Amenoden, Ali Montaha D. Babao, Suharto S. Esmael, Rasul E. Ismael, Hamid U. Malik, Atty. Lanang T. Ali, Jr., Don Mustapha A. Loong, Froilyn T. Mendoza, Michael E. Midtimbang. Nurredha J. Misuari, Atty. Rasol Y. Mitmug, Jr., Suwaib L. Oranon, Nabila Margarita P. Pangandaman, Diamila Disamban Ramos, and Ali B. Sangki,**
+
+**AN ACT PROVIDING FOR A MUSEUM EXCLUSIVELY EXHIBITING THE BANGSAMORO HISTORY TOWARDS AUTONOMY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
+
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
 **SECTION 1. Short Title.** This act shall be known as the “Bangsamoro Autonomy and Heritage Museum Act of 2024.”
