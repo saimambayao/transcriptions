@@ -147,9 +147,4 @@ Principal Sponsors:
 (Sgd.)
 **DENMARTIN A. KAHALAN, MP**
 
-***
-¹ 1987 Constitution, Article II, Section 26
-² Bangsamoro Electoral Code (BAA No. 35), Section 5(n)
-³ Omnibus Election Code, Sec. 94(a)
-⁴ Omnibus Election Code, Sec. 94(b)
 
