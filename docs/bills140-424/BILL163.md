@@ -42,6 +42,10 @@ First Regular Session
 
 Parliament Bill No. **163**
 
+Introduced by **MPs Engr. Don Mustapha A. Loong, Amilbahar S. Mawallil, Atty. John Anthony L. Lim, Eddie M. Alih, Benjamin T. Loong**
+
+Co-authors: **MPs Atty. Laisa M. Alamia, Engr. Baintan A. Ampatuan, Atty. Rasol Y. Mitmug, Jr., Atty. Suharto M. Ambolodto, Rasul E. Ismael, Dr. Susana Anayatin, Mohammad Kelie U. Antao, Abdulwahab M. Pak, Michael E. Midtimbang, Diamila Disimban-Ramos, Ali O. Salik, Ramon A. Piang, Sr., and Jaafar Apollo Mikhail L. Matalam**
+
 **AN ACT ESTABLISHING A DISTRICT HOSPITAL IN LANGUYAN, PROVINCE OF TAWI-TAWI, TO BE KNOWN AS THE LANGUYAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
