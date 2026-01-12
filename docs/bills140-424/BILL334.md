@@ -1,4 +1,22 @@
-**EXPLANATORY NOTE**
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+BANGSAMORO TRANSITION AUTHORITY
+
+THIRD REGULAR SESSION
+
+BTA PARLIAMENT
+BTA BILL NO. 334
+
+Authored by:
+
+MP BAILENG S. MANTAWIL
+
+Co-Authors: MP ATTY. MARY ANN M. ARNADO; MP ATTY. SHA ELIJAH B. DUMAMA ALBA; MP AIDA M. SILONGAN; MP ENGR. BAINTAN A. AMPATUAN; MP SUSANA S. ANAYATIN; MP ATTY. SITTIE FAHANIE UY-UYOD, MBA; MP DIAMILA D. RAMOS; MP MOHAMMAD KELIE U. ANTAO; MP TAWAKAL B. MIDTIMBANG; MP BASSIR D. UTTO; MP MUDJIB C. ABU; MP SUWAIB L. ORANON; MP MOSBER E. ALAUDDIN; MP SUHARTO S. ESMAEL; MP ABDULLAH B. HASHIM; MP NABILA MARGARITA P. PANGANDAMAN; MP AMROUSSI A. MACATANONG; MP ABDULAZIZ M. AMENODEN
+
+AN ACT DECLARING THE FIRST SEVEN DAYS OF SHAWWAL AS "MENTAL WELLNESS AND FAMILY WEEK" IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES
+
+EXPLANATORY NOTE
 
 Mental health and family well-being are critical components of a flourishing society. In Islam, maintaining mental and familial health is highly emphasized as they form the foundation of strong communities and resilient individuals. Following the holy month of Ramadan, the first seven days of Shawwal provide an ideal period for rejuvenation of both the mind and family dynamics after the physical and emotional demands of fasting.
 
@@ -8,53 +26,70 @@ October 10 is recognized globally as World Mental Health Day, and in the Philipp
 
 This bill seeks to declare the first seven days of Shawwal as "Mental Wellness and Family Week" in BARMM, providing every ministry and office the discretion to celebrate in ways that highlight the importance of mental health and family from an Islamic viewpoint, with a focus on work-life balance and long-term well-being.
 
-**MP Baileng S. Mantawil**
+MP Baileng S. Mantawil
 
+***
 
-**AN ACT DECLARING THE FIRST SEVEN DAYS OF SHAWWAL AS "MENTAL WELLNESS AND FAMILY WEEK" IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES**
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+BANGSAMORO TRANSITION AUTHORITY
+
+THIRD REGULAR SESSION
+
+BTA PARLIAMENT
+BTA BILL NO. 334
+
+Authored by:
+
+MP BAILENG S. MANTAWIL
+
+Co-Authors: MP ATTY. MARY ANN M. ARNADO; MP ATTY. SHA ELIJAH B. DUMAMA ALBA; MP AIDA M. SILONGAN; MP ENGR. BAINTAN A. AMPATUAN; MP SUSANA S. ANAYATIN; MP ATTY. SITTIE FAHANIE UY-UYOD, MBA; MP DIAMILA D. RAMOS; MP MOHAMMAD KELIE U. ANTAO; MP TAWAKAL B. MIDTIMBANG; MP BASSIR D. UTTO; MP MUDJIB C. ABU; MP SUWAIB L. ORANON; MP MOSBER E. ALAUDDIN; MP SUHARTO S. ESMAEL; MP ABDULLAH B. HASHIM; MP NABILA MARGARITA P. PANGANDAMAN; MP AMROUSSI A. MACATANONG; MP ABDULAZIZ M. AMENODEN
+
+AN ACT DECLARING THE FIRST SEVEN DAYS OF SHAWWAL AS "MENTAL WELLNESS AND FAMILY WEEK" IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES
 
 Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:
 
-**Section 1. Title.** This Act shall be known as the “Mental Wellness and Family Week Act of BARMM”.
+Section 1. Title. This Act shall be known as the "Mental Wellness and Family Week Act of BARMM".
 
-**Section 2. Declaration of Policy.** It is hereby declared the policy of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) to promote the mental well-being and family harmony of its citizens. Consistent with Islamic principles, the region aims to support activities that encourage both mental wellness and familial bonding, particularly following the month of Ramadan.
+Section 2. Declaration of Policy. It is hereby declared the policy of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) to promote the mental well-being and family harmony of its citizens. Consistent with Islamic principles, the region aims to support activities that encourage both mental wellness and familial bonding, particularly following the month of Ramadan.
 
-**Section 3. Mental Wellness and Family Week.** The first seven (7) days of Shawwal each year are hereby declared as Mental Wellness and Family Week in the BARMM. Ministries, agencies, and offices within BARMM are encouraged to promote and celebrate mental health awareness and family well-being during this period, with emphasis on:
+Section 3. Mental Wellness and Family Week. The first seven (7) days of Shawwal each year are hereby declared as Mental Wellness and Family Week in the BARMM. Ministries, agencies, and offices within BARMM are encouraged to promote and celebrate mental health awareness and family well-being during this period, with emphasis on:
 
 a. Mental Health Awareness from an Islamic perspective;
 b. Importance of Family as the cornerstone of Islamic society;
 c. Balancing Family and Work or Family and Career; and
 d. Promoting long-term well-being of individuals and families within BARMM.
 
-**Section 4. Optional Declaration of Non-Working Days.** Each ministry or office within BARMM shall have the discretion to declare one (1) or more days during the first seven days of Shawwal as non-working days to allow families to fully celebrate and observe Mental Wellness and Family Week. Ministries and offices may also develop programs, activities, or seminars focusing on the objectives outlined in Section 3 of this Act.
+Section 4. Optional Declaration of Non-Working Days. Each ministry or office within BARMM shall have the discretion to declare one (1) or more days during the first seven days of Shawwal as non-working days to allow families to fully celebrate and observe Mental Wellness and Family Week. Ministries and offices may also develop programs, activities, or seminars focusing on the objectives outlined in Section 3 of this Act.
 
-**Section 5. Appropriations.** To ensure the effective implementation of this Act, the necessary funds shall be appropriated from the annual budget of the Bangsamoro Government. Each ministry and office within BARMM shall allocate an appropriate portion of their budget to support the activities and programs during Mental Wellness and Family Week. Additional appropriations may also be sourced from other funding mechanisms that are consistent with this Act.
+Section 5. Appropriations. To ensure the effective implementation of this Act, the necessary funds shall be appropriated from the annual budget of the Bangsamoro Government. Each ministry and office within BARMM shall allocate an appropriate portion of their budget to support the activities and programs during Mental Wellness and Family Week. Additional appropriations may also be sourced from other funding mechanisms that are consistent with this Act.
 
-**Section 6. Implementing Guidelines.** The Bangsamoro Government shall formulate and issue the necessary guidelines for the observance of Mental Wellness and Family Week within ninety (90) days from the enactment of this Act. The guidelines shall provide for the conduct of awareness programs, workshops, and other activities that promote mental health and family well-being, and may include partnerships with relevant non-government organizations, educational institutions, and mental health professionals.
+Section 6. Implementing Guidelines. The Bangsamoro Government shall formulate and issue the necessary guidelines for the observance of Mental Wellness and Family Week within ninety (90) days from the enactment of this Act. The guidelines shall provide for the conduct of awareness programs, workshops, and other activities that promote mental health and family well-being, and may include partnerships with relevant non-government organizations, educational institutions, and mental health professionals.
 
-**Section 7. Coordination with National Celebrations.** The Mental Wellness and Family Week in BARMM shall complement and coordinate with the national celebrations of National Mental Health Month and National Mental Health Week observed in October, as well as World Mental Health Day on October 10. Where relevant, BARMM ministries and offices may align their activities to further promote mental health advocacy within the region.
+Section 7. Coordination with National Celebrations. The Mental Wellness and Family Week in BARMM shall complement and coordinate with the national celebrations of National Mental Health Month and National Mental Health Week observed in October, as well as World Mental Health Day on October 10. Where relevant, BARMM ministries and offices may align their activities to further promote mental health advocacy within the region.
 
-**Section 8. Separability Clause.** If any provision or part of this Act is declared unconstitutional or invalid, the remaining provisions shall not be affected and shall continue to be in full force and effect.
+Section 8. Separability Clause. If any provision or part of this Act is declared unconstitutional or invalid, the remaining provisions shall not be affected and shall continue to be in full force and effect.
 
-**Section 9. Repealing Clause.** All laws, decrees, orders, and issuances inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+Section 9. Repealing Clause. All laws, decrees, orders, and issuances inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
-**Section 10. Effectivity.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette of BARMM or in a newspaper of general circulation.
+Section 10. Effectivity. This Act shall take effect fifteen (15) days after its publication in the Official Gazette of BARMM or in a newspaper of general circulation.
 
+Enacted by the Bangsamoro Parliament.
 
-**Principal Author:**
+Principal Author:
 
-**MP Baileng S. Mantawil**
+MP Baileng S. Mantawil
 
-**Co - Authors:**
+Co-Authors:
 
 MP Atty. Mary Ann M. Arnado
 MP Atty. Sha Elijah B. Dumama Alba
 MP Aida M. Silongan
 MP Engr. Baintan A. Ampatuan
 MP Susana S. Anayatin
-MP Atty. Sittie Fahanie Uy-Oyod, MBA
+MP Atty. Sittie Fahanie Uy-Uyod, MBA
 MP Diamila D. Ramos
-MP Mohammad Kelie U. Antao
+MP Mohammad Kelie U. Antao;
 MP Tawakal B. Midtimbang
 MP Bassir D. Utto
 MP Mudjib C. Abu
@@ -65,4 +100,3 @@ MP Abdullah B. Hashim
 MP Nabila Margarita P. Pangandaman
 MP Amroussi A. Macatanong
 MP Abdulaziz M. Amenoden
-
