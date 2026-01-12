@@ -32,6 +32,21 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 182**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, ATTY. RASOL Y. MITMUG, JR., ATTY. SITTIE FAHANIE S. UY-OYOD, HASHEMI N. DILANGALEN, M.D., HAMID U. MALIK**
+Co-authored by
+**MPs ATTY. LAISA M. ALAMIA, ENGR. BAINTAN A. AMPATUAN, ENGR. DON MUSTAPHA A. LOONG, ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
+
 **AN ACT**
 **REQUIRING MULTI-HAZARD MAPS AND FLOOD HAZARD MAPS IN ALL VULNERABLE BARMM TERRITORIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
