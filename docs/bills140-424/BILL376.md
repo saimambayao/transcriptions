@@ -24,6 +24,9 @@ Despite various national efforts to strengthen MSMEs including programs under th
 
 It is within this context that this proposed measure seeks to create the Bangsamoro Enterprise Support Corporation (BESC). The corporation will be a regional counterpart of the SB Corporation but with a mandate tailored to the unique cultural, religious, and socio-economic context of BARMM. The Corporation shall function as a government-owned and controlled corporation (GOCC) of the Bangsamoro Government and under the policy and administrative supervision of the Ministry of Trade, Investments, and Tourism (MTIT).
 
+¹ Micro, small, and medium enterprises. (n.d.). https://serp-p.pids.gov.ph/feature/public/index view?feauredtype_id=1&slug=micro-small-and-medium-enterprises
+² Department of Trade and Industry. (2024, November 22). MSME Statistics | Department of Trade and Industry Philippines. Department of Trade and Industry Philippines. https://www.dti.gov.ph/resources/msme-statistics/
+
 The primary objectives of the BESC shall include, but not be limited to:
 
 a) Designing and offering Shari’ah-compliant financing and loan products such as Murabaha, Ijara, Mudarabah, Qard Hasan, and Tawarruq;
@@ -47,8 +50,23 @@ Through this legislative measure, it is sought to institutionalize a shariah-com
 Member of the Parliament
 
 
-¹ Micro, small, and medium enterprises. (n.d.). https://serp-p.pids.gov.ph/feature/public/index view?feauredtype_id=1&slug=micro-small-and-medium-enterprises
-² Department of Trade and Industry. (2024, November 22). MSME Statistics | Department of Trade and Industry Philippines. Department of Trade and Industry Philippines. https://www.dti.gov.ph/resources/msme-statistics/
+Republic of the Philippines
+**BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Fourth Regular Session
+
+Parliament Bill No. **376**
+
+Introduced by:
+**MP ROMEO K. SEMA, DPA, ABDULKARIM T. MISUARI, NURREDHA I. MISUARI, SARIPUDDIN D. JIKIRI, RANDOLPH C. PARCASIO**
+
+Co-authors:
+**ABDULBASIT R. BENITO**
+
+**AN ACT ESTABLISHING THE BANGSAMORO ENTERPRISE SUPPORT CORPORATION (BESC)**
 
 *Be it enacted by the Parliament of the Bangsamoro Autonomous Region in Muslim Mindanao Assembled:*
 
