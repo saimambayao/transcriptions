@@ -31,6 +31,7 @@ Under this Bill, the BCHED shall be established as a separate agency of the Bang
 
 The BCHED shall be the representative of the BARMM to the CHED national government, UniFAST Governing Board, and Private Education Assistance Committee (PEAC) pursuant to the representation of BARMM agencies to the national line agencies as contemplated under Art. VI, Sec. 11 of Republic Act No. 11054.
 
+
 The BCHED shall supervise and regulate private schools, including sectarian and nonsectarian institutions of higher education. Any school, college, or university existing in the Bangsamoro Autonomous Region shall be deemed an integral component of the educational system of the Bangsamoro Autonomous Region and shall be governed by the respective charters.
 
 Jurisdiction over MBHTE-supervised or non-chartered state-supported post-secondary degree-granting institutions shall be transferred to the Bangsamoro Commission on Higher Education.
@@ -46,6 +47,23 @@ In view of the foregoing, approval of this bill is earnestly requested.
 **DR. TOMANDA D. ANTOK**
 Member of Parliament – Bangsamoro Transition Authority
 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+*Fourth Regular Session*
+
+BTA Parliament Bill No. **417**
+
+Principal Authors:
+**MEMBERS OF PARLIAMENT DR. TOMANDA D. ANTOK, ATTY. NAGUIB G. SINARIMBO, ATTY. KITEM KADATUAN, DR. IBRAHIM IBAY, ABDULBASIT R. BENITO, ALINDATU K. PAGAYAO, BUTCH MALANG, AND MAROUF CANDAO**
+
+Co-authored by:
+
+**MEMBERS OF PARLIAMENT ABDULWAHAB M. PAK, BENJAMIN T. LOONG, HATIMIL E. HASSAN, TAWAKAL B. MIDTIMBANG, AHMAD AMIR A. BALINDONG, ATTY. AMER ZAAKARIA A. RAKIM, ATTY. AMENODIN SUMAGAYAN, ROMEO K. SEMA, DR. SUSANA S. ANAYATIN, MICHAEL E. MIDTIMBANG, NURREDHA I. MISUARI, MUDJIB ABU, MUHAMMAD NADZIR S. EBIL**
 
 **AN ACT CREATING THE BANGSAMORO COMMISSION ON HIGHER EDUCATION (BCHED), AMENDING BOOK VI, TITLE II OF THE BANGSAMORO ADMINISTRATIVE CODE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -72,13 +90,17 @@ The Commission and the Ministry of Basic and Technical Education (MBTE) shall es
 **Section 4. Definition of Terms.** For purposes of this act, the following term shall be defined as follows:
 
 a. Commission – refers to the Bangsamoro Commission on Higher Education.
+
 b. The Board – refers to the Board of Advisers constituted for the Commission.
+
 c. Ministry of Basic and Technical Education (MBTE) - refers to the Ministry established as a result of the amendment of the Bangsamoro Administrative Code by this Act.
 
 **Section 5. Transfer of Powers and Functions.** Subject to national policies, the powers and functions devolved to the Higher Education of MBHTE, are hereby transferred to the BCHED. Specifically, such transfer of functions shall include, among others:
 
 a. All programs and projects of the Higher Education of MBHTE, whether locally-funded or foreign-assisted, in the BARMM earmarked for or to be implemented in the region, including scholarships and grants, shall be transferred to the BCHED, including its corresponding budgets and assets;
+
 b. The Commission shall avail of the Higher Education Development Fund (HEDF), established under Section 10 of RA 7722, based on CHED-approved projects and programs for the region. The fund shall be administered in accordance with the guidelines of the CHED;
+
 c. The budget and allocation of Higher Education of MBHTE-supervised Higher Education Institutions in the region shall be transferred to the BCHED.
 
 **Section 6. Composition of the Commission.** - The Chief Minister of the Bangsamoro Government shall appoint one (1) Chairman of the Commission; and four (4) Commissioners, provided that:
@@ -131,19 +153,30 @@ a. formulate and recommend to the executive and legislative branches of BARMM de
 
 
 b. recommend to the executive and legislative branches of the Bangsamoro government, priorities and grants on higher education and research;
+
 c. Set minimum standards for programs in and institutions of higher learning for the higher Madaris education as recommended by panels of experts in higher Madaris education and subject to public hearings, and enforce the same;
+
 d. Monitor and evaluate the performance of programs and institutions of higher learning in the Bangsamoro region and recommend to the Commission appropriate incentives as well as the imposition of sanctions such as, but not limited to a diminution or withdrawal of subsidy, a downgrading or withdrawal of accreditation, program termination or closure of the HEI;
+
 e. Identify, support and develop potential centers of excellence in program areas in the Bangsamoro region needed for the development of world-class scholarship, nation-building and national development;
 f. Direct or re-direct purposive research by institutions of higher learning within the Bangsamoro region to meet the needs of agro-industrialization and development;
+
 g. Review the charters of institutions of higher learning and state universities and colleges, and local colleges and universities, including the chairmanship and membership of their governing bodies, and recommend to the Commission appropriate measures as a basis for necessary action;
 h. Recommend to the Ministry of Finance, Budget and Management the budgets of public institutions of higher learning, as well as general guidelines for the use of their income;
+
 i. Rationalize programs and institutions of higher learning and set standards, policies, and guidelines for the creation of new ones as well as the conversion or elevation of schools to institutions of higher learning, subject to budgetary limitations and the number of institutions of higher learning in the province or region where creation, conversion, or elevation is sought to be made;
+
 j. Develop criteria for allocating additional resources such as research and program development grants, scholarships, and other similar programs, provided, however, that these shall not detract from the fiscal autonomy already enjoyed by colleges and universities within Bangsamoro region;
 k. Devise and implement resource development schemes for BARMM;
+
 l. Administer the Higher Education Development Fund, as described in Section 10 hereunder, which will promote the purposes of higher education;
+
 m. Create Provincial or City Offices of the BCHED in Basilan, Lanao del Sur, Maguindanao, Tawi-Tawi and the cities of Cotabato, Lamitan and Marawi purposely to monitor and evaluate the performance of program of higher education institutions in the province or city and submit reports to the Chairman of the Commission, to receive documentary records for and in behalf of the Commission coming from each higher education institution from each province or city, to verify and evaluate enrollment list, promotional report, permanent scholastic records and other records to be submitted to the Commission, and to facilitate the issuance of Special Order (SO), Certification, Authentication and Verification (CAV), and other issuances by the Commission.
-n. Supervise and regulate private schools, including sectarian and nonsectarian institutions of higher education. The grant of authority to establish and operate new private schools/programs on higher education in the region including the cancellation and/or withdrawal of recognition, or restoration of canceled or revoked government recognition, *Provided: That the grant or revocation, or the restoration of recognition, is recommended by the BCHED. Provided, further, That the BCHED shall likewise be empowered with such regulatory functions as stipulated herein, subject to the guidelines set by the Commission;*
+
+n. Supervise and regulate private schools, including sectarian and nonsectarian institutions of higher education. The grant of authority to establish and operate new private schools/programs on higher education in the region including the cancellation and/or withdrawal of recognition, or restoration of canceled or revoked government recognition, *Provided: That the grant or revocation, or the restoration of recognition, is recommended by the BCHED. Provided, further, That the BCHED shall likewise be empowered with such regulatory functions as stipulated herein, subject to the guidelines set by the Commission;
+
 o. Promulgate such rules and regulations and exercise such other powers and functions as may be necessary to carry out effectively the purpose and objectives of this Act; and
+
 p. Perform such other functions as may be necessary for its effective operations and for the continued enhancement, growth and development of higher education in BARMM.
 
 **Section 11. The Secretariat.** - The Commission shall organize a secretariat which shall be headed by an executive officer. It shall fix the secretariat’s staffing pattern, determine the duties, qualifications, responsibilities, and functions, as well as the compensation scheme for the positions to be created upon the recommendation of the executive officer. It shall also prepare and approve its budget.
@@ -163,15 +196,25 @@ b. The Fund shall have a private portion to be raised from donations, gifts, and
 **Section 13. The Utilization of the Higher Education Development Fund.** – The Higher Education Development Fund shall be utilized for the following purposes:
 
 a. The Fund shall be utilized for scholarships, student loans, and grants-in-aid, and in the tertiary education, namely doctorate/doctoral programs, master’s, law, and medicine programs, and bachelor’s/baccalaureate degree programs, both in public and private higher education institutions.
+
 b. The Fund shall be utilized for research and development, scientific, pure and applied sciences, and engineering research, science and development centers, institutional or academic research, and professional development of administrators, faculty, and staff in the form of scholarships, trainings, conferences, paper presentations, and educational field trips, both local and international.
+
 c. The Fund shall be utilized for the access of quality information through tapping into online databases.
+
 d. The Fund shall be utilized for the integration of Information and communications technology (ICT) into teaching and learning through faculty development trainings and the acquisition of ICT infrastructure, equipment, and materials.
+
 e. The Fund shall be utilized for the formulation of higher education plan and policies/priorities on research and planning for a systematic documentation, publication and dissemination of information on higher education, development of strategies and schemes to establish linkages with international institutions, and formulation of policies and guidelines on student affairs and provision of student services.
+
 f. The Fund shall be utilized for subsidy of salaries for private school teachers, faculty, administrators, and staff.
+
 g. The Fund shall be utilized for guidance and counselling programs for administrators, faculty and staff, and also for student services in particular.
+
 h. The Fund shall be utilized for subsidy of accreditation bodies to monitor, evaluate, validate, regularize curricular programs both in public and private higher education institutions within Bangsamoro ARMM.
+
 i. The Fund shall be utilized for survey, relocation, revalidation and land titling and formulation of comprehensive land use plan of public higher education institutions in the Bangsamoro ARMM.
+
 j. The Fund shall be utilized for the establishment of convention centers to be used by both public and private higher education institutions, Research Center for Bangsamoro ARMM, language center, review centers for Professional Licensure Examinations, bar examinations, and Civil Service eligibility examinations in every province and city of Bangsamoro ARMM.
+
 k. The Fund shall be urgently appropriated and utilized to assist the higher education institutions that were devastated by the Marawi Siege of 2017and other man-made and natural calamities.
 
 **Section 14. Management and Administration of the Higher Education Development Fund.** - The Fund shall be administered by the Commission. For sound and judicious management of the Fund, the Commission shall appoint a reputable government financial institution as portfolio manager of the Fund, subject to the following conditions.
@@ -179,8 +222,11 @@ k. The Fund shall be urgently appropriated and utilized to assist the higher edu
 As administrator of the Fund, the Commission shall prepare the necessary guidelines for its use, subject to the following conditions:
 
 a. No part of the seed capital of the Fund, including earnings thereof, shall be used to underwrite overhead expenses for administration;
+
 b. Unless otherwise stipulated by the private donor, only earnings of private contributions shall be used for administrative expenses;
+
 c. The Commission shall appoint and organize a separate staff, independent administratively and budgetarily separate from the Commission Secretariat; and
+
 d. The Fund shall be utilized equitably according to provinces, cities and programs.
 
 **Section 15. The Technical Panels.** - The Commission shall reconstitute and/or organize technical panels for different disciplines/program areas. They shall assist the Commission in setting standards and in program and institution monitoring and evaluation. The technical panels shall be composed of senior specialists or academicians to be appointed by the Commission.
