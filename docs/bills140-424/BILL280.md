@@ -158,19 +158,6 @@ m. ***Establishing Tourism Monitoring and Evaluation*** – establishing a syste
 
 n. ***Other Effective Strategies:*** – including such other strategies that are suitable and responsive to the tourism developmental needs of the Bangsamoro.
 
-***
-⁵ Tomej, P., & Liburd, P. (2020). Sustainable mobility is crucial to the development of sustainable tourism. Tourism Management, 117(1), 45-55.
-⁶ Koenig, G. (2001). Interpersonal skills in sustainable tourism. Tourism Management, 22(6), 889-898.
-⁷ Gursoy, D. (2013). Antecedents and outcomes of sustainable tourism development. Journal of Travel Research, 52(6), 713-725.
-⁸ University of Toronto. (2021). ENV205H5: Sustainable Tourism (Winter 2021) - Research guides at University of Toronto.
-⁹ Gursoy, D. (2013). Antecedents and outcomes of sustainable tourism development. Journal of Travel Research, 52(6), 713-725.
-¹⁰ University of Toronto. (2021). ENV205H5: Sustainable Tourism (Winter 2021) - Research guides at University of Toronto.
-¹¹ Gursoy, D. (2013). Antecedents and outcomes of sustainable tourism development. Journal of Travel Research, 52(6), 713-725.
-¹² University of Toronto. (2021). ENV205H5: Sustainable Tourism (Winter 2021) - Research guides at University of Toronto.
-¹³ Ahmad, N. (2019). Halal tourism: A review. Tourism Management Perspectives, 31, 294-305.
-¹⁴ Al-Ansi, A. A., & Al-Swidi, A. K. (2019). Halal tourism: A new frontier in the tourism industry. Journal of Islamic Marketing, 10(2), 422-435.
-¹⁵ Gursoy, D. (2013). Antecedents and outcomes of sustainable tourism development. Journal of Travel Research, 52(6), 713-725.
-¹⁶ Gursoy, D. (2013). Antecedents and outcomes of sustainable tourism development. Journal of Travel Research, 52(6), 713-725.
 
 **Section 5. Tourism Development Plan.** - The Bangsamoro Government shall formulate a comprehensive Five-Year Tourism Development Plan.¹⁷ This strategic document will outline specific, measurable, and time-bound objectives that align with the broader vision for tourism within the region. Target markets will be identified based on a thorough market analysis, and promotional strategies will be tailored to attract these markets effectively. To ensure the plan's effectiveness and adaptability, the government shall also establish a Monitoring and Evaluation framework. This framework will feature specific benchmarks and key performance indicators to gauge the plan's success and will require semiannual assessments to ensure ongoing alignment with objectives. Given the dynamic nature of the tourism industry, the Five-Year Tourism Development Plan will be subject to an annual review and update to reflect emerging trends, opportunities, and challenges.
 
@@ -345,6 +332,4 @@ Author
 **MP Atty. Rasol Mitmug, Jr., CESE**
 Author
 
-***
-²⁴ Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). (2023). Purpose of the Bangsamoro Tourism Development Fund. In Strategic Programme for Agriculture, Fisheries, and Agribusiness Development in the Bangsamoro Autonomous Region in Muslim Mindanao (SPAFAD-BARMM)
 
