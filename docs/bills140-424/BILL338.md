@@ -33,16 +33,23 @@ e. To support families and caregivers through capacity-building programs, financ
 **SEC 4. Definition of Terms.** – As used in this Act, the following terms shall be understood to mean:
 
 a. *Special Needs*- refers to various disabilities requiring additional support, including intellectual disabilities, developmental delays, and sensory impairments.
+
 b. *Early Intervention*- refers to services and support provided to children with special needs from birth to six (6) years of age.
+
 c. *Special Education (SPED)*- refers to educational services specifically designed for children with disabilities.
+
 d. *Caregivers*- a trained person who provides care to people who need help taking care of themselves including family member and nanny.
 
 **SEC 5. Neurodevelopmental Disorders.** – Neurodevelopmental disorders encompass a range of conditions affecting the nervous system’s development. They typically manifest early in childhood, impacting various aspects of cognitive, motor, and social functioning:
 
 1. *Autism Spectrum Disorder (ASD)* - is characterized by challenges in social communication and repetitive behaviors. Individuals with ASD may have difficulty forming relationships and exhibit intense focus on specific interests. Early intervention is crucial for optimizing outcomes.
+
 2. *Attention Deficit Hyperactivity Disorder (ADHD)* - ADHD is marked by persistent patterns of inattention, hyperactivity, and impulsivity. It can affect children and persist into adulthood. Recognizing the symptoms and seeking appropriate treatment is essential for managing ADHD effectively.
+
 3. *Intellectual Disability* - involves limitations in intellectual functioning and adaptive behaviors. It affects a person’s ability to learn and navigate daily life. Supportive interventions can enhance independence and quality of life.
+
 4. *Specific Learning Disorders* - Conditions like dyslexia and dyscalculia fall under specific learning disorders. These impact an individual’s ability to acquire and use specific academic skills, leading to challenges in reading, writing, or mathematical abilities.
+
 5. *Communication Disorders* - Communication disorders encompass difficulties in speech, language, and communication. Conditions like stuttering or language impairment can hinder effective communication. Early intervention with speech therapy is key to addressing these challenges.
 
 **SEC 6. Bangsamoro Neurodevelopmental Disorder and Special Needs Support Program.** – The Ministry of Health (MOH) and the Ministry of Social Services and Development (MSSD), in coordination with the Ministry of Basic, Higher, and Technical Education (MBHTE), shall establish the Bangsamoro Neurodevelopmental Disorder and Special Needs Support Program. This program shall include the following:
