@@ -36,6 +36,20 @@ This bill, through its comprehensive provisions, aims to create a conducive envi
 **AMILBAHAR S. MAWALLIL**
 Member of the Parliament
 
+Republic of the Philippines
+Bansamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 199**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL**
+Co-authored by
+**MPs ATTY. LAISA M. ALAMIA, ENGR. BAINTAN A. AMPATUAN, ATTY. RASOL Y. MITMUG, JR., ENGR. DON MUSTAPHA A. LOONG, ATTY. SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
 
 **AN ACT**
 **ESTABLISHING A FRAMEWORK FOR THE PROMOTION AND RECOGNITION OF THE 'BANGSAMORO' BRAND, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
