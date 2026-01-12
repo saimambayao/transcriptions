@@ -30,8 +30,6 @@ Negotiated procurement through community participation encourages community orga
 
 By harnessing the skills, knowledge, and local resources of Bangsamoro communities, the government can build a sustainable food system, stimulate local economic development, and promote the overall well-being of its people.
 
-Chunk Complete. Ready for next group of provisions starting at **AN ACT INSTITUTIONALIZING THE PRIORITY USE OF NEGOTIATED PROCUREMENT-COMMUNITY PARTICIPATION**.
-
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
