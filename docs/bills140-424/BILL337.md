@@ -1,3 +1,4 @@
+
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
 **BANGSAMORO TRANSITION AUTHORITY**
@@ -6,21 +7,13 @@ Cotabato City
 Second Regular Session
 Bill No. 337
 
-INTRODUCED BY PRINCIPAL SPONSORS:
+**INTRODUCED BY PRINCIPAL SPONSORS:**
 
-**MPs ABDULKARIM T. MISUARI, TARHATA M. MAGLANGIT,**
-**ATTY. RANDOLPH C. PARCASIO, ABDULAZIZ M. AMENODEN,**
-**DENMARTIN A. KAHALAN, HAMID U. MALIK, and NURREDHA I. MISUARI**
+**MPs ABDULKARIM T. MISUARI, TARHATA M. MAGLANGIT, ATTY. RANDOLPH C. PARCASIO, ABDULAZIZ M. AMENODEN, DENMARTIN A. KAHALAN, HAMID U. MALIK, and NURREDHA I. MISUARI**
 
-CO-SPONSORS:
+**CO-SPONSORS:**
 
-**MPs BASIT S. ABBAS, MUDJIB C. ABU, IBRAHIM D. ALI, EDDIE M. ALIH,**
-**MOHAMMAD KELIE U. ANTAO, ALI MONTAHA D. BABAO,**
-**BAI MALEIHA B. CANDAO, DR. HASHEMI N. DILANGALEN,**
-**ALBAKIL D. JIKIRI, MICHAEL E. MIDTIMBANG,**
-**TAWAKAL B. MIDTIMBANG, ABDULWAHAB M. PAK,**
-**NABILA MARGARITA P. PANGANDAMAN, ROMEO K. SEMA,**
-**and ALI B. SOLAIMAN**
+**MPs BASIT S. ABBAS, MUDJIB C. ABU, IBRAHIM D. ALI, EDDIE M. ALIH, MOHAMMAD KELIE U. ANTAO, ALI MONTAHA D. BABAO, BAI MALEIHA B. CANDAO, DR. HASHEMI N. DILANGALEN, ALBAKIL D. JIKIRI, MICHAEL E. MIDTIMBANG, TAWAKAL B. MIDTIMBANG, ABDULWAHAB M. PAK, NABILA MARGARITA P. PANGANDAMAN, ROMEO K. SEMA, and ALI B. SOLAIMAN**
 
 **AN ACT ESTABLISHING A MECHANISM FOR THE REGISTRATION, MANAGEMENT AND ADMINISTRATION OF WAQF IN THE BANGSAMORO, CREATING THE BANGSAMORO WAQF COMMISSION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -28,13 +21,13 @@ CO-SPONSORS:
 
 Waqf is one of the great acts of charity in Islam. Literally meaning "to preserve, stand and/or to hold", it is a continuous, ongoing philanthropy. It has been mentioned in the Hadith of Allah's Messenger (peace be upon him) that "When the son of Adam dies, his deeds come to an end, except for three things: ongoing charity (sadaqatul jariya), knowledge (by which people benefit), and a righteous child who prays for him." Indeed, in the Islamic world, ongoing or perpetual charity, has found its manifestation on what we now know as waqf.
 
-In Islam, waqf means a religious endowment or a voluntary and irrevocable dedication of a portion of one's wealth and its disbursements for religious or charitable purposes that are aligned with the Shari'ah. Waqf property covers both the income-generating property and the proceeds thereof which are to be used to fund pious and charitable activities, including, but not limited to construction of mosques, madrasahs, hospitals and other facilities of similar nature.
+In Islam, waqf means a religious endowment or a voluntary and irrevocable dedication of a portion of one's wealth and its disbursements for religious or charitable purposes that are aligned with the Shari’ah. Waqf property covers both the income-generating property and the proceeds thereof which are to be used to fund pious and charitable activities, including, but not limited to construction of mosques, madrasahs, hospitals and other facilities of similar nature.
 
 Historically, waqf have played a major role in providing sustainable finance for many social services, including but not limited to education and health. In fact, it has been estimated that during the Umayyad and Abbasid Caliphates, more than 60 percent of public services were carried out via the institution of waqf. First, waqf financed the basic social services (and infrastructure) of education and health as well as sustenance or social security for the needy. Second, beyond these basic needs, waqf played an important role in the development of cultural and scientific life as they financed the production of books, the construction of libraries, as well as supporting scholars of various religious and secular sciences.
 
-The Bangsamoro is not a stranger on the different waqf arrangements. Anecdotal evidence points to mosques, madrasahs, and other structures that are standing on waqf land. However, these arrangements are informal in nature. We have no data on the actual number of waqf that has been established in the BARMM and in the Philippines and the properties covered by waqf. And we do not know oftentimes to what extent the waqf founder's intentions have been realized in the length of time that the waqf has been in operation. There is no central governing body that monitors and provides support to the waqfs. This is quite understandable, given that there is no public policy framework that governs waqf in the Bangsamoro or in the Philippines.
+The Bangsamoro is not a stranger on the different waqf arrangements. Anecdotal evidence points to mosques, madrasahs, and other structures that are standing on waqf land. However, these arrangements are informal in nature. We have no data on the actual number of waqf that has been established in the BARMM and in the Philippines and the properties covered by waqf. And we do not know oftentimes to what extent the waqf founder’s intentions have been realized in the length of time that the waqf has been in operation. There is no central governing body that monitors and provides support to the waqfs. This is quite understandable, given that there is no public policy framework that governs waqf in the Bangsamoro or in the Philippines.
 
-A legislative and policy framework on waqf would formalize the various waqf arrangements in the Bangsamoro, and provide the much-needed support to parties involved in waqf – such as the founder (waqif), the waqf managers and trustee/s (mutawalli or nadhir); ensure accountability especially in the realization of the aims of the waqf; and protect the interests of the beneficiaries – whether an identified group of people or the general public. This in turn, is envisioned to encourage individuals in the Bangsamoro to establish waqf.
+A legislative and policy framework on waqf would formalize the various waqf arrangements in the Bangsamoro, and provide the much-needed support to parties involved in waqf — such as the founder (waqif), the waqf managers and trustee/s (mutawalli or nadhir); ensure accountability especially in the realization of the aims of the waqf; and protect the interests of the beneficiaries — whether an identified group of people or the general public. This in turn, is envisioned to encourage individuals in the Bangsamoro to establish waqf.
 
 Under Republic Act No. 11054, otherwise known as the Bangsamoro Organic Law, the Bangsamoro Parliament shall have the power to enact laws to promote, protect and ensure the general welfare of the Bangsamoro and other inhabitants in the Bangsamoro Autonomous Region. Similarly, under Article V, Section 2 (ii) thereof, the Bangsamoro Government is empowered to exercise authority over Islamic banking and finance. This is not only limited to the Islamic equivalents of conventional financial products, but also social finance such as waqf, zakat and others.
 
@@ -44,25 +37,16 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 
 Principal Sponsors:
 
-(Signature)
 **ABDULKARIM T. MISUARI, MP**
 
-(Signature)
 **TARHATA M. MAGLANGIT, MP**
-
-(Signature)
 **ATTY. RANDOLPH C. PARCASIO, MP**
-
-(Signature)
 **ABDULAZIZ M. AMENODEN, MP**
-
-(Signature)
 **DENMARTIN A. KAHALAN, MP**
-
-(Signature)
 **HAMID U. MALIK, MP**
-
 **NURREDHA I. MISUARI, MP**
+
+***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -70,23 +54,15 @@ Bangsamoro Autonomous Region in Muslim Mindanao
 Cotabato City
 
 Second Regular Session
-Bill No. **336**
+Bill No. 336
 
-INTRODUCED BY PRINCIPAL SPONSORS:
+**INTRODUCED BY PRINCIPAL SPONSORS:**
 
-**MPs ABDULKARIM T. MISUARI, TARHATA M. MAGLANGIT,**
-**ATTY. RANDOLPH C. PARCASIO, ABDULAZIZ M. AMENODEN,**
-**DENMARTIN A. KAHALAN, HAMID U. MALIK, and NURREDHA I. MISUARI**
+**MPs ABDULKARIM T. MISUARI, TARHATA M. MAGLANGIT, ATTY. RANDOLPH C. PARCASIO, ABDULAZIZ M. AMENODEN, DENMARTIN A. KAHALAN, HAMID U. MALIK, and NURREDHA I. MISUARI**
 
-CO-SPONSORS:
+**CO-SPONSORS:**
 
-**MPs BASIT S. ABBAS, MUDJIB C. ABU, IBRAHIM D. ALI, EDDIE M. ALIH,**
-**MOHAMMAD KELIE U. ANTAO, ALI MONTAHA D. BABAO,**
-**BAI MALEIHA B. CANDAO, DR. HASHEMI N. DILANGALEN,**
-**ALBAKIL D. JIKIRI, MICHAEL E. MIDTIMBANG,**
-**TAWAKAL B. MIDTIMBANG, ABDULWAHAB M. PAK,**
-**NABILA MARGARITA P. PANGANDAMAN, ROMEO K. SEMA,**
-**and ALI B. SOLAIMAN**
+**MPs BASIT S. ABBAS, MUDJIB C. ABU, IBRAHIM D. ALI, EDDIE M. ALIH, MOHAMMAD KELIE U. ANTAO, ALI MONTAHA D. BABAO, BAI MALEIHA B. CANDAO, DR. HASHEMI N. DILANGALEN, ALBAKIL D. JIKIRI, MICHAEL E. MIDTIMBANG, TAWAKAL B. MIDTIMBANG, ABDULWAHAB M. PAK, NABILA MARGARITA P. PANGANDAMAN, ROMEO K. SEMA, and ALI B. SOLAIMAN**
 
 **AN ACT ESTABLISHING A MECHANISM FOR THE REGISTRATION, MANAGEMENT AND ADMINISTRATION OF WAQF IN THE BANGSAMORO, CREATING THE BANGSAMORO WAQF COMMISSION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
@@ -94,7 +70,7 @@ Be it enacted by the Bangsamoro Transition Authority, in Parliament assembled:
 
 **Chapter I. Preliminary Provisions**
 
-**Section 1. Short Title.** This Act shall be known as the "Bangsamoro Waqf Act."
+**Section 1. Short Title.** This Act shall be known as the “Bangsamoro Waqf Act.”
 
 **Section 2. Declaration of Policy.** It is hereby declared the policy of the Bangsamoro Government to:
 
@@ -106,13 +82,13 @@ e) Provide a regulatory framework that will allow for creativity and innovative 
 
 **Section 3. Definition of Terms.** For purposes of this Act, the following terms shall mean:
 
-a) *Waqf property (mawquf)* – refers to the properties dedicated or endowed to be in perpetual trust for the pious, charitable or educational purposes;
-b) *“Beneficiaries” (mawquf alaihim)* – the general class or group of persons determined by the waqif to receive the proceeds of the waqf;
-c) *“Commission”* - refers to the Bangsamoro Waqf Commission established under Chapter III of this Act;
-d) *“Maqasid”* - refers to the intention of the waqif or the purpose for which the waqf property is endowed, which shall be consistent with Islamic law and shariah principles;
-e) *“Mutawalli”* (also called “*Nazhir*”) – is a natural or juridical person entrusted with the waqf, appointed to manage and administer the waqf property pursuant to the intention of the endowment made by the waqif;
-f) *“Waqf” (pl. awqaf)* - refers to a perpetual charitable endowment made by a Muslim for a lawful purpose recognized under Islamic law and Shariah principles, the benefits of which are intended to accrue to the public (Waqf al-Khairi) or the waqif’s family (waqf al-Ahli or Al-Dhurri);
-g) *“Waqif”* – refers to the owner of the property subject to waqf, who entrust the endowment to either mutawalli or nazir.
+a) Waqf property (maquwf) - refers to the properties dedicated or endowed to be in perpetual trust for the pious, charitable or educational purposes;
+b) “Beneficiaries” (mawquf alaihim) – the general class or group of persons determined by the waqif to receive the proceeds of the waqf;
+c) “Commission” - refers to the Bangsamoro Waqf Commission established under Chapter III of this Act;
+d) “Maqasid” - refers to the intention of the waqif or the purpose for which the waqf property is endowed, which shall be consistent with Islamic law and shariah principles;
+e) “Mutawalli” (also called “Nazhir”) - is a natural or juridical person entrusted with the waqf, appointed to manage and administer the waqf property pursuant to the intention of the endowment made by the waqif;
+f) “Waqf” (pl. awqaf) - refers to a perpetual charitable endowment made by a Muslim for a lawful purpose recognized under Islamic law and Shariah principles, the benefits of which are intended to accrue to the public (Waqf al-Khairi) or the waqif's family (waqf al-Ahli or Al-Dhurri);
+g) “Waqif”- refers to the owner of the property subject to waqf, who entrust the endowment to either mutawalli or nazir.
 
 **Chapter II. Nature of Waqf**
 
@@ -143,12 +119,63 @@ e) not subject to any liens or encumbrances;
 f) only used for purposes and activities in accordance with the shari’ah.
 g) in case of rental properties, the rent must be in accordance with market rate (ujrat al-mithl), to be re-assessed on an annual basis.
 
+**Section 9. Annotation in the Certificate of Title of the Properties.** The registration of the waqf with the Commission shall constitute an encumbrance on the mauquf or waqf property. This shall be duly annotated in the Certificate of Title together with the pertinent details of the waqf registration.
+
+**Section 10. Exemption from Taxes.** Waqf properties registered with the Commission shall be exempt from the payment of applicable taxes that are within the taxing powers of the Bangsamoro Parliament under Article XII, Section 9 of the Bangsamoro Organic Law, provided such properties are exclusively used for religious, charitable or educational purposes.
+
+The waqf property must comply with all applicable laws and regulations.
+
+**Section 11. Disposition of Waqf Properties.** No waqf property shall be sold, mortgaged, or otherwise disposed of except upon approval of the Commission, in which case, shall be in consideration of the maqasid from which it was endowed and the intents of the waqif, is still living.
+
+**Section 12. Replacement, Conversion, Substitution or Exchange of Waqf Properties.** If in the opinion of the mutawalli, the original waqf property is no longer fit to be the subject of the waqf, or that the maqasid of the waqf will be better served by utilizing another property, the mutawalli may opt for the replacement (taghyir), conversion (tabdil), substitution (istibdal) or exchange (ibdal) of the property subject to the approval of the Bangsamoro Waqf Commission.
+
+**Section 13. The Maqasid.** The waqf may be constituted for the following purposes:
+a) For pious, charitable or educational purposes (waqf khayri);
+b) For the construction and maintenance of a public utility (waqf al-sabil); and
+c) For the specific needs of a disadvantaged sector of society (waqf al-awaridh).
+d) For the benefit of the waqif’s family, relatives and descendants (waqf al-ahli or waqf al-dhurri)
+
+**Section 14. Who may be a Mutawalli.** A mutawalli may either be a natural or juridical person. A Muslim of legal age residing in the province where the waqf property is located, possessing sound mind, and not having been accused or convicted of any crime involving moral turpitude, may be appointed as a mutawalli.
+
+A waqif may not be a mutawalli over his or her own property.
+
+**Section 15. Waqf Corporate Entities.** Waqf properties valued above five million pesos (Php 5,000,000) at the time of the endowment shall be administered by Waqf corporate entities registered as such with the Bangsamoro Waqf Commission.
+
+Such waqf entities shall first secure a Certificate of Registration from the Commission before entering into any duties as mutawalli.
+
+**Section 16. Duties of Mutawallis.** The following are the duties, responsibilities and functions of mutawallis:
+a) Manage and administer the waqf properties in accordance with the maqasid for which they were endowed, and in compliance with the Islamic law and shariah principles;
+b) Maintain proper accounting and auditing records for the waqf properties and provide annual reports to the Commission on their management and administration;
+c) Ensure that the waqf properties are properly maintained and utilized and that their income or benefits are distributed in accordance with the maqasid for which they were endowed;
+d) Collect and manage the income generated by the waqf property, which shall be used for the maqasid as agreed thereto;
+e) Allow the Commission or its representatives to inspect the waqf property and its records at any time;
+f) Comply with all applicable laws and regulations, including those issued by the Commission;
+g) Perform other acts necessary for the preservation and improvement of the waqf and recovery of lost properties of the waqf, which may include filing suits and actions in the proper tribunal; and
+h) Acting as trustees, divest themselves of any propriety right nor any beneficial interest of any kind in the waqf property.
+
+**Section 17. Appointment and Removal of the Mutawalli.** The appointment of a mutawalli shall be made in the same deed constituting the waqf. Once appointed, the mutawalli may only be removed through an order of the Commission, upon a request by the waqif or by his heirs, if deceased.
+
+**Section 18. Grounds for the Removal of a Mutawalli.** The waqif may request the Commission for the removal of the mutawalli, on the following grounds:
+a) The mutawalli denies the character of the property as a waqf property and sets up an adverse title to it in himself;
+b) Misappropriation of the waqf property;
+c) Having sufficient funds, allows the property to fall into disrepair;
+d) Causes damage or loss to the property or commits an act that could be considered a breach of trust, knowingly and intentionally;
+
+**Section 19. The Waqf Deed.** A waqf under this Act may be established by means of a written instrument executed by the owner of the property, which shall specify the purpose for which the waqf is constituted (maqasid), the name of the mutawalli, and the specific description of the property to be utilized. The waqf deed shall be executed in a language known and understood by both the waqif and the mutawalli and shall bear the signatures of at least two witnesses.
+
+**Section 20. Transfer of Ownership to be Stipulated in the Waqf Deed.** The waqf deed shall contain a provision that the waqif thereby transfers the ownership of the subject property to the mutawalli.
+
+**Section 21. Unconditional Waqf.** Waqf shall not be subject to any condition, except when such condition is made only to further reinforce the nature of the waqf as a perpetual endowment and in furtherance of its religious, pious or charitable objectives.
+
+**Section 22. Testamentary Waqf.** The waqf may also be established through a will and shall take effect upon the death of the testator, and shall form part of the testamentary disposition.
+
+**Section 23. Irrevocability of Waqf.** Waqf, once registered with the Waqf Commission, may no longer be revoked.
+
 **Chapter III. The Bangsamoro Waqf Commission**
 
 **Section 24. The Bangsamoro Waqf Commission.** There is hereby established a Bangsamoro Waqf Commission, attached for budgetary purposes to the Office of the Chief Minister, which shall be responsible for overall supervision of management of awqaf in the Bangsamoro.
 
 **Section 25. Powers and Functions of the Commission.** The Commission shall have the following powers and functions:
-
 a) Register and or accredit waqf entities and mutawallis in the Bangsamoro and provide for the standards and procedure for registration and renewal thereof;
 b) Establish and maintain a registry of waqf properties in the Bangsamoro, which shall include a list of all waqf properties, including their location, size, value, type (whether residential, commercial, agricultural) and other relevant information to facilitate their development;
 c) Ensure that the maqasid of waqf properties are being fulfilled in accordance with the intent of the waqif;
@@ -163,13 +190,12 @@ j) Exercise such other powers and functions as may be necessary for the proper m
 **Section 26. Composition of the Commission.** The Commission shall be composed of five (5) members appointed by the Bangsamoro Chief Minister from a list of nominees from different sectors of the Bangsamoro constituency.
 
 **Section 27. Qualification of Commission Members.** The Commission members including the Chairperson must possess the following qualifications:
-
 a) Must be a natural-born Filipino, and a resident of the Bangsamoro for at least three (3) years prior to appointment;
 b) Must be at least thirty-five (35) years of age;
 c) Must be of good moral character and of known probity and integrity;
 d) Must possess at least a bachelor’s degree in any field of study from a recognized institution of higher learning in the Philippines or overseas;
 e) Must have relevant experience in law, finance, accounting, business management or Islamic social finance;
-f) Must have an expertise regarding Islamic Social Finance and has had ample training and experience for at least three (3) years; and
+f) Must have an expertise regarding Islamic Finance and has had ample training and experience for at least three (3) years; and
 g) Must not have been convicted of any crime involving moral turpitude.
 
 **Section 28. Powers of the Commission to Resolve Disputes.** The Commission shall have the power to resolve disputes relating to the management and administration of waqf properties, and to issue orders or decisions through its Arbitration unit. Any party aggrieved by such arbitral award may file a civil suit in the appropriate Shari’ah Circuit Court, or Shari’ah District Court, as the case may be, as provided for in Article X of the Bangsamoro Organic Law.
@@ -180,7 +206,7 @@ g) Must not have been convicted of any crime involving moral turpitude.
 
 **Section 30. Construction and Interpretation.** Rules on the establishment, management and disposition of waqf properties shall be construed liberally in favor of the full realization of the desire of the waqif, in so far as it does not contradict the religious or charitable purpose of the waqf.
 
-**Section 31. Suppletory Application of Existing Laws.** Provisions of existing laws on trusts and fiduciary entities as well as existing and guidelines set by the Bangko Sentral ng Pilipinas on the matter shall apply suppletorily as long as they are not in contravention of this Act or the general principles of the Shari'ah;
+**Section 31. Suppletory Application of Existing Laws.** Provisions of existing laws on trusts and fiduciary entities as well as existing and guidelines set by the Bangko Sentral ng Pilipinas on the matter shall apply suppletorily as long as they are not in contravention of this Act or the general principles of the Shari’ah;
 
 **Section 32. Annual Report.** The Bangsamoro Waqf Commission shall submit an annual report to the Bangsamoro Parliament on the status of waqf in the Bangsamoro, including pertinent information on waqf entities and waqf properties in its registry. The annual report shall likewise include an assessment of the impact of waqf on the development of the Bangsamoro communities.
 
@@ -193,4 +219,3 @@ g) Must not have been convicted of any crime involving moral turpitude.
 **Section 36. Effectivity.** This Act shall take effect fifteen (15) days after its publication in at least one (1) newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).
 
 Approved,
-
