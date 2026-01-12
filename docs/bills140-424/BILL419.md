@@ -64,6 +64,20 @@ Member of the Parliament
 Member of the Parliament
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Third Parliament
+4th Regular Session
+
+**BTA BILL No. 419**
+
+Principal Authors:
+
+**MP ATTY. RASOL Y. MITMUG, JR., MP ZAAKARIA A. RAKIM, MP ATTY. ALIRAKIM T. MUNDER, MP BAINTAN A. AMPATUAN, MP AMENODIN U. SUMAGAYAN, MP MA-AROUPH B. CANDAO, MP IBRAHIM P. IBAY, MP ZULFIKAR-ALI S. BAYAM, MP ABDULBASIT R. BENITO, MP RASHDI T. ADIONG, MP ATTY. ISHAK V. MASTURA**
+
 **AN ACT AMENDING BANGSAMORO AUTONOMY ACT NO. 35, ENTITLED “AN ACT PROVIDING FOR THE BANGSAMORO ELECTORAL CODE OF THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO”**
 
 Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
@@ -142,9 +156,12 @@ Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:
 
 1. Sectoral organizations and sectoral-wings of political parties shall submit to the appropriate certifying ministries and offices the following:
    a. A verified petition for the certification of the sectoral organization or sectoral-wing of a political party, signed by its head or any duly authorized representative;
+
    b. A verified list of its members and officers affixing their names, signatures and other pertinent details as determine by the appropriate certifying ministries and offices;
+
    c. Its constitutional and by-laws;
    d. Its platform, policies, principles and legislative agenda for their sector; and
+   
    e. Such other requirements the appropriate certifying ministry and office may require.
 
 2. Upon receipt of the application for certification, the appropriate certifying ministry and office shall immediately determine the completeness of submitted application. Incomplete submission shall be subject to outright denial of the application without prejudice to refiling;
