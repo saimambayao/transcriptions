@@ -55,9 +55,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 ⁸ See Footnote 5.
 ⁹ Adapted from FLEMMS 2019: Functional Literacy, Education and Mass Media Survey, Philippine Statistics Authority, 2021, https://psa.gov.ph/sites/default/files/2019-FLEMMS-Final-Report_Signed_FULL%20VERSION_15%20January%202021rev.pdf.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 1**.
-
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
@@ -148,9 +145,6 @@ c) Class Advisers - The class advisers shall provide the committee with accurate
 
 **Section 10. Annual Report to the Parliament.** – The Council shall submit a report to the Parliament within one year from the implementation of this Act, and every year thereafter, on the progress of the program.
 
-Chunk Complete. Ready for next group of provisions starting at **Section 11**.
-
-***
 
 **Section 11. Coverage of the Program.** – This Act shall cover all the public schools operating within the Bangsamoro Region. Every eligible student currently enrolled in the school shall be eligible to one (1) free lunch meal provided by the Bangsamoro Government on every school day where students are required to attend to school.
 
