@@ -40,7 +40,6 @@ Member of Parliament – Bangsamoro Transition Authority
 
 Chunk Complete. Ready for next group of provisions starting at the main body of the Act.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
