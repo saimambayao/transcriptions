@@ -22,6 +22,8 @@ Section 12, Article IX of Republic Act No. 11054 or the Bangsamoro Organic Law m
 
 This bill has been drafted in consideration of existing laws and treaty obligations recognizing and upholding the rights of women deprived of liberty.
 
+¹ Sec. 30, Chapter V of RA 9710 defines "*Women in Especially Difficult Circumstances*" shall refer to victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention, victims and survivors of rape and incest, and such other related circumstances which have incapacitated them functionally.
+
 Republic Act No. 9710 or otherwise known as "*The Magna Carta of Women*" is the comprehensive women's human rights law that seeks to provide protection and promotion of the rights of Filipino women particularly those belonging to marginalized sector of the community following the principle that the state values the dignity of every human person and guarantees full respect for human rights. The said law provides important services for Women in Especially Difficult Circumstances (WEDC)¹ which includes good health services, proper sanitation and separate facilities for women in detention or correctional facilities. Meanwhile, this proposed Women Deprived of Liberty in the Bangsamoro Region Act of 2024 seeks to address the unique needs and vulnerabilities of women deprived of liberty within the Bangsamoro Autonomous Region in Muslim Mindanao. It aims to uphold their dignity, ensure their humane treatment, and provide them with appropriate support and interventions.
 
 Moreover, this legislative measure seeks to institutionalize reforms in the treatment of women deprived of liberty by a faithful compliance to the international obligations by providing important provisions that affect the rights and lives of pregnant and nursing women deprived of liberty and their children.
@@ -40,7 +42,6 @@ This measure hopes to be the catalyst that will shed light on the women deprived
 
 In view of the foregoing, approval of this measure is earnestly sought.
 
-¹ Sec. 30, Chapter V of RA 9710 defines "*Women in Especially Difficult Circumstances*" shall refer to victims and survivors of sexual and physical abuse, illegal recruitment, prostitution, trafficking, armed conflict, women in detention, victims and survivors of rape and incest, and such other related circumstances which have incapacitated them functionally.
 
 
 Republic of the Philippines
@@ -82,6 +83,7 @@ e) "*Halal*" refers to what is permissible or lawful in Islam, which can pertain
 f) "*Hijab*" refers to the head covering worn by Muslim women as a way of practicing modesty and protecting a part of their *awrah* from any unwanted gaze.
 
 g) "*Healthcare products*" shall refer to all health and care-related products, which include the following:
+
 1) feminine hygiene products such as sanitary napkins, panty liners, and tampons;
 2) toiletries such as towels, shampoo, soap, and undergarments;
 3) clean and safe drinking water;
