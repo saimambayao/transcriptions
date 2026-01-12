@@ -44,7 +44,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 
 Chunk Complete. Ready for next group of provisions starting at **Section 1**.
 
-***
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
