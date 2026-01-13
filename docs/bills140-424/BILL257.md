@@ -30,6 +30,24 @@ Besides improving public health, it is also an urgent need to establish a genera
 Thus, in view of the foregoing, passage of this Bill is earnestly sought.
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**Second Parliament**
+Second Regular Session
+
+BTA Parliament
+**Proposed Bill No. 257**
+
+Introduced by:
+**MP SAID M. SHIEK, MP ALI MONTAHA D. BABAO, MP AMROUSSI A.
+MACATANONG, MP ABDULLAH G. MACAPAAR, MP BASIT S. ABBAS, MP
+MARJANIE S. MACASALONG, MP NABILA MARGARITA P. PANGANDAMAN,
+and MP ALI B. SOLAIMAN**
+
+
 **“AN ACT CREATING AND ESTABLISHING A LEVEL 1 GENERAL HOSPITAL TO BE KNOWN AS ALEEM ABDULAZIS S. MIMBANTAS MEMORIAL HOSPITAL IN THE MUNICIPALITY OF MASIU, PROVINCE OF LANAO DEL SUR AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES”**
 
 *Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:*
