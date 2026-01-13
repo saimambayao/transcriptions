@@ -37,6 +37,23 @@ In view of the foregoing, the passage of this bill is earnestly sought.
 Member of the Parliament
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 259**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, HASHEMI N. DILANGALEN,
+HAMID U. MALIK, RASOL Y. MITMUG, JR.**
+Co-authored by
+**MPs LAISA M. ALAMIA, BAINTAN A. AMPATUAN,
+DON MUSTAPHA A. LOONG, SUHARTO M. AMBOLODTO, RASUL E. ISMAEL**
+
 **AN ACT**
 **ESTABLISHING THE BANGSAMORO LEARNING RECOVERY FUND, THEREBY IMPLEMENTING COMPREHENSIVE LEARNING RECOVERY INITIATIVES FOR STUDENTS IN RESPONSE TO THE COVID-19 PANDEMIC, AND FOR OTHER PURPOSES**
 
