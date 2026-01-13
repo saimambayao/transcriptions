@@ -57,8 +57,6 @@ Attested by:
 **ATTY. PANGALIAN M. BALINDONG**
 Parliament Speaker
 
-Chunk Complete. Ready for next group of provisions starting at [Municipality of Nuling Population Table].
-
 ***
 
 **Municipality of Nuling**
