@@ -23,7 +23,6 @@ Prophet of Muhammad (SAW) said about diseases and plagues:
 The Bureau of Quarantine (BOQ) is a facility that provides health services to persons infected with communicable diseases that may pose a risk to the lives of the Bangsamoro people. The creation of this BOQ aims to have effective surveillance and control measures on infectious diseases and other health concerns with global impact through local and international networking, strong and comprehensive regional sanitation programs in all seaports and airports of entry in partnership with local counterparts.
 
 On March 16, 2020, President Rodrigo Roa Duterte declared the State of Calamity through the Proclamation No. 929 due to widespread effects of Corona-Virus. During the onset of the pandemic, the region was in its infancy stage of transition and was not prepared. Our health facilities and manpower were not properly equipped and trained in managing the situations particularly in quarantine procedures. It was then a realization of the Bangsamoro Government the importance of a Health Quarantine office to oversee the prevention and control of emerging and re-emerging infection for the protection of public health.
-
 Further, the bureau may recommend policies and guidelines to the Minister of Health for an effective and smooth implementation of the international and national infection and control protocols. In the same manner, the creation of the bureau under the Bangsamoro Autonomous Region in Muslim Mindanao shall conform to Islamic requirements to mirror the unique context of the region.
 
 In view of the foregoing, the passage of this bill is earnestly sought.
@@ -139,4 +138,3 @@ Attested by:
 **HON. PANGALIAN M. BALINDONG**
 *Speaker*
 
-Final Provision: **Section 17.**
