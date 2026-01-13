@@ -103,45 +103,31 @@ vi. Acquire and apply information on marital growth.
 **Section 8. Role of the Ministry of Indigenous Peoples Affairs (MIPA). The MIPA has the following duties and responsibilities:**
 
 1. Work with the MSSD to ensure that policies, guidelines, frameworks, and programs on marriage counselling are in accordance with the traditions, beliefs and practices of indigenous people in the Bangsamoro region.
-
 2. Work with other government agencies non-government organizations, and stakeholders to provide access to marriage counseling services for indigenous communities especially in remote areas;
-
 3. In coordination with MSSD, develop and implement training programs for indigenous counselors to equip them with the skills and knowledge needed to provide effective marriage counseling services;
-
 4. Work with indigenous communities and their leaders to raise awareness about the importance of marriage counseling and to promote the value of healthy marriages and relationships;
-
 5. Facilitate the resolution of conflicts and disputes related to marriages and relationships and provide mediation services where appropriate: and
-
 6. Conduct research and evaluation of marriage counseling programs to assess their effectiveness and to identify area for improvement.
 
 **Section 9. Role of the Bangsamoro Darul Ifta (BDI). The duties and responsibilities of the BDI are as follows:**
 
 1. Work with MSSD to ensure that policies, guidelines, frameworks, and programs on marriage counselling are in accordance with the Shariah;
-
 2. Provide Islamic legal opinions, guidance, and advice on matters related to marriage and family;
-
 3. In coordination with the MSSD, provide training and capacity-building programs for marriage counselors, community leaders, and other stakeholders to enhance their knowledge and skills in dealing with marriage and family matters;
-
 4. Work with the religious leaders and Muslim scholars to develop and disseminate Islamic educational materials, as well as support to the promotion of healthy marriages and family relations; and
-
 5. Conduct research and evaluation of marriage counseling programs and services to assess their effectiveness and identify areas for improvement.
 
 **Section 10. Role of the Ministry of Health (MOH). The duties and responsibilities of the MOH are as follows:**
 
 1. Integrate and develop programs addressing mental health problems that may arise due to family conflict, abuse, and other domestic violence;
-
 2. Provide psychiatric, neurologic, psychosocial and other mental health care services to individuals, couples, and families; and
-
 3. Provide reproductive health education and counseling that are in line with the cultural and religious values of the Bangsamoro people.
 
 **Section 11. Private Sector Participation. The Bangsamoro government recognizes the participation of the private sector in the implementation of this Act. The private entities may:**
 
 a. Provide funding, expertise, and resources to improve the quality of the programs;
-
 b. Offer marriage counseling services to individuals and couples who may not have access to counseling services;
-
 c. Involves in developing public education campaigns, partnering with community organizations, and working with policymakers to advocate for greater access to counseling services and;
-
 d. Conduct research, evaluate outcomes, and share best practices with government, stakeholders, and other marriage counseling providers"
 
 **Section 12. Budget of Free Marriage Counseling Program. – The budget necessary for the full implementation of this Act shall be included in the General Appropriations Act of the Bangsamoro (GAAB).**
