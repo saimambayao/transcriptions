@@ -56,6 +56,11 @@ A local area network (LAN) is a communications system that allows the interconne
 
 (b) “Wired LAN is also known as Ethernet LAN connection. In this type of connection, wires are used to connect the computers. It is a fast connection and latency is low in a wired connection. Latency means when you transfer data then in how much time it is received to the destination. So data reach time is low in wired LAN. In industries, Ethernet LAN is used because in this case data is not lost and each user gets a dedicated line for transferring the data. Ethernet speed is about 1gbps. Different types of equipment are used in wired LAN e.g. modem, switch, hub, router, coaxial cable is used to make wired LAN connection.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
 (c) Wireless LAN is also known as a Wi-Fi connection. It has low speed as compared to wired LAN. The speed of Wi-Fi follows IEEE 802.11 standards. The latency rate is high in wireless LAN that means transfer time from one location to other is high. There is a high chance that data can collapse with the other data i.e. the signals may collide with each other if many devices are sending and receiving data wirelessly.
 
 **SECTION 5. *Establishment of LAN* ** – The Bangsamoro Government shall design and establish its Local Area Network (LAN) system that shall connect and serve all its offices including the Office of the Chief Minister, the Ministries, the Parliament, and all other agencies attached to them.
@@ -92,6 +97,11 @@ Member of the BTA Parliament
 
 **MATARUL ESTINO**
 Member of the BTA Parliament
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
 
 **MARY ANN ARNADO**
 Member of the BTA Parliament
