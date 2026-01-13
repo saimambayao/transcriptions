@@ -37,7 +37,7 @@ Based from the foregoing, the approval of this bill is urgently requested.
 (Sgd.)
 **JAAFAR APOLLO MIKHAIL L. MATALAM**
 Member of Parliament
-s
+
 
 Republic of the Philippines
 Bangsamoro Autonomous Region in Muslim Mindanao
