@@ -1,11 +1,25 @@
-**Parliament Bill No. 246**
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+Second Parliament
+Second Regular Session
+
+Parliament Bill No. 246
+
+---
 
 Introduced by:
+
 **MPs UBAIDA C. PACASEM, SUHARTO S. ESMAEL, MATARUL M. ESTINO, ABDULLAH B. HASHIM, HASHEMI N. DILANGALEN, AND MARJANIE S. MACASALONG**
 
-**AN ACT CONVERTING THE IRANON DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, PROVINCE OF MAGUINDANAO DEL NORTE INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE IRANON PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+---
 
-**Be it enacted** by the Bangsamoro Transition Authority in Parliament assembled:
+**AN ACT
+CONVERTING THE IRANON DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, PROVINCE OF MAGUINDANAO DEL NORTE INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE IRANON PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+*Be it enacted by the Bangsamoro Transition Authority in Parliament assembled:*
 
 **Section 1. Short Title.** – This Act shall be known as the **“Iranon Provincial Hospital Act of 2023.”**
 
@@ -34,7 +48,6 @@ The MOH, in coordination with the Ministry of Finance, and Budget and Management
 
 Adopted,
 
-(Sgd.)
+[Signature]
 **ATTY. UBAIDA C. PACASEM, CPA**
-Author
-
+*Author*
