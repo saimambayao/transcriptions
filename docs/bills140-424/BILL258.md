@@ -33,6 +33,23 @@ Due to the foregoing, immediate passage of this bill is earnestly requested.
 Member of the Parliament
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**SECOND PARLIAMENT**
+Second Regular Session
+
+**Parliament Bill No. 258**
+
+Introduced by
+**MPs AMILBAHAR S. MAWALLIL, RASOL Y. MITMUG, JR.**
+Co-authored by
+**MPs LAISA M. ALAMIA, BAINTAN A. AMPATUAN,
+DON MUSTAPHA A. LOONG, SUHARTO M. AMBOLODTO, RASUL E. ISMAEL,
+HASHEMI N. DILANGALEN, HAMID U. MALIK,**
+
 **AN ACT**
 **ESTABLISHING THE BANGSAMORO TEACHERS’ CONTINUING EDUCATION PROGRAM, AND APPROPRIATING FUNDS THEREFOR**
 
