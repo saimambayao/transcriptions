@@ -44,6 +44,23 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 Author
 
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY 2**
+Cotabato City
+
+Second Regular Session
+
+BTA PARLIAMENT
+BTA Parliament Bill No. **255**
+
+Introduced by
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+
+Co-Authored by:
+**MP Atty. Laisa M. Alamia, MP Amilbahar S. Mawallil, MP Atty. Suharto M. Ambolodto, MP Engr. Don Mustapha A. Loong, MP Atty. Rasol Y. Mitmug, Jr., MP Rasul E. Ismael, MP Tawakal B. Midtimbang, MP Jaafar Apollo Mikhail L. Matalam, MP Michael E. Midtimbang, MP Atty. Sittie Fahanie S. Uy-Oyod, MP Khalid Ma-Ampor Hadji Abdullah and MP Bassir. D. Utto**
+
+
 **AN ACT**
 **MANDATING THE CREATION OF ONE SPECIAL NEEDS EDUCATION (SPED) CENTER PER MUNICIPALITY/CITY IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES**
 
