@@ -22,6 +22,8 @@ Additionally, the Constitution also provides on Section 11, Article XIII that th
 
 In the Bangsamoro Autonomous Region, Section 3, Article V of Republic Act No. 11054 or the Bangsamoro Organic Law (BOL) provides that as part of the general welfare of the people, the Bangsamoro Government shall ensure, support, and promote the health and safety of its people.
 
+¹ Inspired from the bill originally filed by MP Zul Qarneyn M. Abas, M.D., titled "An Act Upgrading the Maguindanao Provincial Hospital From its Present Level 2 Classification to be Accredited as a Level 3 Hospital with 350 Bed Capacity and Appropriating Fund Therefor and For Other Purposes"
+
 Furthermore, Section 22, Article IX of the BOL provides that the Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. It shall establish by law a general hospital system to serve the health requirements of its people and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services.
 
 Furthermore, the same Article states that the Bangsamoro Government shall protect and promote the right to health of the people and instill health consciousness among them. It shall also uphold the peoples' right to have access to essential goods health, and other social services that promote their well-being. The Parliament shall enact appropriate legislation towards this end, including the regulation of the manufacture and distribution of food, drinks, drugs, and tobacco in accordance with the policies, rules and regulations of concerned national government agencies. The Bangsamoro Government shall assist and cooperate with the National Government in the provision of quarantine services for the prevention and control of epidemic and other communicable diseases.
@@ -29,6 +31,9 @@ Furthermore, the same Article states that the Bangsamoro Government shall protec
 With these Articles in place, it is imperative that Health is a fundamental right of every Bangsamoro. The right to health essentially provides that everyone should have access to the health services they need, when and where they need them, without the consequence of suffering financial hardship. To make this right to health a reality, every Bangsamoro must have access to high quality services for their own health, including the health of their families, and the community they are in.
 
 Hospitals complement and amplify the effectiveness of many other parts of the health system, providing continuous availability of services for acute and complex conditions. They concentrate scarce resources within well-planned referral networks to respond efficiently to population health needs. Overall, Hospitals are not only an integral institution of the health system, but they are also an essential element of Universal Health Coverage (UHC) and are critical to meeting the Sustainable Development Goals (SDG).² Achieving Universal Health Coverage means that all people have access to the full range of quality health services they need, when and where they need them, without financial hardship. It covers the full continuum of essential health services, from health promotion to prevention, treatment, rehabilitation and palliative care.³
+
+² https://www.who.int/health-topics/hospitals#tab=tab_1
+³ https://www.who.int/health-topics/universal-health-coverage#tab=tab_1
 
 The Maguindanao Provincial Hospital located in Datu Hoffer Ampatuan, Maguindanao del Sur is a Level II hospital that possesses a 299-bed capacity. It caters to the medical and health needs of the people of Maguindanao del Sur and other nearby areas. The rapid growth in population in the region being accommodated by the hospital with its present capacity and equipment understandably dictates the necessity of an upgrade to provide better health services and facilities. The upgrade must be coupled with the modernization of facilities that shall relevantly and sufficiently address the issues found inherently in its present condition and operations. Parallel to the rise of the population is the immediate demand, where upgrading the Maguindanao Provincial Hospital from Level II to Level III classification with 350-bed capacity has become urgent. Moreover, the COVID-19 Pandemic emphasized the need for additional health facilities in Maguindanao del Sur. Thus, there is a vital need to effectively and efficiently respond to the needs of the people by catering to the most basic health needs of the patients, most especially the underprivileged.
 
@@ -38,10 +43,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
-
-¹ Inspired from the bill originally filed by MP Zul Qarneyn M. Abas, M.D., titled "An Act Upgrading the Maguindanao Provincial Hospital From its Present Level 2 Classification to be Accredited as a Level 3 Hospital with 350 Bed Capacity and Appropriating Fund Therefor and For Other Purposes"
-² https://www.who.int/health-topics/hospitals#tab=tab_1
-³ https://www.who.int/health-topics/universal-health-coverage#tab=tab_1
 
 
 Republic of the Philippines
