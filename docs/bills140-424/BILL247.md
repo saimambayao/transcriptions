@@ -1,3 +1,12 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO PARLIAMENT**
+Bangsamoro GovernmentCenter, Cotabato City
+
+**BANGSAMORO TRANSITION AUTHORITY**
+(SECOND REGULAR SESSION)
+
+
 **BTA Parliament Bill No. 247**
 
 Introduced by:
@@ -14,6 +23,11 @@ Introduced by:
 **SECTION 3. Seat of Government.** The seat of government of the Municipality of Bonggo shall be established in Barangay Landasan, which shall also be known hereafter as the "Poblacion".
 
 **SECTION 4. Territorial Boundary.** The Municipality of Bonggo contains a land area of 66,444,977 square meters. The territorial boundary of the new municipality shall follow the existing boundaries of the constituent barangays as enumerated in Section 2 hereof.
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO PARLIAMENT**
+Bangsamoro GovernmentCenter, Cotabato City
 
 **SECTION 5. Plebiscite Requirement.** The Municipality of Bonggo shall acquire corporate existence upon ratification of its creation by a majority of the votes cast by qualified voters in a plebiscite to be conducted in the barangays comprising the municipality pursuant to Section 2 hereof within sixty (60) days after the approval of the Act.
 
@@ -33,6 +47,11 @@ APPROVED.
 
 This ____ day of __________ at Cotabato City, Philippines.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO PARLIAMENT**
+Bangsamoro GovernmentCenter, Cotabato City
+
 **PRINCIPAL AUTHORS:**
 
 (Sgd.)
@@ -50,6 +69,11 @@ Attested by:
 Parliament Speaker
 
 ***
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO PARLIAMENT**
+Bangsamoro GovernmentCenter, Cotabato City
 
 **ANNEX 1a. Barangays covered by the Municipality of Bonggo, their original mother municipality, and respective land area, population, and annual income as of 2020.**
 
