@@ -40,6 +40,8 @@ The OBAR shall be an attached agency of the Bangsamoro Library and Archives.
 
 **Section 7. Effectivity of Rules.**– In addition to other rule-making requirements provided by law not inconsistent with this Act, each rule shall become effective fifteen (15) days from the date of filing as above provided, unless a different date is fixed by law, or specified in the rule in cases of imminent danger to public health, safety and welfare, the existence of which must be expressed in a statement accompanying the rule. The agency shall take appropriate measures to make emergency rules known to persons who may be affected by them.
 
+¹ Tanada v. Tuvera, 146 SCRA 446, cited in Philippine Association of Service Exporters Inc. v. Torres GR No. 101279, August 6, 1992
+
 **Section 8. Record Keeping.**– The Bangsamoro Administrative Register shall be responsible for the maintenance of the official record of the administrative issuances issued by the Bangsamoro Government and its agencies. The Register shall organize and maintain the administrative issuances in a systematic and accessible manner.
 
 **Section 9. Coordination with the Bangsamoro Government agencies.**– The Office of the Bangsamoro Administrative Register shall coordinate with the Bangsamoro government agencies to ensure that their administrative issuances are properly submitted for recording and publication.
@@ -70,5 +72,4 @@ Sponsors:
 **ATTY. RANDOLPH C. PARCASIO, MP**
 
 ***
-¹ Tanada v. Tuvera, 146 SCRA 446, cited in Philippine Association of Service Exporters Inc. v. Torres GR No. 101279, August 6, 1992
 
