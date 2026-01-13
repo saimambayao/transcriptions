@@ -35,6 +35,10 @@ Additionally, numerous young individuals in the region have been deprived of edu
 
 Across all levels of the formal education, the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) consistently had the lowest participation and completion rates among all regions. In 2017, the Net Enrollment Rate (NER) in the BARMM fell below the national average by about 20% points at the elementary level and 45% points at the Junior High School (JHS) level.⁴
 
+¹ Barro, R. J. and J.W. Lee. (2010) “A New Dataset of Educational Attainment in the World, 1950–2010.” NBER Working Paper No. 15902. Cambridge, MA: National Bureau of Economic Research. As cited in Grant, C. (2017). See Footnote 2.
+² Grant, C. (2017). The contribution of education to economic growth. Retrieved from https://assets.publishing.service.gov.uk/media/5b9b87f340f0b67896977bae/K4D_HDR_The_Contribution_of_Education_to_Economic_Growth_Final.pdf
+³ https://www.deped.gov.ph/wp-content/uploads/2020/07/Full-Report_Unlocking-the-Potential-of-Bangsamoro-People-through-ALS.pdf
+
 In 2017, school completion rate for elementary schools was at 54% against a national average of 94%, where recent years show that increasingly more students have been able to graduate from elementary schools. At the JHS level, around 62% of Grade 7 students continued to study until Grade 10, where the national average was 85%. However, the dropout rate per grade in the BARMM worsened from 11% in 2010 to 14% in 2017, which accumulates through a basic education cycle and has led to significantly low school completion rates.⁵
 
 In other terms, only 1 out of every 10 students who began primary education in the BARMM would eventually graduate from lower secondary education on time. If there were 10 children living in BARMM, at best, 8 (eight) out of those 10 children would enter Grade 1 on time, but only 5 (five) would complete Grade 6. Then, 2 (two) out of the 4 children who graduate from elementary school would enroll in JHS. Eventually, only 1 (one) child out of the 10 would complete Grade 10 on time. Statistically, this leaves 9 (nine) children for every 10 that are out of school without completing the full basic education cycle.
@@ -49,9 +53,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
 
-¹ Barro, R. J. and J.W. Lee. (2010) “A New Dataset of Educational Attainment in the World, 1950–2010.” NBER Working Paper No. 15902. Cambridge, MA: National Bureau of Economic Research. As cited in Grant, C. (2017). See Footnote 2.
-² Grant, C. (2017). The contribution of education to economic growth. Retrieved from https://assets.publishing.service.gov.uk/media/5b9b87f340f0b67896977bae/K4D_HDR_The_Contribution_of_Education_to_Economic_Growth_Final.pdf
-³ https://www.deped.gov.ph/wp-content/uploads/2020/07/Full-Report_Unlocking-the-Potential-of-Bangsamoro-People-through-ALS.pdf
 ⁴ Ibid.
 ⁵ Ibid.
 
