@@ -466,9 +466,13 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 (i) Chairperson – The Chief Minister or the Deputy Chief Minister if so designated by the Chief Minister;
 (ii) Vice-Chairperson – The Deputy Chief Minister;
 (iii) Two (2) representatives of the Bangsamoro Parliament belonging to two (2) distinct registered political parties to which the Chief Minister does not belong, and chosen on the basis of proportional representation of all parties represented in the Bangsamoro Parliament;
+
 (iv) BARMM Legal Officer;
+
 (v) BARMM Treasurer;
+
 (vi) BARMM Planning and Development Officer; and
+
 (vii) Two (2) representatives from and chosen by the accredited CSOs, POs and NGOs who are members of the Bangsamoro Economic and Development Council (BEDC). These representatives shall not be the same representatives in the PPP-SC.
 
 (b) For projects covered by government-to-government joint PPP undertakings, the collaborating or partner government entity shall have one (1) representative in the PPP-RA, provided that such representative shall only sit in meetings of the PPP-RA, or portions thereof, and have a vote only on matters directly affecting the PPP project covered by such joint PPP undertaking. For this purpose, government-to-government joint PPP undertakings means such mutual agreement entered into by BARMM with other local government units, national government agencies, government-owned and -controlled corporations, government instrumentalities and government corporate entities, for the implementation of PPP projects that will benefit BARMM and its community even if the project site is outside the BARMM’s territory.
@@ -496,12 +500,19 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 **Sec. 24. *Contents of the Contract Management Manual.*** – Each contract management manual shall include the following information:
 
 (a) a description of the PPP project and its history;
+
 (b) a summary of the key terms of the PPP contract;
+
 (c) roles and responsibilities of each member of the PPP-RA and other BARMM personnel and contractors, as applicable, who are involved in the PPP project;
+
 (d) roles and responsibilities of key personnel of the PSP; (e) details of the post-award conference;
+
 (f) partnership management procedures;
+
 (g) performance or service delivery management;
+
 (h) contract administration; and
+
 (i) project closeout procedures.
 
 **Sec. 25. *Post-Award Conference.*** – (a) Immediately after the PPP contract is awarded, the PPP-RA Chairperson shall call a post-award conference to ensure that BARMM and PSP have a clear and mutual understanding of the terms and conditions of the PPP contract, and to determine the responsibilities of parties. Notice of the post-award conference shall be sent by the PPP-RA Chairperson at least five (5) working days before the scheduled date thereof.
@@ -517,6 +528,7 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 (b) Independent contractors may be engaged in the absence of the qualified BARMM personnel, provided that, except in the case of contract managers engaged in accordance with Section 8(c), contractors may only be engaged for a period not exceeding three (3) years from the effective date of the PPP contract. Such contractor shall:
 
 (i) have at least two (2) understudies; and
+
 (ii) provide a training program for BARMM personnel in his field of specialization, with such training being done regularly during regular office hours.
 
 (c) During the contract life, BARMM personnel shall undergo such continuous training on contract monitoring to ensure that BARMM is equipped to monitor reliably the PSP’s performance over the entire life of the PPP contract.
@@ -524,21 +536,31 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 **Sec. 27. *Partnership Management.*** – Each contract management manual shall identify processes to ensure accountability and manage the relationship between BARMM and the PSP, and shall describe:
 
 (a) each party’s governance structure, including the overall system of institutional structures, operating rules, compliance mechanisms and accountability procedures;
+
 (b) guidelines on communication and information sharing between BARMM and the PSP, including reporting requirements, frequency and purpose of regular meetings, record-keeping of all exchanges, and the acceptable modes of correspondence between them; and
+
 (c) the process for resolving disputes between the parties, identifying, among others, the different levels of dispute resolution, offices and officials involved, timetable for resolving such disputes, and possible actions to compel a party to adequately comply with contractual terms.
 
 **Sec. 28. *Performance or Service Delivery.*** – The contract management manual shall identify measures to ensure that the services or goods provided by the PSP are in accordance with the standards and prices agreed in the PPP contract. Such measure shall include:
 
 (a) an identification of risks under the PPP contract, the timetable for resolving such risks when they arise, contingency plans that ensure immediate resumption of services in the event of an interruption of service delivery by the PSP, and penalties for failing or refusing to resolve them, provided that a separate risk mitigation plan shall be developed and periodically reviewed and updated throughout the life of the contract for contracts with significant risks;
+
 (b) clear and demonstrable key performance indicators that demonstrate evidence of poor, satisfactory or non-performance by the PSP, taking into consideration the cost and value obtained, performance and customer satisfaction, delivery improvement, delivery capability, benefits realized and relationship strength and responsiveness;
+
 (c) a performance management plan and performance monitoring system that will be used by BARMM to monitor affordability, service delivery, VfM, quality, and performance improvement, which shall in all cases include:
 
 (i) a timetable and start and end date for each performance component, including milestones with accompanying timeframes, dependencies, required or desired outcomes, and acceptable performance levels;
+
 (ii) requirements and standards to be used to monitor PSP performance;
+
 (iii) procedures and guidelines for measuring customer satisfaction and mechanisms to solicit end user feedback;
+
 (iv) submission of regular, accurate and timely reports by the PSP, BARMM personnel or the contract manager, as applicable, to the PPP-RA detailing performance efforts and the types of information that should be included in such reports;
+
 (v) BARMM access to PSP records to allow BARMM personnel to verify the information that the PSP reports to them and to ensure that funds are expended properly;
+
 (vi) random inspections of PSP records and on-site monitoring visits; and
+
 (vii) regular meetings with the PSP to review progress, discuss problems and consider necessary changes; and
 
 (d) a performance review and corrective actions system that apply to non-compliance or breach of contract, and penalties for non-performance and bonuses for good performance.
@@ -546,7 +568,9 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 **Sec. 29. *Contract Administration.*** – The contract management manual shall lay down a contract administration system, which shall include:
 
 (a) systems and procedures for variation management, the roles and responsibilities of BARMM personnel, and reportorial requirements for each event of proposed or successful contract variation;
+
 (b) a system for contract maintenance, identifying key contract deliverables and schedules, as well as trigger events; and
+
 (c) systems and procedure for financial administration, including an estimate of the resources that BARMM will devote thereto, systems and procedures to make and receive financial payments, and rules for keeping records of financial transactions in accordance with the requirements of the contract.
 
 **Sec. 30. *Closeout Procedures.*** - Formal, written closeout procedures shall be included in contract management plan to ensure that all goods and services have been delivered satisfactorily, all properties are disposed accordingly, all BARMM properties are returned, and all amounts due under the PPP contract have been paid.
@@ -566,16 +590,27 @@ At a project level, a PPP is a legally enforceable contract where each party ass
 Such Code of Conduct shall require each member to, among others:
 
 (a) act at all times in accordance with relevant legislation and regulations;
+
 (b) act at all times with fidelity, honesty, integrity and in the best interests of the BARMM and its constituents;
+
 (c) recognize the public’s right to access to information in accordance with law;
+
 (d) not misuse his or her position and privileges of a member of the PPP-SC and PPP-RA, whether or not such will prejudice the interest of the public, the PSP, or any third person;
+
 (e) to take the utmost care in ensuring reasonable protection of the records of each PPP project, and to not disclose any confidential and proprietary information to persons without a need to know such information, or in violation of any non-disclosure requirements under law or contract;
+
 (f) carry out his or her duties with the skill and care expected from a person of knowledge and experience, and to exercise prudent judgment;
+
 (g) forthwith report to the appropriate authorities any act of negligence, fraud, corruption, misuse of government funds, failure or refusal to perform duties, or any other act which may constitute a crime or offense, or which is prejudicial to the public interest, in the selection of the PSP and implementation of a PPP contract;
+
 (h) forthwith declare any personal or business interest that he or she, or any of his or her relatives within the fourth degree of affinity or consanguinity, may have in any business of a PSP, in which case, the official or representative shall no longer be a member of the PPP-SC and PPP-RA;
+
 (i) forthwith declare any conflict of interest, insofar as the PPP Project concerned, that he or she may have or will have, in which case, the official or representative shall no longer be a member of the PPP-SC and PPP-RA;
+
 (j) not vote or act in a particular way on any matter in consideration of any offer, promise, gift or present, from a member of the public, government, a political party, social group or CSO, PO, NGO, or any stakeholder or potential stakeholder;
+
 (k) not receive any gift or anything else of value which is or may be viewed as aimed at influencing or directing his or her vote or actions; and
+
 (l) to disclose immediately to the PPP-SC or PPP-RA as the case may be, any attempted inducement that may be construed as aimed at influencing or directing his or her acts as a member of the PPP-SC and PPP-RA.
 
 **Sec. 34. *Disciplinary Action.*** - Violation of this Code and the Code of Conduct insofar as the BARMM elective officials are concerned shall constitute a ground for disciplinary action or amount to loss of confidence under the 1991 LGC and relevant laws, and with regards local appointive officials, such violation shall render them administratively liable. Officials may also be rendered criminally liable under applicable laws and ordinances. Representatives of the PSP shall be held liable for damages, offenses and crimes depending on the nature of their participation and involvement in the unlawful act or omission.
@@ -670,4 +705,3 @@ Attested:
 **HON. ATTY. PANGALIAN M. BALINDONG**
 Speaker
 
-Final Provision: **Section 49**.
