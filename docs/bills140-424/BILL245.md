@@ -34,8 +34,10 @@ Autism Spectrum Disorder (ASD) is a neurological and developmental disorder that
 
 According to the *Diagnostic and Statistical Manual of Mental Disorders (DSM-5)*, a guide created by the American Psychiatric Association that health care providers use to diagnose mental disorders, people with ASD often have:
 
-a) Difficulty with communication and interaction with other people;
+a) Difficulty with communication and interaction with other people;'
+
 b) Restricted interests and repetitive behaviors; and
+
 c) Symptoms that affect their ability to function in school, work, and other areas of life.²
 
 Moreover, Autism is known as a “spectrum” disorder because there is a wide variation in the types and severity of symptoms people experience.³
@@ -45,6 +47,12 @@ It is estimated that worldwide about 1 in 100 children has autism⁴, where in t
 Although Republic Act No. 7277, or the Magna Carta for Disabled Persons laid the foundations for the recognition and protection of rights of persons with disabilities, including those on the spectrum, there is still an inadequacy of programs that address the needs of the Bangsamoro diagnosed with autism.
 
 It is the duty of the Bangsamoro Government to provide protection and care to every Bangsamoro, especially those on the spectrum to address and support their peculiar needs. Everyone has the right to the enjoyment of the highest attainable standards of physical and mental health.
+
+¹https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
+²Ibid.
+³See Footnote 1.
+⁴Global prevalence of autism: A systematic review update. Zeidan J et al. Autism Research 2022 March.
+⁵http://www.autismsocietyphilippines.org/p/autism-is-lifelong-developmental.html
 
 Currently, in the Bangsamoro Autonomous Region, there is no law that promotes the general welfare of those diagnosed on the spectrum, especially its early identification, assessment, and support.
 
@@ -56,12 +64,6 @@ In view of the foregoing, the approval of this measure is earnestly sought.
 
 **ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
 Author
-
-¹https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
-²Ibid.
-³See Footnote 1.
-⁴Global prevalence of autism: A systematic review update. Zeidan J et al. Autism Research 2022 March.
-⁵http://www.autismsocietyphilippines.org/p/autism-is-lifelong-developmental.html
 
 
 Republic of the Philippines
@@ -106,8 +108,11 @@ f) Two (2) representatives from any non-governmental organizations (NGOs) involv
 **Section 4. Functions of the Council.** – The Council shall have the following functions:
 
 a) Formulate an integrated and comprehensive program on ASD, herein referred to as the Program;
+
 b) Create a framework that will serve as a blueprint in the implementation of the Program;
+
 c) Increase public awareness, education, and information on ASD; and
+
 d) Establish family support networks and other programs for families of people with autism and encourage them to seek psycho-social support for the various problems faced by families with children diagnosed with ASD.
 
 **Section 5. The Program.** – An integrated and comprehensive program shall be crafted by the Council and must include the following:
@@ -132,7 +137,9 @@ The Executive Director shall have the following powers and functions:
 **Section 7. Autism Spectrum Disorder Research and Reports.** – The Council through the Secretariat shall conduct a study in order to research more on the disorder. It shall submit a report to the Bangsamoro Parliament within three (3) years after the effectivity of this Act in order to address responsively to the continuing needs of those diagnosed with ASD. The study shall include the following:
 
 a) Determine the prevalence of autism spectrum disorder among the children in Bangsamoro Region;
+
 b) Evaluate the extent to which these children experience reduced cognitive skills and delayed development; and
+
 c) Investigations into the causation, diagnosis, early detection, and possible treatment of ASD. All the factors must be looked into, including but not limited to, genetic factors, socio-demographic factors, infection and immunity, and hormonal and reproductive factors;
 
 **Section 8. Annual Report to the Parliament.** – The Council shall submit a report to the Parliament within one (1) year from the implementation of this Act, and every year thereafter, on the progress of the Program.
@@ -148,4 +155,7 @@ c) Investigations into the causation, diagnosis, early detection, and possible t
 **Section 13. Effectivity.** – This Act shall take effect after fifteen (15) days following its complete publication in a newspaper of general circulation in the Bangsamoro Autonomous Region in Muslim Mindanao.
 
 Adopted,
+
+**MP ENGR. BAINTAN ADIL-AMPATUAN, MNSA**
+Author
 
