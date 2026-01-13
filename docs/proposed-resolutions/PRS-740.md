@@ -1,0 +1,85 @@
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+**BTA PARLIAMENT**
+Fourth Regular Session
+
+Proposed Resolution No. **740**
+
+Principal Authors:
+
+**MPs Atty. Amer Zaakaria A. Rakim; Atty. Amenodin U. Sumagayan; Engr. Rashdi T. Adiong; Ahmad Amir A. Balindong; Atty. Alirakim T. Munder**
+
+**RESOLUTION**
+
+**RESOLUTION URGING THE MINISTRY OF HEALTH TO ASSESS AND STRENGTHEN MENTAL HEALTH SERVICES IN THE BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO**
+
+**WHEREAS**, Section 15, Article II of the 1987 Philippine Constitution declares that: “The State shall protect and promote the right to health of the people and instill health consciousness among them;”
+
+**WHEREAS**, Section 11, Article XIII of the 1987 Constitution provides that: “The State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. There shall be priority for the needs of the underprivileged sick, elderly, disabled, women, and children. The State shall endeavor to provide free medical care to paupers;”
+
+**WHEREAS**, Section 2, Article V of Republic Act No. 11054 or the “Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao (the “BOL”) states that: “Subject to Section 20, Article X of the Constitution and this Organic Law, the Bangsamoro Government shall exercise its authority over the following matters without prejudice to the general supervision of the President of the Republic of the Philippines: x x x Health;”
+
+**WHEREAS**, Section 3, Article V of the BOL provides that: “The Bangsamoro Government shall exercise the powers expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for its efficient and effective governance and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, x x x, promote health and safety;”
+
+**WHEREAS**, Section 22, Article IX of the BOL further provides that: “The Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents. It shall establish by law a general hospital system to serve the health requirements of its people and ensure that the individual basic right to life shall be attainable through the prompt intervention of excellent and affordable medical services. The Bangsamoro Government shall protect and promote the right to health of the people and instill health consciousness among them. It shall also uphold the people's right to have access to essential goods, health, and other social services that promote their well-being;”
+
+**WHEREAS**, Republic Act No. 11036, or the “Mental Health Act” (the “Act”), was enacted on June 20, 2018, with the objective of establishing a national health policy to enhance the delivery of integrated mental health services and to promote and protect the rights of persons utilizing psychiatric, neurologic, and psychosocial health services
+
+**WHEREAS**, Section 2 of the Act declares that the State affirms the basic right of all Filipinos to mental health and commits to promote mental well-being by ensuring that mental health is valued, promoted, and protected, and that high-quality, culturally appropriate, and affordable mental health care is made accessible to all;
+
+**WHEREAS**, Chapter IV of the Act provides for the integration of mental health services into primary care, the establishment of community-based mental health facilities, the provision of psychiatric and psychosocial services in hospitals, the implementation of suicide prevention strategies, and the conduct of drug screening at local health care facilities;
+
+**WHEREAS**, Chapter VI of the Act mandates the continuous capacity building, reorientation, and training of mental health professionals, barangay health workers, and other service providers, and underscores the role of research and development in formulating culturally relevant and evidence-based mental health programs, in coordination with academic institutions and other stakeholders;
+
+**WHEREAS**, Section 37 of the Act further mandates local government units (LGUs) to review, formulate, and implement mental health care and wellness policies, including the passage of local ordinances; to integrate mental health services into primary health care; to establish training programs for service providers; to promote community-based recovery approaches; and to build stakeholder networks for the prevention and management of mental health conditions within their jurisdictions;
+
+**WHEREAS**, Section 38 of the same Act further requires LGUs, upon determination of need supported by local health data, to establish or upgrade hospitals and health care facilities equipped with qualified personnel, equipment, and supplies to address mental health conditions and psychiatric emergencies, ensuring equitable access to services including for those in geographically isolated and underserved areas, with support from the national government for funding and technical assistance;
+
+**WHEREAS**, the Department of Health (DOH) and the Philippine Council for Mental Health (PCMH), through the 2024–2028 PCMH Strategic Framework adopted via DOH Administrative Order No. 2023-0115, identified the need to scale up mental health services, strengthen referral pathways, reduce vulnerability to mental, neurological, and substance use disorders, and promote ethical and evidence-based mental health programs across the country;¹
+
+**WHEREAS**, according to the August 2023 *Mental Health and Psychosocial Support Assessment Report for the Bangsamoro Autonomous Region in Muslim Mindanao* by Action Against Hunger (the “report”), an estimated one in five individuals (22.1%) living in conflict-affected areas are likely to have a mental health condition; however, despite BARMM being affected by both natural disasters and armed conflict, there remains very little information regarding the mental health and psychosocial wellbeing of its population;²
+
+**WHEREAS**, the report also cites that around six million Filipinos are estimated to live with depression and or anxiety; in 2017, there were about 3.3 million cases of depressive disorders and 3 million cases of anxiety disorders, while modelled estimates from the 2019 Global Burden of Disease Study show that mental disorders and self harm accounted for 13 percent of the total disease burden among Filipinos aged 10 to 19, underscoring the need to strengthen mental health services in the Bangsamoro region;
+
+**WHEREAS**, the same report highlights that resources and infrastructure to respond to mental health needs remain scarce, citing findings from the WHO Special Initiative for Mental Health which revealed that the country has very few mental health specialists, most of whom are based in Manila, with many provinces lacking even a single psychiatrist, and significant gaps in the availability of professionals to support secondary care hospitals and the integration of mental health into primary care;
+
+**WHEREAS**, the Bangsamoro Government is committed to promoting the right to health and well-being of its people by advancing accessible, inclusive, and culturally appropriate mental health services, particularly for communities affected by conflict, displacement, and other vulnerabilities;
+
+**NOW, THEREFORE, be it**
+
+**RESOLVED**, as it is hereby resolved, by the Bangsamoro Transition Authority to respectfully urge the Ministry of Health to conduct a comprehensive assessment of the current state of mental health services in the Bangsamoro Autonomous Region in Muslim Mindanao, including the availability and distribution of mental health professionals, adequacy of facilities, integration into primary care, and efficiency of referral systems;
+
+**RESOLVED FURTHER**, to respectfully urge the Ministry of Health, based on the results of such assessment, to formulate and implement appropriate policies and programs to strengthen and institutionalize responsive, accessible, and community-based mental health services in the region, consistent with national policy and regional health priorities;
+
+**RESOLVED FURTHERMORE**, to respectfully request the Ministry of Health to submit to the Bangsamoro Parliament, within six (6) months from the adoption of this Resolution, a report detailing its findings and proposed measures to improve mental health care in the region;
+
+**RESOLVED FINALLY**, that copies of this Resolution be furnished to the Office of the Chief Minister and Ministry of Health for their information and appropriate action.
+
+________________________________________
+¹ “DOH, WHO launch Philippine Council for Mental Health Strategic Framework 2024-2028”, October 12, 2023 press release at https://www.who.int/philippines/news/detail/12-10-2023-doh--who-launch-philippine-council-for-mental-health-strategic-framework-2024-2028
+² https://accioncontraelhambre.org/sites/default/files/2025-02/MHPSS%20Assessment%20Report_2023.pdf
+
+Sponsored by:
+
+(Sgd.)
+**MP ATTY. AMER ZAAKARIA A. RAKIM**
+Principal Author
+
+(Sgd.)
+**MP ATTY. AMENODIN U. SUMAGAYAN**
+Principal Author
+
+(Sgd.)
+**MP ENGR. RASHDI T. ADIONG**
+Principal Author
+
+(Sgd.)
+**MP AHMAD AMIR A. BALINDONG**
+Principal Author
+
+(Sgd.)
+**MP ATTY. ALIRAKIM T. MUNDER**
+Principal Author
