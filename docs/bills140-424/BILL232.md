@@ -20,7 +20,15 @@ SHIEK
 
 No less than the Constitution provides that: “The maintenance of peace and order, the protection of life, liberty, and property, and the promotion of the general welfare are essential for the enjoyment by all the people of the blessings of democracy”. On the other hand, the Bangsamoro Organic Law provide also that: “The Bangsamoro Government shall exercise the power expressly granted, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for its efficient and effective governance and those which are essential to the promotion of general welfare. Within its territorial jurisdiction, the Bangsamoro Government shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among its residents, maintain peace and order, and preserve the comfort and convenience of its inhabitants”.
 
-Public roads and bridges are supposed to be enjoyed equally by the masses. Only the authorized government agencies may regulate their uses. Unfortunately, private persons are usurping parts of public roads and bridges by building humps or obstacles across roads, dredging new canals or waterways, putting stones, serving the roads as solar driers for grains and other goods, or even appropriating them for their exclusive commercial uses by reserving parts of the public roads as parking spaces for the customers. This practice should be stopped because it is not only prejudicial to the public but poses danger or risk to the public especially motorists. Hence, enactment of law to address this problem is urgently needed. In the words of the supreme court, public roads being public properties cannot be sold nor leased. Doing so is void. Moreover, it is violative of the Constitution, the BOL, and other laws.
+Public roads and bridges are supposed to be enjoyed equally by the masses. Only the authorized government agencies may regulate their uses. Unfortunately, private persons are usurping parts of public roads and bridges by building humps or obstacles across roads, dredging new canals or waterways, putting stones, serving the roads as solar driers for grains and other goods, or even appropriating them for their exclusive commercial uses by reserving parts of the public roads as parking spaces for the customers. This practice should be stopped because it is not only prejudicial to the public but poses danger or risk to the public especially motorists. Hence, enactment of law to address this problem is urgently needed. In the words of the supreme court, 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+
+public roads being public properties cannot be sold nor leased. Doing so is void. Moreover, it is violative of the Constitution, the BOL, and other laws.
 
 More than safety to motorists, unlawful constructions or obstructions in public roads and bridges also delays emergency responses like transportation of patients, military and police operations, fire protection or prevention response, disasters and many more. This is a high time to inculcate discipline to the people and reform their mind-setting that there is a government authorize to study and implement regulation of roads and bridges.
 
@@ -59,6 +67,12 @@ SHIEK
 
 (b) “Bridges” includes all public bridges funded, maintained or under the control of the government including foot bridges and other big bridges. For purposes of this Act, parts of the bridge such as railings, braces, posts, and the airspace above them, and all the spaces under are considered bridge.
 
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+
 (c) “Unauthorized act” is any act of construction or alteration on public roads and bridges or putting or placing obstruction or any object thereat by any person without proper authority from the sangguninian having jurisdiction of the place, Ministry of Public Order (MPW), or Department of Public Works and Highways (DPWH) as the case may be.
 
 (d) “Construction” includes building using any material, humps or speed bumps, fence or railings, posts, lamp posts, arcs, tents, signages, bill boards and obstacles;
@@ -78,7 +92,15 @@ SHIEK
 
 (b) The penalty for barangay chairmen consenting or acquiescing to any unlawful acts provided herein shall be the same with those of the person committing the unlawful act without prejudice however, to other disciplinary actions against them under the local government code.
 
-**SECTION 6. Liability for Damages. –** any person committing any of the unlawful acts or any public officer or employee consenting or acquiescing to said unlawful act shall, in addition to the penalty of fine, are also liable for all damages resulting from the commission of unlawful acts.
+**SECTION 6. Liability for Damages. –** any person committing any of the unlawful acts or any public officer or employee consenting or acquiescing to said unlawful act shall, in addition to 
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
+
+
+the penalty of fine, are also liable for all damages resulting from the commission of unlawful acts.
 
 Unauthorized construction shall be removed at the expenses of the person constructing the same. In the same way, restoration of altered roads or bridges or removal of objects unlawfully placed therein shall also be done at his expense.
 
@@ -95,6 +117,11 @@ Unauthorized construction shall be removed at the expenses of the person constru
 **SECTION 10. Transitory Provision -** Upon approval of this Act, all Barangay Local Government Units shall educate their constituents of the provisions of this law and cause its publication in at least three (3) conspicuous places in the Barangay for at least two (2) consecutive weeks.
 
 **SECTION 10. Appropriation Clause. -** The sum of five (5) million pesos (Php5,000,000.00) is hereby authorized to be appropriated, to carry out the functions of the Board under this Act. Thereafter, the sum needed for the operation of the Board shall be included in the annual budget of the MPW?
+
+Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+**BANGSAMORO TRANSITION AUTHORITY**
+Cotabato City
 
 
 **SECTION 11. Separability Clause. –** If any part of this Act is declared unconstitutional or invalid, the other provisions not affected thereby shall continue to be in full force and effect.
