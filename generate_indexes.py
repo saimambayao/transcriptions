@@ -74,7 +74,7 @@ def extract_baa_info(content, filename):
 
 def extract_bill_info(content, filename):
     # ID
-    match_num = re.search(r'(?:BTA Bill No\.|Parliament Bill No\.|Bill No\.|BTA BILL NO\.|Parliament Bill No)[\.\s]*(?:\*\*)?(\d+)', content, re.IGNORECASE)
+    match_num = re.search(r'(?:BTA Bill No\.|Parliament Bill No\.|Bill No\.|BTA BILL NO\.|Parliament Bill No|PB No\.|Parliament PB No\.|BTA PB No\.)[\.\s]*(?:\*\*)?(\d+)', content, re.IGNORECASE)
     bill_num = match_num.group(1) if match_num else "Unknown"
     if bill_num == "Unknown":
         fn_match = re.search(r'\d+', filename)
@@ -108,7 +108,9 @@ def extract_bill_info(content, filename):
             title_lines.append(clean_l)
 
     title = " ".join(title_lines)
-    return bill_num, f"BILL {bill_num} - {clean_text(title)}"
+    # Normalize num to remove leading zeros for the prefix
+    display_num = str(int(bill_num)) if bill_num.isdigit() else bill_num
+    return bill_num, f"PB-{display_num} - {clean_text(title)}"
 
 def extract_resolution_info(content, filename):
     # ID
@@ -199,12 +201,12 @@ def process_directory(directory, doc_type):
         for i in range(1, max_num + 1):
             s_num = str(i)
             if s_num not in entries:
-                prefix = ""
-                if doc_type == 'BAA': prefix = "BAA"
-                elif doc_type == 'BILL': prefix = "BILL"
-                elif doc_type == 'RESOLUTION': prefix = "Resolution"
-                
-                entries[s_num] = f"{prefix} {s_num} - "
+                if doc_type == 'BAA': 
+                    entries[s_num] = f"BAA {s_num} - "
+                elif doc_type == 'BILL': 
+                    entries[s_num] = f"PB-{s_num} - "
+                elif doc_type == 'RESOLUTION': 
+                    entries[s_num] = f"Resolution {s_num} - "
         
     def get_num(s):
         try:
@@ -219,7 +221,7 @@ def process_directory(directory, doc_type):
 base_dir = "/Users/saidamenmambayao/apps/transcriptions/docs"
 
 baa_index = process_directory(os.path.join(base_dir, "BAAs"), "BAA")
-bill_index = process_directory(os.path.join(base_dir, "bills"), "BILL")
+bill_index = process_directory(os.path.join(base_dir, "Bills"), "BILL")
 res_index = process_directory(os.path.join(base_dir, "resolution"), "RESOLUTION")
 
 if baa_index:
@@ -228,8 +230,8 @@ if baa_index:
         f.write("\n\n".join(baa_index) + "\n")
 
 if bill_index:
-    with open(os.path.join(base_dir, "bills/INDEX.md"), 'w') as f:
-        f.write("# Index of Bills\n\n")
+    with open(os.path.join(base_dir, "Bills/INDEX.md"), 'w') as f:
+        f.write("# Index of Proposed Bills (PB)\n\n")
         f.write("\n\n".join(bill_index) + "\n")
 
 if res_index:
