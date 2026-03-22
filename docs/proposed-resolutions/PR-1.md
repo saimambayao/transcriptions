@@ -1,4 +1,3 @@
-
 PROPOSED RESOLUTION 01
 
 **INTRODUCED BY:**
@@ -55,6 +54,8 @@ ARTICLE XVI
 BANGSAMORO TRANSITION AUTHORITY
 
 Section 3. *Powers and Authorities.* - Legislative and executive powers in the Bangsamoro Autonomous Region during transition shall be vested in the Bangsamoro Transition Authority.
+
+Xxx
 
 All powers and functions of the Bangsamoro Government as provided in this Organic Law is vested in the Bangsamoro Transition Authority during the transition period.
 
