@@ -1,3 +1,15 @@
+# The Surprising Reason Why 90% of Startups Fail (and How to Avoid It)
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:51
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=j94hs2odgk0
+**Transcribed**: 2026-01-08 11:14
+
+---
+
+## Organized Notes
+
 **The Real Reason Startups Succeed**
 
 **Introduction: The Myth of the Big Problem**

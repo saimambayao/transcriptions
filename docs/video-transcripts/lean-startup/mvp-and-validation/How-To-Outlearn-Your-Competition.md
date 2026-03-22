@@ -1,3 +1,15 @@
+# How To Outlearn Your Competition
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 7:26
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=jMrHcoA618c
+**Transcribed**: 2026-01-12 11:17
+
+---
+
+## Organized Notes
+
 **How to Outlearn the Competition**
 
 **Introduction: The Myth of Speed**

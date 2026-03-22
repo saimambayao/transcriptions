@@ -1,3 +1,15 @@
+# The 5 Startup Lessons No One Dares to Teach
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:41
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=zL7uGo2Yl8s
+**Transcribed**: 2026-01-08 12:20
+
+---
+
+## Organized Notes
+
 **5 Counterintuitive Startup Lessons Every Founder Needs to Learn**
 
 **The 2006 Runway Crisis**

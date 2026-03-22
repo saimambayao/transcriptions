@@ -1,3 +1,15 @@
+# How to Evaluate Startup Ideas (Quickly)
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 7:58
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=tcl8Gy5N654
+**Transcribed**: 2026-01-08 11:53
+
+---
+
+## Organized Notes
+
 **How to Evaluate a Startup Idea in Under 5 Minutes**
 
 **Introduction: The Cost of Startup Ideas**

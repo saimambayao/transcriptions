@@ -1,3 +1,15 @@
+# One Startup Metric to Rule Them All
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:39
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=_4wUM_msN2w
+**Transcribed**: 2026-01-12 11:11
+
+---
+
+## Organized Notes
+
 **Traction: The One Metric That Matters**
 
 **The Power of Traction**

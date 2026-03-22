@@ -1,3 +1,15 @@
+# Facebook Launched My Startup Idea, And Won
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 13:32
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=3idr7X3jjZc
+**Transcribed**: 2026-01-08 11:52
+
+---
+
+## Organized Notes
+
 How to Build a Moat Around Your Startup
 
 **Introduction: The Myth of Competitive Advantage**

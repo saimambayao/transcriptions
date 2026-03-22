@@ -1,3 +1,15 @@
+# The Secret Hack Every Smart Founder Uses
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 13:17
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=4kyhf6TgHEk
+**Transcribed**: 2026-01-08 14:37
+
+---
+
+## Organized Notes
+
 **How to Really Learn From Your Customers**
 
 **Introduction: Why Most Founders Learn Backwards**

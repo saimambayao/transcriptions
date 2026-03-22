@@ -1,3 +1,15 @@
+# The Freemium Trap: The $100K Mistake Most Startups Make
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:43
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=JJejC_9IH7U
+**Transcribed**: 2026-01-08 15:03
+
+---
+
+## Organized Notes
+
 **Why Most Freemium Startups Fail (and how to fix it)**
 
 **Introduction: The Freemium Myth**

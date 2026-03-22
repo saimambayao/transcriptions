@@ -1,3 +1,15 @@
+# Wish I Knew This Before Starting My Startup
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:05
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=wgzH5YSluXs
+**Transcribed**: 2026-01-08 14:12
+
+---
+
+## Organized Notes
+
 **How to Avoid the $500,000 Innovator's Bias**
 
 **Introduction: The Danger of Being First**

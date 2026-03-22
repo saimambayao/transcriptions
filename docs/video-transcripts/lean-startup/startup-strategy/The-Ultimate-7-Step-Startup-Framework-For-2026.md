@@ -1,3 +1,15 @@
+# The Ultimate 7 Step Startup Framework For 2026
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:11
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=7JE2yRy2UW4
+**Transcribed**: 2026-01-08 12:51
+
+---
+
+## Organized Notes
+
 **How to Build a Moat Around Your Startup**
 
 **Introduction: The Myth of Competitive Advantage**

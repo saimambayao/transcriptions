@@ -1,3 +1,15 @@
+# The Biggest Cheat Code for Unlocking Startup Growth
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:06
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=l1V1Ekul5-Q
+**Transcribed**: 2026-01-12 11:05
+
+---
+
+## Organized Notes
+
 **The 5-Step Framework for Scaling Your Startup**
 
 **Introduction: The 20/80 Rule of Growth**

@@ -1,3 +1,15 @@
+# Sell Like A Pro: Decoding The Ultimate Formula
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:30
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=S6djn6K6OjM
+**Transcribed**: 2026-01-08 13:00
+
+---
+
+## Organized Notes
+
 **The Physics of Doing Business: The 4 Customer Forces**
 
 **00:00**

@@ -1,3 +1,15 @@
+# Don't Start With an MVP (Minimum Viable Product)
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 7:51
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=VBr0TI67qwk
+**Transcribed**: 2026-01-12 11:51
+
+---
+
+## Organized Notes
+
 **Why You Shouldn’t Start with an MVP**
 
 **Introduction: The Pitfalls of the Traditional MVP**

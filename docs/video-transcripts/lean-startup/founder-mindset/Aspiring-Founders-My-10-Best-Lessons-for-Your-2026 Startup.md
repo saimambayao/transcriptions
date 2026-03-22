@@ -1,3 +1,15 @@
+# Aspiring Founders: My 10 Best Lessons for Your 2026 Startup
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:24
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=dpXyKzoWlhw
+**Transcribed**: 2026-01-28 09:37
+
+---
+
+## Organized Notes
+
 **Introduction: Startups are Roller Coasters**
 
 **00:00**

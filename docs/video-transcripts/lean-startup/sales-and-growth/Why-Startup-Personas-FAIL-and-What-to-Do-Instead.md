@@ -1,3 +1,15 @@
+# Why Startup Personas FAIL and What to Do Instead
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:41
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=KjCjFuvTUGw
+**Transcribed**: 2026-01-07 14:18
+
+---
+
+## Organized Notes
+
 **Why Personas Are Overkill for Startups**
 
 **00:00**

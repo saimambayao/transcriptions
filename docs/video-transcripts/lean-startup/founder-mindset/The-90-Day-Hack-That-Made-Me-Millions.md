@@ -1,3 +1,15 @@
+# The 90 Day Hack That Made Me Millions
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:04
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=LOI7AegWcyo
+**Transcribed**: 2026-01-08 14:07
+
+---
+
+## Organized Notes
+
 **How to Identify and Break Your Startup's Constraints**
 
 **Introduction: The Hidden Constraint**

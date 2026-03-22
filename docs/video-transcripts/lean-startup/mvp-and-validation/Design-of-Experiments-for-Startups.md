@@ -1,3 +1,15 @@
+# Design of Experiments for Startups
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:22
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=oV11YnrMV14
+**Transcribed**: 2026-01-19 13:25
+
+---
+
+## Organized Notes
+
 **Talking Entrepreneurship: Designing Startup Experiments**
 
 **How to Design Startup Experiments**

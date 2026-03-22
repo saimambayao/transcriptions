@@ -1,3 +1,15 @@
+# You'll Never Be Profitable Until You Fix This
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:05
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=YIFesDGcSQo
+**Transcribed**: 2026-01-08 12:23
+
+---
+
+## Organized Notes
+
 **The Hidden Growth Lever: How to Build Your Systematic Growth Rocket**
 
 **The Growth Plateau**

@@ -1,3 +1,15 @@
+# Forget the MVP. Build This First
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:20
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=qCz6eOODz-A
+**Transcribed**: 2026-01-08 12:02
+
+---
+
+## Organized Notes
+
 **The Secret to Startup Survival: Building Your Minimum Viable Runway**
 
 **The Biggest Constraint for Founders**

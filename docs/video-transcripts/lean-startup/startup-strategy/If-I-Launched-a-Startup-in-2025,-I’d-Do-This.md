@@ -1,3 +1,15 @@
+# If I Launched a Startup in 2025, I’d Do This
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 11:44
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=JVTbrK9JiAo
+**Transcribed**: 2026-01-23 09:11
+
+---
+
+## Organized Notes
+
 **How to Bootstrap Your Startup: The Bootstart Blueprint**
 
 **Introduction: The Systematic Framework**

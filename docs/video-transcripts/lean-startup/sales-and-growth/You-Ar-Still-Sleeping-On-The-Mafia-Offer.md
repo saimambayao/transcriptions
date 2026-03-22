@@ -1,3 +1,15 @@
+# You Are Still Sleeping On The Mafia Offer
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:01
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=Pd200AbI0y0
+**Transcribed**: 2026-01-08 12:27
+
+---
+
+## Organized Notes
+
 **The "Mafia Offer": An Offer They Can't Refuse**
 
 **00:00**

@@ -1,3 +1,15 @@
+# How to Sell Before You Build
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 15:30
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=_6e-YEHvW48
+**Transcribed**: 2026-01-08 14:27
+
+---
+
+## Organized Notes
+
 **Lean Principles in Practice**
 
 **00:00**

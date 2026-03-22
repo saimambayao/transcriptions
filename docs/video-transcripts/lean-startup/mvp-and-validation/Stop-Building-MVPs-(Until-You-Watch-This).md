@@ -1,3 +1,15 @@
+# Stop Building MVPs (Until You Watch This)
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:38
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=b7Gxihlfq-0
+**Transcribed**: 2026-01-19 13:25
+
+---
+
+## Organized Notes
+
 **The Confusion Surrounding MVP**
 
 **00:00**

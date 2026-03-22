@@ -1,3 +1,15 @@
+# How to Create an Irresistible Startup Pitch
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:35
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=sFzkjG05zsc
+**Transcribed**: 2026-01-08 13:48
+
+---
+
+## Organized Notes
+
 **How to Pitch Using Audience Worldviews**
 
 **Introduction: The Art of Pitching**

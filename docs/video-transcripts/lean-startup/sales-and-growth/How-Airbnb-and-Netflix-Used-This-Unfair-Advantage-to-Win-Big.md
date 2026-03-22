@@ -1,3 +1,15 @@
+# How Airbnb and Netflix Used This Unfair Advantage to Win Big
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:50
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=tjb2-votWz4
+**Transcribed**: 2026-01-08 15:39
+
+---
+
+## Organized Notes
+
 **Anything Worth Copying Will Be Copied**
 
 **00:00**

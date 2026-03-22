@@ -1,3 +1,15 @@
+# How the Best Startups are Using AI in 2026
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 11:40
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=UXzqqNoC2bs
+**Transcribed**: 2026-01-28 09:19
+
+---
+
+## Organized Notes
+
 **The Evolution of Building Fast: From Vibe Coding to Vibe Startups**
 
 **00:00**

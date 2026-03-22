@@ -1,3 +1,15 @@
+# Start With Why: The 3-Step Vision Framework
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:01
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=kA5XYviy2nU
+**Transcribed**: 2026-01-23 09:33
+
+---
+
+## Organized Notes
+
 **How to Craft a Powerful Vision Statement**
 
 **The Pitfall of Product-First Thinking**

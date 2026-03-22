@@ -1,3 +1,15 @@
+# Capture Your Business Model in 20 Minutes - Lean Canvas
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 22:59
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=7o8uYdUaFR4
+**Transcribed**: 2026-01-23 11:30
+
+---
+
+## Organized Notes
+
 **Capture Your Business Model in 20 Minutes**
 
 **Introduction: Create a Business Model Canvas in 20 Minutes**

@@ -1,3 +1,15 @@
+# How to Find Product Market Fit - A Detailed Framework
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:16
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=E_FyTYiR5nw
+**Transcribed**: 2026-01-23 09:20
+
+---
+
+## Organized Notes
+
 Many founders and investors view Product Market Fit as the first significant milestone of a startup. This is the inflection point in a product's hockey stick curve where traction or growth starts to take off rapidly.
 
 **00:11**

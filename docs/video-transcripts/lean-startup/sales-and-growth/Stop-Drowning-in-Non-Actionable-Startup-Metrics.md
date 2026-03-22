@@ -1,3 +1,15 @@
+# Stop Drowning in Non-Actionable Startup Metrics
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:01
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=YcJ6kfI3NuI
+**Transcribed**: 2026-01-08 14:16
+
+---
+
+## Organized Notes
+
 **Stop Drowning in a Sea of Metrics**
 
 **Introduction: The Analytics Paradox**

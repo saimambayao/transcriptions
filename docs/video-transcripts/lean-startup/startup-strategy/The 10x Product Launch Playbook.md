@@ -1,3 +1,15 @@
+# The 10x Product Launch Playbook: From 10 to 10,000 Customers
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:45
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=CEMGHNYgJak
+**Transcribed**: 2026-01-08 12:42
+
+---
+
+## Organized Notes
+
 **The 10X Product Launch Strategy**
 
 **Intro: The Launch Dilemma**

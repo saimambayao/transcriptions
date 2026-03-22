@@ -1,3 +1,15 @@
+# The Mindset Shift That Transformed Me as a Startup Founder
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 11:51
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=egL4pkBIQlA
+**Transcribed**: 2026-01-08 14:44
+
+---
+
+## Organized Notes
+
 **The 30-Minute Customer Discovery Method**
 
 **The Problem with Common Learning Approaches**

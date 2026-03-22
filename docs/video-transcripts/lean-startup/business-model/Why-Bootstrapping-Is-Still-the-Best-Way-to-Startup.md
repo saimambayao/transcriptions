@@ -1,3 +1,15 @@
+# Why Bootstrapping Is Still the Best Way to Startup
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 13:44
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=B_WtuOIJf50
+**Transcribed**: 2026-01-07 15:00
+
+---
+
+## Organized Notes
+
 **Bootstrapping Your Startup: From Zero to Million Users**
 
 **Introduction: The Evolution of Bootstrapping**

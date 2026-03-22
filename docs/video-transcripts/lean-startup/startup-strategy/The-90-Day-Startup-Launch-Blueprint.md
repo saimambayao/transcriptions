@@ -1,3 +1,15 @@
+# The 90-Day Startup Launch Blueprint
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 13:59
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=U2za4uy3cgc
+**Transcribed**: 2026-01-28 09:37
+
+---
+
+## Organized Notes
+
 **Redefining the MVP Strategy**
 
 **00:00**

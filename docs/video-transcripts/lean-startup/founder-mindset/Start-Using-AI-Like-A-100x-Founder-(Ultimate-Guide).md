@@ -1,3 +1,15 @@
+# Start Using AI Like A 100x Founder (Ultimate Guide)
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 8:31
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=2tkSTWDSfGs
+**Transcribed**: 2026-01-08 13:55
+
+---
+
+## Organized Notes
+
 **Start Startups Using AI Like A 100x Founder**
 
 **The Real Power of AI for Founders**

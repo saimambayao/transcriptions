@@ -1,3 +1,15 @@
+# Land Your First Customers 3x Faster
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:47
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=R8ors3Rzr1M
+**Transcribed**: 2026-01-08 12:37
+
+---
+
+## Organized Notes
+
 **The Smart Founder's Shortcut: The Demo-Sell-Build Method**
 
 **Why Traditional Methods Fail**

@@ -1,3 +1,15 @@
+# How To Avoid This Mistake In New Startups
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 11:55
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=WiEkxWltHwU
+**Transcribed**: 2026-01-12 11:22
+
+---
+
+## Organized Notes
+
 **How to Identify and Break Startup Constraints**
 
 **Intro: When Strength Becomes a Constraint**

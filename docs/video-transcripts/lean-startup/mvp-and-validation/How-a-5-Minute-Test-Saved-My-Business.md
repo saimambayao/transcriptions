@@ -1,3 +1,15 @@
+# How a 5-Minute Test Saved My Business
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:57
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=c1DOnjx-xm4
+**Transcribed**: 2026-01-12 11:00
+
+---
+
+## Organized Notes
+
 **The 5-Minute Test That Saved My Business: CloudFire Case Study**
 
 **Introduction: The Speed Myth**

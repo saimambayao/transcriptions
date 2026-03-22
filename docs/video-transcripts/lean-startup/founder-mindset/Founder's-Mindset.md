@@ -1,3 +1,15 @@
+# Founder's Mindset: From Idea to Reality
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:03
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=Sd1VbDP-xEs
+**Transcribed**: 2026-01-07 14:18
+
+---
+
+## Organized Notes
+
 **Continuous Innovation: Mindset Over Skillset**
 
 **Introduction: Mindset Over Skillset**

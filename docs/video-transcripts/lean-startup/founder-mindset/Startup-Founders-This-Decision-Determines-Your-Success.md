@@ -1,3 +1,15 @@
+# Startup Founders: This Decision Determines Your Success
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 12:34
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=-jXBs2e3f0w
+**Transcribed**: 2026-01-28 09:48
+
+---
+
+## Organized Notes
+
 **How to Pivot Your Startup Systematically**
 
 **The Reality of Startup Success**

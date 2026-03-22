@@ -1,3 +1,15 @@
+# Pick the Right Game to Win as a Startup Founder
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:19
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=wgD1qEmZEPE
+**Transcribed**: 2026-01-12 10:12
+
+---
+
+## Organized Notes
+
 **The Minimum Success Criteria: How to Set Real Goals for Your Startup**
 
 **Introduction: The Pitfall of Long-Term Forecasting**

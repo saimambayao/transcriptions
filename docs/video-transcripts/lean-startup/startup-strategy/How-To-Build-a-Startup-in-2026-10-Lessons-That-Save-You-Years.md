@@ -1,3 +1,15 @@
+# How To Build a Startup in 2026 | 10 Lessons That Save You Years
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:33
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=Pydut1BMlBw
+**Transcribed**: 2026-01-08 13:40
+
+---
+
+## Organized Notes
+
 **Introduction: Launching a Startup in 2026**
 
 **00:00**

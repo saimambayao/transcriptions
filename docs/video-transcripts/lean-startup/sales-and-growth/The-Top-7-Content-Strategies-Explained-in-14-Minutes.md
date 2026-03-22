@@ -1,3 +1,15 @@
+# Every F1 Team Explained in 14 Minutes
+
+**Channel**: Rick'sF1Addiction
+**Duration**: 14:34
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=5JMYh1UkhIA
+**Transcribed**: 2026-01-08 14:23
+
+---
+
+## Organized Notes
+
 **7 Content Strategies that are Dominating in 2026**
 
 **Introduction: The Old Way is Dead**

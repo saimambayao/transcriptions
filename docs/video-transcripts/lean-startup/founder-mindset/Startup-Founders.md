@@ -1,3 +1,15 @@
+# How Founders Sell: Founder-Led Sales Strategies for Startups
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 9:59
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=Z9t87HRmsv0
+**Transcribed**: 2026-01-07 14:09
+
+---
+
+## Organized Notes
+
 **Identifying and Positioning Against Competition**
 
 **Introduction: Common Mistakes in Identifying Competition**

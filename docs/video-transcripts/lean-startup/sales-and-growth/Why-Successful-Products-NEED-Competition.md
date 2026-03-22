@@ -1,3 +1,15 @@
+# Why Successful Products NEED Competition
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 10:31
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=pk2M9RsRM3w
+**Transcribed**: 2026-01-12 10:16
+
+---
+
+## Organized Notes
+
 **The Innovator’s Gift: Uncovering Your True Competition**
 
 **Introduction: The Innovator’s Gift Mental Model**

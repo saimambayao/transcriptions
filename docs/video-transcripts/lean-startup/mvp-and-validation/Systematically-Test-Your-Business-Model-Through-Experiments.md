@@ -1,3 +1,15 @@
+# Systematically Test Your Business Model Through Experiments
+
+**Channel**: Ash Maurya - LEANFoundry
+**Duration**: 23:56
+**Language**: English (auto-generated)
+**URL**: https://youtube.com/watch?v=WiMZWCg1Hu8
+**Transcribed**: 2026-01-19 13:25
+
+---
+
+## Organized Notes
+
 **Run Experiments to Test Your Plan**
 
 **Recap and Introduction to Systematic Testing**
