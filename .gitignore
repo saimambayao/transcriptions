@@ -24,3 +24,6 @@ Thumbs.db
 .env.local
 *.local
 .claude/
+
+# PDFs
+PDFs/
