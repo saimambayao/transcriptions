@@ -246,3 +246,16 @@ Anyway, that will all be linked in the description below so you can check it out
 *   A community-based program designed to help founders implement this 90-day systematic approach.
 *   Includes tools, step-by-step playbooks, and cohort-based workshops.
 
+
+
+## What This Means for Your Work
+
+**The Bootstart Blueprint's 3-level framework maps directly to where you should be with MoroMarket in 2026.** Level 1 (Business Model Design) is done -- you have a clear canvas for MoroMarket. Level 2 (Demand Validation) is where you need to focus now. Have you actually run Demo-Sell-Build on MoroMarket's premium features? Have you secured letters of intent or pre-orders from cooperatives? If not, you are at risk of skipping Level 2 and jumping straight to Level 3 (building and scaling), which is the mistake Ash warns against. Go back to Level 2 before writing more code.
+
+**The "Sell Before You Build" philosophy is especially important for your government platform contracts.** When BARMM agencies request new platforms or features, the instinct is to start building immediately to demonstrate capability. Instead, apply Demo-Sell-Build: create a prototype or mockup, present it to the requesting agency, and secure a formal commitment (MOU, budget allocation, or pilot agreement) before investing development time. This protects your time as a solo developer and ensures the agency is genuinely committed, not just casually interested.
+
+**The Lean(er) Canvas concept -- even simpler than Lean Canvas -- is the right tool for your cooperative training workshops.** Many cooperative leaders find even the Lean Canvas intimidating at first. A simplified version that asks just three questions (Who is it for? Where to start? What problems to tackle?) would lower the barrier for first-time entrepreneur workshops in BARMM. Consider creating a "Lean(er) Canvas for Cooperatives" template in Filipino or Bangsamoro languages and integrating it into your training curriculum as the entry point before the full Lean Canvas exercise.
+
+**The Customer Factory framework -- Activation, Retention, Referral -- gives you a diagnostic tool for every platform.** For MoroMarket: What is the activation moment (first product listed? first sale?)? What drives retention (regular transactions? dashboard insights?)? What triggers referrals (a cooperative recommending the platform to another cooperative?)? Map these three steps for MoroMarket and identify which one is the weakest link. Fix that link before adding new features.
+
+**The hobby vs. business distinction is a hard conversation you need to have with yourself about each of your 9 platforms.** Some of them may be hobbies -- interesting technical challenges that you enjoy building but that do not have a clear path to revenue or institutional adoption. That is fine, but be honest about which ones are hobbies and which ones are businesses. The businesses deserve your weekdays. The hobbies get weekends. This honest classification could be the highest-leverage decision you make this quarter.

@@ -198,3 +198,17 @@ And finally, if you're still wondering how to validate your product before you b
 * **07:47** – **Traction-First Approach:** Ash advocates for getting customer commitment (traction) *before* building the actual product.
 * **08:12** – **The True Bottleneck:** The primary hurdle for startups is not the building phase, but the identification of the *correct* product to build.
 * **Methodology:** Use constraints to force solo founders to focus on revenue and traction before scaling the team.
+
+---
+
+## What This Means for Your Work
+
+**The Southwest Airlines "propelling question" framework is the single most applicable concept in this video for your situation.** You face the same type of constraint: how do you build and deploy nine government platforms without a dev team, without VC funding, and without the institutional infrastructure that larger govtech companies rely on? The propelling question forces breakthrough thinking: "How do I deliver production-quality government platforms with only my own development capacity?" The answer is probably not "work harder" -- it is "radically simplify what each platform does and focus on the one workflow that matters most."
+
+**Southwest's decision to sell one plane and optimize three is analogous to the decision you may need to make about your platform portfolio.** Nine platforms is four planes when you can only fly three. Selling a plane -- pausing or shelving two or three platforms -- feels like failure but is actually the move that makes the remaining ones viable. Southwest did not become the most profitable airline by serving every route; they became profitable by serving fewer routes more efficiently. MoroTech's path to sustainability may require the same discipline.
+
+**The turnaround time optimization (60 minutes to 10 minutes) maps to your deployment and onboarding bottleneck.** For MoroTech platforms, the "gate time" is the period between deploying a platform and getting government staff to actually use it productively. If that onboarding process takes months of hand-holding, your capacity to serve multiple ministries is crippled. The breakthrough question is: "How do I get a ministry staff member from first login to productive use in one hour instead of one month?" That might mean radically simplifying the initial workflow, providing video walkthroughs, or pairing each deployment with a dedicated training session.
+
+**The "constraint as competitive advantage" reframe changes how you think about being a solo founder in Cotabato City.** Most govtech companies would see your situation -- limited capital, no team, operating in a post-conflict region -- as disqualifying. But these constraints are also why no one else is building these tools. The constraint forces you to build lean, context-specific platforms that larger companies cannot replicate because they do not understand the Bangsamoro governance context. Your constraint is your moat.
+
+**The traction-first lesson at the end is the thread that connects this to everything else.** Getting one ministry to actively use one platform -- daily, for real workflows, generating real value -- is worth more than nine half-deployed platforms. That single proof point becomes the case study for every subsequent ministry pitch. Southwest did not try to serve 50 cities with three planes; they nailed three routes first. Do the same.

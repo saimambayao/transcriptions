@@ -223,3 +223,29 @@ Thanks for watching, and until next time, take care.
 
 **Final Wisdom**
 *   **[11:56]** Separate personal success from idea success. Cultivate the discipline of evidence-based decision-making. Be ruthless with the idea, but have faith in yourself.
+
+---
+
+## What This Means for Your Work
+
+**The 3P decision framework (Persevere, Pivot, Pause) is exactly what you need for triaging your nine platforms.** Not all nine will achieve traction. Some may need pivoting -- perhaps the OOBC policy tool needs to become a broader governance dashboard. Others may need pausing entirely so you can concentrate resources on the two or three with the strongest adoption signals. The discipline here is not emotional attachment to any single platform, but evidence-based assessment of which ones BARMM institutions are actually using.
+
+**The post-rationalization trap is especially dangerous when your "customers" are also your government colleagues.** When a ministry undersecretary says "this platform looks promising" in a meeting, it is easy to rationalize that as validation. But as Ash warns, entrepreneurs are especially gifted at post-rationalization. The accountability system he describes -- external stakeholders who will call out bias -- is something you should build intentionally. The Moro Developers Community or trusted peers outside government could serve as your advisory board for honest platform-by-platform assessments every 90 days.
+
+**The 90-day cycle with measurable success criteria solves a real problem in your workflow.** Without fixed evaluation points, platforms drift in perpetual development. A concrete 90-day cycle for each active platform -- with a pre-defined minimum success criteria like "10 active users in the target ministry" or "3 completed workflows per week" -- creates the forcing function to decide persevere, pivot, or pause. This is more actionable than annual planning cycles that government work tends to default to.
+
+**Separating your success as a founder from the success of any single idea is the hardest lesson here, because MoroTech's mission feels inseparable from its products.** MoroTech exists to empower Bangsamoro through technology. If a specific platform fails, it can feel like the mission is failing. But the mission is bigger than any one tool. Killing a platform that is not working and redirecting that energy to one that is -- that is the mission succeeding, not failing. Your identity as a builder for Bangsamoro does not depend on every product shipping.
+
+**The speed-of-learning advantage applies differently when you operate in a trust-based institutional environment.** In a competitive market, learning fast means outpacing rivals. In BARMM governance, learning fast means understanding institutional needs before political transitions reshuffle priorities. The 2025-2028 transition period is your window. Every 90-day cycle that passes without validated platform adoption is a cycle closer to potential leadership changes that could reset institutional buy-in.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**The 3P decision framework (Persevere, Pivot, Pause) should be built into your /startup skill as a quarterly review protocol for every active MoroTech platform.** At the end of each 90-day cycle, the /startup skill should prompt a structured 3P assessment: Is this platform above its minimum success criteria (persevere)? Is it below but with evidence-based learnings pointing to a new direction (pivot)? Is it below with no clear learnings to guide next steps (pause and gather more evidence)? Running this consistently prevents platforms from drifting in perpetual development.
+
+**Your /management skill should maintain a traction roadmap for MoroTech using the minimum success criteria curves Ash describes.** For each active platform, define a "water line" -- the minimum adoption metric (active users, completed workflows, or formal commitments) that justifies continued investment. The /management skill should visualize this quarterly, comparing actual traction against the minimum curve. Being below the water line is not a failure signal -- it is a pivot or pause signal that demands honest assessment rather than more features.
+
+**The external accountability system should be operationalized through your /cofounder and /context skills.** Since you do not have co-founders, your accountability team needs to be intentionally assembled. The /cofounder skill can help you identify the right people: trusted members of the Moro Developers Community, Bangsamoro Scholars Association peers, or domain experts outside government who will challenge your assumptions. The /context skill should maintain a log of accountability check-ins with these stakeholders, ensuring they happen every 90 days without exception.
+
+**Your /leadership skill should embed the post-rationalization bias warning as a self-check before any "persevere" decision.** When a platform is underperforming and you are inclined to continue, the /leadership skill should explicitly ask: "What external evidence supports continuing? Are you rationalizing continued investment because of sunk costs, emotional attachment, or institutional relationships?" This is especially important in BARMM governance work, where a ministry champion's verbal encouragement can feel like validation even when adoption metrics are flat.
+
+**The /session-summary skill should produce a 3P-ready progress report at the end of every 90-day cycle.** Instead of a general summary, the output should be structured for an accountability meeting: what you believed 90 days ago (captured from the previous cycle's Lean Canvas), what you learned through evidence, and what the data says about persevere, pivot, or pause. This formatted output makes accountability conversations efficient and grounded in data rather than narrative.

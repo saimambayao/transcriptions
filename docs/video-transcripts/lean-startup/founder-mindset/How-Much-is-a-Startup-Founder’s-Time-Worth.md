@@ -176,3 +176,17 @@ A 3-step process to ensure viability before focusing on "fairness."
 *   **Singular Focus:** Until you reach Product-Market Fit, focus on **one** product, **one** price point, and **one** beachhead customer segment.
 *   **Testing Variants:** It is acceptable to test 1-3 models in parallel initially to find the most viable path.
 *   **Immediate Action:** Perform a "Rapid Viability Test" immediately to prevent months of wasted development on an unviable model.
+
+---
+
+## What This Means for Your Work
+
+**The $1,000/hour sweat equity calculation should change how you allocate your time between consultancy and MoroTech development.** If your risk-adjusted founder time is worth $1,000/hour, then every hour you spend on low-leverage tasks -- formatting documents, manual data entry, administrative overhead for OOBC -- is an extremely expensive use of your most constrained resource. This does not mean you should stop consulting; it means you should aggressively automate or delegate the non-core parts of your consultancy work so that your remaining hours go to the highest-impact MoroTech activities.
+
+**The distinction between core and non-core jobs is your most actionable takeaway.** Core jobs for MoroTech are: talking to ministry end-users, designing platform workflows based on real governance needs, and making architecture decisions that only you can make. Non-core jobs are: routine coding that AI tools can handle, server maintenance, content formatting, and administrative tasks. Every non-core hour you reclaim is an hour that can go toward the core activities that determine whether MoroTech platforms get adopted.
+
+**The "learning accelerator" hierarchy (books, workshops, experts) is something you should apply to your own skill gaps.** You are a strong developer and a deep domain expert in Bangsamoro governance. But are you equally strong in product marketing, user experience design, or SaaS pricing strategy? For each gap, the investment calculation is simple: a $20 book or a $200 workshop that saves you 10 hours of trial-and-error at $1,000/hour effective rate is a 50x to 500x return.
+
+**The zombie startup warning is the most uncomfortable part of this video for your situation.** A zombie startup is one that is neither dead nor alive -- it makes enough to survive but not enough to grow. If MoroTech's revenue is mostly coming from your personal consultancy hours rather than platform subscriptions, and if the platforms are deployed but not generating independent revenue, that fits the zombie pattern. The antidote is not more features; it is a hard look at the business model and a commitment to either find a path to platform revenue or consolidate to the platforms with the strongest adoption signals.
+
+**The "speed over money" principle is counterintuitive for someone operating in a resource-constrained environment, but it is correct.** In Bangsamoro, the instinct is to be frugal because money is scarce. But time is scarcer. If paying for a cloud service, a design tool, or a contractor saves you 20 hours of work, and those 20 hours can be redirected to a ministry demo that secures a platform contract, the ROI is obvious. Being cheap with money while being wasteful with time is the more expensive mistake.

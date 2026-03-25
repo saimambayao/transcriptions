@@ -172,3 +172,23 @@ This often requires rethinking the scope and definition of your product so you c
     *   Large deals involve legal and procurement cycles (2-9 months), giving founders time to build.
     *   Small deals (B2C) accept waiting for pre-orders (ideally 2-3 months).
     *   *Rule of thumb:* Never wait for a finished product to approach prospects.
+
+## What This Means for Your Work
+
+**The demo-sell-build approach is your highest-leverage move for new e-Bangsamoro modules.** You are building multiple platforms simultaneously -- MoroMarket, Tarbiyyah-MS, BangsamoroHR, SBP. The temptation is to build each one to a usable state before approaching stakeholders. But the video's machine learning case study shows a better path: create a sample deliverable (a mock dashboard, a sample report, a prototype workflow) and pitch it to 10-15 decision-makers in the target ministry. If they sign a letter of intent or agree to a paid pilot, you know exactly what to build. If they do not, you saved months of development time.
+
+**Your Unique Value Proposition for each platform should lead every conversation, not your feature list.** For MoroMarket, the UVP is not "a cooperative digital marketplace" -- it is "your cooperative's products become visible to buyers across Bangsamoro and beyond, without your members needing to learn technology." For Tarbiyyah-MS, the UVP might be "your madrasah's enrollment, attendance, and curriculum compliance in one place, accessible from your phone." Nail the promise before you demo the product.
+
+**The "movie trailer" demo approach solves a real problem you face: limited attention from busy government officials.** When you get 30 minutes with a ministry director or BTA Parliament member, you cannot afford a full feature walkthrough. Show the single most valuable screen or report first. Pause. Read their reaction. If they lean forward, show the next thing. If they start asking "when can we use this?" -- you are done. That is the buying signal. Do not keep demoing past the point of commitment.
+
+**Government procurement timelines actually work in your favor with demo-sell-build.** Ash's Principle 3 says large customers move slowly -- legal, procurement, and budget approval can take months. In BARMM, this is even more true. An MOA with a ministry can take 2-4 months to process. A budget allocation might require inclusion in the next Annual Investment Plan. But this timeline means you can close a commitment with a demo today and have months to build while the paperwork processes. The government's slowness is your development runway.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**The demo-sell-build workflow should be embedded in /marketer as a pre-launch campaign template.** Before any platform launches, /marketer should produce a campaign plan with three phases: (1) Create the demo deliverable (mock dashboard, sample report), (2) Generate a target list of 15 decision-makers, (3) Design the outreach sequence -- not email blasts, but personal invitations to a 30-minute demo. /marketer turns demo-sell-build from a philosophy into an executable marketing plan.
+
+**Use /storyteller to craft the "movie trailer" demo script for each platform.** The 30-minute meeting with a ministry director requires a script that shows the single most valuable screen first, then pauses for reaction. /storyteller should produce this script: opening hook (name the pain point in 2 sentences), hero shot (the one screen that solves it), pause prompt ("would this save your team time?"), and conditional continuation (show more only if they lean forward). This demo script is the highest-leverage content /storyteller can produce.
+
+**Your /branding skill should frame government procurement delays as a strategic advantage in all investor and partner communications.** Use /branding to craft the narrative: "BARMM's procurement timeline gives us 2-4 months of committed development runway per contract." This reframes a perceived weakness (slow government) into a strength (guaranteed building time with committed customers). /branding makes this narrative consistent across pitch decks, proposals, and partner communications.
+
+**The /social-media skill should produce UVP-led content, not feature-led content.** Every /social-media post about MoroMarket should lead with the UVP ("your cooperative's products become visible to buyers across Bangsamoro") and never with a feature list ("now with product categories and search filters"). /social-media should reject any draft that leads with features and rewrite it to lead with the promise. The UVP is what makes a cooperative manager stop scrolling; the feature list is what they read after they are already interested.

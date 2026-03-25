@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bill Drafting Guidebook for the Bangsamoro Parliament</title>
+<style>
+/* ============================================================
+   BILL DRAFTING GUIDEBOOK — PDF Stylesheet
+   Color scheme: Navy (#1B365D) + Gold (#C5A54E) + Charcoal (#2D2D2D)
+   ============================================================ */
+
+/* --- PAGE SETUP --- */
+@page {
+  size: A4;
+  margin: 25mm 22mm 30mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* Cover page: no header/footer */
+@page cover {
+  margin: 0;
+  @top-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* TOC page: no running header */
+@page toc {
+  @top-center { content: none; }
+}
+
+/* Chapter openers: start on a right page */
+@page chapter-start {
+  /* inherits header/footer from default */
+}
+
+/* Landscape pages for wide tables */
+@page landscape {
+  size: A4 landscape;
+  margin: 22mm 25mm 25mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* --- GLOBAL RESET & BASE --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 11pt;
+  line-height: 1.55;
+}
+
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #2D2D2D;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- COVER PAGE --- */
+.cover-page {
+  page: cover;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(165deg, #0E2240 0%, #1B365D 40%, #243F6B 100%);
+  color: #FFFFFF;
+  padding: 35mm 30mm;
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-institution-top {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 20mm;
+}
+
+.cover-title {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 28pt;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 8mm;
+  max-width: 140mm;
+}
+
+.cover-gold-line {
+  width: 60mm;
+  height: 1.5pt;
+  background: #C5A54E;
+  margin: 6mm auto;
+}
+
+.cover-subtitle {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12.5pt;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  color: #D4D8DC;
+  max-width: 130mm;
+  margin-bottom: 25mm;
+}
+
+.cover-author {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  margin-top: 15mm;
+}
+
+.cover-bottom-block {
+  margin-top: auto;
+  padding-top: 15mm;
+}
+
+.cover-institution {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-institution-barmm {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-location {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  color: #A0AABC;
+  letter-spacing: 0.05em;
+}
+
+/* --- TABLE OF CONTENTS --- */
+.toc-section {
+  page: toc;
+  page-break-after: always;
+}
+
+.toc-section h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  color: #1B365D;
+  text-align: center;
+  margin-bottom: 10mm;
+  padding-bottom: 4mm;
+  border-bottom: 2pt solid #C5A54E;
+}
+
+/* --- CHAPTER CONTENT --- */
+.chapter {
+  page-break-before: always;
+}
+
+.chapter:first-of-type {
+  /* introduction doesn't need extra break if it follows TOC */
+}
+
+/* --- HEADINGS --- */
+h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 6mm;
+  padding-bottom: 3mm;
+  border-bottom: 2.5pt solid #C5A54E;
+  line-height: 1.25;
+  page-break-after: avoid;
+  string-set: chapter-title content();
+}
+
+h2 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  padding-bottom: 2mm;
+  border-bottom: 1pt solid #D5D9DE;
+  line-height: 1.3;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 7mm;
+  margin-bottom: 3mm;
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11.5pt;
+  font-weight: 700;
+  color: #2D4A73;
+  margin-top: 5mm;
+  margin-bottom: 2mm;
+  line-height: 1.4;
+  page-break-after: avoid;
+}
+
+h5 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  color: #3A5A8A;
+  margin-top: 4mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+/* --- PARAGRAPHS --- */
+p {
+  margin-bottom: 3mm;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+}
+
+/* --- LISTS --- */
+ul, ol {
+  margin-left: 8mm;
+  margin-bottom: 3mm;
+  padding-left: 0;
+}
+
+ul li, ol li {
+  margin-bottom: 1.5mm;
+  padding-left: 1mm;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 1mm;
+  margin-bottom: 1mm;
+}
+
+/* --- BLOCKQUOTES (BOL quotations, legal text) --- */
+blockquote {
+  background: #F0F3F6;
+  border-left: 3.5pt solid #1B365D;
+  margin: 4mm 0 4mm 4mm;
+  padding: 4mm 5mm;
+  font-size: 10pt;
+  color: #2D2D2D;
+  line-height: 1.5;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin-bottom: 2mm;
+  text-align: left;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- TABLES --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 5mm 0;
+  font-size: 9.5pt;
+  line-height: 1.4;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+thead tr {
+  background: #1B365D;
+  color: #FFFFFF;
+}
+
+thead th {
+  padding: 3mm 4mm;
+  text-align: left;
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 9.5pt;
+  border: 0.5pt solid #14294A;
+}
+
+tbody td {
+  padding: 2.5mm 4mm;
+  border: 0.5pt solid #D0D4D8;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #F5F7F9;
+}
+
+tbody tr:nth-child(odd) {
+  background: #FFFFFF;
+}
+
+/* --- TABLE COLUMN WIDTHS FOR TEMPLATES --- */
+/* Checklist tables: narrow Yes/No/NA columns */
+table th:nth-child(3),
+table td:nth-child(3),
+table th:nth-child(4),
+table td:nth-child(4),
+table th:nth-child(5),
+table td:nth-child(5) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Checklist-style tables (5-col with No/Item/Yes/No/NA) */
+.checklist-table th:nth-child(1),
+.checklist-table td:nth-child(1) {
+  width: 8mm;
+  text-align: center;
+}
+
+.checklist-table th:nth-child(3),
+.checklist-table td:nth-child(3),
+.checklist-table th:nth-child(4),
+.checklist-table td:nth-child(4),
+.checklist-table th:nth-child(5),
+.checklist-table td:nth-child(5) {
+  width: 12mm;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* First column (No.) narrow */
+table th:first-child,
+table td:first-child {
+  width: auto;
+}
+
+/* Form field lines */
+.form-line {
+  display: inline-block;
+  min-width: 35mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+.form-line-wide {
+  display: inline-block;
+  min-width: 60mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+/* Fix checkbox rendering - ensure inline */
+td {
+  white-space: normal;
+}
+
+/* --- CODE BLOCKS --- */
+pre {
+  background: #F0F3F6;
+  border: 0.5pt solid #D0D4D8;
+  border-radius: 2pt;
+  padding: 4mm;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9pt;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  margin: 4mm 0;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9.5pt;
+  background: #EEF1F4;
+  padding: 0.5pt 2pt;
+  border-radius: 1.5pt;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --- HORIZONTAL RULES --- */
+hr {
+  border: none;
+  border-top: 1pt solid #D0D4D8;
+  margin: 8mm 0;
+}
+
+/* --- STRONG & EMPHASIS --- */
+strong {
+  font-weight: 700;
+  color: #1B365D;
+}
+
+em {
+  font-style: italic;
+}
+
+/* --- LINKS (for PDF, style as text) --- */
+a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+/* --- SPECIAL CLASSES --- */
+
+/* Drafting tips / practical guidance callout boxes */
+.drafting-tip {
+  background: #FFF9EE;
+  border: 1pt solid #E8D5A0;
+  border-left: 4pt solid #C5A54E;
+  padding: 4mm 5mm;
+  margin: 5mm 0;
+  font-size: 10pt;
+  page-break-inside: avoid;
+}
+
+.drafting-tip strong:first-child {
+  color: #8A6D1B;
+}
+
+/* Chapter number label */
+.chapter-label {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 2mm;
+  display: block;
+}
+
+/* Summary boxes at end of chapters */
+.summary-box {
+  background: #F0F3F6;
+  border: 1pt solid #B8C4D0;
+  border-top: 3pt solid #1B365D;
+  padding: 5mm;
+  margin: 6mm 0;
+  page-break-inside: avoid;
+}
+
+/* Checklist styling */
+.checklist {
+  list-style-type: none;
+  margin-left: 2mm;
+}
+
+.checklist li::before {
+  content: "\2610\0020";
+  font-size: 11pt;
+}
+
+/* Page break utility */
+.page-break {
+  page-break-before: always;
+}
+
+/* Landscape page container for wide tables */
+.landscape-page {
+  page: landscape;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.landscape-page table {
+  font-size: 9pt;
+}
+
+.landscape-page thead th {
+  font-size: 9pt;
+  padding: 2.5mm 3mm;
+}
+
+.landscape-page tbody td {
+  padding: 2mm 3mm;
+}
+
+/* --- FOOTNOTES --- */
+.footnote {
+  font-size: 8.5pt;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* --- TOC ENTRY STYLING --- */
+.toc-entries {
+  margin-top: 4mm;
+}
+
+.toc-chapter {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 5mm;
+  margin-bottom: 1.5mm;
+  padding-top: 2mm;
+  padding-bottom: 1mm;
+  border-bottom: 0.5pt solid #E0E3E8;
+  page-break-inside: avoid;
+}
+
+.toc-chapter a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+.toc-chapter a:hover {
+  text-decoration: underline;
+}
+
+/* Back to TOC link at end of each chapter */
+.back-to-toc {
+  margin-top: 10mm;
+  padding-top: 4mm;
+  border-top: 0.5pt solid #E0E3E8;
+  text-align: right;
+  font-size: 8.5pt;
+}
+
+.back-to-toc a {
+  color: #8A8A8A;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.back-to-toc a:hover {
+  color: #1B365D;
+}
+
+/* Keep chapter heading with its first few entries */
+.toc-chapter + .toc-entry {
+  page-break-before: avoid;
+}
+
+.toc-entry {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt;
+  color: #3A3A3A;
+  line-height: 1.65;
+  margin-bottom: 0.3mm;
+}
+
+.toc-level-0 {
+  padding-left: 0;
+  font-weight: 600;
+}
+
+.toc-level-1 {
+  padding-left: 6mm;
+}
+
+.toc-level-2 {
+  padding-left: 14mm;
+  font-size: 9pt;
+  color: #555555;
+}
+
+.toc-level-3 {
+  padding-left: 22mm;
+  font-size: 8.5pt;
+  color: #666666;
+}
+
+/* --- PRINT OPTIMIZATIONS --- */
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+blockquote, pre, .drafting-tip, .summary-box {
+  page-break-inside: avoid;
+}
+
+table {
+  page-break-inside: auto;
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+p {
+  orphans: 3;
+  widows: 3;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Allow large tables to break */
+table.allow-break {
+  page-break-inside: auto;
+}
+
+table.allow-break tr {
+  page-break-inside: avoid;
+}
+</style>
+</head>
+<body>
+
+<!-- ======== CONTENT (injected by Python) ======== -->
+<div class="chapter" id="appendix-d">
+<h1 id="appendix-d-pre-drafting-checklist">Appendix D — Pre-Drafting Checklist</h1>
+<p>This checklist is designed to be used before you start writing. Go through it after receiving a legislative directive and completing your research, but before you draft the first section of the bill. If you cannot check off an item, stop and address it. A gap at this stage becomes a structural problem in the draft.</p>
+<p>Print this checklist. Keep it on your desk. Use it every time.</p>
+<hr>
+<h3 id="1-legislative-directive">1. Legislative Directive</h3>
+<ul>
+<li>&#9744; 1.1 Has the MP provided a clear legislative direction?</li>
+<li>&#9744; 1.2 Is the Initial Legislative Template documented?</li>
+<li>&#9744; 1.3 Does the proposal align with the MP&rsquo;s legislative agenda?</li>
+<li>&#9744; 1.4 Has the MP approved the Initial Legislative Template?</li>
+<li>&#9744; 1.5 Has the MP identified the policy objectives the bill must achieve?</li>
+<li>&#9744; 1.6 Has the MP indicated a desired timeline for filing?</li>
+<li>&#9744; 1.7 Have potential co-authors been identified or discussed?</li>
+</ul>
+<h3 id="2-legal-authority">2. Legal Authority</h3>
+<ul>
+<li>&#9744; 2.1 Is the subject within the enumerated powers (BOL Article V, Section 2)?</li>
+<li>&#9744; 2.2 If relying on the General Welfare Clause (Article V, Section 3), has the legal basis been documented and the connection to an express power articulated?</li>
+<li>&#9744; 2.3 Does the 1987 Constitution permit this legislation?</li>
+<li>&#9744; 2.4 Are there national laws that apply to or preempt the subject?</li>
+<li>&#9744; 2.5 If national laws exist, has the relationship between the proposed BAA and those laws been analyzed?</li>
+<li>&#9744; 2.6 Are there existing Bangsamoro Autonomy Acts on the same or a related subject?</li>
+<li>&#9744; 2.7 If existing BAAs apply, has the proposed bill been checked for conflicts or overlaps?</li>
+<li>&#9744; 2.8 Are there BOL provisions that specifically address the subject? If so, have they been quoted and cited?</li>
+<li>&#9744; 2.9 Has the residual clause been considered — is there any aspect of this subject reserved to Congress?</li>
+<li>&#9744; 2.10 Are there Shari&rsquo;ah considerations relevant to the subject matter?</li>
+</ul>
+<h3 id="3-research">3. Research</h3>
+<ul>
+<li>&#9744; 3.1 Has the Policy Research and Legal Services (PRLS) been consulted?</li>
+<li>&#9744; 3.2 Have all related national laws and their implementing rules and regulations been identified?</li>
+<li>&#9744; 3.3 Have all related BAAs, resolutions, and executive issuances been identified?</li>
+<li>&#9744; 3.4 Has a comparative review been conducted — how do other jurisdictions or regions handle this subject?</li>
+<li>&#9744; 3.5 Is the Legislative Research Briefer complete?</li>
+<li>&#9744; 3.6 Has the Legislative Research Briefer been reviewed and approved by the MP?</li>
+<li>&#9744; 3.7 Have relevant data and statistics been gathered (enrollment figures, budget data, population data, incidence rates, etc.)?</li>
+<li>&#9744; 3.8 Have relevant provisions of the Bangsamoro Development Plan (BDP) 2023-2028 been reviewed for alignment?</li>
+<li>&#9744; 3.9 Have implementing rules and regulations of related laws been reviewed for practical insights?</li>
+</ul>
+<h3 id="4-consultation">4. Consultation</h3>
+<ul>
+<li>&#9744; 4.1 Have subject-matter experts been consulted?</li>
+<li>&#9744; 4.2 Have the implementing agencies that will carry out the law been consulted?</li>
+<li>&#9744; 4.3 Have the implementing agencies confirmed their capacity to implement the bill&rsquo;s requirements?</li>
+<li>&#9744; 4.4 Have concerned sectors and constituencies been consulted?</li>
+<li>&#9744; 4.5 Have affected local government units been consulted?</li>
+<li>&#9744; 4.6 Has the gender impact of the proposed legislation been assessed?</li>
+<li>&#9744; 4.7 Has the human rights impact been assessed?</li>
+<li>&#9744; 4.8 If the bill affects indigenous peoples, have their representatives been consulted consistent with their customary processes?</li>
+<li>&#9744; 4.9 Have consultation findings been documented and shared with the MP?</li>
+</ul>
+<h3 id="5-drafting-readiness">5. Drafting Readiness</h3>
+<ul>
+<li>&#9744; 5.1 Is the working outline prepared?</li>
+<li>&#9744; 5.2 Has the working outline been reviewed by the MP or a senior staff member?</li>
+<li>&#9744; 5.3 Has the comparative matrix been prepared (showing how the proposed bill relates to existing laws)?</li>
+<li>&#9744; 5.4 Are all relevant BOL provisions identified, quoted, and ready for citation?</li>
+<li>&#9744; 5.5 Has the bill&rsquo;s structure been determined (number of articles/chapters, if any, and the general sequence of sections)?</li>
+<li>&#9744; 5.6 Have the terms that require definition been listed?</li>
+<li>&#9744; 5.7 Has the implementing agency or mechanism been identified?</li>
+<li>&#9744; 5.8 Has the funding source or appropriation mechanism been determined?</li>
+<li>&#9744; 5.9 Has the penalty or enforcement scheme been determined?</li>
+<li>&#9744; 5.10 Has a timeline for drafting been set, with milestones for first draft, MP review, and finalization?</li>
+<li>&#9744; 5.11 Are all source materials organized and accessible for reference during drafting?</li>
+</ul>
+<h3 id="6-compliance-and-consistency">6. Compliance and Consistency</h3>
+<ul>
+<li>&#9744; 6.1 Has the proposed bill been checked against the BOL compliance requirements (Chapter 11)?</li>
+<li>&#9744; 6.2 Is the terminology consistent with the BOL and existing BAAs?</li>
+<li>&#9744; 6.3 Has the bill been checked for potential conflicts with the Constitution&rsquo;s bill of rights and other provisions?</li>
+<li>&#9744; 6.4 If the bill creates a government body, does it specify composition, powers, functions, funding, and accountability?</li>
+<li>&#9744; 6.5 If the bill imposes obligations, does every obligation have an accountable body and a consequence for non-compliance?</li>
+<li>&#9744; 6.6 If the bill requires expenditure, does it include an appropriation clause?</li>
+</ul>
+<hr>
+<p><strong>How to use this checklist.</strong> Items 1 through 4 should be completed before drafting begins. Items 5 and 6 should be verified at the start of drafting and re-checked when the first draft is complete. If you discover during drafting that an item in sections 1 through 4 was not adequately addressed, pause the draft and go back. It is faster to fill a research gap now than to restructure a bill later.</p>
+<p>This checklist does not replace the Quality Review Checklist (Appendix E), which is used after the draft is written. The Pre-Drafting Checklist ensures you are ready to write. The Quality Review Checklist ensures what you wrote is sound.</p>
+</div>
+
+
+</body>
+</html>

@@ -131,3 +131,17 @@ This is also when the sunk cost fallacy kicks in making it harder to kill off a 
 *   Aim for asymmetric payoffs (10x return) to justify the high risk.
 *   **Zombie Startup:** A venture that isn't failing but isn't growing optimally; often stuck in small markets due to poor initial planning.
 *   **Prevention:** Stress-test your business model before you begin to avoid the sunk cost fallacy later.
+
+---
+
+## What This Means for Your Work
+
+**The pricing-determines-product principle flips the sequence you have likely been following with MoroTech platforms.** If you have been building platforms first and figuring out pricing later, this video explains why that is backwards. Your pricing model -- whether it is per-ministry licensing, per-user subscriptions, or project-based contracts -- determines which features to build, which customer segment to target, and what level of support to provide. A platform priced at PHP 50,000/year per ministry requires a very different product than one priced at PHP 500,000/year.
+
+**The business-model-based pricing framework is more useful than value-based pricing for govtech in BARMM.** Value-based pricing assumes customers can easily compare your product to alternatives. But BARMM ministries are not comparison-shopping govtech platforms -- most have never used one. Business-model-based pricing starts from your minimum success criteria: how much annual revenue does MoroTech need to sustain a team of three developers? Work backwards from that number to determine how many ministry contracts you need and at what price point.
+
+**The "singular focus" advice -- one product, one price, one customer segment until product-market fit -- is the hardest pill to swallow when you have nine platforms.** Ash is explicit: do not split focus across multiple products and pricing models before achieving product-market fit with one. For MoroTech, this means picking the single platform with the strongest adoption potential, setting a clear price for it, targeting the one ministry most likely to pay, and not moving to the next platform until that first one is generating revenue. Nine platforms at zero revenue each is not a portfolio; it is a distraction.
+
+**The "free" strategy trap is directly relevant if you have been giving platforms to ministries at no cost.** Ash explains that free users are different from customers, and free access attracts feedback that steers you in the wrong direction. If BARMM ministries are using your platforms for free, they have no incentive to give you honest feedback about whether the tool is worth paying for. Charging -- even a nominal amount -- filters for the ministry offices that have a genuine need and creates the accountability loop that free deployments lack.
+
+**The Founder-Model Fit concept helps you choose between consulting-heavy and product-heavy revenue models.** You have the skills and relationships for both. A consulting-heavy model (high-touch, custom implementations) leverages your government access but does not scale beyond your personal capacity. A product-heavy model (standardized platforms with self-service onboarding) scales better but requires upfront investment in documentation, training materials, and product polish. Your MPA background and policy expertise suggest the consulting model comes naturally; the question is whether you intentionally transition toward the product model over the next three years.

@@ -230,3 +230,29 @@ Thanks for watching, and until next time, take care.
 
 **The Golden Rule [10:51]**
 *   **Measure what they did, not what they say they'll do.** Actions are the only reliable evidence for a startup.
+
+---
+
+## What This Means for Your Work
+
+**The "surveys seldom lead to breakthrough insights" warning validates a decision you should make now: stop relying on feedback forms and stakeholder surveys for platform validation.** If you have been circulating Google Forms to ministry staff asking them to rate platform features, that data is likely misleading you. The staff who fill out surveys are not necessarily the ones who would use the platform daily, and their answers reflect what they think you want to hear, not what they actually do.
+
+**The three tactics -- avoid premature early adopter definition, focus on bigger context, and interview recent buyers -- map directly to your govtech challenge.** Your early adopters are not "BARMM ministries" broadly. They are specific individuals within specific offices who have a specific workflow problem that is urgent enough to make them switch from their current process. Discovery interviews will reveal who these people are. It might be the overworked records officer in one ministry, not the undersecretary you have been pitching to.
+
+**Interviewing "recent buyers" in your context means talking to government offices that have recently adopted any digital tool, not just yours.** Which BARMM ministries have recently started using a new system -- even a simple Google Sheets workflow or a shared drive structure? Those are your best interview candidates because they have already demonstrated willingness to change their process. They can tell you what pushed them to switch, what almost stopped them, and what they wish the new tool did differently. That is gold for positioning MoroTech platforms.
+
+**The "bigger context" principle prevents you from building too narrowly.** If you are building a policy tracking tool, the bigger context is not "how do you track policies" but "how do you ensure that a Chief Minister directive actually results in implemented action at the LGU level." That bigger context might reveal that the real bottleneck is not tracking but communication between offices, which changes what the platform should prioritize entirely.
+
+**The golden rule -- measure what they did, not what they say -- means instrumenting your deployed platforms with usage analytics immediately.** You need to know which features are actually used, how often, and by whom. If 80% of logins result in users checking one specific function and ignoring the rest, that tells you where the real value lives. Build more of that. Let the unused features inform what to cut, not what to improve.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**The three interview tactics should be codified into your /cofounder skill as a pre-build checklist for any new MoroTech platform module.** Before writing code, /cofounder should walk you through: (1) Have you avoided premature early adopter definition -- are you sure it is not just one enthusiastic undersecretary but a real segment? (2) Have you explored the bigger context -- not just "how do you track policies" but "how do you ensure a directive results in action"? (3) Are you interviewing recent adopters of any digital tool, not just people who might use yours? These three gates prevent wasted solo dev cycles.
+
+**Your /training-assistant skill can use the "interview recent buyers, not shoppers" principle to design better SEED Initiative modules.** When building training content for the Moro Developers Community, interview developers who recently completed an online course or bootcamp -- not those who are still browsing options. They can tell you what worked, what they dropped out of, and what made them actually finish. This feedback shapes modules that have high completion rates rather than high enrollment with low follow-through.
+
+**The "bigger context" principle directly improves how /product and /design-thinking generate feature specifications.** Instead of defining features in the solution context ("build a document tracker"), these skills should prompt you to articulate the bigger context first ("ensure that Chief Minister directives result in implemented LGU-level action"). This reframe often reveals that the right feature is not what you initially assumed -- it might be a notification system rather than a tracking dashboard.
+
+**Your /auto-research loops should incorporate the golden rule: measure what users did, not what they said.** When running optimization cycles on MoroTech platforms, feed actual usage data (login frequency, feature adoption, task completion rates) into the /auto-research framework rather than survey responses or stakeholder feedback. This prevents the Bangsamoro cultural dynamic -- where junior staff defer to superiors and give polite non-committal answers -- from corrupting your learning signal.
+
+**The /grill-me skill can simulate the "bigger context" questioning technique for self-testing before stakeholder meetings.** Before you pitch a platform to a ministry director, run /grill-me with the prompt: "Challenge me to articulate the bigger context behind this platform, not just the solution." If you cannot clearly describe the desired outcome beyond the tool itself, the pitch is not ready. This pre-flight check saves you from delivering feature tours when you should be demonstrating workflow transformation.

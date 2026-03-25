@@ -174,3 +174,23 @@ The next step is learning how to optimize and grow traction. To learn how to do 
 **Next Steps for Founders**
 *   **09:12** – Identify the *single* traction metric that truly drives your business model.
 *   **09:23** – Once identified, focus on optimizing the five component metrics that grow that traction.
+
+## What This Means for Your Work
+
+**MoroMarket is a marketplace model, which means your single traction metric should be completed transactions -- not registered cooperatives or listed products.** It is tempting to report "50 cooperatives onboarded" or "500 products listed" as traction, but Ash's Airbnb example makes clear that a marketplace with inventory and no transactions is not healthy. Your equivalent of "guest nights booked" is "orders fulfilled" or "transactions completed." If that number is going up, everything else -- revenue, cooperative satisfaction, government confidence in the platform -- will follow. If it is flat, no amount of onboarding new cooperatives will fix the underlying problem.
+
+**For e-Bangsamoro governance modules, traction looks different because you are not a marketplace but a direct model.** The traction metric for Tarbiyyah-MS should be something like "active madrasahs using the system weekly" -- not "madrasahs registered." For BangsamoroHR, it might be "LGU employees whose records are managed through the platform." The Starbucks insight applies: find the key activity that correlates with continued usage and monetizable value, then optimize for that.
+
+**The vanity metrics trap is especially dangerous when reporting to government stakeholders.** BARMM ministries love big numbers in reports -- "10,000 beneficiaries reached" sounds impressive in a briefing. But if those 10,000 signed up and never returned, you have a cumulative vanity metric, not traction. Be the founder who shows the honest monthly chart, not the cumulative one. When you present to OOBC or to Parliament committees, showing real engagement data builds more credibility than inflated reach numbers.
+
+**The Starbucks "time in store" insight has a parallel in your SEED training platform.** If cooperative members who spend more time in your training courses end up generating more revenue for their cooperatives, that is your leading indicator. Track course completion rates and correlate them with cooperative performance metrics. If the correlation holds, you have a powerful story: "Cooperatives whose members complete SEED financial literacy training see X% improvement in loan repayment rates." That is a traction metric that will open government budgets.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**Your /marketer skill should enforce the marketplace-vs-direct model distinction when choosing metrics.** When /marketer generates a growth dashboard for MoroMarket, it should default to the marketplace traction metric: completed transactions. When generating a dashboard for Tarbiyyah-MS (a direct model), it should default to weekly active madrasahs. /marketer should never let you report registrations or signups as primary traction -- those are input metrics, not traction metrics.
+
+**Use /auto-research to find the Starbucks-equivalent leading indicator for each platform.** The "time in store" insight means there is a behavioral predictor hiding in your usage data. Feed MoroMarket data into /auto-research and ask: "Which cooperative behavior in the first 14 days most strongly predicts the cooperative still being active at 6 months?" The answer becomes your North Star metric. /auto-research turns anecdotal observations into data-driven leading indicators.
+
+**Your /branding and /social-media skills should produce content around traction milestones, not feature releases.** Instead of posting "MoroMarket now supports product categories" (feature announcement), post "MoroMarket cooperatives completed their 100th transaction this month" (traction milestone). /branding should define which milestones are worth celebrating publicly, and /social-media should produce the content. This shifts your public narrative from "we are building" to "cooperatives are succeeding" -- which is what government stakeholders and development partners actually want to hear.
+
+**The /storyteller skill should craft the "honest chart" narrative for difficult stakeholder conversations.** When monthly active usage is flat or declining, /storyteller can help frame the conversation productively: "Here is what the data shows. Here is what we think the constraint is. Here is the experiment we are running to address it." This honest framing, produced by /storyteller in a structured narrative, builds more trust than presenting cumulative vanity metrics that everyone in the room knows are misleading.

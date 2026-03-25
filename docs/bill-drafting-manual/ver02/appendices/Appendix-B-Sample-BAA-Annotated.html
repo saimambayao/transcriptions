@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bill Drafting Guidebook for the Bangsamoro Parliament</title>
+<style>
+/* ============================================================
+   BILL DRAFTING GUIDEBOOK — PDF Stylesheet
+   Color scheme: Navy (#1B365D) + Gold (#C5A54E) + Charcoal (#2D2D2D)
+   ============================================================ */
+
+/* --- PAGE SETUP --- */
+@page {
+  size: A4;
+  margin: 25mm 22mm 30mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* Cover page: no header/footer */
+@page cover {
+  margin: 0;
+  @top-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* TOC page: no running header */
+@page toc {
+  @top-center { content: none; }
+}
+
+/* Chapter openers: start on a right page */
+@page chapter-start {
+  /* inherits header/footer from default */
+}
+
+/* Landscape pages for wide tables */
+@page landscape {
+  size: A4 landscape;
+  margin: 22mm 25mm 25mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* --- GLOBAL RESET & BASE --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 11pt;
+  line-height: 1.55;
+}
+
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #2D2D2D;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- COVER PAGE --- */
+.cover-page {
+  page: cover;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(165deg, #0E2240 0%, #1B365D 40%, #243F6B 100%);
+  color: #FFFFFF;
+  padding: 35mm 30mm;
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-institution-top {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 20mm;
+}
+
+.cover-title {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 28pt;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 8mm;
+  max-width: 140mm;
+}
+
+.cover-gold-line {
+  width: 60mm;
+  height: 1.5pt;
+  background: #C5A54E;
+  margin: 6mm auto;
+}
+
+.cover-subtitle {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12.5pt;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  color: #D4D8DC;
+  max-width: 130mm;
+  margin-bottom: 25mm;
+}
+
+.cover-author {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  margin-top: 15mm;
+}
+
+.cover-bottom-block {
+  margin-top: auto;
+  padding-top: 15mm;
+}
+
+.cover-institution {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-institution-barmm {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-location {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  color: #A0AABC;
+  letter-spacing: 0.05em;
+}
+
+/* --- TABLE OF CONTENTS --- */
+.toc-section {
+  page: toc;
+  page-break-after: always;
+}
+
+.toc-section h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  color: #1B365D;
+  text-align: center;
+  margin-bottom: 10mm;
+  padding-bottom: 4mm;
+  border-bottom: 2pt solid #C5A54E;
+}
+
+/* --- CHAPTER CONTENT --- */
+.chapter {
+  page-break-before: always;
+}
+
+.chapter:first-of-type {
+  /* introduction doesn't need extra break if it follows TOC */
+}
+
+/* --- HEADINGS --- */
+h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 6mm;
+  padding-bottom: 3mm;
+  border-bottom: 2.5pt solid #C5A54E;
+  line-height: 1.25;
+  page-break-after: avoid;
+  string-set: chapter-title content();
+}
+
+h2 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  padding-bottom: 2mm;
+  border-bottom: 1pt solid #D5D9DE;
+  line-height: 1.3;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 7mm;
+  margin-bottom: 3mm;
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11.5pt;
+  font-weight: 700;
+  color: #2D4A73;
+  margin-top: 5mm;
+  margin-bottom: 2mm;
+  line-height: 1.4;
+  page-break-after: avoid;
+}
+
+h5 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  color: #3A5A8A;
+  margin-top: 4mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+/* --- PARAGRAPHS --- */
+p {
+  margin-bottom: 3mm;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+}
+
+/* --- LISTS --- */
+ul, ol {
+  margin-left: 8mm;
+  margin-bottom: 3mm;
+  padding-left: 0;
+}
+
+ul li, ol li {
+  margin-bottom: 1.5mm;
+  padding-left: 1mm;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 1mm;
+  margin-bottom: 1mm;
+}
+
+/* --- BLOCKQUOTES (BOL quotations, legal text) --- */
+blockquote {
+  background: #F0F3F6;
+  border-left: 3.5pt solid #1B365D;
+  margin: 4mm 0 4mm 4mm;
+  padding: 4mm 5mm;
+  font-size: 10pt;
+  color: #2D2D2D;
+  line-height: 1.5;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin-bottom: 2mm;
+  text-align: left;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- TABLES --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 5mm 0;
+  font-size: 9.5pt;
+  line-height: 1.4;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+thead tr {
+  background: #1B365D;
+  color: #FFFFFF;
+}
+
+thead th {
+  padding: 3mm 4mm;
+  text-align: left;
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 9.5pt;
+  border: 0.5pt solid #14294A;
+}
+
+tbody td {
+  padding: 2.5mm 4mm;
+  border: 0.5pt solid #D0D4D8;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #F5F7F9;
+}
+
+tbody tr:nth-child(odd) {
+  background: #FFFFFF;
+}
+
+/* --- TABLE COLUMN WIDTHS FOR TEMPLATES --- */
+/* Checklist tables: narrow Yes/No/NA columns */
+table th:nth-child(3),
+table td:nth-child(3),
+table th:nth-child(4),
+table td:nth-child(4),
+table th:nth-child(5),
+table td:nth-child(5) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Checklist-style tables (5-col with No/Item/Yes/No/NA) */
+.checklist-table th:nth-child(1),
+.checklist-table td:nth-child(1) {
+  width: 8mm;
+  text-align: center;
+}
+
+.checklist-table th:nth-child(3),
+.checklist-table td:nth-child(3),
+.checklist-table th:nth-child(4),
+.checklist-table td:nth-child(4),
+.checklist-table th:nth-child(5),
+.checklist-table td:nth-child(5) {
+  width: 12mm;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* First column (No.) narrow */
+table th:first-child,
+table td:first-child {
+  width: auto;
+}
+
+/* Form field lines */
+.form-line {
+  display: inline-block;
+  min-width: 35mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+.form-line-wide {
+  display: inline-block;
+  min-width: 60mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+/* Fix checkbox rendering - ensure inline */
+td {
+  white-space: normal;
+}
+
+/* --- CODE BLOCKS --- */
+pre {
+  background: #F0F3F6;
+  border: 0.5pt solid #D0D4D8;
+  border-radius: 2pt;
+  padding: 4mm;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9pt;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  margin: 4mm 0;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9.5pt;
+  background: #EEF1F4;
+  padding: 0.5pt 2pt;
+  border-radius: 1.5pt;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --- HORIZONTAL RULES --- */
+hr {
+  border: none;
+  border-top: 1pt solid #D0D4D8;
+  margin: 8mm 0;
+}
+
+/* --- STRONG & EMPHASIS --- */
+strong {
+  font-weight: 700;
+  color: #1B365D;
+}
+
+em {
+  font-style: italic;
+}
+
+/* --- LINKS (for PDF, style as text) --- */
+a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+/* --- SPECIAL CLASSES --- */
+
+/* Drafting tips / practical guidance callout boxes */
+.drafting-tip {
+  background: #FFF9EE;
+  border: 1pt solid #E8D5A0;
+  border-left: 4pt solid #C5A54E;
+  padding: 4mm 5mm;
+  margin: 5mm 0;
+  font-size: 10pt;
+  page-break-inside: avoid;
+}
+
+.drafting-tip strong:first-child {
+  color: #8A6D1B;
+}
+
+/* Chapter number label */
+.chapter-label {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 2mm;
+  display: block;
+}
+
+/* Summary boxes at end of chapters */
+.summary-box {
+  background: #F0F3F6;
+  border: 1pt solid #B8C4D0;
+  border-top: 3pt solid #1B365D;
+  padding: 5mm;
+  margin: 6mm 0;
+  page-break-inside: avoid;
+}
+
+/* Checklist styling */
+.checklist {
+  list-style-type: none;
+  margin-left: 2mm;
+}
+
+.checklist li::before {
+  content: "\2610\0020";
+  font-size: 11pt;
+}
+
+/* Page break utility */
+.page-break {
+  page-break-before: always;
+}
+
+/* Landscape page container for wide tables */
+.landscape-page {
+  page: landscape;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.landscape-page table {
+  font-size: 9pt;
+}
+
+.landscape-page thead th {
+  font-size: 9pt;
+  padding: 2.5mm 3mm;
+}
+
+.landscape-page tbody td {
+  padding: 2mm 3mm;
+}
+
+/* --- FOOTNOTES --- */
+.footnote {
+  font-size: 8.5pt;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* --- TOC ENTRY STYLING --- */
+.toc-entries {
+  margin-top: 4mm;
+}
+
+.toc-chapter {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 5mm;
+  margin-bottom: 1.5mm;
+  padding-top: 2mm;
+  padding-bottom: 1mm;
+  border-bottom: 0.5pt solid #E0E3E8;
+  page-break-inside: avoid;
+}
+
+.toc-chapter a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+.toc-chapter a:hover {
+  text-decoration: underline;
+}
+
+/* Back to TOC link at end of each chapter */
+.back-to-toc {
+  margin-top: 10mm;
+  padding-top: 4mm;
+  border-top: 0.5pt solid #E0E3E8;
+  text-align: right;
+  font-size: 8.5pt;
+}
+
+.back-to-toc a {
+  color: #8A8A8A;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.back-to-toc a:hover {
+  color: #1B365D;
+}
+
+/* Keep chapter heading with its first few entries */
+.toc-chapter + .toc-entry {
+  page-break-before: avoid;
+}
+
+.toc-entry {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt;
+  color: #3A3A3A;
+  line-height: 1.65;
+  margin-bottom: 0.3mm;
+}
+
+.toc-level-0 {
+  padding-left: 0;
+  font-weight: 600;
+}
+
+.toc-level-1 {
+  padding-left: 6mm;
+}
+
+.toc-level-2 {
+  padding-left: 14mm;
+  font-size: 9pt;
+  color: #555555;
+}
+
+.toc-level-3 {
+  padding-left: 22mm;
+  font-size: 8.5pt;
+  color: #666666;
+}
+
+/* --- PRINT OPTIMIZATIONS --- */
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+blockquote, pre, .drafting-tip, .summary-box {
+  page-break-inside: avoid;
+}
+
+table {
+  page-break-inside: auto;
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+p {
+  orphans: 3;
+  widows: 3;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Allow large tables to break */
+table.allow-break {
+  page-break-inside: auto;
+}
+
+table.allow-break tr {
+  page-break-inside: avoid;
+}
+</style>
+</head>
+<body>
+
+<!-- ======== CONTENT (injected by Python) ======== -->
+<div class="chapter" id="appendix-b">
+<h1 id="appendix-b-sample-bangsamoro-autonomy-act-annotated">Appendix B — Sample Bangsamoro Autonomy Act (Annotated)</h1>
+<p>This appendix presents a complete, fictional bill — the &ldquo;Bangsamoro Community Libraries Act&rdquo; — with annotations explaining what each part does and why it is there. The bill is not real legislation. It exists solely to show how a well-structured BAA looks from title to effectivity clause.</p>
+<p>Use this as a reference when drafting. The annotations are enclosed in brackets and set in bold so they stand out from the bill text.</p>
+<hr>
+<p>Republic of the Philippines
+Bangsamoro Autonomous Region in Muslim Mindanao
+<strong>BANGSAMORO TRANSITION AUTHORITY PARLIAMENT</strong>
+Bangsamoro Government Center, Cotabato City</p>
+<p><strong>BANGSAMORO TRANSITION AUTHORITY</strong>
+<strong>(THIRD REGULAR SESSION)</strong></p>
+<p><strong>BANGSAMORO AUTONOMY ACT NO. ___</strong></p>
+<p><strong>[ANNOTATION: This is the Caption. It identifies the legislature, the seat of government, the session, and the bill number. The BAA number is left blank during drafting — it is assigned by the Secretary-General upon enactment. Always use the correct session designation.]</strong></p>
+<hr>
+<p>Introduced by MP <strong><em>_</em></strong>_____</p>
+<p><strong>[ANNOTATION: The authorship line identifies who filed the bill. If there are co-authors, list them all. This line appears before the long title.]</strong></p>
+<hr>
+<p><strong>AN ACT ESTABLISHING A COMMUNITY LIBRARY SYSTEM IN THE BANGSAMORO AUTONOMOUS REGION, PROVIDING FOR THE CREATION, MANAGEMENT, AND FUNDING OF MUNICIPAL AND BARANGAY LIBRARIES, AND FOR OTHER PURPOSES</strong></p>
+<p><strong>[ANNOTATION: This is the Long Title. It describes the full scope of the bill in a single sentence. The long title must be broad enough to cover everything the bill contains but specific enough to give fair notice of its subject. Under the &ldquo;one subject, one title&rdquo; rule, the long title cannot be misleading — every substantive provision must fall within what the title announces. The phrase &ldquo;and for other purposes&rdquo; is a standard concluding phrase, but it does not excuse provisions that are genuinely outside the bill&rsquo;s scope.]</strong></p>
+<hr>
+<p><em>Be it enacted by the Bangsamoro Transition Authority Parliament in session assembled:</em></p>
+<p><strong>[ANNOTATION: This is the Enacting Clause. It is the formal statement of legislative authority. The wording is prescribed by Resolution No. 268. Do not alter it. When an elected Parliament replaces the BTA, the formulation will change to: &ldquo;Be it enacted by the Bangsamoro Parliament:&rdquo;]</strong></p>
+<hr>
+<h3 id="section-1-short-title">SECTION 1. <em>Short Title.</em> —</h3>
+<p>This Act shall be known as the <em>&ldquo;Bangsamoro Community Libraries Act.&rdquo;</em></p>
+<p><strong>[ANNOTATION: The Short Title section gives the law a convenient name for citation. It always appears as Section 1. The short title should be concise and descriptive. Once enacted, people will refer to the law by this name — make it clear and memorable. The short title is set in italics and enclosed in quotation marks.]</strong></p>
+<hr>
+<h3 id="sec-2-declaration-of-policy">SEC. 2. <em>Declaration of Policy.</em> —</h3>
+<p>The State recognizes the fundamental right of every Bangsamoro citizen to access information and knowledge. The Bangsamoro Government shall promote literacy, lifelong learning, and cultural enrichment by establishing a system of community libraries accessible to all residents of the Bangsamoro Autonomous Region regardless of age, gender, religion, ethnicity, or economic status.</p>
+<p>Toward this end, the Bangsamoro Government shall establish, fund, and maintain community libraries at the municipal and barangay levels, prioritizing communities with the least access to books, digital resources, and formal educational institutions.</p>
+<p><strong>[ANNOTATION: The Declaration of Policy states the legislative intent and the public interest the bill serves. This section answers the question: why does this law exist? It should be specific enough to guide interpretation but not so detailed that it duplicates the substantive provisions. Avoid making promises in this section that the bill&rsquo;s operative provisions do not deliver. If the declaration says the government &ldquo;shall&rdquo; do something, the bill must contain a mechanism to make it happen.]</strong></p>
+<hr>
+<h3 id="sec-3-definition-of-terms">SEC. 3. <em>Definition of Terms.</em> —</h3>
+<p>As used in this Act, the following terms shall mean:</p>
+<p>(a) <em>Bangsamoro Community Library</em> — a public library established under this Act and operated by the municipal or barangay government within the Bangsamoro Autonomous Region, open to all residents without charge for basic services;</p>
+<p>(b) <em>Basic Library Services</em> — lending of books and other print materials, provision of reading space, access to reference materials, and digital access where available;</p>
+<p>(c) <em>Digital Resource Center</em> — a designated area within a Bangsamoro Community Library equipped with computers and internet connectivity for public use;</p>
+<p>(d) <em>Library Development Fund</em> — the fund established under Section 8 of this Act for the creation, maintenance, and improvement of Bangsamoro Community Libraries;</p>
+<p>(e) <em>Ministry</em> — the Ministry of Basic, Higher and Technical Education of the Bangsamoro Government;</p>
+<p>(f) <em>Municipal Library Board</em> — the body created under Section 6 of this Act that governs the operation of a Bangsamoro Community Library at the municipal level.</p>
+<p><strong>[ANNOTATION: The Definition of Terms section assigns specific meanings to words the bill uses in a technical sense. Define only terms that need defining — do not define words that carry their ordinary meaning. Each definition should work as a direct substitute: wherever the term appears in the bill, the definition should fit in its place. Use &ldquo;means&rdquo; for exhaustive definitions and &ldquo;includes&rdquo; for open-ended ones. Cross-references to other sections (like &ldquo;Section 8 of this Act&rdquo;) tie the definitions to the operative provisions.]</strong></p>
+<hr>
+<h3 id="sec-4-establishment-of-community-libraries">SEC. 4. <em>Establishment of Community Libraries.</em> —</h3>
+<p>Within two (2) years from the effectivity of this Act, every municipality in the Bangsamoro Autonomous Region shall establish at least one (1) Bangsamoro Community Library located in or near the municipal hall or a similarly accessible public facility.</p>
+<p>The Ministry shall identify priority municipalities based on the following criteria:</p>
+<p>(a) absence of an existing public library;</p>
+<p>(b) distance from the nearest university or college library;</p>
+<p>(c) poverty incidence as determined by the most recent data from the Philippine Statistics Authority or the Bangsamoro Planning and Development Authority; and</p>
+<p>(d) population of school-age children and out-of-school youth.</p>
+<p>Municipalities already operating a public library that meets the minimum standards prescribed by the Ministry shall be deemed compliant with this section.</p>
+<p><strong>[ANNOTATION: This is the first Substantive Provision. It creates the core obligation — every municipality must have at least one community library. Note how it sets a timeline (&ldquo;within two years&rdquo;), assigns responsibility to a specific body (&ldquo;the Ministry&rdquo;), establishes criteria for prioritization using a clear list, and provides a savings clause for municipalities that already comply. Each element is enforceable.]</strong></p>
+<hr>
+<h3 id="sec-5-barangay-reading-centers">SEC. 5. <em>Barangay Reading Centers.</em> —</h3>
+<p>The Ministry, in coordination with the municipal government and the Municipal Library Board, may establish Barangay Reading Centers in barangays that are geographically isolated or have populations exceeding ten thousand (10,000) residents.</p>
+<p>A Barangay Reading Center shall be a satellite facility of the municipal Bangsamoro Community Library and shall provide, at minimum, a reading area, a rotating collection of books, and access to basic library services.</p>
+<p>The Ministry shall issue guidelines for the establishment and operation of Barangay Reading Centers within six (6) months from the effectivity of this Act.</p>
+<p><strong>[ANNOTATION: This is a second Substantive Provision. It extends the library system to the barangay level but uses permissive language (&ldquo;may establish&rdquo;) because requiring every barangay to have a reading center would be impractical. The section defines what a Barangay Reading Center is, sets minimum standards, and delegates the details to Ministry guidelines with a clear deadline.]</strong></p>
+<hr>
+<h3 id="sec-6-municipal-library-boards">SEC. 6. <em>Municipal Library Boards.</em> —</h3>
+<p>There is hereby created in each municipality a Municipal Library Board composed of:</p>
+<p>(a) the municipal mayor, as chairperson;</p>
+<p>(b) two (2) representatives of the local <em>sangguniang bayan</em>, to be designated by the vice-mayor;</p>
+<p>(c) one (1) representative of the Ministry;</p>
+<p>(d) one (1) representative of the local school division;</p>
+<p>(e) one (1) representative from a people&rsquo;s organization or non-governmental organization operating in the municipality, to be selected by the municipal mayor; and</p>
+<p>(f) the head librarian of the Bangsamoro Community Library, as secretary.</p>
+<p>The Municipal Library Board shall:</p>
+<p>(1) oversee the operations and development of the Bangsamoro Community Library;</p>
+<p>(2) approve the annual acquisition plan for books and materials;</p>
+<p>(3) set the rules for library use and borrowing;</p>
+<p>(4) submit an annual report to the Ministry on the library&rsquo;s activities, collections, and usage; and</p>
+<p>(5) recommend to the municipal government the annual budget allocation for the library.</p>
+<p>Members of the Municipal Library Board shall serve without additional compensation.</p>
+<p><strong>[ANNOTATION: This is a third Substantive Provision that creates a governance structure. When a bill creates a body, it must specify: (1) composition, (2) manner of selection, (3) powers and functions, and (4) compensation or the lack thereof. This section does all four. The composition is listed with enough specificity that there is no ambiguity about who sits on the board.]</strong></p>
+<hr>
+<h3 id="sec-7-staffing-and-training">SEC. 7. <em>Staffing and Training.</em> —</h3>
+<p>Each Bangsamoro Community Library shall have at least one (1) full-time librarian who meets the qualifications prescribed by the Civil Service Commission and the Ministry.</p>
+<p>The Ministry, in coordination with the Ministry of the Interior and Local Government, shall develop and implement a training program for community librarians within one (1) year from the effectivity of this Act. The training program shall cover:</p>
+<p>(a) library management and cataloguing;</p>
+<p>(b) digital literacy and basic information technology;</p>
+<p>(c) community engagement and literacy promotion; and</p>
+<p>(d) preservation of Bangsamoro cultural materials.</p>
+<p><strong>[ANNOTATION: This is an Administrative Provision. It addresses how the law will be implemented — who will staff the libraries and how they will be trained. Administrative provisions translate the bill&rsquo;s mandate into operational reality. Without this section, the bill creates libraries but provides no mechanism for ensuring they have qualified personnel.]</strong></p>
+<hr>
+<h3 id="sec-8-library-development-fund">SEC. 8. <em>Library Development Fund.</em> —</h3>
+<p>There is hereby established a Library Development Fund to be administered by the Ministry. The fund shall consist of:</p>
+<p>(a) annual appropriations from the Bangsamoro Expenditure Program as provided under Section 9 of this Act;</p>
+<p>(b) grants, donations, and contributions from domestic and international sources accepted by the Bangsamoro Government for library purposes; and</p>
+<p>(c) income derived from fees charged for non-basic library services, such as photocopying, printing, and room rental.</p>
+<p>The Ministry shall promulgate rules and regulations governing the management, disbursement, and accounting of the Library Development Fund within six (6) months from the effectivity of this Act.</p>
+<p>All expenditures from the Library Development Fund shall be subject to existing auditing laws and regulations.</p>
+<p><strong>[ANNOTATION: The creation of a dedicated fund is a common mechanism in Bangsamoro legislation. This section identifies all funding sources, assigns a fund administrator, requires implementing rules with a deadline, and subjects the fund to audit. The last sentence is important — it ensures accountability and connects the bill to the broader legal framework for public finance.]</strong></p>
+<hr>
+<h3 id="sec-9-appropriation">SEC. 9. <em>Appropriation.</em> —</h3>
+<p>The amount necessary for the initial implementation of this Act shall be charged against the current appropriations of the Ministry. Thereafter, such sums as may be necessary for its continued implementation shall be included in the annual Bangsamoro Expenditure Program.</p>
+<p><strong>[ANNOTATION: The Appropriation Clause identifies where the money will come from. There are two standard approaches: (1) charging initial costs to the implementing agency&rsquo;s current budget and providing for future appropriations in the annual BEP, or (2) specifying a lump-sum amount. Approach (1) is more common because specifying exact amounts in the bill can create problems if costs change. Never create obligations without identifying a funding source — unfunded mandates are a common drafting failure.]</strong></p>
+<hr>
+<h3 id="sec-10-penalties">SEC. 10. <em>Penalties.</em> —</h3>
+<p>Any public officer or employee who misappropriates, misuses, or diverts funds allocated for Bangsamoro Community Libraries or the Library Development Fund shall be subject to administrative and criminal penalties under existing laws, including Republic Act No. 3019 (Anti-Graft and Corrupt Practices Act), Republic Act No. 6713 (Code of Conduct and Ethical Standards for Public Officials and Employees), and applicable Bangsamoro civil service laws.</p>
+<p>Any person who willfully destroys, defaces, or steals library materials, equipment, or facilities shall be liable for the cost of replacement or repair and shall be subject to penalties under the Revised Penal Code and applicable Bangsamoro laws.</p>
+<p><strong>[ANNOTATION: This is the Enforcement Provision. It specifies consequences for violations. Note that it references existing national laws rather than creating entirely new penalty schemes — this is good practice when national laws already cover the conduct. The section distinguishes between public officers (who face stricter accountability) and any person (a broader category). Be specific about which laws apply.]</strong></p>
+<hr>
+<h3 id="sec-11-separability-clause">SEC. 11. <em>Separability Clause.</em> —</h3>
+<p>If any provision of this Act is declared unconstitutional or invalid, the remaining provisions not affected thereby shall continue to be in full force and effect.</p>
+<p><strong>[ANNOTATION: The Separability Clause is standard in virtually every bill. It ensures that if a court strikes down one provision, the rest of the law survives. The language is formulaic — use this exact wording or its equivalent. Do not vary it without reason.]</strong></p>
+<hr>
+<h3 id="sec-12-repealing-clause">SEC. 12. <em>Repealing Clause.</em> —</h3>
+<p>All laws, decrees, orders, rules and regulations, or parts thereof which are inconsistent with any provision of this Act are hereby repealed or modified accordingly.</p>
+<p><strong>[ANNOTATION: The Repealing Clause removes conflicting provisions from other laws. This is the &ldquo;general repealing clause&rdquo; formulation. If the bill specifically repeals an identifiable law or section of a law, name it explicitly before the general clause. A specific repeal is always stronger than a general one. Courts disfavor implied repeals — if you intend to repeal something, say so by name.]</strong></p>
+<hr>
+<h3 id="sec-13-effectivity">SEC. 13. <em>Effectivity.</em> —</h3>
+<p>This Act shall take effect fifteen (15) days after its complete publication in at least one (1) newspaper of general circulation within the Bangsamoro Autonomous Region.</p>
+<p><strong>[ANNOTATION: The Effectivity Clause states when the law takes effect. Under the BOL, the standard rule is fifteen days after complete publication in a newspaper of general circulation within the BARMM. Some laws specify a different trigger — such as &ldquo;upon approval&rdquo; for urgent measures — but the fifteen-day publication rule is the default. Do not omit this section. A law without an effectivity clause creates confusion about when it becomes enforceable.]</strong></p>
+<hr>
+<p><strong>Approved,</strong></p>
+<p>(Sgd.)</p>
+<p><strong>SPEAKER OF THE PARLIAMENT</strong></p>
+<p>*This Act, which is a consolidation of Bangsamoro Autonomy Bill No. ___ and Bangsamoro Autonomy Bill No. <strong><em>, was passed by the Bangsamoro Transition Authority Parliament on </em></strong><strong><em>_</em></strong>__._</p>
+<p><strong>Chief Minister</strong></p>
+<p><strong>[ANNOTATION: The Approval Block appears on enacted BAAs but is not drafted by the bill drafter. It is completed after the bill passes Third Reading, is enrolled, and is submitted for executive action. During drafting, you do not need to include this block. It is shown here only so you know what the final product looks like.]</strong></p>
+<hr>
+<h3 id="explanatory-note">EXPLANATORY NOTE</h3>
+<p>The Bangsamoro Autonomous Region faces a severe shortage of public libraries. According to the National Library of the Philippines, there are fewer than ten registered public libraries serving the entire region&rsquo;s population of more than four million. Many municipalities have no library at all. Schools operate with limited book collections, and most residents have no access to reading materials outside the classroom.</p>
+<p>This bill addresses that gap by mandating the creation of a Bangsamoro Community Library in every municipality, with satellite Barangay Reading Centers in geographically isolated or densely populated barangays. It creates a governance structure at the municipal level — the Municipal Library Board — to ensure local ownership and accountability. It establishes a dedicated Library Development Fund to sustain the system beyond annual appropriation cycles.</p>
+<p>The legal authority for this measure rests on two enumerated powers under Article V, Section 2 of the Bangsamoro Organic Law: item (kk), &ldquo;libraries and museums, and historical, cultural, and archaeological sites,&rdquo; and item (v), &ldquo;education and skills training.&rdquo; The General Welfare Clause further supports the measure as one that promotes literacy, cultural enrichment, and access to information — all essential to the promotion of general welfare.</p>
+<p>The bill draws on the experience of the Department of Education&rsquo;s school library standards, the National Library of the Philippines&rsquo; guidelines for public libraries, and similar legislation in other ASEAN countries. It has been reviewed in consultation with the Ministry of Basic, Higher and Technical Education and endorsed by the Philippine Librarians Association — Bangsamoro Chapter.</p>
+<p>The immediate passage of this bill is earnestly requested.</p>
+<p>(Sgd.)</p>
+<p><strong>MP <strong><em>_</em></strong><strong><em>_</em></strong>_</strong></p>
+<p><strong>[ANNOTATION: The Explanatory Note is the drafter&rsquo;s argument for the bill. It is filed alongside the bill but is not part of the enacted law. A strong Explanatory Note answers three questions: (1) What problem does the bill solve? (2) Why is legislation the right response? (3) What does the bill do? It should cite the specific BOL authority, use data, and be concise — one to three pages is typical. The principal author signs it.]</strong></p>
+<hr>
+</div>
+
+
+</body>
+</html>

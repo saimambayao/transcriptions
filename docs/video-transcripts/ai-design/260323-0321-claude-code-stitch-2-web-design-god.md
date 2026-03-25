@@ -67,6 +67,28 @@
 - **Figma is overkill** for most developers — "a bridge too far"
 - Deployment is still the same: push to **GitHub → Vercel**
 
+## What This Means for Your Work
+
+**The 80-90% solution with zero Claude Code token usage directly addresses your cost efficiency as a solo dev building 9 platforms.** Chase AI's workflow -- find inspiration, generate in Stitch, export code, paste into Claude Code -- means you can get polished frontend foundations for each e-Bangsamoro portal without burning tokens on visual iteration. For government dashboards that need to look professional on first presentation to BTA Parliament committees, this front-loads the visual quality before Claude Code even starts.
+
+**The design system auto-generation is immediately actionable for your Tailwind CSS workflow.** Stitch creates a design.md with creative northstar, color strategy, typography rules, and language about breaking away from standard templates. This pairs directly with your /frontend-design and /stitch-design skills in Claude Code. Generate the design system in Stitch for each platform -- one for e-Bangsamoro's governance aesthetic, another for MoroMarket's marketplace feel, another for Tarbiyyah-MS's educational tone -- then feed each design.md to Claude Code as the style authority.
+
+**The infinite canvas for rapid variation is what you have been missing in stakeholder presentations.** When the Office of the Chief Minister needs to review 3 different visual directions for the OBCMS portal or IPP interface, you can generate variants in Stitch in minutes instead of spending Claude Code tokens on each direction. Right-click, create 3 layout variants, present them in a single session, get approval, then export only the chosen direction to Claude Code for implementation.
+
+**The export-to-Claude-Code pipeline validates your existing React 19 approach.** The exported code is purely frontend -- not connected to backend. This maps perfectly to your architecture: React 19 frontend that Claude Code builds from Stitch exports, plus your Django + PostgreSQL backend that Claude Code handles separately. The workflow Chase demonstrates is essentially what your /stitch-design skill should automate: Stitch export to clipboard, Claude Code prompt with frontend code, working page in 60 seconds, then layer on backend integration.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**Your /stitch-design skill should incorporate Chase AI's inspiration-first workflow as a mandatory first step.** Chase explicitly says "don't start with a blank prompt -- find a reference design first" and names three sources: Dribbble, Godly.website, and Pinterest. Update the skill to include a "reference gathering" phase that prompts you to provide at least one inspiration screenshot or URL before generating anything. For government platforms, curate a reference library in `~/Vault/design-references/` organized by platform type (citizen portal, admin dashboard, marketplace, educational interface) so that every /stitch-design session starts with world-class visual anchors rather than hoping Gemini guesses correctly.
+
+**The design system auto-generation (creative northstar, color strategy, typography rules) should feed directly into your /ui-ux skill.** Chase highlights that Stitch's design.md includes language about "breaking away from standard templates" -- essentially anti-AI-slop rules. Your /ui-ux skill currently handles user experience decisions, but it should also consume the design system file to ensure that UX decisions (navigation patterns, information architecture, interaction flows) align with the visual identity established in Stitch. This prevents the common problem where UX wireframes and visual design diverge during implementation.
+
+**The infinite canvas + variant generation workflow is a direct improvement for your /frontend-design iteration cycles.** Chase shows right-clicking to generate 3 layout variants with adjustable creative range (conservative to explore). Currently, when you iterate on frontend design in Claude Code, each variation requires a full prompt-generate-review cycle that costs tokens and time. Moving the visual exploration phase to Stitch's free infinite canvas, then exporting only the winning direction to Claude Code, could cut your frontend design token usage by 60-70% per platform screen. Track this metric with /auto-research to quantify the savings.
+
+**A new workflow pattern emerges for stakeholder review: Stitch preview mode as a presentation tool.** Chase demonstrates opening designs in full-screen preview mode in a new tab. For your governance platform work, this means you can generate 3-4 design directions for e-Bangsamoro's citizen portal in Stitch, open them all in preview tabs, and walk BARMM officials through a live design review session without deploying anything. This is faster and more polished than showing Claude Code dev server output, and it removes the need to use /presentation to create separate slide decks just for design approval meetings.
+
+**Cross-pollination with /devwork: the "80-90% solution with zero token usage" principle should inform your entire development methodology.** Chase's insight is about front-loading free work before engaging expensive tools. Apply this principle beyond design -- use /write-a-prd to fully specify features before invoking /devwork, use /grill-me to stress-test architectural decisions before writing code, use /research-pipeline to validate requirements before implementation. Every token you save on iteration in Claude Code is a token you can spend on the complex Django backend logic for e-Bangsamoro's legislative workflow engine or MoroMarket's cooperative management system.
+
 ---
 
 ## Transcript

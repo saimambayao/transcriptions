@@ -355,3 +355,29 @@ Thanks for watching, and until next time, take care.
 **Product Development Philosophy**
 *   **07:08** Focus on the **bigger context of the customer outcome**. Instead of just improving product features, focus on making the customer more successful at their desired job/task.
 *   **09:32** Success is driven by mindset rather than just technical skillsets. Avoid waiting for "perfect" timing; start testing ideas immediately.
+
+## What This Means for Your Work
+
+**Lesson 1 -- "your business model matters more than your idea" -- is the single most important message for the cooperative leaders you train.** In BARMM, there is no shortage of good ideas: halal food processing, seaweed farming cooperatives, weaving enterprises. What kills these enterprises is broken business models: no clear customer segment, no pricing strategy, no channel to market. When you run Lean Canvas workshops through the SEED Initiative, lead with this lesson. The idea is not the problem. The business model is.
+
+**Lesson 2 -- Demo-Sell-Build -- should become a standard module in your cooperative entrepreneurship curriculum.** Most cooperative leaders default to "build first" because that is what they know: invest in equipment, produce the product, then figure out who will buy it. Teaching them to demo their product concept (even a sample, a mockup, or a presentation) and secure buyer commitments before investing cooperative capital could prevent millions of pesos in wasted resources across BARMM cooperatives.
+
+**Lesson 4 -- "your first 10 customers should look nothing like your next 1,000" -- reframes how you should approach MoroMarket's launch.** Your first 10 cooperatives on MoroMarket should be handpicked: digitally ready, actively selling, with a leader who is willing to give honest feedback. These are not representative of the average BARMM cooperative. They are your early adopters. Build for them first, then expand. Trying to serve every cooperative from day one will dilute your focus.
+
+**Lesson 5 -- revenue over funding -- is your operating reality and your competitive advantage.** You do not have the luxury of VC funding, and that is actually a strength. Every peso of revenue from MoroMarket subscriptions or government platform contracts is proof that the product solves a real problem. When you eventually seek institutional support from BARMM agencies or international development partners, that revenue history is infinitely more persuasive than a pitch deck.
+
+**Lesson 7 -- "make a better user, not a better product" -- is the philosophy that should guide every platform decision.** You are not building a better government HR system with BangsamoroHR; you are building more effective BARMM civil servants. You are not building a better marketplace with MoroMarket; you are building more capable cooperative entrepreneurs. Put this framing at the top of every product roadmap.
+
+**The 90-day blueprint from Lesson 8 is your forcing function for 2026.** Pick one platform. Give it 90 days of focused development and validation. If it does not show traction by then, shift resources to the next most promising one. Ninety days, not ninety features.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**Lesson 1 ("business model matters more than idea") should be the opening prompt of every /lean-canvas session for cooperative training.** When you run Lean Canvas workshops through the SEED Initiative, configure /lean-canvas to start with: "Your idea is fine. Let us talk about whether the business model works." This framing, drawn directly from the video, prevents cooperative leaders from spending the entire workshop defending their product idea instead of stress-testing the model behind it.
+
+**Use /startup to implement the Demo-Sell-Build sequence as a standard training module in the SEED curriculum.** Most cooperative leaders default to "build first" because that is what they know. /startup can generate a customized Demo-Sell-Build exercise for each cooperative: identify one product, create a sample presentation, pitch it to 5 potential buyers, measure interest before investing capital. This single framework, deployed through /training-assistant, could prevent millions of pesos in wasted cooperative resources across BARMM.
+
+**Your /lean-canvas and /product skills should enforce the "first 10 customers look nothing like the next 1,000" principle.** When /product generates a target customer profile for MoroMarket, it should distinguish between early adopters (digitally ready cooperatives with tech-literate leaders) and mainstream customers (average BARMM cooperatives). /lean-canvas should validate the business model with early adopters first, and /product should flag any attempt to build for mainstream customers before the early adopter model is proven.
+
+**The /enterprise-dev skill should embed the "make a better user, not a better product" philosophy into every architecture decision.** When /enterprise-dev designs a new feature for BangsamoroHR, the design document should answer: "How does this feature make BARMM civil servants more effective?" not "How does this feature make BangsamoroHR more feature-complete?" This reframing ensures that /enterprise-dev outputs focus on user capability rather than product capability, which is the difference between platforms that drive adoption and platforms that collect dust.
+
+**The 90-day blueprint should become a /startup ritual: one platform, 90 days, traction or pivot.** Configure /startup to run a 90-day focused sprint on one platform at a time. At the end of 90 days, /startup should produce a traction report: cooperatives onboarded, transactions completed, revenue generated, retention rate. If the numbers pass the Minimum Success Criteria, continue. If not, /startup produces a pivot recommendation and shifts focus to the next platform. This prevents the deadly pattern of spreading attention across all platforms indefinitely.

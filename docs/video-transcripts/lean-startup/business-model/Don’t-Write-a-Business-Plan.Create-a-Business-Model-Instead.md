@@ -229,3 +229,15 @@ If you enjoyed this video, I've got lots more videos like this one coming. Pleas
     *   **Capture Value:** Cost Structure and Revenue Streams (getting paid).
     *   **Sustainable Model:** If Capture Value > Deliver Value (Profit).
     *   **Bonus Jobs:** Measuring Value (Key Metrics) and Defending Value (Unfair Advantage).
+
+## What This Means for Your Work
+
+**This video is the origin story of the tool that became the backbone of your entire training curriculum.** The Lean Canvas is not just a framework you teach -- it is the foundation of the SEED Initiative's approach to cooperative and social enterprise development. When you train cooperative leaders in Lean Canvas workshops, you are doing exactly what Ash advocates: replacing heavyweight business plans with lightweight, one-page models that get read and get updated. The validation here is that your pedagogical instinct was right all along.
+
+**The "Zombie Startup" warning applies directly to cooperatives and social enterprises in BARMM.** Many cooperatives operate in markets that are too small or too local to sustain real growth -- they are neither failing nor thriving. They are zombie enterprises. Your training curriculum should include a specific module that helps cooperative leaders recognize when they are in a zombie state and use the Lean Canvas to either pivot their business model or honestly assess whether the cooperative should be restructured. This is uncomfortable but necessary work.
+
+**The 5-job framework -- Create, Deliver, Capture, Measure, Defend value -- is a powerful curriculum structure for cooperative governance training.** Instead of teaching the Lean Canvas box by box, consider restructuring your training around these five jobs. Cooperative leaders already understand "creating value" (their products) and "delivering value" (getting products to market). Where they struggle is "capturing value" (pricing, revenue models) and "defending value" (what makes their cooperative different from the one in the next barangay). This reframing makes the Lean Canvas immediately actionable for cooperatives.
+
+**The distinction between Lean Canvas and Business Model Canvas matters for your institutional context.** When working with BARMM government agencies, the BMC may be more appropriate for describing existing service delivery models. When working with new cooperatives or social enterprises, the Lean Canvas is the right tool because it focuses on the unknowns and risks. Knowing when to use which canvas -- and being able to teach both -- gives you credibility across both government and entrepreneurial audiences.
+
+**Action item: Update your Lean Canvas training module to include the 5-job value framework.** Rewrite the cooperative workshop flow so that participants first identify how their cooperative creates, delivers, and captures value before filling in the canvas boxes. This gives them a mental model that makes the canvas intuitive rather than abstract.

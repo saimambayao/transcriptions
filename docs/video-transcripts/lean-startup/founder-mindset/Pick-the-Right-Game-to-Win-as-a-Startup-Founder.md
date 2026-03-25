@@ -186,3 +186,27 @@ Flipping the order is a proactive way of ensuring you're not disappointed in the
 **Founding Principles**
 * **08:24** – Align the entire founding team on the "level" of game being played to avoid future conflict.
 * **08:55** – **Order of operations:** Define your MSC first, then find the idea that matches those goals.
+
+---
+
+## What This Means for Your Work
+
+**The four levels of startup outcomes force you to get honest about which game MoroTech is actually playing.** Level 1 ($100K/year solopreneur) is roughly where you are now, supplementing with consultancy income. Level 2 ($1M/year, small team) is likely where MoroTech needs to be to sustain a development team and serve multiple ministries. Trying to jump straight to Level 3 or 4 is unrealistic for govtech in BARMM. Naming the level removes the vague aspiration and replaces it with a concrete revenue target that shapes every decision -- pricing, staffing, which platforms to prioritize.
+
+**The revenue-as-oxygen metaphor is especially useful for a social enterprise that exists to deliver impact.** MoroTech is not a for-profit startup chasing margins; it exists to empower Bangsamoro through technology. But that mission dies without sustainable revenue. Ash's framing lets you hold both truths: you do not live for revenue, but you need revenue to live. The practical question becomes: how much annual revenue does MoroTech need to employ even two developers and cover infrastructure, so you are no longer the single point of failure?
+
+**The minimum success criteria approach needs adaptation for your dual-income reality.** Most founders have one revenue stream from their startup. You have consultancy income from OOBC and platform revenue from MoroTech. Your MSC should account for the transition: in three years, what percentage of your income should come from MoroTech platforms versus consultancy? A healthy target might be 70/30 platform-to-consultancy, which means the platforms need to generate enough to justify reducing government contract hours.
+
+**Ash's advice to align the founding team on the "level of game" matters even when you are a solo founder.** You may not have co-founders, but you do have stakeholders: the Moro Developers Community members who might become early team members, BTA officials who champion your platforms, and the Bangsamoro Scholars Association network. Getting alignment with these people on what MoroTech's success looks like in three years prevents the situation where government partners expect a Level 4 enterprise solution while you are building at Level 1 capacity.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**Your /startup and /lean-canvas skills should require a declared "game level" before generating any business plan or platform strategy.** Are you building MoroTech as a Level 1 solopreneur operation ($100K/year) or a Level 2 small team ($1M/year)? The answer changes everything: pricing, staffing plans, platform scope, and which ministries to prioritize. These skills should refuse to generate a go-to-market plan without this declaration, because a Level 1 strategy and a Level 2 strategy look fundamentally different in execution.
+
+**The minimum success criteria framework should be integrated into your /management skill as a three-horizon planning tool.** Horizon 1: three-year MSC for MoroTech (e.g., "$300K annual revenue from 3 BARMM ministries with a 3-person team"). Horizon 2: 90-day cycle goals that ladder up to the three-year target. Horizon 3: two-week sprint objectives that move the 90-day needle. Your /management skill should generate these cascading goals and track progress against them, ensuring that daily work connects to the long-term target rather than drifting on ad-hoc requests.
+
+**The revenue-as-oxygen principle should be built into your /social-enterprise skill as a sustainability constraint.** MoroTech exists to deliver impact, but impact dies without revenue. Your /social-enterprise skill should include a revenue check in every impact assessment: "How does this initiative generate or protect the revenue MoroTech needs to sustain its team and infrastructure?" This prevents the common social enterprise trap of prioritizing visible impact projects that do not contribute to financial sustainability.
+
+**Your /cofounder skill should facilitate "game level alignment" conversations with key stakeholders.** When onboarding Moro Developers Community members as potential team contributors, or when discussing platform scope with BTA ministry champions, the /cofounder skill should generate discussion frameworks that surface expectations: "What does success look like for this platform in three years? How many users? How much budget? What level of institutional commitment?" Misalignment on these expectations is a future source of conflict that can be prevented now.
+
+**The Fermi estimation approach should be adopted by your /auto-research skill for rapid market sizing in the BARMM context.** Instead of detailed financial models, use powers of ten: How many BARMM ministry employees could use this platform -- 100? 1,000? 10,000? What annual license fee is realistic -- $10? $100? $1,000 per user? Multiplying these rough estimates gives you an order-of-magnitude revenue potential that determines whether the platform is worth building at all. This quick calculation prevents months of development on platforms with a ceiling too low to sustain even a Level 1 business.

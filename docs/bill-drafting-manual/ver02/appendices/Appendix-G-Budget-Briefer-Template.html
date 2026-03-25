@@ -1,0 +1,1794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bill Drafting Guidebook for the Bangsamoro Parliament</title>
+<style>
+/* ============================================================
+   BILL DRAFTING GUIDEBOOK — PDF Stylesheet
+   Color scheme: Navy (#1B365D) + Gold (#C5A54E) + Charcoal (#2D2D2D)
+   ============================================================ */
+
+/* --- PAGE SETUP --- */
+@page {
+  size: A4;
+  margin: 25mm 22mm 30mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* Cover page: no header/footer */
+@page cover {
+  margin: 0;
+  @top-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* TOC page: no running header */
+@page toc {
+  @top-center { content: none; }
+}
+
+/* Chapter openers: start on a right page */
+@page chapter-start {
+  /* inherits header/footer from default */
+}
+
+/* Landscape pages for wide tables */
+@page landscape {
+  size: A4 landscape;
+  margin: 22mm 25mm 25mm 25mm;
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* --- GLOBAL RESET & BASE --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 11pt;
+  line-height: 1.55;
+}
+
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #2D2D2D;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- COVER PAGE --- */
+.cover-page {
+  page: cover;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(165deg, #0E2240 0%, #1B365D 40%, #243F6B 100%);
+  color: #FFFFFF;
+  padding: 35mm 30mm;
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-institution-top {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 20mm;
+}
+
+.cover-title {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 28pt;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 8mm;
+  max-width: 140mm;
+}
+
+.cover-gold-line {
+  width: 60mm;
+  height: 1.5pt;
+  background: #C5A54E;
+  margin: 6mm auto;
+}
+
+.cover-subtitle {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12.5pt;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  color: #D4D8DC;
+  max-width: 130mm;
+  margin-bottom: 25mm;
+}
+
+.cover-author {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  margin-top: 15mm;
+}
+
+.cover-bottom-block {
+  margin-top: auto;
+  padding-top: 15mm;
+}
+
+.cover-institution {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-institution-barmm {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-location {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  color: #A0AABC;
+  letter-spacing: 0.05em;
+}
+
+/* --- TABLE OF CONTENTS --- */
+.toc-section {
+  page: toc;
+  page-break-after: always;
+}
+
+.toc-section h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  color: #1B365D;
+  text-align: center;
+  margin-bottom: 10mm;
+  padding-bottom: 4mm;
+  border-bottom: 2pt solid #C5A54E;
+}
+
+/* --- CHAPTER CONTENT --- */
+.chapter {
+  page-break-before: always;
+}
+
+.chapter:first-of-type {
+  /* introduction doesn't need extra break if it follows TOC */
+}
+
+/* --- HEADINGS --- */
+h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 6mm;
+  padding-bottom: 3mm;
+  border-bottom: 2.5pt solid #C5A54E;
+  line-height: 1.25;
+  page-break-after: avoid;
+  string-set: chapter-title content();
+}
+
+h2 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  padding-bottom: 2mm;
+  border-bottom: 1pt solid #D5D9DE;
+  line-height: 1.3;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 7mm;
+  margin-bottom: 3mm;
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11.5pt;
+  font-weight: 700;
+  color: #2D4A73;
+  margin-top: 5mm;
+  margin-bottom: 2mm;
+  line-height: 1.4;
+  page-break-after: avoid;
+}
+
+h5 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  color: #3A5A8A;
+  margin-top: 4mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+/* --- PARAGRAPHS --- */
+p {
+  margin-bottom: 3mm;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+}
+
+/* --- LISTS --- */
+ul, ol {
+  margin-left: 8mm;
+  margin-bottom: 3mm;
+  padding-left: 0;
+}
+
+ul li, ol li {
+  margin-bottom: 1.5mm;
+  padding-left: 1mm;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 1mm;
+  margin-bottom: 1mm;
+}
+
+/* --- BLOCKQUOTES (BOL quotations, legal text) --- */
+blockquote {
+  background: #F0F3F6;
+  border-left: 3.5pt solid #1B365D;
+  margin: 4mm 0 4mm 4mm;
+  padding: 4mm 5mm;
+  font-size: 10pt;
+  color: #2D2D2D;
+  line-height: 1.5;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin-bottom: 2mm;
+  text-align: left;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- TABLES --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 5mm 0;
+  font-size: 9.5pt;
+  line-height: 1.4;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+thead tr {
+  background: #1B365D;
+  color: #FFFFFF;
+}
+
+thead th {
+  padding: 3mm 4mm;
+  text-align: left;
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 9.5pt;
+  border: 0.5pt solid #14294A;
+}
+
+tbody td {
+  padding: 2.5mm 4mm;
+  border: 0.5pt solid #D0D4D8;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #F5F7F9;
+}
+
+tbody tr:nth-child(odd) {
+  background: #FFFFFF;
+}
+
+/* --- TABLE COLUMN WIDTHS FOR TEMPLATES --- */
+/* Checklist tables: narrow Yes/No/NA columns */
+table th:nth-child(3),
+table td:nth-child(3),
+table th:nth-child(4),
+table td:nth-child(4),
+table th:nth-child(5),
+table td:nth-child(5) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Checklist-style tables (5-col with No/Item/Yes/No/NA) */
+.checklist-table th:nth-child(1),
+.checklist-table td:nth-child(1) {
+  width: 8mm;
+  text-align: center;
+}
+
+.checklist-table th:nth-child(3),
+.checklist-table td:nth-child(3),
+.checklist-table th:nth-child(4),
+.checklist-table td:nth-child(4),
+.checklist-table th:nth-child(5),
+.checklist-table td:nth-child(5) {
+  width: 12mm;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* First column (No.) narrow */
+table th:first-child,
+table td:first-child {
+  width: auto;
+}
+
+/* Form field lines */
+.form-line {
+  display: inline-block;
+  min-width: 35mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+.form-line-wide {
+  display: inline-block;
+  min-width: 60mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+/* Fix checkbox rendering - ensure inline */
+td {
+  white-space: normal;
+}
+
+/* --- CODE BLOCKS --- */
+pre {
+  background: #F0F3F6;
+  border: 0.5pt solid #D0D4D8;
+  border-radius: 2pt;
+  padding: 4mm;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9pt;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  margin: 4mm 0;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9.5pt;
+  background: #EEF1F4;
+  padding: 0.5pt 2pt;
+  border-radius: 1.5pt;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --- HORIZONTAL RULES --- */
+hr {
+  border: none;
+  border-top: 1pt solid #D0D4D8;
+  margin: 8mm 0;
+}
+
+/* --- STRONG & EMPHASIS --- */
+strong {
+  font-weight: 700;
+  color: #1B365D;
+}
+
+em {
+  font-style: italic;
+}
+
+/* --- LINKS (for PDF, style as text) --- */
+a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+/* --- SPECIAL CLASSES --- */
+
+/* Drafting tips / practical guidance callout boxes */
+.drafting-tip {
+  background: #FFF9EE;
+  border: 1pt solid #E8D5A0;
+  border-left: 4pt solid #C5A54E;
+  padding: 4mm 5mm;
+  margin: 5mm 0;
+  font-size: 10pt;
+  page-break-inside: avoid;
+}
+
+.drafting-tip strong:first-child {
+  color: #8A6D1B;
+}
+
+/* Chapter number label */
+.chapter-label {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 2mm;
+  display: block;
+}
+
+/* Summary boxes at end of chapters */
+.summary-box {
+  background: #F0F3F6;
+  border: 1pt solid #B8C4D0;
+  border-top: 3pt solid #1B365D;
+  padding: 5mm;
+  margin: 6mm 0;
+  page-break-inside: avoid;
+}
+
+/* Checklist styling */
+.checklist {
+  list-style-type: none;
+  margin-left: 2mm;
+}
+
+.checklist li::before {
+  content: "\2610\0020";
+  font-size: 11pt;
+}
+
+/* Page break utility */
+.page-break {
+  page-break-before: always;
+}
+
+/* Landscape page container for wide tables */
+.landscape-page {
+  page: landscape;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.landscape-page table {
+  font-size: 9pt;
+}
+
+.landscape-page thead th {
+  font-size: 9pt;
+  padding: 2.5mm 3mm;
+}
+
+.landscape-page tbody td {
+  padding: 2mm 3mm;
+}
+
+/* --- FOOTNOTES --- */
+.footnote {
+  font-size: 8.5pt;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* --- TOC ENTRY STYLING --- */
+.toc-entries {
+  margin-top: 4mm;
+}
+
+.toc-chapter {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 5mm;
+  margin-bottom: 1.5mm;
+  padding-top: 2mm;
+  padding-bottom: 1mm;
+  border-bottom: 0.5pt solid #E0E3E8;
+  page-break-inside: avoid;
+}
+
+.toc-chapter a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+.toc-chapter a:hover {
+  text-decoration: underline;
+}
+
+/* Back to TOC link at end of each chapter */
+.back-to-toc {
+  margin-top: 10mm;
+  padding-top: 4mm;
+  border-top: 0.5pt solid #E0E3E8;
+  text-align: right;
+  font-size: 8.5pt;
+}
+
+.back-to-toc a {
+  color: #8A8A8A;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.back-to-toc a:hover {
+  color: #1B365D;
+}
+
+/* Keep chapter heading with its first few entries */
+.toc-chapter + .toc-entry {
+  page-break-before: avoid;
+}
+
+.toc-entry {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt;
+  color: #3A3A3A;
+  line-height: 1.65;
+  margin-bottom: 0.3mm;
+}
+
+.toc-level-0 {
+  padding-left: 0;
+  font-weight: 600;
+}
+
+.toc-level-1 {
+  padding-left: 6mm;
+}
+
+.toc-level-2 {
+  padding-left: 14mm;
+  font-size: 9pt;
+  color: #555555;
+}
+
+.toc-level-3 {
+  padding-left: 22mm;
+  font-size: 8.5pt;
+  color: #666666;
+}
+
+/* --- PRINT OPTIMIZATIONS --- */
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+blockquote, pre, .drafting-tip, .summary-box {
+  page-break-inside: avoid;
+}
+
+table {
+  page-break-inside: auto;
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+p {
+  orphans: 3;
+  widows: 3;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Allow large tables to break */
+table.allow-break {
+  page-break-inside: auto;
+}
+
+table.allow-break tr {
+  page-break-inside: avoid;
+}
+
+/* Override default page to landscape for wide-table appendices */
+@page {
+  size: A4 landscape;
+  margin: 22mm 25mm 25mm 25mm;
+}
+</style>
+</head>
+<body>
+
+<!-- ======== CONTENT (injected by Python) ======== -->
+<div class="chapter" id="appendix-g">
+<h1 id="appendix-g-budget-briefer-template">Appendix G — Budget Briefer Template</h1>
+<p>This template follows the Completed Staff Work (CSW) framework described in Chapter 9. It is designed to be filled in for each agency whose budget the MP will review during the annual Bangsamoro Expenditure Program (BEP) deliberation — whether in Committee on Finance hearings or in plenary.</p>
+<p>For detailed guidance on how to complete each section, refer to the corresponding sections in Chapter 9.</p>
+<hr>
+<h2 id="budget-briefer">BUDGET BRIEFER</h2>
+<h3 id="bangsamoro-transition-authority-parliament">Bangsamoro Transition Authority Parliament</h3>
+<hr>
+<h3 id="control-information">Control Information</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Control No.:</strong></td>
+<td>BB-<span class="form-line"></span>-<span class="form-line"></span></td>
+</tr>
+<tr>
+<td><strong>Date Prepared:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Prepared by:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Designation:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Office of MP:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Version:</strong></td>
+<td>&#9744; Initial &emsp; &#9744; Updated (Version <span class="form-line"></span>)</td>
+</tr>
+<tr>
+<td><strong>For:</strong></td>
+<td>&#9744; Committee on Finance Hearing &emsp; &#9744; Plenary Deliberation</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="section-1-ministry-agency-office">Section 1 — Ministry / Agency / Office</h3>
+<p><em>(Refer to Chapter 9, Section 9.3.1)</em></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Full Name:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Abbreviation:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Type:</strong></td>
+<td>&#9744; Ministry &emsp; &#9744; Office under OCM &emsp; &#9744; Parliamentary Office &emsp; &#9744; GOCC &emsp; &#9744; Constitutional Body &emsp; &#9744; Other: <span class="form-line"></span></td>
+</tr>
+<tr>
+<td><strong>Head of Agency:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Date of Appointment:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>BEP Code:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>BEP Page Number:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>No. of Divisions/Bureaus:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>No. of Field Offices:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Provinces Covered:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Total Authorized Positions:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Total Filled Positions:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Fill Rate:</strong></td>
+<td><span class="form-line"></span>%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Organizational Notes:</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-2-mandate-and-legal-basis">Section 2 — Mandate and Legal Basis</h3>
+<p><em>(Refer to Chapter 9, Section 9.3.2)</em></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Primary Legal Basis:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Creating Law / Issuance:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Core Functions (2-3 sentences):</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Has the mandate changed since the last budget cycle?</strong></td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td><strong>If yes, describe the change and its fiscal impact:</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-3-overall-development-goals">Section 3 — Overall Development Goals</h3>
+<p><em>(Refer to Chapter 9, Section 9.3.3)</em></p>
+<p>Check all BDP 2023-2028 goals the agency primarily serves:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Goal</th>
+<th>Primary?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 1</strong> — Stable, just, and accountable government</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 2</strong> — Equitable, competitive, and robust economy</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 3</strong> — Peaceful, safe, and resilient Bangsamoro communities</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 4</strong> — Inclusive, responsive, and quality social services</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 5</strong> — Rich and diverse Bangsamoro culture and identity preserved and recognized</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 6</strong> — Strategic, adequate, and climate-resilient infrastructure</td>
+<td>&#9744; Primary &emsp; &#9744; Secondary</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Alignment Assessment:</strong></p>
+<p><em>(Does the agency&rsquo;s budget request actually advance the development goals it claims to serve? Note any alignment gaps.)</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-4-organizational-outcomes-and-key-performance-indicators">Section 4 — Organizational Outcomes and Key Performance Indicators</h3>
+<p><em>(Refer to Chapter 9, Section 9.4)</em></p>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>KPI</th>
+<th>Target (Current FY)</th>
+<th>Baseline / Previous FY Actual</th>
+<th>Met Target?</th>
+<th>BDP Goal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; Partial</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>For KPIs that fell short of target — root cause analysis:</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-5-budget-comparison">Section 5 — Budget Comparison</h3>
+<p><em>(Refer to Chapter 9, Section 9.5)</em></p>
+<h4 id="5a-three-year-budget-comparison">5a. Three-Year Budget Comparison</h4>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>FY (Year-2)</th>
+<th>FY (Year-1)</th>
+<th>FY (Current)</th>
+<th>Variance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>PS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>MOOE</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>CO</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>GAD</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>3-Year Trend:</strong> &#9744; Increasing &emsp; &#9744; Stable &emsp; &#9744; Decreasing
+<strong>GAD meets 5% minimum?</strong> &#9744; Yes &emsp; &#9744; No</p>
+<h4 id="5b-absorption-capacity-previous-fy">5b. Absorption Capacity (Previous FY)</h4>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Allocation</th>
+<th>Actual Expenditure</th>
+<th>Absorption Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PS</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MOOE</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CO</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 id="5c-personnel-services-detail">5c. Personnel Services Detail</h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New positions requested</td>
+<td><span class="form-line"></span> positions</td>
+</tr>
+<tr>
+<td>Position titles and salary grades</td>
+<td></td>
+</tr>
+<tr>
+<td>Administrative-to-program delivery ratio</td>
+<td><span class="form-line"></span>:<span class="form-line"></span></td>
+</tr>
+<tr>
+<td>Positions vacant &gt; 12 months</td>
+<td><span class="form-line"></span></td>
+</tr>
+<tr>
+<td>Overtime/allowance as % of base salaries</td>
+<td><span class="form-line"></span>%</td>
+</tr>
+</tbody>
+</table>
+<h4 id="5d-mooe-detail">5d. MOOE Detail</h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Program delivery MOOE vs. administrative MOOE</td>
+<td><span class="form-line"></span>% : <span class="form-line"></span>%</td>
+</tr>
+<tr>
+<td>Travel budget as % of total MOOE</td>
+<td><span class="form-line"></span>%</td>
+</tr>
+<tr>
+<td>Training/capacity-building budget</td>
+<td></td>
+</tr>
+<tr>
+<td>Consultant fees</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4 id="5e-capital-outlay-detail">5e. Capital Outlay Detail</h4>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Previous FY Allocation</th>
+<th>Completion Status</th>
+<th>Current FY Request</th>
+<th>Total Project Cost (if multi-year)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>CO Utilization Rate (3-Year):</strong> FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>%</p>
+<h4 id="5f-variance-analysis-narrative">5f. Variance Analysis (Narrative)</h4>
+<p><em>(For any line item that changed by more than 20% from the previous year, explain the variance.)</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-6-existing-ppas-tier-1">Section 6 — Existing PPAS (Tier 1)</h3>
+<p><em>(Refer to Chapter 9, Section 9.6)</em></p>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>PPAS</th>
+<th>Type</th>
+<th>FY Alloc</th>
+<th>FY Actual</th>
+<th>FY Request</th>
+<th>Variance</th>
+<th>Absorption</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>&#9744; Core &emsp; &#9744; Support &emsp; &#9744; Admin &emsp; &#9744; Cross-cutting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; Core &emsp; &#9744; Support &emsp; &#9744; Admin &emsp; &#9744; Cross-cutting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; Core &emsp; &#9744; Support &emsp; &#9744; Admin &emsp; &#9744; Cross-cutting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; Core &emsp; &#9744; Support &emsp; &#9744; Admin &emsp; &#9744; Cross-cutting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; Core &emsp; &#9744; Support &emsp; &#9744; Admin &emsp; &#9744; Cross-cutting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>Budget Distribution:</strong> Core Mandate <span class="form-line"></span>% &emsp; Support <span class="form-line"></span>% &emsp; Administrative <span class="form-line"></span>% &emsp; Cross-cutting <span class="form-line"></span>%</p>
+<p><strong>Performance Evaluation of Key Tier 1 Programs:</strong></p>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>Program</th>
+<th>Physical Target</th>
+<th>Actual Accomplishment</th>
+<th>Target Met?</th>
+<th>Outcome Indicators</th>
+<th>Issues / Challenges</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<hr>
+<h3 id="section-7-new-ppas-tier-2">Section 7 — New PPAS (Tier 2)</h3>
+<p><em>(Refer to Chapter 9, Section 9.7)</em></p>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>PPAS</th>
+<th>Priority</th>
+<th>Rationale</th>
+<th>Expected Outcomes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+<td></td>
+<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+<td></td>
+<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+<td></td>
+<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>Tier 2 Scrutiny:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Program 1</th>
+<th>Program 2</th>
+<th>Program 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Evidence of need (needs assessment conducted?)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Legal or policy basis?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>BEDC endorsement?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Feasibility study completed?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Specific first-year targets?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Exit strategy or evaluation trigger?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total lifecycle cost (if multi-year)?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>What happens if NOT funded?</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tier 2 programs as % of total budget increase:</strong> <span class="form-line"></span>%</p>
+<hr>
+<h3 id="section-8-gad-budget-review">Section 8 — GAD Budget Review</h3>
+<p><em>(Refer to Chapter 9, Section 9.5.5)</em></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GAD allocation included?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>GAD as % of total budget</td>
+<td><span class="form-line"></span>%</td>
+</tr>
+<tr>
+<td>Meets 5% minimum?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Genuine gender-responsive programs or relabeled existing activities?</td>
+<td></td>
+</tr>
+<tr>
+<td>GAD targets included in agency KPIs?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Gender analysis of core programs conducted?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Previous FY GAD outcomes</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-9-budget-scrutiny-questions">Section 9 — Budget Scrutiny Questions</h3>
+<p><em>(Refer to Chapter 9, Section 9.8)</em></p>
+<p>Select the most important questions for this agency. Rank by priority — ask these first if hearing time is limited.</p>
+<p><strong>Priority Questions (Top 5-10):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Priority</th>
+<th>Category</th>
+<th>Question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Questions by Category:</strong></p>
+<p><em>Agency Profile and Mandate:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Performance and KPIs:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Personnel Services:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>MOOE:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Capital Outlay:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>GAD Budget:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>New Programs (Tier 2):</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Overall Budget:</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h3 id="section-10-recommendations-for-the-mp">Section 10 — Recommendations for the MP</h3>
+<p><em>(Refer to Chapter 9, Section 9.9)</em></p>
+<p><strong>Recommended Position on Overall Budget:</strong> &#9744; Support &emsp; &#9744; Support with Amendments &emsp; &#9744; Oppose &emsp; &#9744; Reserve Position</p>
+<p><strong>Conditions (if conditional support):</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Recommended Budget Amendments:</strong></p>
+<div class="landscape-page">
+
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Type</th>
+<th>Line Item / Program</th>
+<th>Current Amount</th>
+<th>Proposed Change</th>
+<th>Justification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>&#9744; Reduction &emsp; &#9744; Reallocation &emsp; &#9744; Conditional Release &emsp; &#9744; Deletion</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>&#9744; Reduction &emsp; &#9744; Reallocation &emsp; &#9744; Conditional Release &emsp; &#9744; Deletion</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>&#9744; Reduction &emsp; &#9744; Reallocation &emsp; &#9744; Conditional Release &emsp; &#9744; Deletion</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>Top Priority Questions for the Hearing (from Section 9):</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Items Requiring Follow-Up:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Details</th>
+<th>Follow-Up Action Needed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="section-11-action-log">Section 11 — Action Log</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Action</th>
+<th>Responsible</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>BEP submitted to Parliament</td>
+<td></td>
+<td>&#9744; Complete</td>
+</tr>
+<tr>
+<td></td>
+<td>Agency budget data compiled</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; In Progress</td>
+</tr>
+<tr>
+<td></td>
+<td>Previous FY expenditure data obtained</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; In Progress</td>
+</tr>
+<tr>
+<td></td>
+<td>Audit findings reviewed</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; N/A</td>
+</tr>
+<tr>
+<td></td>
+<td>Budget briefer prepared</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; In Progress</td>
+</tr>
+<tr>
+<td></td>
+<td>Briefer submitted to MP for review</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; Pending</td>
+</tr>
+<tr>
+<td></td>
+<td>Committee on Finance hearing</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; Upcoming — <span class="form-line"></span></td>
+</tr>
+<tr>
+<td></td>
+<td>Plenary budget deliberation</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; TBD</td>
+</tr>
+<tr>
+<td></td>
+<td>Post-hearing update</td>
+<td></td>
+<td>&#9744; Complete &emsp; &#9744; Pending</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="section-12-approval">Section 12 — Approval</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Prepared by:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Designation:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Date Submitted:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Recommended Position:</strong></td>
+<td>&#9744; Support &emsp; &#9744; Support with Amendments &emsp; &#9744; Oppose &emsp; &#9744; Reserve Position</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>MP&rsquo;s Decision:</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#9744; Approved as recommended</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744; Approved with modifications:</td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td>&#9744; Disapproved / Return for further study</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>MP&rsquo;s Signature:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Date:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Post-Hearing Notes:</strong></p>
+<p><em>(After the committee hearing or plenary deliberation, record actual outcomes: questions asked, answers given, amendments adopted, commitments made by the agency, MP&rsquo;s vote.)</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p><em>This template is designed to be reproduced and used as a standalone document. Permission is granted to photocopy or print this appendix for use in legislative offices of the Bangsamoro Parliament.</em></p>
+</div>
+
+
+</body>
+</html>

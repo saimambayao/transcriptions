@@ -40,6 +40,28 @@
 - Still can't implement **reliable full-stack features** like authentication
 - Best for design generation and prototyping, not production backend logic
 
+## What This Means for Your Work
+
+**The design markdown file export is the single most valuable Stitch feature for your multi-platform operation.** You are building 9 government-scale platforms on React 19 + Tailwind CSS. A portable design.md that codifies color strategy, typography rules, and component conventions means you can enforce visual consistency across e-Bangsamoro, e-Negosyo, MoroMarket, Tarbiyyah-MS, BangsamoroHR, SBP, OBCMS, Parliamentarian, and IPP without manually synchronizing design tokens between projects. Export the design.md from Stitch, drop it into each Claude Code project, and your /frontend-design skill reads from a single authoritative source.
+
+**The Tailwind CSS disruption narrative has a different implication for you as a solo dev.** Fireship frames Tailwind's layoffs as proof that implementation tools are becoming irrelevant. But you are not selling Tailwind templates -- you are using Tailwind as your CSS layer across all 9 platforms. The real takeaway is that your workflow of describing interfaces to Claude Code and having it generate Tailwind classes is now the dominant pattern, not the exception. Your existing stack is already positioned correctly.
+
+**Voice-driven design via Gemini could accelerate your stakeholder collaboration workflow.** When presenting design options to BARMM officials or the Office of the Chief Minister, you could run Stitch's voice mode during meetings to iterate on interface concepts in real time -- describe what the Bangsamoro Scholars portal should look like, get screens back instantly, and gather feedback on the spot. This is faster than scheduling a separate design review cycle.
+
+**The limitation Fireship flags -- no reliable full-stack features -- confirms your two-tool split.** Stitch handles the visual layer, Claude Code handles Django backend logic, PostgreSQL schemas, authentication, and API integration. For the SEED Initiative's 124+ training courses in Tarbiyyah-MS or the cooperative marketplace logic in e-Negosyo, you still need Claude Code doing the heavy engineering. Stitch is a visual accelerator, not a replacement for your development pipeline.
+
+### How This Can Improve Your Claude Skills and Workflows
+
+**The portable design.md concept Fireship highlights should become the connective tissue between your /stitch-design, /frontend-design, and /brand-guidelines skills.** Fireship calls this "the best new feature" -- a single markdown file that codifies an entire design system and can be used across multiple projects and integrated with coding models. Create a skill chain where /brand-guidelines generates the master design system for MoroTech, /stitch-design exports project-specific design.md files that inherit from the master, and /frontend-design reads the project-specific design.md at the start of every implementation session. This three-layer system (brand > project > page) ensures visual consistency from MoroMarket's marketplace to Tarbiyyah-MS's learning management interface without manual synchronization.
+
+**The Tailwind CSS disruption narrative has a workflow implication for your /frontend skill.** Fireship notes that memorizing utility classes is becoming irrelevant because you describe what you want and AI builds it. Your /frontend skill should lean further into semantic descriptions ("professional data table with sortable columns and zebra striping") rather than Tailwind-specific instructions ("use bg-gray-50 on even rows"). This makes your skills model-agnostic -- if you ever move from Claude Code to another coding agent, or if Tailwind is replaced by something else, your skill prompts remain valid because they describe intent, not implementation.
+
+**Voice-driven design creates a new workflow for your governance stakeholder meetings that your /presentation skill should support.** Fireship shows Stitch's voice mode generating screens from conversational descriptions. Combine this with your /presentation skill: before a design review meeting with the Office of the Chief Minister, prepare a /presentation deck with the current state, then use Stitch voice mode during the meeting for live iteration based on feedback. Your /presentation skill could include a "live design session" template that structures the meeting flow -- current state, feedback round, live Stitch generation, selection, next steps.
+
+**The "no wireframe needed, start with a vibe" philosophy should update your /write-a-prd skill's design section.** Traditional PRDs include wireframes or mockup references. Fireship suggests that the new workflow starts with a "vibe" -- what the product should feel like, who it is for, what aesthetic to channel. Update /write-a-prd to include a "Design Vibe" field (replacing or supplementing wireframes) that captures the visual thesis, target aesthetic, and reference URLs. This vibe statement becomes the input for /stitch-design, creating a clean handoff from product specification to visual design to code implementation.
+
+**Cross-pollination with /notebooklm: feed the design.md files from all 9 platforms into a NotebookLM source to create a unified design knowledge base.** When you have design.md files for e-Bangsamoro, MoroMarket, Tarbiyyah-MS, BangsamoroHR, SBP, OBCMS, Parliamentarian, IPP, and e-Negosyo, NotebookLM can analyze them collectively -- identifying shared patterns, inconsistencies, and opportunities for component reuse across platforms. This turns individual design systems into an organizational design language for BARMM's entire digital ecosystem.
+
 ---
 
 ## Transcript
