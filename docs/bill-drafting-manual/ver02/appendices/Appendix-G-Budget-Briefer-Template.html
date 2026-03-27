@@ -673,6 +673,48 @@ a {
   color: #666666;
 }
 
+/* --- TEMPLATE FORM TABLES (2-column key-value) --- */
+/* Tables with exactly 2 columns where first column is a label */
+table.kv-table {
+  table-layout: fixed;
+}
+table.kv-table td:first-child,
+table.kv-table th:first-child {
+  width: 35%;
+}
+table.kv-table td:last-child,
+table.kv-table th:last-child {
+  width: 65%;
+  min-height: 8mm;
+}
+
+/* Fill-in writeable areas */
+.write-area {
+  display: block;
+  min-height: 20mm;
+  border-bottom: 0.3pt dotted #CCCCCC;
+  margin-bottom: 2mm;
+}
+
+/* Keep section headers with their content */
+h3 + p,
+h3 + table,
+h4 + p,
+h4 + table {
+  page-break-before: avoid;
+}
+
+/* Template tables need adequate row height for handwriting */
+table.form-table td {
+  min-height: 10mm;
+  padding: 3mm 4mm;
+}
+
+/* Multi-column form tables (3+ cols) - ensure reasonable distribution */
+table.form-table {
+  table-layout: fixed;
+}
+
 /* --- PRINT OPTIMIZATIONS --- */
 h1, h2, h3, h4, h5 {
   page-break-after: avoid;
@@ -722,13 +764,13 @@ table.allow-break tr {
 <div class="chapter" id="appendix-g">
 <h1 id="appendix-g-budget-briefer-template">Appendix G — Budget Briefer Template</h1>
 <p>This template follows the Completed Staff Work (CSW) framework described in Chapter 9. It is designed to be filled in for each agency whose budget the MP will review during the annual Bangsamoro Expenditure Program (BEP) deliberation — whether in Committee on Finance hearings or in plenary.</p>
-<p>For detailed guidance on how to complete each section, refer to the corresponding sections in Chapter 9.</p>
+<p>The template covers sixteen sections. For detailed guidance on how to complete each section, refer to the corresponding sections in Chapter 9.</p>
 <hr>
 <h2 id="budget-briefer">BUDGET BRIEFER</h2>
 <h3 id="bangsamoro-transition-authority-parliament">Bangsamoro Transition Authority Parliament</h3>
 <hr>
 <h3 id="control-information">Control Information</h3>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -769,7 +811,12 @@ table.allow-break tr {
 <hr>
 <h3 id="section-1-ministry-agency-office">Section 1 — Ministry / Agency / Office</h3>
 <p><em>(Refer to Chapter 9, Section 9.3.1)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Identify the agency precisely so the MP knows exactly which entity&rsquo;s budget is under review.</p>
+<p><strong>What to include:</strong> Full name, abbreviation, agency type, BEP code and page number; head of agency, appointment date, and organizational scope; calculate fill rate (filled / authorized positions) and note staffing anomalies.</p>
+<p><strong>Sources:</strong> BEP current FY; agency organizational chart or annual report; BTA Parliament records for agency heads.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -832,12 +879,16 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Organizational Notes:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-2-mandate-and-legal-basis">Section 2 — Mandate and Legal Basis</h3>
 <p><em>(Refer to Chapter 9, Section 9.3.2)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Establish the agency&rsquo;s legal mandate so the MP can test whether the budget matches what the law requires.</p>
+<p><strong>What to include:</strong> The creating law (BAA, executive order, or BOL provision); core functions in 2-3 sentences; whether the mandate changed since the last budget cycle and the fiscal impact of any change.</p>
+<p><strong>Sources:</strong> BAA No. 13 (Administrative Code); specific creating BAAs from the Bills and Index Division; BOL Articles IV-XII for constitutionally mandated bodies.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -856,10 +907,8 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Core Functions (2-3 sentences):</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table>
+<div class="write-area"></div>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -877,13 +926,17 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-3-overall-development-goals">Section 3 — Overall Development Goals</h3>
 <p><em>(Refer to Chapter 9, Section 9.3.3)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Map the agency to BDP 2023-2028 goals so the MP can assess strategic alignment.</p>
+<p><strong>What to include:</strong> Check which of the six BDP goals the agency serves (primary and secondary); write an alignment assessment comparing claimed goals against actual budget distribution (see Section 5).</p>
+<p><strong>Sources:</strong> BDP 2023-2028 Chapter 2 (goals and strategies); agency BEP narrative; BEDC sectoral committee reports.</p>
+</blockquote>
 <p>Check all BDP 2023-2028 goals the agency primarily serves:</p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -925,21 +978,23 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Alignment Assessment:</strong></p>
-<p><em>(Does the agency&rsquo;s budget request actually advance the development goals it claims to serve? Note any alignment gaps.)</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><em>(Compare what the agency claims to prioritize (goals checked above) against where its money actually goes (Section 5). If an agency checks &ldquo;Goal 4 — Social Services&rdquo; but allocates 80% to administrative MOOE, that is an alignment gap. Note any such gaps below.)</em></p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-4-organizational-outcomes-and-key-performance-indicators">Section 4 — Organizational Outcomes and Key Performance Indicators</h3>
 <p><em>(Refer to Chapter 9, Section 9.4)</em></p>
-<div class="landscape-page">
-
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Establish the agency&rsquo;s performance track record before examining budget numbers.</p>
+<p><strong>What to include:</strong> KPIs with targets, baselines, and whether each was met; root cause analyses for missed KPIs; check whether the agency tracks SQI and CSI — absence is itself a finding worth raising.</p>
+<p><strong>Sources:</strong> Agency annual reports; BEP performance narratives; BDP results matrix (BEDC/BPDA); COA annual audit reports.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>KPI</th>
-<th>Target (Current FY)</th>
-<th>Baseline / Previous FY Actual</th>
-<th>Met Target?</th>
+<th>Target</th>
+<th>Baseline</th>
+<th>Met?</th>
 <th>BDP Goal</th>
 </tr>
 </thead>
@@ -988,17 +1043,82 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
-</div>
-
 <p><strong>For KPIs that fell short of target — root cause analysis:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><em>(For each KPI marked &ldquo;No&rdquo; or &ldquo;Partial&rdquo; above, write 2-3 sentences: what was the target, what was actually achieved, and why the gap exists. Sources: agency annual reports, BEP narratives, COA findings.)</em></p>
+<div class="write-area"></div>
+<p><strong>Service Quality and Satisfaction:</strong></p>
+<p><em>(Check whether the agency tracks these. If the agency does not have an SQI or CSI, mark &ldquo;No&rdquo; and note &ldquo;N/A — agency does not track this metric.&rdquo; This is itself a finding worth raising during the hearing.)</em></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Dimension</th>
+<th style="text-align: center;">Agency Tracks?</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Service Quality Index (SQI)</strong></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+<td></td>
+</tr>
+<tr>
+<td>— Accessibility (ease of reaching/using services)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Reliability (consistent, accurate delivery)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Timeliness (speed, punctuality of delivery)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Responsiveness (willingness to assist promptly)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Assurance (trust, competence, security)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Sustainability (environmental and social responsibility)</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Customer Satisfaction Index (CSI)</strong></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+<td></td>
+</tr>
+<tr>
+<td>— Survey or feedback system in place?</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td>— Most recent score or result:</td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3 id="section-5-budget-comparison">Section 5 — Budget Comparison</h3>
 <p><em>(Refer to Chapter 9, Section 9.5)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Provide the quantitative core of the briefer — comparing this year&rsquo;s request to previous allocations and actual spending.</p>
+<p><strong>What to include:</strong> Three-year budget comparison (PS, MOOE, CO, GAD) with variances; absorption rates for previous FY (flag rates below 80%); PS, MOOE, and CO detail breakdowns; line-item variance analysis for any item changing more than 20%; verify GAD meets 5% minimum under BAA 84.</p>
+<p><strong>Sources:</strong> BEP current and previous FY; General Appropriations Acts; MFBM budget execution reports; COA audit observations.</p>
+</blockquote>
 <h4 id="5a-three-year-budget-comparison">5a. Three-Year Budget Comparison</h4>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Category</th>
@@ -1049,7 +1169,7 @@ table.allow-break tr {
 <p><strong>3-Year Trend:</strong> &#9744; Increasing &emsp; &#9744; Stable &emsp; &#9744; Decreasing
 <strong>GAD meets 5% minimum?</strong> &#9744; Yes &emsp; &#9744; No</p>
 <h4 id="5b-absorption-capacity-previous-fy">5b. Absorption Capacity (Previous FY)</h4>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Category</th>
@@ -1086,7 +1206,7 @@ table.allow-break tr {
 </tbody>
 </table>
 <h4 id="5c-personnel-services-detail">5c. Personnel Services Detail</h4>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Item</th>
@@ -1117,7 +1237,7 @@ table.allow-break tr {
 </tbody>
 </table>
 <h4 id="5d-mooe-detail">5d. MOOE Detail</h4>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Item</th>
@@ -1144,16 +1264,14 @@ table.allow-break tr {
 </tbody>
 </table>
 <h4 id="5e-capital-outlay-detail">5e. Capital Outlay Detail</h4>
-<div class="landscape-page">
-
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Project</th>
-<th>Previous FY Allocation</th>
-<th>Completion Status</th>
-<th>Current FY Request</th>
-<th>Total Project Cost (if multi-year)</th>
+<th>Prev FY Alloc</th>
+<th>Status</th>
+<th>Current FY</th>
+<th>Total Cost</th>
 </tr>
 </thead>
 <tbody>
@@ -1180,21 +1298,88 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
+<p><strong>CO Utilization Rate (3-Year):</strong> FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>%</p>
+<h4 id="5f-line-item-variance-analysis">5f. Line-Item Variance Analysis</h4>
+<div class="landscape-page">
+
+<table class="form-table">
+<thead>
+<tr>
+<th>Line Item</th>
+<th>FY (Year-2) Actual</th>
+<th>FY (Year-1) Actual</th>
+<th>FY (Current) Proposed</th>
+<th>Variance (Year-1 to Current)</th>
+<th style="text-align: center;">Favorable?</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; F &emsp; &#9744; U</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; F &emsp; &#9744; U</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; F &emsp; &#9744; U</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; F &emsp; &#9744; U</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; F &emsp; &#9744; U</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
 
-<p><strong>CO Utilization Rate (3-Year):</strong> FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>% &emsp; FY <span class="form-line"></span>: <span class="form-line"></span>%</p>
-<h4 id="5f-variance-analysis-narrative">5f. Variance Analysis (Narrative)</h4>
-<p><em>(For any line item that changed by more than 20% from the previous year, explain the variance.)</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><em>(For any line item that changed by more than 20% from the previous year, explain the variance in the table above. F = Favorable, U = Unfavorable.)</em></p>
+<p><strong>Mid-Year Adjustments or Reallocations (Previous FY):</strong></p>
+<div class="write-area"></div>
+<p><strong>Internal Controls Assessment:</strong></p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-6-existing-ppas-tier-1">Section 6 — Existing PPAS (Tier 1)</h3>
 <p><em>(Refer to Chapter 9, Section 9.6)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Evaluate the agency&rsquo;s continuing programs to determine whether current spending is producing results.</p>
+<p><strong>What to include:</strong> Each PPAS with type, allocation, actual spend, request, and absorption rate; budget distribution across core/support/admin/cross-cutting; program-level performance evaluation against targets.</p>
+<p><strong>Sources:</strong> BEP program-level breakdowns (PREXC: GAS, STO, Operations); MFBM budget execution data; agency accomplishment reports.</p>
+</blockquote>
 <div class="landscape-page">
 
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>PPAS</th>
@@ -1258,17 +1443,14 @@ table.allow-break tr {
 
 <p><strong>Budget Distribution:</strong> Core Mandate <span class="form-line"></span>% &emsp; Support <span class="form-line"></span>% &emsp; Administrative <span class="form-line"></span>% &emsp; Cross-cutting <span class="form-line"></span>%</p>
 <p><strong>Performance Evaluation of Key Tier 1 Programs:</strong></p>
-<div class="landscape-page">
-
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Program</th>
-<th>Physical Target</th>
-<th>Actual Accomplishment</th>
-<th>Target Met?</th>
-<th>Outcome Indicators</th>
-<th>Issues / Challenges</th>
+<th>Target</th>
+<th>Actual</th>
+<th>Met?</th>
+<th>Issues</th>
 </tr>
 </thead>
 <tbody>
@@ -1278,7 +1460,6 @@ table.allow-break tr {
 <td></td>
 <td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1286,77 +1467,134 @@ table.allow-break tr {
 <td></td>
 <td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>&#9744; Yes &emsp; &#9744; Partial &emsp; &#9744; No</td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-</div>
-
+<p><strong>Outcome indicators for key programs</strong> <em>(1-2 sentences per program: what indicator was tracked, what was achieved, and whether the budget was the limiting factor):</em></p>
+<div class="write-area"></div>
 <hr>
-<h3 id="section-7-new-ppas-tier-2">Section 7 — New PPAS (Tier 2)</h3>
+<h3 id="section-7-new-and-expanded-ppas-tier-2">Section 7 — New and Expanded PPAS (Tier 2)</h3>
 <p><em>(Refer to Chapter 9, Section 9.7)</em></p>
-<div class="landscape-page">
-
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Scrutinize new and expanded proposals that lack a performance track record.</p>
+<p><strong>What to include:</strong> For each new program: type, priority, PS/MOOE/CO breakdown, rationale, and expected outcomes; complete the scrutiny table (evidence of need, legal basis, BEDC endorsement, feasibility study, targets, exit strategy, lifecycle cost, consequence if not funded).</p>
+<p><strong>Sources:</strong> Agency Tier 2 budget submission forms (per BBM guidelines); BEDC endorsement letters; BPDA certification; Budget Endorsing Authority clearances.</p>
+</blockquote>
+<p><strong>New/Expanded Program 1:</strong></p>
+<table class="form-table">
 <thead>
 <tr>
-<th>PPAS</th>
-<th>Priority</th>
-<th>Rationale</th>
-<th>Expected Outcomes</th>
+<th>Field</th>
+<th>Details</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td><strong>PPAS Name:</strong></td>
 <td></td>
+</tr>
+<tr>
+<td><strong>Type:</strong></td>
+<td>&#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+</tr>
+<tr>
+<td><strong>Priority:</strong></td>
 <td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
-<td></td>
+</tr>
+<tr>
+<td><strong>Budget:</strong></td>
+<td>PS: <span class="form-line"></span> &emsp; MOOE: <span class="form-line"></span> &emsp; CO: <span class="form-line"></span></td>
+</tr>
+<tr>
+<td><strong>Rationale:</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
-<td></td>
-<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
-<td></td>
-<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><em>Type:</em> &#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
-<td></td>
-<td><em>PS:</em> &emsp;&emsp;&emsp;&emsp; <em>MOOE:</em> &emsp;&emsp;&emsp;&emsp; <em>CO:</em></td>
+<td><strong>Expected Outcomes:</strong></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-</div>
-
+<p><strong>New/Expanded Program 2:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Field</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>PPAS Name:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Type:</strong></td>
+<td>&#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+</tr>
+<tr>
+<td><strong>Priority:</strong></td>
+<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
+</tr>
+<tr>
+<td><strong>Budget:</strong></td>
+<td>PS: <span class="form-line"></span> &emsp; MOOE: <span class="form-line"></span> &emsp; CO: <span class="form-line"></span></td>
+</tr>
+<tr>
+<td><strong>Rationale:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Expected Outcomes:</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>New/Expanded Program 3:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Field</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>PPAS Name:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Type:</strong></td>
+<td>&#9744; New Initiative &emsp; &#9744; Expansion &emsp; &#9744; Pilot &emsp; &#9744; One-Time Project</td>
+</tr>
+<tr>
+<td><strong>Priority:</strong></td>
+<td>&#9744; High &emsp; &#9744; Medium &emsp; &#9744; Low</td>
+</tr>
+<tr>
+<td><strong>Budget:</strong></td>
+<td>PS: <span class="form-line"></span> &emsp; MOOE: <span class="form-line"></span> &emsp; CO: <span class="form-line"></span></td>
+</tr>
+<tr>
+<td><strong>Rationale:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Expected Outcomes:</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p><strong>Tier 2 Scrutiny:</strong></p>
-<table>
+<p><em>(For each new program, answer the questions below. &ldquo;Evidence of need&rdquo; = a written document (needs assessment, survey, situational analysis, or directive from the Chief Minister). &ldquo;Feasibility study&rdquo; = a document addressing cost, timeline, staffing, and risks. If the agency cannot provide these, write &ldquo;Not provided&rdquo; — this is a red flag to raise during the hearing.)</em></p>
+<table class="form-table">
 <thead>
 <tr>
 <th>Question</th>
@@ -1367,7 +1605,7 @@ table.allow-break tr {
 </thead>
 <tbody>
 <tr>
-<td>Evidence of need (needs assessment conducted?)</td>
+<td>Evidence of need provided?</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1385,7 +1623,7 @@ table.allow-break tr {
 <td></td>
 </tr>
 <tr>
-<td>Feasibility study completed?</td>
+<td>Feasibility study provided?</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1418,9 +1656,246 @@ table.allow-break tr {
 </table>
 <p><strong>Tier 2 programs as % of total budget increase:</strong> <span class="form-line"></span>%</p>
 <hr>
-<h3 id="section-8-gad-budget-review">Section 8 — GAD Budget Review</h3>
+<h3 id="section-8-sector-clientele-and-beneficiary-analysis">Section 8 — Sector, Clientele, and Beneficiary Analysis</h3>
+<p><em>(Source: BB09 of the CSW Budget Briefer framework)</em></p>
+<p>Identify the sectors and populations directly affected by the agency&rsquo;s programs. This section helps the MP understand who the budget actually serves.</p>
+<blockquote>
+<p><strong>Purpose:</strong> Identify who actually benefits from the agency&rsquo;s budget so the MP understands distributional impact.</p>
+<p><strong>What to include:</strong> Map sectors and estimated beneficiaries to specific PPAS and geographic coverage; assess service gaps for priority constituencies; describe the service delivery model and bottlenecks.</p>
+<p><strong>Sources:</strong> Agency annual reports (beneficiary data); BDP Chapter 3 (social development baseline); GAD plan submissions to BWC; agency M&amp;E reports.</p>
+</blockquote>
+<p><strong>Sectors Served:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Sector</th>
+<th>PPAS Serving This Sector</th>
+<th>Estimated Beneficiaries</th>
+<th>Geographic Coverage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Priority Constituencies:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Group</th>
+<th>How Served</th>
+<th>Gaps Identified</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Women</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Youth</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Children</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indigenous Peoples</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Persons with Disabilities</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Internally Displaced Persons</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Other: <span class="form-line-wide"></span></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Equity and Inclusion Assessment:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Question</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Does the agency&rsquo;s budget equitably serve diverse groups?</td>
+<td></td>
+</tr>
+<tr>
+<td>Are there populations the agency should serve but does not?</td>
+<td></td>
+</tr>
+<tr>
+<td>How does the agency collect beneficiary data?</td>
+<td></td>
+</tr>
+<tr>
+<td>Are there feedback mechanisms for beneficiaries?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>If yes, describe:</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Service Delivery Models</strong> <em>(In 3-5 sentences: How does the agency deliver services — directly, through LGUs, through NGOs, or through fund transfers? Is the model reaching beneficiaries effectively? What are the bottlenecks?):</em></p>
+<div class="write-area"></div>
+<hr>
+<h3 id="section-9-laws-mandated-for-agency-implementation">Section 9 — Laws Mandated for Agency Implementation</h3>
+<p><em>(Source: BB10 of the CSW Budget Briefer framework)</em></p>
+<p>List all laws, regulations, and issuances the agency is mandated to implement — not just the creating law, but every law that assigns duties to this agency.</p>
+<blockquote>
+<p><strong>Purpose:</strong> Catalog every law the agency must implement — not just its creating law — to test whether the budget funds all legal obligations.</p>
+<p><strong>What to include:</strong> All BAAs, national laws, and issuances assigning duties to this agency with implementation status; inter-agency coordination requirements; Shari&rsquo;ah governance considerations; pending legislation.</p>
+<p><strong>Sources:</strong> Bills and Index Division records of enacted BAAs (81 BAAs); BOL Articles IV-XII; agency mandate review documents; Committee referral records.</p>
+</blockquote>
+<table class="form-table">
+<thead>
+<tr>
+<th>Law / Issuance</th>
+<th>Key Provisions</th>
+<th>Agency&rsquo;s Role</th>
+<th>Implementation Status</th>
+<th>Challenges</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Full &emsp; &#9744; Partial &emsp; &#9744; Not Started</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Full &emsp; &#9744; Partial &emsp; &#9744; Not Started</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Full &emsp; &#9744; Partial &emsp; &#9744; Not Started</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Full &emsp; &#9744; Partial &emsp; &#9744; Not Started</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>&#9744; Full &emsp; &#9744; Partial &emsp; &#9744; Not Started</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Inter-Agency Coordination Requirements:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Partner Agency</th>
+<th>Nature of Coordination</th>
+<th>Budgetary Implications</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Legal Gaps or Overlaps Identified</strong> <em>(List any laws that overlap with other agencies&rsquo; mandates, or areas where no law covers a function the agency performs):</em></p>
+<div class="write-area"></div>
+<p><strong>Shari&rsquo;ah and Islamic Governance Considerations:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Question</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Does the agency operate in areas governed by Shari&rsquo;ah (family, personal status, Islamic finance)?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>If yes, are Shari&rsquo;ah-related functions funded in the budget?</td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+</tr>
+<tr>
+<td>Does the budget include allocations for Shari&rsquo;ah courts, halal certification, or Islamic affairs?</td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pending Legislation Affecting This Agency:</strong></p>
+<div class="write-area"></div>
+<hr>
+<h3 id="section-10-gad-budget-review">Section 10 — GAD Budget Review</h3>
 <p><em>(Refer to Chapter 9, Section 9.5.5)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Verify that the agency&rsquo;s GAD allocation is genuine and compliant, not a relabeling exercise.</p>
+<p><strong>What to include:</strong> GAD allocation amount, percentage, and whether it meets the 5% minimum; assess if programs are genuine gender-responsive initiatives or relabeled activities; review previous FY GAD outcomes.</p>
+<p><strong>Sources:</strong> Agency GAD plan; Bangsamoro Women Commission (BWC) endorsement; BAA 84, Section 17; RA 9710 (Magna Carta of Women).</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Item</th>
@@ -1458,14 +1933,108 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
-<h3 id="section-9-budget-scrutiny-questions">Section 9 — Budget Scrutiny Questions</h3>
+<h3 id="section-11-analysis-of-special-provisions">Section 11 — Analysis of Special Provisions</h3>
+<p><em>(Source: BB14 of the CSW Budget Briefer framework)</em></p>
+<p>Special provisions in the budget proposal may include earmarks, conditional releases, or programmatic riders. These require separate scrutiny.</p>
+<blockquote>
+<p><strong>Purpose:</strong> Flag special provisions (earmarks, conditional releases, programmatic riders) that require separate scrutiny.</p>
+<p><strong>What to include:</strong> Each provision with summary, legal basis, whether it appeared last FY, and fiscal impact; note provisions added, removed, or modified; assess legal basis and transparency measures.</p>
+<p><strong>Sources:</strong> BEP special provisions section; previous FY General Appropriations Act; Committee on Finance hearing records.</p>
+</blockquote>
+<p><strong>Special Provisions in the Current FY Budget Proposal:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Provision</th>
+<th>Summary</th>
+<th>Legal Basis</th>
+<th style="text-align: center;">In Prev FY?</th>
+<th>Fiscal Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;">&#9744; Yes &emsp; &#9744; No</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Changes from Previous FY</strong> <em>(list provisions added, removed, or modified):</em></p>
+<div class="write-area"></div>
+<p><strong>Assessment:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Question</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Do the special provisions have clear legal basis?</td>
+<td></td>
+</tr>
+<tr>
+<td>Do any provisions require inter-agency coordination?</td>
+<td></td>
+</tr>
+<tr>
+<td>Are there new provisions not in the previous FY? Justify:</td>
+<td></td>
+</tr>
+<tr>
+<td>Are there previous FY provisions that were removed? Why:</td>
+<td></td>
+</tr>
+<tr>
+<td>Do any provisions require legislative action for clarification?</td>
+<td></td>
+</tr>
+<tr>
+<td>What are the broader social and economic impacts?</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Transparency and Accountability Measures:</strong></p>
+<div class="write-area"></div>
+<hr>
+<h3 id="section-12-budget-scrutiny-questions">Section 12 — Budget Scrutiny Questions</h3>
 <p><em>(Refer to Chapter 9, Section 9.8)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Arm the MP with prioritized, data-grounded questions to ask during budget hearings.</p>
+<p><strong>What to include:</strong> Top 5-10 questions ranked by priority (ask these first if hearing time is limited); additional questions organized by category; reference specific line items and numbers from the agency&rsquo;s own BEP submission.</p>
+<p><strong>Sources:</strong> Findings from Sections 1-11 of this briefer; Chapter 9 Section 9.8 question bank; COA audit findings; previous hearing transcripts from the Parliament Secretariat.</p>
+</blockquote>
 <p>Select the most important questions for this agency. Rank by priority — ask these first if hearing time is limited.</p>
 <p><strong>Priority Questions (Top 5-10):</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Priority</th>
@@ -1528,40 +2097,36 @@ table.allow-break tr {
 </table>
 <p><strong>Additional Questions by Category:</strong></p>
 <p><em>Agency Profile and Mandate:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>Performance and KPIs:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>Personnel Services:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>MOOE:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>Capital Outlay:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>GAD Budget:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>New Programs (Tier 2):</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><em>Overall Budget:</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
-<h3 id="section-10-recommendations-for-the-mp">Section 10 — Recommendations for the MP</h3>
+<h3 id="section-13-recommendations-for-the-mp">Section 13 — Recommendations for the MP</h3>
 <p><em>(Refer to Chapter 9, Section 9.9)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Give the MP a clear recommended position with specific, defensible budget amendments.</p>
+<p><strong>What to include:</strong> Recommended position (support, support with amendments, oppose, or reserve) with conditions; specific budget amendments with justification; items requiring post-hearing follow-up.</p>
+<p><strong>Sources:</strong> Analysis from Sections 1-12; BAA 84, Section 31 (no increase above CM proposal); Committee on Finance amendment guidelines; the MP&rsquo;s legislative priorities.</p>
+</blockquote>
 <p><strong>Recommended Position on Overall Budget:</strong> &#9744; Support &emsp; &#9744; Support with Amendments &emsp; &#9744; Oppose &emsp; &#9744; Reserve Position</p>
 <p><strong>Conditions (if conditional support):</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><strong>Recommended Budget Amendments:</strong></p>
 <div class="landscape-page">
 
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>No.</th>
@@ -1601,12 +2166,10 @@ table.allow-break tr {
 </table>
 </div>
 
-<p><strong>Top Priority Questions for the Hearing (from Section 9):</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Top Priority Questions for the Hearing (from Section 12):</strong></p>
+<div class="write-area"></div>
 <p><strong>Items Requiring Follow-Up:</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Item</th>
@@ -1633,8 +2196,64 @@ table.allow-break tr {
 </tbody>
 </table>
 <hr>
-<h3 id="section-11-action-log">Section 11 — Action Log</h3>
-<table>
+<h3 id="section-14-1-minute-manifestation-for-budget-approval">Section 14 — 1-Minute Manifestation for Budget Approval</h3>
+<p><em>(Source: BB16 of the CSW Budget Briefer framework)</em></p>
+<p>Prepare a concise 1-minute speech for the MP to deliver during the Committee on Finance hearing or plenary budget deliberation. The speech should reflect the position recommended in Section 13 — support, conditional support, opposition, or reserved position. Draft in the MP&rsquo;s preferred language for plenary.</p>
+<blockquote>
+<p><strong>Purpose:</strong> Prepare a ready-to-deliver 1-minute speech for the MP during committee hearing or plenary.</p>
+<p><strong>What to include:</strong> A 150-200 word manifestation covering position, BDP alignment, 2-3 PPAS highlights with statistics, legal compliance, constituency impact, and vote recommendation; draft in the MP&rsquo;s preferred language.</p>
+<p><strong>Sources:</strong> Section 13 recommendations; Section 3 (BDP alignment); Section 6 (key PPAS); the MP&rsquo;s previous plenary speeches for tone.</p>
+</blockquote>
+<p><strong>MP&rsquo;s Preferred Language:</strong> &#9744; English &emsp; &#9744; Filipino &emsp; &#9744; Arabic &emsp; &#9744; Other: <span class="form-line"></span></p>
+<p><strong>Structure:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Part</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Opening</strong> — One sentence stating the MP&rsquo;s position on this agency&rsquo;s budget</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Strategic Alignment</strong> — How the budget serves BDP goals and BARMM priorities</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Key Programs</strong> — 2-3 PPAS highlights with quick statistics</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Legal Compliance</strong> — Budget aligns with mandated laws and policies</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Impact</strong> — Benefits to the MP&rsquo;s priority constituencies and sectors</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fiscal Responsibility</strong> — Value for money, absorption capacity</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Closing</strong> — Call to action, vote recommendation</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Draft Manifestation (keep under 1 minute — approximately 150-200 words):</strong></p>
+<div class="write-area"></div>
+<hr>
+<h3 id="section-15-action-log">Section 15 — Action Log</h3>
+<blockquote>
+<p><strong>Purpose:</strong> Track every step of the budget briefer workflow.</p>
+<p><strong>What to include:</strong> Dates and status for each milestone (BEP submission, data compilation, audit review, briefer preparation, MP review, hearings, post-hearing update); assign a responsible person to each.</p>
+<p><strong>Sources:</strong> BTA Parliament calendar; Committee on Finance hearing notices; MFBM budget submission timeline; internal office task tracking.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Date</th>
@@ -1713,8 +2332,13 @@ table.allow-break tr {
 </tbody>
 </table>
 <hr>
-<h3 id="section-12-approval">Section 12 — Approval</h3>
-<table>
+<h3 id="section-16-approval">Section 16 — Approval</h3>
+<blockquote>
+<p><strong>Purpose:</strong> Formally record staff recommendation and the MP&rsquo;s decision.</p>
+<p><strong>What to include:</strong> Preparer name, designation, date, and recommended position; leave the MP&rsquo;s decision block for the MP; complete post-hearing notes after the hearing with actual outcomes.</p>
+<p><strong>Sources:</strong> Internal office records; committee hearing minutes from the Parliament Secretariat; plenary session journal entries.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -1742,7 +2366,7 @@ table.allow-break tr {
 </table>
 <hr>
 <p><strong>MP&rsquo;s Decision:</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -1779,12 +2403,7 @@ table.allow-break tr {
 <hr>
 <p><strong>Post-Hearing Notes:</strong></p>
 <p><em>(After the committee hearing or plenary deliberation, record actual outcomes: questions asked, answers given, amendments adopted, commitments made by the agency, MP&rsquo;s vote.)</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <p><em>This template is designed to be reproduced and used as a standalone document. Permission is granted to photocopy or print this appendix for use in legislative offices of the Bangsamoro Parliament.</em></p>
 </div>

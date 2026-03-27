@@ -28,7 +28,9 @@ It is not a once-and-done document. The briefer evolves as the bill moves throug
 
 **The Relationship Between Briefer and Completed Staff Work**
 
-Completed Staff Work, as a concept, originated in military administration, but its application to legislative staff work is natural. The principle is this: when a staff member brings a matter to the decision-maker, the work should be so complete that the decision-maker's only remaining action is to say yes, no, or modify. The decision-maker should never have to ask "what do you recommend?" — because the recommendation is already there. The decision-maker should never have to ask "what are the alternatives?" — because the alternatives are already presented. The decision-maker should never have to ask "what happens if we do nothing?" — because that option is already analyzed.
+Completed Staff Work, as a concept, originated in military administration, but its application to legislative staff work is natural. The principle is this: when a staff member brings a matter to the decision-maker, the work should be so complete that the only remaining action is to say yes, no, or modify.
+
+The decision-maker should never have to ask "what do you recommend?" — because the recommendation is already there. The decision-maker should never have to ask "what are the alternatives?" — because the alternatives are already presented. The decision-maker should never have to ask "what happens if we do nothing?" — because that option is already analyzed.
 
 In the legislative context, this means the briefer should contain everything the MP needs: analysis, recommendations, draft materials, and decision options. When the MP finishes reading the briefer, the next action should be clear — sign the approval block, request modifications, or return it for further study. If the MP reads your briefer and still has to go look something up, the staff work is incomplete.
 

@@ -673,6 +673,48 @@ a {
   color: #666666;
 }
 
+/* --- TEMPLATE FORM TABLES (2-column key-value) --- */
+/* Tables with exactly 2 columns where first column is a label */
+table.kv-table {
+  table-layout: fixed;
+}
+table.kv-table td:first-child,
+table.kv-table th:first-child {
+  width: 35%;
+}
+table.kv-table td:last-child,
+table.kv-table th:last-child {
+  width: 65%;
+  min-height: 8mm;
+}
+
+/* Fill-in writeable areas */
+.write-area {
+  display: block;
+  min-height: 20mm;
+  border-bottom: 0.3pt dotted #CCCCCC;
+  margin-bottom: 2mm;
+}
+
+/* Keep section headers with their content */
+h3 + p,
+h3 + table,
+h4 + p,
+h4 + table {
+  page-break-before: avoid;
+}
+
+/* Template tables need adequate row height for handwriting */
+table.form-table td {
+  min-height: 10mm;
+  padding: 3mm 4mm;
+}
+
+/* Multi-column form tables (3+ cols) - ensure reasonable distribution */
+table.form-table {
+  table-layout: fixed;
+}
+
 /* --- PRINT OPTIMIZATIONS --- */
 h1, h2, h3, h4, h5 {
   page-break-after: avoid;
@@ -728,7 +770,7 @@ table.allow-break tr {
 <h3 id="bangsamoro-transition-authority-parliament">Bangsamoro Transition Authority Parliament</h3>
 <hr>
 <h3 id="control-information">Control Information</h3>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -769,7 +811,12 @@ table.allow-break tr {
 <hr>
 <h3 id="section-1-brief-description-of-the-measure">Section 1 — Brief Description of the Measure</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.1)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Give the MP a complete snapshot of the bill — what it does, where it stands, and what action is needed next.</p>
+<p><strong>What to include:</strong> Bill number, title, author(s), committee referral, and current legislative stage; a 2-4 paragraph summary covering subject matter, key provisions, scope, and coverage; the date of the next proceeding and the immediate action required; whether the MP will author, co-author, or decline authorship.</p>
+<p><strong>Sources:</strong> Bills and Index Division records; BTA Parliament website Order of Business; the filed bill text and its Explanatory Note.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -811,25 +858,137 @@ table.allow-break tr {
 </tr>
 <tr>
 <td><strong>Status:</strong></td>
-<td>&#9744; Filed &emsp; &#9744; In Committee &emsp; &#9744; Committee Report Out &emsp; &#9744; Plenary</td>
+<td><em>(check the current stage below)</em></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Legislative Stage:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Stage</th>
+<th style="text-align: center;">Check</th>
+<th>Session No.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Proposal Stage (pre-filing)</td>
+<td style="text-align: center;">&#9744;</td>
+<td></td>
+</tr>
+<tr>
+<td>First Reading / Order of Business (for co-authorship)</td>
+<td style="text-align: center;">&#9744;</td>
+<td>Session No. <span class="form-line"></span></td>
+</tr>
+<tr>
+<td>Committee Referral</td>
+<td style="text-align: center;">&#9744;</td>
+<td></td>
+</tr>
+<tr>
+<td>Public Consultation</td>
+<td style="text-align: center;">&#9744;</td>
+<td></td>
+</tr>
+<tr>
+<td>Committee Deliberation</td>
+<td style="text-align: center;">&#9744;</td>
+<td></td>
+</tr>
+<tr>
+<td>Committee Report / Second Reading / Plenary</td>
+<td style="text-align: center;">&#9744;</td>
+<td>Session No. <span class="form-line"></span></td>
+</tr>
+<tr>
+<td>Third Reading / Plenary Vote</td>
+<td style="text-align: center;">&#9744;</td>
+<td>Session No. <span class="form-line"></span></td>
+</tr>
+<tr>
+<td>Other: <span class="form-line-wide"></span></td>
+<td style="text-align: center;">&#9744;</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table class="form-table">
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Date of Next Proceeding:</strong></td>
+<td><span class="form-line-wide"></span></td>
+</tr>
+<tr>
+<td><strong>Immediate Action Needed:</strong></td>
+<td><em>(check one)</em></td>
+</tr>
+</tbody>
+</table>
+<table class="form-table">
+<thead>
+<tr>
+<th>Action</th>
+<th style="text-align: center;">Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Will be under &ldquo;Business for the Day&rdquo; / Simple Resolution</td>
+<td style="text-align: center;">&#9744;</td>
+</tr>
+<tr>
+<td>Will be referred to a Committee / TWG</td>
+<td style="text-align: center;">&#9744;</td>
+</tr>
+<tr>
+<td>Will undergo public consultation</td>
+<td style="text-align: center;">&#9744;</td>
+</tr>
+<tr>
+<td>Will be deferred</td>
+<td style="text-align: center;">&#9744;</td>
+</tr>
+<tr>
+<td>Other: <span class="form-line-wide"></span></td>
+<td style="text-align: center;">&#9744;</td>
+</tr>
+</tbody>
+</table>
+<table class="form-table">
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Will MP co-author?</strong></td>
+<td>&#9744; Principal Author &emsp; &#9744; Co-Author &emsp; &#9744; Will not author</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Summary of the Measure:</strong></p>
 <p><em>(In two to four paragraphs, describe what the bill does: subject matter, key provisions, scope and coverage, obligations created, institutions established, rights conferred.)</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-2-related-laws-issuances-and-specific-provisions">Section 2 — Related Laws, Issuances, and Specific Provisions</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.2)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Map every existing law the bill interacts with and flag conflicts early.</p>
+<p><strong>What to include:</strong> Specific BOL articles/sections the bill implements, supplements, or conflicts with; existing BAAs, national laws, and IRRs that overlap; analysis of conflicts, overlaps, or gaps; Shari&rsquo;ah considerations if the bill touches personal law, family relations, or Islamic finance.</p>
+<p><strong>Sources:</strong> BOL (RA 11054) full text; Bills and Index Division BAA records (81 enacted BAAs); Lawphil.net for national laws; BARMM Official Gazette.</p>
+</blockquote>
 <p>Identify every law, issuance, or regulation that the bill interacts with. For each, state the specific provision and explain the relationship.</p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Law / Issuance</th>
@@ -881,15 +1040,48 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Analysis of Conflicts or Overlaps:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
+<p><strong>Shari&rsquo;ah Considerations:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Question</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Does the bill affect personal, family, or property relations involving Muslims?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>If yes, does the bill respect the Shari&rsquo;ah court jurisdiction under BOL Article X?</td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+</tr>
+<tr>
+<td>Does the bill affect Islamic banking, finance, or commercial transactions?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Are there provisions that may conflict with Islamic principles?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>If yes, describe:</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3 id="section-3-impact-assessment-and-alignment-with-the-mps-agenda">Section 3 — Impact Assessment and Alignment with the MP&rsquo;s Agenda</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.3)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Assess whether the bill advances or conflicts with the MP&rsquo;s legislative agenda and the Bangsamoro Development Plan.</p>
+<p><strong>What to include:</strong> Alignment with the MP&rsquo;s stated priorities and committee assignments; social, economic, and institutional impact; alignment with the six BDP 2023-2028 goals; GAD assessment covering women, youth, children, PWDs, IPs, and IDPs.</p>
+<p><strong>Sources:</strong> MP&rsquo;s filed legislative agenda; BDP 2023-2028 Chapter 2 (goals and strategies); PSA BARMM data; agency reports on affected sectors.</p>
+</blockquote>
 <p><strong>Alignment with the MP&rsquo;s Legislative Agenda:</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Question</th>
@@ -916,7 +1108,7 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Broader Impact Assessment:</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Dimension</th>
@@ -925,7 +1117,7 @@ table.allow-break tr {
 </thead>
 <tbody>
 <tr>
-<td><strong>Social Impact</strong> — Who benefits? Who bears the costs? Effects on women, indigenous peoples, youth, displaced persons?</td>
+<td><strong>Social Impact</strong> — Who benefits? Who bears the costs?</td>
 <td></td>
 </tr>
 <tr>
@@ -936,18 +1128,90 @@ table.allow-break tr {
 <td><strong>Institutional Impact</strong> — New agencies, expanded mandates, restructuring required?</td>
 <td></td>
 </tr>
+</tbody>
+</table>
+<p><strong>BDP 2023-2028 Alignment</strong> <em>(check all goals the bill serves):</em></p>
+<table class="form-table">
+<thead>
 <tr>
-<td><strong>BDP Alignment</strong> — Which of the six BDP 2023-2028 development goals does the bill serve?</td>
+<th></th>
+<th>Goal</th>
+<th>How the Bill Serves This Goal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 1</strong> — Stable, just, and accountable government</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 2</strong> — Equitable, competitive, and robust economy</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 3</strong> — Peaceful, safe, and resilient communities</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 4</strong> — Inclusive, responsive, and quality social services</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 5</strong> — Rich and diverse Bangsamoro culture and identity</td>
+<td></td>
+</tr>
+<tr>
+<td>&#9744;</td>
+<td><strong>Goal 6</strong> — Strategic, adequate, and climate-resilient infrastructure</td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Gender and Development (GAD) Assessment:</strong></p>
+<table class="form-table">
+<thead>
+<tr>
+<th>Question</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Does the bill affect women and men differently?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Does the bill specifically address the needs of women, youth, children, or PWDs?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Does the bill affect indigenous peoples within the Bangsamoro?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>Does the bill affect internally displaced persons (IDPs)?</td>
+<td>&#9744; Yes &emsp; &#9744; No</td>
+</tr>
+<tr>
+<td>If the bill creates programs, does it require sex-disaggregated data and reporting?</td>
+<td>&#9744; Yes &emsp; &#9744; No &emsp; &#9744; N/A</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3 id="section-4-implementing-agencies">Section 4 — Implementing Agencies</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.4)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Identify every agency responsible for implementation and flag capacity gaps that could prevent the bill from working.</p>
+<p><strong>What to include:</strong> Each agency&rsquo;s name, role under the bill, and whether its current mandate covers the new function; capacity assessment for each agency; coordination requirements between agencies; specific gaps requiring transition periods or additional funding.</p>
+<p><strong>Sources:</strong> BARMM organizational structure; agency annual reports; BEP staffing and budget data; consultations with agency staff.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Agency</th>
@@ -984,15 +1248,18 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Coordination Requirements:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><strong>Capacity Gaps Identified:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-5-implementation-mechanisms-and-timeline">Section 5 — Implementation Mechanisms and Timeline</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.5)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Evaluate how the bill transitions from enacted law to operational reality and flag timeline gaps.</p>
+<p><strong>What to include:</strong> Whether an IRR is required, who prepares it, and whether the deadline is realistic; phase-in provisions, reporting requirements, and sunset clauses; the gap between effectivity and agency readiness.</p>
+<p><strong>Sources:</strong> The bill text (effectivity and IRR provisions); comparable BAAs and their IRR timelines; agency consultations on implementation readiness.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Mechanism</th>
@@ -1043,12 +1310,16 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Gap Between Effectivity and Implementation Readiness:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-6-budgetary-and-financial-implications">Section 6 — Budgetary and Financial Implications</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.6)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Quantify the bill&rsquo;s fiscal impact so the MP can assess affordability and sustainability.</p>
+<p><strong>What to include:</strong> Estimated costs by PS, MOOE, and CO; whether costs are recurring or one-time; identified funding source; revenue implications if applicable; fiscal sustainability assessment.</p>
+<p><strong>Sources:</strong> Current BEP for baseline figures; MFBM salary schedules; agency budget submissions; BAA 84 (Budget System Act) for fiscal framework rules.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Category</th>
@@ -1084,7 +1355,7 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -1114,12 +1385,16 @@ table.allow-break tr {
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-7-highlights-of-previous-proceedings">Section 7 — Highlights of Previous Proceedings</h3>
 <p><em>(Refer to Chapter 8, Section 8.3.7)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Brief the MP on what has already happened so they do not repeat settled questions or miss live issues.</p>
+<p><strong>What to include:</strong> Key issues raised in prior committee hearings and who raised them; committee amendments already adopted; unresolved issues flagged for plenary.</p>
+<p><strong>Sources:</strong> Committee hearing minutes from the Parliament Secretariat; Committee Report (if issued); session journals.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Proceeding</th>
@@ -1150,17 +1425,20 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Committee Amendments Made:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <p><strong>Unresolved Issues:</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-8-interpellation-questions">Section 8 — Interpellation Questions</h3>
 <p><em>(Refer to Chapter 8, Section 8.4)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Prepare the MP for interpellation with structured question sequences that expose weaknesses and build the case for amendments.</p>
+<p><strong>What to include:</strong> 3-7 interpellation sequences using the six-part structure (context, question, anticipated answer, manifestation if satisfactory, manifestation if evasive, proposed amendment with justification); questions ranked by importance — most critical first.</p>
+<p><strong>Sources:</strong> The bill as amended by committee; Committee Report; BOL provisions on legislative authority; BEP data for budget questions; agency consultations for implementation questions.</p>
+</blockquote>
 <p>Prepare three to seven interpellation sequences. Each follows the six-part structure. Arrange in order of importance — most critical questions first.</p>
 <p><strong>Question No. 1</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Part</th>
@@ -1199,7 +1477,7 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Question No. 2</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Part</th>
@@ -1238,7 +1516,7 @@ table.allow-break tr {
 </tbody>
 </table>
 <p><strong>Question No. 3</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>Part</th>
@@ -1280,9 +1558,14 @@ table.allow-break tr {
 <hr>
 <h3 id="section-9-summary-of-proposed-amendments">Section 9 — Summary of Proposed Amendments</h3>
 <p><em>(Refer to Chapter 8, Section 8.5)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Give the MP a ready-to-file table of amendments prioritized by importance.</p>
+<p><strong>What to include:</strong> Each amendment in standard floor format (insertion, deletion, or substitution); current text, proposed new text, and a one-paragraph justification; priority ranking (High / Medium / Low) so the MP knows which to propose first if time is limited.</p>
+<p><strong>Sources:</strong> Issues identified in Sections 2-6 of this briefer; the committee-amended bill text; BOL and existing BAAs for legal consistency checks.</p>
+</blockquote>
 <div class="landscape-page">
 
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th>No.</th>
@@ -1341,30 +1624,33 @@ table.allow-break tr {
 <hr>
 <h3 id="section-10-mps-position-brief-speech-manifestation">Section 10 — MP&rsquo;s Position — Brief Speech / Manifestation</h3>
 <p><em>(Refer to Chapter 8, Section 8.6.1)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Draft a 2-4 minute floor speech stating the MP&rsquo;s position, grounded in the analysis.</p>
+<p><strong>What to include:</strong> A recommended position (Support / Support with Amendments / Oppose / Reserve Position); a speech opening with the position, presenting 2-3 key points with specific section references, and closing with the intended vote.</p>
+<p><strong>Sources:</strong> Analysis from Sections 2-6; the MP&rsquo;s legislative agenda for alignment framing; BDP goals for policy grounding.</p>
+</blockquote>
 <p><strong>Recommended Position:</strong> &#9744; Support &emsp; &#9744; Support with Amendments &emsp; &#9744; Oppose &emsp; &#9744; Reserve Position</p>
 <p><strong>Draft Speech (2-4 minutes):</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-11-1-minute-vote-manifestation">Section 11 — 1-Minute Vote Manifestation</h3>
 <p><em>(Refer to Chapter 8, Section 8.6.2)</em></p>
+<blockquote>
+<p><strong>Purpose:</strong> Prepare a short statement the MP can deliver when they want their vote recorded without a full speech.</p>
+<p><strong>What to include:</strong> A 3-5 sentence draft stating the position, the reason, and the vote; a specific reference to a BOL provision, BDP goal, or fiscal fact that anchors the statement.</p>
+<p><strong>Sources:</strong> The recommended position from Section 10; BOL provisions relevant to the bill.</p>
+</blockquote>
 <p><strong>Draft (3-5 sentences):</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="write-area"></div>
 <hr>
 <h3 id="section-12-matters-for-information-of-the-mp">Section 12 — Matters for Information of the MP</h3>
 <p><em>(Refer to Chapter 8, Section 8.7)</em></p>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Give the MP context that does not fit in the formal analysis but could affect how they engage during proceedings.</p>
+<p><strong>What to include:</strong> Stakeholder positions (CSOs, business groups, LGU leagues); media coverage and Chief Minister statements; pending court cases and constituency feedback; comparative legislation from Congress or other LGUs; timing or procedural considerations.</p>
+<p><strong>Sources:</strong> BARMM news outlets and social media; BTA Parliament website for parallel bills; Supreme Court e-Library; constituency liaison reports.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Category</th>
@@ -1412,7 +1698,12 @@ table.allow-break tr {
 </table>
 <hr>
 <h3 id="section-13-action-log">Section 13 — Action Log</h3>
-<table>
+<blockquote>
+<p><strong>Purpose:</strong> Track every action on the briefer from receipt to post-proceeding update.</p>
+<p><strong>What to include:</strong> Date, action, responsible person, and status for each milestone; update status checkboxes as work progresses.</p>
+<p><strong>Sources:</strong> Internal office workflow; Parliament Secretariat calendar for hearing dates; the MP&rsquo;s schedule for submission deadlines.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th>Date</th>
@@ -1485,8 +1776,61 @@ table.allow-break tr {
 </tbody>
 </table>
 <hr>
-<h3 id="section-14-approval">Section 14 — Approval</h3>
-<table>
+<h3 id="section-14-supervisory-review">Section 14 — Supervisory Review</h3>
+<blockquote>
+<p><strong>Purpose:</strong> Ensure the briefer passes through quality review before reaching the MP.</p>
+<p><strong>What to include:</strong> First and second review entries with reviewer name, notes, date, and time; Chief of Staff clearance as the final gate.</p>
+<p><strong>Sources:</strong> Office SOPs; the reviewer&rsquo;s subject-matter expertise and the Quality Review Checklist (Appendix E).</p>
+</blockquote>
+<table class="form-table">
+<thead>
+<tr>
+<th>Action</th>
+<th>Reviewer</th>
+<th>Review / Clearance Notes</th>
+<th>Date</th>
+<th>Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First Review / Clearance</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Second Review / Clearance</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chief of Staff Clearance</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="section-15-approval">Section 15 — Approval</h3>
+<blockquote>
+<p><strong>Purpose:</strong> Formally present the briefer to the MP for decision.</p>
+<p><strong>What to include:</strong> Preparer name, designation, date, and recommended position; space for the MP&rsquo;s comments; decision options (approve, modify, or return).</p>
+<p><strong>Sources:</strong> The completed briefer (Sections 1-14); verbal or written feedback from any pre-briefing discussion.</p>
+</blockquote>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>
@@ -1513,8 +1857,14 @@ table.allow-break tr {
 </tbody>
 </table>
 <hr>
+<p><strong>Comments by the MP:</strong></p>
+<ol>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+</ol>
 <p><strong>MP&rsquo;s Decision:</strong></p>
-<table>
+<table class="form-table">
 <thead>
 <tr>
 <th></th>

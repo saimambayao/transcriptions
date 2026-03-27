@@ -2,7 +2,7 @@
 
 ## 2.1 Overview: Seven Stages from Legislative Directive to Filing
 
-Every bill begins as a policy direction from a Member of Parliament. Between that initial direction and the moment the bill is filed with the Bills and Index Division, there are seven distinct stages of work. This chapter walks you through each one.
+An MP hands you a legislative directive. The topic is complex — maybe a new regulatory framework, maybe a budget measure with a tight deadline. The research has not started, the stakeholders have not been consulted, and the Bills and Index Division expects a properly formatted bill. What do you do first? What do you do second? This chapter gives you the answer. Between the moment you receive that directive and the moment the bill is filed, there are seven distinct stages of work, and each one exists to prevent a specific kind of failure.
 
 The seven stages are:
 
@@ -16,9 +16,9 @@ The seven stages are:
 
 These stages are sequential in theory, but in practice you will sometimes loop back. Research may reveal that the original directive needs refining. Consultations may expose a flaw that sends you back to research. A co-author may request changes that require a new round of internal review. That is normal. The stages give you a clear path forward while allowing the flexibility that real legislative work demands.
 
-One thing should be clear from the start: this process is designed to produce bills that survive scrutiny. A bill drafted without proper research gets torn apart in committee. A bill drafted without consultation gets opposed by the very agencies meant to implement it. A bill filed without co-authors may never get calendared for debate. Each stage exists for a reason, and skipping any of them weakens the final product.
-
 A note about timing: the seven stages do not all take equal effort. Stage 2 (Research) and Stage 4 (Consultation) are usually the most time-intensive. Stage 1 might take a single meeting. Stage 7 depends on how many co-authors you pursue and how responsive they are. As you gain experience, you will develop a sense of how long each stage takes for different types of bills — a narrow amendatory bill moves faster than a bill creating a new ministry from scratch.
+
+One thing should be clear from the start: this process is designed to produce bills that survive scrutiny. A bill drafted without proper research gets torn apart in committee. A bill drafted without consultation gets opposed by the very agencies meant to implement it. A bill filed without co-authors may never get calendared for debate. Each stage exists for a reason, and skipping any of them weakens the final product.
 
 The rest of this chapter treats each stage in detail — what you do, what you produce, and what decisions you need to make before moving on.
 

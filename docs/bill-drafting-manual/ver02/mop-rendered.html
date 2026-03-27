@@ -1,0 +1,3081 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Manual of Operations — Legislative Drafting for MP Offices</title>
+<style>
+
+/* ============================================================
+   BILL DRAFTING GUIDEBOOK — PDF Stylesheet
+   Color scheme: Navy (#1B365D) + Gold (#C5A54E) + Charcoal (#2D2D2D)
+   ============================================================ */
+
+/* --- PAGE SETUP --- */
+@page {
+  size: A4;
+  margin: 25mm 22mm 30mm 25mm;
+
+  @top-center {
+    content: "Manual of Operations \2014  Legislative Drafting";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* Cover page: no header/footer */
+@page cover {
+  margin: 0;
+  @top-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* TOC page: no running header */
+@page toc {
+  @top-center { content: none; }
+}
+
+/* Chapter openers: start on a right page */
+@page chapter-start {
+  /* inherits header/footer from default */
+}
+
+/* Landscape pages for wide tables */
+@page landscape {
+  size: A4 landscape;
+  margin: 22mm 25mm 25mm 25mm;
+
+  @top-center {
+    content: "Manual of Operations \2014  Legislative Drafting";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    font-variant: small-caps;
+    letter-spacing: 0.08em;
+    color: #8A8A8A;
+    padding-bottom: 8mm;
+  }
+
+  @bottom-left {
+    content: "Bill Drafting Guidebook — Bangsamoro Parliament\A Saidamen R. Mambayao";
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    font-style: italic;
+    color: #999999;
+    white-space: pre-line;
+  }
+
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #666666;
+  }
+}
+
+/* --- GLOBAL RESET & BASE --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 11pt;
+  line-height: 1.55;
+}
+
+body {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #2D2D2D;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- COVER PAGE --- */
+.cover-page {
+  page: cover;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(165deg, #0E2240 0%, #1B365D 40%, #243F6B 100%);
+  color: #FFFFFF;
+  padding: 35mm 30mm;
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8mm;
+  background: #C5A54E;
+}
+
+.cover-institution-top {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 20mm;
+}
+
+.cover-title {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 28pt;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 8mm;
+  max-width: 140mm;
+}
+
+.cover-gold-line {
+  width: 60mm;
+  height: 1.5pt;
+  background: #C5A54E;
+  margin: 6mm auto;
+}
+
+.cover-subtitle {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12.5pt;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  color: #D4D8DC;
+  max-width: 130mm;
+  margin-bottom: 25mm;
+}
+
+.cover-author {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  margin-top: 15mm;
+}
+
+.cover-bottom-block {
+  margin-top: auto;
+  padding-top: 15mm;
+}
+
+.cover-institution {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-institution-barmm {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 3mm;
+}
+
+.cover-location {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  color: #A0AABC;
+  letter-spacing: 0.05em;
+}
+
+/* --- TABLE OF CONTENTS --- */
+.toc-section {
+  page: toc;
+  page-break-after: always;
+}
+
+.toc-section h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  color: #1B365D;
+  text-align: center;
+  margin-bottom: 10mm;
+  padding-bottom: 4mm;
+  border-bottom: 2pt solid #C5A54E;
+}
+
+/* --- CHAPTER CONTENT --- */
+.chapter {
+  page-break-before: always;
+}
+
+.chapter:first-of-type {
+  /* introduction doesn't need extra break if it follows TOC */
+}
+
+/* --- HEADINGS --- */
+h1 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 22pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 6mm;
+  padding-bottom: 3mm;
+  border-bottom: 2.5pt solid #C5A54E;
+  line-height: 1.25;
+  page-break-after: avoid;
+  string-set: chapter-title content();
+}
+
+h2 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  padding-bottom: 2mm;
+  border-bottom: 1pt solid #D5D9DE;
+  line-height: 1.3;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 7mm;
+  margin-bottom: 3mm;
+  line-height: 1.35;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11.5pt;
+  font-weight: 700;
+  color: #2D4A73;
+  margin-top: 5mm;
+  margin-bottom: 2mm;
+  line-height: 1.4;
+  page-break-after: avoid;
+}
+
+h5 {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  color: #3A5A8A;
+  margin-top: 4mm;
+  margin-bottom: 2mm;
+  page-break-after: avoid;
+}
+
+/* --- PARAGRAPHS --- */
+p {
+  margin-bottom: 3mm;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+}
+
+/* --- LISTS --- */
+ul, ol {
+  margin-left: 8mm;
+  margin-bottom: 3mm;
+  padding-left: 0;
+}
+
+ul li, ol li {
+  margin-bottom: 1.5mm;
+  padding-left: 1mm;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 1mm;
+  margin-bottom: 1mm;
+}
+
+/* --- BLOCKQUOTES (BOL quotations, legal text) --- */
+blockquote {
+  background: #F0F3F6;
+  border-left: 3.5pt solid #1B365D;
+  margin: 4mm 0 4mm 4mm;
+  padding: 4mm 5mm;
+  font-size: 10pt;
+  color: #2D2D2D;
+  line-height: 1.5;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin-bottom: 2mm;
+  text-align: left;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- TABLES --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 5mm 0;
+  font-size: 9.5pt;
+  line-height: 1.4;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+thead tr {
+  background: #1B365D;
+  color: #FFFFFF;
+}
+
+thead th {
+  padding: 3mm 4mm;
+  text-align: left;
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 9.5pt;
+  border: 0.5pt solid #14294A;
+}
+
+tbody td {
+  padding: 2.5mm 4mm;
+  border: 0.5pt solid #D0D4D8;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #F5F7F9;
+}
+
+tbody tr:nth-child(odd) {
+  background: #FFFFFF;
+}
+
+/* --- TABLE COLUMN WIDTHS FOR TEMPLATES --- */
+/* Checklist tables: narrow Yes/No/NA columns */
+table th:nth-child(3),
+table td:nth-child(3),
+table th:nth-child(4),
+table td:nth-child(4),
+table th:nth-child(5),
+table td:nth-child(5) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Checklist-style tables (5-col with No/Item/Yes/No/NA) */
+.checklist-table th:nth-child(1),
+.checklist-table td:nth-child(1) {
+  width: 8mm;
+  text-align: center;
+}
+
+.checklist-table th:nth-child(3),
+.checklist-table td:nth-child(3),
+.checklist-table th:nth-child(4),
+.checklist-table td:nth-child(4),
+.checklist-table th:nth-child(5),
+.checklist-table td:nth-child(5) {
+  width: 12mm;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* First column (No.) narrow */
+table th:first-child,
+table td:first-child {
+  width: auto;
+}
+
+/* Form field lines */
+.form-line {
+  display: inline-block;
+  min-width: 35mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+.form-line-wide {
+  display: inline-block;
+  min-width: 60mm;
+  border-bottom: 0.5pt solid #999999;
+  height: 1em;
+  vertical-align: bottom;
+}
+
+/* Fix checkbox rendering - ensure inline */
+td {
+  white-space: normal;
+}
+
+/* --- CODE BLOCKS --- */
+pre {
+  background: #F0F3F6;
+  border: 0.5pt solid #D0D4D8;
+  border-radius: 2pt;
+  padding: 4mm;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9pt;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  margin: 4mm 0;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  font-size: 9.5pt;
+  background: #EEF1F4;
+  padding: 0.5pt 2pt;
+  border-radius: 1.5pt;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --- HORIZONTAL RULES --- */
+hr {
+  border: none;
+  border-top: 1pt solid #D0D4D8;
+  margin: 8mm 0;
+}
+
+/* --- STRONG & EMPHASIS --- */
+strong {
+  font-weight: 700;
+  color: #1B365D;
+}
+
+em {
+  font-style: italic;
+}
+
+/* --- LINKS (for PDF, style as text) --- */
+a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+/* --- SPECIAL CLASSES --- */
+
+/* Drafting tips / practical guidance callout boxes */
+.drafting-tip {
+  background: #FFF9EE;
+  border: 1pt solid #E8D5A0;
+  border-left: 4pt solid #C5A54E;
+  padding: 4mm 5mm;
+  margin: 5mm 0;
+  font-size: 10pt;
+  page-break-inside: avoid;
+}
+
+.drafting-tip strong:first-child {
+  color: #8A6D1B;
+}
+
+/* Chapter number label */
+.chapter-label {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #C5A54E;
+  margin-bottom: 2mm;
+  display: block;
+}
+
+/* Summary boxes at end of chapters */
+.summary-box {
+  background: #F0F3F6;
+  border: 1pt solid #B8C4D0;
+  border-top: 3pt solid #1B365D;
+  padding: 5mm;
+  margin: 6mm 0;
+  page-break-inside: avoid;
+}
+
+/* Checklist styling */
+.checklist {
+  list-style-type: none;
+  margin-left: 2mm;
+}
+
+.checklist li::before {
+  content: "\2610\0020";
+  font-size: 11pt;
+}
+
+/* Page break utility */
+.page-break {
+  page-break-before: always;
+}
+
+/* Landscape page container for wide tables */
+.landscape-page {
+  page: landscape;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.landscape-page table {
+  font-size: 9pt;
+}
+
+.landscape-page thead th {
+  font-size: 9pt;
+  padding: 2.5mm 3mm;
+}
+
+.landscape-page tbody td {
+  padding: 2mm 3mm;
+}
+
+/* --- FOOTNOTES --- */
+.footnote {
+  font-size: 8.5pt;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* --- TOC ENTRY STYLING --- */
+.toc-entries {
+  margin-top: 4mm;
+}
+
+.toc-chapter {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: #1B365D;
+  margin-top: 5mm;
+  margin-bottom: 1.5mm;
+  padding-top: 2mm;
+  padding-bottom: 1mm;
+  border-bottom: 0.5pt solid #E0E3E8;
+  page-break-inside: avoid;
+}
+
+.toc-chapter a {
+  color: #1B365D;
+  text-decoration: none;
+}
+
+.toc-chapter a:hover {
+  text-decoration: underline;
+}
+
+/* Back to TOC link at end of each chapter */
+.back-to-toc {
+  margin-top: 10mm;
+  padding-top: 4mm;
+  border-top: 0.5pt solid #E0E3E8;
+  text-align: right;
+  font-size: 8.5pt;
+}
+
+.back-to-toc a {
+  color: #8A8A8A;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.back-to-toc a:hover {
+  color: #1B365D;
+}
+
+/* Keep chapter heading with its first few entries */
+.toc-chapter + .toc-entry {
+  page-break-before: avoid;
+}
+
+.toc-entry {
+  font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt;
+  color: #3A3A3A;
+  line-height: 1.65;
+  margin-bottom: 0.3mm;
+}
+
+.toc-level-0 {
+  padding-left: 0;
+  font-weight: 600;
+}
+
+.toc-level-1 {
+  padding-left: 6mm;
+}
+
+.toc-level-2 {
+  padding-left: 14mm;
+  font-size: 9pt;
+  color: #555555;
+}
+
+.toc-level-3 {
+  padding-left: 22mm;
+  font-size: 8.5pt;
+  color: #666666;
+}
+
+/* --- TEMPLATE FORM TABLES (2-column key-value) --- */
+/* Tables with exactly 2 columns where first column is a label */
+table.kv-table {
+  table-layout: fixed;
+}
+table.kv-table td:first-child,
+table.kv-table th:first-child {
+  width: 35%;
+}
+table.kv-table td:last-child,
+table.kv-table th:last-child {
+  width: 65%;
+  min-height: 8mm;
+}
+
+/* Fill-in writeable areas */
+.write-area {
+  display: block;
+  min-height: 20mm;
+  border-bottom: 0.3pt dotted #CCCCCC;
+  margin-bottom: 2mm;
+}
+
+/* Keep section headers with their content */
+h3 + p,
+h3 + table,
+h4 + p,
+h4 + table {
+  page-break-before: avoid;
+}
+
+/* Template tables need adequate row height for handwriting */
+table.form-table td {
+  min-height: 10mm;
+  padding: 3mm 4mm;
+}
+
+/* Multi-column form tables (3+ cols) - ensure reasonable distribution */
+table.form-table {
+  table-layout: fixed;
+}
+
+/* --- PRINT OPTIMIZATIONS --- */
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+blockquote, pre, .drafting-tip, .summary-box {
+  page-break-inside: avoid;
+}
+
+table {
+  page-break-inside: auto;
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+p {
+  orphans: 3;
+  widows: 3;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Allow large tables to break */
+table.allow-break {
+  page-break-inside: auto;
+}
+
+table.allow-break tr {
+  page-break-inside: avoid;
+}
+
+</style>
+</head>
+<body>
+
+
+<!-- ======== COVER PAGE ======== -->
+<div class="cover-page">
+  <div class="cover-institution-top">Bangsamoro Parliament</div>
+  <div class="cover-title">MANUAL OF OPERATIONS</div>
+  <div class="cover-gold-line"></div>
+  <div class="cover-subtitle">Legislative Drafting for MP Offices</div>
+  <div class="cover-author">Saidamen R. Mambayao</div>
+  <div class="cover-bottom-block">
+    <div class="cover-institution">Bangsamoro Parliament</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
+    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+  </div>
+</div>
+
+
+<div class="chapter"><h1 id="manual-of-operations-for-bill-drafting-in-the-bangsamoro-parliament">Manual of Operations for Bill Drafting in the Bangsamoro Parliament</h1>
+</div><div class="chapter"><h1 id="chapter-i-introduction">Chapter I — Introduction</h1>
+<h2 id="11-purpose">1.1 Purpose</h2>
+<p>This Manual of Operations standardizes how MP offices handle legislative staff work. It covers every step — from the moment you receive a directive from your Member of Parliament to the filing of the bill, resolution, or amendment with the Bills and Index Division.</p>
+<p>The <strong>Bill Drafting Guidebook for the Bangsamoro Parliament</strong> tells you <em>how to draft</em>. This MOP tells you <em>how to manage the work</em>. It operationalizes the Guidebook into step-by-step procedures: who does what, in what order, using which forms, and to what standard.</p>
+<p>Think of it this way. The Guidebook is your reference for the substance of drafting — legal foundations, structure and style, amendment technique. This MOP is your reference for the process around it — assignments, timelines, reviews, coordination, and filing. You need both.</p>
+<p>Every MP office in the Bangsamoro Parliament handles the same core functions: research, drafting, review, and filing. But offices differ in size, staffing, and the working style of the MP. This MOP provides a common framework. Your office adapts it to fit your circumstances.</p>
+<h2 id="12-scope">1.2 Scope</h2>
+<p><strong>This MOP covers:</strong></p>
+<ul>
+<li><strong>Bill drafting</strong> — from legislative directive through enrolled act</li>
+<li><strong>Resolution drafting</strong> — concurrent resolutions, parliamentary resolutions, and proposed resolutions</li>
+<li><strong>Amendment drafting</strong> — committee amendments and floor amendments to pending legislation</li>
+<li><strong>Legislative briefers</strong> — completed staff work (CSW) for plenary and committee deliberations</li>
+<li><strong>Budget briefers</strong> — analysis of appropriations measures and fiscal impact assessments</li>
+</ul>
+<p><strong>This MOP applies to:</strong></p>
+<ul>
+<li>All <strong>80 MP offices</strong> of the Bangsamoro Parliament</li>
+<li>Each MP adopts this MOP for their own office</li>
+<li>Modifications for office-specific workflows are permitted under Section 1.5</li>
+</ul>
+<p><strong>This MOP does NOT cover:</strong></p>
+<ul>
+<li><strong>Parliamentary procedure on the floor</strong> — see Resolution No. 268 (Rules, Procedures, and Practices of the Bangsamoro Parliament) [Resolution 268]</li>
+<li><strong>Executive branch operations</strong> — rulemaking, implementation, and administrative processes belong to the ministries and the Office of the Chief Minister</li>
+<li><strong>Judicial proceedings</strong> — Shari&rsquo;ah court operations, litigation, and case management fall outside the legislative function</li>
+</ul>
+<h2 id="13-legal-basis">1.3 Legal Basis</h2>
+<p>This MOP draws its authority from the following instruments:</p>
+<ol>
+<li><strong>Bangsamoro Organic Law (Republic Act No. 11054), Article VII</strong> — establishes the Bangsamoro Parliament, defines its legislative power, prescribes requirements for the passage of bills, and sets the framework for the parliamentary system [BOL Art. VII]</li>
+<li><strong>Resolution No. 268 — Rules, Procedures, and Practices of the Bangsamoro Parliament</strong> — governs parliamentary rules of procedure, committee operations, the Order of Business, and the stages of legislation from first reading to enrollment [Resolution 268]</li>
+<li><strong>BAA No. 13 — Bangsamoro Administrative Code</strong> — establishes the general administrative framework of the Bangsamoro Government, including the organizational structure of ministries, offices, and agencies that implement enacted legislation [BAA 13]</li>
+<li><strong>Bill Drafting Guidebook for the Bangsamoro Parliament</strong> (Saidamen R. Mambayao, 2026) — the reference manual for drafting standards, legislative structure, style conventions, and common provisions used in Bangsamoro Autonomy Acts</li>
+</ol>
+<h2 id="14-definition-of-terms">1.4 Definition of Terms</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>BAA</strong></td>
+<td><strong>Bangsamoro Autonomy Act.</strong> A law enacted by the Bangsamoro Parliament. The equivalent of a national statute at the regional level.</td>
+</tr>
+<tr>
+<td><strong>BEP</strong></td>
+<td><strong>Budget Execution Plan.</strong> The document that details how an appropriated budget will be spent, broken down by program, activity, and project.</td>
+</tr>
+<tr>
+<td><strong>Bill</strong></td>
+<td>A proposed law filed before the Parliament. It becomes a BAA upon passage on third reading, enrollment, and approval by the Chief Minister.</td>
+</tr>
+<tr>
+<td><strong>Bills and Index Division</strong></td>
+<td>The office within the Parliament Secretariat responsible for receiving filed bills and resolutions, assigning numbers, and maintaining the legislative index.</td>
+</tr>
+<tr>
+<td><strong>BOL</strong></td>
+<td><strong>Bangsamoro Organic Law.</strong> Republic Act No. 11054 — the foundational law that established the Bangsamoro Autonomous Region in Muslim Mindanao.</td>
+</tr>
+<tr>
+<td><strong>Briefer (Legislative)</strong></td>
+<td>A concise document that summarizes a bill&rsquo;s background, key provisions, policy implications, and recommendation. It supports the MP&rsquo;s decision-making during committee hearings or plenary sessions.</td>
+</tr>
+<tr>
+<td><strong>Briefer (Budget)</strong></td>
+<td>A concise document that analyzes an appropriations measure or fiscal provision, including cost estimates, funding sources, and budget impact.</td>
+</tr>
+<tr>
+<td><strong>Committee Report</strong></td>
+<td>The formal report issued by a standing committee after deliberating on a referred bill. It contains findings, the committee&rsquo;s recommended version of the bill, and a recommendation for passage or non-passage.</td>
+</tr>
+<tr>
+<td><strong>Completed Staff Work (CSW)</strong></td>
+<td>A finished product — a draft bill, briefer, amendment, or analysis — that has been researched, drafted, reviewed, and is ready for the MP&rsquo;s decision. The MP should only need to approve, disapprove, or return it for revision.</td>
+</tr>
+<tr>
+<td><strong>Enrolled Bill</strong></td>
+<td>The final, authenticated text of a BAA after passage on third reading. This is the version signed by the Speaker and the Chief Minister.</td>
+</tr>
+<tr>
+<td><strong>Explanatory Note</strong></td>
+<td>The narrative section of a bill that explains the policy rationale, the problem being addressed, the proposed solution, and the legal basis for the measure. It is not part of the enacted law but accompanies the bill at filing.</td>
+</tr>
+<tr>
+<td><strong>First Reading</strong></td>
+<td>The stage where a filed bill is read by title, entered into the Journal, and referred to the appropriate committee. No debate occurs.</td>
+</tr>
+<tr>
+<td><strong>Interpellation</strong></td>
+<td>The period during second reading when Members of Parliament may ask questions about the bill to the sponsor or committee chair. Interpellation follows the sponsorship speech.</td>
+</tr>
+<tr>
+<td><strong>Legislative Directive</strong></td>
+<td>An instruction from the MP to staff to research, draft, or prepare a legislative measure or document. This is the starting point of the workflow.</td>
+</tr>
+<tr>
+<td><strong>MOP</strong></td>
+<td><strong>Manual of Operations.</strong> This document.</td>
+</tr>
+<tr>
+<td><strong>Order of Business</strong></td>
+<td>The agenda of the plenary session, prepared by the Parliament Secretariat, listing the items to be taken up in the prescribed sequence under Resolution No. 268.</td>
+</tr>
+<tr>
+<td><strong>Plenary</strong></td>
+<td>A session of the full Parliament. Distinguished from committee meetings, which involve only committee members.</td>
+</tr>
+<tr>
+<td><strong>Resolution</strong></td>
+<td>A formal expression of the Parliament&rsquo;s will that does not carry the force of law. Types include concurrent resolutions, parliamentary resolutions, and proposed resolutions.</td>
+</tr>
+<tr>
+<td><strong>Second Reading</strong></td>
+<td>The stage where a bill is debated on the floor. It includes the sponsorship speech, interpellation, period of amendments, and voting on the bill&rsquo;s approval on second reading.</td>
+</tr>
+<tr>
+<td><strong>Third Reading</strong></td>
+<td>The final voting stage. The bill is voted on in its entirety, with no further amendments. Passage requires a majority of Members present constituting a quorum, unless the BOL or Rules prescribe a higher threshold.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="15-amendment-procedures">1.5 Amendment Procedures</h2>
+<p>This MOP is a living document. As your office gains experience and the Parliament&rsquo;s practices evolve, the MOP should evolve with them.</p>
+<p><strong>Who may propose amendments:</strong></p>
+<ul>
+<li>Any staff member in the MP office may propose amendments to this MOP. Amendments may address new workflows, corrections, improvements, or changes required by updated parliamentary rules.</li>
+</ul>
+<p><strong>Review and approval process:</strong></p>
+<ol>
+<li>The staff member submits the proposed amendment in writing, identifying the section to be changed and the reason for the change.</li>
+<li>The <strong>Chief of Staff</strong> or <strong>Legislative Chief</strong> reviews the proposal for consistency with the Guidebook and Resolution No. 268.</li>
+<li>The <strong>MP</strong> approves or disapproves the amendment.</li>
+<li>Approved amendments are recorded in the Amendment Log and take effect immediately unless the MP specifies otherwise.</li>
+</ol>
+<p><strong>Amendment Log:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Section Amended</th>
+<th>Description of Change</th>
+<th>Approved By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Annual review.</strong> The Chief of Staff conducts a mandatory annual review of this MOP, no later than the first month of each calendar year. The review identifies sections that need updating based on changes in parliamentary rules, office experience, or the enactment of new legislation affecting the drafting process.</p>
+<hr>
+</div><div class="chapter"><h1 id="chapter-ii-mp-office-structure-and-roles">Chapter II — MP Office Structure and Roles</h1>
+<h2 id="21-standard-mp-office-model">2.1 Standard MP Office Model</h2>
+<p>No two MP offices are identical. Some have twenty staff members. Some have three. The workflow remains the same — only the distribution of tasks changes.</p>
+<p>This MOP assigns duties to <strong>roles</strong>, not to positions or individuals. In a large office, each role may be filled by a dedicated person. In a small office, one person may fill two or three roles. What matters is that every role is covered and every task has a clear owner.</p>
+<p>The <strong>standard MP office model</strong> includes these roles:</p>
+<ul>
+<li><strong>Member of Parliament (MP)</strong> — the principal. Sets policy direction, issues legislative directives, and approves all final outputs.</li>
+<li><strong>Chief of Staff (Supervising Political Affairs Officer [SPAO] III or PAO VI)</strong> — manages office operations, conducts final internal review of all documents before they reach the MP, and coordinates with other MP offices and Parliament bodies.</li>
+<li><strong>Legislative Chief (Supervising Legislative Staff Officer [SLSO] I)</strong> — leads research and drafting, supervises legislative staff, and ensures all outputs conform to the Bill Drafting Guidebook.</li>
+<li><strong>Legislative Staff Officers</strong> — conduct research, prepare initial drafts, gather data, and support the Legislative Chief on assigned measures.</li>
+<li><strong>Legislative Support Staff (Contract of Service or Job-Order arrangement)</strong> — provide research assistance, data gathering, document formatting, and administrative support for legislative operations.</li>
+<li><strong>Legal or Legislative Consultants</strong> — provide specialized legal analysis, policy research, or drafting expertise on specific measures as engaged by the MP.</li>
+<li><strong>Other Support Staff</strong> — handle document management, filing, transmittal to the Bills and Index Division, scheduling, and office coordination.</li>
+</ul>
+<p><strong>Scaling the model.</strong> In a smaller office, one person may fill multiple roles — the Chief of Staff may also function as Legislative Chief, or a single Legislative Staff Officer may handle both research and drafting. In a larger office, you might have multiple Legislative Staff Officers assigned to different committees, dedicated consultants for complex legislation, and full administrative support. The model adapts. The roles stay constant.</p>
+<h2 id="22-role-descriptions">2.2 Role Descriptions</h2>
+<h3 id="member-of-parliament-mp">Member of Parliament (MP)</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li>Issues <strong>legislative directives</strong> to initiate the drafting process</li>
+<li>Sets <strong>policy direction</strong> and priorities for the office&rsquo;s legislative agenda</li>
+<li><strong>Approves</strong> all final outputs: bills, resolutions, amendments, briefers, and interpellation questions</li>
+<li><strong>Sponsors</strong> bills and resolutions on the floor</li>
+<li>Represents the office in <strong>plenary</strong> and committee proceedings</li>
+</ul>
+<p><strong>Authority level:</strong> Final decision-maker on all legislative outputs. Approves or returns all documents. Only the MP can direct the filing of a bill or resolution.</p>
+<p><strong>Reporting line:</strong> None. The MP is the principal.</p>
+<p><strong>Key outputs:</strong> Approved bills, approved resolutions, sponsorship speeches, voting decisions.</p>
+<hr>
+<h3 id="chief-of-staff-spao-iii-pao-vi">Chief of Staff (SPAO III / PAO VI)</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li>Provides <strong>overall supervision and management</strong> of the MP office</li>
+<li>Ensures the office&rsquo;s <strong>work plan and priorities</strong> align with the MP&rsquo;s legislative agenda</li>
+<li>Conducts <strong>final clearance</strong> of documents before presenting them to the MP</li>
+<li>Manages <strong>political coordination</strong> — relationships with other MP offices, party matters, and external stakeholders</li>
+<li>Oversees <strong>administrative operations</strong> — budget, personnel, office logistics</li>
+<li>Serves as the <strong>primary liaison</strong> to the Parliament leadership (Speaker&rsquo;s Office, Floor Leader)</li>
+</ul>
+<p><strong>Authority level:</strong> Can clear documents for MP review. Can return outputs to the Legislative Chief for revision. Does not draft or revise legislative content — that authority belongs to the Legislative Chief. Cannot approve final outputs for filing — that authority belongs to the MP.</p>
+<p><strong>Reporting line:</strong> Reports directly to the MP.</p>
+<p><strong>Key outputs:</strong> Cleared documents for MP decision, office work plans, political coordination memoranda, staff performance oversight.</p>
+<hr>
+<h3 id="legislative-chief-slso-i">Legislative Chief (SLSO I)</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li><strong>Leads and supervises all legislative operations</strong> — research, drafting, briefer preparation, and amendment work</li>
+<li><strong>Supervises</strong> Legislative Staff Officers, support staff, and coordinates with consultants</li>
+<li><strong>Manages the legislative calendar</strong> — tracks committee hearings, plenary schedules, filing deadlines, and co-authorship timelines</li>
+<li>Ensures all drafts comply with the <strong>Bill Drafting Guidebook</strong> — structure, style, legal basis, and common provisions</li>
+<li>Conducts <strong>legal and policy review</strong> of drafts for consistency with the BOL, existing BAAs, and national law</li>
+<li><strong>Coordinates with Parliament bodies</strong> — Bills and Index Division (filing), Committee Secretariat (hearings), and other MP offices (co-authorship, consolidated bills)</li>
+<li>Prepares <strong>completed staff work</strong> (CSW) packages for Chief of Staff clearance</li>
+</ul>
+<p><strong>Authority level:</strong> Can assign tasks to Legislative Staff Officers, support staff, and consultants. Can revise and finalize drafts. Can coordinate directly with Parliament bodies on legislative matters. Submits completed work to the Chief of Staff for clearance before it reaches the MP.</p>
+<p><strong>Reporting line:</strong> Reports to the Chief of Staff.</p>
+<p><strong>Key outputs:</strong> Draft bills, draft resolutions, draft amendments, legislative briefers, budget briefers, research memoranda, CSW packages, legislative calendar.</p>
+<hr>
+<h3 id="legislative-staff-officers">Legislative Staff Officers</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li>Conduct <strong>background research</strong> — existing BAAs, national laws, BOL provisions, comparative legislation, and policy data</li>
+<li>Prepare <strong>initial drafts</strong> of bills, resolutions, briefers, and amendments</li>
+<li>Gather <strong>data and evidence</strong> for explanatory notes and policy justifications</li>
+<li>Maintain the office&rsquo;s <strong>legislative research files</strong> and reference materials</li>
+<li>Assist the Legislative Chief during <strong>committee hearings</strong> — prepare notes, track amendments, record proceedings</li>
+</ul>
+<p><strong>Authority level:</strong> Can prepare and submit initial drafts for review. Cannot finalize or clear any document independently.</p>
+<p><strong>Reporting line:</strong> Report to the Legislative Chief.</p>
+<p><strong>Key outputs:</strong> Research memoranda, initial draft bills, initial draft briefers, data compilations, hearing notes.</p>
+<hr>
+<h3 id="legislative-support-staff-cos-jo">Legislative Support Staff (COS / JO)</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li>Provide <strong>research assistance</strong> — data gathering, source compilation, document formatting</li>
+<li>Assist Legislative Staff Officers in <strong>preparing draft documents</strong> and presentations</li>
+<li>Handle <strong>document management</strong> — filing, reproduction, digital organization</li>
+<li>Manage <strong>transmittal</strong> of bills and resolutions to the Bills and Index Division</li>
+<li>Track the <strong>status of filed measures</strong> — committee referrals, hearing schedules, plenary calendar</li>
+<li>Manage <strong>office correspondence</strong>, scheduling, and logistics</li>
+<li>Maintain the <strong>Amendment Log</strong> for this MOP (Section 1.5)</li>
+</ul>
+<p><strong>Authority level:</strong> Can transmit documents to the Bills and Index Division upon instruction from the Chief of Staff or Legislative Chief. Cannot modify substantive content of any document independently.</p>
+<p><strong>Reporting line:</strong> Report to the Legislative Chief or Chief of Staff as assigned.</p>
+<p><strong>Key outputs:</strong> Transmittal records, filing confirmations, status tracking reports, formatted documents, correspondence logs.</p>
+<hr>
+<h3 id="legal-or-legislative-consultants">Legal or Legislative Consultants</h3>
+<p><strong>Primary responsibilities:</strong></p>
+<ul>
+<li>Provide <strong>specialized legal analysis</strong> on complex legislative matters (constitutional issues, Shari&rsquo;ah considerations, fiscal implications)</li>
+<li>Draft or review <strong>technical provisions</strong> requiring subject-matter expertise</li>
+<li>Conduct <strong>policy research</strong> on specific topics as directed by the MP or Legislative Chief</li>
+<li>Advise on <strong>legislative strategy</strong> — timing, co-authorship, committee dynamics</li>
+<li>May assist in preparing <strong>interpellation questions</strong> and <strong>proposed amendments</strong> for specialized bills</li>
+</ul>
+<p><strong>Authority level:</strong> Advisory. Consultants may draft or revise documents but cannot clear or approve them. All consultant outputs pass through the Legislative Chief and Chief of Staff review chain.</p>
+<p><strong>Reporting line:</strong> Report to the MP or Chief of Staff as specified in the engagement terms.</p>
+<p><strong>Key outputs:</strong> Legal opinions, policy analyses, specialized draft provisions, advisory memoranda.</p>
+<h2 id="23-authority-matrix">2.3 Authority Matrix</h2>
+<p>The table below shows which role has authority for each action in the legislative staff work process. Read across each row to see the chain of responsibility from preparation to final approval.</p>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th style="text-align: center;">Staff</th>
+<th style="text-align: center;">Leg. Chief</th>
+<th style="text-align: center;">CoS</th>
+<th style="text-align: center;">Consultant</th>
+<th style="text-align: center;">MP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Initial research</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr>
+<td>Draft bill</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">D/R</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Draft resolution</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Draft explanatory note</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>File bill or resolution</td>
+<td style="text-align: center;">T</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;"><strong>D</strong></td>
+</tr>
+<tr>
+<td>Draft legislative briefer</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Draft budget briefer</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Interpellation questions</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Floor amendments</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">D/R</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Committee amendments</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R/V</td>
+<td style="text-align: center;">CL</td>
+<td style="text-align: center;">D/R</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+<tr>
+<td>Transmittal to BID</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr>
+<td>Legislative calendar</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">—</td>
+</tr>
+<tr>
+<td>Co-authorship coordination</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">C</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;"><strong>D</strong></td>
+</tr>
+<tr>
+<td>MOP amendments</td>
+<td style="text-align: center;">P</td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">R</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;"><strong>AP</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Legend:</strong> P = Prepares, R = Reviews, R/V = Reviews/Revises, CL = Clears, AP = Approves, D = Directs, D/R = Drafts/Reviews, A = Advises, T = Transmits, C = Coordinates, X = Executes, M = Manages, BID = Bills and Index Division. <strong>Staff</strong> = Legislative Staff Officers and Support Staff. <strong>Leg. Chief</strong> = Legislative Chief (SLSO I). <strong>CoS</strong> = Chief of Staff (SPAO III/PAO VI).</p>
+<p><strong>How to read this table:</strong></p>
+<ul>
+<li><strong>Prepares</strong> — produces the initial output</li>
+<li><strong>Reviews</strong> — checks the output for quality, accuracy, and compliance</li>
+<li><strong>Reviews / Revises</strong> — checks and may directly edit or rewrite the output</li>
+<li><strong>Clears</strong> — confirms the output is ready for the MP&rsquo;s decision</li>
+<li><strong>Approves</strong> — makes the final decision to accept, reject, or return for revision</li>
+<li><strong>Directs</strong> — issues the instruction to proceed (e.g., &ldquo;file this bill&rdquo;)</li>
+<li><strong>Coordinates</strong> — handles the logistics of the action</li>
+<li><strong>Instructs</strong> — gives the operational instruction to administrative support</li>
+<li><strong>—</strong> — not involved at this stage</li>
+</ul>
+<h2 id="24-coordination-with-parliament-bodies">2.4 Coordination with Parliament Bodies</h2>
+<p>Your office does not work in isolation. The <strong>Legislative Chief</strong> is the primary coordinator with Parliament bodies on legislative matters. The <strong>Chief of Staff</strong> handles political coordination (coalition building, party matters, Speaker&rsquo;s Office liaison). Build working relationships with each body.</p>
+<h3 id="bills-and-index-division">Bills and Index Division</h3>
+<p>The <strong>Bills and Index Division</strong> is your primary point of contact for filing. It is the office within the Parliament Secretariat that receives all bills and resolutions, assigns official numbers, and maintains the master legislative index.</p>
+<p><strong>Key coordination points:</strong></p>
+<ul>
+<li><strong>Filing requirements.</strong> Before you file, confirm the Division&rsquo;s current requirements for format, number of copies, and accompanying documents (explanatory note, sponsorship speech, cost estimates where required). Requirements may change by session.</li>
+<li><strong>Number assignment.</strong> The Division assigns the official bill or resolution number upon filing. You do not choose your own number.</li>
+<li><strong>Status tracking.</strong> The Division can confirm whether a measure has been referred to committee, scheduled for hearing, or placed on the Order of Business.</li>
+<li><strong>Consolidated bills.</strong> When multiple MPs file similar measures, the Division tracks related filings. Coordinate early to avoid duplicating another office&rsquo;s work.</li>
+</ul>
+<h3 id="committee-secretariat">Committee Secretariat</h3>
+<p>Each standing committee has a <strong>Committee Secretariat</strong> that manages committee operations. When your bill is referred to committee, the Committee Secretariat becomes your key coordination partner.</p>
+<p><strong>Key coordination points:</strong></p>
+<ul>
+<li><strong>Referral notification.</strong> After first reading, the Speaker refers the bill to the appropriate committee. The Committee Secretariat will schedule hearings.</li>
+<li><strong>Hearing schedules.</strong> Monitor the committee calendar. Your office should prepare a briefer before each hearing and ensure the MP or a designated staff member attends.</li>
+<li><strong>Technical working groups.</strong> Committees often form technical working groups to refine bills. Your Legislative Chief should participate or coordinate closely with the TWG.</li>
+<li><strong>Committee reports.</strong> The Committee Secretariat prepares the committee report. Review the reported version of the bill carefully — the committee may have adopted amendments that change your original text.</li>
+</ul>
+<h3 id="parliament-secretariat">Parliament Secretariat</h3>
+<p>The <strong>Parliament Secretariat</strong> manages the overall operations of the Parliament, including the plenary calendar.</p>
+<p><strong>Key coordination points:</strong></p>
+<ul>
+<li><strong>Plenary calendar.</strong> The Secretariat sets the plenary session schedule and the Order of Business. Track when your bill is calendared for second reading or third reading.</li>
+<li><strong>Session journals.</strong> The Secretariat produces the session journal — the official record of plenary proceedings. Use it to verify votes, amendments adopted on the floor, and the exact text approved on second reading.</li>
+<li><strong>Administrative requirements.</strong> The Secretariat handles administrative matters — session attendance, office allocations, and staff accreditation.</li>
+</ul>
+<h3 id="other-mp-offices">Other MP Offices</h3>
+<p>Legislative work often involves coordination with other Members.</p>
+<p><strong>Key coordination points:</strong></p>
+<ul>
+<li><strong>Co-authorship.</strong> When another MP joins as co-author, coordinate on the final text before filing. All co-authors should agree on the version that goes to the Bills and Index Division.</li>
+<li><strong>Consolidated bills.</strong> When your bill and another MP&rsquo;s bill address the same subject, the committee may consolidate them. Coordinate with the other office early to align provisions and avoid unnecessary conflict during deliberations.</li>
+<li><strong>Coalition building.</strong> Before filing a major bill, your office may consult with other MPs to secure support. The <strong>Chief of Staff</strong> handles this political coordination. The <strong>Legislative Chief</strong> handles the technical alignment of bill provisions.</li>
+<li><strong>Amendment coordination.</strong> During second reading, coordinate with allied offices on proposed amendments. Uncoordinated amendments from friendly offices can create confusion on the floor.</li>
+</ul>
+</div><div class="chapter"><h1 id="chapter-iii-legislative-drafting-operations">Chapter III — Legislative Drafting Operations</h1>
+<h2 id="31-overview">3.1 Overview</h2>
+<p>This is the operational core of the Manual. Every legislative measure your office produces follows a defined workflow with assigned responsibilities, deliverables, and timelines.</p>
+<p>The Bangsamoro Parliament works with three types of legislative measures:</p>
+<ol>
+<li><strong>Bills</strong> — create, amend, or repeal law. Seven-stage process.</li>
+<li><strong>Resolutions</strong> — express sentiment, opinion, or request. Five-stage process.</li>
+<li><strong>Amendments</strong> — modify a pending bill during committee or plenary. Four-stage process.</li>
+</ol>
+<p>Each workflow below identifies the <strong>responsible party</strong>, <strong>timeline</strong>, <strong>output</strong>, and <strong>Guidebook reference</strong>. Adapt timelines based on complexity.</p>
+<hr>
+<h2 id="32-bill-drafting-workflow">3.2 Bill Drafting Workflow</h2>
+<p>The total timeline ranges from <strong>15 to 45 working days</strong> depending on complexity.</p>
+<h3 id="stage-1-legislative-directive">Stage 1: Legislative Directive</h3>
+<p>The MP issues a policy direction. Capture it, document it, and get approval to proceed.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Receive the MP&rsquo;s directive (written brief, verbal instruction, or relayed through Chief of Staff).</li>
+<li>Listen for five essentials: the <strong>policy problem</strong>, <strong>target beneficiaries</strong>, <strong>urgency</strong>, <strong>prior attempts</strong>, and <strong>non-negotiables</strong>.</li>
+<li>Prepare the <strong>Initial Legislative Template</strong> capturing: working title, policy problem, proposed solution, target beneficiaries, scope, lead author, potential co-authors, target filing date, related legislation, and special instructions.</li>
+<li>Submit the template to the MP for review and approval.</li>
+<li>Record the approved template in the office legislative tracker.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>MP (directs) &ndash;&gt; Legislative Chief (documents) &ndash;&gt; Chief of Staff (coordinates)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>Day 0 (single meeting plus 24-hour written follow-up)</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Approved Initial Legislative Template</td>
+</tr>
+<tr>
+<td><strong>Form</strong></td>
+<td>Legislative Directive Form (Appendix H)</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 2, Section 2.2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key rule:</strong> Do not begin research until the MP approves the template. A documented starting point prevents scope creep and misaligned expectations.</p>
+<hr>
+<h3 id="stage-2-research-and-analysis">Stage 2: Research and Analysis</h3>
+<p>Build the legal, policy, and factual foundation for the bill.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Define <strong>research questions</strong> from the approved template: constitutional authority, BOL powers, existing BAAs, national laws, policy data, fiscal implications, Shari&rsquo;ah considerations.</li>
+<li>Submit a written research request to the <strong>Policy Research and Legal Services (PRLS)</strong> with a copy of the template.</li>
+<li>Conduct parallel research: (a) 1987 Constitution, (b) BOL Articles V, IX, XII, (c) national laws and IRRs, (d) existing BAAs and resolutions, (e) policy data and comparative legislation, (f) implementing agency capacity and fiscal implications.</li>
+<li>Prepare the <strong>Legislative Research Briefer</strong>: brief description, related laws, policy and legal analysis, impact assessment, Shari&rsquo;ah and gender considerations, recommendations.</li>
+<li>Present the briefer to the MP for approval.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Staff Officers (conduct research) &ndash;&gt; Legislative Chief (reviews and compiles briefer) &ndash;&gt; MP (approves)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>3-10 working days depending on complexity</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Approved Legislative Research Briefer</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 2, Sections 2.3.1-2.3.4</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Complexity guide:</strong>
+- <strong>Simple</strong> (narrow amendatory bill, single-issue bill): 3-5 days
+- <strong>Moderate</strong> (new regulatory framework, multi-agency bill): 5-7 days
+- <strong>Complex</strong> (new code, comprehensive reform, cross-cutting policy): 7-10 days</p>
+<hr>
+<h3 id="stage-3-consultation">Stage 3: Consultation</h3>
+<p>Test the bill concept against stakeholders. Consultation catches implementation problems that desk research cannot.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Identify <strong>stakeholders</strong>: implementing agencies, affected LGUs, CSOs, subject-matter experts, communities.</li>
+<li>Conduct consultations. Document each meeting: date, attendees, issues raised, recommendations.</li>
+<li>Coordinate with the <strong>relevant committee</strong> secretariat early.</li>
+<li>Assess <strong>gender</strong> and <strong>human rights</strong> impact. If the bill affects <strong>indigenous peoples</strong>, consult their representatives per customary processes.</li>
+<li>Compile a <strong>Consultation Report</strong>: feedback, consensus areas, unresolved issues.</li>
+<li>Present to the MP with recommended adjustments.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (leads consultations) &ndash;&gt; Legislative Staff Officers (support, documents) &ndash;&gt; Chief of Staff (coordinates agency access)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>5-15 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Consultation Report</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 2, Section 2.5</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tip:</strong> Schedule consultations during Stage 2. Research and consultation can overlap.</p>
+<hr>
+<h3 id="stage-4-drafting">Stage 4: Drafting</h3>
+<p>Write the bill following the Guidebook&rsquo;s standard anatomy and style conventions.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Prepare a <strong>working outline</strong> listing every section in order.</li>
+<li>Draft the bill: caption, long title, enacting clause, preliminary provisions (short title, declaration of policy, definitions, scope), substantive provisions (general-to-specific, rights-to-obligations, prohibitions-to-penalties), administrative provisions (implementing agency, IRR timeline, reporting), appropriation clause, penal provisions, final provisions (separability, repealing, effectivity).</li>
+<li>Prepare the <strong>Comparative Matrix</strong> (bill vs. existing laws).</li>
+<li>Apply <strong>style rules</strong>: active voice, present tense, &ldquo;shall/may/must&rdquo; used correctly, numbers in words and figures, gender-neutral language.</li>
+<li>Draft the <strong>Explanatory Note</strong>: problem, why legislation is needed, what the bill does, BOL authority.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (drafts bill and explanatory note) &ndash;&gt; Legislative Staff Officers (assist with research integration and formatting)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>3-7 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Draft bill text + Explanatory Note + Comparative Matrix</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapters 3 (Anatomy), 4 (Explanatory Note), 5 (Resolutions — if resolution provisions are included), 6 (Legislative Style)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="stage-5-internal-review">Stage 5: Internal Review</h3>
+<p>Review the draft systematically before the MP sees it.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Run the <strong>Pre-Drafting Checklist</strong> (Appendix D) — confirm all preparatory work is complete.</li>
+<li>Run the <strong>Quality Review Checklist</strong> (Appendix E) — four categories: legal authority (14 items), structure and completeness (28 items), language and style (18 items), internal consistency (10 items).</li>
+<li>Conduct the <strong>Interpellation Test</strong> — read the bill as a skeptical MP. Ask: What problem does this solve? Who benefits? Will it work? Could it be challenged?</li>
+<li>Conduct specialized reviews: <strong>gender sensitivity</strong>, <strong>human rights</strong>, <strong>BOL conformity</strong> (Guidebook Ch. 11, Sections 11.4-11.6).</li>
+<li>Chief of Staff reviews for <strong>policy alignment</strong> with the MP&rsquo;s intent.</li>
+<li>Compile comments and revise.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Chief of Staff (reviews for policy alignment) &ndash;&gt; Legislative Chief (conducts technical review, revises) &ndash;&gt; Legislative Staff Officers (assist with checklist verification)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>2-3 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Reviewed draft with revisions incorporated</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 11; Appendices D and E</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="stage-6-mp-approval">Stage 6: MP Approval</h3>
+<p>Present the final draft to the MP for decision.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Prepare a <strong>briefing package</strong>: revised bill text, explanatory note, legislative research briefer (summary), consultation report (summary), and a one-page decision memo highlighting key choices and any unresolved issues.</li>
+<li>Schedule a presentation meeting with the MP.</li>
+<li>Walk the MP through the bill section by section. Flag provisions where the MP must make a policy choice.</li>
+<li>The MP decides: <strong>approve</strong> as-is, <strong>modify</strong> specific provisions, or <strong>return</strong> for further work.</li>
+<li>If modifications are requested, incorporate them and re-run the relevant checklist items.</li>
+<li>Obtain the MP&rsquo;s <strong>final approval</strong> to proceed to filing.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>MP (decides) &ndash;&gt; Chief of Staff (presents briefing) &ndash;&gt; Legislative Chief (incorporates final changes)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1-3 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>MP-approved bill ready for filing</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 2, Section 2.6</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="stage-7-filing">Stage 7: Filing</h3>
+<p>Prepare the filing package and submit to the Bills and Index Division.</p>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>Prepare the <strong>filing package</strong>:</li>
+<li>Signed bill text (printed copy + electronic copy)</li>
+<li>Explanatory Note (signed by the principal author)</li>
+<li>Co-authorship letters (if applicable)</li>
+<li>Secure <strong>co-authors</strong> if planned: circulate the bill to target MPs, brief them on the bill&rsquo;s purpose, and obtain signed co-authorship confirmations.</li>
+<li>File with the <strong>Secretary-General</strong> (Bills and Index Division). The Secretary-General assigns the bill number. Note: the printed copy prevails over the electronic copy in case of discrepancy.</li>
+<li>Track the bill&rsquo;s assignment — confirm committee referral after Second Reading.</li>
+<li>Update the office <strong>legislative tracker</strong> with the bill number, filing date, and committee referral.</li>
+<li>Coordinate with the <strong>Majority Floor Leader&rsquo;s office</strong> regarding calendar scheduling.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Support Staff (prepares and files package) &ndash;&gt; Legislative Chief (coordinates co-authorship and committee referral) &ndash;&gt; Chief of Staff (manages political coordination)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1 working day for filing; co-authorship may take 1-5 additional days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Filed bill with assigned number</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 2, Section 2.7; Chapter 7, Sections 7.2-7.3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Post-filing:</strong> Prepare for committee hearings — anticipate questions, draft talking points, and prepare potential committee amendments. Monitor progress through the stages of legislation.</p>
+<hr>
+<h2 id="33-resolution-drafting-workflow">3.3 Resolution Drafting Workflow</h2>
+<p>Resolutions follow a shorter workflow. Simple and concurrent resolutions can be filed and adopted in a single session. Speed does not excuse carelessness.</p>
+<h3 id="types-of-resolutions">Types of Resolutions</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Definition</th>
+<th>Process</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Simple</strong></td>
+<td>Sentiment, opinion, or request. Most common.</td>
+<td>Simplified — plenary</td>
+</tr>
+<tr>
+<td><strong>Concurrent</strong></td>
+<td>Cabinet and Parliament on shared matters.</td>
+<td>Simplified</td>
+</tr>
+<tr>
+<td><strong>Joint Committee</strong></td>
+<td>Two or more committees. Majority of all.</td>
+<td>Fuller deliberation</td>
+</tr>
+</tbody>
+</table>
+<h3 id="when-to-use-a-resolution-not-a-bill">When to Use a Resolution (Not a Bill)</h3>
+<p>A resolution is the right tool when the goal is to <strong>express</strong>, <strong>urge</strong>, <strong>commend</strong>, <strong>condemn</strong>, or <strong>request</strong>. A bill is the right tool when the goal is to <strong>create</strong>, <strong>require</strong>, <strong>prohibit</strong>, or <strong>appropriate</strong>. If the measure creates a legal obligation, use a bill.</p>
+<h3 id="5-stage-process">5-Stage Process</h3>
+<p><strong>Stage 1: Directive</strong></p>
+<ol>
+<li>Receive the MP&rsquo;s instruction. Resolutions typically begin with a brief oral or written request — less formal than a bill directive.</li>
+<li>Confirm: Is a resolution the correct instrument? Check the five warning signs that a bill is needed instead (creates a government body, imposes penalties, appropriates funds, requires action from private citizens, amends an existing BAA).</li>
+<li>Document the directive with the topic, purpose, and target timeline.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>MP (directs) &ndash;&gt; Legislative Chief (documents)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>Day 0</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 2: Research and Verification</strong></p>
+<ol>
+<li><strong>Verify the facts.</strong> If the resolution congratulates someone, confirm the full name, achievement, ranking, and date. If it condemns an incident, verify date, location, and confirmed facts.</li>
+<li><strong>Verify the legal basis.</strong> If citing the BOL, Constitution, or a national law, confirm the exact article, section, and wording.</li>
+<li><strong>Check for prior resolutions.</strong> Search the Parliament&rsquo;s records to ensure no duplicate resolution already exists on the same subject.</li>
+<li><strong>Confirm the right instrument.</strong> If the MP&rsquo;s intent requires creating a legal obligation, redirect to the bill workflow.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Staff Officers (verify) &ndash;&gt; Legislative Chief (reviews)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1-3 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Verified facts and citations</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 5, Section 5.3.1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 3: Drafting</strong></p>
+<ol>
+<li>Draft the resolution following the standard anatomy:</li>
+<li><strong>Caption</strong> (Parliament identification, session)</li>
+<li><strong>Resolution number</strong> (assigned upon filing — leave blank in draft)</li>
+<li><strong>Title</strong> (begins with &ldquo;A Resolution Urging&hellip;,&rdquo; &ldquo;A Resolution Commending&hellip;,&rdquo; etc.)</li>
+<li><strong>Author line</strong> (MP name and signature)</li>
+<li><strong>WHEREAS preamble</strong> — recitals in deductive order:<ul>
+<li>Legal and constitutional foundation (broadest basis first)</li>
+<li>Background and context</li>
+<li>Specific facts (names, dates, places)</li>
+<li>Parliament&rsquo;s interest</li>
+<li>Conclusion and transition</li>
+</ul>
+</li>
+<li><strong>&ldquo;NOW, THEREFORE, be it&rdquo;</strong> transition</li>
+<li><strong>Operative clause</strong> (&ldquo;RESOLVED, as it is hereby resolved by the Bangsamoro Transition Authority Parliament, to&hellip;&rdquo;)</li>
+<li><strong>Additional operative clauses</strong> (RESOLVED, FURTHER / FURTHERMORE / FINALLY)</li>
+<li><strong>Furnishing clause</strong> (RESOLVED, FINALLY — copies to specific recipients)</li>
+<li><strong>Adoption line</strong> (both Islamic and Gregorian calendar dates — filled in after adoption)</li>
+<li><strong>Certification blocks</strong> (Secretary-General certifies correct; Speaker attests)</li>
+<li>Apply formatting: <strong>WHEREAS</strong> and <strong>RESOLVED</strong> in bold; semicolons after each recital (colon after the final one); consistent capitalization of institutional names.</li>
+<li>Keep it proportionate: 3-5 WHEREAS clauses for a straightforward commendation; more for complex policy resolutions.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (drafts) &ndash;&gt; Legislative Staff Officers (assist with formatting)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1-2 working days</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Draft resolution</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 5, Sections 5.4.1-5.4.3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 4: Review</strong></p>
+<ol>
+<li>Run the <strong>Resolution Drafting Checklist</strong> (Guidebook Chapter 5, end of chapter):</li>
+<li><strong>Content:</strong> Names correct? Dates verified? Legal citations verified? No duplicate resolution? Does not attempt to legislate?</li>
+<li><strong>Structure:</strong> Correct session caption? Authors listed? Title in all capitals? WHEREAS recitals in deductive order? Standard operative formula used? Furnishing clause present? Islamic and Gregorian dates? Certification blocks present?</li>
+<li><strong>Format:</strong> WHEREAS bold? RESOLVED bold? Correct punctuation? Consistent capitalization?</li>
+<li>Chief of Staff or MP reviews for accuracy and tone.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Chief of Staff (reviews) &ndash;&gt; Legislative Chief (revises)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1 working day</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Final draft resolution</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 5, Drafting Checklist</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 5: Filing</strong></p>
+<ol>
+<li>The MP signs the resolution.</li>
+<li>File with the <strong>Secretary-General</strong> (printed + electronic copy). The Secretary-General assigns the proposed resolution number.</li>
+<li>Secure co-authors if applicable.</li>
+<li>Track when the resolution is reported in plenary during &ldquo;Resolutions, Messages, Memorials and Communications.&rdquo;</li>
+<li>Coordinate with the Majority Floor Leader if plenary action is expected in the same session.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Support Staff (files) &ndash;&gt; Legislative Chief (coordinates)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1 working day</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Filed resolution with assigned number</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 5, Section 5.3.3; Chapter 7, Section 7.1.3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="34-amendment-drafting-workflow">3.4 Amendment Drafting Workflow</h2>
+<p>Amendments refine legislation during committee or plenary deliberation. Every amendment reduces to three operations: <strong>insertion</strong>, <strong>deletion</strong>, or <strong>substitution</strong>.</p>
+<h3 id="types-of-amendments">Types of Amendments</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Origin</th>
+<th>Timing</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Committee</strong></td>
+<td>Committee that scrutinized the bill</td>
+<td>Committee stage; before floor amendments</td>
+</tr>
+<tr>
+<td><strong>Floor</strong></td>
+<td>Individual MP during plenary</td>
+<td>Period of amendments, after committee amendments</td>
+</tr>
+<tr>
+<td><strong>Substitute bill</strong></td>
+<td>Replaces entire bill text</td>
+<td>Committee or floor; must cover same subject</td>
+</tr>
+</tbody>
+</table>
+<h3 id="key-rules-resolution-no-268">Key Rules (Resolution No. 268)</h3>
+<ul>
+<li><strong>Germaneness:</strong> No riders. The amendment must relate to the bill&rsquo;s subject matter.</li>
+<li><strong>Specificity:</strong> Identify the exact page, line, section, and subsection being amended.</li>
+<li><strong>Writing requirement:</strong> Substitution amendments must be submitted in writing. Best practice: put all amendments in writing.</li>
+<li><strong>Withdrawal:</strong> Any amendment may be withdrawn before the vote.</li>
+</ul>
+<h3 id="4-stage-process">4-Stage Process</h3>
+<p><strong>Stage 1: Identify Issues</strong></p>
+<ol>
+<li>Review the bill text — use the <strong>committee report version</strong>, not an earlier draft.</li>
+<li>Identify the specific provision that needs change. Classify the type of change: insertion, deletion, or substitution.</li>
+<li>Determine whether this is a <strong>committee amendment</strong> (arising from committee scrutiny) or a <strong>floor amendment</strong> (to be proposed by the MP during plenary).</li>
+<li>For committee amendments: coordinate with the committee chair and secretariat.</li>
+<li>For floor amendments: register with the <strong>Majority Floor Leader</strong> to secure recognition during the period of amendments.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (identifies issues from bill review or MP instruction) &ndash;&gt; MP (confirms intent)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1-2 working days; triggered by committee briefer or plenary preparation</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 2: Draft Amendment Text</strong></p>
+<ol>
+<li>Get the <strong>exact text</strong> of the provision being amended — from the committee report version as modified by any already-adopted amendments.</li>
+<li>Draft the amendment using the standard formulations:</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Operation</th>
+<th>Standard Language</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Insert words</strong></td>
+<td>&ldquo;On page [X], line [Y], after the word &lsquo;[existing word],&rsquo; insert the words &lsquo;[new words].&rsquo;&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Insert subsection</strong></td>
+<td>&ldquo;A new subsection (x) is hereby inserted in Section [X] to read as follows:&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Insert section</strong></td>
+<td>&ldquo;A new Section [X] is hereby inserted after Section [Y] to read as follows:&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Delete words</strong></td>
+<td>&ldquo;On page [X], line [Y], delete the words &lsquo;[words to be deleted].&rsquo;&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Delete subsection</strong></td>
+<td>&ldquo;Subsection (x) of Section [X] is hereby deleted.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Delete section</strong></td>
+<td>&ldquo;Section [X] is hereby deleted.&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Substitute words</strong></td>
+<td>&ldquo;On page [X], line [Y], the word &lsquo;[old word]&rsquo; is hereby amended to read &lsquo;[new word].&rsquo;&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Substitute subsection</strong></td>
+<td>&ldquo;Subsection (x) of Section [X] is hereby amended to read as follows:&rdquo;</td>
+</tr>
+<tr>
+<td><strong>Substitute section</strong></td>
+<td>&ldquo;Section [X] is hereby amended to read as follows:&rdquo;</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li><strong>Match the style</strong> of the bill — same terminology, same verb forms, same naming conventions.</li>
+<li>Account for <strong>renumbering</strong> if inserting or deleting subsections or sections. State redesignation explicitly.</li>
+<li>Check <strong>cross-references</strong> — if renumbering changes a section number referenced elsewhere, update or note the adjustment.</li>
+<li>Keep each amendment focused: <strong>one amendment, one change</strong>. Do not bundle multiple changes.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (drafts amendment text) &ndash;&gt; Legislative Staff (verifies cross-references and renumbering)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>1 working day; same-day for urgent floor amendments</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Written amendment text</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 10, Sections 10.4.1-10.4.3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 3: Justify</strong></p>
+<ol>
+<li>Prepare a <strong>brief justification</strong> (one paragraph) explaining: the problem with the current text, the proposed solution, and why the new text is better.</li>
+<li>For committee amendments: include justifications in the <strong>committee report</strong> alongside the proposed changes. Use narrative format or comparative matrix format (original vs. amended).</li>
+<li>For floor amendments: brief the MP so they can explain the amendment when recognized by the Speaker.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (prepares justification) &ndash;&gt; MP (delivers on the floor)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>Same day as drafting</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Amendment justification note</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 10, Sections 10.2-10.3</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stage 4: Submit</strong></p>
+<ol>
+<li>For <strong>committee amendments:</strong> Include in the committee report presented to plenary. The sponsor presents them during the period of amendments; they are taken up before floor amendments.</li>
+<li>For <strong>floor amendments:</strong> Submit the written text to the Secretary-General and the Majority Floor Leader. The MP is recognized during the period of amendments to present and move the amendment.</li>
+<li>Track the outcome: accepted, modified, or rejected. If adopted, verify the amendment is correctly incorporated into the bill text for Third Reading.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Responsible</strong></td>
+<td>Legislative Chief (submits written text) &ndash;&gt; MP (moves amendment on the floor) &ndash;&gt; Support Staff (tracks outcome)</td>
+</tr>
+<tr>
+<td><strong>Timeline</strong></td>
+<td>Committee amendments: included in committee report. Floor amendments: submitted before or during the plenary session.</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Submitted amendment; recorded outcome</td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td>Guidebook Chapter 10, Sections 10.2-10.3; Chapter 7, Section 7.5</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="35-workflow-summary-table">3.5 Workflow Summary Table</h2>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Bill</th>
+<th>Resolution</th>
+<th>Amendment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Directive</strong></td>
+<td>Day 0</td>
+<td>Day 0</td>
+<td>From briefer</td>
+</tr>
+<tr>
+<td><strong>Research</strong></td>
+<td>3-10 days</td>
+<td>1-3 days</td>
+<td>1-2 days</td>
+</tr>
+<tr>
+<td><strong>Consultation</strong></td>
+<td>5-15 days</td>
+<td>Optional</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td><strong>Drafting</strong></td>
+<td>3-7 days</td>
+<td>1-2 days</td>
+<td>1 day</td>
+</tr>
+<tr>
+<td><strong>Review</strong></td>
+<td>2-3 days</td>
+<td>1 day</td>
+<td>Same day</td>
+</tr>
+<tr>
+<td><strong>Approval</strong></td>
+<td>1-3 days</td>
+<td>1 day</td>
+<td>1 day</td>
+</tr>
+<tr>
+<td><strong>Filing</strong></td>
+<td>1 day</td>
+<td>1 day</td>
+<td>Floor</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>15-45 days</strong></td>
+<td><strong>4-8 days</strong></td>
+<td><strong>2-5 days</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="reading-the-table">Reading the Table</h3>
+<ul>
+<li><strong>Bills</strong> follow the full seven-stage process. Consultation is the most variable stage — simple bills may need minimal consultation; complex bills require extensive stakeholder engagement.</li>
+<li><strong>Resolutions</strong> skip the consultation stage for most types (commendations, condolences, requests). Policy resolutions that urge government action may benefit from informal consultation.</li>
+<li><strong>Amendments</strong> are the fastest workflow. They are triggered by external events (committee hearings, plenary sessions) rather than by a directive from the MP. The key constraint is timing — amendments must be ready <strong>before</strong> the committee hearing or plenary session where they will be presented.</li>
+</ul>
+<h3 id="forms-and-checklists-referenced">Forms and Checklists Referenced</h3>
+<table>
+<thead>
+<tr>
+<th>Document</th>
+<th>Location</th>
+<th>Stage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Legislative Directive Form</td>
+<td>Annex A</td>
+<td>Bill 1</td>
+</tr>
+<tr>
+<td>Initial Legislative Template</td>
+<td>Guidebook Ch. 2</td>
+<td>Bill 1</td>
+</tr>
+<tr>
+<td>Research Briefer</td>
+<td>Guidebook Ch. 2</td>
+<td>Bill 2</td>
+</tr>
+<tr>
+<td>Consultation Report</td>
+<td>Annex D</td>
+<td>Bill 3</td>
+</tr>
+<tr>
+<td>Pre-Drafting Checklist</td>
+<td>Guidebook App. D</td>
+<td>Bill 5</td>
+</tr>
+<tr>
+<td>Quality Review Checklist</td>
+<td>Guidebook App. E</td>
+<td>Bill 5</td>
+</tr>
+<tr>
+<td>Resolution Checklist</td>
+<td>Guidebook Ch. 5</td>
+<td>Res. 4</td>
+</tr>
+<tr>
+<td>Amendment Phrases</td>
+<td>Guidebook Ch. 10</td>
+<td>Amend. 2</td>
+</tr>
+<tr>
+<td># Chapter IV — Legislative Briefer and CSW Operations</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="41-overview">4.1 Overview</h2>
+<p><strong>Briefers</strong> are decision-support documents. They give the MP everything needed to participate in a legislative proceeding — the analysis, the questions, the recommendations, and the prepared materials. The MP reads the briefer, decides, and acts.</p>
+<p>All briefers follow the <strong>Completed Staff Work (CSW)</strong> framework. The staff does the full analysis. The MP makes the decision. If the MP has to go look something up after reading your briefer, the staff work is incomplete.</p>
+<p>Two types of briefers are covered in this chapter:</p>
+<ul>
+<li><strong>Legislative briefers</strong> — for bills and resolutions at any stage of the lawmaking process</li>
+<li><strong>Budget briefers</strong> — for the annual <strong>Bangsamoro Expenditure Program (BEP)</strong> deliberation</li>
+</ul>
+<p>Both types use the same CSW standards. Both pass through the same quality pipeline (Chapter V). The difference is scope: legislative briefers analyze a single measure; budget briefers analyze an agency&rsquo;s entire budget proposal.</p>
+<p><strong>Reference:</strong> Guidebook Chapter 8 (Legislative Briefer), Chapter 9 (Budget Briefer), Appendix F (Briefer Template), Appendix G (Budget Template).</p>
+<hr>
+<h2 id="42-legislative-briefer-workflow">4.2 Legislative Briefer Workflow</h2>
+<h3 id="when-to-prepare-a-briefer">When to Prepare a Briefer</h3>
+<p>Prepare a legislative briefer in any of these situations:</p>
+<ul>
+<li><strong>For bills your office drafted</strong> — defense preparation before committee hearings or plenary</li>
+<li><strong>For bills filed by other MPs</strong> — analysis and position-taking on referred measures</li>
+<li><strong>For committee referrals and hearings</strong> — any measure scheduled before a committee the MP sits on</li>
+<li><strong>For interpellation and plenary deliberation</strong> — when a bill reaches second reading</li>
+</ul>
+<p>Not every bill needs a full briefer. Use this rule: if the MP will speak, vote, or take a public position, prepare a briefer.</p>
+<h3 id="step-by-step-process">Step-by-Step Process</h3>
+<p><strong>Step 1 — Receive the trigger.</strong>
+A bill is filed. A committee hearing is scheduled. A plenary date is set. The Chief of Staff identifies the trigger and initiates the briefer assignment.</p>
+<p><strong>Step 2 — Determine briefer type.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>When to Use</th>
+<th>Depth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Full</strong></td>
+<td>Complex, priority, or controversial bill; MP-sponsored; budget &gt;PhP10M</td>
+<td>All 15 sections (App. F)</td>
+</tr>
+<tr>
+<td><strong>Short-form</strong></td>
+<td>Routine measure, admin adjustment, minor amendment</td>
+<td>Sections 1-3, 7, 12 minimum</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Step 3 — Assign staff.</strong>
+The Legislative Chief assigns the briefer to specific staff. One person owns the briefer. Other staff contribute research to specific sections.</p>
+<p><strong>Step 4 — Complete the briefer sections.</strong></p>
+<p>The <strong>15 sections</strong> of Appendix F are grouped into three blocks:</p>
+<p><strong>Analysis Block (Sections 1-6):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Brief Description</td>
+<td>Bill snapshot — number, title, author, status, next proceeding</td>
+</tr>
+<tr>
+<td>2. Related Laws</td>
+<td>BOL provisions, existing BAAs, national laws, Shari&rsquo;ah considerations</td>
+</tr>
+<tr>
+<td>3. Impact Assessment</td>
+<td>Alignment with MP&rsquo;s agenda, BDP goals, GAD assessment</td>
+</tr>
+<tr>
+<td>4. Implementing Agencies</td>
+<td>Who implements, capacity gaps, coordination requirements</td>
+</tr>
+<tr>
+<td>5. Implementation Analysis</td>
+<td>Timeline, phasing, IRR requirements, transition provisions</td>
+</tr>
+<tr>
+<td>6. Fiscal Impact</td>
+<td>Cost estimates, funding source, budget implications</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Proceeding Preparation Block (Sections 7-11):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7. Previous Proceedings</td>
+<td>What happened at earlier hearings, positions taken, amendments adopted</td>
+</tr>
+<tr>
+<td>8. Interpellation Questions</td>
+<td>Prepared questions the MP can ask during deliberation</td>
+</tr>
+<tr>
+<td>9. Proposed Amendments</td>
+<td>Draft amendment text with justification for each</td>
+</tr>
+<tr>
+<td>10. Speech / Manifestation</td>
+<td>Draft sponsorship speech or 1-minute manifestation</td>
+</tr>
+<tr>
+<td>11. Vote Statement</td>
+<td>Recommended position — support, oppose, or abstain — with rationale</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Administrative Block (Sections 12-15):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12. Matters for MP&rsquo;s Information</td>
+<td>Political context, media coverage, stakeholder positions</td>
+</tr>
+<tr>
+<td>13. Action Log</td>
+<td>Date-stamped record of all actions taken on this briefer</td>
+</tr>
+<tr>
+<td>14. Supervisory Review</td>
+<td>Chief of Staff sign-off confirming completeness and quality</td>
+</tr>
+<tr>
+<td>15. MP Approval</td>
+<td>MP&rsquo;s decision — approved, modified, or returned</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Step 5 — Submit for review.</strong>
+The drafter submits the completed briefer to the Legislative Chief, who reviews for accuracy and compliance with the Guidebook. The Legislative Chief then forwards it to the Chief of Staff for supervisory review.</p>
+<p><strong>Step 6 — Present to the MP.</strong>
+The Chief of Staff presents the briefer to the MP. The MP reviews and decides: approve, modify, or return for further work. Mark the decision in Section 15.</p>
+<p><strong>Step 7 — Post-proceeding update.</strong>
+After the hearing or plenary session, annotate the briefer with actual outcomes. Record what questions were asked, what amendments passed, what position the MP took, and what follow-up is needed. This becomes the institutional record.</p>
+<h3 id="timeline">Timeline</h3>
+<table>
+<thead>
+<tr>
+<th>Briefer Type</th>
+<th>Deadline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Full briefer</strong></td>
+<td>5-10 working days before the proceeding</td>
+</tr>
+<tr>
+<td><strong>Short-form briefer</strong></td>
+<td>2-3 working days before the proceeding</td>
+</tr>
+</tbody>
+</table>
+<p>Build backward from the proceeding date. If the committee hearing is on a Thursday, a full briefer should reach the MP by the prior Monday at latest — giving the MP time to read, ask questions, and request changes.</p>
+<hr>
+<h2 id="43-budget-briefer-workflow">4.3 Budget Briefer Workflow</h2>
+<h3 id="when-to-prepare-a-budget-briefer">When to Prepare a Budget Briefer</h3>
+<p>The trigger is the annual <strong>BEP submission</strong>. When the Chief Minister submits the Bangsamoro Expenditure Program to the Parliament, every MP office prepares budget briefers for the agencies the MP will scrutinize.</p>
+<p>Prepare <strong>one briefer per agency</strong>. The MP&rsquo;s portfolio typically includes:</p>
+<ul>
+<li>Agencies under the MP&rsquo;s <strong>committee assignments</strong></li>
+<li>Agencies relevant to the MP&rsquo;s <strong>legislative agenda or advocacy areas</strong></li>
+<li>Agencies the Chief of Staff identifies as <strong>strategic priorities</strong></li>
+</ul>
+<h3 id="step-by-step-process_1">Step-by-Step Process</h3>
+<p><strong>Step 1 — Receive the BEP.</strong>
+The Parliament distributes the Bangsamoro Expenditure Program to all MP offices. The Chief of Staff secures a copy and begins assignment planning.</p>
+<p><strong>Step 2 — Identify agencies.</strong>
+The Chief of Staff determines which agencies the MP will review based on committee assignments, advocacy areas, and strategic priorities. Create a master list.</p>
+<p><strong>Step 3 — Assign staff.</strong>
+Assign one briefer per agency to a specific staff member. For large agencies (MFBM, MOH, MBHTE), the Legislative Chief may lead the briefer personally.</p>
+<p><strong>Step 4 — Complete the briefer sections.</strong></p>
+<p>The <strong>16 sections</strong> of Appendix G are grouped into four blocks:</p>
+<p><strong>Agency Profile Block (Sections 1-4):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Agency Profile</td>
+<td>Name, mandate, organizational structure, key officials</td>
+</tr>
+<tr>
+<td>2. Legal Mandate</td>
+<td>Enabling legislation, BOL provisions, relevant BAAs</td>
+</tr>
+<tr>
+<td>3. Strategic Goals</td>
+<td>Agency goals aligned with the BDP 2023-2028</td>
+</tr>
+<tr>
+<td>4. Key Performance Indicators</td>
+<td>KPIs, targets, and actual performance for the past 2-3 years</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Budget Analysis Block (Sections 5-7):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5. Budget Comparison</td>
+<td>3-year trend; PS/MOOE/CO breakdown; absorption rate; variance analysis</td>
+</tr>
+<tr>
+<td>6. Existing PPAS (Tier 1)</td>
+<td>Continuing programs, activities, and projects — are they performing?</td>
+</tr>
+<tr>
+<td>7. New PPAS (Tier 2)</td>
+<td>Proposed new spending — is it justified, costed, and ready to implement?</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Scrutiny Block (Sections 8-14):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8. Beneficiary Analysis</td>
+<td>Who benefits from the agency&rsquo;s programs? Distribution across provinces?</td>
+</tr>
+<tr>
+<td>9. Laws for Implementation</td>
+<td>Which enacted BAAs require funding through this agency&rsquo;s budget?</td>
+</tr>
+<tr>
+<td>10. GAD Budget Review</td>
+<td>Does the agency meet the 5% GAD allocation? Is the GAD plan substantive?</td>
+</tr>
+<tr>
+<td>11. Special Provisions</td>
+<td>Analysis of any special provisions attached to the agency&rsquo;s budget</td>
+</tr>
+<tr>
+<td>12. Budget Scrutiny Questions</td>
+<td>Prepared questions for the Committee on Finance hearing</td>
+</tr>
+<tr>
+<td>13. Recommendations</td>
+<td>Staff recommendation — approve, reduce, increase, or realign specific items</td>
+</tr>
+<tr>
+<td>14. 1-Minute Manifestation</td>
+<td>Draft statement the MP can deliver during plenary budget deliberation</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Administrative Block (Sections 15-16):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15. Action Log</td>
+<td>Date-stamped record of all actions taken on this briefer</td>
+</tr>
+<tr>
+<td>16. Approval</td>
+<td>Supervisory review and MP sign-off</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Step 5 — Submit for review.</strong>
+Same process as the legislative briefer: drafter to Legislative Chief to Chief of Staff.</p>
+<p><strong>Step 6 — Present to the MP.</strong>
+The MP reviews the complete set of budget briefers. The Chief of Staff may schedule a dedicated briefing session for all agency budgets at once.</p>
+<p><strong>Step 7 — Post-hearing update.</strong>
+After the Committee on Finance hearing, annotate the briefer with actual outcomes — questions raised, commitments made by the agency, amendments adopted, and follow-up items.</p>
+<h3 id="timeline_1">Timeline</h3>
+<table>
+<thead>
+<tr>
+<th>Milestone</th>
+<th>Deadline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Budget briefers completed</strong></td>
+<td>2 weeks before the Committee on Finance hearing</td>
+</tr>
+<tr>
+<td><strong>Data gathering begins</strong></td>
+<td>The day the BEP is filed with Parliament</td>
+</tr>
+</tbody>
+</table>
+<p>Budget briefers take longer than legislative briefers because of the data requirements. Start early. Waiting until the week before the hearing guarantees incomplete analysis.</p>
+<h3 id="key-budget-thresholds-to-check">Key Budget Thresholds to Check</h3>
+<p>Every budget briefer should verify these statutory benchmarks (from <strong>BAA No. 84</strong> and the annual <strong>BBM</strong>):</p>
+<table>
+<thead>
+<tr>
+<th>Threshold</th>
+<th>Standard</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>PS cap</strong></td>
+<td>Not more than 45% of total revenue source</td>
+<td>BBM</td>
+</tr>
+<tr>
+<td><strong>Development spending floor</strong></td>
+<td>At least 20% of total annual appropriation</td>
+<td>BBM</td>
+</tr>
+<tr>
+<td><strong>DRRM allocation</strong></td>
+<td>At least 5% of total appropriations (70% agency / 30% QRF)</td>
+<td>BBM</td>
+</tr>
+<tr>
+<td><strong>GAD allocation</strong></td>
+<td>At least 5% of each agency&rsquo;s budget</td>
+<td>BAA No. 84, Sec. 17</td>
+</tr>
+<tr>
+<td><strong>Education, health, social services</strong></td>
+<td>Highest budgetary priority</td>
+<td>BAA No. 84, Sec. 17</td>
+</tr>
+</tbody>
+</table>
+<p>When an agency&rsquo;s numbers fall outside these thresholds, flag it. That is a ready-made scrutiny question.</p>
+<hr>
+<h2 id="44-csw-standards">4.4 CSW Standards</h2>
+<p>Every briefer — legislative or budget — must meet these <strong>seven standards</strong> before it reaches the MP:</p>
+<ol>
+<li><strong>Accuracy</strong> — Every fact is verified. Every citation is checked. Every number traces to a source document.</li>
+<li><strong>Completeness</strong> — All required sections are filled. No placeholders. No &ldquo;TBD&rdquo; items.</li>
+<li><strong>Clarity</strong> — The MP can read and understand the briefer without asking for explanation. Plain language. Short sentences.</li>
+<li><strong>Timeliness</strong> — Delivered before the proceeding. A briefer that arrives after the hearing is useless.</li>
+<li><strong>Alignment</strong> — Consistent with the MP&rsquo;s legislative agenda and policy positions.</li>
+<li><strong>Review</strong> — Passed through supervisory review (Legislative Chief and Chief of Staff) before reaching the MP.</li>
+<li><strong>Presentation</strong> — Professionally formatted, properly cited, and ready for immediate use.</li>
+</ol>
+<p><strong>The CSW test.</strong> Before you submit any briefer, ask yourself: <em>&ldquo;Is this a finished product that requires minimal to no further modification from the MP?&rdquo;</em> If the answer is no, it is not Completed Staff Work. Go back and finish it.</p>
+<hr>
+</div><div class="chapter"><h1 id="chapter-v-quality-standards-and-review">Chapter V — Quality Standards and Review</h1>
+<h2 id="51-overview">5.1 Overview</h2>
+<p>Quality is not optional. A briefer with wrong BAA numbers damages the MP&rsquo;s credibility in committee. A bill with a misspelled official name embarrasses the office on the floor. A budget analysis with outdated figures undermines the MP&rsquo;s scrutiny questions.</p>
+<p>This chapter establishes the <strong>quality pipeline</strong> that every legislative output must pass through — bills, resolutions, amendments, briefers, and budget analyses. No document leaves the office without completing this pipeline.</p>
+<hr>
+<h2 id="52-quality-pipeline">5.2 Quality Pipeline</h2>
+<p>Every document passes through <strong>four steps</strong>, in sequence. No step may be skipped.</p>
+<h3 id="step-1-self-check">Step 1 — Self-Check</h3>
+<p>The drafter reviews their own work using the <strong>Quality Review Checklist</strong> (Guidebook Appendix E). The checklist covers:</p>
+<ul>
+<li><strong>Legal authority</strong> — BOL compliance, no conflict with Constitution or national law</li>
+<li><strong>Structure</strong> — all required sections present, logical organization</li>
+<li><strong>Language</strong> — clear, precise, no archaic legalisms, gender-inclusive</li>
+<li><strong>Completeness</strong> — no missing sections, no placeholders</li>
+<li><strong>Formatting</strong> — consistent numbering, correct citation format</li>
+</ul>
+<p>Do not submit a draft without completing the self-check. The checklist exists precisely for this step.</p>
+<h3 id="step-2-peer-review">Step 2 — Peer Review</h3>
+<p>A colleague reviews the document. <strong>Fresh eyes catch what familiarity hides.</strong> The drafter is too close to the text to see every error.</p>
+<p>The peer reviewer checks for:</p>
+<ul>
+<li>Factual errors the drafter missed</li>
+<li>Unclear or ambiguous language</li>
+<li>Missing cross-references</li>
+<li>Inconsistencies between sections</li>
+<li>Typographical and formatting errors</li>
+</ul>
+<p>The peer reviewer does not rewrite the document. They flag problems. The drafter fixes them.</p>
+<h3 id="step-3-supervisory-review">Step 3 — Supervisory Review</h3>
+<p>The <strong>Chief of Staff</strong> or <strong>Legislative Chief</strong> reviews the document for:</p>
+<ul>
+<li><strong>Policy alignment</strong> — does this reflect the MP&rsquo;s position and legislative agenda?</li>
+<li><strong>Legal accuracy</strong> — are BOL citations correct? Are BAA references accurate?</li>
+<li><strong>Factual accuracy</strong> — are names, titles, dates, and numbers correct?</li>
+<li><strong>Section completeness</strong> — are all required sections filled with substantive content?</li>
+<li><strong>CSW compliance</strong> — is this truly a finished product ready for the MP&rsquo;s decision?</li>
+</ul>
+<p>The supervisory reviewer has authority to return the document to the drafter for revision. A document is not &ldquo;cleared&rdquo; until the supervisory reviewer signs off.</p>
+<h3 id="step-4-mp-review-and-approval">Step 4 — MP Review and Approval</h3>
+<p>The MP reviews the final product and decides:</p>
+<ul>
+<li><strong>Approve</strong> — the document is accepted as-is</li>
+<li><strong>Modify</strong> — the MP directs specific changes; staff implements and resubmits</li>
+<li><strong>Return</strong> — the document needs substantial revision; it goes back to Step 1</li>
+</ul>
+<p>Record the MP&rsquo;s decision in the document&rsquo;s approval block. Date-stamp every decision.</p>
+<hr>
+<h2 id="53-fact-checking-standards">5.3 Fact-Checking Standards</h2>
+<p>These categories <strong>must be verified</strong> before any document reaches the MP:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Check</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>People</strong></td>
+<td>Full names, current titles</td>
+<td>Officials reference</td>
+</tr>
+<tr>
+<td><strong>Legislation</strong></td>
+<td>BAA/RA numbers, sections</td>
+<td>Bills and Index Division; BOL</td>
+</tr>
+<tr>
+<td><strong>Dates</strong></td>
+<td>Events, deadlines, enactment</td>
+<td>Official Gazette; journal</td>
+</tr>
+<tr>
+<td><strong>Numbers</strong></td>
+<td>Stats, budgets, percentages</td>
+<td>BEP; COA; PSA BARMM</td>
+</tr>
+<tr>
+<td><strong>Organizations</strong></td>
+<td>Names, acronyms</td>
+<td>BAA 13</td>
+</tr>
+<tr>
+<td><strong>Places</strong></td>
+<td>Provinces, municipalities</td>
+<td>Note: Mag. del Norte vs. del Sur</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rule of thumb:</strong> If a fact appears in the document, it must trace to a source. If you cannot identify the source, do not include the fact.</p>
+<hr>
+<h2 id="54-version-control">5.4 Version Control</h2>
+<p>Every document is versioned from the moment it is created.</p>
+<p><strong>Versioning convention:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>v1.0</strong></td>
+<td>Initial draft</td>
+</tr>
+<tr>
+<td><strong>v1.1, v1.2</strong></td>
+<td>Minor revisions (corrections, formatting, clarifications)</td>
+</tr>
+<tr>
+<td><strong>v2.0</strong></td>
+<td>Major revision (new sections, substantive policy changes, structural reorganization)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li><strong>Date-stamp</strong> every version in the document header</li>
+<li><strong>Maintain a revision log</strong> for each document:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Version</th>
+<th>Changes Made</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Keep all versions.</strong> Never delete a previous draft. Previous versions are part of the institutional record.</li>
+<li><strong>Label clearly.</strong> The filename or header must indicate the current version. Never leave staff or the MP guessing which version is current.</li>
+</ul>
+<hr>
+<h2 id="55-filing-and-records-management">5.5 Filing and Records Management</h2>
+<h3 id="master-file-system">Master File System</h3>
+<p>Maintain a <strong>master file</strong> for each legislative measure the office handles — whether your office authored it or is analyzing another office&rsquo;s bill.</p>
+<p><strong>Each master file contains:</strong></p>
+<ul>
+<li>All drafts (every version, from initial to final)</li>
+<li>Research memoranda and data compilations</li>
+<li>Consultation reports and stakeholder inputs</li>
+<li>Legislative briefers (all versions, including post-proceeding annotations)</li>
+<li>Correspondence (co-authorship agreements, committee communications)</li>
+<li>Supporting documents (COA reports, agency data, comparative legislation)</li>
+</ul>
+<h3 id="digital-filing-convention">Digital Filing Convention</h3>
+<p>Organize digital files by <strong>measure number</strong>:</p>
+<pre><code>BTA-Bill-2026-001/
+  ├── drafts/
+  │   ├── v1.0-initial-draft.md
+  │   ├── v1.1-peer-reviewed.md
+  │   └── v2.0-committee-version.md
+  ├── research/
+  │   ├── research-memo.md
+  │   └── comparative-analysis.md
+  ├── briefers/
+  │   ├── legislative-briefer-v1.0.md
+  │   └── legislative-briefer-v1.1-post-hearing.md
+  ├── correspondence/
+  └── supporting-docs/
+</code></pre>
+<h3 id="physical-filing">Physical Filing</h3>
+<ul>
+<li><strong>Labeled folders</strong> in chronological order</li>
+<li>One folder per legislative measure</li>
+<li>Color-code by type: bills (blue), resolutions (green), budget briefers (yellow)</li>
+</ul>
+<h3 id="retention-schedule">Retention Schedule</h3>
+<table>
+<thead>
+<tr>
+<th>Document Type</th>
+<th>Retention Period</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Enacted legislation</strong> (all drafts and supporting files)</td>
+<td>Permanent</td>
+</tr>
+<tr>
+<td><strong>Non-enacted measures</strong></td>
+<td>5 years from end of parliamentary term</td>
+</tr>
+<tr>
+<td><strong>Budget briefers</strong></td>
+<td>5 years from fiscal year covered</td>
+</tr>
+<tr>
+<td><strong>Internal memoranda</strong></td>
+<td>3 years</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</div><div class="chapter"><h1 id="chapter-vi-annexes">Chapter VI — Annexes</h1>
+<h2 id="annex-a-legislative-directive-form">Annex A — Legislative Directive Form</h2>
+<p>Use this form when the MP issues an instruction to research, draft, or prepare a legislative measure.</p>
+<hr>
+<p><strong>LEGISLATIVE DIRECTIVE</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Date:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Directive No.:</strong></td>
+<td>LD-........-........</td>
+</tr>
+<tr>
+<td><strong>MP Name:</strong></td>
+<td>........................</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Entry</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Topic / Subject of Legislation</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Type</strong></td>
+<td>[ ] Bill  [ ] Resolution  [ ] Amendment</td>
+</tr>
+<tr>
+<td><strong>Policy Objective</strong> (1-2 sentences)</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Target Beneficiaries</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Priority Level</strong></td>
+<td>[ ] Urgent  [ ] High  [ ] Normal</td>
+</tr>
+<tr>
+<td><strong>Timeline for Completion</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Special Instructions</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MP Signature:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Date Received by Staff:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Assigned To:</strong></td>
+<td>........................</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="annex-b-bill-drafting-workflow-flowchart">Annex B — Bill Drafting Workflow Flowchart</h2>
+<p>The bill drafting workflow follows <strong>seven stages</strong> in sequence. Two stages include decision points that may loop back to an earlier stage.</p>
+<p><strong>Stage 1 — Legislative Directive.</strong> The MP issues a written or verbal directive. Staff records it using Annex A.</p>
+<p><strong>Stage 2 — Research and Pre-Drafting.</strong> Staff conducts legal research, gathers data, consults stakeholders, and completes the Pre-Drafting Checklist (Guidebook Appendix D).</p>
+<p><strong>Stage 3 — First Draft.</strong> The Legislative Chief or assigned staff produces the initial draft, following the Guidebook&rsquo;s structural and style requirements.</p>
+<p><strong>Stage 4 — Internal Review Cycle.</strong> The draft passes through self-check, peer review, and supervisory review (Chapter V quality pipeline).</p>
+<p><strong>Stage 5 — MP Review.</strong> [DECISION POINT] The MP reviews the draft.
+- If <strong>approved</strong>: proceed to Stage 6.
+- If <strong>returned with modifications</strong>: return to Stage 3 or Stage 4, depending on the scope of changes.</p>
+<p><strong>Stage 6 — Final Preparation and Filing.</strong> Staff prepares the final package — bill text, explanatory note, sponsorship speech — and transmits to the Bills and Index Division.</p>
+<p><strong>Stage 7 — Post-Filing Tracking.</strong> Staff tracks the bill through committee referral, hearings, plenary deliberation, and voting. Prepare briefers at each stage as needed.</p>
+<blockquote>
+<p><strong>Decision loop at Stage 5:</strong> If the MP returns the draft, the workflow loops back. Minor modifications loop to Stage 4 (review). Major changes loop to Stage 3 (redraft). The workflow continues forward only when the MP approves.</p>
+</blockquote>
+<hr>
+<h2 id="annex-c-research-memorandum-template">Annex C — Research Memorandum Template</h2>
+<hr>
+<p><strong>RESEARCH MEMORANDUM</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Date:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Bill Topic:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Researcher:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Reviewed By:</strong></td>
+<td>........................</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>1. Legal Framework Analysis</strong></p>
+<p>Identify all relevant legal instruments: BOL provisions, existing BAAs, national laws, IRRs, and Supreme Court decisions. State the specific sections and explain how they relate to the proposed legislation.</p>
+<p><em>(Space for analysis)</em></p>
+<p><strong>2. Policy Analysis</strong></p>
+<p>Describe the policy problem. Present available data and evidence. Identify the policy options and their trade-offs.</p>
+<p><em>(Space for analysis)</em></p>
+<p><strong>3. Stakeholder Positions</strong></p>
+<table>
+<thead>
+<tr>
+<th>Stakeholder</th>
+<th>Position</th>
+<th>Key Concerns</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>4. Fiscal Implications</strong></p>
+<p>Estimated costs, funding sources, and budget impact. Identify whether new appropriations are required or existing BEP lines can absorb the cost.</p>
+<p><em>(Space for analysis)</em></p>
+<p><strong>5. Recommendations</strong></p>
+<p>Based on the analysis above, recommend a course of action for the draft bill.</p>
+<p><em>(Space for recommendations)</em></p>
+<p><strong>6. Sources Consulted</strong></p>
+<p>List all sources used: laws, reports, data sets, interviews, and comparative legislation.</p>
+<hr>
+<h2 id="annex-d-consultation-report-template">Annex D — Consultation Report Template</h2>
+<hr>
+<p><strong>CONSULTATION REPORT</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Date of Consultation:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Bill Topic:</strong></td>
+<td>........................</td>
+</tr>
+<tr>
+<td><strong>Prepared By:</strong></td>
+<td>........................</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Stakeholders Consulted:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Organization</th>
+<th>Position/Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key Inputs Received:</strong></p>
+<p><em>(Summarize the substantive inputs from each stakeholder or group)</em></p>
+<p><strong>Areas of Agreement:</strong></p>
+<p><em>(List the points where stakeholders agreed with the proposed legislation or its approach)</em></p>
+<p><strong>Areas of Disagreement:</strong></p>
+<p><em>(List the points of contention, differing positions, and unresolved issues)</em></p>
+<p><strong>Recommendations for the Draft:</strong></p>
+<p><em>(Based on the consultation, recommend specific provisions to add, modify, or remove)</em></p>
+<hr>
+<h2 id="annex-e-cross-reference-to-bill-drafting-guidebook">Annex E — Cross-Reference to Bill Drafting Guidebook</h2>
+<p>This table maps each MOP section to the corresponding Guidebook chapter and appendix. Use it to find detailed guidance on any topic covered in this MOP.</p>
+<table>
+<thead>
+<tr>
+<th>MOP</th>
+<th>Topic</th>
+<th>Guidebook Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3.2</td>
+<td>Bill Drafting</td>
+<td>Ch. 2, 3, 6; App. D</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>Resolution Drafting</td>
+<td>Ch. 5; App. C</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>Amendment Drafting</td>
+<td>Ch. 10</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Legislative Briefer</td>
+<td>Ch. 8; App. F</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Budget Briefer</td>
+<td>Ch. 9; App. G</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>Quality Pipeline</td>
+<td>Ch. 11; App. D, E</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>Fact-Checking</td>
+<td>Ch. 11, Sec. 11.1; App. E</td>
+</tr>
+<tr>
+<td>5.4</td>
+<td>Version Control</td>
+<td>Ch. 8, Sec. 8.1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="annex-f-amendment-log-template">Annex F — Amendment Log Template</h2>
+<p>Use this log to track all amendments to this Manual of Operations (see Section 1.5).</p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Section</th>
+<th>Change</th>
+<th>By</th>
+<th>Approved</th>
+<th>Effective</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="annex-g-glossary-of-acronyms">Annex G — Glossary of Acronyms</h2>
+<table>
+<thead>
+<tr>
+<th>Acronym</th>
+<th>Full Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>BAA</strong></td>
+<td>Bangsamoro Autonomy Act</td>
+</tr>
+<tr>
+<td><strong>BDP</strong></td>
+<td>Bangsamoro Development Plan</td>
+</tr>
+<tr>
+<td><strong>BEP</strong></td>
+<td>Bangsamoro Expenditure Program</td>
+</tr>
+<tr>
+<td><strong>BOL</strong></td>
+<td>Bangsamoro Organic Law (Republic Act No. 11054)</td>
+</tr>
+<tr>
+<td><strong>BTA</strong></td>
+<td>Bangsamoro Transition Authority</td>
+</tr>
+<tr>
+<td><strong>BWC</strong></td>
+<td>Bangsamoro Women Commission</td>
+</tr>
+<tr>
+<td><strong>CO</strong></td>
+<td>Capital Outlay</td>
+</tr>
+<tr>
+<td><strong>COA</strong></td>
+<td>Commission on Audit</td>
+</tr>
+<tr>
+<td><strong>CSW</strong></td>
+<td>Completed Staff Work</td>
+</tr>
+<tr>
+<td><strong>DRRM</strong></td>
+<td>Disaster Risk Reduction and Management</td>
+</tr>
+<tr>
+<td><strong>GAD</strong></td>
+<td>Gender and Development</td>
+</tr>
+<tr>
+<td><strong>GABB</strong></td>
+<td>General Appropriations Bill of the Bangsamoro</td>
+</tr>
+<tr>
+<td><strong>IRR</strong></td>
+<td>Implementing Rules and Regulations</td>
+</tr>
+<tr>
+<td><strong>KPI</strong></td>
+<td>Key Performance Indicator</td>
+</tr>
+<tr>
+<td><strong>MFBM</strong></td>
+<td>Ministry of Finance, Budget and Management</td>
+</tr>
+<tr>
+<td><strong>MOP</strong></td>
+<td>Manual of Operations</td>
+</tr>
+<tr>
+<td><strong>MOOE</strong></td>
+<td>Maintenance and Other Operating Expenses</td>
+</tr>
+<tr>
+<td><strong>PPAS</strong></td>
+<td>Programs, Projects, Activities, and Sub-activities</td>
+</tr>
+<tr>
+<td><strong>PREXC</strong></td>
+<td>Program Expenditure Classification</td>
+</tr>
+<tr>
+<td><strong>PS</strong></td>
+<td>Personnel Services</td>
+</tr>
+<tr>
+<td><strong>QRF</strong></td>
+<td>Quick Response Fund</td>
+</tr>
+</tbody>
+</table></div>
+
+</body>
+</html>

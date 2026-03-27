@@ -2,7 +2,7 @@
 
 A bill is not a wish list. It is a set of instructions to the government, written in a form that courts will interpret and agencies will carry out long after the drafter has moved on. The structure of a bill exists for a reason: each part does specific work, and when parts are missing or out of order, the entire law suffers.
 
-This chapter walks through every component of a Bangsamoro Autonomy Act, from the caption down to the effectivity clause, explaining what each part does, how to write it, and what mistakes to avoid.
+This chapter walks through every component of a Bangsamoro Autonomy Act, from the caption down to the effectivity clause, explaining what each part does, how to write it, and what mistakes to avoid. Your job is to get every part right.
 
 ---
 

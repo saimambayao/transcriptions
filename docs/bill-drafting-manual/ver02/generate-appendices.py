@@ -157,6 +157,31 @@ def post_process_html(html: str) -> str:
     return html
 
 
+def post_process_form_tables(html: str) -> str:
+    """Add form-table and kv-table classes to tables in template appendices (F, G).
+
+    - 2-column tables (exactly 2 <th>) get class="kv-table form-table"
+    - All other tables get class="form-table"
+    - Sequences of <p>&nbsp;</p> are replaced with <div class="write-area"></div>
+    """
+    def classify_table(match):
+        table_html = match.group(0)
+        # Count <th> elements in the thead
+        th_count = len(re.findall(r'<th', table_html))
+        if th_count == 2:
+            return table_html.replace('<table>', '<table class="kv-table form-table">', 1)
+        else:
+            return table_html.replace('<table>', '<table class="form-table">', 1)
+
+    # Match full table blocks (from <table> to </table>)
+    html = re.sub(r'<table>.*?</table>', classify_table, html, flags=re.DOTALL)
+
+    # Replace sequences of <p>&nbsp;</p> with a single write-area div
+    html = re.sub(r'(?:<p>\s*&nbsp;\s*</p>\s*)+', '<div class="write-area"></div>\n', html)
+
+    return html
+
+
 def build_appendix_html(appendix_key: str, md_content: str, use_landscape: bool) -> str:
     """Build the complete HTML document for a single appendix.
 
@@ -182,6 +207,10 @@ def build_appendix_html(appendix_key: str, md_content: str, use_landscape: bool)
 
     # Apply post-processing
     wrapped = post_process_html(wrapped)
+
+    # For template appendices (F, G), add form-table classes and write areas
+    if appendix_key in ("F", "G"):
+        wrapped = post_process_form_tables(wrapped)
 
     # Replace the cover page in the template with nothing (no cover for appendices)
     # and inject content

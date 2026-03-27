@@ -1,8 +1,8 @@
 # Chapter 4: Special Bill Types
 
-The standard bill structure described in Chapter 3 applies to every piece of legislation. But certain categories of bills carry additional requirements — constitutional constraints, BOL mandates, or procedural rules that do not apply to ordinary legislation. If you draft one of these special bill types without knowing the extra rules, your bill will have structural flaws that no amount of polishing can fix.
+Your MP wants an appropriation bill. Or a revenue measure. Or a bill creating an entirely new government agency. You know the standard bill structure from Chapter 3 — but these special bill types carry additional requirements that the standard structure does not cover. Constitutional constraints, BOL mandates, procedural rules that apply only to specific categories of legislation. If you draft one of these without knowing the extra rules, your bill will have structural flaws that no amount of polishing can fix.
 
-This chapter covers six categories of bills that require special attention: appropriation bills, revenue and tax measures, bills creating government bodies, regulatory and licensing bills, codification bills, and local and special bills.
+This chapter covers six categories of bills that require special attention: appropriation bills, revenue and tax measures, bills creating government bodies, regulatory and licensing bills, codification bills, and local and special bills. Each section tells you what makes the category different and what you need to get right.
 
 ---
 
@@ -97,7 +97,7 @@ Revenue bills create new taxes, fees, or charges, or modify existing ones. They 
 - **Harmonization.** Section 6, Article XII requires consistency with the principle of harmonization. Your revenue measure should not create double taxation or conflict with national tax laws without justification. Work with the IGFPB framework.
 - **Effectivity.** Tax laws often take effect at the start of a fiscal year rather than fifteen days after publication, to allow taxpayers time to adjust. Consider whether a delayed effectivity date is appropriate.
 
-**Shari'ah-compliant financing and Islamic economic principles.** Revenue measures in the Bangsamoro should be drafted with awareness of Islamic economic principles. The BOL recognizes the Bangsamoro identity and the role of Islamic law. While the taxing power itself is not constrained to Shari'ah-compliant forms, the drafter should consider how Islamic finance principles — such as the prohibition of *riba* (interest) and the concept of *zakat* — interact with the tax system. If the Revenue Code incorporates *zakat* collection, it raises unique drafting questions about the relationship between religious obligation and state taxation.
+**Shari'ah-compliant financing and Islamic economic principles.** Revenue measures in the Bangsamoro should be drafted with awareness of Islamic economic principles. The BOL recognizes the Bangsamoro identity and the role of Islamic law. While the taxing power itself is not constrained to Shari'ah-compliant forms, the drafter should consider how Islamic finance principles interact with the tax system. Two concepts matter most: the prohibition of *riba* (interest) and the concept of *zakat*. If the Revenue Code incorporates *zakat* collection, it raises unique drafting questions about the relationship between religious obligation and state taxation.
 
 **Revenue-sharing with local government units.** Section 35, Article XII of the BOL provides a specific formula for sharing revenues from natural resources: 30% to the Bangsamoro Government, 20% to provinces, 15% to cities, 20% to municipalities, and 15% to barangays. Any revenue bill that affects revenue distribution must be consistent with this formula or must amend it through the proper process.
 

@@ -1,6 +1,6 @@
 # Chapter 5 — Resolutions
 
-A bill creates law. A resolution does not. That single difference changes almost everything about how you draft the document — its structure, its language, the process it follows, and the legal weight it carries after adoption. This chapter covers what you need to know to draft resolutions for the Bangsamoro Parliament, focusing on what is different from the bill-drafting process covered in Chapters 2 through 4.
+A bill creates law. A resolution does not. That single difference changes almost everything about how you draft the document — its structure, its language, the process it follows, and the legal weight it carries after adoption. This chapter covers what you need to know to draft resolutions for the Bangsamoro Parliament, focusing on what is different from the bill-drafting process covered in Chapters 2 through 4. If you have mastered bill drafting, resolutions will feel simpler — but the differences matter.
 
 ---
 

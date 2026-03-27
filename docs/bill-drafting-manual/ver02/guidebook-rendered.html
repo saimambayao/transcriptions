@@ -673,6 +673,48 @@ a {
   color: #666666;
 }
 
+/* --- TEMPLATE FORM TABLES (2-column key-value) --- */
+/* Tables with exactly 2 columns where first column is a label */
+table.kv-table {
+  table-layout: fixed;
+}
+table.kv-table td:first-child,
+table.kv-table th:first-child {
+  width: 35%;
+}
+table.kv-table td:last-child,
+table.kv-table th:last-child {
+  width: 65%;
+  min-height: 8mm;
+}
+
+/* Fill-in writeable areas */
+.write-area {
+  display: block;
+  min-height: 20mm;
+  border-bottom: 0.3pt dotted #CCCCCC;
+  margin-bottom: 2mm;
+}
+
+/* Keep section headers with their content */
+h3 + p,
+h3 + table,
+h4 + p,
+h4 + table {
+  page-break-before: avoid;
+}
+
+/* Template tables need adequate row height for handwriting */
+table.form-table td {
+  min-height: 10mm;
+  padding: 3mm 4mm;
+}
+
+/* Multi-column form tables (3+ cols) - ensure reasonable distribution */
+table.form-table {
+  table-layout: fixed;
+}
+
 /* --- PRINT OPTIMIZATIONS --- */
 h1, h2, h3, h4, h5 {
   page-break-after: avoid;
@@ -1118,6 +1160,52 @@ table.allow-break tr {
 <p>In the Bangsamoro Parliament, as in most legislative bodies, the drafter often works behind the scenes. The Members of Parliament set policy. The committees deliberate. The Chief Minister and Cabinet bring executive priorities. The drafter takes all of that — the political mandate, the policy goals, the committee discussions — and turns it into a text that will carry the force of law.</p>
 <p>This means you will sometimes draft provisions you disagree with. That is part of the job. Your obligation is not to impose your own policy preferences but to express the Legislature&rsquo;s intent as clearly and accurately as you can. When you see a legal problem — a constitutional issue, a conflict with an existing BAA, a gap in the enforcement mechanism — you should raise it. That is part of the job too. But the final policy decision belongs to the Members of Parliament.</p>
 <p>It also means you must be willing to tell a committee or a Member that something cannot be done the way they want it done. Not every good policy idea translates into good legislation. Some objectives are better achieved through executive action, through intergovernmental coordination, or through amendments to existing law rather than new legislation. The drafter who identifies these distinctions earns the trust of the Parliament.</p>
+<h3 id="the-mp-office-and-its-legislative-staff">The MP Office and Its Legislative Staff</h3>
+<p>You work in an MP office. Understanding where you fit in the office structure helps you understand who reviews your work, who approves it, and who you coordinate with.</p>
+<p>The standard MP office includes these roles:</p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Position Title</th>
+<th>Primary Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MP</strong></td>
+<td>Member of Parliament</td>
+<td>Sets policy direction, issues legislative directives, approves all final outputs</td>
+</tr>
+<tr>
+<td><strong>Chief of Staff</strong></td>
+<td>Supervising Political Affairs Officer (SPAO) III or PAO VI</td>
+<td>Overall supervision and management, final clearance, political coordination</td>
+</tr>
+<tr>
+<td><strong>Legislative Chief</strong></td>
+<td>Supervising Legislative Staff Officer (SLSO) I</td>
+<td>Leads all legislative operations — drafting, research, briefers, calendar, Parliament coordination</td>
+</tr>
+<tr>
+<td><strong>Legislative Staff Officers</strong></td>
+<td>Legislative Staff Officer I-IV</td>
+<td>Conduct research, prepare initial drafts, gather data, support the Legislative Chief</td>
+</tr>
+<tr>
+<td><strong>Legislative Support Staff</strong></td>
+<td>Contract of Service or Job-Order</td>
+<td>Provide research assistance, document formatting, filing, transmittal, and administrative support</td>
+</tr>
+<tr>
+<td><strong>Consultants</strong></td>
+<td>Legal or Legislative Consultant</td>
+<td>Provide specialized legal analysis, policy research, or drafting expertise on specific measures</td>
+</tr>
+</tbody>
+</table>
+<p>Not every office has all these positions filled. In a smaller office, one person may serve as both Chief of Staff and Legislative Chief. What matters is that the functions are covered: someone researches, someone drafts, someone reviews, and the MP decides.</p>
+<p>The workflow in this manual follows this chain: <strong>Legislative Staff Officers prepare</strong> the initial work. The <strong>Legislative Chief reviews, revises, and manages</strong> the legislative operations. The <strong>Chief of Staff clears</strong> completed work for the MP — ensuring it meets overall office standards. The <strong>MP approves, modifies, or returns</strong> it. The Chief of Staff focuses on overall supervision and political coordination. The Legislative Chief owns the legislative process day-to-day.</p>
 <h3 id="a-living-instrument">A Living Instrument</h3>
 <p>The Bangsamoro legal system is still taking shape. New BAAs are enacted each session. Priority codes are being completed. The courts are developing doctrine on the scope of Bangsamoro legislative power. The Parliament&rsquo;s own practices and precedents are forming in real time.</p>
 <p>This manual will need to be updated as that body of law grows. Treat it as a starting point — the best available guidance at the time of writing — not as the last word. When a new Supreme Court decision changes the analysis, update the analysis. When the Parliament adopts a new drafting convention, record it. When experience reveals that a recommendation in this manual does not work in practice, revise it.</p>
@@ -1522,7 +1610,7 @@ table.allow-break tr {
 <div class="chapter" id="chapter-02">
 <h1 id="chapter-2-from-legislative-directive-to-bill-the-drafting-process">Chapter 2 — From Legislative Directive to Bill: The Drafting Process</h1>
 <h2 id="21-overview-seven-stages-from-legislative-directive-to-filing">2.1 Overview: Seven Stages from Legislative Directive to Filing</h2>
-<p>Every bill begins as a policy direction from a Member of Parliament. Between that initial direction and the moment the bill is filed with the Bills and Index Division, there are seven distinct stages of work. This chapter walks you through each one.</p>
+<p>An MP hands you a legislative directive. The topic is complex — maybe a new regulatory framework, maybe a budget measure with a tight deadline. The research has not started, the stakeholders have not been consulted, and the Bills and Index Division expects a properly formatted bill. What do you do first? What do you do second? This chapter gives you the answer. Between the moment you receive that directive and the moment the bill is filed, there are seven distinct stages of work, and each one exists to prevent a specific kind of failure.</p>
 <p>The seven stages are:</p>
 <ol>
 <li><strong>Legislative Directive</strong> — You receive, document, and confirm the MP&rsquo;s policy direction.</li>
@@ -1534,8 +1622,8 @@ table.allow-break tr {
 <li><strong>Co-Authorship and Filing</strong> — You identify co-authors, secure their approval, and file the bill.</li>
 </ol>
 <p>These stages are sequential in theory, but in practice you will sometimes loop back. Research may reveal that the original directive needs refining. Consultations may expose a flaw that sends you back to research. A co-author may request changes that require a new round of internal review. That is normal. The stages give you a clear path forward while allowing the flexibility that real legislative work demands.</p>
-<p>One thing should be clear from the start: this process is designed to produce bills that survive scrutiny. A bill drafted without proper research gets torn apart in committee. A bill drafted without consultation gets opposed by the very agencies meant to implement it. A bill filed without co-authors may never get calendared for debate. Each stage exists for a reason, and skipping any of them weakens the final product.</p>
 <p>A note about timing: the seven stages do not all take equal effort. Stage 2 (Research) and Stage 4 (Consultation) are usually the most time-intensive. Stage 1 might take a single meeting. Stage 7 depends on how many co-authors you pursue and how responsive they are. As you gain experience, you will develop a sense of how long each stage takes for different types of bills — a narrow amendatory bill moves faster than a bill creating a new ministry from scratch.</p>
+<p>One thing should be clear from the start: this process is designed to produce bills that survive scrutiny. A bill drafted without proper research gets torn apart in committee. A bill drafted without consultation gets opposed by the very agencies meant to implement it. A bill filed without co-authors may never get calendared for debate. Each stage exists for a reason, and skipping any of them weakens the final product.</p>
 <p>The rest of this chapter treats each stage in detail — what you do, what you produce, and what decisions you need to make before moving on.</p>
 <hr>
 <h2 id="22-stage-1-legislative-directive">2.2 Stage 1 — Legislative Directive</h2>
@@ -2371,7 +2459,7 @@ table.allow-break tr {
 <div class="chapter" id="chapter-03">
 <h1 id="chapter-3-anatomy-of-a-bill">Chapter 3: Anatomy of a Bill</h1>
 <p>A bill is not a wish list. It is a set of instructions to the government, written in a form that courts will interpret and agencies will carry out long after the drafter has moved on. The structure of a bill exists for a reason: each part does specific work, and when parts are missing or out of order, the entire law suffers.</p>
-<p>This chapter walks through every component of a Bangsamoro Autonomy Act, from the caption down to the effectivity clause, explaining what each part does, how to write it, and what mistakes to avoid.</p>
+<p>This chapter walks through every component of a Bangsamoro Autonomy Act, from the caption down to the effectivity clause, explaining what each part does, how to write it, and what mistakes to avoid. Your job is to get every part right.</p>
 <hr>
 <h2 id="31-overview-the-two-part-structure">3.1 Overview: The Two-Part Structure</h2>
 <p>Every bill filed in the Bangsamoro Parliament consists of two distinct parts: the Explanatory Note and the Main Body. They serve different purposes, travel different paths, and follow different rules. Understanding this division is the first step to writing well.</p>
@@ -2912,8 +3000,8 @@ Bangsamoro Government Center, Cotabato City</p>
 
 <div class="chapter" id="chapter-04">
 <h1 id="chapter-4-special-bill-types">Chapter 4: Special Bill Types</h1>
-<p>The standard bill structure described in Chapter 3 applies to every piece of legislation. But certain categories of bills carry additional requirements — constitutional constraints, BOL mandates, or procedural rules that do not apply to ordinary legislation. If you draft one of these special bill types without knowing the extra rules, your bill will have structural flaws that no amount of polishing can fix.</p>
-<p>This chapter covers six categories of bills that require special attention: appropriation bills, revenue and tax measures, bills creating government bodies, regulatory and licensing bills, codification bills, and local and special bills.</p>
+<p>Your MP wants an appropriation bill. Or a revenue measure. Or a bill creating an entirely new government agency. You know the standard bill structure from Chapter 3 — but these special bill types carry additional requirements that the standard structure does not cover. Constitutional constraints, BOL mandates, procedural rules that apply only to specific categories of legislation. If you draft one of these without knowing the extra rules, your bill will have structural flaws that no amount of polishing can fix.</p>
+<p>This chapter covers six categories of bills that require special attention: appropriation bills, revenue and tax measures, bills creating government bodies, regulatory and licensing bills, codification bills, and local and special bills. Each section tells you what makes the category different and what you need to get right.</p>
 <hr>
 <h2 id="41-appropriation-bills">4.1 Appropriation Bills</h2>
 <p>An appropriation bill authorizes the government to spend money. In the Bangsamoro, this means the General Appropriations Act of the Bangsamoro (GAAB), supplemental appropriation bills, and special appropriation bills that fund particular programs or projects.</p>
@@ -2985,7 +3073,7 @@ Bangsamoro Government Center, Cotabato City</p>
 <li><strong>Harmonization.</strong> Section 6, Article XII requires consistency with the principle of harmonization. Your revenue measure should not create double taxation or conflict with national tax laws without justification. Work with the IGFPB framework.</li>
 <li><strong>Effectivity.</strong> Tax laws often take effect at the start of a fiscal year rather than fifteen days after publication, to allow taxpayers time to adjust. Consider whether a delayed effectivity date is appropriate.</li>
 </ul>
-<p><strong>Shari&rsquo;ah-compliant financing and Islamic economic principles.</strong> Revenue measures in the Bangsamoro should be drafted with awareness of Islamic economic principles. The BOL recognizes the Bangsamoro identity and the role of Islamic law. While the taxing power itself is not constrained to Shari&rsquo;ah-compliant forms, the drafter should consider how Islamic finance principles — such as the prohibition of <em>riba</em> (interest) and the concept of <em>zakat</em> — interact with the tax system. If the Revenue Code incorporates <em>zakat</em> collection, it raises unique drafting questions about the relationship between religious obligation and state taxation.</p>
+<p><strong>Shari&rsquo;ah-compliant financing and Islamic economic principles.</strong> Revenue measures in the Bangsamoro should be drafted with awareness of Islamic economic principles. The BOL recognizes the Bangsamoro identity and the role of Islamic law. While the taxing power itself is not constrained to Shari&rsquo;ah-compliant forms, the drafter should consider how Islamic finance principles interact with the tax system. Two concepts matter most: the prohibition of <em>riba</em> (interest) and the concept of <em>zakat</em>. If the Revenue Code incorporates <em>zakat</em> collection, it raises unique drafting questions about the relationship between religious obligation and state taxation.</p>
 <p><strong>Revenue-sharing with local government units.</strong> Section 35, Article XII of the BOL provides a specific formula for sharing revenues from natural resources: 30% to the Bangsamoro Government, 20% to provinces, 15% to cities, 20% to municipalities, and 15% to barangays. Any revenue bill that affects revenue distribution must be consistent with this formula or must amend it through the proper process.</p>
 <p><strong>Common mistakes in revenue bills:</strong></p>
 <ul>
@@ -3223,7 +3311,7 @@ Bangsamoro Government Center, Cotabato City</p>
 
 <div class="chapter" id="chapter-05">
 <h1 id="chapter-5-resolutions">Chapter 5 — Resolutions</h1>
-<p>A bill creates law. A resolution does not. That single difference changes almost everything about how you draft the document — its structure, its language, the process it follows, and the legal weight it carries after adoption. This chapter covers what you need to know to draft resolutions for the Bangsamoro Parliament, focusing on what is different from the bill-drafting process covered in Chapters 2 through 4.</p>
+<p>A bill creates law. A resolution does not. That single difference changes almost everything about how you draft the document — its structure, its language, the process it follows, and the legal weight it carries after adoption. This chapter covers what you need to know to draft resolutions for the Bangsamoro Parliament, focusing on what is different from the bill-drafting process covered in Chapters 2 through 4. If you have mastered bill drafting, resolutions will feel simpler — but the differences matter.</p>
 <hr>
 <h2 id="51-how-resolutions-differ-from-bills">5.1 How Resolutions Differ from Bills</h2>
 <p>Resolution No. 268, Section 4 of Rule XVII, defines a resolution in one sentence: <em>&ldquo;A resolution is a document expressing the sentiment or opinion of the Parliament. It does not create or modify a law.&rdquo;</em> That definition tells you the three things that set resolutions apart from bills.</p>
@@ -6315,7 +6403,8 @@ Speaker
 <p>It is not the MP&rsquo;s personal opinion written in advance. You are preparing options and recommendations. The MP decides. If you write the briefer assuming a particular vote, you have failed the analysis. Even when the MP&rsquo;s position seems obvious — a bill that directly supports their legislative agenda, for instance — the briefer should still present the measure&rsquo;s weaknesses so the MP is prepared for opposition arguments.</p>
 <p>It is not a once-and-done document. The briefer evolves as the bill moves through the legislative process. The version you prepare before the committee hearing should be different from the version you prepare before plenary deliberation. Each iteration incorporates new information — committee amendments, stakeholder testimony, shifting political dynamics — and refines the analysis accordingly. Version-control your briefers. Keep every iteration. The evolution of the analysis is itself a valuable record.</p>
 <p><strong>The Relationship Between Briefer and Completed Staff Work</strong></p>
-<p>Completed Staff Work, as a concept, originated in military administration, but its application to legislative staff work is natural. The principle is this: when a staff member brings a matter to the decision-maker, the work should be so complete that the decision-maker&rsquo;s only remaining action is to say yes, no, or modify. The decision-maker should never have to ask &ldquo;what do you recommend?&rdquo; — because the recommendation is already there. The decision-maker should never have to ask &ldquo;what are the alternatives?&rdquo; — because the alternatives are already presented. The decision-maker should never have to ask &ldquo;what happens if we do nothing?&rdquo; — because that option is already analyzed.</p>
+<p>Completed Staff Work, as a concept, originated in military administration, but its application to legislative staff work is natural. The principle is this: when a staff member brings a matter to the decision-maker, the work should be so complete that the only remaining action is to say yes, no, or modify.</p>
+<p>The decision-maker should never have to ask &ldquo;what do you recommend?&rdquo; — because the recommendation is already there. The decision-maker should never have to ask &ldquo;what are the alternatives?&rdquo; — because the alternatives are already presented. The decision-maker should never have to ask &ldquo;what happens if we do nothing?&rdquo; — because that option is already analyzed.</p>
 <p>In the legislative context, this means the briefer should contain everything the MP needs: analysis, recommendations, draft materials, and decision options. When the MP finishes reading the briefer, the next action should be clear — sign the approval block, request modifications, or return it for further study. If the MP reads your briefer and still has to go look something up, the staff work is incomplete.</p>
 <hr>
 <h2 id="82-when-to-prepare-a-briefer">8.2 When to Prepare a Briefer</h2>
@@ -6738,10 +6827,10 @@ Speaker
 <h1 id="chapter-9-budget-legislation-and-preparing-a-budget-briefer">Chapter 9 — Budget Legislation and Preparing a Budget Briefer</h1>
 <p>The Bangsamoro Expenditure Program is the single most important legislative measure the Parliament considers each year. It determines how much money every ministry, office, and agency receives. It decides which programs continue, which expand, and which get cut. It sets the ceiling on what the Bangsamoro government can do for the next twelve months.</p>
 <p>For all the attention given to policy bills — and rightly so — the annual budget is where policy becomes real. A law establishing a new education program is a statement of intent. The budget line that funds it is what puts teachers in classrooms. When the Parliament deliberates on the budget, it is not reviewing an accounting spreadsheet. It is making the most consequential policy decisions of the year, one line item at a time.</p>
-<p>This chapter covers the Parliament&rsquo;s budget oversight function and teaches you how to prepare a budget briefer — the structured document your MP needs to scrutinize agency budgets, ask the right questions in committee hearings and plenary deliberation, and make informed decisions about how public money is spent.</p>
+<p>This chapter covers the Parliament&rsquo;s budget oversight function and teaches you how to prepare a budget briefer. Your job is to help the MP scrutinize agency budgets, ask the right questions in committee hearings and plenary deliberation, and make informed decisions about how public money is spent.</p>
 <p><strong>The Legal Framework for Bangsamoro Budgeting</strong></p>
 <p>The budget process in the Bangsamoro is governed by two key instruments: the <strong>Bangsamoro Budget System Act</strong> (BAA No. 84) and the annual <strong>Bangsamoro Budget Memorandum</strong> (BBM) issued by the Ministry of Finance, and Budget and Management (MFBM).</p>
-<p>BAA No. 84 establishes the comprehensive legal framework for budget preparation, authorization, and execution in the Bangsamoro. It creates the Bangsamoro Budget Coordinating Committee (BBCC), mandates four budget philosophies — programmatic, transparent, performance-based, and phased — and prescribes the planning-investment-programming-budgeting continuum that connects the BDP to annual agency budgets. It also sets the rules for budget authorization in Parliament, including the prohibition against increasing the total appropriations proposed by the Chief Minister (BAA No. 84, Section 31), the schedule for budget consideration (Section 26), and the rules governing re-enacted budgets when the Parliament fails to enact the General Appropriations Bill on time (Section 33).</p>
+<p>BAA No. 84 establishes the comprehensive legal framework for budget preparation, authorization, and execution in the Bangsamoro. It creates the Bangsamoro Budget Coordinating Committee (BBCC) and mandates four budget philosophies: programmatic, transparent, performance-based, and phased. It prescribes the planning-investment-programming-budgeting continuum that connects the BDP to annual agency budgets. It also sets the rules for budget authorization in Parliament — including the prohibition against increasing the total appropriations proposed by the Chief Minister (Section 31), the schedule for budget consideration (Section 26), and the rules governing re-enacted budgets when the Parliament fails to enact the General Appropriations Bill on time (Section 33).</p>
 <p>The annual BBM translates BAA No. 84&rsquo;s framework into specific guidelines for each fiscal year. It prescribes the <strong>Two-Tier Budgeting Approach (2TBA)</strong>, sets budget ceilings, defines evaluation criteria for agency proposals, and establishes the calendar and forms for budget submission. The BBM is the primary implementing instrument that agencies follow when preparing their proposals and that the Parliament&rsquo;s staff should reference when scrutinizing those proposals.</p>
 <p>For the budget briefer, these instruments provide the legal benchmarks against which agency budgets should be measured. Key statutory thresholds include:</p>
 <ul>
@@ -6771,9 +6860,10 @@ Speaker
 <p>Gathering this data takes time. Start early. The day the BEP is filed, your office should begin collecting the background materials for every agency in your MP&rsquo;s portfolio. Waiting until the week before the committee hearing is too late for serious analysis.</p>
 <hr>
 <h2 id="92-when-to-prepare-a-budget-briefer">9.2 When to Prepare a Budget Briefer</h2>
-<p>Understanding the budget timeline helps you plan when to prepare briefers. BAA No. 84 prescribes the following sequence: in April, the Bangsamoro Budget Coordinating Committee (BBCC) presents the Budget Priorities Framework to the Chief Minister and the Cabinet. The MFBM then issues the annual Bangsamoro Budget Memorandum — the Budget Call — which sets agency ceilings, defines Tier 1 and Tier 2 parameters, and prescribes the forms and deadlines for agency submissions. Agencies prepare and submit their Bangsamoro Budget Preparation (BBP) Forms to the MFBM. The Chief Minister submits the Proposed Bangsamoro Budget to the Parliament, as far as practicable, not later than the thirtieth (30th) of September (BAA No. 84, Section 23).</p>
+<p>Understanding the budget timeline helps you plan when to prepare briefers. BAA No. 84 prescribes the following sequence: in April, the Bangsamoro Budget Coordinating Committee (BBCC) presents the Budget Priorities Framework to the Chief Minister and the Cabinet. The MFBM then issues the annual Bangsamoro Budget Memorandum — the Budget Call. This document sets agency ceilings, defines Tier 1 and Tier 2 parameters, and prescribes the forms and deadlines for agency submissions. Agencies prepare and submit their Bangsamoro Budget Preparation (BBP) Forms to the MFBM. The Chief Minister submits the Proposed Bangsamoro Budget to the Parliament, as far as practicable, not later than the thirtieth (30th) of September (BAA No. 84, Section 23).</p>
 <p>Once the budget is submitted, the General Appropriations Bill of the Bangsamoro (GABB) must be filed and calendared for first reading within five calendar days. After first reading, the Parliament refers it to committee, which has sixty calendar days to submit its report. Plenary debate and amendments must be completed within thirty calendar days from the committee report. Third reading follows three days after the conclusion of second reading. (BAA No. 84, Section 26)</p>
-<p>Two rules from BAA No. 84 are particularly important for budget scrutiny. First, the Parliament shall in no case increase the total budget appropriations proposed by the Chief Minister — any reduction must be transferred to the Contingent Fund or to another line item (Section 31). This means the Parliament&rsquo;s power is to reallocate and reduce, not to add. Second, if the Parliament fails to enact the GABB by the end of the fiscal year, the previous year&rsquo;s GAAB is deemed re-enacted, with significant limitations on what can be funded under a re-enacted budget (Section 33). These constraints define the boundaries within which budget amendments operate.</p>
+<p><strong>Constraints on Parliament&rsquo;s Budget Power</strong></p>
+<p>Two rules from BAA No. 84 are particularly important for budget scrutiny. First, the Parliament shall in no case increase the total budget appropriations proposed by the Chief Minister. Any reduction must be transferred to the Contingent Fund or to another line item (Section 31). This means the Parliament&rsquo;s power is to reallocate and reduce, not to add. Second, if the Parliament fails to enact the GABB by the end of the fiscal year, the previous year&rsquo;s GAAB is deemed re-enacted, with significant limitations on what can be funded under a re-enacted budget (Section 33). These constraints define the boundaries within which budget amendments operate.</p>
 <p>The Proposed Bangsamoro Budget itself consists of five documents: the Chief Minister&rsquo;s Budget Message, the Bangsamoro Expenditure Program (BEP), the Budget of Expenditures and Sources of Financing (BESF), the Budget Priorities Framework, and the Annual Investment Strategy (BAA No. 84, Section 24). Your office should obtain and review all five documents — not just the BEP — when preparing budget briefers. The BESF in particular contains macroeconomic parameters, revenue projections, and financing details that provide the fiscal context for agency-level budget analysis.</p>
 <h3 id="921-for-the-annual-budget-deliberation">9.2.1 For the Annual Budget Deliberation</h3>
 <p>The primary trigger is the annual budget cycle. When the Bangsamoro Expenditure Program is submitted to the Parliament, your office needs to prepare budget briefers for every agency that falls within the MP&rsquo;s committee assignments or policy interests.</p>
@@ -7354,7 +7444,7 @@ Speaker
 <h1 id="chapter-10-amendments">Chapter 10 — Amendments</h1>
 <p>A bill does not always arrive at the plenary in its final form. More often, it arrives in a form that needs work. Committee members spot problems during scrutiny. Floor deliberations reveal gaps. A Member raises a concern during interpellation that no one anticipated. The response to all of these is the amendment.</p>
 <p>Amendments are how the Parliament refines legislation. They are the mechanism by which a draft bill — sometimes rough, sometimes incomplete, sometimes overtaken by new information — becomes a law that the Parliament as a whole can support. If bill drafting is architecture, amendments are the renovation work. They insert rooms that were missing, remove walls that block the light, and replace materials that turned out to be unsuitable.</p>
-<p>For the drafter, amendments represent some of the most demanding work in the legislative process. You must draft language that fits seamlessly into an existing text — matching its style, numbering, and terminology — while achieving a specific change that the sponsoring MP or committee has requested. You must do this quickly, often during a session, sometimes while the debate is still underway. And you must do it precisely, because a poorly drafted amendment can create more problems than the defect it was meant to fix.</p>
+<p>For you as the drafter, amendments represent some of the most demanding work in the legislative process. You must draft language that fits seamlessly into an existing text — matching its style, numbering, and terminology — while achieving a specific change that the sponsoring MP or committee has requested. You must do this quickly, often during a session, sometimes while the debate is still underway. And you must do it precisely, because a poorly drafted amendment can create more problems than the defect it was meant to fix.</p>
 <p>This chapter covers the types of amendments recognized in the Bangsamoro Parliament, the procedures that govern them, and the exact language and format you should use when drafting them. It draws on the Rules, Procedures, and Practices of the Bangsamoro Transition Authority Parliament — Resolution No. 268 — as the governing procedural framework.</p>
 <hr>
 <h2 id="101-types-of-amendments">10.1 Types of Amendments</h2>

@@ -71,6 +71,25 @@ This means you will sometimes draft provisions you disagree with. That is part o
 
 It also means you must be willing to tell a committee or a Member that something cannot be done the way they want it done. Not every good policy idea translates into good legislation. Some objectives are better achieved through executive action, through intergovernmental coordination, or through amendments to existing law rather than new legislation. The drafter who identifies these distinctions earns the trust of the Parliament.
 
+### The MP Office and Its Legislative Staff
+
+You work in an MP office. Understanding where you fit in the office structure helps you understand who reviews your work, who approves it, and who you coordinate with.
+
+The standard MP office includes these roles:
+
+| Role | Position Title | Primary Function |
+|------|---------------|-----------------|
+| **MP** | Member of Parliament | Sets policy direction, issues legislative directives, approves all final outputs |
+| **Chief of Staff** | Supervising Political Affairs Officer (SPAO) III or PAO VI | Overall supervision and management, final clearance, political coordination |
+| **Legislative Chief** | Supervising Legislative Staff Officer (SLSO) I | Leads all legislative operations — drafting, research, briefers, calendar, Parliament coordination |
+| **Legislative Staff Officers** | Legislative Staff Officer I-IV | Conduct research, prepare initial drafts, gather data, support the Legislative Chief |
+| **Legislative Support Staff** | Contract of Service or Job-Order | Provide research assistance, document formatting, filing, transmittal, and administrative support |
+| **Consultants** | Legal or Legislative Consultant | Provide specialized legal analysis, policy research, or drafting expertise on specific measures |
+
+Not every office has all these positions filled. In a smaller office, one person may serve as both Chief of Staff and Legislative Chief. What matters is that the functions are covered: someone researches, someone drafts, someone reviews, and the MP decides.
+
+The workflow in this manual follows this chain: **Legislative Staff Officers prepare** the initial work. The **Legislative Chief reviews, revises, and manages** the legislative operations. The **Chief of Staff clears** completed work for the MP — ensuring it meets overall office standards. The **MP approves, modifies, or returns** it. The Chief of Staff focuses on overall supervision and political coordination. The Legislative Chief owns the legislative process day-to-day.
+
 ### A Living Instrument
 
 The Bangsamoro legal system is still taking shape. New BAAs are enacted each session. Priority codes are being completed. The courts are developing doctrine on the scope of Bangsamoro legislative power. The Parliament's own practices and precedents are forming in real time.

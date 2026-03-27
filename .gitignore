@@ -27,3 +27,6 @@ Thumbs.db
 
 # PDFs
 PDFs/
+
+# Node
+node_modules/

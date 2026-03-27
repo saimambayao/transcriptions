@@ -673,6 +673,48 @@ a {
   color: #666666;
 }
 
+/* --- TEMPLATE FORM TABLES (2-column key-value) --- */
+/* Tables with exactly 2 columns where first column is a label */
+table.kv-table {
+  table-layout: fixed;
+}
+table.kv-table td:first-child,
+table.kv-table th:first-child {
+  width: 35%;
+}
+table.kv-table td:last-child,
+table.kv-table th:last-child {
+  width: 65%;
+  min-height: 8mm;
+}
+
+/* Fill-in writeable areas */
+.write-area {
+  display: block;
+  min-height: 20mm;
+  border-bottom: 0.3pt dotted #CCCCCC;
+  margin-bottom: 2mm;
+}
+
+/* Keep section headers with their content */
+h3 + p,
+h3 + table,
+h4 + p,
+h4 + table {
+  page-break-before: avoid;
+}
+
+/* Template tables need adequate row height for handwriting */
+table.form-table td {
+  min-height: 10mm;
+  padding: 3mm 4mm;
+}
+
+/* Multi-column form tables (3+ cols) - ensure reasonable distribution */
+table.form-table {
+  table-layout: fixed;
+}
+
 /* --- PRINT OPTIMIZATIONS --- */
 h1, h2, h3, h4, h5 {
   page-break-after: avoid;
