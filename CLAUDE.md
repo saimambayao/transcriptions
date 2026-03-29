@@ -6,17 +6,49 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A documentation and transcription repository — no build system, no tests. Content is markdown files organized by topic. Python scripts are standalone utilities (run with `python3 <script>.py`).
 
 ### Repository Structure
-- `docs/video-transcripts/` — YouTube video transcripts organized by topic subfolder
-- `docs/` (other) — Legislative documents: BAAs, Bills, Resolutions, national laws, BDP chapters
-- `PDFs/` — Source PDF documents (Parliament assignments, RA 11054, etc.)
-- `PR-1-70/` — Parliamentary records
-- Root `.py` files — standalone utilities for markdown processing (no dependencies beyond stdlib)
+See [INDEX.md](INDEX.md) for the full directory listing with file counts and links. Summary:
+- `legislation/` — BAAs, Bills (enacted/proposed), Resolutions (enacted/proposed), national laws
+- `guidebooks/` — All BARMM guidebooks (bill-drafting, CSW, MOP, supervision, etc.) with `_archive/` for older versions; each guidebook is an independent publication
+- `transcripts/` — YouTube video transcripts organized by topic subfolder
+- `reference/` — Constitution, BDP, systems-ebooks, BAA No. 85 breakdown
+- `source-pdfs/` — Source PDF documents (BAA PDFs, Resolution PDFs, Parliament assignments)
+- `parliamentary/` — Parliamentary records
+- `planning/` — Planning, evaluation, and fact-check documents
+- `presentations/` — PowerPoint presentations
+- `scripts/` — Python/shell utilities for markdown processing
+- `docs/superpowers/` — Claude superpowers specs
 
-### Python Utilities
-- `generate_indexes.py` — generates index files from legislative markdown documents
-- `standardize_md.py` — standardizes markdown formatting across files
-- `apply_standardization.py` — batch applies standardization rules
-- `audit_files.py` / `debug_baa.py` — diagnostic scripts for content auditing
+### Python Utilities (in `scripts/`)
+- `scripts/generate_indexes.py` — generates index files from legislative markdown documents
+- `scripts/standardize_md.py` — standardizes markdown formatting across files
+- `scripts/apply_standardization.py` — batch applies standardization rules
+- `scripts/audit_files.py` / `scripts/debug_baa.py` — diagnostic scripts for content auditing
+
+## National Laws Archive
+- `legislation/national-laws/` — 11,866 Republic Acts (RA 1 to RA 12313) scraped from lawphil.net
+- **INDEX.md** — master index with all RA numbers and titles; grep by keyword to find RAs
+- **Subfolders**: `RA-0001-0499/` through `RA-12000-12499/` (25 folders) + `GAA/` (General Appropriations Acts)
+- **Vault symlink**: `~/Vault/Ph-Laws/republic-acts/` points here
+- **Source pre-load protocol**: `~/.claude/skills/fact-checker/references/source-preload-protocol.md` — MANDATORY for all content skills
+- **Guidebooks are NOT authoritative sources**: Never cite BARMM guidebooks as primary sources for factual claims. They are in development and may contain errors. Trace all factual claims back to enacted law, BOL, BAA, BDP, or official documents.
+
+## Executive Orders Archive
+- `legislation/executive-orders/` — 2,572 Executive Orders (1987-2025) scraped from lawphil.net
+- **INDEX.md** — master index with year-by-year counts
+- **Per-year folders**: `executive-orders/1987/` through `executive-orders/2025/`, each with INDEX.md
+- **File naming**: `EO-{number}.md`
+- **Vault symlink**: `~/Vault/Ph-Laws/executive-orders/`
+- **Scraper**: `scripts/scrape_executive_orders.py --year YYYY`
+
+## Jurisprudence Archive
+- `jurisprudence/` — 38,857 Supreme Court decisions (1987-2025) scraped from lawphil.net
+- **INDEX.md** — master index with year-by-year counts and links
+- **Per-year folders**: `jurisprudence/1987/` through `jurisprudence/2025/`, each with its own INDEX.md
+- **File naming**: `GR-{number}.md`, `AM-{identifier}.md`, `AC-{number}.md`, `BM-{number}.md`
+- **Metadata**: case number, title, date, ponente, division, source URL + full verbatim decision text
+- **Vault symlink**: `~/Vault/Ph-Laws/jurisprudence/`
+- **MISSING.md**: 214 decisions listed on lawphil but returning 404 (documented)
+- **Scraper**: `scripts/scrape_jurisprudence.py --year YYYY [--month mon]`
 
 ## Bangsamoro Content Pipeline
 For any Bangsamoro governance transcript or document:
@@ -26,9 +58,8 @@ For any Bangsamoro governance transcript or document:
 4. `/humanizer` — optional, for converting to prose format
 
 ## Video Transcripts
-- Transcripts live in docs/video-transcripts/ organized by topic subfolder
-- Topic subfolders: ai-engineering/, ai-design/, ai-agent/, bangsamoro-governance/, lean-startup/{business-model,mvp-and-validation,sales-and-growth,founder-mindset,startup-strategy}/
-- Some transcripts sit directly in video-transcripts/ (lean-startup topic, not yet sorted into subfolders)
+- Transcripts live in transcripts/ organized by topic subfolder
+- Topic subfolders: ai-claude-code/, ai-claude-cowork/, ai-design/, ai-engineering/, bangsamoro-governance/, lean-startup/{business-model,mvp-and-validation,sales-and-growth,founder-mindset,startup-strategy}/
 - Use /youtube-transcriber skill for all transcriptions
 - Filename format: yymmdd-hhmm-title-slug.md
 - Each transcript has three sections: Organized Notes (bulleted summary) + What This Means for Your Work (personalized application with "How This Can Improve Your Claude Skills and Workflows" subsection) + Transcript (verbatim [MM:SS])
@@ -70,9 +101,9 @@ For any Bangsamoro governance transcript or document:
 ## Local Reference Files (Tier 1 Sources)
 These files are authoritative local sources. Check them BEFORE running web searches:
 - `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` — Republic Act 11054 (Bangsamoro Organic Law) verbatim transcription (5 chapter files)
-  - Fallback: `PDFs/RA 11054.pdf` (original PDF if transcription is incomplete)
+  - Fallback: `source-pdfs/other/RA 11054.pdf` (original PDF if transcription is incomplete)
 - `~/Vault/bangsamoro/bangsamoro-development/bdp-2023-2028/` — 2nd Bangsamoro Development Plan 2023-2028 (15 chapters)
-- `PDFs/Parliament-and-Committee-2025.pdf` — BTA Parliament and Committee assignments
+- `source-pdfs/other/Parliament-and-Committee-2025.pdf` — BTA Parliament and Committee assignments
 - `.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md` — Verified BARMM officials
 
 ## Transcript Language Rules
@@ -80,3 +111,7 @@ These files are authoritative local sources. Check them BEFORE running web searc
 - Remove garbled characters from other scripts (Thai, Bengali, Hindi, etc.) — these are auto-caption noise
 - When Arabic text appears in the transcript, provide an **English translation** in brackets immediately after (e.g., `[Translation: O Allah, guide our leaders...]`)
 - Arabic prayers, Quranic verses, and formal Islamic greetings should be preserved in Arabic with translation
+
+## Lab Notes
+
+When you make a mistake or try an approach that fails, append it below with the date, what was tried, and why it failed. Keep entries to 1-2 lines each. This section is auto-maintained — do not delete entries.

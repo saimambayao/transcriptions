@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix A: Systems Mapping Toolkit</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1B365D;
+    --gold: #C5A54E;
+    --gold-light: #F5EFD8;
+    --navy-light: #E8EDF3;
+    --gray-50: #F9FAFB;
+    --gray-100: #F3F4F6;
+    --gray-200: #E5E7EB;
+    --gray-300: #D1D5DB;
+    --gray-500: #6B7280;
+    --gray-700: #374151;
+    --gray-900: #111827;
+    --white: #FFFFFF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: var(--gray-900);
+    background: var(--white);
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page-break { page-break-before: always; }
+    .no-break { page-break-inside: avoid; }
+    @page { margin: 2cm; size: A4; }
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .cover-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 40px;
+    border-bottom: 6px solid var(--gold);
+    margin: -40px -40px 40px -40px;
+  }
+
+  .cover-header .appendix-label {
+    font-size: 14pt;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .cover-header h1 {
+    font-size: 28pt;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+
+  .cover-header .subtitle {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #B0C4DE;
+    max-width: 600px;
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 8px;
+    margin: 32px 0 16px 0;
+  }
+
+  h3 {
+    font-size: 13pt;
+    font-weight: 600;
+    color: var(--navy);
+    margin: 24px 0 10px 0;
+  }
+
+  h4 {
+    font-size: 11pt;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin: 16px 0 8px 0;
+  }
+
+  p { margin-bottom: 10px; }
+
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 20px 0;
+  }
+
+  .info-card {
+    background: var(--navy-light);
+    border-left: 4px solid var(--navy);
+    padding: 16px;
+    border-radius: 0 8px 8px 0;
+  }
+
+  .info-card .label {
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--navy);
+    margin-bottom: 4px;
+  }
+
+  .info-card .value {
+    font-size: 11pt;
+    color: var(--gray-700);
+  }
+
+  .step-container {
+    counter-reset: step-counter;
+    margin: 20px 0;
+  }
+
+  .step {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+    padding: 16px;
+    background: var(--gray-50);
+    border-radius: 8px;
+    border: 1px solid var(--gray-200);
+  }
+
+  .step-number {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    background: var(--navy);
+    color: var(--white);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14pt;
+  }
+
+  .step-content { flex: 1; }
+  .step-content h4 { margin-top: 4px; color: var(--navy); }
+
+  .step-content ul {
+    margin: 8px 0 0 20px;
+    color: var(--gray-700);
+  }
+
+  .step-content ul li { margin-bottom: 4px; }
+
+  .worked-example {
+    background: var(--gold-light);
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 24px 0;
+  }
+
+  .worked-example .example-title {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 12pt;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .worked-example .example-title::before {
+    content: "\2699";
+    font-size: 16pt;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    table-layout: fixed;
+  }
+
+  th {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px 12px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 10pt;
+  }
+
+  td {
+    padding: 10px 12px;
+    border: 1px solid var(--gray-200);
+    font-size: 10pt;
+    vertical-align: top;
+  }
+
+  tr:nth-child(even) td { background: var(--gray-50); }
+
+  .matrix-grid {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr;
+    grid-template-rows: auto 1fr 1fr;
+    gap: 2px;
+    margin: 20px 0;
+    border: 2px solid var(--navy);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .matrix-corner {
+    background: var(--navy);
+    grid-row: 1;
+    grid-column: 1;
+  }
+
+  .matrix-col-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 10pt;
+  }
+
+  .matrix-row-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px;
+    writing-mode: vertical-lr;
+    text-align: center;
+    font-weight: 700;
+    font-size: 10pt;
+    transform: rotate(180deg);
+  }
+
+  .matrix-cell {
+    padding: 16px;
+    min-height: 120px;
+  }
+
+  .matrix-cell h5 {
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: 6px;
+    font-size: 10pt;
+  }
+
+  .matrix-cell p {
+    font-size: 9pt;
+    color: var(--gray-500);
+    margin-bottom: 4px;
+  }
+
+  .matrix-cell.top-left { background: #FEF3C7; }
+  .matrix-cell.top-right { background: #DCFCE7; }
+  .matrix-cell.bottom-left { background: var(--gray-100); }
+  .matrix-cell.bottom-right { background: #DBEAFE; }
+
+  .blank-line {
+    border-bottom: 1px solid var(--gray-300);
+    height: 28px;
+    margin-bottom: 4px;
+  }
+
+  .blank-lines-block { margin: 12px 0; }
+
+  .worksheet-box {
+    border: 2px solid var(--gray-300);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 16px 0;
+    background: var(--white);
+  }
+
+  .worksheet-box h4 {
+    color: var(--navy);
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+  }
+
+  .tip-box {
+    background: var(--navy-light);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    border-left: 4px solid var(--gold);
+  }
+
+  .tip-box .tip-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .polarity-example {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+    font-size: 10pt;
+  }
+
+  .polarity-arrow {
+    font-size: 18pt;
+    font-weight: 700;
+  }
+
+  .polarity-arrow.positive { color: #16A34A; }
+  .polarity-arrow.negative { color: #DC2626; }
+
+  .footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 2px solid var(--gold);
+    font-size: 9pt;
+    color: var(--gray-500);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- PAGE 1: INTRODUCTION -->
+  <div class="cover-header">
+    <div class="appendix-label">Appendix A</div>
+    <h1>Systems Mapping Toolkit</h1>
+    <div class="subtitle">A step-by-step guide for creating systems maps for any BARMM policy issue</div>
+  </div>
+
+  <h2>Purpose</h2>
+  <p>This toolkit equips BARMM teams with practical methods for creating three essential systems maps: <strong>causal loop diagrams</strong>, <strong>stakeholder maps</strong>, and <strong>incentive maps</strong>. These visual tools reveal hidden dynamics, power structures, and behavioral drivers that shape policy outcomes in the Bangsamoro.</p>
+
+  <h2>When to Use This Toolkit</h2>
+  <ul style="margin-left: 20px; margin-bottom: 16px;">
+    <li>Before designing any major reform or program</li>
+    <li>When diagnosing why a policy or program is underperforming</li>
+    <li>When planning a new policy intervention</li>
+    <li>When multiple stakeholders disagree on problem definitions</li>
+    <li>During strategic planning sessions for ministries or LGUs</li>
+  </ul>
+
+  <div class="info-grid">
+    <div class="info-card">
+      <div class="label">Time Needed</div>
+      <div class="value">2-4 hours per mapping session</div>
+    </div>
+    <div class="info-card">
+      <div class="label">Participants</div>
+      <div class="value">5-15 people with diverse perspectives</div>
+    </div>
+    <div class="info-card">
+      <div class="label">Materials</div>
+      <div class="value">Large paper or whiteboard, markers (3+ colors), sticky notes</div>
+    </div>
+    <div class="info-card">
+      <div class="label">Outputs</div>
+      <div class="value">Visual system map, identified leverage points, action priorities</div>
+    </div>
+  </div>
+
+  <div class="tip-box">
+    <div class="tip-label">Facilitator Tip</div>
+    <p style="margin: 0;">Start with <strong>causal loop diagrams</strong> to understand system dynamics, then use <strong>stakeholder mapping</strong> to identify who can act on leverage points, and finally use <strong>incentive mapping</strong> to design interventions that align actor motivations with desired outcomes.</p>
+  </div>
+
+  <!-- PAGE 2: CAUSAL LOOP DIAGRAMS -->
+  <div class="page-break"></div>
+
+  <h2>Step-by-Step Guide: Causal Loop Diagrams</h2>
+  <p>Causal loop diagrams (CLDs) show how variables in a system influence each other, revealing the feedback loops that drive system behavior over time.</p>
+
+  <div class="step-container">
+    <div class="step">
+      <div class="step-number">1</div>
+      <div class="step-content">
+        <h4>Define the System Boundary</h4>
+        <p>Decide what is inside your system and what is outside. Be explicit about scope.</p>
+        <ul>
+          <li>Write a clear problem statement (e.g., "Low budget utilization in BARMM education programs")</li>
+          <li>List what is <strong>in scope</strong> (provincial education offices, MBHTE programs, LGU budgets)</li>
+          <li>List what is <strong>out of scope</strong> (DepEd national policy, private schools, international aid)</li>
+          <li>Draw a boundary line on your paper &mdash; everything inside is your system</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">2</div>
+      <div class="step-content">
+        <h4>Identify Key Variables</h4>
+        <p>Variables are things that <em>change</em> &mdash; they can go up or down. Write each on a sticky note.</p>
+        <ul>
+          <li>Use nouns or noun phrases, not actions (e.g., "poverty rate" not "reducing poverty")</li>
+          <li>Aim for 8-15 variables &mdash; too few misses dynamics, too many creates confusion</li>
+          <li>Include both <strong>measurable</strong> variables (enrollment rate, budget utilization) and <strong>soft</strong> variables (trust in government, teacher morale)</li>
+        </ul>
+        <div class="tip-box" style="margin-top: 12px;">
+          <div class="tip-label">Example Variables for Education</div>
+          <p style="margin: 0;">Teacher quality &bull; Student enrollment &bull; Budget allocation &bull; School infrastructure &bull; Parent engagement &bull; Poverty rate &bull; Employment opportunities &bull; Cultural relevance of curriculum &bull; Teacher morale &bull; Community trust in education</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">3</div>
+      <div class="step-content">
+        <h4>Draw Causal Links</h4>
+        <p>Connect variables with arrows showing how one influences another. Mark each arrow with polarity:</p>
+        <div class="polarity-example">
+          <span class="polarity-arrow positive">+</span>
+          <span><strong>Same direction:</strong> When A increases, B increases (or when A decreases, B decreases)</span>
+        </div>
+        <div class="polarity-example">
+          <span class="polarity-arrow negative">&minus;</span>
+          <span><strong>Opposite direction:</strong> When A increases, B decreases (or when A decreases, B increases)</span>
+        </div>
+        <ul>
+          <li>Ask: "If this variable goes up, what happens to the connected variable?"</li>
+          <li>Each arrow represents a causal claim &mdash; be ready to defend it</li>
+          <li>Add time delays with a double line through the arrow (||) for effects that take months or years</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">4</div>
+      <div class="step-content">
+        <h4>Identify Feedback Loops</h4>
+        <p>Trace closed paths through the diagram. Two types:</p>
+        <table>
+          <tr>
+            <th style="width: 15%;">Type</th>
+            <th style="width: 15%;">Symbol</th>
+            <th style="width: 35%;">Behavior</th>
+            <th style="width: 35%;">How to Identify</th>
+          </tr>
+          <tr>
+            <td><strong>Reinforcing</strong></td>
+            <td style="text-align: center; font-size: 14pt; font-weight: 700; color: #DC2626;">R</td>
+            <td>Amplifies change &mdash; growth or collapse</td>
+            <td>Even number of negative (-) links in the loop, or all positive (+)</td>
+          </tr>
+          <tr>
+            <td><strong>Balancing</strong></td>
+            <td style="text-align: center; font-size: 14pt; font-weight: 700; color: #2563EB;">B</td>
+            <td>Resists change &mdash; seeks equilibrium</td>
+            <td>Odd number of negative (-) links in the loop</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">5</div>
+      <div class="step-content">
+        <h4>Name the Loops</h4>
+        <p>Give each loop a descriptive name that captures its story. This helps communicate the insight.</p>
+        <ul>
+          <li>Reinforcing: "Poverty Trap," "Brain Drain Spiral," "Trust-Building Flywheel"</li>
+          <li>Balancing: "Budget Ceiling," "Capacity Constraint," "Accountability Check"</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">6</div>
+      <div class="step-content">
+        <h4>Identify Leverage Points</h4>
+        <p>Look for places where a small intervention could shift the system's behavior:</p>
+        <ul>
+          <li><strong>Variables that appear in multiple loops</strong> &mdash; changing them affects several dynamics</li>
+          <li><strong>Variables with time delays</strong> &mdash; early intervention here prevents larger problems</li>
+          <li><strong>The "weakest link" in a reinforcing loop</strong> &mdash; breaking or strengthening it changes everything</li>
+          <li><strong>Balancing loops that are too strong or too weak</strong> &mdash; adjust their power</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- WORKED EXAMPLE -->
+  <div class="worked-example no-break">
+    <div class="example-title">Worked Example: The Education-Poverty Cycle in Your Province</div>
+    <p><strong>System boundary:</strong> Education and economic outcomes in one BARMM province</p>
+    <p><strong>Key variables:</strong> Poverty rate, school enrollment, education quality, employment opportunities, household income, teacher availability, school infrastructure, community investment in education</p>
+    <p><strong>Two key loops identified:</strong></p>
+    <p style="margin-left: 16px;"><strong>R1 "Poverty Trap":</strong> High poverty &rarr; low enrollment (+) &rarr; low education quality (+) &rarr; low employment (+) &rarr; low household income (+) &rarr; high poverty (+). <em>Reinforcing loop that traps communities.</em></p>
+    <p style="margin-left: 16px;"><strong>R2 "Investment Flywheel":</strong> Education quality &rarr; employment (+) &rarr; household income (+) &rarr; community investment (+) &rarr; school infrastructure (+) &rarr; teacher availability (+) &rarr; education quality (+). <em>Reinforcing loop that builds prosperity.</em></p>
+    <p><strong>Leverage point:</strong> Teacher availability &mdash; it appears in both loops. Increasing teacher supply and quality can weaken R1 while strengthening R2.</p>
+  </div>
+
+  <!-- PAGE 3: STAKEHOLDER MAPPING -->
+  <div class="page-break"></div>
+
+  <h2>Stakeholder Mapping Template</h2>
+  <p>Stakeholder mapping identifies who has power over your issue and who cares about it &mdash; essential for designing interventions that can actually be implemented in the Bangsamoro context.</p>
+
+  <div class="step-container">
+    <div class="step">
+      <div class="step-number">1</div>
+      <div class="step-content">
+        <h4>List All Stakeholders</h4>
+        <p>Brainstorm every individual, group, or organization affected by or able to influence the issue.</p>
+        <div class="worksheet-box">
+          <h4>Stakeholder Inventory Worksheet</h4>
+          <table>
+            <tr>
+              <th style="width: 5%;">#</th>
+              <th style="width: 30%;">Stakeholder Name</th>
+              <th style="width: 30%;">Organization / Role</th>
+              <th style="width: 35%;">Relationship to Issue</th>
+            </tr>
+            <tr><td>1</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>2</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>3</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>4</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>5</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>6</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>7</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>8</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>9</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+            <tr><td>10</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">2</div>
+      <div class="step-content">
+        <h4>Rate Influence</h4>
+        <p>For each stakeholder, assess their power to affect the outcome:</p>
+        <ul>
+          <li><strong>High:</strong> Can approve, block, or significantly alter the initiative (e.g., Chief Minister, BTA Parliament)</li>
+          <li><strong>Medium:</strong> Can shape implementation or redirect resources (e.g., Ministry directors, LGU executives)</li>
+          <li><strong>Low:</strong> Affected by the outcome but has limited power to change it (e.g., individual citizens, barangay workers)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">3</div>
+      <div class="step-content">
+        <h4>Rate Interest</h4>
+        <p>For each stakeholder, assess how much they care about the issue:</p>
+        <ul>
+          <li><strong>High:</strong> Directly affected; actively engaged; this is a priority for them</li>
+          <li><strong>Medium:</strong> Somewhat affected; occasionally engaged; one of many priorities</li>
+          <li><strong>Low:</strong> Minimally affected; rarely engaged; not a current priority</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-number">4</div>
+      <div class="step-content">
+        <h4>Map on the Power/Interest Matrix</h4>
+        <p>Place each stakeholder's number in the appropriate quadrant below:</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- POWER/INTEREST MATRIX -->
+  <div class="matrix-grid">
+    <div class="matrix-corner"></div>
+    <div class="matrix-col-header">Low Interest</div>
+    <div class="matrix-col-header">High Interest</div>
+    <div class="matrix-row-header">High Influence</div>
+    <div class="matrix-cell top-left">
+      <h5>Keep Satisfied</h5>
+      <p>Meet their needs; don't overwhelm with details</p>
+      <p><em>Strategy: Regular updates, consult on key decisions</em></p>
+      <div class="blank-lines-block">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+    <div class="matrix-cell top-right">
+      <h5>Manage Closely</h5>
+      <p>Engage deeply; these are your key partners</p>
+      <p><em>Strategy: Full collaboration, co-design, frequent engagement</em></p>
+      <div class="blank-lines-block">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+    <div class="matrix-row-header">Low Influence</div>
+    <div class="matrix-cell bottom-left">
+      <h5>Monitor</h5>
+      <p>Watch for changes in influence or interest</p>
+      <p><em>Strategy: Minimal effort; periodic check-ins</em></p>
+      <div class="blank-lines-block">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+    <div class="matrix-cell bottom-right">
+      <h5>Keep Informed</h5>
+      <p>Share information; harness their enthusiasm</p>
+      <p><em>Strategy: Regular communications, invite input, build capacity</em></p>
+      <div class="blank-lines-block">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-number">5</div>
+    <div class="step-content">
+      <h4>Define Action Strategy per Stakeholder</h4>
+      <p>Based on quadrant placement, define specific engagement actions:</p>
+      <div class="worksheet-box">
+        <table>
+          <tr>
+            <th style="width: 5%;">#</th>
+            <th style="width: 18%;">Stakeholder</th>
+            <th style="width: 12%;">Quadrant</th>
+            <th style="width: 30%;">Engagement Action</th>
+            <th style="width: 15%;">Frequency</th>
+            <th style="width: 20%;">Responsible</th>
+          </tr>
+          <tr><td>1</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          <tr><td>2</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          <tr><td>3</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          <tr><td>4</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          <tr><td>5</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+          <tr><td>6</td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td><td><div class="blank-line"></div></td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 4: INCENTIVES MAPPING -->
+  <div class="page-break"></div>
+
+  <h2>Incentives Mapping Template</h2>
+  <p>Incentive mapping reveals <em>why</em> actors behave the way they do and what must change for them to behave differently. Without understanding incentives, even well-designed policies will be ignored or subverted.</p>
+
+  <h3>For Each Key Actor, Identify:</h3>
+
+  <div class="worksheet-box">
+    <h4>Incentives Analysis Worksheet</h4>
+    <table>
+      <tr>
+        <th style="width: 15%;">Actor</th>
+        <th style="width: 20%;">Current Behavior</th>
+        <th style="width: 20%;">Current Incentives<br><span style="font-weight: 400; font-size: 8pt;">(What rewards this behavior?)</span></th>
+        <th style="width: 20%;">Desired Behavior</th>
+        <th style="width: 25%;">Required Incentive Change</th>
+      </tr>
+      <tr>
+        <td>1.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>2.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>3.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>4.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>5.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>6.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>7.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+      <tr>
+        <td>8.<div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+        <td><div class="blank-line"></div><div class="blank-line"></div></td>
+      </tr>
+    </table>
+  </div>
+
+  <h3>Zero-Sum vs. Non-Zero-Sum Analysis</h3>
+  <p>Determine whether changing incentives creates winners and losers (zero-sum) or whether all parties can benefit (non-zero-sum). This shapes your intervention strategy.</p>
+
+  <table>
+    <tr>
+      <th style="width: 20%;">Incentive Change</th>
+      <th style="width: 15%;">Type</th>
+      <th style="width: 25%;">Who Gains?</th>
+      <th style="width: 25%;">Who Loses?</th>
+      <th style="width: 15%;">Mitigation</th>
+    </tr>
+    <tr>
+      <td><div class="blank-line"></div></td>
+      <td style="text-align: center;">&#9744; Zero-sum<br>&#9744; Non-zero-sum</td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+    </tr>
+    <tr>
+      <td><div class="blank-line"></div></td>
+      <td style="text-align: center;">&#9744; Zero-sum<br>&#9744; Non-zero-sum</td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+    </tr>
+    <tr>
+      <td><div class="blank-line"></div></td>
+      <td style="text-align: center;">&#9744; Zero-sum<br>&#9744; Non-zero-sum</td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+    </tr>
+    <tr>
+      <td><div class="blank-line"></div></td>
+      <td style="text-align: center;">&#9744; Zero-sum<br>&#9744; Non-zero-sum</td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+    </tr>
+    <tr>
+      <td><div class="blank-line"></div></td>
+      <td style="text-align: center;">&#9744; Zero-sum<br>&#9744; Non-zero-sum</td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+      <td><div class="blank-line"></div></td>
+    </tr>
+  </table>
+
+  <div class="tip-box" style="margin-top: 24px;">
+    <div class="tip-label">Key Insight</div>
+    <p style="margin: 0;">In the Bangsamoro context, many governance challenges involve <strong>mixed incentive structures</strong> where formal rules point one direction while informal norms (clan loyalty, patronage networks, traditional authority) point another. Your incentive map should capture <em>both</em> formal and informal incentives to be useful.</p>
+  </div>
+
+  <div class="footer">
+    Systems Change in the Bangsamoro &mdash; Appendix A: Systems Mapping Toolkit<br>
+    Bangsamoro Autonomous Region in Muslim Mindanao
+  </div>
+
+</div>
+
+</body>
+</html>

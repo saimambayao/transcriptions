@@ -1,0 +1,1013 @@
+# Philippine Supreme Court Jurisprudence — 2014
+
+Total: 1009 decisions
+
+- [AC-10031](AC-10031.md) — Raul M. Francia Vs. Atty. Reynaldo V. Abdon
+- [AC-10134](AC-10134.md) — Philippine Association of Court Employees (PACE), Represented by its President, 
+- [AC-10135](AC-10135.md) — Edgardo Areola Vs. Atty. Maria Vilma Mendoza
+- [AC-10164](AC-10164.md) — Stephan Brunet and Virginia Romanillo Brunet Vs. Atty. Ronald L. Guaren
+- [AC-10179](AC-10179.md) — Benjamin Q. Ong Vs. Atty. William F. Delos Santos
+- [AC-10185](AC-10185.md) — Licerio Dizon Vs. Atty. Marcelino Cabucana, Jr.
+- [AC-10196](AC-10196.md) — Melody R. Nery Vs. Atty. Glicerio A. Sampana
+- [AC-10240](AC-10240.md) — Estrella R. Sanchez Vs. Atty. Nicolas C. Torres, M.D.
+- [AC-10378](AC-10378.md) — Jose Francisco T. Baens Vs. Atty. Jonathan T. Sempio
+- [AC-10438](AC-10438.md) — CF Sharp Crew Management Incorporated Vs. Nicolas C. Torres
+- [AC-10450](AC-10450.md) — Emerita B. Mahilom Vs. Atty. Samuel SM. Lezama
+- [AC-10548](AC-10548.md) — Caroline Castañeda Jimenez Vs. Atty. Edgar B. Francisco
+- [AC-10579](AC-10579.md) — Erlinda Foster Vs. Atty. Jaime V. Agtang
+- [AC-3405](AC-3405.md) — Julieta B. Narag Vs. Atty. Dominador M. Narag
+- [AC-3405_SO](AC-3405_SO.md) — Julieta B. Narag Vs. Atty. Dominador M. Narag
+- [AC-3452](AC-3452.md) — Henry Samonte Vs. Atty. Gines Abellana
+- [AC-4545](AC-4545.md) — Carlito Ang Vs. Atty. James Joseph Gupana
+- [AC-4697](AC-4697.md) — Florencio A. Saladaga Vs. Atty. Arturo B. Astroga
+- [AC-5329](AC-5329.md) — Heinz R. Heck Vs. City Prosecutor Casiano A. Gamotin, Jr.
+- [AC-5359](AC-5359.md) — Ermelinda Lad Vda. De Dominguez, represented by her Attorney-in-Fact, Vicente A.
+- [AC-5377](AC-5377.md) — Victor C. Lingan Vs. Attys. Romeo Calubaquib and Jimmy P. Baliga
+- [AC-5440](AC-5440.md) — Spouses Nicasio & Donelita San Pedro Vs. Atty. Isagani A. Mendoza
+- [AC-5581](AC-5581.md) — Rose Bunagan-Bansig Vs. Atty. Rogelio Juan A. Celera
+- [AC-6470](AC-6470.md) — Mercedita de Jesus vs. Atty. Juvy Mell Sanchez-Malit
+- [AC-7054](AC-7054.md) — Conrado N. Que Vs. Atty. Anastacio E. Revilla, Jr.
+- [AC-7184](AC-7184.md) — Atty. Felipe B. Almazan, Sr. Vs. Atty. Marcelo B. Suerte-Felipe
+- [AC-7337](AC-7337.md) — Rolando Viray Vs. Atty. Eugenio T. Sanicas
+- [AC-7474](AC-7474.md) — Presiding Judge Jose L. Madrid, RTC Branch 51, Sorsogon City Vs. Atty. Juan S. D
+- [AC-7676](AC-7676.md) — Amado T. Dizon Vs. Atty. Norlita de Taza
+- [AC-7687](AC-7687.md) — Raul C. Lanuza and Reynaldo C. Rasing Vs. Attys. Frankie O. Magsalin III and Pab
+- [AC-7766](AC-7766.md) — Jose Allan Tan Vs. Pedro S. Diamante
+- [AC-7919](AC-7919.md) — Domado Disomimba Sultan Vs. Atty. Casan Macabanding
+- [AC-7961](AC-7961.md) — Atty. Clodualdo C. De Jesus Vs. Atty. Alicia A. Risos-Vidal
+- [AC-8000](AC-8000.md) — Chamelyn A. Agot Vs. Atty. Luis P. Rivera
+- [AC-8085](AC-8085.md) — Felipe Layos Vs. Atty. Marlito I. Villanueva
+- [AC-8103](AC-8103.md) — Atty. Aurelio C. Angeles, Jr., Provincial Legal Officer, Bataan Capitol, Balanga
+- [AC-8108](AC-8108.md) — Dante LA Jimenez & Lauro G. Vizconde Vs. Atty. Felisberto L. Verano, Jr./Atty. O
+- [AC-8637](AC-8637.md) — Imelda Cato Gaddi Vs. Atty. Lope M. Velasco
+- [AC-8644](AC-8644.md) — Aida R. Campos, et al. Vs. Atty. Eliseo M. Campos
+- [AC-8761](AC-8761.md) — Wilberto C. Talisic Vs. Atty. Primo R. Rinen
+- [AC-9115](AC-9115.md) — Rebecca Marie Uy Yupangco-Nakpil Vs. Atty. Roberto L. Uy
+- [AC-9116](AC-9116.md) — Nestor Figueras and Bienvenido Victoria, Jr. Vs. Atty. Diosdado B. Jimenez
+- [AC-9317](AC-9317.md) — Adelia V. Quiachon Vs. Atty. Joseph Ador A. Ramos
+- [AC-9395](AC-9395.md) — Daria O. Daring Vs. Atty. riz Tingalon L. Davis
+- [AC-9872](AC-9872.md) — Natividad P. Navarro and Hilda S. Presbitero V. Atty. Ivan M. Solidum, Jr.
+- [AC-9881](AC-9881.md) — Atty. Alan F. Paguia Vs. Atty. Manuel T. Molina
+- [AC-9896](AC-9896.md) — Ma. Elena Carlos Nebreja Vs. Atty. Benjamin Reonal
+- [AC-9925](AC-9925.md) — Mariano R. Cristobal Vs. Atty. Ronaldo E. Renta
+- [AC-9976](AC-9976.md) — Almira C. Foronda Vs. Atty. Jose L. Alvarez, Jr.
+- [AM-07-9-454-RTC](AM-07-9-454-RTC.md) — Re: Judicial Audit Conducted in the Regional Trial Court, Branch 20, Cagayan De 
+- [AM-2008-23-SC](AM-2008-23-SC.md) — Alleged loss of various boxes of copy paper during their transfer from the Prope
+- [AM-2010-21-SC](AM-2010-21-SC.md) — Re: Anonymous letter-complaint on the alleged involvement and for engaging in th
+- [AM-CA-14-28-P](AM-CA-14-28-P.md) — Anacleto O. Villahermosa, Sr., et al. Vs. Victor Sacia, Executive Assistant IV a
+- [AM-MTJ-12-1806](AM-MTJ-12-1806.md) — Office of the Court Administrator Vs. Judge Borromeo R. Bustamante, Municipal Tr
+- [AM-MTJ-13-1823](AM-MTJ-13-1823.md) — P/Sr. Insp. Teddy M. Rosqueta Vs. Judge Jonathan A. Asuncion, Municipal Trial Co
+- [AM-MTJ-13-1837](AM-MTJ-13-1837.md) — Conrado Abe Lopez, represented by Atty. Romualdo Jubay Vs. Judge Rogelio S. Lucm
+- [AM-MTJ-13-1838](AM-MTJ-13-1838.md) — Spouses Ricardo and Evelyn Marcelo Vs. Judge Ramsey Domingo G. Pichay, MeTC, Br.
+- [AM-MTJ-14-1841](AM-MTJ-14-1841.md) — Gershon N. Dulang Vs. Judge Mary Jocylen G. Regencia, MCTC, Asturias-Balamban, C
+- [AM-MTJ-14-1842](AM-MTJ-14-1842.md) — Rex M. Tupal Vs. Judge Remegio V. Rojo, etc.
+- [AM-OCA-12-204-CA-J](AM-OCA-12-204-CA-J.md) — Re: Verified Complaint for Disbarment of AMA Land, Inc. (represented by Joseph B
+- [AM-P-05-2051](AM-P-05-2051.md) — Office of the Court Administrator Vs. Atty. Mona Lisa A. Buencamino, etc., et al
+- [AM-P-06-2227](AM-P-06-2227.md) — Office of the Court Administrator Vs. Atty. Mario N. Melchor, Former Clerk of Co
+- [AM-P-08-2574](AM-P-08-2574.md) — Raul K. San Buenaventura Vs. Timoteo A. Migriño, Clerk of Court III, MeTC, Branc
+- [AM-P-09-2648](AM-P-09-2648.md) — Office of the Court Administrator Vs. Atty. Leah Espera Miranda, Clerk of Court 
+- [AM-P-09-2673](AM-P-09-2673.md) — Frumencio E. Pulgar Vs. Paul M. Resurreccion and Maricar M. Eugenio
+- [AM-P-09-2691](AM-P-09-2691.md) — Ireneo Garcia, Record Officer I, MeTC, OCC, Caloocan City Vs. Clerk of Court IV 
+- [AM-P-10-2800](AM-P-10-2800.md) — Office of the Court Administrator Vs Mrs. Aurora T. Zuñiga, Clerk of Court II, M
+- [AM-P-11-2903](AM-P-11-2903.md) — Angelito R. Marquez, et al. Vs. Judge Venancio M. Ovejera, etc., et al.
+- [AM-P-11-2917](AM-P-11-2917.md) — Marivic C. Vitor Vs. Caroline Zafra, etc.
+- [AM-P-11-2979](AM-P-11-2979.md) — Ella M. Bartolome Vs. Rosalie B. Maranan, Court Stenographer III, Regional Trial
+- [AM-P-11-3020](AM-P-11-3020.md) — Judge Juan Gabriel Hizon alano, Mary Annebelle A. Katipunan, Suzee Wong Jamotill
+- [AM-P-12-3043](AM-P-12-3043.md) — Atty. Marcos R. Sundiang Vs. Erlito DS, Bacho, Sheriff IV, RTC Branch 124, Caloo
+- [AM-P-12-3055](AM-P-12-3055.md) — Office of the Court Administrator Vs. Johni Glenn D. Runes
+- [AM-P-12-3069](AM-P-12-3069.md) — Atty. Virgillo P. Alconera Vs. Alfredo T. Pallanan
+- [AM-P-12-3070](AM-P-12-3070.md) — Civil Service Commission Vs. Nenita C. Longos, Clerk II, MCTC, Del Carmen-Numanc
+- [AM-P-12-3074](AM-P-12-3074.md) — The Office of the Court Administrator Vs. Clarita R. Perez, Clerk of Court II, M
+- [AM-P-12-3076](AM-P-12-3076.md) — Novo A. Lucas Vs. Rolando A. Dizon, Sheriff IV, OCC RTC, Sto. Domingo, Nueva Eci
+- [AM-P-12-3093](AM-P-12-3093.md) — Anonymous Complaint Against Otelia Lyn G. Maceda, Court Interpreter, Municipal T
+- [AM-P-13-3102](AM-P-13-3102.md) — Jose S. Villanueva Vs. Atty. Paulino I. Saguyod, Clerk of Court VI, RTC, Branch 
+- [AM-P-13-3119](AM-P-13-3119.md) — Executive Judge Ma. Ofelia S. Contreras-Soriano Vs. Clerk III Liza D. Salamanca,
+- [AM-P-13-3123](AM-P-13-3123.md) — Alberto Valdez Vs. Desiderio W. Macusi, Jr., Sheriff IV, RTC, Branch 25, Tabuk, 
+- [AM-P-13-3126](AM-P-13-3126.md) — Veronica F. Galindez Vs. Zosima Susbilla-De Vera
+- [AM-P-13-3130](AM-P-13-3130.md) — Office of the Court Administrator Vs. May F. Hernandez, Clerk III, RTC, Branch 1
+- [AM-P-13-3132](AM-P-13-3132.md) — Office of the Court Administrator Vs. Sarah P. Ampong, etc.
+- [AM-P-13-3141](AM-P-13-3141.md) — Atty. Rhea R. Alcantara-Aquino Vs. Mylene H. Dela Cruz, etc.
+- [AM-P-13-3147](AM-P-13-3147.md) — Office of the Court Administrator Vs. Paz C. Capistrano, Court Stenographer III,
+- [AM-P-13-3156](AM-P-13-3156.md) — Office of the Court Administrator Vs. Isabel A. Siwa, Stenographer, MeTC, Branch
+- [AM-P-13-3160](AM-P-13-3160.md) — Lolita Rayala Velasco Vs. Geraldo C. Obispo, Utility Worker I, Regional Trial Co
+- [AM-P-13-3163](AM-P-13-3163.md) — Marcidito A. Miranda Vs. Ernesto G. Raymund, Jr., etc.
+- [AM-P-13-3171](AM-P-13-3171.md) — Re: Habitual tardiness of Cesar E. Sales, Cash Clerk III, Metropolitan Trial Cou
+- [AM-P-14-3198](AM-P-14-3198.md) — Flora P. Holasca Vs. Anselmo P. Pagunsan, Jr., Sheriff IV, Regional Trial Court,
+- [AM-P-14-3217](AM-P-14-3217.md) — Re: Anonymous letter Vs. Judge Corazon D. Soluren, Presiding Judge, and Rabindra
+- [AM-P-14-3218](AM-P-14-3218.md) — Selection and Promotion Board, OCA Vs. Ronaldo D. Taca, Cashier I, MTC, OCC, Man
+- [AM-P-14-3222](AM-P-14-3222.md) — Presiding Judge Jose B. Lagado, et al. Vs. Clerk II Bryan Antonio C. Leonido
+- [AM-P-14-3232](AM-P-14-3232.md) — Re: Report of Judge Rodolfo D. Vapor, MTCC, Tangub City, Misamis Occidental on t
+- [AM-P-14-3237](AM-P-14-3237.md) — JEAN PAUL V. GILLERA, SUZETTE P. GILLERA, ATTY. JILLINA M. GERODIAS, AND IBARRA 
+- [AM-P-14-3246](AM-P-14-3246.md) — Atty. Rico Paolo R. Quicho Vs. Bienvenido S. Reyes, Jr., Sheriff IV, RTC, Br. 98
+- [AM-P-14-3252](AM-P-14-3252.md) — Judge Juan Gabriel H. Alano Vs. Padma L. Sahi, Court Interpreter, Municipal Circ
+- [AM-P-14-3260](AM-P-14-3260.md) — Office of the Court Administrator Vs. Edgar S. Cruz, Clerk III, RTC Br 52, Guagu
+- [AM-P-14-3270](AM-P-14-3270.md) — Angelito P. Miranda Vs. Ma. Theresa M. Fernandez, Clerk III, Metropolitan Trial 
+- [AM-P-14-3271](AM-P-14-3271.md) — Atty. Alan A. Tan Vs. Elmer S. Azcueta, Process Server, Regional Trial Court, Br
+- [AM-P-14-3272](AM-P-14-3272.md) — Feliciano O. Francia Vs. Roberto C. Esguerra, Sheriff IV, Regional Trial Court, 
+- [AM-P-14-3278](AM-P-14-3278.md) — Concerned Citizens of Naval Biliran Vs. Florante F. Ralar, Court Stenographer II
+- [AM-RTJ-08-2140](AM-RTJ-08-2140.md) — Office of the Court Administrator Vs. Executive Judge Owen B. Amor, RTC, Daet, C
+- [AM-RTJ-08-2151](AM-RTJ-08-2151.md) — Office of the Court Administrator Vs. Judge Edwin C. Larida, Jr., RTC, Branch 18
+- [AM-RTJ-09-2200](AM-RTJ-09-2200.md) — Antonio M. Lorenzana Vs. Judge Ma. Cecilia I. Austria, RTC, Br. 2, Batangas City
+- [AM-RTJ-11-2287](AM-RTJ-11-2287.md) — The Office of the Administrative Services, Office of the Court Administrator Vs.
+- [AM-RTJ-11-2290](AM-RTJ-11-2290.md) — Marilou T. Rivera Vs. Judge Jaime C. Blancaflor, Regional Trial Court, Branch 26
+- [AM-RTJ-12-2332](AM-RTJ-12-2332.md) — Efren T. Uy, Nelia B. Lee, Rodolfo L. Menes, et al. Vs. Judge Alan L. Flores, Pr
+- [AM-RTJ-12-2336](AM-RTJ-12-2336.md) — Esther P. Magleo Vs. Presiding Judge Rowena De Juan-Quinagoran and Branch Clerk 
+- [AM-RTJ-13-2356](AM-RTJ-13-2356.md) — Argel D. Hernandez Vs. Judge Victor C. Gelia, Legal Researcher Clarince B. Jinta
+- [AM-RTJ-13-2360](AM-RTJ-13-2360.md) — Dorothy Fe Mah-Arevalo Vs. Judge Celso L. Mantua, Regional Trial Court, Br. 17, 
+- [AM-RTJ-14-2367](AM-RTJ-14-2367.md) — Sr. Remy Angela Junio, SPC and Josephine D. Lorica Vs. Judge Marivic A. Cacatian
+- [AM-RTJ-14-2376](AM-RTJ-14-2376.md) — Ma. Liza M. Jorda, City Prosecutor's Office, Tacloban City Vs. Judge Crisologo S
+- [AM-RTJ-14-2388](AM-RTJ-14-2388.md) — Emilie Sison-Barias Vs. Judge Marino E. Rubia, RTC, Branch 24, Binan, Laguna, et
+- [AM-RTJ-14-2390](AM-RTJ-14-2390.md) — Josephine Jazmines Tan Vs. Judge Sibanah E. Usman, RTC, Branch 28, Catbalogan Ci
+- [AM-RTJ-14-2394](AM-RTJ-14-2394.md) — George T. Chua Vs. Judge Fortunito L. Madrona, Regional Trial Court, Branch 274,
+- [AM-RTJ-14-2399](AM-RTJ-14-2399.md) — Gaspar Bandoy Vs. Judge Jose S. Jacinto, Jr., Presiding Judge, Branch 45, and Ac
+- [AM-SB-12-19-P](AM-SB-12-19-P.md) — Civil Service Commission Vs. Herminigildo L. Andal, etc.
+- [AM-SB-14-21-J](AM-SB-14-21-J.md) — Re: Allegations made under oath at the Senate Blue Ribbon Committee hearing held
+- [BM-2482](BM-2482.md) — Re: Melchor Tiongson, Head Watcher, During the 2011 Bar Examinations
+- [BM-2713](BM-2713.md) — Atty. Aileen R. Maglana Vs. Atty. Jose Vicente R. Opinion
+- [GR-120051](GR-120051.md) — City of Manila, Hon. Alfredo S. Lim, as Mayor of the City of Manila, et al. Vs. 
+- [GR-125346](GR-125346.md) — La Suerte Cigar & Cigarette Factory Vs. Court of Appeals, et al/Commissioner of 
+- [GR-142983](GR-142983.md) — Solidbank Corporation Vs. Goyu & Sons, Inc., et al., Rizal Banking Corporation
+- [GR-146376](GR-146376.md) — RODOLFO M. AGDEPPA vs. HONORABLE OFFICE OF THE OMBUDSMAN, ACTING THROUGH THE OFF
+- [GR-149638](GR-149638.md) — Moncayo Integrated Small-Scale Miners Association, Inc. Vs. Southeast Mindanao G
+- [GR-150326](GR-150326.md) — The National Wages and Productivity Commission (NWPC), et al. Vs. The Alliance o
+- [GR-151258](GR-151258.md) — Artemio Villareal Vs. People of the Philippines/People of the Philippines Vs. th
+- [GR-152334](GR-152334.md) — H.H. Hollero Construction, Inc. Vs. Government Services Insurance Systems, et al
+- [GR-154291](GR-154291.md) — Lopez Realty, Inc. and Asuncion Lopez-Gonzalez Vs. Sps. Reynaldo Tanjangco and M
+- [GR-154390](GR-154390.md) — Metropolitan Fabrics, Inc., et al. Vs. Prosperity Credit Resources, Inc. et al.
+- [GR-156208](GR-156208.md) — NPC Drivers and Mechanics Association (NPC-DAMA), represented by its president R
+- [GR-156330](GR-156330.md) — Nedlloyd Lijnen B.V. Rotterdam and The East Asiatic Co., Ltd. Vs. Glow Laks Ente
+- [GR-156407](GR-156407.md) — Thelma N. Aranas Vs. Teresita V. Mercado, et al.
+- [GR-156577](GR-156577.md) — Alejandro C. Rivera Vs. People of the Philippines/Alfredo Y. Perez, Jr. Vs. Peop
+- [GR-157163](GR-157163.md) — Bank of the Philippine Islands Vs. Hon. Judge Agapito L. Hontanosas, Jr., et al.
+- [GR-157485](GR-157485.md) — Republic of the Philippines represented by Aklan National Colleges of Fisheries 
+- [GR-157583](GR-157583.md) — Frumencio E. Pulgar Vs. The Regional Trial Court of Mauban, Quezon, Br. 64, Quez
+- [GR-157633](GR-157633.md) — Northwest Airlines, Inc. Vs. Ma. Concepcion M. Del Rosario
+- [GR-158150](GR-158150.md) — Agriex Co., Ltd. Vs. Hon. Titus Villanueva, et al.
+- [GR-158583](GR-158583.md) — Rosalie L. Gargoles Vs. Reylita S. Del Rosario
+- [GR-158916](GR-158916.md) — Heirs of Cornelio Miguel Vs. Heirs of Angel Miguel
+- [GR-159031](GR-159031.md) — Noel A. Lasanas Vs. People of the Philippines
+- [GR-159691](GR-159691.md) — Heirs of Marcelo Sotto, represented by Lolibeth Sotto Noble, et al. Vs. Matilde 
+- [GR-159926](GR-159926.md) — Pinausukan Seafood House-Roxas Blvd., Inc. Vs. Far East Bank and Trust Cp., now 
+- [GR-160025](GR-160025.md) — Sangguniang Panlungsod ng Baguio City Vs. Jadewell Parking Systems Corporation
+- [GR-160107](GR-160107.md) — Sps. Jaime Sebastian and Evangeline Sebastian Vs. BPI Family Bank, Inc., et al.
+- [GR-160110](GR-160110.md) — Mariano Mendoza and Elvira Lim Vs. Spouses Leonora J. Gomez and Gabriel V. Gomez
+- [GR-160143](GR-160143.md) — Land Bank of the Philippines Vs. Benecio Eusebio, Jr.
+- [GR-160600](GR-160600.md) — Domingo Gonzalo Vs. John Tarnate, Jr.
+- [GR-160689](GR-160689.md) — Raul H. Sesbreño Vs. Court of Appeals, et al.
+- [GR-160758](GR-160758.md) — Development Bank of the Philippines (DBP) Vs. Guariña Agricultural and Realty De
+- [GR-160827](GR-160827.md) — Netlink Computer, Inc. Vs. Eric Delmo
+- [GR-161106](GR-161106.md) — World Wide Web Corporation, et al. Vs. People of the Philippines, et al./Planet 
+- [GR-161151](GR-161151.md) — BJDC Construction, represented by its Manager/Proprieto Janet S. Dela Cruz Vs. N
+- [GR-161308](GR-161308.md) — Ricardo Medina, Jr. y Oriel Vs. People of the Philippines
+- [GR-161380](GR-161380.md) — AZNAR BROTHERS REALTY COMPANY vs. SPOUSES JOSE AND MAGDALENA YBAÑEZ
+- [GR-161589](GR-161589.md) — Penta Pacific Realty Corp. Vs. Ley Construction & Development Corporation
+- [GR-161759](GR-161759.md) — Commissioner of Customs Vs. Oilink International Corporation
+- [GR-162021](GR-162021.md) — Mega Magazine Publications, Inc., et al. Vs. Margaret A. Defensor
+- [GR-162063](GR-162063.md) — Leonora A. Pascual, represented by Florebhee N. Agcaoili, Attorney-In-Fact Vs. J
+- [GR-162205](GR-162205.md) — Revelina Limson Vs. Eugenio Juan Gonzalez
+- [GR-162230](GR-162230.md) — Isabelita Vinuya, et al. Vs. Executive Secretary Alberto G. Romulo, et al.
+- [GR-162299](GR-162299.md) — Saint Louis University, Inc., et al. Vs. Baby Nellie M. Olairez, et al./Baby Nel
+- [GR-162365](GR-162365.md) — Roberto R. David, represented by his Attorney-in-Fact Atty. Proceso M. Nacino Vs
+- [GR-163055](GR-163055.md) — The Commissioner of Customs, et al. Vs. New Frontier Sugar Corporation
+- [GR-163109](GR-163109.md) — MARICHU G. EJERA vs. BEAU HENRY L. MERTO and ERWIN VERGARA
+- [GR-163361](GR-163361.md) — Spouses Jose M. Estacion, Jr. [Deceased, substituted by Jose T. Estacion III, Ed
+- [GR-163654](GR-163654.md) — BPI Express Card Corp. Vs. Ma. Antonia R. Armovit
+- [GR-163753](GR-163753.md) — Dr. Encarnacion C. Lumantas Vs. Hanz Calapiz, represented by his parents, Hilari
+- [GR-163767](GR-163767.md) — Republic of the Philippines represented by the Director of Lands Vs. Rosario De 
+- [GR-163879](GR-163879.md) — Dr. Antonio P. Cabugao Vs. People of the Philippines and Spouses Roldolfo M. Pal
+- [GR-163999](GR-163999.md) — Philippine Long Distance Telephone Company Vs. Millard R. Ocampo, et al.
+- [GR-164246](GR-164246.md) — Herminia Acbang Vs. Hon. Jimmy Luczon, Jr., et al.
+- [GR-164277](GR-164277.md) — Fe U. Quijano Vs. Atty. Darill Almante
+- [GR-164408](GR-164408.md) — Republic of the Philippines Vs. Zurbaran Realty & Development Corp.
+- [GR-164686](GR-164686.md) — FOREST HILLS GOLF AND COUNTRY CLUB, INC.  vs. GARDPRO, INC.
+- [GR-164961](GR-164961.md) — Hector L. Uy Vs. Virginia G. Fule, et al.
+- [GR-164985](GR-164985.md) — First United Constructors Corporation, et al. Vs. Bayanihan Automotive Corporati
+- [GR-165451](GR-165451.md) — LG Electronics Philippines, Inc. Vs. Commissioner of Internal Revenue
+- [GR-166414](GR-166414.md) — Godofredo Enrile, et al. Vs. Hon. Danilo A. Manalastas, et al.
+- [GR-166441](GR-166441.md) — Norberto Cruz y Bartolome Vs. People of the Philippines
+- [GR-166680](GR-166680.md) — Aloysius Dait Lumauig Vs. People of the Philippines
+- [GR-166790](GR-166790.md) — Juan P. Cabrera Vs. Henry Ysaac
+- [GR-166923](GR-166923.md) — Philippine Migrants Rights Watch, Inc., et al. Vs. Overseas Workers Welfare Admi
+- [GR-166944](GR-166944.md) — Juanito Magsino Vs. Elena De Ocampo, Ramon Guico
+- [GR-166995](GR-166995.md) — Dennis T. Villareal Vs. Consuelo C. Aliga
+- [GR-167120](GR-167120.md) — Rodolfo V. Francisco Vs. Emiliana M. Rojas, et al.
+- [GR-167225](GR-167225.md) — Radio Mindanao Network, Inc. Vs. Michael Maximo R. Amurao III
+- [GR-167286](GR-167286.md) — International School Manila, et al. Vs. International School Alliance of Educato
+- [GR-167290](GR-167290.md) — Hermano Oil Manufacturing and Sugar Corporation Vs. Toll Regulatory Board, et al
+- [GR-167454](GR-167454.md) — Emeritu C. Barut Vs. People of the Philippines
+- [GR-168539](GR-168539.md) — People of the Philippines Vs. Henry T. Go
+- [GR-168612](GR-168612.md) — Philippine Electric Corporation (PHILEC) Vs. Court of Appeals, et al.
+- [GR-168903](GR-168903.md) — Ma. Ana Consuelo A.S. Madrigal Vs. Department of Justice, et al.
+- [GR-169247](GR-169247.md) — Ma. Consolacion M. Nahas, doing business under the name and style-Personnel Empl
+- [GR-169568](GR-169568.md) — Rolando Robles, represented by Atty. Clara C. Espiritu Vs. Fernando Fidel Yapcin
+- [GR-169745](GR-169745.md) — Republic of the Philippines, rep by the Hon. Secretary, DOLE Vs. Namboku Peak, I
+- [GR-169778](GR-169778.md) — Commissioner of Internal Revenue Vs. Silicon Philippines, Inc. (formerly Intel P
+- [GR-170007](GR-170007.md) — Tabangao Shell Refinery Employees Association Vs. Pilipinas Shell Petroleum Corp
+- [GR-170046](GR-170046.md) — People of the Philippines Vs. Maximo A. Borje, Jr., et al.
+- [GR-170139](GR-170139.md) — Sameer Oversees Placement Agency, Inc. Vs. Joy C. Cabiles
+- [GR-170462](GR-170462.md) — Rodolfo Guevarra and Joey Guevarra Vs. People of the Philippines
+- [GR-170701](GR-170701.md) — Ralph P. Tua Vs. Hon. Cesar A. Mangrobang, Presiding Judge, Branch 22, RTC, Imus
+- [GR-171212](GR-171212.md) — Indophil Textile Mills, Inc. Vs. Engr. Salvador Adviento
+- [GR-171286](GR-171286.md) — Dolores Campos Vs. Dominador Ortega Sr. and James Silos
+- [GR-171482](GR-171482.md) — Ashmor M. Tesoro, Pedro Ang and Gregorio Sharp Vs. Metro Manila Retreaders, Inc.
+- [GR-171482_SO](GR-171482_SO.md) — Ashmor M. Tesoro, Pedro Ang and Gregorio Sharp Vs. Metro Manila Retreaders, Inc.
+- [GR-171496](GR-171496.md) — Republic of the Philippines, represented by the Department of Public Works and H
+- [GR-171557](GR-171557.md) — Republic of the Philippines Vs. Rodolfo O. De Gracia
+- [GR-171590](GR-171590.md) — Bignay EX-IM Philippines, Inc. Vs. Union Bank of the Philippines / Union Bank of
+- [GR-171626](GR-171626.md) — Olongapo City Vs. Subic Water and Sewerage Co., Inc.
+- [GR-171836](GR-171836.md) — Department of Agrarian Reform, rep. by Hon. Nasser C. Pangandaman, in his capaci
+- [GR-171914](GR-171914.md) — Soledad Lavadia Vs. Heirs of Juan Luces Luna, represented by Gregorio Z. Luna an
+- [GR-172132](GR-172132.md) — Heritage Hotel Manila, acting through its owner, Grand Plaza Hotel Corp. Vs. Sec
+- [GR-172204](GR-172204.md) — Cathay Metal Corporation Vs. Laguna West Multi-Purpose Cooperative, Inc.
+- [GR-172218](GR-172218.md) — Feliciano B. Duyon, substituted by his children, namely: Maxima R. Duyon-Orsame,
+- [GR-172302](GR-172302.md) — Pryce Corporation Vs. China Banking Corporation
+- [GR-172404](GR-172404.md) — People's Trans-East Asis Insurance Corporation, a.k.a. People's General Insuranc
+- [GR-172505](GR-172505.md) — Antonio M. Garcia Vs. Ferro Chemicals, Inc.
+- [GR-172551](GR-172551.md) — Land Bank of the Philippines Vs. Yatco Agricultural Enterprises
+- [GR-172652](GR-172652.md) — Metropolitan Bank and Trust Company Vs. Wilfred N. Chiok/Bank of the Philippine 
+- [GR-172843](GR-172843.md) — Alfredo L. Villamor, Jr. Vs. John S. Umale, in substitution fo Hernando F. Balmo
+- [GR-172909](GR-172909.md) — Spouses Silvestre O. Plaza and Elena Y. Plaza Vs. Guillermo Lustiva, et al.
+- [GR-173082](GR-173082.md) — Palm Avenue Holding., Inc., et al. Vs Sandiganbayan, 5th Division, et al./Republ
+- [GR-173168](GR-173168.md) — Philippine Amanah Bank (Now Al-manah Islamic Investment Bank of the Philippines,
+- [GR-173188](GR-173188.md) — The Conjugal Partnership of the Spouses Vicente Cadavedo and Benita Arcoy-Cadave
+- [GR-173386](GR-173386.md) — Department of Agrarian Reform, etc. Vs. Trinidad Valley Realty & Devt. Corp., et
+- [GR-173423](GR-173423.md) — Sps. Antonio Fortuna and Erlinda Fortuna Vs. Republic of the Philippines
+- [GR-173523](GR-173523.md) — Lucena D. Demaala Vs. Sandiganbayan (Third Division) and Ombudsman
+- [GR-173540](GR-173540.md) — Peregrina Macua Vda. De Avenido Vs. Tecla Hoybia Avenido
+- [GR-173548](GR-173548.md) — ONOFRE ANDRES, SUBSTITUTED BY HIS HEIRS, NAMELY: FERDINAND, ROSALINA, ERIBERTO, 
+- [GR-173616](GR-173616.md) — Air Transpormation Office (ATO) Vs. Court of Appeals, et al.
+- [GR-173632](GR-173632.md) — Ambrosio Rotairo substituted by his Spouse Maria Ronsaryo Rotairo, et al. Vs. Ro
+- [GR-173802](GR-173802.md) — National Housing Authority Vs. Court of Appeals, Bernabe Noble, et al.
+- [GR-173861](GR-173861.md) — Jay Candelaria and Eric Bast Vs. Regional Trial Court, Br. 2, City of San Fernan
+- [GR-173988](GR-173988.md) — Felina Rosaldes Vs. People of the Philippines
+- [GR-174353](GR-174353.md) — Nestor Ching and Andrew Wellington Vs. Subic Bay Gold and Courtry Club, et al.
+- [GR-174411](GR-174411.md) — City of Dagupan, represented by the City Mayor Benjamin S. Lim Vs. Ester F. Mara
+- [GR-174433](GR-174433.md) — Philippine National Bank Vs. Sps. Enrique Manalo & Rosalinda Jacinto, et al.
+- [GR-174564](GR-174564.md) — Atty. Emmanuel D. Agustin, et al. Vs. Alejandro Cruz-Herrera
+- [GR-174938](GR-174938.md) — Gerardo Lanuza, Jr. and Antonio O. Olbes Vs. BF Corporation, et al.
+- [GR-174996](GR-174996.md) — Bro. Bernard Oca, et al. Vs. Laurita Custodio
+- [GR-175293](GR-175293.md) — Crisanto F. Castro, Jr. Vs. Ateneo De Naga University, Fr. Joel Tabora and Mr. E
+- [GR-175410](GR-175410.md) — SMI-ED Philippine Technology, Inc. Vs. Commissioner of Internal Revenue
+- [GR-175507](GR-175507.md) — Ramon Ching and Po Wing Properties, Inc Vs. Joseph Cheng, Jaime Cheng, Mercedes 
+- [GR-175540](GR-175540.md) — Dr. Filoteo A. Alano Vs. Zenaida Magud-Logmao
+- [GR-175689](GR-175689.md) — George A. Arriola Vs. Pilipino Star Ngayon, Inc., et al.
+- [GR-175707](GR-175707.md) — Fort Bonifacio Development Corporation Vs. Commissioner of Internal Revenue, et 
+- [GR-175723](GR-175723.md) — The City of Manila etc., et al. Vs. Hon. Caridad H. Grecia-Cuerdo etc., et al.
+- [GR-175750](GR-175750.md) — Silverina E. Consigna Vs. People of the Philippines
+- [GR-176020](GR-176020.md) — Heirs of Telesforo Julao, et al. Vs. Spouses Alejandro and Morenita Jesus
+- [GR-176043](GR-176043.md) — Sps. Bernadette and Rodulfo Vilbar Vs. Angelito L. Opinion
+- [GR-176055](GR-176055.md) — Spouses Edmundo Dela Cruz and Amelia Concio-Dela Cruz Vs. Spouses Rufino R. Capc
+- [GR-176102](GR-176102.md) — Rosal Hubilla y Carillo Vs. People of the Philippines
+- [GR-176121](GR-176121.md) — Spouses Teodorico and Pacita Rosete Vs. Felix and/or Marieta Briones, et al.
+- [GR-176317](GR-176317.md) — Manolito Gil Z. Zafra Vs. People of the Philippines
+- [GR-176341](GR-176341.md) — Pro-Guard Security Services Corporation vs. Tormil Reality Development Corporati
+- [GR-176439](GR-176439.md) — The President of the Church of Jesus Christ of Latter Day Daints Vs. BTL Constru
+- [GR-176492](GR-176492.md) — Marietta N. Barrido Vs. Leonardo V. Nonato
+- [GR-176598](GR-176598.md) — Petronio Clidoro, et al. Vs. Augusto Jalmanzar, et al.
+- [GR-176652](GR-176652.md) — Augusto C. Soliman Vs. Juanito C. Fernandez, in his capacity as receiver of SMC 
+- [GR-176694](GR-176694.md) — GMA Network, Inc. Vs. Central CATV, Inc.
+- [GR-176697](GR-176697.md) — Cesar V. Areza and Lolita B. Areza Vs. Express Savings Bank, Inc. and Michael Po
+- [GR-176830](GR-176830.md) — Saturnino C. Ocampo Vs. Hon. Ephrem S. Abando, et al./Randall B. Echanis Vs. Hon
+- [GR-176935](GR-176935.md) — ZAMBALES II ELECTRIC COOPERATIVE, INC. (ZAMECO II) BOARD OF DIRECTORS, NAMELY, J
+- [GR-177235](GR-177235.md) — Serconsision R. Mendoza Vs. Aurora Mendoza Fermin
+- [GR-177374](GR-177374.md) — Mariano Jose, et al. Vs. Ernesto M. Novida, et al.
+- [GR-177425](GR-177425.md) — Alonzo Gipa, et al. Vs. Southern Luzon Institute as represented by its Vice-Pres
+- [GR-177484](GR-177484.md) — Sps. Alejandro Manzanilla and Remedios Velasco Vs. Waterfields Industries Corpor
+- [GR-177493](GR-177493.md) — Eric Godfrey Stanley Livesey Vs. Binswanger Philippines, Inc. and Keith Elliot
+- [GR-177524](GR-177524.md) — National Union of Workers in Hotel Restaurant and Allied Industries [NUWRAIN-APL
+- [GR-177592](GR-177592.md) — Avelino S. Alilin, et al. Vs. Petron Corporation
+- [GR-177616](GR-177616.md) — Heirs of Spouses Joaquin Manguardia ans Susana Manalo, et al. Vs. Heirs of Simpl
+- [GR-177845](GR-177845.md) — Grace Christian High School, represented by its Principal, Dr. Jame Tan Vs. Fili
+- [GR-178055](GR-178055.md) — Amecos Innovations, Inc. and Antonio F. Mateo Vs. Eliza R. Lopez
+- [GR-178115](GR-178115.md) — People of the Philippines Vs. Jojo Suhilhig, et al.
+- [GR-178145](GR-178145.md) — Reynaldo S. Mariano Vs. People of the Philippines
+- [GR-178184](GR-178184.md) — Grand Asian Shipping Lines, et al. Vs. Wilfredo Galvez, et al.
+- [GR-178343](GR-178343.md) — The Office of the Ombudsman Vs. Alex M. Valencerina
+- [GR-178451](GR-178451.md) — Rural Bank of Cabadbaran, Inc. Vs. Jorgita A. Melecio-Yap, et al.
+- [GR-178497](GR-178497.md) — Edita T. Burgos Vs. Gen. Hermogenes Esperon, Jr., et al.
+- [GR-178512](GR-178512.md) — Alfredo De Guzman, Jr. Vs. People of the Philippines
+- [GR-178564](GR-178564.md) — INC Shipmanagement, Inc. Captain Sigfredo E. Monterroyo and/or Interorient Navig
+- [GR-178837](GR-178837.md) — Colegio De San Juan De Letran Vs. Isidra Dela Rosa-Meris
+- [GR-178911](GR-178911.md) — Eduardo D. Monsanto, et al. Vs. Leoncio Lim and Lorenzo De Guzman
+- [GR-179031](GR-179031.md) — People of the Philippines Vs. Benjamin Soria y Gomez
+- [GR-179080](GR-179080.md) — Edigardo Geroche, et al. Vs. People of the Philippines
+- [GR-179155](GR-179155.md) — Nicomedes J. Lozada Vs. Eulalia Bracewell, et al.
+- [GR-179205](GR-179205.md) — Heirs of Reynaldo Dela Rosa, Namely: Teofista Dela Rosa, Josephine Santiago and 
+- [GR-179260](GR-179260.md) — Commissioner of Internal Revenue Vs. Team (Philippines) Operations Corporation (
+- [GR-179367](GR-179367.md) — Unilever Philippines, Inc. Vs. Michael Tan a.k.a. Paul D. Tan
+- [GR-179518](GR-179518.md) — Bank of the Philippine Islands Vs. Vicente Victor C. Sanchez, et al./Generoso Tu
+- [GR-179535](GR-179535.md) — Jose Espineli a.k.a. Danilo Espineli Vs. People of the Philippines
+- [GR-179571](GR-179571.md) — Erlinda K. Ilusorio Vs. Baguio Country Club Corp. and Anthony R. De Leon
+- [GR-179597](GR-179597.md) — Iglesia Felipina Independiente Vs. Heirs of Bernardino Taeza
+- [GR-179625](GR-179625.md) — Nicanora G. Bucton Vs. Rural Bank of El Salvador, Inc. et al.
+- [GR-179654](GR-179654.md) — Hacienda Leddy/Ricardo Gamboa, Jr. Vs. Paquito Villegas
+- [GR-179669](GR-179669.md) — SR Metals, Inc., et al. Vs. The Honorable Angelo T. Reyes, in his capacity as Se
+- [GR-179914](GR-179914.md) — Sps. Reynaldo and Hilly G. Sombilon Vs. Atty. Rey Ferdinand Garay, et al./Atty. 
+- [GR-179962](GR-179962.md) — Dr. Joel C. Mendez Vs. People of the Philippines and Court of Tax Appeals
+- [GR-180016](GR-180016.md) — Lito Corpuz Vs. People of the Philippines
+- [GR-180069](GR-180069.md) — Philippine Commercial International Bank (now BDO Unibank, Inc.) Vs. Arturo P. F
+- [GR-180086](GR-180086.md) — AFP Retirement and Separation Benefits System [AFP-RSBS] Vs. Republic of the Phi
+- [GR-180105](GR-180105.md) — Sps. David Eserjose and Zenaida Eserjose Vs. Allied Banking Corporation and Paci
+- [GR-180134](GR-180134.md) — Rafael Vales, et al. Vs. Ma. Luz Choresca Galinato, et al.
+- [GR-180144](GR-180144.md) — Leonardo Bognot Vs. RPI Lending Corporation represented by its General Manager, 
+- [GR-180147](GR-180147.md) — Sara Lee Philippines, Inc. Vs. Emilinda D. Macatlang, et al./Aris Philippines, I
+- [GR-180290](GR-180290.md) — Commissioner of Internal Revenue Vs. Philippine National Bank
+- [GR-180343](GR-180343.md) — Bahia Shipping Services, Inc. and Fred Olsen Cruise Lines Limited
+- [GR-180364](GR-180364.md) — Tse Sun Wong also Known as Joseph Wong Vs. Kenny Wong
+- [GR-180416](GR-180416.md) — Aderito Z. Yujuico and Bonifacio C. Sumbilla Vs. Cezar T. Quiambao and Eric C. P
+- [GR-180496](GR-180496.md) — People of the Philippines Vs. Roy San Gaspar
+- [GR-180651](GR-180651.md) — Nursery Care Corporation, et al. Vs. Anthony Acevedo, in his capacity as the Tre
+- [GR-180654](GR-180654.md) — National Power Corporation Vs. Provincial Government of Bataan, et al.
+- [GR-180962](GR-180962.md) — Philtranco Service Enterprises, Inc. rep. by its Vice President for Administrati
+- [GR-180972](GR-180972.md) — Jonas Michael R. Garza Vs. Coca-Cola Bottlers Phils., Inc., et al.
+- [GR-181045](GR-181045.md) — Spouses Eduardo and Lydia Silos Vs. Philippine National Bank
+- [GR-181055](GR-181055.md) — Heirs of Teresita Montoya, et al. Vs. National Housing Authority, et al.
+- [GR-181459](GR-181459.md) — Commissioner of Internal Revenue Vs. Manila Electric Company
+- [GR-181490](GR-181490.md) — Mirant (Philippines) Corporation, et al. Vs. Joselito A. Caro
+- [GR-181541](GR-181541.md) — People of the Philippines Vs. Marissa Marcelo
+- [GR-181676](GR-181676.md) — Asian Construction and Development Corporation Vs. Sannaedle Company, Inc.
+- [GR-181719](GR-181719.md) — Eugene S. Arabit, et al. Vs. Jerdine Pacific Finance, Inc.
+- [GR-181723](GR-181723.md) — Elizabeth Del Carmen Vs. Spouses Restituto Sabordo and Mima Mahilim-Sabordo
+- [GR-181760](GR-181760.md) — Atty. Anacleto B. Buena, Jr., MNSA, etc. Vs. Dr. Sangcad D. Benito
+- [GR-181792](GR-181792.md) — Star Special Watchmen and Detective Angency, Inc., et al. Vs. Puerto Princesa Ci
+- [GR-181806](GR-181806.md) — Wesleyan University-Philippines Vs. Wesleyan University-Philippines Faculty and 
+- [GR-181836](GR-181836.md) — Bank of the Philippine Islands Vs. Commissioner of Internal Revenue
+- [GR-181843](GR-181843.md) — Miguel Cirera y Ustelo Vs. People of the Philippines
+- [GR-181921](GR-181921.md) — Interorient Maritime Enteprises, Inc. Vs. Victor M. Creer, III
+- [GR-181949](GR-181949.md) — Heirs of Francisco Bihag, namely: Alejandra Bihag, et al. Vs. Heirs of Nicasio B
+- [GR-182128](GR-182128.md) — Philippine National Bank Vs. Teresita Tan Dee, et al.
+- [GR-182153](GR-182153.md) — Tung Ho Steel Enterprises Corporation Vs. Ting Guan Trading Corporation
+- [GR-182399](GR-182399.md) — CS Garment, Inc. Vs. Commissioner of Internal Revenue
+- [GR-182424](GR-182424.md) — Nenita Carganillo Vs. People of the Philippines
+- [GR-182438](GR-182438.md) — Rene Ronulo Vs. People of the philippines
+- [GR-182472](GR-182472.md) — Land Bank of the Philippines Vs. Jaime K. Ibarra, et al.
+- [GR-182573](GR-182573.md) — Ray Shu Vs. Jaime Dee, et al.
+- [GR-182601](GR-182601.md) — Joey M. Pestilos, Dwight Macapanas, et al. Vs. Moreno Generoso and People of the
+- [GR-182704](GR-182704.md) — Land Bank of the Philippines Vs. Victorino Peralta
+- [GR-182705](GR-182705.md) — Vicente Josefa Vs. Manila Electric Company
+- [GR-182738](GR-182738.md) — Capitol Hills Gold & Country Club, Inc. and Pablo B. Roman, Jr. Vs. Manuel O San
+- [GR-182770](GR-182770.md) — WPM International Trading, Inc. and Warlito P. Manlapaz Vs. Fe Corazon Labayen
+- [GR-182794](GR-182794.md) — People of the Philippines Vs. Bobby Belgay
+- [GR-182839](GR-182839.md) — Philippine National Bank Vs. Jose Garcia and children, et al.
+- [GR-182894](GR-182894.md) — Fe Floro Valino Vs. Rosario D. Adriano, et al.
+- [GR-182908](GR-182908.md) — Heirs of Francisco I. Narvasa, Sr., et al. Vs. Emiliana Imbornal, et al.
+- [GR-182970](GR-182970.md) — Emiliano S. Samson Vs. Spouses Jose and Guillermina Gabor, Tanay Rural Bank, Inc
+- [GR-183015](GR-183015.md) — Republic of the Philippines, represented by the Secretary of the Department of P
+- [GR-183034](GR-183034.md) — Sps. Fernando and Ma. Elena Santos Vs. Lolita Alcazar, rep. by her Attorney-in-F
+- [PGG No. 16-76](GR-183161.md) — Office of the Ombudsman Vs. Amalio A. Mallari
+- [GR-183202](GR-183202.md) — Alberto Almojuela y Villanueva Vs. People of the Philippines
+- [GR-183204](GR-183204.md) — Metropolitan Bank & Trust Company Vs. Ana Grace Rosales and Yo Yuk To
+- [GR-183239](GR-183239.md) — Gregorio De Leon, doing business as G.D.L. Marketing Vs. Hercules Agro Industria
+- [GR-183272](GR-183272.md) — Sun Life of Canada (Philippines), Inc. Vs. Sandra Tan Kit and The Estate of the 
+- [GR-183290](GR-183290.md) — Department fo Agrarian Reform, rep by Secretary Nasser C. Pangandaman Vs. Spouse
+- [GR-183345](GR-183345.md) — Ma. Gracia Hao and Danny Hao Vs. People of the Philippines
+- [GR-183360](GR-183360.md) — Rolando C. Dela Paz Vs. L & J Development Company
+- [GR-183421](GR-183421.md) — Commissioner of Internal Revenue Vs. Aichi Forging Company of Asia, Inc.
+- [GR-183448](GR-183448.md) — Spouses Dominador Peralta and Ofelia Peralta Vs. Heirs of Bernardina Abalon, rep
+- [GR-183551](GR-183551.md) — The People of the Philippines Vs. Engr. Rodolfo Yecyec, Rogelio Biñas, Isidro Vi
+- [GR-183589](GR-183589.md) — Charlie Lim, represented by his heirs, and Lilia Salanguit Vs. Spouses Danilo Li
+- [GR-183664](GR-183664.md) — Airlift Asia Customs Brokerage Inc., and Allan G. Benedicto Vs. Court of Appeals
+- [GR-183700](GR-183700.md) — People of the Philippines Vs. Pablito Andaya y Reano
+- [GR-183795](GR-183795.md) — Prudential Bank (now Bank of the Philippine Islands) as the duly appointed Admin
+- [GR-183860](GR-183860.md) — Rodolfo Laborte, et al. Vs. Pagsanjan Tourism Consumers' Cooperative, et al.
+- [GR-183872](GR-183872.md) — Owen Prosper A. Mackay Vs. Spouses Dana Caswell and Cerelina Caswell
+- [GR-183880](GR-183880.md) — Commissioner of Internal Revenue Vs. Toledo Power, Inc.
+- [GR-183901](GR-183901.md) — Department of Agrarian Reform Vs. Salud Gacias Berina, et al./Land Bank of the P
+- [GR-183918](GR-183918.md) — Francisco Lim Vs. Equitable PCI Bank, now known as Banco De Oro Unibank, Inc.
+- [GR-183994](GR-183994.md) — William Co a.k.a. Xu Quing He Vs. New Prosperity Plastic Products, represented b
+- [GR-184000](GR-184000.md) — Puerto Azul Land, Inc. Vs. Pacific Wide Realty Development Corporation
+- [GR-184045](GR-184045.md) — Spouses Nicasio C. Marquez and Anita J. Marquez Vs. Spouses Carlito Alindog and 
+- [GR-184148](GR-184148.md) — Nora B. Calalang-Parulan, et al. Vs. Rosario Calalang-Garcia, et al.
+- [GR-184203](GR-184203.md) — City of Lapu-Lapu Vs. Philippine Economic Zone Authority/Prove of Bataan, repres
+- [GR-184295](GR-184295.md) — National Transmission Corporation Vs. Alpha Omega Integrated Corporation
+- [GR-184318](GR-184318.md) — Antonio E. Unica Vs. Anscor Swire Ship Management Corporation
+- [GR-184360](GR-184360.md) — Silicon Philippines, Inc. (Formerly Intel Philippines Manufacturing, Inc.) Vs. C
+- [GR-184618](GR-184618.md) — Peak Ventures Corporation and/or El Tigre Security Investigation Agency Vs. Heir
+- [GR-184758](GR-184758.md) — People of the Philippines Vs. Sonny Sabdula y Amanda
+- [GR-184785](GR-184785.md) — Ruby P. Lagoc Vs. Maria Elena Malaga, et al./Limuel P. Sales Vs. Maria Elena Mal
+- [GR-184982](GR-184982.md) — Land Bank of the Philippines Vs. Jose T. Lajom, rep. by Porfirio Rodriguez, et a
+- [GR-185092](GR-185092.md) — Republic of the Philippines Vs. Corazon C. Sese and Fe C. Sese
+- [GR-185100](GR-185100.md) — Girly G. Ico Vs. Systems Technology Institute, Inc., et al.
+- [GR-185145](GR-185145.md) — Sps. Vicente Afullugencia and Leticia Afulugencia Vs. Metropolitan Bank & Trust 
+- [GR-185267](GR-185267.md) — Cesar T. Quiambao and Eric C. Pilapil Vs. People of the Philippines, Aderito Z. 
+- [GR-185432](GR-185432.md) — Miramar Fish Company, Inc. Vs. Commissioner of Internal Revenue
+- [GR-185449](GR-185449.md) — Goodyear Philippines, Inc. and Remegio M. Ramos Vs. Marina L. Angus
+- [GR-185565](GR-185565.md) — Loadstar Shipping Company Inc., et al. Vs. Malayan Insurance Company, Inc.
+- [GR-185590](GR-185590.md) — Metropolitan Bankd and Trust Company Vs. Ley Construction and Development Corpor
+- [GR-185745](GR-185745.md) — Sps. Dominador Marcos, et al. Vs. Heirs of Isidro Bangi, et al.
+- [GR-185798](GR-185798.md) — Fil-Estate Properties, Inc. and Fil-Estate Network, Inc. Vs. Spouses Conrado and
+- [GR-185838](GR-185838.md) — Ricardo V. Quintos Vs. Department of Agrarian Reform Adjudication Board and Kanl
+- [GR-185922](GR-185922.md) — Heirs of Dr. Mariano Favis, Sr., represented by their co-heirs and attorneys-in-
+- [GR-185964](GR-185964.md) — Asian Terminals, Inc. Vs. First Lepanto-Taisho Insurance Corporation
+- [GR-185969](GR-185969.md) — AT&T Communications Services Phils., Inc. Vs. Commissioner of Internal Revenue
+- [GR-186063](GR-186063.md) — Philippine National Bank Vs. San Miguel Corporation
+- [GR-186439](GR-186439.md) — Universal Robina Sugar Milling Corporation and Rene Cabati
+- [GR-186455](GR-186455.md) — People of the Philippines Vs. Rosalinda Casabuena
+- [GR-186589](GR-186589.md) — Ricardo C. Silverio, Sr. and Lorna Cilian-Silverio Vs. Ricardo Silverio, Jr.
+- [GR-186621](GR-186621.md) — South East International Rattan, Inc. and/or Estanislao Agbay Vs. Jesus Coming
+- [GR-186622](GR-186622.md) — Peblia Alfaro, et al. Vs. Sps. Editho and Hera Dumalagan, et al.
+- [GR-186639](GR-186639.md) — Republic of the Philippines Vs. Emmanuel C. Cortez
+- [GR-186657](GR-186657.md) — Dominga B. Quito Vs. Stop and Save Corporation, as represented by Gregory David 
+- [GR-187000](GR-187000.md) — People of the Philippines Vs. Aquilino Andrade, et al.
+- [GR-187144](GR-187144.md) — Carmen T. Gahol, substituted by her heirs, Ricardo T. Gahol, et al. Vs. Esperanz
+- [GR-187240](GR-187240.md) — Carlos A. Loria Vs. Ludolfo P. Muñoz, Jr.
+- [GR-187401](GR-187401.md) — Ma. Rosario P. Campos Vs. People of the Philippines and First Women's Credit Cor
+- [GR-187403](GR-187403.md) — Trade and Investment Development Corporation of the Philippines (Formerly Philip
+- [GR-187456](GR-187456.md) — Alabang Develoment Corporation Vs. Alabang Hills Village Association and Rafael 
+- [GR-187495](GR-187495.md) — People of the Philippines Vs. Edgar Jumawan
+- [GR-187581](GR-187581.md) — Philippine Bank of Communications Vs. Basic Polyprinters and Packaging Corporati
+- [GR-187589](GR-187589.md) — Commissioner of Internal Revenue Vs. The Stanley Works Sales (Phils.), Incorpora
+- [GR-187621](GR-187621.md) — Mount Carmel College Employees Union (MCCEU)/Romulo S. Bascar, et al. Vs. Mount 
+- [GR-187701](GR-187701.md) — Chartis Philippines Insurance, Inc. (formerly Philam Insurance Company, Inc.) Vs
+- [GR-187702](GR-187702.md) — Securities and Exchange Commission Vs. Court of Appeals, et al./Astra Securities
+- [GR-187769](GR-187769.md) — Alvin Patrimonio Vs. Napoleon Gutierrez and Octavio Marasigan III
+- [GR-187836](GR-187836.md) — Social Justice Society (SJS) Officers etc. Vs. Alfredo S. Lim etc./Jose L. Atien
+- [GR-187843](GR-187843.md) — Capitol Sawmill Corporation and Columbia Wood Industries Corporation Vs. Concepc
+- [GR-187944](GR-187944.md) — Carmencita Suarez Vs. Mr. and Mrs. Felix E. Emboy, Jr. and Marilou P. Emboy-Dela
+- [GR-187973](GR-187973.md) — LZK Holdings and Development Corporation Vs. Planters Development Bank
+- [GR-187987](GR-187987.md) — Vicente Torres, Jr., Carlos Velez and The Heirs of Mariano Velez, namely Anita C
+- [GR-188035](GR-188035.md) — Immaculate Conception Academy, et al. Vs. Evelyn E. Camilon
+- [GR-188052](GR-188052.md) — Jean D. Gamboa Vs. People of the Philippines
+- [GR-188066](GR-188066.md) — Office fo the Ombudsman Vs. Cynthia E. Caberoy
+- [GR-188133](GR-188133.md) — People of the Philippines Vs. Oliver Renato Edaño y Ebdane
+- [GR-188190](GR-188190.md) — Barko International, Inc., et al. Vs. Eberly S. Alcayno
+- [GR-188191](GR-188191.md) — Enrique Almero y Alcantara Vs. People of the Philippines, et al.
+- [GR-188289](GR-188289.md) — David A. Noveras Vs. Leticia T. Noveras
+- [GR-188487](GR-188487.md) — VAN D. LUSPO vs. PEOPLE OF THE PHILIPPINES
+- [GR-188494](GR-188494.md) — Remman Enterprises, Inc. Vs. Republic of the Philippines
+- [GR-188497](GR-188497.md) — Commissioner Of Internal Revenue Vs. Pilipinas Shell Petroleum Corporation
+- [GR-188539](GR-188539.md) — Mariano Lim Vs. Security Bank Corporation
+- [GR-188653](GR-188653.md) — Lito Lopez Vs. People of the Philippines
+- [GR-188694](GR-188694.md) — Ricardo L. Atienza and Alfredo A. Castro Vs. People of the Philippines
+- [GR-188707](GR-188707.md) — People of the Philippines Vs. Mastor Sarip y Maruhom, et al.
+- [GR-188710](GR-188710.md) — People of the Philippines Vs. Matimanay Watamana a.k.a. Akmad Salipad
+- [GR-188747](GR-188747.md) — Manila Water Company Vs. Carlito Del Rosario
+- [GR-188753](GR-188753.md) — Am-Phil Food Concepts, Inc. Vs. Paolo Jesus T. Padilla
+- [GR-188773](GR-188773.md) — Heirs of Valentin Basbas, et al. Vs. Ricardo Basbas, as represented by Eugenio B
+- [GR-188801](GR-188801.md) — ROSARIO MATA CASTRO and JOANNE BENEDICTA CHARISSIMA M. CASTRO, A.K.A.
+- [GR-188832](GR-188832.md) — Vivencio B. Villagracia Vs. 5th Shari'a District Court and Roldan E. Mala, repre
+- [GR-188881](GR-188881.md) — Republic of the philippines Vs. Bienvenido R. Tantoco, Jr., Dominador R. Santiag
+- [GR-188909](GR-188909.md) — Republic of the Philippines Vs. Florendo B. Arias, Asst. Director, Bureau of Equ
+- [GR-188913](GR-188913.md) — City Government of Baguio, herein represented by City Mayor Reinaldo A. Bautista
+- [GR-188931](GR-188931.md) — Juanito M. Gopiao Vs. Metropolitan Bank & Trust Co.
+- [GR-188944](GR-188944.md) — Spouses Rodolfo A. Berot and Lilia P. Berot Vs. Felipe C. Siapno
+- [GR-189061](GR-189061.md) — Midway Maritime and Technological Foundation, represented by its Chairman/Presid
+- [GR-189171](GR-189171.md) — Edilberto L. Barcelona Vs. Dan Joel Lim and Richard Tan
+- [GR-189176](GR-189176.md) — Barry Lanier and Perlita Lanier Vs. People of the Philippines
+- [GR-189248](GR-189248.md) — Teodoro S. Teodoro, et al. Vs. Danilo Espino, et al.
+- [GR-189358](GR-189358.md) — Centennial Guarantee Assurance Corporation Vs. Universal Motors Corporation, Rod
+- [GR-189405](GR-189405.md) — Sherwin Dela Cruz Vs. People of the Philippines and Carlos Alberto L. Gonzales, 
+- [GR-189420](GR-189420.md) — Raul V. Arambulo and Teresita Dela Cruz Vs. Genaro Nolasco and Jeremy Spencer No
+- [GR-189440](GR-189440.md) — Commissioner of Internal Revenue Vs. Minadanao II Geothermal Partnership
+- [GR-189456](GR-189456.md) — Chiang Kai Shek College and Carmelita Espino Vs. Rosalina M. Torres
+- [GR-189477](GR-189477.md) — Homeowners Savings and Loan Bank Vs. Asuncion P. Felonia and Lydia C. De Guzman,
+- [GR-189532](GR-189532.md) — Virginia S. Dio and H.S. Equities, Ltd. Vs. Subic Bay Marine Exploratorium, Inc.
+- [GR-189538](GR-189538.md) — Republic of the Philippines Vs. Merlinda L. Olaybar
+- [GR-189563](GR-189563.md) — Gilat Satellite Networks Ltd., Vs. United Coconut Planters Bank General Insuranc
+- [GR-189574](GR-189574.md) — Estrella D. S. Bañez Vs. Social Security System and De la Salle University
+- [GR-189596](GR-189596.md) — DEPARTMENT OF JUSTICE vs. TEODULO NANO ALAON
+- [GR-189618](GR-189618.md) — Rivelisa Realty, Inc., represented by Ricardo P. Venturina Vs. First Sta. Clara 
+- [GR-189629](GR-189629.md) — Dr. Phylis C. Rio Vs. Colegio De Sta. Rosa-Makati and/or Sr. Marilyn B. Gustilo
+- [GR-189644](GR-189644.md) — Neil E. Suyan Vs. People of the Philippines, et al.
+- [GR-189812](GR-189812.md) — People of the Philippines Vs. Reynaldo Baturi
+- [GR-189833](GR-189833.md) — People of the Philippines Vs. Javier Morilla y Avellano
+- [GR-189850](GR-189850.md) — People of the Philippines Vs. Bobby Torres
+- [GR-189861](GR-189861.md) — Michelin Asia Pacific Application Support Center, Inc. Vs. Mario J. Ortiz
+- [GR-189863](GR-189863.md) — Pedro L. Libang, Jr. Vs. Indochina Ship Management, Inc., Mr. Miguel Santos and 
+- [GR-189970](GR-189970.md) — Republic of the Philippines Vs. Crisanto S. Raneses
+- [GR-190021](GR-190021.md) — Commissioner of Internal Revenue Vs. Burmeistor and Wainscandinavian Contractor 
+- [GR-190028](GR-190028.md) — Leticia P. Ligon Vs. The Regional Trial Court, Branch 56 at Makati City and Its 
+- [GR-190053](GR-190053.md) — Navotas Shipyard Corporation and Jesus Villaflor Vs. Innocencio Montallana, et a
+- [GR-190080](GR-190080.md) — Golden Valley Exploration, Inc. Vs. Pinkian Mining Company and Copper Valley, In
+- [GR-190106](GR-190106.md) — Magdalena T. Villasi Vs. Filomena Garcia, substituted by his heirs, namely, Erme
+- [GR-190120](GR-190120.md) — Civil Aviation Authority of the Philippines Employees' Union (CAAP-EU) Vs. Civil
+- [GR-190161](GR-190161.md) — Anita N. Canuel, for herself and on behalf of her minor children, namely, Charma
+- [GR-190175](GR-190175.md) — People of the Philippines Vs. Edwin Caberera
+- [GR-190177](GR-190177.md) — People of the Philippines Vs. Vivian Bulotano y Amante
+- [GR-190178](GR-190178.md) — People of the Philippines Vs. Felimon Patentes y Zamora
+- [GR-190198](GR-190198.md) — Commissioner of Internal Revenue Vs. CE Luzon Geothermal Power Company, Inc.
+- [GR-190253](GR-190253.md) — Juan Trajano a.k.a. Johnny Trajano Vs. Uniwide Sales Warehouse Club
+- [GR-190276](GR-190276.md) — Euforcina Nieves, as rep. by her Atty-in-Fact, Lazaro Villarosa, Jr. Vs. Ernesto
+- [GR-190277](GR-190277.md) — Absolute Management Corporation Vs. Metropolitan Bank and Trust Company
+- [GR-190303](GR-190303.md) — Colegio De San Juan De Letran-Calamba Vs. Engr. Deborah P. Tardeo
+- [GR-190322](GR-190322.md) — People of the Philippines Vs. Virgilio Amora y Viscarra
+- [GR-190349](GR-190349.md) — People of the Philippines Vs. Francasio Delfin
+- [GR-190445](GR-190445.md) — Banco de Oro Unibank, Inc. Vs. Spouses Enrique Gabriel Locsin and Ma. Geraldine 
+- [GR-190486](GR-190486.md) — Stanley Fine Furniture, Elena and Carlos Wang Vs. Victor T. Gallano and Enriquit
+- [GR-190524](GR-190524.md) — Michaelina Ramos Balasbas Vs. Patricia B. Monayao
+- [GR-190620](GR-190620.md) — People of the Philippines Vs. Herminigildo B. Tabayan
+- [GR-190621](GR-190621.md) — People of the Philippines Vs. Glenn Salvador y Balverde, et al.
+- [GR-190623](GR-190623.md) — People of the Philippines Vs. Rommel Araza y Sagun
+- [GR-190632](GR-190632.md) — People of the Philippines Vs. Manolito Lucena y Velasquez
+- [GR-190706](GR-190706.md) — Shang Properties Realty Corporation (Formerly The Shang Grand Tower Corporation)
+- [GR-190724](GR-190724.md) — Diamond Taxi and/or Bryan Ong Vs. Felipe Llamas, Jr.
+- [GR-190818](GR-190818.md) — Metro Manila Shopping Mecca Corp., Shoemart, Inc., SM Prime Holdings, Inc., Star
+- [GR-190834](GR-190834.md) — Ariel T. Lim Vs. People of the Philippines
+- [GR-190837](GR-190837.md) — Republic of the Philippines rep. by the Bureau of Food and Drugs (BFAD) now Food
+- [GR-190863](GR-190863.md) — Raul Sato Vs. People of the Philippines
+- [GR-190901](GR-190901.md) — Amada Cotoner-Zacarias Vs. Sps. Alfredo Revilla and the Heirs of Paz Revilla
+- [GR-190928](GR-190928.md) — Team Energy Corporation (formerly Mirant Pagbilao Corp.) Vs. Commissioner of Int
+- [GR-190970](GR-190970.md) — Vilma M. Suliman Vs. People of the Philippines
+- [GR-191015](GR-191015.md) — People of the Philippines Vs. Jose C. Go, et al.
+- [GR-191034](GR-191034.md) — Agile Maritime Resources, Inc., et al. Vs. Apolinario N. Siador
+- [GR-191090](GR-191090.md) — Extraordinary Development Corporation Vs. Hermina F. Samson-Bico, et al.
+- [GR-191101](GR-191101.md) — Spouses Mario Ocampo and Carmelita F. Ocampo Vs. Heirs of Bernardino U. Dionisio
+- [GR-191154](GR-191154.md) — SPI Technologies, Inc., et al. Vs. Victoria K. Mapua
+- [GR-191189](GR-191189.md) — Manlar Rice Mill, Inc. Vs. Lourdes L. Deyto, doing business under the trade name
+- [GR-191215](GR-191215.md) — Thenamaris Philippines, Inc., etc., et al. Vs. Court of Appeals, et al.
+- [GR-191225](GR-191225.md) — Zarsona Medical Clinic Vs. Philippine Health Insurance Corporation
+- [GR-191237](GR-191237.md) — Robert Kua, et al. Vs. Gregorio Sacupayo and Maximiano R. Panerio
+- [GR-191240](GR-191240.md) — Cristina B. Castillo Vs. Phillip R. Salvador
+- [GR-191260](GR-191260.md) — People of the Philippines Vs. Melchor D. Brita
+- [GR-191360](GR-191360.md) — People of the Philippines Vs. Sherwin Bis y Avellaneda
+- [GR-191390](GR-191390.md) — People of the Philippines Vs. Joel Dioquino Y Garbin
+- [GR-191455](GR-191455.md) — Dreamland Hotel Resort and Westley J. Prentice Vs. Stephen B. Johnson
+- [GR-191498](GR-191498.md) — Commissioner of Internal Revenue Vs. Mindanao II Geothermal Partnership
+- [GR-191516](GR-191516.md) — Republic of the Philippines Vs. Francisca, Geronimo and Crispin, all surnamed Sa
+- [GR-191555](GR-191555.md) — Union Bank of the Philippines Vs. Development Bank of the Philippines
+- [GR-191590](GR-191590.md) — Republic of the Philippines Vs. Transunion Corporation
+- [GR-191672](GR-191672.md) — Dennis A. B. Funa Vs. The Chairman, Civil Service Commission, Francisco T. Duque
+- [GR-191694](GR-191694.md) — Narciso Zapanta, Edilberto Capulong and Clarita Capulong Vs. Co King Ki, etc.
+- [GR-191712](GR-191712.md) — Edita S. Bueno and Milagros E. Quinajon Vs. Office of the Ombudsman, Napoleon S.
+- [GR-191714](GR-191714.md) — T & H Shopfitters Corporation, et al. Vs. T & H Shopfitters Corporations/Gin Que
+- [GR-191723](GR-191723.md) — People of the Philippines Vs. Rolando Las Piñas, et al.
+- [GR-191727](GR-191727.md) — People of the Philippines Vs. Manuel S. Aplat
+- [GR-191838](GR-191838.md) — YKR Corporation, Ma. Teresa J. Yulo-Gomez, et al. Vs. Philippine Agri-Business C
+- [GR-191906](GR-191906.md) — Joselito Ma. P. Jacinto (Formerly President of F. Jacinto Group, Inc.) Vs. Edgar
+- [GR-192011](GR-192011.md) — Libcap Marketing Corporation, et al. Vs. Lanny Jean B. Baquial
+- [GR-192026](GR-192026.md) — Automat Realty and Development Corporation, et al. Vs. Spouses Marciano Dela Cru
+- [GR-192034](GR-192034.md) — Alpha Ship Management Corporation, et al. Vs. Eleosis V. Calo
+- [GR-192074](GR-192074.md) — Light Rail Transit Authority etc. Vs. Aurora A. Salvana
+- [GR-192100](GR-192100.md) — Republic of the Philippines, represented by the Department of Public Works and H
+- [GR-192123](GR-192123.md) — Dr. Fernando P. Solidum Vs. People of the Philippines
+- [GR-192150](GR-192150.md) — Federico Sabay Vs. People of the Philippines
+- [GR-192232](GR-192232.md) — People of the Philippines Vs. Jose Estalin Prodenciado
+- [GR-192300](GR-192300.md) — National Power Corporation Vs. Municipal Governemnt of Navotas, et al.
+- [GR-192302](GR-192302.md) — Republic of the Philippines, represented by the Anti-Money Laundering Council Vs
+- [GR-192304](GR-192304.md) — Anchor Savings Bank (now Equicom Savings Bank) Vs. Pinzman Realty and Developmen
+- [GR-192352](GR-192352.md) — Rosemarie Esmarialino Vs. Employees' Compensation Commission, Social Security Sy
+- [GR-192371](GR-192371.md) — Land Bank of the Philippines Vs. Emmanuel C. Oñate
+- [GR-192398](GR-192398.md) — Commissioner of Internal Revenue Vs. Pilipinas Shell Corporation
+- [GR-192432](GR-192432.md) — People of the Philippines Vs. Larry Mendoza y Estrada
+- [GR-192446](GR-192446.md) — Snow Mountain Dairy Corp. Vs. GMA Veterans Force, Inc.
+- [GR-192479](GR-192479.md) — Diones Belza Vs. Danilo T. Canonero, Antonio N. Esquivel and Cezar I. Belza
+- [GR-192531](GR-192531.md) — Bernardina P. Bartolome Vs. Social Security System and Scanmar Maritime Services
+- [GR-192571](GR-192571.md) — Abbott Laboratories, Phils., Cecille A. Terrible, Edwin D. Feist, Maria Olivia T
+- [GR-192573](GR-192573.md) — Ricardo N. Azuelo Vs. Zameco II Electric Cooperative, Inc.
+- [GR-192582](GR-192582.md) — Bluer Than Blue Joint Ventures Company/ Mary Ann Dela Vega Vs. Glyza Esteban
+- [GR-192669](GR-192669.md) — Raul Saberon, Joan F. Saberon and Jacqueline Saberon Vs. Oscar Ventanilla, Jr., 
+- [GR-192717](GR-192717.md) — Minda S. Gaerlan Vs. Republic of the Philippines
+- [GR-192820](GR-192820.md) — People of the Philippines Vs. Renato Dela Cruz
+- [GR-192861](GR-192861.md) — Linda Rana Vs. Teresita Lee Wong, et al./Sps Rosario and Wilson Uy, et al. Vs. S
+- [GR-192866](GR-192866.md) — Pedro G. Resurreccion, et al. Vs. People of the Philippines
+- [GR-192912](GR-192912.md) — People of the philippines Vs. Democrito Paras
+- [GR-192924](GR-192924.md) — Philippine Airlines, Inc. Vs. Reynaldo V. Paz
+- [GR-192957](GR-192957.md) — Emmanuel B. Moran, Jr. (deceased), substituted by his widow, Concorida V. Moran 
+- [GR-192973](GR-192973.md) — Pedrito Dela Torre Vs. Dr. Arturo Imbuido, Dra. Norma Imbuido in their capacity 
+- [GR-192993](GR-192993.md) — Wallem Maritime Services, Inc., and Reginaldo Oben/Wallem Shipmanagement Limited
+- [GR-192998](GR-192998.md) — Bernard A. Tenazas, Jaime M. Farncisco and Isidro G. Endraca Vs. R. Villegas Tax
+- [GR-193047](GR-193047.md) — Fil-Pride Shipping Company, Inc., et al. Vs. Edgar A. Balasta
+- [GR-193100](GR-193100.md) — Samar-I Electric Cooperative Vs. Commissioner of Internal Revenue
+- [GR-193107](GR-193107.md) — Sutherland Global Serives (Philippines), Inc. and Janette G. Lagazo Vs. Larry S.
+- [GR-193108](GR-193108.md) — Marilyn Victoria-Aquino Vs. Pacific Plans, Inc., and Mamerto A. Marcelo, Jr.
+- [GR-193117](GR-193117.md) — Heirs of Sps. Angel Liwagon, et al. Vs. Heirs of Sps. Demetrio Liwago, et al.
+- [GR-193217](GR-193217.md) — Corazon Macapagal Vs. People of the Philippines
+- [GR-193324](GR-193324.md) — St. Luke's Medical Center, Incorporated Vs. Daniel Quebral, et al.
+- [GR-193385](GR-193385.md) — People of the Philippines Vs. Dats Gandawali y Gapas and Nol Pagalad y Anas
+- [GR-193421](GR-193421.md) — McMer Corporation, Inc., Macario D. Roque, Jr. and Cecilia R. Alvestis Vs. Natio
+- [GR-193426](GR-193426.md) — Subic Bay Legend Resorts and Casinos, Inc. Vs. Bernard C. Fernandez
+- [GR-193462](GR-193462.md) — Dennis A.B. Funa Vs. Manila Economic and Cultural Office and COA
+- [GR-193478](GR-193478.md) — People of the Philippines Vs. Rodolfo P. Fernandez, Nelson E. Tobias and Frank R
+- [GR-193494](GR-193494.md) — Lui Enterprises, Inc. Vs. Zuellig Pharma Corporation and the Philippine Bank of 
+- [GR-193516](GR-193516.md) — Vilma Macedenio Vs. Catalina Ramo, et al.
+- [GR-193517](GR-193517.md) — The Heirs of Victorino Sarili, namely, Isabel A. Sarili, et al. Vs. Pedro F. Lag
+- [GR-193551](GR-193551.md) — Heirs of Gregorio Lopez, represented by Rogelia Lopez, et al. Vs. Development Ba
+- [GR-193592](GR-193592.md) — Pasig Printing Corporation Vs. Rockland Construction Company, Inc.;RP, represent
+- [GR-193628](GR-193628.md) — Splash Philippines, Inc., et al. Vs. Ronulfo G. Ruizo
+- [GR-193650](GR-193650.md) — George Philip P. Palileo and Jose De La Cruz Vs. Planters Development Bank
+- [GR-193652](GR-193652.md) — Infant Julian Yusay Caram represented by his mother, Ma. Christina Yusay Caram V
+- [GR-193666](GR-193666.md) — PEOPLE OF THE PHILIPPINES vs. MARLON CASTILLO E. VALENCIA
+- [GR-193670](GR-193670.md) — People of the Philippines Vs. Venerando Dela Cruz y Sebastian
+- [GR-193681](GR-193681.md) — Malayan Insurance Company, Inc. and Helen Y. Dee Vs. Philip Piccio, et al.
+- [GR-193684](GR-193684.md) — One Network Rural Bank, Inc. Vs. Danilo G. Baric
+- [GR-193707](GR-193707.md) — Norma A. Del Socorro, for and in behalf of her minor child Roderigo Norjo Van Wi
+- [GR-193787](GR-193787.md) — Spouses Jose C. Roque and Beatriz Dela Cruz Roque, et al. Vs. Ma. Pamela P. Agua
+- [GR-193791](GR-193791.md) — Primanila Plans, Inc., herein represented by Eduardo S. Madrid Vs. Securities an
+- [GR-193796](GR-193796.md) — Land Bank of the Philippines Vs. Atlanta Industries, Inc.
+- [GR-193856](GR-193856.md) — People of the Philippines Vs. Sukarno Janaide y Agga
+- [GR-193914](GR-193914.md) — Seven Brothers Shipping Corporation Vs. DMC-Construction Resources, Inc.
+- [GR-193966](GR-193966.md) — Design Sources International Inc. and Kenneth Sy Vs. Lourdes L. Eristingcol
+- [GR-193986](GR-193986.md) — Eastern Shipping Lines, Inc. Vs. BPI/MS Insurance Corp., and Mitsui Sumitomo Ins
+- [GR-194066](GR-194066.md) — Republic of the Philippines Vs. Franklin M. Millado
+- [GR-194068](GR-194068.md) — People of the Philippines Vs. Benjie Consorte y Franco
+- [GR-194077](GR-194077.md) — Florentino W. Leong and Elena Leong, et al. Vs. Edna C. See
+- [GR-194105](GR-194105.md) — Commissioner of Internal Revenue Vs. Team Sual Corporation (formerly Mirant Sual
+- [GR-194157](GR-194157.md) — Romeo R. Araullo Vs. Office of the Ombudsman, Hon. Merceditas N. Gutierrez, et a
+- [GR-194234](GR-194234.md) — People of the Philippines Vs. Jayson Cruz y Tecson
+- [GR-194390](GR-194390.md) — Venancio M. Sevilla Vs. People of the Philippines
+- [GR-194446](GR-194446.md) — People of the Philippines Vs. Hermenigildo Delen Y Escobilla
+- [GR-194507](GR-194507.md) — Federal Builders, Inc. Vs. Foundation Specialists, Inc/Foundation Specialists In
+- [GR-194560](GR-194560.md) — Nestor T. Gadrinab Vs. Nora T. Salamanca, Antonio Talao, and Elena Lopez
+- [GR-194612](GR-194612.md) — People of the Philippines Vs. Floro Manigo y Macalua
+- [G.R. No. 194629](GR-194629.md) — PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE, VS. DANTE DULAY, ACCUSED-APPELLAN
+- [GR-194638](GR-194638.md) — Parañaque Kings Enterprises, Inc. Vs. Catalina L. Santos, represented by her Att
+- [GR-194751](GR-194751.md) — Aurora N. De Pedro Vs. Romasan Development Corporation
+- [GR-194818](GR-194818.md) — Charles Bumagat, et al. Vs. Regalado Arribay
+- [GR-194833](GR-194833.md) — People of the Philippines Vs. Porferio Balino alias
+- [GR-194872](GR-194872.md) — Sahar International Trading, Inc. Vs. Warner Lambert Co., LLC and Pfizer, Inc. (
+- [GR-194884](GR-194884.md) — Imasen Philippine Manufacturing Corporation Vs. Ramonchito T. Alcon and Joann S.
+- [GR-194946](GR-194946.md) — People of the Philippines Vs. Eco Yaba y Basa a.k.a.
+- [GR-195031](GR-195031.md) — International Container Terminal Services, Inc. Vs. Celeste M. Chua
+- [GR-195064](GR-195064.md) — Nari K. Gidwani Vs. People of the Philippines
+- [GR-195190](GR-195190.md) — Royale Homes Marketing Corporation Vs. Fidel P. Alcantara
+- [GR-195227](GR-195227.md) — Froilan M. Bergonio, Jr., et al. Vs. South East Asian Arilines and Irene Cornier
+- [GR-195289](GR-195289.md) — Robinson's Bank Corporation (formerly The Royal Bank of Scotland[Phils.], Inc.) 
+- [GR-195374](GR-195374.md) — Pedro Lukang Vs. Pagbilao Development Corporation and Eduardo T. Rodriguez
+- [GR-195390](GR-195390.md) — Gov. Luis Raymund F. Villafuerte, Jr., and the Province of Camarines Sur Vs. Hon
+- [GR-195432](GR-195432.md) — Edelina T. Ando Vs. Department of Foreign Affairs
+- [GR-195443](GR-195443.md) — Juanario G. Campit Vs. Isidra B. Gripa, et al.
+- [GR-195466](GR-195466.md) — Ariel L. David, doing business under the name and style
+- [GR-195525](GR-195525.md) — People of the Philippines Vs. Wilfredo Gunda Alias
+- [GR-195542](GR-195542.md) — Securities and Exchange Commission Vs. Oudine Santos
+- [GR-195549](GR-195549.md) — Willaware Products Corporation Vs. Jesichris Manufacturing Corporation
+- [GR-195580](GR-195580.md) — Narra Nickel Mining and Development Corp., et al. Vs. Redmont Consolidated Mines
+- [GR-195594](GR-195594.md) — Republic of the Philippines, represented by the National Irrigation Administrati
+- [GR-195598](GR-195598.md) — Teekay Shipping Philippines, Inc., et al. Vs. Exequiel O. Jarin
+- [GR-195615](GR-195615.md) — Bank of Commerce Vs. Radio Philippines Network, Inc., et al.
+- [GR-195668](GR-195668.md) — People of the Philippines Vs. Ma. Harleta Velasco y Briones, et al.
+- [GR-195687](GR-195687.md) — Land Bank of the Philippines Vs. David G. Naval, Jr., et al.
+- [GR-195792](GR-195792.md) — Abosta Shipmanagement Corporation Vs. Wilhilm M. Hilario
+- [GR-195832](GR-195832.md) — Formerly INC Shipmanagement Incorporated (now INC Navigation Co., Phils, Inc.), 
+- [GR-195872](GR-195872.md) — Fortune Medicare, Inc. Vs. David Robert U. Amorin
+- [GR-195889](GR-195889.md) — Philippine National Bank Vs. Spouses Eduardo and Ma. Rosario Tajonera, et al.
+- [GR-196005](GR-196005.md) — People of the Philippines Vs. Charlie Fieldad, et al.
+- [GR-196023](GR-196023.md) — Jose Juan Tong, et al. Vs. Go Tiat Kun, et al.
+- [GR-196040](GR-196040.md) — Fe H. Okabe Vs. Ernesto A. Saturnino
+- [GR-196047](GR-196047.md) — Lepanto Consolidated Mining Corporation Vs. Belio Icao
+- [GR-196102](GR-196102.md) — Government Service Insurance System Vs. Aurelia Y. Calumpiano
+- [GR-196112](GR-196112.md) — GMA Network, Inc. Vs. National Telecommunications Commission
+- [GR-196117](GR-196117.md) — Krystle Realty Development Corporation, rep. by Chairman of the Board, William C
+- [GR-196118](GR-196118.md) — Leonardo C. Castillo represented by Lennard V. Castillo Vs. Security Bank Corpor
+- [GR-196122](GR-196122.md) — Joel b. Monana Vs. MEC Global Shipmanagement and Manning Corp. and HD Herm Davel
+- [GR-196142](GR-196142.md) — VENUS B. CASTILLO, ET AL. VS PRUDENTIALLIFE PLANS, INC. ET AL.
+- [GR-196146](GR-196146.md) — People of the Philippines Vs. Freddie Ladip y Rubio
+- [GR-196156](GR-196156.md) — Visayas Community Medical Center (VCMC) formerly known as Metro Cebu Commnunity 
+- [GR-196171](GR-196171.md) — RCBC Capital Corporation Vs. Banco De Oro Unibank, Inc./Banco De Oro Unibank, In
+- [GR-196182](GR-196182.md) — ECE Realty and Development, Inc. Vs. Rachel G. Mandap
+- [GR-196219](GR-196219.md) — Spouses Mauricio M. Tabino and Leonila Dela Cruz-Tabino Vs. Lazaro M. Tabino
+- [GR-196228](GR-196228.md) — People of the Philippines Vs. Renato Besmonte
+- [GR-196231](GR-196231.md) — Emilio A. Gonzales III Vs. Office of the President, etc., et al./Wendell Bareras
+- [GR-196249](GR-196249.md) — Rose Hana Angeles, etc., et al. Vs. Ferdinand M. Bucad, et al.
+- [GR-196251](GR-196251.md) — Olivarez Realty Corporation and Dr. Pablo R. Olivarez Vs. Benjamin Castillo
+- [GR-196276](GR-196276.md) — Takata (Philippines) Corporation Vs. Bureau of Labor Relations and Samahang Laka
+- [GR-196280](GR-196280.md) — Universidad De Sta. Isabel Vs. Marvin-Julian L. Sambajon, Jr.
+- [GR-196315](GR-196315.md) — People of the Philippines Vs. Leonardo Cataytay y Silvano
+- [GR-196435](GR-196435.md) — People of the Philippines Vs. Joel Crisostomo y Malliar
+- [GR-196508](GR-196508.md) — Leonardo A. Villalon and Erlinda Talde-Villalon Vs. Amelia Chan
+- [GR-196735](GR-196735.md) — People of the Philippines Vs. Danilo Feliciano, Jr., et al.
+- [GR-196753](GR-196753.md) — People of the Philippines Vs. Erwin Lalog, et al.
+- [GR-196786](GR-196786.md) — People of the Philippines Vs. Stanley Bunagan y Juan
+- [GR-196894](GR-196894.md) — Jesus G. Crisologo and Nanette B. Crisoslogo Vs. JEWM Agro-Industrial Corporatio
+- [GR-196936](GR-196936.md) — Monchito R. Ampeloquio Vs. Jaka Distribution, Inc.
+- [GR-196950](GR-196950.md) — Helen E. Cabling, assisted by her husband, Arnel Cabling Vs. Joselin Tan Lumapas
+- [GR-196960](GR-196960.md) — People of the Philippines Vs. Erwin Tamayo y Bautisa
+- [GR-196970](GR-196970.md) — People of the Philippines Vs. Rene Santiago
+- [GR-197005](GR-197005.md) — Princess Joy Placement and General Services, Inc. Vs. German A. Binalla
+- [GR-197046](GR-197046.md) — People of the Philippines Vs. George Zapata y Viana
+- [GR-197174](GR-197174.md) — Francler P. Onde Vs. The Office of the Local Civil Registrar of Las Piñas City
+- [GR-197192](GR-197192.md) — Commissioner of Internal Revenue Vs. The Insular Life Assurance Co., Ltd.
+- [GR-197204](GR-197204.md) — Danilo O. Garcia and Joven SD. Brizuela Vs. Sandiganbayan and People of the Phil
+- [GR-197228](GR-197228.md) — Duty Free Philippines Vs. Bureau of Internal Revenue, represented by Hon. Anselm
+- [GR-197293](GR-197293.md) — Alfredo C. Mendoza Vs. People of the Philippines and Juno Cars, Inc.
+- [GR-197303](GR-197303.md) — APQ Shipmanagement Co., Ltd., and APQ Crew Management USA, Inc. Vs. Angelito L. 
+- [GR-197307](GR-197307.md) — Flor Gupilan-Aguilar and Honore R. Hernandez Vs. Office of the Ombudsman by Hon.
+- [GR-197329](GR-197329.md) — National Power Corporation Vs. Luis Samar and Magdalena Samar
+- [GR-197336](GR-197336.md) — Meyr Enterprises Corporation Vs. Rolando Cordero
+- [GR-197380](GR-197380.md) — Eliza Zuniga-Santos, represented by her attorney-in-fact, Nympha Z. Sales Vs. Ma
+- [GR-197442](GR-197442.md) — Majestic Finance and Investment Co., Inc. Vs. Jose D. Tito/Cornelio Mendoza and 
+- [GR-197486](GR-197486.md) — Renato L. Delfino, Sr., (deceased) represented by his Heirs, namely: Gracia Delf
+- [GR-197515](GR-197515.md) — Commissioner of Internal Revenue Vs. United Salvage and Towage (Phils.), Inc
+- [GR-197525](GR-197525.md) — Visayas Geothermal Power Company Vs. Commissioner of Internal Revenue
+- [GR-197530](GR-197530.md) — Aboitiz Equity Ventures, Inc. Vs. Victor S. Chiongbian, Benjamin D. Gothong, and
+- [GR-197539](GR-197539.md) — People of the Philippines Vs. Angelita I. Daud, et al.
+- [GR-197561](GR-197561.md) — Coca-Cola Bottlers Philippines, Inc. Vs. City of Manila, et al.
+- [GR-197567](GR-197567.md) — Governor Enrique T. Garcia, Jr. Vs. Office of the Ombudsman, Leonardo B. Roman, 
+- [GR-197590](GR-197590.md) — Bureau of Internal Revenue, as represented by the Commissioner of Internal Reven
+- [GR-197591](GR-197591.md) — Taganito Mining Corporation Vs. Commissioner of Internal Revenue
+- [GR-197676](GR-197676.md) — Remman Enterprises, Inc., et al. Vs. Professional Regulatory Board of Real Estat
+- [GR-197760](GR-197760.md) — Team Energy Corporation (formerly Mirant Pagbilao Corp.) Vs. Commissioner of Int
+- [GR-197857](GR-197857.md) — Spouses Francisco Sierra (substituted by Donato, Teresita Teodora, Lorenza, Luci
+- [GR-197942](GR-197942.md) — Philippine Amusement and Gaming Corporation Vs. Thunderbird Pilipinas Hotels and
+- [GR-198022](GR-198022.md) — People of the Philippines Vs. Sonny Gatarin y Caballero @
+- [GR-198059](GR-198059.md) — People of the Philippines Vs. Antonio Lujeco y Macanoquit alas
+- [GR-198076](GR-198076.md) — Taganito Mining Corporation Vs. Commissioner of Internal Revenue
+- [GR-198093](GR-198093.md) — FLP Enterprises Inc.-Francesco Shoes/Emilio Francisco B. Pajaro Vs. Ma. Joeralyn
+- [GR-198097](GR-198097.md) — Status Maritime Corporation, et al. Vs. Spouses Margarito B. Delalamon and Prisc
+- [GR-198139](GR-198139.md) — National Power Corporation Vs. Felicisimo Tarcelo, et al.
+- [GR-198226](GR-198226.md) — Aboitiz Transport System Corp., et al. Vs. Carlos A. Gothong Lines, Inc., et al.
+- [GR-198271](GR-198271.md) — Arnaldo M. Espinas, Lillian N. Asprer, and Eleanora R. De Jesus Vs. Commission o
+- [GR-198314](GR-198314.md) — People of the Philippines Vs. Richard Guinto y San Andres
+- [GR-198342](GR-198342.md) — Remedios O. Yap Vs. Rover Maritime Services Corporation, et al.
+- [GR-198367](GR-198367.md) — OSG Shipmanagement Manila Inc., Mercedes M. Ravanopolous, OSG Shipmanagement (UK
+- [GR-198388](GR-198388.md) — Joraina Dragon Talosig Vs. United Philippine Lines, Inc., et al.
+- [GR-198408](GR-198408.md) — Conchita J. Racelis Vs. United Philippine Lines, Inc. and/or Holland America Lin
+- [GR-198452](GR-198452.md) — People of the Philippines Vs. Vicente Rom
+- [GR-198528](GR-198528.md) — Magsaysay Mitsui Osk Marine, Inc. and/or MOL Tankship Management (Asia) Pte. Ltd
+- [GR-198538](GR-198538.md) — Exocet Security and Allied Services Corporation and/or Ma. Teresa Marcelo Vs. Ar
+- [GR-198620](GR-198620.md) — P.J. Lhuillier, Inc. and Mario Ramon Ludeña Vs. Flodeliz Velayo
+- [GR-198636](GR-198636.md) — Esperanza C. Carinan Vs. Sps. Gavino Cuento, et al.
+- [GR-198640](GR-198640.md) — Carlo F. Sunga Vs. Virjen Shipping Corporation, Nissho Odyssey Ship Management P
+- [GR-198656](GR-198656.md) — Nancy S. Montinola Vs. Court of Appeals
+- [GR-198677](GR-198677.md) — Commissioner of Internal Revenue Vs. Basf + Inks Phils, Inc.
+- [GR-198729](GR-198729.md) — CBK Power Company Limited Vs. Commissioner of Internal Revenue
+- [GR-198804](GR-198804.md) — Carlito Valencia y Candelaria Vs. People of the Philippines
+- [GR-198878](GR-198878.md) — Residents of Lower Atab & Teachers' Village, Sto. Tomas Proper Barangay, Baguio 
+- [GR-198928](GR-198928.md) — CBK Power Company Limited Vs. Commissioner of Internal Revenue
+- [GR-199008](GR-199008.md) — Danilo Almero, et al. Vs. Heirs of Miguel Pacquing, as represented by Linda Pacq
+- [GR-199022](GR-199022.md) — Magsaysay Maritime Corporation Vs. Oscar D. Chin, Jr.
+- [GR-199027](GR-199027.md) — The Office of the Solicitor General Vs. The Court of Appeals, et al.
+- [GR-199028](GR-199028.md) — Cosmos Bottling Corporation Vs. Commission En Banc of the Securities and Exchang
+- [GR-199032](GR-199032.md) — Retired SPO4 Bienvenido Laud Vs. People of the Philippines
+- [GR-199042](GR-199042.md) — Danilo Villanueva y Alcaraz Vs. People of the Philippines
+- [GR-199070](GR-199070.md) — People of the Philippines Vs. Vicente R. Espinosa and Lindsey Buenavista/Ramos C
+- [GR-199096](GR-199096.md) — People of the Philippines Vs. Fred Traigo
+- [GR-199100](GR-199100.md) — People of the Philippines Vs. Rosendo Amaro
+- [GR-199133](GR-199133.md) — Esperanza Tumpag substituted by her son Pablito Tumpag Belnas, Jr. Vs. Samuel Tu
+- [GR-199139](GR-199139.md) — Elsie S. Causing Vs. Commission on Elections and Hernan D. Biron, Sr.
+- [GR-199146](GR-199146.md) — Heirs of Pacifico Pocido, et al. Vs. Arsenia Avila and Emelinda Chua
+- [GR-199208](GR-199208.md) — People of the Philippines Vs. Trinidad A. Cahilig
+- [GR-199211](GR-199211.md) — People of the Philippines Vs. Jeric Fernandez y Jaurigue
+- [GR-199226](GR-199226.md) — People of the Philippines Vs. Roel Vergara y Clavero
+- [GR-199268](GR-199268.md) — People of the Philippines Vs. Aurelio Jastiva
+- [GR-199283](GR-199283.md) — Juliet Vitug Madarang and Romeo Bartolome, represented by his attornes-in-fact a
+- [GR-199310](GR-199310.md) — Republic of the Philippines Vs. Remman Enterprises, Inc. represented by Ronnie P
+- [GR-199344](GR-199344.md) — Vetyard Terminals & Shipping Services, Inc./Miguel S. Perez, Seafix, Inc. Vs. Be
+- [GR-199388](GR-199388.md) — Omni Hauling Services, Inc., Lolita Franco, Aniceto Franco Vs. Bernardo Bon, Rob
+- [GR-199402](GR-199402.md) — People of the Philippines Vs. Enrique Quintos y Badilla
+- [GR-199420](GR-199420.md) — Philnico Industrial Corporation (formerly Philnico Mining and Industrial Corpora
+- [GR-199439](GR-199439.md) — City of General Santos, represented by its Mayor, Hon. Darlene Magnolia R. Anton
+- [GR-199442](GR-199442.md) — People of the Philippines Vs. Francisco Abaigar
+- [GR-199448](GR-199448.md) — Rolando S. Abadilla, Jr. Vs. Sps. Bonifacio P. Obrero and Bernabela N. Obrero
+- [GR-199549](GR-199549.md) — Civil Service Commission and Department of Science and Technology, Regional Offi
+- [GR-199595](GR-199595.md) — Philippine Woman's Christian Temperance Union, Inc. Vs. Teodoro R. Yangco 2nd an
+- [GR-199687](GR-199687.md) — Pacific Rehouse Corporation Vs. Court of Appeals and Export and Industry Bank, I
+- [GR-199689](GR-199689.md) — People of the Philippines Vs. Hermanos Constantino, Jr. y Binayug, a.k.a.
+- [GR-199740](GR-199740.md) — People of the Philippines Vs. Jerry Obogne
+- [GR-199780](GR-199780.md) — Government Service Insurance Corporation Vs. Jose M. Capacite
+- [GR-199852](GR-199852.md) — Sps. Felipe Solitarios and Julia Torda Vs. Sps. Gaston Jaque and Lilia Jaque
+- [GR-199871](GR-199871.md) — People of the Philippines Vs. Wilfredo Solano, Jr. y Gecita
+- [GR-199874](GR-199874.md) — People of the Philippines Vs. Peter Fang y Gamboa a.k.a.
+- [GR-199886](GR-199886.md) — Cagayan II Electric Cooperative, Inc. represented by its General Manager and Chi
+- [GR-199898](GR-199898.md) — People of the Philippines Vs. Leo Dela Trinidad y Oballes
+- [GR-200065](GR-200065.md) — Capital Shoes Factory, Ltd. Vs. Traveler Kids, Inc.
+- [GR-200077](GR-200077.md) — People of the Philippines Vs. Adel Ramos y Abellana
+- [GR-200103](GR-200103.md) — Civil Service Commission Vs. Maricelle M. Cortes
+- [GR-200148](GR-200148.md) — Ramon A. Syhunliong Vs. Teresita D. Rivera
+- [GR-200191](GR-200191.md) — Lourdes C. Fernandez Vs. Norma Villegas and any person acting in her behalf incl
+- [GR-200250](GR-200250.md) — UPSI Property Holdings, Inc. Vs. Diesel Construction Co., Inc.
+- [GR-200304](GR-200304.md) — People of the Philippines Vs. Donald Vasquez y Sandigan
+- [GR-200334](GR-200334.md) — The People of the Philippines Vs. Victor Cogaed y Romana
+- [GR-200358](GR-200358.md) — People of the Philippines Vs. Gerry Yable y Usman
+- [GR-200402](GR-200402.md) — Privatization and Management Office Vs. Strategic Alliance Development Corporati
+- [GR-200408](GR-200408.md) — S.V. More Pharma Corporation and Alberto A. Santillana Vs. Drugmakers Laboratori
+- [GR-200454](GR-200454.md) — Holy Trinity Realty and Development Corporation Vs. Victorio Dela Cruz, et al.
+- [GR-200468](GR-200468.md) — Macaria Arguelles and the Heirs of the Deceased Petronio Arguelles Vs. Malarayat
+- [GR-200491](GR-200491.md) — Kasamaka-Canlubang, Inc. represented by Pablito M. Egildo Vs. Laguna Estate Deve
+- [GR-200538](GR-200538.md) — City of Davao Vs. Court of Appeals and Benjamin C. De Guzman
+- [GR-200566](GR-200566.md) — Jebsen Maritime Inc., et al. Vs. Wilfredo E. Ravena
+- [GR-200575](GR-200575.md) — Intel Technology Philippines, Inc. Vs. National Labor Relations Commission and J
+- [GR-200597](GR-200597.md) — Emilio Raga y Casikat Vs. People of the Philippines
+- [GR-200598](GR-200598.md) — People of the Philippines Vs. Dennis E. Tancinco
+- [GR-200645](GR-200645.md) — People of the Philippines Vs. Wendel Ocodl y Mendova
+- [GR-200729](GR-200729.md) — Temic Automotive (Phils), Inc. Vs. Renato
+- [GR-200746](GR-200746.md) — Benson Industries Employees Union-ALU-TUCP and/or Vilma Genon, et al. Vs. Benson
+- [GR-200748](GR-200748.md) — Jaime Dela Cruz Vs. People of the Philippines
+- [GR-200793](GR-200793.md) — People of the Philippines Vs. Milan Roxas y Aguiluz
+- [GR-200804](GR-200804.md) — A.L. Ang Network, Inc. Vs. Emma Mondejar, accompanied by her husband, Efren Mond
+- [GR-200857](GR-200857.md) — FVR Skills and Services Exponents, Inc. (SKILLEX), Fulgencio V. Rana and Monina 
+- [GR-200877](GR-200877.md) — People of the Philippines Vs. Charve John Lagahit
+- [GR-200884](GR-200884.md) — The People of the Philippines Vs. Mildred Salvatierra y Matuco
+- [GR-200894](GR-200894.md) — Luzviminda Apran Canlas Vs. Republic of the Philippines
+- [GR-200903](GR-200903.md) — Kalipunan ng Damayang Mahihirap, Inc. etc., et al. Vs. Jessie Robredo, etc., et 
+- [GR-200915](GR-200915.md) — People of the Philippines Vs. Merlita Palomares y Costuna
+- [GR-200920](GR-200920.md) — People of the Philippines Vs. Jerusalem Esteban y Ballesteros
+- [GR-200987](GR-200987.md) — People of the Philippines Vs. Ronaldo Bayan y Neri
+- [GR-201001](GR-201001.md) — MCMP Construction Corp., Vs. Monark Equipment Corp.
+- [GR-201011](GR-201011.md) — Theresita, Juan, Asuncion, Patrocinia, Ricardo, and Gloria, all surnamed Dimagui
+- [GR-201043](GR-201043.md) — Republic of the Philippines, represented by the Armed Forces of the Philippines 
+- [GR-201072](GR-201072.md) — United Philippine Lines, Inc. and Holland America Line Vs. Generoso E. Sibug
+- [GR-201092](GR-201092.md) — People of the Philippines Vs. Joel Aquino y Cendana
+- [GR-201111](GR-201111.md) — People of the Philippines Vs. Alfredo Cerdon y Sanchez
+- [GR-201156](GR-201156.md) — People of the Philippines Vs. Joselito Morate y Tarnate
+- [GR-201195](GR-201195.md) — Taganito Mining Corporation Vs. Commissioner of Internal Revenue
+- [GR-201234](GR-201234.md) — Heirs of Amada A. Zaulda, namely: Eleseo A. Zaulda and Rodolfo A. Zaulda Vs. Isa
+- [GR-201237](GR-201237.md) — Philippine Touristers, Inc. and/or Alejandro R. Yague, Jr. Vs. Mas Transit Worke
+- [GR-201284](GR-201284.md) — Luvimin Cebu Minig Corp. and Luvimin Port Services Company, Inc. Vs. Cebu Port A
+- [GR-201286](GR-201286.md) — Inocencia Tagalog Vs. Maria Lim Vda. De Gonzalez, et al.
+- [GR-201298](GR-201298.md) — Raul C. Cosare Vs. Broadcom Asia, Inc., et al.
+- [GR-201483](GR-201483.md) — Conrado A. Lim Vs. HMR Philippines, Inc., et al.
+- [GR-201565](GR-201565.md) — People of the Philippines Vs. Ex-Mayor Carlos Estonilo, Sr., et al.
+- [GR-201572](GR-201572.md) — People of the Philippines Vs. Rael Delfin
+- [GR-201601](GR-201601.md) — Marylou Cabrera Vs. Felix Ng
+- [GR-201643](GR-201643.md) — Office of the Ombudsman Vs. Jose T. Capulong
+- [GR-201644](GR-201644.md) — People of the Philippines Vs. Jose C. Go and Aida C. Dela Rosa
+- [GR-201663](GR-201663.md) — Emmanuel M. Olores Vs. Manila Doctors College and/or Teresita O. Turla
+- [GR-201725](GR-201725.md) — People of the Philippines Vs. Joy Alcala y Novilla
+- [GR-201732](GR-201732.md) — People of the Philippines Vs. Jesus Burce
+- [GR-201781](GR-201781.md) — Annie Geronimo, Susan Geronimo and Silverland Alliance Christian Church Vs. Sps.
+- [GR-201858](GR-201858.md) — People of the Philippines Vs. Jenny Likiran alias
+- [GR-201860](GR-201860.md) — People of the Philippines Vs. Marcelino Dadao, Antonio Sulindao, Eddie Malogsi (
+- [GR-201861](GR-201861.md) — People of the Philippines Vs. Valentin Sabal y Parba, Jr.
+- [GR-202066](GR-202066.md) — CNK Power Company Limited Vs. Commissioner of Internal Revenue
+- [GR-202071](GR-202071.md) — Procted and Gamble Asia Pte Ltd. Vs. Commissioner of Internal Revenue
+- [GR-202122](GR-202122.md) — People of the Philippines Vs. Bernabe Pareja y Cruz
+- [GR-202303](GR-202303.md) — Gerardo R. Villaseñor and Rodel A. Mesa Vs. Ombudsman and Hon. Herbert Bautista,
+- [GR-202354](GR-202354.md) — Amanda C. Zacarias Vs. Victoria Anacay, Edna Anacay, et al.
+- [GR-202414](GR-202414.md) — Josephine Wee Vs. Felicidad Mardo
+- [GR-202666](GR-202666.md) — Rhonda Ave S. Vivares and Sps. Margarita and David Suzara Vs. St. Theresa's Coll
+- [GR-202692](GR-202692.md) — Edmund Sydeco y Sionzon Vs. People of the Philippines
+- [GR-202701](GR-202701.md) — People of the Philippines Vs. Edilberto Balibay y Labis and Maricel Balibay y Bi
+- [GR-202704](GR-202704.md) — People of the Philippines Vs. Joel Abat y Cometa
+- [GR-202733](GR-202733.md) — Development Bank of the Philippines Vs. Commission on Audit, et al.
+- [GR-202809](GR-202809.md) — Dennis L. Go Vs. Republic of the Philippines
+- [GR-202838](GR-202838.md) — People of the Philippines Vs. Julito Gerandoy
+- [GR-202976](GR-202976.md) — People of the Philippines Vs. Mervin Gahi
+- [GR-202996](GR-202996.md) — Marlo A. Deoferio Vs. Intel Technology Philippines, Inc., et al.
+- [GR-203022](GR-203022.md) — Antonio Martinez Vs. Hon. Ronaldo B. Martin, Presiding Judge, Regional Trial Cou
+- [GR-203028](GR-203028.md) — People of the Philippines Vs. Joselito Beran y Zapanta
+- [GR-203048](GR-203048.md) — People of the Philippines Vs. Rusty Bala
+- [GR-203080](GR-203080.md) — Dr. Idol L. Bondoc Vs. Marilou R. Mantala
+- [GR-203086](GR-203086.md) — People of the Philippines Vs. Jose Dalan y Paldingan
+- [GR-203161](GR-203161.md) — Martin K. Ayungo Vs. Beamko Shipmanagement Corporation, et al.
+- [GR-203254](GR-203254.md) — DR. JOY MARGARTE LEE vs. P/SUPT. NERI A ILAGAN
+- [GR-203288](GR-203288.md) — Remedios M. Mauleon Vs. Lolina Moran Porter rep. by Ervin C. Moran
+- [G.R. No. 203332](GR-203332.md) — FLORENCIO LIBONGCOGON, FELIPE VILLAREAL AND ALFONSO CLAUDIO, PETITIONERS, VS. PH
+- [GR-203335](GR-203335.md) — Jose Jesus M. Disini, Jr., et al. Vs. The Secretary of Justice, et al.
+- [GR-203434](GR-203434.md) — People of the Philippines Vs. Marcelino Viterbo y Realubit and Ronald Viterbo y 
+- [GR-203472](GR-203472.md) — Magsaysay Maritime Corporation, et al. Vs. Henry M. Simbajon
+- [GR-203560](GR-203560.md) — Republic of the Philippines Vs. Apostolita San Mateo, Brigida Tapang, Rosita Acc
+- [GR-203583](GR-203583.md) — Leonora Rimando Vs. Spouses Winston and Elenita Aldaba, and People of the Philip
+- [GR-203605](GR-203605.md) — P/C Insp. Lawrence B. Cajipe, et al. Vs. People of the Philippines
+- [GR-203655](GR-203655.md) — SM Land, Inc. Vs. Bases Conversion Development Authority and Arnel Paciano D. Ca
+- [GR-203696](GR-203696.md) — Jesse Philip B. Eijansantos Vs. Special Presidential Task Force 156, represented
+- [GR-203760](GR-203760.md) — Homer C. Javier, represented by his mother and natural guardian, Susan Canencia 
+- [GR-203775](GR-203775.md) — Association of Flood Victims, et al. Vs. Commission on Elections, et al.
+- [GR-203834](GR-203834.md) — Heirs of Diosdado M. Mendoza, namely: Licinia V. Mendoza, et al. Vs. Department 
+- [GR-203947](GR-203947.md) — Rufa A. Rubio, et al. Vs. Lourdes Alabata
+- [GR-203957](GR-203957.md) — University of Santo Tomas Faculty Union Vs. University of Santo Tomas
+- [GR-203974](GR-203974.md) — Aurelio M. Umali Vs. Commission on Elections, Julius Cesar Vs. Vergara, and The 
+- [GR-203984](GR-203984.md) — People of the Philippines Vs. Medario Calatiao y Dimalanta
+- [GR-204025](GR-204025.md) — Maria Lina S. Velayo Vs. Poeple of the Philippines
+- [GR-204029](GR-204029.md) — Avelina Abarientos Rebusquillo (substituted by her heirs, except Emelinda R. Gua
+- [GR-204101](GR-204101.md) — The Late Alberto B. Javier, as substituted by his surviving wife, Ma. Theresa M.
+- [GR-204142](GR-204142.md) — Honda Cars Philippines, Inc. Vs. Honda Cars Technical Specialist and Supervisors
+- [GR-204160](GR-204160.md) — Spouses Michelle M. Noynay and Noel S. Noynay Vs. Cityhomes Builder and Developm
+- [GR-204233](GR-204233.md) — Ricardo A. Dalusong Vs. Eagle Clarc Shipping Philippines, Inc., et al.
+- [GR-204369](GR-204369.md) — Enriqueta M. Locsin Vs. Bernardo Hizon, Carlos Hizon, Sps. Jose Manuel & Lourdes
+- [GR-204406](GR-204406.md) — Macarthur Melicdem and Hermenigildo Flores Vs. Marulas Industrial Corporation an
+- [GR-204429](GR-204429.md) — Smart Communications, Inc. Vs. Municipality of Malvar, Batangas
+- [GR-204589](GR-204589.md) — Rizaldy Sanchez y Cajili Vs. People of the Philippines
+- [GR-204626](GR-204626.md) — Paul P. Gabriel, Jr., Ireneo C. Calwag, Thomas L. Tingga-an and the Heirs of Jul
+- [GR-204651](GR-204651.md) — Our Haus Realty Development Corporation Vs. Alexander Parian, et al.
+- [GR-204699](GR-204699.md) — Bahia Shipping Services, Inc., et al. Vs. Joel P. Hipe, Jr.
+- [GR-204700](GR-204700.md) — Eagleridge Development Corporation, Marcelo N. Naval and Crispin I. Oben Vs. Cam
+- [GR-204729](GR-204729.md) — Lourdes Suites (Crown Hotel Management Corp.) Vs. Noemi Binarao
+- [GR-204745](GR-204745.md) — Mindanao II Geothermal Partnership Vs. Commissioner of Internal Revenue
+- [GR-204755](GR-204755.md) — Soledad Tria Vs. People of the Philippines
+- [GR-204761](GR-204761.md) — Emeritus Security and Maintenance Systems, Inc. Vs. Janrie C. Dailig
+- [GR-204800](GR-204800.md) — National Transmission Corporation Vs. Commission on Audit, Atty. Josephine A. Ti
+- [GR-204819](GR-204819.md) — James M. Imbong, et al. Vs. Hon. Paquito N. Ochoa, Jr., et al.
+- [GR-204869](GR-204869.md) — Technical Education and Skills Development Authority (TESDA)
+- [GR-204869_SO](GR-204869_SO.md) — Technical Education and Skills Development Authority (TESDA)
+- [GR-204894](GR-204894.md) — People of the Philippines Vs. Noel Enojas y Hingpit, Arnold Gomez y Fabregas, Fe
+- [GR-204911](GR-204911.md) — People of the Philippines Vs. Mike Steve y Basman and Rashid Mangtoma y Noni
+- [GR-204926](GR-204926.md) — Analceto C. Mangaser represented by his Attorney-in-fact Eustaquio Dugenia
+- [GR-204944](GR-204944.md) — Fuji Television, Inc. Vs. Arlene S. Espiritu
+- [GR-204964](GR-204964.md) — Remigio D. Espiritu and Noel Agustin Vs. Lutgarda Torres Del Rosario represented
+- [GR-205015](GR-205015.md) — Ma. Mimie Cresencio Vs. People of the Philippines
+- [GR-205055](GR-205055.md) — Commissioner of Internal Revenue Vs. Team Sual Corporation, etc.
+- [GR-205136](GR-205136.md) — Olivia De Silva Cerafica Vs. Commission on Elections
+- [GR-205144](GR-205144.md) — Margie Balerta Vs. People of the Philippines
+- [GR-205179](GR-205179.md) — Gerve Magallanes Vs. Palmer Asia, Inc.
+- [GR-205202](GR-205202.md) — People of the Philippines Vs. Nenita Gamata y Valdez
+- [GR-205227](GR-205227.md) — People of the Philippines Vs. Marco P. Alejandro
+- [GR-205230](GR-205230.md) — People of the Philippines V.s Ernesto Ventura, Sr.
+- [GR-205249](GR-205249.md) — Spouses Benedict and Sandra Manuel Vs. Ramon Ong
+- [GR-205278](GR-205278.md) — Philippine Spring Water Resources, Inc./Danilo Y. Lua Vs. Court of Appeals and J
+- [GR-205298](GR-205298.md) — Leopoldo Quintos y Del Amor Vs. People of the Philippines
+- [GR-205357](GR-205357.md) — GMA Network, Inc. Vs. Commission on Elections/ABC Devt. Corp. Vs. COMELEC/Manila
+- [GR-205382](GR-205382.md) — People of the Philippines Vs. Mauricio Hallarte y Mendoza
+- [GR-205453](GR-205453.md) — United Tourist Promotions (UTP), et al. Vs. Harland B. Kemplin
+- [GR-205487](GR-205487.md) — Orion Savings Bank Vs. Shigekane Suzuki
+- [GR-205543](GR-205543.md) — San Roque Power Corporation Vs. Commissioner of Internal Revenue
+- [GR-205561](GR-205561.md) — Dionisio B. Coloma, Jr. Vs. Hon. Sandiganbayan and People of the Philippines
+- [GR-205610](GR-205610.md) — People of the Philippines Vs. Ramonito Villarta y Rivera and Allan Armenta y Cab
+- [GR-205664](GR-205664.md) — Department of Education, represented by its Regional Director Teresita Domalanta
+- [GR-205741](GR-205741.md) — People of the Philippines Vs. Reyman Endaya y Laig
+- [GR-205800](GR-205800.md) — Microsoft Corporation and Adobe Systems Incorporated Vs. Samir Farajallah, et al
+- [GR-205821](GR-205821.md) — People of the Philippines Vs. Garry Dela Cruz y De Guzman
+- [GR-205870](GR-205870.md) — Lei Sheryll Fernandez Vs. Botica Claudio, represented by Guadalupe Jose
+- [GR-205879](GR-205879.md) — Skunac Corporation and Alfonso F. Enriquez Vs. Roberto S. Sylianteng, et al.
+- [GR-205956](GR-205956.md) — P/Supt. Hansel M. Marantan Vs. Atty. Jose Manuel Diokno and Monique Cu-Unjieng L
+- [GR-206162](GR-206162.md) — Alex M. Valencerina Vs. People of the Philippines
+- [GR-206234](GR-206234.md) — Heirs of Julio Sobremonte, et al. Vs. Court of Appeals, et al.
+- [GR-206248](GR-206248.md) — Grace M. Grande Vs. Patricio T. Antonio
+- [GR-206357](GR-206357.md) — Presidential Commission on Good Government (PCGG) Vs. The Hon. Ombudsman Conchit
+- [GR-206366](GR-206366.md) — People of the Philippines Vs. Eduardo Balaquit y Balderama
+- [GR-206368](GR-206368.md) — People of the Philippines Vs. Leonardo Battad and Marcelino Bacnis
+- [GR-206379](GR-206379.md) — Cecilia Pagaduan Vs. Civil Service Commission and Rema Martin Salvador
+- [GR-206510](GR-206510.md) — Most Rev. Pedro D. Arigo, et al. Vs. Scott H. Swift, et al.
+- [GR-206555](GR-206555.md) — Atty. Fortunato Pagdanganan, Jr., et al. Vs. Florentino P. Sarmiento
+- [GR-206599](GR-206599.md) — 680 Home Appliance, Inc. Vs. Hon. Court of Appeals, et al.
+- [GR-206661](GR-206661.md) — Hon. Orlando C. Casimiro, in his capacity as Acting Ombudsman; Hon. Rogelio L. S
+- [GR-206698](GR-206698.md) — Luis R. Villafuerte Vs. Commission on Elections, et al.
+- [GR-206716](GR-206716.md) — Ruben C. Jordan Vs. Grandeur Security Services, Inc.
+- [GR-206728](GR-206728.md) — Apo Cement Corporation Vs. Mingson Mining Industries Corporation
+- [GR-206768](GR-206768.md) — People of the Philippines Vs. Leonardo Castrodes
+- [GR-206770](GR-206770.md) — People of the Philippines Vs. Noel Prajes and Alipa Mala
+- [GR-206806](GR-206806.md) — Arco Pulp and Paper Co., Inc. and Candida A. Santos Vs. Dan. T. Lim, doing busin
+- [GR-206912](GR-206912.md) — People of the Philippines Vs. Demosthenes Bontuyan
+- [GR-207175](GR-207175.md) — Eduardo Magsumbol Vs. People of the Philippines
+- [GR-207176](GR-207176.md) — Spouses Victor and Edna Binua Vs. Lucia P. Ong
+- [GR-207253](GR-207253.md) — Crispin B. Lopez Vs. Irvine Construction Corp. and Tomas Sy Santos
+- [GR-207266](GR-207266.md) — Heirs fo Paciano Yabao, Represented by Remedios Chan Vs. Paz Lentejas Van Der Ko
+- [GR-207348](GR-207348.md) — Rowena R. Solante Vs. Commission on Audit, Chairperson Ma. Gracia Pulido-Tan, et
+- [GR-207376](GR-207376.md) — Aida Padilla Vs. Globe Asiatique Realty Holdings Corporation, et al.
+- [GR-207392](GR-207392.md) — People of the Philippines Vs. Ramie Ortega y Kalbi
+- [GR-207443](GR-207443.md) — Genato Investments, Inc. Vs. Hon. Judge Oscar P Barrientos, et al.
+- [GR-207513](GR-207513.md) — People of the Philippines Vs. Briccio Baculanta
+- [GR-207525](GR-207525.md) — Bonifacio Peidad, represented by Maria Inspiracion Peidad-Danao Vs. Sps. Victori
+- [G.R. No. 132913-14](GR-207629.md) — PEOPLE OF THE PHILIPPINES vs. ARNEL VILLALBA y DURAN and RANDY VILLALBA SARCO
+- [GR-207664](GR-207664.md) — People of the Philippines Vs. Gil Salvidar y Garlan
+- [GR-207682](GR-207682.md) — Conrado B. Nicart, Jr. as Provincial Governor of LGU-Eastern Samar Vs. Ma. Josef
+- [GR-207763](GR-207763.md) — People of the Philippines Vs. Rolando Rondina
+- [GR-207774](GR-207774.md) — People of the Philippines Vs. Carlos Alhambra y Masing
+- [GR-207818](GR-207818.md) — People of the Philippines Vs. Alex Delos Santos
+- [GR-207819](GR-207819.md) — People of the Philippines Vs. Guillermo B. Candano, Jr.
+- [GR-207851](GR-207851.md) — Angel G. Naval vs. Commission on Elections and Nelson B. Julia
+- [GR-207888](GR-207888.md) — Dionarto Q. Noblejas Vs. Italian Maritime Academy Phils., Inc., Capt. Nicolo S. 
+- [GR-207900](GR-207900.md) — Mayor Gamal S. Hayudini Vs. Commission on Elections and Mustapha J. Omar
+- [GR-207949](GR-207949.md) — People of the Philippines Vs. Armando Dionaldo y Ebron, et al.
+- [GR-207950](GR-207950.md) — People of the Philippines Vs. Mark Jason Chavez y Bitangcor
+- [GR-207983](GR-207983.md) — Wenphil Corporation Vs. Almer R. Abing and Anabelle M. Tuazon
+- [GR-207990](GR-207990.md) — People of the Philippines Vs. Elias Buenvinoto y Paglinawan
+- [GR-207992](GR-207992.md) — People of the Philippines Vs. Roberto Holgado y Dela Cruz and Antonio Misarez y 
+- [GR-208007](GR-208007.md) — People of the Philippines Vs. Rodrigo Gutierez y Robles, et al.
+- [GR-208169](GR-208169.md) — People of the Philippines Vs. Edward Adriano y Sales
+- [GR-208170](GR-208170.md) — People of the Philippines Vs. Petrus a.k.a.
+- [GR-208173](GR-208173.md) — People of the Philippines Vs. Oliver A. Buclao
+- [GR-208232](GR-208232.md) — Surviving Heirs of Alfredo R. Bautista, namely: Epifania G. Bautista and Zoey G.
+- [GR-208261](GR-208261.md) — Philippine Amusement and Gaming Corporatioin Vs. Lorenia P. De Guzman
+- [GR-208293](GR-208293.md) — PHILIPPINE NATIONAL BANK vs. CARMELITA S. SANTOS, REYME L. SANTOS, ANGEL L. SANT
+- [GR-208321](GR-208321.md) — Wesleyan University-Philippines Vs. Nowella Reyes
+- [GR-208462](GR-208462.md) — Sps. Carlos J. Suntay and Rosario R. Suntay Vs. Keyser Marcantile, Inc.
+- [GR-208469](GR-208469.md) — People of the Philippines Vs. Samuel
+- [GR-208567](GR-208567.md) — Jeannete V. Manalo, Vilma P. Barrious, Lourdes Lynn Michelle Fernandez and Leila
+- [GR-208623](GR-208623.md) — People of the Philippines Vs. Virgilio Antonio y Rivera
+- [GR-208660](GR-208660.md) — Peñafrancia Sugar Mill, Inc. Vs. Sugar Regulatory Administration
+- [GR-208678](GR-208678.md) — People of the Philippines Vs. Jefferson Warriner y Nicdao
+- [GR-208716](GR-208716.md) — People of the Philippines Vs. Eladio B. Lumaho alias
+- [GR-208719](GR-208719.md) — People of the Philippines Vs. Rolando Baraga y Arcilla
+- [GR-208740](GR-208740.md) — Corporate Strategies Development Corporation and Rafael R. Prieto Vs. Norman A. 
+- [GR-208749](GR-208749.md) — People of the Philippines Vs. Anecito Estibal y Calungsag
+- [GR-208760](GR-208760.md) — People of the Philippines Vs. Floro Buban Barcela
+- [GR-208761](GR-208761.md) — People of the Philippines Vs. Rolando Baraga y Arcilla
+- [GR-208828](GR-208828.md) — Ricardo Silverio, Sr. Vs. Ricardo Silverio, Jr., et al.
+- [GR-208890](GR-208890.md) — Joel N. Montellana Vs. La Consolacion College Manila, Sr. Imelda A. Mora and Alb
+- [GR-208976](GR-208976.md) — The Honorable Office of the Ombudsman Vs. Leovigildo Delos Reyes, Jr.
+- [GR-209185](GR-209185.md) — Marc Douglas IV C. Cagas Vs. Commission on Elections, etc., et al.
+- [GR-209195](GR-209195.md) — Manuel J. Jimenez, Jr. Vs. People of the Philippines/People of the Philippines V
+- [GR-209201](GR-209201.md) — New Filipino Maritime Agencies Inc., St. Paul Maritime Corp., and Angelina T. Ri
+- [GR-209202](GR-209202.md) — Catalino B. Belmonte, Jr. Vs. C.F. Sharp Crew Management, et al.
+- [GR-209219](GR-209219.md) — Bases Conversion and Development Authority (BCDA) Vs. Commission on Audit Chairp
+- [GR-209286](GR-209286.md) — Lina Dela Peña Jalover, et al. Vs. John Henry R. Osmeña, et al.
+- [GR-209287](GR-209287.md) — Maria Carolina P. Araullo, et al. Vs. Benigno Simeon C. Aquino III, President of
+- [GR-209302](GR-209302.md) — Alone Amar P. Tagle Vs. Anglo-Eastern Crew Management, Phils., Inc., Anglo-Easte
+- [GR-209373](GR-209373.md) — Joel Yongco and Julieto Lañojan Vs. People of the Philippines/Anecito Tangian, J
+- [GR-209386](GR-209386.md) — Mel Caprizo Candelaria Vs. People of the Philippines
+- [GR-209590](GR-209590.md) — People of the Philippines Vs. Gabriel Ducay y Balan
+- [GR-209651](GR-209651.md) — Marcelo Investment and Management Corp. and the Heirs of Edward T. Marcelo, name
+- [GR-209785](GR-209785.md) — People of the Philippines Vs. Marlon Abetong y Endrado
+- [GR-210148](GR-210148.md) — Antonio L. Daluraya Vs. Marla Oliva
+- [GR-210252](GR-210252.md) — Vilma Quintos, represented by her Attorney-in-Facts Fidel I. Quintos, Jr., et al
+- [GR-210619](GR-210619.md) — People of the Philippines Vs. Charles Reyes y Marasigan
+- [GR-210636](GR-210636.md) — Ma. Hazelina A. Tujan-Militante in behalf of the Minor Criselda M. Cada Vs. Raqu
+- [GR-210658](GR-210658.md) — People of the Philippines Vs. Primo P. Japson alias
+- [GR-210831](GR-210831.md) — Sps. Tagumpay N. Albos and Aida C. Albos Vs. Sps. Nestor M. Embisan, et al.
+- [GR-210987](GR-210987.md) — The Philippine American Life and General Insurance Company Vs. The Secretary of 
+- [GR-211049](GR-211049.md) — People of the Philippines Vs. Romeo Closa y Lualhati
+- [GR-211228](GR-211228.md) — University of Pangasinan, Inc., et al. Vs. Fernandez, et al.
+- [GR-211356](GR-211356.md) — Crisostomo B. Aquino Vs. Municipality of Malay, Aklan, represented by Hon. Mayor
+- [GR-211424](GR-211424.md) — Davao Holiday Transport Services Corporation Vs. Spouses Eulogio and Carmelita E
+- [GR-211465](GR-211465.md) — People of the Philippines Vs. Shirley A. Casio
+- [GR-211703](GR-211703.md) — Edelbert C. Uyboco Vs. People of the Philippines
+- [GR-212388](GR-212388.md) — Republic of the Philippine Vs. Heirs of Spouses Donato Sanchez and Juana Meneses
+- [GR-212398](GR-212398.md) — Emilio Ramon
+- [GR-212536](GR-212536.md) — Commissioner of Internal Revenue and Commissioner of Customs Vs. Philippines Air
+- [GR-212584](GR-212584.md) — Alroben J. Goh Vs. Hon. Lucilo R. Bayron and Commission on Elections
+- [GR-212689](GR-212689.md) — Ece Realty & Development, Inc. Vs. Haydyn Hernandez
+- [GR-212705](GR-212705.md) — Roberto Co Vs. Keng Huan Jerry Yeung and Emma Yeung
+- [GR-212953](GR-212953.md) — Jose Tapales Villarosa Vs. Romulo De Mesa Festin and Commission on Elections
+- [GR-213181](GR-213181.md) — Francis H. Jardeleza Vs. Chief Justice Maria Lourdes P. A. Sereno, The Judicial 
+- [GR-215427](GR-215427.md) — Philippine Amusement and Gaming Corporation (PAGCOR) Vs. The Bureau of Internal 
+- [UDK-14817](UDK-14817.md) — In the Matter of the Petition for Habeas Corpus of Minor Shang Ko Vingson Yu Shi

@@ -1,0 +1,204 @@
+# AM-MTJ-87-79
+
+**LEONILA A. VISTAN vs. J. RUBEN T. NICOLAS**
+
+## Metadata
+
+- **Case Title**: LEONILA A. VISTAN vs. J. RUBEN T. NICOLAS
+- **Ponente**: Per Curiam
+- **Division**: EN BANC
+- **Type**: Decision
+- **Source**: [lawphil.net](https://lawphil.net/judjuris/juri1991/sep1991/am_mtj-87-79_1991.html)
+
+---
+
+> Manila
+>
+> EN BANC
+>
+> **A.M. No. MTJ-87-79 September 13, 1991**
+>
+> LEONILA A. VISTAN, complainant,
+>
+> vs.
+> **JUDGE RUBEN T. NICOLAS, Municipal Trial Court, Pandi, Bulacan,** respondent**.**
+>
+> A.C. No. 3040 September 13, 1991
+>
+> LEONILA ANGELES VDA. DE VISTAN, complainant,
+>
+> vs.
+> **ATTY. RUBEN T. NICOLAS,** respondent.
+>
+> *Victor R. Nicolasora for complainant.*
+>
+>
+>
+> ***PER CURIAM:***
+>
+> These consolidated cases were brought by the same complainant, Leonila A. Vistan, against Respondent Judge Ruben T. Nicolas, Municipal Trial Court (MTC), Pandi, Bulacan.
+>
+> AM No. MTJ-87-79, filed on 16 March 1987, charged Respondent with gross ignorance of the law and grave abuse of authority and immorality. Complainant alleged that Respondent, as the then MTC Judge of Guiguinto, Bulacan, rendered a Decision in Criminal Case No. 3073, entitled "*People v. Narciso Paloma,*" for Forcible Abduction with Consent on 17 February 1987, acquitting the accused therein, despite the fact that Respondent had not yet ruled on the accused's written offer of evidence which was filed as early as 14 August 1984. Said Decision, Complainant contended, manifested Respondent's gross ignorance of the law and grave abuse of authority and discretion. Further, Complainant stated that Respondent was maintaining an illicit relationship with a woman not his wife and with whom he has a child.
+>
+> AM. No. MTJ-87-79 was initially dismissed on 21 February 1989 for having become moot and academic, upon Respondent's manifestation and after verification with the Office of the Court Administrator (OCA) that respondent had resigned from the service when he became a congressional candidate in the 1987 election. However, such reconsideration sought by Complainant and again confirmed by the OCA (p. 44, Rollo). Respondent was re-appointed to the service on 9 February 1989 as MTC Judge, this time, of Pandi, Bulacan. Accordingly, AM No. MTJ-87-79 was reinstated.
+>
+> On 14 December 1989, this Court referred the immorality charge to the Executive Judge of the Regional Trial Court (RTC), Malolos, Bulacan, for investigation, report and recommendation. The charge for gross ignorance of the law and grave abuse of authority and discretion, on the other hand, was referred to the Office of the Court Administrator (OCA) for evaluation, report and recommendation.
+>
+> The other case, AC No. 3040, for disbarment of Respondent, was filed on 15 May 1987. The charges set forth are basically the same as those in AM No. MTJ-87-79, namely: (1) knowingly rendering an unjust judgment during his tenure as MTC Judge of Guiguinto, Bulacan, in Criminal Case No. 3073; (2) immorality, for cohabiting with a paramour; and (3) violation of election laws. Except for the last charge, the offenses attributed to Respondent are based on the same set of facts.
+>
+> AC No. 3040 was, at first, referred to the Office of the Solicitor General for investigation, report and recommendation on 6 July 1987. Hearings were conducted before said office. However, proceedings therein were not concluded because, on 29 May 1989, the records were brought back to this Court pursuant to a Court Resolution, dated 29 November 1989, mandating that "all complaints against justices and judges of the lower courts filed ... should promptly be referred to the Supreme Court for appropriate action" ("Re: Letter of Acting Presiding Justice Rodolfo Nocon and Associate Justices Reynato Puno and Alfredo Marigomen, all of the Court of Appeals").
+>
+> On 12 February 1991, AM No. MTJ-87-79 and AC No. 3040 were ordered consolidated.
+>
+> *Re: Charge for Violation of Election Laws:*
+>
+> The charge for violation of election laws was brought up in AC No. 3040. Complainant narrated that as early as 10 February 1987, prior to 24 March 1987, or the date set by the Commission on Election (COMELEC) to be the start of the campaign period, and while still an MTJ Judge of Guiguinto, Bulacan, Respondent started circulating handbills/letters addressed to electoral constituents in the second district of Bulacan indicating his intention to run for a congressional seat. A sample of the letter (Annex "E," Complaint) reads:
+>
+> > Pebrero 10, 1987
+> >
+> > "Mayor Ranulfo "Maran" David
+> > "Bocaue, Bulacan
+> >
+> > "Mahal kong Kababayan,
+> >
+> > Ako po ay napiling kandidato bilang Kongresista o Kinatawan ng ikalawang purok ng Bulacan na binubuo ng mga bayan ng Bukawe, Balagtas, Pandi, Guiguinto, Plaridel, Baliwag, at Bustos.
+> >
+> > Batid po nating lahat na ang ating minamahal na bayang Bukawe ay minsan pa lang nakapagpadala ng anak sa bulwagan ng Kongreso, sa katauhan ng yumaong Kinatawan Erasmo R. Cruz na nanungkulan mula 1950 hanggang 1957. Mula noon, wala pang anak ng Bukawe na kumatawan sa ating pambansang lehistura.
+> >
+> > Ako po ay taos-pusong naniniwala na sa pamamagitan ng ating sama-samang pagsisikap at pagtutulungan, mayroon tayong napakalaking pagkakataon na magpadala ng isa pang anak ng Bukawe sa bagong Kongreso sa darating na Mayo 11, 1987.
+> >
+> > Dahil dito, kayo po ay malugod kong inaanyayahan na dumalo sa "kaukus-miting" sa aking tahanan sa 117 Wakas, Bukawe, Bulakan sa Sabado, Pebrero 21, 1987 sa ganap na ikalawa ng hapon (2:00 p.m.) upang talakayin kung paano nating makakamit ang layunin nating ito.
+> >
+> > Umaasa po ako sa inyong pakikipagtulungan at pagdalo sa nasabing "kaukus-miting."
+> >
+> > Maraming salamat po at pag-utusan po ninyo.
+> >
+> > Lubos na sumasainyo,
+> >
+> > RUBEN T. NIC0LAS
+> > Hukom at naging bokal.
+>
+> Respondent admitted having circulated such a letter (tsn, 12 November 1987, p. 12). He denies, however, that he was electioneering stating that he was merely voicing out his intention to run for Congressman as a matter of consultation.
+>
+> On this score, we find that Respondent had acted improperly when he sent out letters/handbills, manifesting his intention to run as a congressional candidate, addressed to electoral constituents of the second district of Bulacan as early as 10 February 1987, while still the incumbent MTC Judge of Guiguinto, Bulacan, and prior to the commencement of the campaign period on 24 March 1987.
+>
+> Section 45 of Pres. Decree No. 807 (Civil Service Law) clearly states:
+>
+> Section 45. No officer or employee in the Civil Service including members of the Armed Forces, *shall engage directly or indirectly in any partisan political activity or take part in any election* except to vote nor shall be use his official authority or influence to coerce the political activity of any other person or body. Nothing herein provided shall be understood to prevent any officer or employee from expressing his views on current political problems or issues, or from mentioning the names of candidates for public office whom he supports: ...
+>
+> In addition, Rule 5.10, Canon 5, of the Code of Judicial Conduct provides:
+>
+> Rule 5.10. A judge is entitled to entertain personal views on political questions. *But to avoid suspicion of political partisanship, a judge shall not* make political speeches, contribute to party funds publicly endorse candidates for political office or *participate in other partisan political activities.*
+>
+> For having held himself out as a congressional candidate while still a member of the Bench, Respondent took advantage of his position to boost his candidacy, demeaned the stature of his office, and must be pronounced guilty of gross misconduct.
+>
+> *Re: Complaint for Gross Ignorance of the Law and Grave Abuse of authority and Discretion:*
+>
+> The complaint for gross ignorance of the law and grave abuse of discretion and authority was already resolved by the Court in a Resolution, dated 4 December 1990, holding, among others:
+>
+> x x x           x x x          x x x
+>
+> "1) As regards the complaint for gross ignorance of the law and grave abuse of discretion, it appearing from the records that respondent, who was then hearing Criminal Case No. 3073 as Presiding Judge of the Municipal Trial Court of Guiguinto, Bulacan, had rendered a decision on 9 February 1987, acquitting the accused therein despite the fact that respondent had not yet ruled on the accused's written offer of evidence, which was filed as early as 14 August 1985, thereby depriving the prosecution of the opportunity to present rebuttal evidence, deciding the case prematurely, and exhibiting gross ignorance of the law, the Court Resolved to impose upon respondent a fine of P3,000.00 payable within thirty (30) days from notice. ...
+>
+> The fine, however, was subsequently reduced to P2,000 on 21 February 1991 upon respondent's Motion for Reconsideration.
+>
+> *Re: Charge of Immorality:*
+>
+> As earlier stated, the immorality charge was referred, on 14 December 1989, to the RTC Executive Judge of Malolos, Bulacan, for investigation, report and recommendation.
+>
+> Hearings were conducted by Executive Judge Natividad Dizon. The gist of complainant's testimonial and documentary evidence follows;
+>
+> 1. Complainant testified that everytime there was a hearing before respondent's sala in Criminal Case No. 3073 wherein she was the private complainant, respondent's mistress, Angelita de Castro was always there. In fact, the latter even approached her ang asked for P10,000.00 to insure success of the case. The matter of the respondent and the mistress living together was of public knowledge and that they have one child.
+>
+> 2. Judge Tirso Reyes, RTC, Cabanatuan City, testified that he and the respondent are close friends. He stated that he did not know any of the respondent's children, except the one who is a lawyer whom he met during the latter's "blowout" upon passing the bar examination. He narrated that about 10 to 12 years ago, he stood as a baptismal sponsor to a child who, according to a certain Counselor Chico who invited him, is allegedly respondent's child. He, however, was not able to verify whether the child is really of respondent as he did not see the latter during the baptismal. He remembered asking the respondent about the child to which respondent answered back  What child? Embarrassed, Judge Reyes did not pursue the matter anymore.
+>
+> 3. Complainant's Exhibit "R" is the "Magkasamang Sinumpaang Salaysay" executed by Rodelio Agapito and Juan Mendoza' on 21 February 1990 before the Investigating Judge. The affidavit stated that respondent and Angelita de Castro are their neighbors; that they are living together as husband and wife though respondent's legal wife is Pacita Santos. The affiants stated that the affidavit was executed to let the authorities know of respondent's immorality and want of moral fitness to be a judge.
+>
+> However, because the said two (2) witnesses failed to appear for cross examination and could no longer be located at their given addresses and considering respondent's manifestation that he was waiving the presentation of evidence, the Investigating Judge submitted a "Final Report" on 30 March 1990 without any recommendation on the ground that she "did not set further hearings as they would be conducted beyond the 30 day period requested in her partial report of 27 February 1990." On 8 May 1990, the Court remanded the case to said Investigating Judge for "further hearings until final completion," considering that the "Final Report" so-called was far from final.
+>
+> On 16 July 1990, Executive Judge Dizon submitted a "Complete and Final Report." It reiterated the evidence previously submitted before her and added as documentary evidence the entry in the police blotter (Exhs. M, M-1 to M-2) that Angelita de Castro, Respondent's alleged paramour was murdered on 14 May 1987. In addition, respondent's Personal Data Sheet (Exh. L) was presented showing that he is married to Pacita G. Santos with whom he has nine (9) children. The Report concluded that the evidence submitted was "not sufficient to hold respondent administratively liable for immorality," and recommended the dismiss of the charge.
+>
+> Directed to submit an evaluation, report and recommendation, the OCA came up with a Memorandum on 29 August 1990, recommending that the proper penalty be meted against respondent.ℒαwρhi৷ The Memorandum partly states:
+>
+> We wish to disagree on the conclusion of the Executive Judge that there was no sufficient evidence to prove the immorality charge because it can be adduced that while the respondent was not able to cross-examine the two affiants because of their sudden and mysterious disappearance from their residential places after testifying in court and attesting to the truthfulness of their statements which were not disputed by respondent other than his specific denials, creates an impression in the mind to form a belief as to the truth of the same; and considering that a judge, by reason of his office, exercises considerable influence in the community within his territorial jurisdiction to frustrate the ends of justice if he so desires which he pledged to uphold in the first place.
+>
+> Judge Tirso Reyes testified that he was one of the sponsors to a baptism of an alleged son of respondent judge whose name he recalls to be Richard but does not, however, remember the church where the same was celebrated other than it was somewhere in Manila; that he never bothered to ask for the surname of said Richard after being told that he was the son of the respondent. A closer scrutiny of said facts will readily reveal that a person with the reputation and status of an RTC judge will not just act as sponsor to a baptism of any child whose parents he does not know every well and at the mere invitation of someone who is not even a relative of said child, because it was very unnatural for him not to have at least asked for the names of the father and mother of the child; considering further that it would have been but natural for Judge Reyes to protect the herein respondent whom he acknowledged to be his close friend and "compadre" by the way he testified during the investigation.
+>
+> Moreover, what is required only to prove the charges in administrative cases is mere preponderance of evidence and not proof beyond reasonable doubt. Furthermore, we strongly believe that the failure of respondent to cross-examine the two witnesses cannot be attributed mainly to complainant as there appears a very strong presumption that their sudden disappearance is but a part of the legal strategy adopted by respondent for his defense.
+>
+> Faced with the discrepancy in recommendations, the Court referred the case back to the OCA on 27 September 1990 for further investigation, this time "with the assistance of the National Bureau of Investigation (NBI), particularly with respect to the disappearance of the two material witnesses, Rodelio Agapito and Juan Mendoza, and the brutal death of respondent's alleged paramour, Angelita de Castro."
+>
+> The NBI conducted the investigation requested. On 26 November 1990 it submitted its report, excerpts from which follow:
+>
+> a. The two material witnesses, Rodelio Agapito and Juan Mendoza, were located. They executed sworn statements alleging:
+>
+> 1. that they personally know Judge Nicolas and his paramour, Angelita de Castro, the two being their neighbors in Bocaue, Bulacan;
+>
+> 2. that respondent and Angelita publicly represented themselves as husband and wife;
+>
+> 3. that they were subpoenaed to testify against respondent but they did not appear during hearing because they were harassed and prevented by a certain Benito Mendoza, a neighborhood toughie and allegedly a henchman of respondent, who acted under his order.
+>
+> b. Interviews with the neighbors of respondent and his paramour revealed that the two had represented themselves to be husband and wife. The neighbors just kept quiet for respondent wields considerable influence in the community.
+>
+> c. That respondent's legal wife is Pacita Nicolas. They have their residence in Bocaue, Bulacan.
+>
+> d. With respect to the murder of Angelita de Castro, investigation revealed the latter was picked up by three men  Moises Joson, Jr., Ramon Mamangon and Reynaldo Agapito  on the night of 14 May 1987. It was the last time that Angelita was seen alive. Her decomposing body was found only on 19 May 1987, in Guiguinto, Bulacan.
+>
+> It appears that there was a Resolution recommending that an information for murder against the three men who picked up Angelita be filed. However, it was only on 3 October 1990, when the NBI started making inquiries that the criminal information was filed.
+>
+> The NBI also arrested one of the suspects, Ramon Mamangon. He admitted having picked-up Angelita on the evening of 14 May 1988 and his participation in her killing. He said that respondent's legal children, together with Moises Joson, Jr. and Reynaldo Agapito, were the ones how planned the killing. Ramon, however, claims that respondent had no participation as he left for Baguio a day before the killing occurred.
+>
+> NBI has reason to believe that, on the basis of the following substantial evidence, respondent and his children orchestrated the death of Angelita de Castro:
+>
+> 1. Judge Nicholas (sic) borrowed the jeep used in the commission of the crime two weeks before the incident on April 30, 1987.
+>
+> x x x           x x x          x x x
+>
+> 3. Conversations of the children of Judge Nicholas with Moises Joson, Jr. and Reynaldo Agapito before the incident.
+>
+> x x x           x x x          x x x
+>
+> 7. Victim is a witness who is scheduled to testify against subject Judge Nicholas who has pending administrative case for immorality before the Supreme Court. (Disposition Form pp. 34).
+>
+> On 4 December 1990, upon the recommendation of OCA, and "there (being) *prima facie* proof that the immorality charge is true, that the charge is related to the death of Angelita de Castro, alleged paramour of respondent Judge, and that there is reason to believe that with the circumstantial evidence thus far gathered, 'that respondent together with his children orchestrated her death,' the Court Resolved to Preventively Suspend from office respondent Judge ..., pending submission of the final report of the NBI and final resolution of the administrative case against him."
+>
+> Respondent moved for the lifting of his preventive suspension on the grounds that the charge of immorality was duly heard, but not proven, before the Executive Judge of the Regional Trial Court of Malolos, Bulacan, who recommended dismissal; that to "relate the charge to the death of his alleged paramour is going beyond the bounds of due process and fair play;" that the Court should not rely on "hearsay evidence of the NBI; and that in the absence of any criminal charge, there can be no preventive suspension."
+>
+> On 21 February 1991, the Court denied the lifting of Respondent's preventive suspension stating that "preventive suspension may be imposed pending an investigation if the charge involves grave misconduct, or if there are reasons to believe that the respondent is guilty of charges which would warrant his removal from the service (Pres. Decree No. 807, Sec. 41; 1987 Revised Administrative Code, Book V, Title I, Subtitle A, Chapter 6, Sec. 51). Immorality does involve grave misconduct, and the NBI finding is that there is *prima facie* proof that the charge is true."
+>
+> On 14 January 1991, the NBI submitted its Final Report recommending that copies of the case records be furnished the provincial Prosecutor of Bulacan and that six (6) members of respondent Judge's family, including the latter, be charged with and prosecuted for Murder.
+>
+> On 12 February 1991, because material witnesses Rodelio Agapito and Juan Mendoza had been located by the NBI, the immorality charge was again referred to Executive Judge Natividad Dizon for continuation of investigation, report and recommendation. Further, the Provincial Prosecutor of Bulacan was ordered furnished with a copy of the NBI report finding a *prima facie* case for Murder.
+>
+> Hearings were resumed by Executive Judge Dizon, during which witnesses Agapito and Mendoza recanted their joint affidavit. Respondent Judge appeared either through counsel or on his own behalf.ℒαwρhi৷ He did not present any evidence.
+>
+> On 17 July 1991, Executive Judge Dizon submitted her Report recommending that the proper penalty be meted against respondent Judge. She found the recantation of witnesses Agapito and Mendoza unworthy of belief after assessing the other evidence before her.
+>
+> We agree with the recommendation.
+>
+> Even if we were to discard the "Magkasamang Sinumpaang Salaysay" of Rodelio Agapito and Juan Mendoza, the investigation below revealed that they had also executed separate Affidavits before the NBI substantially of the same tenor, which new Affidavits were sworn to before Deputy Court Administrator Reynaldo L. Suarez. NBI Agent, Atty. Deborah Daquis, who headed a Special Task Force conducting the investigation, testified that those fresh statements were given voluntarily and that they had never complained against their "Sinumpaang Salaysay," which had previously been taken before the Investigating Judge on 21 February 1990.
+>
+> Significantly, in his Affidavit of 12 October 1990, Rodelio Agapito stated the he was not able to attend prior hearings conducted by Executive Judge Natividad Dizon between May to June, 1990, because he was prevented by a certain "Bening," a neighborhood toughie and respondent's alleged henchman, from attending the hearings upon respondent's order.
+>
+> Moreover, the NBI investigation further revealed:
+>
+> Interviews conducted by the undersigned from Subject Judge Nicolas' neighbors at Mendoza Street, Barangay Officials of Lolomboy, owner of Zaldy's Funeral Parlor at Bocaue, Dr. Benito B. Caballero of Municipal Health Unit of Bocaue and policemen of Bocaue Police Station, all reveal that subject Judge and Angelita de Castro have indeed openly and publicly represented themselves to be husband and wife. But because they know him to be a judge with considerable influence in the community, the residents of Bocaue, Bulacan, just kept silent about it despite their knowledge that Judge Nicolas is legally and lawfully married to one Pacita S. Nicolas and is living with the former at Malolos, Bocaue, Bulacan.
+>
+> To make matters worse, respondent's integrity and reputation is further sullied by his seeming involvement in the killing of Angelita de Castro. This incident, however, is now in the hands of the Provincial Prosecutor of Bulacan for such action as he deems proper to take in the premises.
+>
+> Upon the evidence before us in this administrative case, where preponderance of evidence suffices, and considering the exacting and stringent standards exacted of occupants of the Bench, the supreme sanction is called for.
+>
+> A Judge's official conduct should be free from impropriety or any appearance thereof. His personal behavior in the performance of official duty, as well as everyday life, should be beyond reproach (Paguirigan v. Clavaria, AM No. 537-CJ, 19 December 1974, 61 SCRA 411). High ethical principles and a sense of propriety should be maintained, without which the faith of the people in the judiciary so indispensable in an orderly society cannot be preserved (Candia v. Tagabucba, AM No. 528, MJ, 12 September 1977, 79 SCRA 51). There is no place in the judiciary for those who cannot meet the exacting standards of judicial conduct and integrity (Felix Barja v. Judge Bonifacio B. Bercacio, AM No. 561-MJ, 29 December 1976, 74 SCRA 355). In fact, moral integrity is more than a virtue; it is a necessity in the Judiciary (Dy Teban Hardware and Auto Supply Co. vs. Tapucar, AM No. 1720, 31 January 1981, 102 SCRA 494).
+>
+> **WHEREFORE,** 1) in AC No. 3040, the prayer for disbarment is **DENIED** but respondent Municipal Trial Court Judge, Ruben T. Nicolas, is **SEVERELY CENSURED** for his gross misconduct in holding himself out as a candidate for an elective office while still a member of the Bench; 2) in A.M. No. MTJ-87-79, respondent Judge is hereby DISMISSED from the service, with prejudice to re-employment in any branch, agency or instrumentality of the government including government-owned or controlled corporations, and with forfeiture of all his accrued retirement benefits and leave credits, if any.
+>
+> Let a copy of this Decision be spread in his personal record.
+>
+> **SO ORDERED.**
+>
+> *Fernan, C.J., Narvasa, Melencio-Herrera, Cruz, Paras, Padilla, Bidin, Griño-Aquino, Medialdea, Regalado and Davide, Jr., JJ., concur.*
+>
+> Gutierrez, Jr., Feliciano and Sarmiento, JJ., is on leave.
+>
+>
+>

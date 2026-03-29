@@ -1,0 +1,34 @@
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '14px'}}}%%
+flowchart TD
+    classDef navy fill:#1B365D,stroke:#0F1F3A,color:#FFFFFF,stroke-width:2px
+    classDef gold fill:#C5A54E,stroke:#9A7F2E,color:#1B365D,stroke-width:2px
+    classDef loopLabel fill:none,stroke:none,color:#1B365D,font-weight:bold,font-size:16px
+
+    CO["Conflict"]:::navy
+    IF["Investor Flight"]:::navy
+    FJ["Fewer Jobs"]:::navy
+    PO["Poverty"]:::navy
+    GR["Grievance"]:::navy
+
+    PP["Peace Process"]:::gold
+    SE["Security"]:::gold
+    IR["Investment Returns"]:::gold
+    JO["Jobs"]:::gold
+    PR["Prosperity"]:::gold
+    SP["Support for Peace"]:::gold
+
+    CO -->|"causes"| IF
+    IF -->|"means"| FJ
+    FJ -->|"deepens"| PO
+    PO -->|"fuels"| GR
+    GR -->|"reignites"| CO
+
+    PP -->|"establishes"| SE
+    SE -->|"attracts"| IR
+    IR -->|"creates"| JO
+    JO -->|"builds"| PR
+    PR -->|"generates"| SP
+    SP -->|"sustains"| PP
+
+    R1["<b>R-: Conflict Trap</b><br/>(Reinforcing Negative Loop)"]:::loopLabel
+    R2["<b>R+: Peace Dividend</b><br/>(Reinforcing Positive Loop)"]:::loopLabel

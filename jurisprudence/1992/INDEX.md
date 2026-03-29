@@ -1,0 +1,747 @@
+# Philippine Supreme Court Jurisprudence — 1992
+
+Total: 743 decisions
+
+- [AC-2405](AC-2405.md) — Perla Compania De Seguros, Inc. vs. Olegario Santisteban
+- [AC-3187](AC-3187.md) — Myrna D. Roque vs. Feliciano B. Clemencio
+- [AC-3247](AC-3247.md) — JOSE P. MARIANO vs. RTC JUDGE JOSE S. PEÑAS, JR.
+- [AC-3695](AC-3695.md) — DOMINGO C. GAMALINDA vs. FERNANDO ALCANTARA, ET AL.
+- [AC-3724](AC-3724.md) — Joaquin G. Garrido vs. Ramon J. Quisumbing, et al.
+- [AC-3806](AC-3806.md) — Araceli S. De Jesus vs. Consuelo Collado
+- [AC-88198](AC-88198.md) — PEDRO J. CALLEJO, JR. vs. JOSE D. GARCIA
+- [AM-1769](AM-1769.md) — Cesar L. Lantoria vs. Irineo L. Bunyi
+- [AM-2505](AM-2505.md) — EVANGELINE LEDA vs. TREBONIAN TABANG
+- [AM-2925](AM-2925.md) — JUAN M. FRANCISCO, JR., ET AL. vs. ATTY. ANTONIO B. BOSA, ET AL.
+- [AM-3216](AM-3216.md) — Dominga Velasco Ordonio vs. Josephine Palogan Eduarte
+- [AM-87_98](AM-87_98.md) — Amelia Juvida vs. Manuel Serapio, et al.
+- [AM-90474](AM-90474.md) — CLEMENCIO C. SABITSANA, JR. vs. J. ADRIANO R. VILLAMOR
+- [AM-91_660](AM-91_660.md) — Unknown Mun. Councilor of Sto. Domingo vs. Mario V. Alomia, Jr.
+- [AM-91_6_007_CTA](AM-91_6_007_CTA.md) — Request of CTA Presiding Judge Alex Z. Reyes
+- [AM-91_764](AM-91_764.md) — Pete M. Pico vs. Alfonso V. Combong, Jr.
+- [AM-92_5_009_CTA](AM-92_5_009_CTA.md) — Re: Request of Former Presiding Judge Alex Z. Reyes
+- [AM-92_643](AM-92_643.md) — Louis Vuitton vs. Francisco Diaz Villanueva
+- [AM-L_3727](AM-L_3727.md) — Nelson Buensuceso, et al. vs. Atty. Joelito T. Barrera
+- [AM-MTJ_90_383](AM-MTJ_90_383.md) — Venustiano Saburnido vs. Judge Florante Madrono
+- [AM-MTJ_90_496](AM-MTJ_90_496.md) — Marcelo B. Asuncion, et al. vs. K. Casiano Anunciacion
+- [AM-P_88_255](AM-P_88_255.md) — Manuel U. Del Rosario, et al. vs. Jose T. Bascar, Jr.
+- [AM-P_89_295](AM-P_89_295.md) — Adoracion G. Angeles vs. Emmanuel Bantug, et al.
+- [AM-P_89_312](AM-P_89_312.md) — CONCHITA LIM-ARCE vs. ALEJANDRO S. ARCE
+- [AM-P_89_367](AM-P_89_367.md) — PANCHO YAP YOUNG vs. ROBERTO M. MOMBLAN
+- [AM-P_90_408](AM-P_90_408.md) — Bernardo P. Pardo vs. Antonio D. Velasco
+- [AM-P_90_417](AM-P_90_417.md) — Judge Jose A. Galan vs. Evelyn Napase, et al.
+- [AM-P_92_675](AM-P_92_675.md) — Gloria R. Cabano vs. Evelyn T. Monreal
+- [BM-44](BM-44.md) — EUFROSINA Y. TAN vs. NICOLAS EL. SABANDAL
+- [GR-100138](GR-100138.md) — Juan S. Armamentos vs. National Labor Relations Commission
+- [GR-100285](GR-100285.md) — People of the Philippines vs. Napoleon Duque
+- [GR-100294](GR-100294.md) — Benito A. Tiatco vs. Civil Service Commission, et al.
+- [GR-100374](GR-100374.md) — Rufino Y. Luna, et al. vs. Court of Appeals, et al.
+- [GR-100386](GR-100386.md) — People of the Philippines vs. Eduare C. De La Cruz
+- [GR-100399](GR-100399.md) — Teknika Skills And Trade Services vs. Nat'l. Labor Relations Commission, et al.
+- [GR-100401](GR-100401.md) — Consolidated Dairy Products Co., et al. vs. The Court of Appeals, et al.
+- [GR-100416](GR-100416.md) — Samuel M. Salas, et al. vs. Purificacion Castro, et al.
+- [GR-100486](GR-100486.md) — Felix Zepeda vs. Court of Appeals
+- [GR-100490](GR-100490.md) — Philippine Rabbit Lines, Inc. vs. National Labor Relations Commission, et al.
+- [GR-100511](GR-100511.md) — Benito Trinidad, et al. vs. Luis Cabrera, et al.
+- [GR-100574](GR-100574.md) — Marino Sapugay, et al. vs. Court of Appeals, et al.
+- [GR-100599](GR-100599.md) — Al-Amanah Islamic Investment Bank of the Phils. vs. Civil Service Commission.
+- [GR-100724](GR-100724.md) — People of the Philippines vs. Narciso J. Evardo, et al.
+- [GR-100727](GR-100727.md) — Cogeo-Cubao Operators And Drivers Asso. vs. Court of Appeals, et al.
+- [GR-100749](GR-100749.md) — GT Printers , et al. vs. National Labor Relations Commission, et al.
+- [GR-100752](GR-100752.md) — People of the Philippines vs. Danilo Diaz
+- [GR-100813](GR-100813.md) — PEOPLE OF THE PHIL. vs. NESTOR MARTINEZ, ET AL.
+- [GR-100874](GR-100874.md) — BENJAMIN I. ESPIRITU vs. NELSON B. MELGAR, ET AL.
+- [GR-100878](GR-100878.md) — Estrellita Aguilar vs. National Labor Relations Commission, et al.
+- [GR-100880](GR-100880.md) — People of the Philippines vs. Leonardo Claudio
+- [GR-100926](GR-100926.md) — Independent Sagay-Escalante Planters, Inc. vs. Nat'l Labor Relations Comm., et a
+- [GR-100942](GR-100942.md) — Lucio Tan vs. Court of Appeals, et al.
+- [GR-100969](GR-100969.md) — Carlos Ranara vs. National Labor Relations Commission, et al.
+- [GR-100970](GR-100970.md) — Finman General Assurance Corp. vs. Court of Appeals, et al.
+- [GR-100990](GR-100990.md) — PEOPLE OF THE PHIL. vs. RUPERTO PASCUA
+- [GR-101022](GR-101022.md) — PEOPLE OF THE PHIL. vs. EDUARDO ANDASA
+- [GR-101028](GR-101028.md) — Feliciana Licayan Tale vs. Court of Appeals, et al.
+- [GR-101122_23](GR-101122_23.md) — People of the Philippines vs. Luciano T. Albores
+- [GR-101127_31](GR-101127_31.md) — People of the Philippines vs. Cresencia C. Reyes
+- [GR-101236](GR-101236.md) — JULIANA P. YAP vs. MARTIN PARAS, ET AL.
+- [GR-101250](GR-101250.md) — Caños Medical Center, Inc., et al. vs. Cresencio B. Trajano, et al.
+- [GR-101279](GR-101279.md) — Philippines Ass. of Service Exporters, Inc. vs. Ruben D. Torres, et al.
+- [GR-101345](GR-101345.md) — Nonito J. Bernardo vs. Caltex (Philippines), Inc.
+- [GR-101367](GR-101367.md) — People of the Philippines vs. Elmo Catua
+- [GR-101372](GR-101372.md) — Pilipinas Bank vs. National Labor Relations Commission
+- [GR-101428](GR-101428.md) — Isabelita Vital-Gozon vs. Court of Appeals, et al.
+- [GR-101431](GR-101431.md) — Arabesque Industrial Philippines, Inc. vs. Court of Appeals, et al.
+- [GR-101469](GR-101469.md) — Malayan Integrated Industries, Corp. vs. Court of Appeals, et al.
+- [GR-101476](GR-101476.md) — Export Processing Zone Authority vs. Commission on Human Rights, et al.
+- [GR-101501](GR-101501.md) — Jose Villanueva, Sr. vs. Vicente Leogardo, Jr., et al.
+- [GR-101512](GR-101512.md) — Nilda Gabriel, et al. vs. Court of Appeals, et al.
+- [GR-101539](GR-101539.md) — Cecile De Ocampo, et al. vs. Nat'l. Labor Relations Com., et al.
+- [GR-101556](GR-101556.md) — People of the Philippines vs. Roberto Estera
+- [GR-101566](GR-101566.md) — Florencio A. Ruiz, Jr., et al. vs. Court of Appeals, et al.
+- [GR-101577](GR-101577.md) — People of the Philippines vs. Victor F. Olivar
+- [GR-101630](GR-101630.md) — Victor De Jesus vs. Court of Appeals, et al.
+- [GR-101646](GR-101646.md) — DR. MARIQUITA J. MANTALA vs. IGNACIO L. SALVADOR, ET AL.
+- [GR-101663](GR-101663.md) — People of the Philippines vs. Eric F. Timtiman
+- [GR-101678](GR-101678.md) — BUREAU VERITAS vs. OFFICE OF THE PRESIDENT, ET AL.
+- [GR-101680](GR-101680.md) — Enriqueta H. Bernardo, et al. vs. Court of Appeals
+- [GR-101682](GR-101682.md) — Salvador D. Briboneria vs. Court of Appeals
+- [GR-101753](GR-101753.md) — Cipriano Penaflorida vs. Commission On Elections
+- [GR-101799](GR-101799.md) — People of the Philippines vs. Pacifico D. Rodriguez
+- [GR-101837](GR-101837.md) — ROLITO T. GO vs. COURT OF APPEALS, ET AL.
+- [GR-101858](GR-101858.md) — Batangas Laguna Tayabas Bus Company vs. National Labor Relations, et al.
+- [GR-101883](GR-101883.md) — Spouses Lydia & Virgilio Meliton vs. Court of Appeals, et al.
+- [GR-102004](GR-102004.md) — People of the Philippines vs. Dante Dabon
+- [GR-102023](GR-102023.md) — Ramon M. Abiera vs. National Labor Relations Commission , et al.
+- [GR-102128](GR-102128.md) — Abundia Espina vs. Court of Appeals, et al.
+- [GR-102131](GR-102131.md) — Franco Gorion vs. Regional Trial Court of Cebu, et al.
+- [GR-102358](GR-102358.md) — Vicente And Gloria Manalo vs. Nieves Roldan-Confesor, et al.
+- [GR-102383](GR-102383.md) — Bank of the Philippines Islands vs. Court of Appeals, et al.
+- [GR-102409](GR-102409.md) — People of the Philippines vs. Felipe De Guzman
+- [GR-102448](GR-102448.md) — Ricardo Cuartero vs. Court of Appeals, et al.
+- [GR-102549](GR-102549.md) — Edwin B. Javellana vs. Department of Interior And Local Gov't., et al.
+- [GR-102653](GR-102653.md) — National Press Club vs. Commission On Elections
+- [GR-102795](GR-102795.md) — Damian Ogburn, et al. vs. Court of Appeals, et al.
+- [GR-102855](GR-102855.md) — Dionicia Villanueva-Ricafrente, et al. vs. Court of Appeals, et al.
+- [GR-102869](GR-102869.md) — Sen Po Ek Marketing Corp. vs. Court of Appeals, et al.
+- [GR-102881](GR-102881.md) — Toyota Motor Philippines Corp. vs. The Court of Appeals, et al.
+- [GR-102940](GR-102940.md) — Adelpha Fernandez, et al. vs. Ruben Torres, et al.
+- [GR-103102](GR-103102.md) — Claudio J. Teehankee, Jr. vs. Job B. Madayag, et al.
+- [GR-103215](GR-103215.md) — Maranaw Hotels And Resorts Corp. vs. Court of Appeals, et al.
+- [GR-103309](GR-103309.md) — Benito M. Bustamante vs. Commissioner On Audit
+- [GR-103524](GR-103524.md) — Cesar Bengzon, et al. vs. Franklin N. Drilon, et al.
+- [GR-103558](GR-103558.md) — Metropolitan Waterworks And Sewerage Sys. vs. Court of Appeals, et al.
+- [GR-103752](GR-103752.md) — Amado M. Calderon vs. Solicitor General, et al.
+- [GR-103956](GR-103956.md) — Blo Umpar Adiong vs. Commission On Elections
+- [GR-103982](GR-103982.md) — Antonio A. Mecano vs. Commission On Audit
+- [GR-104139](GR-104139.md) — Lydia M. Profeta vs. Franklin M. Drilon
+- [GR-104158](GR-104158.md) — Gemiliano Lopez, Jr., et al. vs. Court of Appeals, et al.
+- [GR-104678](GR-104678.md) — Republic of the Philippines vs. Court of Appeals
+- [GR-104875](GR-104875.md) — Florante F. Manacop vs. Court of Appeals, et al., et al.
+- [GR-105088](GR-105088.md) — Bienvenido Ocier vs. Court of Appeals, et al.
+- [GR-105111](GR-105111.md) — Ramon L. Labo, Jr. vs. Commission On Elections et al.
+- [GR-105323](GR-105323.md) — Francisco I. Chavez vs. Commission On Elections
+- [GR-105628](GR-105628.md) — Rodulfo Sarmiento vs. Commission On Elections, et al.
+- [GR-105717](GR-105717.md) — Jose L. Ong, Jr. vs. Commission On Elections
+- [GR-105964](GR-105964.md) — People of the Philippines vs. Rizalito De Guzman, et al.
+- [GR-106094](GR-106094.md) — Pscfc Financial Corporation vs. Court of Appeals, et al.
+- [GR-107435](GR-107435.md) — Saidamen B. Pagarungan vs. Commission On Elections
+- [GR-30440](GR-30440.md) — MAPULO MINING ASS'N. vs. FERNANDO LOPEZ
+- [GR-32398](GR-32398.md) — PO YO BI vs. REPUBLIC OF THE PHIL.
+- [GR-36378](GR-36378.md) — PIO BALATBAT vs. COURT OF APPEALS, ET AL.
+- [GR-37012](GR-37012.md) — People of the Philippines vs. Gerardo Nomat, Sr.
+- [GR-40145](GR-40145.md) — Severo Sales vs. Court of Appeals
+- [GR-40243](GR-40243.md) — Celestino Tatel vs. Municipality of Virac, et al.
+- [GR-41229](GR-41229.md) — VIRGINIA EVANGELISTA, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-41314](GR-41314.md) — Union Carbide Labor Union vs. Union Carbide Philippines, Inc., et al.
+- [GR-41420](GR-41420.md) — Cms Logging, Inc. vs. Court of Appeals et al.
+- [GR-41862](GR-41862.md) — B. R. SEBASTIAN ENTERPRISES, INC. vs. COURT OF APPEALS, ET AL.
+- [GR-42844](GR-42844.md) — JESUS FERNANDEZ vs. ANSCOR CONTAINER CORP., ET AL.
+- [GR-42987](GR-42987.md) — G.R. No. 42987
+- [GR-44510](GR-44510.md) — BRIGIDA NAVARRO vs. COURT OF APPEALS, ET AL.
+- [GR-44888](GR-44888.md) — PILIPINAS SHELL PETROLEUM CORP. vs. FIDEL P. DUMLAO, ET AL.
+- [GR-45027](GR-45027.md) — BERNARDO DE LOS SANTOS vs. FAUSTINO B. REYES, ET AL.
+- [GR-45425](GR-45425.md) — Celsa L. Vda. De Kilayko, et al. vs. Ernesto Tengco, et al.
+- [GR-46460](GR-46460.md) — Diwa Ng Pagkakaisa-PAFLU vs. Amado G. Inciong, et al.
+- [GR-46772](GR-46772.md) — PEOPLE OF THE PHIL. vs. COURT OF FIRST INSTANCE
+- [GR-47158](GR-47158.md) — Angustina M. Ibay vs. Court of Appeals, et al.
+- [GR-47432](GR-47432.md) — UNIVERSAL MOTORS CORP. vs. COURT OF APPEALS, ET AL.
+- [GR-47815](GR-47815.md) — People's Bank And Trust Co. vs. Tomas R. Leonidas, et al.
+- [GR-48009](GR-48009.md) — PEOPLE OF THE PHIL. vs. MARCELINO DEVARAS, ET AL.
+- [GR-48532](GR-48532.md) — Hernando B. Conwi, et al. vs. Court of Tax Appeals, et al.
+- [GR-49282](GR-49282.md) — People of the Philippines vs. Gilbert Pizarro
+- [GR-49823](GR-49823.md) — HEIRS OF EUGENIO SEVILLA, INC. vs. COURT OF APPEALS, ET AL.
+- [GR-50260](GR-50260.md) — Director of Lands vs. Court of Appeals
+- [GR-50837](GR-50837.md) — Narciso Buenaventura vs. Court of Appeals
+- [GR-51058](GR-51058.md) — ASIA PRODUCTION CO., INC., ET AL. vs. ERNANI CRUZ PAÑO, ET AL.
+- [GR-51593](GR-51593.md) — Nat'l. Dev't. Co. vs. Augusto Pacis, et al.
+- [GR-51824](GR-51824.md) — PERCELINO DIAMANTE vs. COURT OF APPEALS, ET AL.
+- [GR-54244](GR-54244.md) — SAN MIGUEL CORP. vs. ERNESTO JAVATE, JR., ET AL.
+- [GR-56169](GR-56169.md) — Travel-On, Inc. vs. Court of Appeals
+- [GR-56428](GR-56428.md) — SOUTHERN FOOD SALES CORP. vs. BERNARDO LI. SALAS, ET AL.
+- [GR-5646566](GR-5646566.md) — People of the Philippines vs. Pedro Galendez
+- [GR-57062](GR-57062.md) — MA. DEL ROSARIO MARIATEGUI, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-57127](GR-57127.md) — Rhodora Del Castillo vs. Candido Aguinaldo, et al.
+- [GR-57630](GR-57630.md) — Clara Badayos vs. Court of Appeals, et al.
+- [GR-58327](GR-58327.md) — Jesus C. Balmadrid vs. Sandiganbayan
+- [GR-58507](GR-58507.md) — RAMON GIL ABAD, ET AL. vs. COURT OF FIRST INSTANCE OF PANGASINAN
+- [GR-58879](GR-58879.md) — Expedita Librea vs. Employees' Compensation Commission, et al.
+- [GR-59436](GR-59436.md) — People of the Philippines vs. Delfin Molina, et al.
+- [GR-59738](GR-59738.md) — People of the Phils. vs. Doroteo Baslot, et al.
+- [GR-59791](GR-59791.md) — MERALCO vs. GREGORIO G. PINEDA, ET AL.
+- [GR-60506](GR-60506.md) — Figuracion Vda. De Maglana, et al. vs. Francisco Z. Consolacion, et al.
+- [GR-61260](GR-61260.md) — SERGIO BAUTISTA vs. JOSE P. CASTRO, ET AL.
+- [GR-61584](GR-61584.md) — Donato S. Paulmitan, et al. vs. Court of Appeals, et al.
+- [GR-62082](GR-62082.md) — PHIL. NATIONAL BANK vs. TEODORO N. FLORENDO, ET AL.
+- [GR-62088](GR-62088.md) — People of the Philippines vs. Samson Samillano
+- [GR-62305](GR-62305.md) — Angel R. Sampaga vs. People of the Philippines, et al.
+- [GR-62391](GR-62391.md) — Safiro Catalan vs. Tito F. Genilo
+- [GR-62556](GR-62556.md) — Venancio Gonzales, et al. vs. Court of Appeals, et al.
+- [GR-62634](GR-62634.md) — Adolfo Caubang vs. People of the Philippines
+- [GR-62999](GR-62999.md) — People of the Philippines vs. Arcadio Cabilao
+- [GR-64019](GR-64019.md) — Bacolod-Murcia Milling Co., Inc. vs. Intermediate Appellate Court
+- [GR-64220](GR-64220.md) — Searth Commodities Corp., et al. vs. Court of Appeals, et al.
+- [GR-64284](GR-64284.md) — Sps. Jose S. Velasquez et al. vs. Sps. Martin Nery et al.
+- [GR-6472526](GR-6472526.md) — People of the Philippines vs. Salvador Alacar
+- [GR-65532](GR-65532.md) — Concepcion Pelaez Vda. De Tan, et al. vs. Intermediate Appellate Court, et al.
+- [GR-65673](GR-65673.md) — PEOPLE OF THE PHIL. vs. ABELARDO L. PENILLOS
+- [GR-65706](GR-65706.md) — Top Form Mfg. Co., Inc. vs. National Labor Relations Commission
+- [GR-66020](GR-66020.md) — Flavio De Leon vs. People of the Philippines
+- [GR-66034](GR-66034.md) — People of the Philippines vs. Jovito T. Tujon
+- [GR-66253](GR-66253.md) — Merto Port Service, Inc. vs. Intermediate Appellate Court
+- [GR-66641](GR-66641.md) — Filinvest Credit Corp. vs. Intermediate Appellate Court
+- [GR-66755](GR-66755.md) — PEOPLE OF THE PHIL. vs. ELPIDIO MAGALUNA
+- [GR-66873_74](GR-66873_74.md) — People of the Philippines vs. Fructuoso Mancao, et al.
+- [GR-67279](GR-67279.md) — Vicente Ibay vs. Intermediate Appellate Court, et al.
+- [GR-67664](GR-67664.md) — Ananias Panday vs. Na'tl Labor Relations Comm., et al.
+- [GR-67690](GR-67690.md) — PEOPLE OF THE PHILIPPINES vs. EDUARDO HERNANDEZ, ET AL.
+- [GR-68037](GR-68037.md) — Paramount Insurance Corp. vs. Maximo M. Japzon
+- [GR-68102](GR-68102.md) — George Mckee, et al. vs. Intermediate Appellate Court, et al.
+- [GR-68319](GR-68319.md) — People of the Philippines vs. Jesus Dela Cruz, et al.
+- [GR-68946](GR-68946.md) — Director of Lands vs. Intermediate Appellate Court, et al.
+- [GR-69073](GR-69073.md) — Alfredo Botulan, Jr. vs. National Labor Relations Commission
+- [GR-69138](GR-69138.md) — Republic of the Philippines vs. Intermediate Appellate Court, et al.
+- [GR-69162](GR-69162.md) — BANK OF THE PHIL. ISLANDS vs. INTERMEDIATE APPELLATE COURT, ET AL.
+- [GR-69581](GR-69581.md) — People of the Philippines vs. Virgillio Garcia
+- [GR-69666](GR-69666.md) — PEOPLE OF THE PHIL. vs. GUMERCINDO E. QUILATON
+- [GR-69696](GR-69696.md) — Spouses Antonio vs. Intermediate Appellate Court, et al.
+- [GR-69971](GR-69971.md) — People of the Philippines vs. Ernesto Luvendino
+- [GR-70113](GR-70113.md) — People of the Philippines vs. Emmanuel Eligino
+- [GR-70481](GR-70481.md) — Philippine Airlines, Inc. vs. Intermediate Appellate Court
+- [GR-70789](GR-70789.md) — Rustan Pulp & Paper Mills, Inc., et al. vs. Intermediate Appellate Court, et al.
+- [GR-71189](GR-71189.md) — Faberge, Inc. vs. Intermediate Appellate Court, et al.
+- [GR-71238](GR-71238.md) — Lufthansa German Airlines vs. Intermediate Appellate Court, et al.
+- [GR-71526](GR-71526.md) — People of the Philippines vs. Joselito Villalobos, et al.
+- [GR-71662](GR-71662.md) — People of the Philippines vs. Danilo I. Dacoycoy, et al.
+- [GR-71664](GR-71664.md) — BAGUIO COUNTRY CLUB CORP. vs. NAT'L. LABOR RELATIONS COMMISSION, ET AL.
+- [GR-72001](GR-72001.md) — People of the Philippines vs. Romeo Bechayda
+- [GR-72244](GR-72244.md) — People of the Philippines vs. Jose Agripa
+- [GR-72247](GR-72247.md) — Red V Coconut Products, Ltd. vs. Vicente Leogardo, Jr., et al.
+- [GR-72703](GR-72703.md) — Caltex (Phils.), Inc. vs. Intermediate Appellate Court, et al.
+- [GR-72780](GR-72780.md) — SOTERO COLLADO vs. INTERMEDIATE APPELLATE COURT, ET AL.
+- [GR-7278688](GR-7278688.md) — People of the Philippines vs. Florencio Telio
+- [GR-72991_92](GR-72991_92.md) — People of the Philippines vs. Floro Yadao, et al.
+- [GR-73338](GR-73338.md) — ROMEO F. VELOSO, ET AL. vs. INTERMEDIATE APPELLATE COURT, ET AL.
+- [GR-73535](GR-73535.md) — People of the Philippines vs. Jesus Camahalan
+- [GR-73679](GR-73679.md) — Honesto B. Villarosa vs. Cresenciano B. Trajano
+- [GR-73725](GR-73725.md) — People of the Philippines vs. Winston Gonzales
+- [GR-73864](GR-73864.md) — Teodoro Palmes Hernaez, Jr. vs. Intermediate Appellate Court, et al.
+- [GR-74135](GR-74135.md) — M. H. Wylie vs. Aurora I. Rarang, et al.
+- [GR-7419394](GR-7419394.md) — San Miguel Corporation vs. National Labor Relations Commission, et al.
+- [GR-74305](GR-74305.md) — SAMHWA COMPANY LTD., ET AL. vs. INTERMEDIATE APPELLATE COURT, ET AL.
+- [GR-74306](GR-74306.md) — Enrique Razon vs. Intermediate Appellate Court, et al.
+- [GR-74740](GR-74740.md) — People of the Philippines vs. Danilo Sanchez
+- [GR-74886](GR-74886.md) — Prudential Bank vs. Intermediate Appellate Court
+- [GR-7503233](GR-7503233.md) — People of the Philippines vs. Jose Tiu
+- [GR-75112](GR-75112.md) — Filamer Christian Institute vs. Intermediate Appellate Court
+- [GR-75290](GR-75290.md) — Amado T. Gurango, et al. vs. Intermediate Appellate Court, et al.
+- [GR-75308](GR-75308.md) — Lope Sarreal, Sr. vs. Japan Airlines Co., Ltd., et al.
+- [GR-75363](GR-75363.md) — Firestone Tire Co. of the Philippines vs. Nat'l Labor Relations Comm., et al.
+- [GR-75584](GR-75584.md) — Vicente Palo-Palo vs. Intermediate Appellate Court, et al.
+- [GR-75879](GR-75879.md) — Virginia Secretario vs. National Labor Relations Commission, et al.
+- [GR-75907](GR-75907.md) — Family Planning Organization vs. National Labor Relations Commission
+- [GR-75920](GR-75920.md) — People of the Philippines vs. Teresita S. Singson
+- [GR-75954](GR-75954.md) — People of the Philippines vs. David G. Nitafan
+- [GR-75959](GR-75959.md) — Victoriano V. Orocio vs. Commission On Audit, et al.
+- [GR-76002](GR-76002.md) — People of the Philippines vs. Julito Naguita
+- [GR-76225](GR-76225.md) — Espiridion Tanpingco vs. Intermediate Appellate Court, et al.
+- [GR-76265](GR-76265.md) — Virginia Calalang vs. Register of Deeds of Q.C., et al.
+- [GR-76656](GR-76656.md) — Eutiquiano Clutario vs. Court of Appeals
+- [GR-76743](GR-76743.md) — People of the Philippines vs. Jaime C. Caranzo, et al.
+- [GR-7681819](GR-7681819.md) — Cdcp Tollways Operation et al. vs. National Labor Relations Commission et al.
+- [GR-76966](GR-76966.md) — Caffco International Limited vs. Ministry of Labor & Employment, et al.
+- [GR-77104](GR-77104.md) — Jose Tongson, et al. vs. Court of Appeals, et al.
+- [GR-77114](GR-77114.md) — G.R. No. 77114
+- [GR-77228](GR-77228.md) — People of the Philippines vs. Domnino G. Grefiel
+- [GR-77365](GR-77365.md) — Rita Caleon vs. Agus Development Corporation
+- [GR-77396](GR-77396.md) — People of the Philippines vs. Leo T. Villanueva
+- [GR-77744](GR-77744.md) — Teodora Claverias vs. Adoracion Quingco, et al.
+- [GR-78161](GR-78161.md) — Cresencio Limcay vs. Hon. Court of Appeals, et al.
+- [GR-78173](GR-78173.md) — Andres Sumaoang vs. Hon. Judge, RTC, Br. XXXI
+- [GR-78341](GR-78341.md) — Turiano H. San Andres vs. Court of Appeals, et al.
+- [GR-78358](GR-78358.md) — PEOPLE OF THE PHIL. vs. EDUARDO DEBERTO, ET AL.
+- [GR-78490](GR-78490.md) — Wack Wack Cond. Corp., et al. vs. Court of Appeals, et al.
+- [GR-79167](GR-79167.md) — Proceso Bautista, et al. vs. Severo Barza, et al.
+- [GR-79184](GR-79184.md) — Erlinda L. Ponce vs. Valentino L. Legaspi, et al.
+- [GR-79255](GR-79255.md) — UNION OF FILIPRO EMPLOYEES vs. BENIGNO VIVAR, JR., ET AL.
+- [GR-79316](GR-79316.md) — People of the Philippines vs. Alfredo Nuñez
+- [GR-79374](GR-79374.md) — Tomas G. Mapa vs. Court of Appeals, et al.
+- [GR-79664](GR-79664.md) — Andres Villavilla, et al. vs. Court of Appeals, et al.
+- [GR-79903](GR-79903.md) — Contech Construction Technology & Dev't. Corp. vs. Court of Appeals
+- [GR-80161](GR-80161.md) — Candida Mariano vs. People of the Philippines, et al.
+- [GR-80256](GR-80256.md) — Bankers & Manufacturers Corp. vs. Court of Appeals, et al.
+- [GR-80268](GR-80268.md) — Bogo-Medellin Milling Co., Inc., et al. vs. Judge Pedro Son, et al.
+- [GR-80418](GR-80418.md) — Eduardo Rosales vs. Court of Appeals
+- [GR-80436](GR-80436.md) — People of the Phils. vs. Isagani Bolasa
+- [GR-80491](GR-80491.md) — J. Artie Vergel De Dios vs. Court of Appeals, et al.
+- [GR-80658_60](GR-80658_60.md) — People of the Philippines vs. Venerando, et al.
+- [GR-80739](GR-80739.md) — Gracia R. Joven vs. Court of Appeals, et al.
+- [GR-81158](GR-81158.md) — Oscar A. Jacinto, et al. vs. Rogelio Kaparaz, et al.
+- [GR-81559_60](GR-81559_60.md) — People of the Philippines, et al. vs. Hon. David G. Nitafan, et al.
+- [GR-82067](GR-82067.md) — Lucilyn T. Zambrano vs. Sandiganbayan, et al.
+- [GR-82223](GR-82223.md) — People of the Philippines vs. Manuel Matrimonio
+- [GR-82248](GR-82248.md) — ERNESTO MARTIN vs. COURT OF APPEALS, ET AL.
+- [GR-82263](GR-82263.md) — The People of the Philippines vs. Ernesto T. Yabut
+- [GR-82293](GR-82293.md) — People of the Philippines vs. Rolando B. Madriaga, et al.
+- [GR-82511](GR-82511.md) — Globe-Mackay Cable vs. Nat'l Labor Relation Commission, et al.
+- [GR-82514](GR-82514.md) — Paz A. Cruz vs. Court of Appeals, et al.
+- [GR-82606](GR-82606.md) — Prima Partosa-Jo vs. Court of Appeals
+- [GR-82770](GR-82770.md) — People of the Philippines vs. Ricardo V. Pajarit, et al.
+- [GR-82782](GR-82782.md) — Jose B. Tiongco vs. Philippines Veterans Bank, et al.
+- [GR-83027](GR-83027.md) — PEOPLE OF THE PHIL. vs. NORIEL C. FULE
+- [GR-83030](GR-83030.md) — People of the Philippines vs. Julito Mindac
+- [GR-83105](GR-83105.md) — Magdalena M. Fermin vs. Secretary of Labor And Employment
+- [GR-83113](GR-83113.md) — Rafael S. Beltran, et al. vs. Paic Finance Corp., et al.
+- [GR-83190](GR-83190.md) — Cebu Seamen's Asso., Inc. vs. Pura Ferrer-Calleja, et al.
+- [GR-83369](GR-83369.md) — Pacita J. Baguioro vs. Mariano Y, Basa, Jr., et al.
+- [GR-83433](GR-83433.md) — Conrado Tiu, et al. vs. National Labor Relations Commission, et al.
+- [GR-83583](GR-83583.md) — Commissioner of Internal Revenue vs. Rio Tuba Nickle Mining Corp., et al.
+- [GR-83736](GR-83736.md) — COMMISSIONER OF INTERNAL REVENUE vs. TMX SALES, INC., ET AL.
+- [GR-83811](GR-83811.md) — People of the Philippines vs. Raymundo Cruz
+- [GR-83831](GR-83831.md) — VICTOR AFRICA vs. PRESIDENTIAL COMMISSION ON GOOD GOVT., ET AL.
+- [GR-83837_42](GR-83837_42.md) — People of the Philippines vs. Maximiano C. Asuncion, et al.
+- [GR-83929](GR-83929.md) — Antonio Garcia vs. Court of Appeals, et al.
+- [GR-84220](GR-84220.md) — Benjamin Rodriguez vs. Court of Appeals, et al.
+- [GR-84240](GR-84240.md) — Olivia S. Pascual, et al. vs. Esperanza C. Pascual-Bautista, et al.
+- [GR-84250](GR-84250.md) — Daya Maria Tol-Noquera vs. Adriano R. Villamor
+- [GR-84275](GR-84275.md) — PEOPLE OF THE PHIL. vs. GIL UY, ET AL.
+- [GR-84276](GR-84276.md) — PEOPLE OF THE PHIL. vs. CRESENCIO JIMENEZ, JR., ET AL.
+- [GR-84363](GR-84363.md) — People of the Philippines vs. Mateo B. Alilin, et al.
+- [GR-84398](GR-84398.md) — People of the Philippines vs. Francisco Cabactulan
+- [GR-84433](GR-84433.md) — Alexander Reyes vs. Cresenciano B. Trajano et al.
+- [GR-84460](GR-84460.md) — First Plywood Corp. vs. Court of Appeals, et al.
+- [GR-84525](GR-84525.md) — People of the Philippines vs. Arturo L. Mauyao
+- [GR-84612](GR-84612.md) — People of the Philippines vs. Diosdado Avila, et al.
+- [GR-84623](GR-84623.md) — Felipe Toribio, et al. vs. Temistocles B. Diez, et al.
+- [GR-84698](GR-84698.md) — PHIL. SCHOOL OF BUSINESS ADM., ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-84731](GR-84731.md) — People of the Philippines vs. Salvador Biendo
+- [GR-84777](GR-84777.md) — JOSE A. BEJERANO vs. EMPLOYEES COMPENSATION COMMISSION
+- [GR-84841](GR-84841.md) — Salustiano Oca vs. Court of Appeals
+- [GR-84888](GR-84888.md) — LUNESA BALANGCAD vs. COURT OF APPEALS, ET AL.
+- [GR-8490203](GR-8490203.md) — Agripino Padre vs. Court of Appeals, et al.
+- [GR-84974](GR-84974.md) — Benguet Corp. vs. National Labor Relations Commission, et al.
+- [GR-85043](GR-85043.md) — People of the Philippines vs. Glenn Hatton
+- [GR-85044](GR-85044.md) — Macario Tamargo, et al, vs. Court of Appeals, et al.
+- [GR-85186](GR-85186.md) — People of the Philippines vs. Camilo D. Abarquez
+- [GR-85286](GR-85286.md) — Basilio A. Balasbas vs. Nat'l. Labor Relations Com., et al.
+- [GR-85439](GR-85439.md) — KBMBPM, ET AL. vs. CARLOS G. DOMINGUEZ, ET AL.
+- [GR-85466](GR-85466.md) — Hualam Const. & Dev't. Corp., et al. vs. Court of Appeals, et al.
+- [GR-85469](GR-85469.md) — Jose Ramirez, et al. vs. Court of Appeals, et al.
+- [GR-85479](GR-85479.md) — Perfecto Español vs. Civil Service Commission, et al.
+- [GR-85490](GR-85490.md) — Club Filipino, Inc. vs. Jesus C. Sebastian
+- [GR-85502](GR-85502.md) — SUNVILLE TIMBER PRODUCTS, INC. vs. J. ALFONSO G. ABAD, ET AL.
+- [GR-85517](GR-85517.md) — Doroteo Ocheda vs. Court of Appeals, et al.
+- [GR-85869](GR-85869.md) — The National Irrigation Adm. vs. Estanislao Gamit, et al.
+- [GR-85923](GR-85923.md) — CYNTHIA S. SANTIAGO, ET AL. vs. TEOFILO GUADIZ, JR. ET AL.
+- [GR-85962_63](GR-85962_63.md) — Rosario Gacos, et al. vs. Court of Appeals, et al.
+- [GR-85997](GR-85997.md) — Hortensia L. Starke vs. Philippine Sugar Commission, et al.
+- [GR-86150](GR-86150.md) — Guzman, Bocaling & Co. vs. Raoul S. V. Bonnevie
+- [GR-86181](GR-86181.md) — MANUEL T. SANTOS, ET AL. vs. BENJAMIN M. AQUINO. JR., ET AL.
+- [GR-86186](GR-86186.md) — Rafael Gelos vs. Court of Appeals, et al.
+- [GR-86200](GR-86200.md) — APEX MINING CO., INC. vs. NATIONAL LABOR RELATIONS COMMISSION, ET AL.
+- [GR-86436](GR-86436.md) — People of the Philippines vs. Jovencio De Paz
+- [GR-86491](GR-86491.md) — People of the Philippines vs. Antonio Rivera Y Mejico
+- [GR-86495](GR-86495.md) — People of the Philippines vs. Raul S. Fernandez
+- [GR-86561](GR-86561.md) — Pablo Bernardo vs. Cecilio F. Balagot
+- [GR-86744](GR-86744.md) — People of the Philippines vs. Pedro Buenaventura, et al.
+- [GR-86773](GR-86773.md) — SEAFDEC-AQD, ET AL. vs. NATIONAL LABOR RELATIONS COMMISSION, ET AL.
+- [GR-86787](GR-86787.md) — Milagros Tumulak Bishop, et al. vs. Court of Appeals, et al.
+- [GR-87059](GR-87059.md) — People of the Philippines vs. Rogelio T. Mengote
+- [GR-87135](GR-87135.md) — Alma Magalad vs. Premiere Financing Corp.
+- [GR-87148](GR-87148.md) — Marciana Consignado, et al. vs. Court of Appeals, et al.
+- [GR-87182](GR-87182.md) — PACIFIC MILLS, INC., ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-87186](GR-87186.md) — Camillo Villa vs. People of the Philippines, et al.
+- [GR-87415](GR-87415.md) — YEK SENG CO vs. COURT OF APPEALS, ET AL.
+- [GR-87421](GR-87421.md) — MICHAEL LAWRENCE vs. NATIONAL LABOR RELATIONS COMMISSION, ET AL.
+- [GR-87434](GR-87434.md) — Philippines American Gen. Insurance Co., Inc., et al. vs. Sweet Lines, Inc., et 
+- [GR-87584](GR-87584.md) — Gotesco Investment Corporation vs. Gloria E. Chatto
+- [GR-87644](GR-87644.md) — G & P Manpower Services vs. Nlrc, et al.
+- [GR-87653](GR-87653.md) — CONRADO M. AQUINO, ET AL. vs. NATIONAL LABOR RELATIONS COMMISSION, ET AL.
+- [GR-87673](GR-87673.md) — MILAGROS I. DOLORES vs. NATIONAL LABOR RELATIONS COMM., ET AL.
+- [GR-87678](GR-87678.md) — Del Bros Hotel Corp. vs. Court of Appeals
+- [GR-87710](GR-87710.md) — Roberto S. Benedicto vs. Board of Administrators of Television Stations, et al.
+- [GR-87781](GR-87781.md) — People of the Philippines vs. Boyet L. Pomentel
+- [GR-87880](GR-87880.md) — Cecilia Mata vs. Court of Appeals, et al.
+- [GR-87884](GR-87884.md) — People of the Philippines vs. Antonio R. Cruz
+- [GR-88042](GR-88042.md) — People of the Philippines vs. Gregorio Sagadsad, et al.
+- [GR-88050](GR-88050.md) — STRONGHOLD INSURANCE COMPANY, INC. vs. COURT OF APPEALS, ET AL.
+- [GR-88113](GR-88113.md) — Titus L. Endaya, et al. vs. Court of Appeals
+- [GR-88226](GR-88226.md) — ADJAP ALLAMA, ET AL. vs. REPUBLIC OF THE PHILS.
+- [GR-88268](GR-88268.md) — San Miguel Corporation vs. National Labor Relations Commission, et al.
+- [GR-88282](GR-88282.md) — People of the Philippines vs. Edwin F. Pascual
+- [GR-88300](GR-88300.md) — People of the Phil vs. Ernie Cabral Lapan
+- [GR-88331](GR-88331.md) — Josefina C. Villamil, et al. vs. Court of Appeals, et al.
+- [GR-88353](GR-88353.md) — Central Bank of the Philippines, et al. vs. Hon. Court of Appeals, et al.
+- [GR-88383](GR-88383.md) — HARRIS SY CHUA vs. COURT OF APPEALS, ET AL.
+- [GR-88392](GR-88392.md) — Manuel Angelo vs. Court of Appeals
+- [GR-88402](GR-88402.md) — People of the Philippines vs. Johnpet C. Macalino
+- [GR-88498](GR-88498.md) — Generoso R. Sevilla vs. Court of Appeals
+- [GR-88515_16](GR-88515_16.md) — People of the Philippines vs. Willy P. Bagawe
+- [GR-88665](GR-88665.md) — PEOPLE OF THE PHIL. vs. DESIDERIO D. SALAZAR, ET AL.
+- [GR-88670](GR-88670.md) — People of the Philippines vs. Rebecca A. Ventura
+- [GR-88705](GR-88705.md) — Joy Mart Consolidated Corp. vs. Hon. Court of Appeals, et al.
+- [GR-88709](GR-88709.md) — NICOS INDUSTRIAL CORP., ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-88752](GR-88752.md) — People of the Philippines vs. Danilo Palisoc Manansala
+- [GR-88912](GR-88912.md) — Tierra International Construction Corp. vs. National Labor Relations Commission
+- [GR-88915](GR-88915.md) — People of the Philippines vs. Berto Iran
+- [GR-88938](GR-88938.md) — La Tondeña Distillers, Inc. vs. Court of Appeals
+- [GR-88942](GR-88942.md) — People of the Phils. vs. Manolo S. Carpio
+- [GR-88954](GR-88954.md) — Datu Samad Mangelen vs. Hon. Court of Appeals, et al.
+- [GR-88957](GR-88957.md) — Philips Industrial Development, Inc. vs. National Labor Relations Commission
+- [GR-88979](GR-88979.md) — LYDIA O. CHUA vs. THE CIVIL SERVICE COMMISSION, ET AL.
+- [GR-89020](GR-89020.md) — Stronghold Insurance Co., Inc. vs. Court of Appeals
+- [GR-89070](GR-89070.md) — Benguet Electrlc Coop. vs. National Labor Relations Commission, et al.
+- [GR-89224_25](GR-89224_25.md) — MAURICIO SAYSON, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-89265](GR-89265.md) — Arturo G. Eudela vs. Court of Appeals
+- [GR-89307](GR-89307.md) — Ma. Wendelyn V. Yap, et al. vs. Vergel G. Cruz, et al.
+- [GR-89425](GR-89425.md) — REPUBLIC OF THE PHIL. vs. SANDIGANBAYAN, ET AL.
+- [GR-89452](GR-89452.md) — Eduardo V. Bentain vs. Court of Appeals
+- [GR-89454](GR-89454.md) — University of the Philippines vs. Civil Service Commission, et al.
+- [GR-89543](GR-89543.md) — People of the Philippines vs. Alfredo B. Argawanon
+- [GR-89554](GR-89554.md) — Juanito A. Rosario vs. Court of Appeals et al.
+- [GR-89609](GR-89609.md) — NAT. CONG. OF UNIONS IN THE SUGAR IND. vs. PURA FERRER-CALLEJA, ET AL.
+- [GR-89732](GR-89732.md) — PEOPLE OF THE PHIL. vs. GASPAR MINIAO CATUBIG
+- [GR-89767](GR-89767.md) — STATE INVESTMENT HOUSE, INC. vs. COURT OF APPEALS, ET AL.
+- [GR-89775](GR-89775.md) — Jacinto Uy Diño, et al vs. Court of Appeals, et al.
+- [GR-89783](GR-89783.md) — MARIANO B. LOCSIN, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-89802](GR-89802.md) — Associated Bank, et al. vs. Court of Appeals, et al.
+- [GR-89804](GR-89804.md) — Calvin S. Arcilla vs. Court of Appeals
+- [GR-89876](GR-89876.md) — Pangasinan III Elec. Coop., Inc. vs. Nat'l. Labor Relations Commission
+- [GR-89980](GR-89980.md) — B. H. Berkenkotter & Co. vs. Court of Appeals
+- [GR-89983_84](GR-89983_84.md) — Lorenzo S. Mendiola vs. People of the Philippines
+- [GR-90015](GR-90015.md) — People of the Philippines vs. Francisco C. Ventura
+- [GR-90036](GR-90036.md) — People of the Philippines vs. Raymundo L. Gonzaga
+- [GR-90197](GR-90197.md) — People of the Philippines vs. Joseph Fagyan
+- [GR-90247](GR-90247.md) — PEOPLE OF THE PHIL. vs. JOSE T. OCAMPO
+- [GR-90270](GR-90270.md) — Armando V. Sierra vs. Court of Appeals
+- [GR-90297](GR-90297.md) — People of the Philippines vs. Noel Pama
+- [GR-90311](GR-90311.md) — Hi Cement Corp. vs. Nat'l. Labor Relations Commission
+- [GR-90318](GR-90318.md) — People of the Philippines vs. Porferio Ignacio
+- [GR-90359](GR-90359.md) — Johannes Riesenbeck vs. Court of Appeals, et al.
+- [GR-90440_42](GR-90440_42.md) — People of the Philippines vs. Li Wai Cheung
+- [GR-90452](GR-90452.md) — People of the Philippines vs. Mario Jaymalin
+- [GR-90462](GR-90462.md) — Ricardo Lirio, et al. vs. Court of Appeals, et al.
+- [GR-90519](GR-90519.md) — Union of Filipino Workers, et al. vs. National Labor Relations Commission, et al
+- [GR-90527](GR-90527.md) — Rural Bank of Baao, Inc., et al. vs. National Labor Relations Commission, et al.
+- [GR-90603](GR-90603.md) — People of the Philippines vs. Angel S. Fabros, et al.
+- [GR-90801](GR-90801.md) — PEOPLE OF THE PHIL. vs. FRANCISCO LOZANO
+- [GR-90802](GR-90802.md) — People of the Philippines vs. Tom P. Chanas
+- [GR-90803](GR-90803.md) — People of the Philippines vs. Epifanio Armentano
+- [GR-90856](GR-90856.md) — Arturo De Guzman vs. Nat'l. Labor Relations Com.
+- [GR-90964](GR-90964.md) — MANGGAGAWA NG KOMUNIKASYON, ET AL. vs. NATIONAL LABOR RELATIONS COMMISSION, ET A
+- [GR-91004_05](GR-91004_05.md) — Joseph Tay Chun Suy vs. Court of Appeals, et al.
+- [GR-91015](GR-91015.md) — People of Philippines vs. Daquillo L. Mania
+- [GR-91115](GR-91115.md) — People of the Philippines vs. Pacalso K. Mat-An
+- [GR-91122](GR-91122.md) — Diony Rapiz, et al. vs. National Labor Relations Commission, et al.
+- [GR-91129](GR-91129.md) — People of the Philippines vs. Antonio Pablo
+- [GR-91158](GR-91158.md) — People of the Philippines vs. Felipe V. Sangil
+- [GR-91160](GR-91160.md) — People of the Philippines vs. Felix D. Fulgarillas
+- [GR-91189](GR-91189.md) — The Director of Lands vs. Samuel Buyco, et al.
+- [GR-91378](GR-91378.md) — First Malayan Leasing And Finance Corporation vs. Court of Appeals, et al.
+- [GR-91491](GR-91491.md) — People of the Philippines vs. Marcelo Almenario
+- [GR-91526](GR-91526.md) — Office of the Court Administrator vs. Jose B. Gaticales, et al.
+- [GR-91636](GR-91636.md) — Peter John D. Calderon vs. Bartolome Carale, et al.
+- [GR-91646](GR-91646.md) — People of the Philippines vs. Romil I. Marcos
+- [GR-91662](GR-91662.md) — People of the Philippines vs. Mario Aguiluz
+- [GR-91695](GR-91695.md) — People of the Philippines vs. Robert Malonzo
+- [GR-91745](GR-91745.md) — People of the Philippines vs. Julio Manliguez, et al.
+- [GR-91757](GR-91757.md) — Nueva Ecija III Electric Cooperative, Inc. vs. National Labor Relations Commissi
+- [GR-91797](GR-91797.md) — Widows And Orphans Asso., Inc. vs. Court of Appeals, et al.
+- [GR-91846](GR-91846.md) — People of the Philippines vs. Alfredo O. Maclid
+- [GR-91847](GR-91847.md) — People of the Philippines vs. Carlito Martos
+- [GR-91860](GR-91860.md) — ROSEO U. TEJADA, ET AL. vs. HON. EUFEMIO C. DOMINGO
+- [GR-91879](GR-91879.md) — Maximo Regoso vs. Court of Appeal et al.
+- [GR-92020](GR-92020.md) — People of the Philippines vs. Eliseo A. Martinado, et al.
+- [GR-92087](GR-92087.md) — Sofia Fernando, et al. vs. Court of Appeals, et al.
+- [GR-921084](GR-921084.md) — Florencio Sealana-Abbu vs. Florante E. Madrono
+- [GR-92136](GR-92136.md) — Edgardo Dytiapco vs. Civil Service Commission, et al.
+- [GR-92143](GR-92143.md) — PEOPLE OF THE PHIL. vs. PONCIANO AGCAOILI
+- [GR-92144_49](GR-92144_49.md) — People of the Philippines vs. Resurreccion Cariño
+- [GR-92248](GR-92248.md) — Vicencio T. Torres, et al. vs. Court of Appeals, et al.
+- [GR-92276](GR-92276.md) — Rebecco E. Panlilio vs. Sandiganbayan
+- [GR-92326](GR-92326.md) — REPUBLIC OF THE PHIL. vs. COURT OF APPEALS, ET AL.
+- [GR-92383](GR-92383.md) — Sun Insurance Office, Ltd. vs. Court of Appeals
+- [GR-92387](GR-92387.md) — People of the Philippines vs. Nelson L. Mendoza
+- [GR-92391](GR-92391.md) — Philippines Fruits And Vegetable Ind. vs. Ruben D. Torres et al.
+- [GR-92403](GR-92403.md) — Victor A. Aquino vs. Civil Service Commission, et al.
+- [GR-92416](GR-92416.md) — People of the Philippines vs. Jeffrey Logronio
+- [GR-92442_43](GR-92442_43.md) — People of the Philippines vs. Nestor Dela Cruz
+- [GR-92501](GR-92501.md) — Philippine Air Lines vs. Court of Appeals, et al.
+- [GR-92540](GR-92540.md) — Aniano Torres vs. Court of Appeals
+- [GR-92585](GR-92585.md) — Caltex Phils., Inc. vs. Commission On Audit, et al.
+- [GR-92595](GR-92595.md) — Mita Pardo De Tavera vs. Civil Service Commission, et al.
+- [GR-92706](GR-92706.md) — People of the Philippines vs. Jesus Mirantes
+- [GR-92740](GR-92740.md) — Philippine Airlines, Inc. vs. Jaime Ramos, et al.
+- [GR-92758](GR-92758.md) — Emilio Venegas vs. National Labor Relations Commission, et al.
+- [GR-92849](GR-92849.md) — People of the Philippines vs. Tirzo Celiz, et al.
+- [GR-92850](GR-92850.md) — People of the Philippines vs. Rolando B. Angeles
+- [GR-92878](GR-92878.md) — Eduardo Patna-An vs. National Labor Relations Commission, et al.
+- [GR-92928](GR-92928.md) — PEOPLE OF THE PHIL. vs. EUGENIO CATAN
+- [GR-92981](GR-92981.md) — INTERNATIONAL PHARMACEUTICALS, INC. vs. SECRETARY OF LABOR, ET AL.
+- [GR-93003](GR-93003.md) — Carmelita Reyes vs. Employees Compensation Commission
+- [GR-93016](GR-93016.md) — United Aluminum Fabricators vs. Franklin M. Drilon
+- [GR-93044](GR-93044.md) — Radio Communication of the Philippines vs. National Wages Council, et al.
+- [GR-93045](GR-93045.md) — Dr. Jose Sison vs. Court of Appeals, et al.
+- [GR-93055](GR-93055.md) — PEOPLE OF THE PHIL. vs. ROLDAN S. MANCIO, ET AL.
+- [GR-93064](GR-93064.md) — Agustina G. Gayatao vs. Civil Service Commission
+- [GR-93073](GR-93073.md) — Republic Planters Bank vs. Court of Appeals
+- [GR-93143](GR-93143.md) — People of the Philippines vs. Maximo R. Race, Jr.
+- [GR-93234](GR-93234.md) — Pedro S. Ravelo, et al. vs. Court of Appeals, et al.
+- [GR-93237](GR-93237.md) — Radio Communications of the Philippines, Inc. vs. Nat'l. Telecommunication Com.,
+- [GR-93238](GR-93238.md) — National Power Corp. vs. Court of Appeals, et al.
+- [GR-93355](GR-93355.md) — Luis B. Domingo vs. Development Bank of the Philippines, et al.
+- [GR-93406](GR-93406.md) — People of the Philippines vs. Roger Arevalo, et al.
+- [GR-93408](GR-93408.md) — People of the Philippines vs. Rolando M. Castillo
+- [GR-93409](GR-93409.md) — People of the Philippines vs. Ramonito Gelotin, et al.
+- [GR-93411_12](GR-93411_12.md) — Encarnacion Flores vs. People of the Philippines
+- [GR-93474](GR-93474.md) — Virginia Ocampo Juarez vs. Court of Appeals, et al.
+- [GR-93516](GR-93516.md) — People of the Philippines vs. Basilio Damaso
+- [GR-93654](GR-93654.md) — Francisco U. Dacanay vs. Macario Asistio, Jr., et al.
+- [GR-93664](GR-93664.md) — People of the Philippines vs. Temistocles T. Castor
+- [GR-93695](GR-93695.md) — RAMON C. LEE, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-93709](GR-93709.md) — People of the Philippines vs. Joseph Rabanes
+- [GR-93712](GR-93712.md) — People of the Philippines vs. Alejandro B. William, Et.,Al.
+- [GR-93729](GR-93729.md) — People of the Philippines vs. Deogracias Jalon
+- [GR-93752](GR-93752.md) — People of the Philippines vs. Laroy T. Buenaflor
+- [GR-93783](GR-93783.md) — Evangeline C. Bucad vs. Court of Appeals
+- [GR-93805](GR-93805.md) — PEOPLE OF THE PHIL. vs. RAMIL BALATUCAN, ET AL.
+- [GR-93828](GR-93828.md) — People of the Philippines vs. Santiago Evaristo, et al.
+- [GR-93851](GR-93851.md) — Mark Bayquen vs. Court of Appeals, et al.
+- [GR-93852](GR-93852.md) — PEOPLE OF THE PHIL. vs. DANDY DE JESUS
+- [GR-93899](GR-93899.md) — People of the Philippines vs. Eddie C. Cadag
+- [GR-93929_31](GR-93929_31.md) — People of the Philippines vs. Fernando O. Cabodac
+- [GR-93941](GR-93941.md) — Niceforo S. Agaton vs. Court of Apppeals
+- [GR-93983](GR-93983.md) — Davao Integrated Port And Stevedoring Services vs. Alfredo C. Olvida, et al.
+- [GR-93986](GR-93986.md) — Benjamin T. Loong vs. Commission On Elections
+- [GR-94008](GR-94008.md) — PEOPLE OF THE PHIL. vs. EDGAR B. FERNANDEZ
+- [GR-94070](GR-94070.md) — Rosalinda De Perio Santos vs. Catalino Macaraig, et al.
+- [GR-94071](GR-94071.md) — New Life Enterprises, et al. vs. Court of Appeals, et al.
+- [GR-94115](GR-94115.md) — Rodolfo E. Aguinaldo vs. Luis Santos, et al.
+- [GR-94129](GR-94129.md) — People of the Philippines vs. Antonio Rivera, et al.
+- [GR-94133](GR-94133.md) — People of the Philippines vs. Carlos Villanueva
+- [GR-94149](GR-94149.md) — American Home Assurance, Co. vs. Court of Appeals, et al.
+- [GR-94187](GR-94187.md) — People of the Philippines vs. Tirso Garcia, et al.
+- [GR-94188_89](GR-94188_89.md) — People of the Philippines vs. Manuel Batis
+- [GR-94193](GR-94193.md) — NATIONAL POWER CORP. vs. ENRIQUE T. JOCSON, ET AL.
+- [GR-94214](GR-94214.md) — Consuelo Reyes, et al. vs. Court of Appeals, et al.
+- [GR-94255](GR-94255.md) — Ricardo L. Medalla, Jr. vs. Patricia A. Sto. Tomas, et al.
+- [GR-94279](GR-94279.md) — Rafael G. Palma vs. Nlrc
+- [GR-94298](GR-94298.md) — People of the Philippines vs. Benjamin P. Madrid
+- [GR-94299](GR-94299.md) — People of the Philippines vs. Ricardo Mallari
+- [GR-94309](GR-94309.md) — People of the Philippines vs. Rene Paciente
+- [GR-94338](GR-94338.md) — PEOPLE OF THE PHIL. vs. JOSE BULIGON
+- [GR-94374](GR-94374.md) — Philippines Long Distance Tel. Co., vs. Eastern Telecom. Phils. Inc., et al.
+- [GR-94396](GR-94396.md) — People of the Philippines vs. Court of Appeals, et al.
+- [GR-94422](GR-94422.md) — Guillermo Marcelino, et al. vs. Court of Appeals, et al.
+- [GR-94429](GR-94429.md) — Batangas Laguna Tayabas Bus Co. vs. Nat'l. Labor Relations Commissions, et al.
+- [GR-94457](GR-94457.md) — Victoria Legarda vs. Court of Appeals, et al.
+- [GR-94472](GR-94472.md) — People of the Philippines vs. Fernando I. Santiago
+- [GR-94490](GR-94490.md) — Jose De Luna vs. Court of Appeals, et al.
+- [GR-94493](GR-94493.md) — Alejandro Atienza, Sr. vs. Court of Appeals
+- [GR-94523](GR-94523.md) — St. Theresita's Academy vs. National Labor Relations Commission
+- [GR-94525](GR-94525.md) — DIRECTOR OF LAND MANAGEMENT vs. COURT OF APPEALS, ET AL.
+- [GR-94529](GR-94529.md) — People of the Philippines vs. Ricardo Reyes
+- [GR-94530](GR-94530.md) — People of the Philippines vs. Dante Donato, et al.
+- [GR-94531_32](GR-94531_32.md) — People of the Philippines vs. Nemesio Bacalso
+- [GR-94533](GR-94533.md) — PEOPLE OF THE PHIL. vs. IGNACIO TONOG, JR., ET AL.
+- [GR-94534](GR-94534.md) — People of the Philippines vs. Rodrigo Bigcas Y Amuncio
+- [GR-94546](GR-94546.md) — People of the Philippines vs. Panfilo Diga
+- [GR-94547](GR-94547.md) — People of the Philippines vs. David Saulo Y Santos
+- [GR-94555](GR-94555.md) — People of the Philippines vs. Eduardo Labalan Ocimar, et al.
+- [GR-94566](GR-94566.md) — Ba Finance Corp. vs. Court of Appeals et al.
+- [GR-94588](GR-94588.md) — Finman General Assurance Corp. vs. Romeo Galiza
+- [GR-94590](GR-94590.md) — China Airlines Ltd. vs. Court of Appeals
+- [GR-94639](GR-94639.md) — PEOPLE OF THE PHIL. vs. SINFOROSO S. NANO, ET AL.
+- [GR-94643](GR-94643.md) — PEOPLE OF THE PHIL. vs. JOVITO C. CALLAO, ET AL.
+- [GR-94699](GR-94699.md) — VICENTE CORONEL, ET AL. vs. HON. COURT OF APPEALS, ET AL.
+- [GR-94755](GR-94755.md) — People of the Philippines vs. Alfredo A. Moreno, Jr., et al.
+- [GR-94757](GR-94757.md) — PEOPLE OF THE PHIL. vs. PILAR AMPARO PINZON, ET AL.
+- [GR-94771](GR-94771.md) — Ramon J. Veloria vs. Commission On Elections
+- [GR-94784](GR-94784.md) — People of the Philippines vs. Angelito Caling
+- [GR-94785](GR-94785.md) — People of the Philippines vs. Elpidio A. Loste
+- [GR-94803](GR-94803.md) — Talaga Barangay Water Service Coop. vs. Nat'l. Labor Relations Commission, et al
+- [GR-94810](GR-94810.md) — Eastern Metropolitan Bus Corp., et al. vs. Edilberto Pangan, et al.
+- [GR-94929_30](GR-94929_30.md) — Port Workers Union of the Phils. vs. Bienvenido E. Laguesma, et al.
+- [GR-95022](GR-95022.md) — Commissioner of Internal Revenue vs. Court of Appeals, et al.
+- [GR-95048](GR-95048.md) — People of the Philippines vs. Roger Montilla et al.
+- [GR-95067](GR-95067.md) — Gerardo Aranas vs. Court of Appeals
+- [GR-95229](GR-95229.md) — Corito Ocampo Tayag vs. Court of Appeals
+- [GR-95232](GR-95232.md) — PEOPLE OF THE PHILIPPINES vs. RENATO LINSANGAN, JR., ET AL.
+- [GR-95253](GR-95253.md) — Spouses Araneta vs. Court of Appeals, et al.
+- [GR-95254](GR-95254.md) — PEOPLE OF THE PHILLIPPINES vs. MARCOS ABUYAN, JR.
+- [GR-95259](GR-95259.md) — People of the Philippines vs. Bernardo Peran
+- [GR-95305](GR-95305.md) — Lindain, et al. vs. Court of Appeals, et al.
+- [GR-95333](GR-95333.md) — Fraulin A. Peñasales vs. Court of Appeals
+- [GR-95347](GR-95347.md) — SALACNIB F. BATERINA, ET AL. vs. COMMISSION ON ELECTIONS, ET AL.
+- [GR-95364](GR-95364.md) — Union Bank of the Philippines vs. Housing And Land Use Regulatory Board, et al.
+- [GR-95370](GR-95370.md) — People of the Philippines, et al. vs. Efren O. Ramos, et al.
+- [GR-95393](GR-95393.md) — Raul H. Sesbreno vs. Oscar E. Ala, et al.
+- [GR-95425](GR-95425.md) — FLORENCIO P. SALLES vs. NICEFORO B. FRANCISCO, ET AL.
+- [GR-95431](GR-95431.md) — Florencia De La Calzada-Cierras, et al. vs. Court of Appeals, et al.
+- [GR-95441](GR-95441.md) — Carlos O. Elido, Sr. vs. Court of Appeals, et al.
+- [GR-95492](GR-95492.md) — Midland Insurance Corp. vs. Secretary of Labor, et al.
+- [GR-95509](GR-95509.md) — Johannesburg Packing Corporation vs. Court of Appeals
+- [GR-95511](GR-95511.md) — VICENTE DE LEON, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-95536](GR-95536.md) — Aniceto G. Saludo, Jr. et al. vs. Court of Appeals, et al.
+- [GR-95542](GR-95542.md) — People of the Philippines vs. Teresita Del Mar, et al.
+- [GR-95546](GR-95546.md) — Makati Tuscany Cond. Corp. vs. Court of Appeals, et al.
+- [GR-95550](GR-95550.md) — Maximo Uy, et al. vs. Court of Appeals, et al.
+- [GR-95554](GR-95554.md) — People of the Philippines vs. Francisco M. Danico
+- [GR-95583](GR-95583.md) — People of the Philippines vs. Edgardo Wenceslao, et al.
+- [GR-95594](GR-95594.md) — Italian Village Restaurant vs. National Labor Relations Commission, et al.
+- [GR-95630](GR-95630.md) — Leopoldo Veroy vs. William L. Layague
+- [GR-95642](GR-95642.md) — Aurelio G. Icasiano, Jr. vs. Sandiganbayan, et al.
+- [GR-95684](GR-95684.md) — People of the Philippines vs. Elorde Antud
+- [GR-95692](GR-95692.md) — Sunday Machine Works, Inc. vs. National Labor Relations Comm., et al.
+- [GR-95696](GR-95696.md) — Alfonso S. Tan vs. Securities And Exchange Commission
+- [GR-95703](GR-95703.md) — Rural Bank of Bombon vs. Court of Appeals
+- [GR-95753](GR-95753.md) — PEOPLE OF THE PHIL. vs. RUBEN O. LIM
+- [GR-95757](GR-95757.md) — People of the Philippines vs. Arsenio Rañola
+- [GR-95778](GR-95778.md) — Skyworld Condominium Owners Association vs. Securities And Exchange Commission
+- [GR-95816](GR-95816.md) — Philippine National Construction Corporation vs. National Labor Relations Commis
+- [GR-95832](GR-95832.md) — Maynard R. Peralta vs. Civil Service Commission
+- [GR-95838](GR-95838.md) — Marcelino Laureto vs. Court of Appeals, et al.
+- [GR-95844](GR-95844.md) — Commando Security Agency vs. National Labor Relations Comm.
+- [GR-95871](GR-95871.md) — DOMINGA TABORA VDA. DE MACOY, ET AL> vs. COURT OF APPEALS, ET AL.
+- [GR-95900](GR-95900.md) — Julius C. Ouano vs. Court of Appeals
+- [GR-95902](GR-95902.md) — PEOPLE OF THE PHIL. vs. DON RODRIGUEZA
+- [GR-95903](GR-95903.md) — People of the Philippines vs. Lucille Sendon
+- [GR-95907](GR-95907.md) — Jose Reynante vs. Court of Appeals, et al.
+- [GR-95914](GR-95914.md) — Blue Bar Coconut Phils., Inc. vs. Nat'l Labor Relations Commission, et al.
+- [GR-95957](GR-95957.md) — PEOPLE OF THE PHIL. vs. CARLITO ALCANTARA
+- [GR-96004](GR-96004.md) — JOSE O. TEODORO, ET AL. vs. GUILLERMO CARAGUE, ET AL.
+- [GR-96037](GR-96037.md) — People of the Philippines vs. Prudencio Pugal
+- [GR-96054](GR-96054.md) — Mariano M. Lazatin, et al. vs. Court of Appeals, et al.
+- [GR-96058](GR-96058.md) — Victor C. Macalincag vs. Roberto E. Chang
+- [GR-96078](GR-96078.md) — HILARIO RADA vs. NAT'L. LABOR RELATIONS COMMISSION , ET AL.
+- [GR-96091](GR-96091.md) — People of the Philippines vs. Alfredo Leonardo Hoble
+- [GR-96126](GR-96126.md) — Esteria F. Garciano vs. Court of Appeals, et al.
+- [GR-96132](GR-96132.md) — Oriel Magno vs. Court of Appeals
+- [GR-96160](GR-96160.md) — Stelco Marketing Corp. vs. Court of Appeals
+- [GR-96161](GR-96161.md) — PHILIPS EXPORT B.V., ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-96182](GR-96182.md) — Marcelo Fernando vs. Honorable Sandiganbayan, et al.
+- [GR-96189](GR-96189.md) — University of the Philippines vs. Pura Ferrer-Calleja, et al.
+- [GR-96271](GR-96271.md) — Nativiada Villostas vs. Court of Appeals
+- [GR-96277_82](GR-96277_82.md) — People of the Philippines vs. Abelardo C. Avendaño
+- [GR-96283](GR-96283.md) — CHUNG FU INDUSTRIES (PHIL.) INC., ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-96296](GR-96296.md) — Rafael S. Dizon vs. Court of Appeals
+- [GR-96318](GR-96318.md) — People of the Philippines vs. Reynaldo L. Abelita
+- [GR-96319](GR-96319.md) — People of the Philippines vs. Renato Arcega
+- [GR-96389](GR-96389.md) — Reynaldo Abaya vs. People of the Philippines
+- [GR-96401](GR-96401.md) — Nemesio N. Atis vs. Court of Appeals, et al.
+- [GR-96409](GR-96409.md) — ANTONIO M. CARPIO vs. THE EXECUTIVE SECRETARY, ET AL.
+- [GR-96410](GR-96410.md) — Nat'l. Power Corp. et al. vs. Court of Appeals et al.
+- [GR-96425](GR-96425.md) — PROGRESSIVE DEV'T. CORP. vs. HON. SEC. OF LABOR, ET AL.
+- [GR-96432](GR-96432.md) — Lorenzo P. Lesaca vs. Court of Appeals
+- [GR-96439](GR-96439.md) — LEMERY SAVINGS & LOAN BANK, ET AL. vs. NATIONAL LABOR RELATIONS COMMISSION, ET A
+- [GR-96441](GR-96441.md) — People of the Philippines vs. Honorio G. Mabunga
+- [GR-96444](GR-96444.md) — People of the Philippines vs. Leandro F. Pajares
+- [GR-96452](GR-96452.md) — Perla Compania De Seguros Inc., vs. Court of Appeals, et al.
+- [GR-96469](GR-96469.md) — People of the Philippines vs. Teofilo Villanueva, et al.
+- [GR-96490](GR-96490.md) — INDOPHIL TEXTILE UNION vs. TEODORICO P. CALICA, ET AL.
+- [GR-96492](GR-96492.md) — Romeo Reyes, et al. vs. Court of Appeals, et al.
+- [GR-96494](GR-96494.md) — Casa Filipina Development Corp. vs. Deputy Executive Secretary
+- [GR-96525](GR-96525.md) — Mercury Drug Corp. vs. National Labor Relations Commission
+- [GR-96548](GR-96548.md) — People of the Philippines vs. Joel Dag-Uman
+- [GR-96566](GR-96566.md) — ATLAS LITHOGRAPHIC SERVICES, INC. vs. BIENVENIDO E. LAGUESMA, ET AL.
+- [GR-96605](GR-96605.md) — Feliciano Morcoso vs. Court of Appeals, et al.
+- [GR-96607](GR-96607.md) — Oscar Quilona vs. General Court Martial
+- [GR-96617](GR-96617.md) — Lolita B. Javier vs. Court of Appeals, et al.
+- [GR-96621](GR-96621.md) — People of the Philippines vs. Joey Bodozo, et al.
+- [GR-96628](GR-96628.md) — Ceferino Inciong vs. Eufemio Domingo
+- [GR-96635](GR-96635.md) — Atlantic, Gulf of Manila vs. Bienvenido E. Laguesma, et al.
+- [GR-96674](GR-96674.md) — Rural Bank of Salinas Inc. vs. Court of Appeals
+- [GR-96697](GR-96697.md) — People of the Philippines vs. Jaime Competente, et al.
+- [GR-96712](GR-96712.md) — People of the Philippines vs. Ernesto Villanueva
+- [GR-96714](GR-96714.md) — PEOPLE OF THE PHIL. vs. OSCAR DIQUIT, ET AL.
+- [GR-96745](GR-96745.md) — Manuel Melgar De La Cruz vs. National Labor Relations Commission
+- [GR-96787](GR-96787.md) — Pedro Tria vs. Employees' Compensation Commission, et al.
+- [GR-96810](GR-96810.md) — Heirs of Araneta vs. Court of Appeals, et al.
+- [GR-96825](GR-96825.md) — Rava Dev't. Corp. & Frabal Fishing & Ice Plant Corp. vs. Court of Appeals
+- [GR-96832](GR-96832.md) — People of the Philippines vs. Teotimo Danao
+- [GR-96844](GR-96844.md) — REMUS A. DIOPENES vs. GOVERNMENT SERVICE INSURANCE SYSTEM, ET AL.
+- [GR-96865](GR-96865.md) — Marcelino Kiamco vs. Court of Appeals et al.
+- [GR-96914](GR-96914.md) — Cecilia U. Ledesma vs. The Hon. Court of Appeals
+- [GR-96915](GR-96915.md) — Concepcion Dumagat vs. Sandiganbayan et al.
+- [GR-96928](GR-96928.md) — People of the Philippines vs. Bernardo Gonzales
+- [GR-97020](GR-97020.md) — California Manufacturing Corp. vs. Bienvenido E. Laguesma
+- [GR-97039](GR-97039.md) — Concordio Abellana, Sr., et al. vs. Court of Appeals, et al.
+- [GR-97086](GR-97086.md) — People of the Philippines vs. Edgardo Araneta Canela
+- [GR-97092](GR-97092.md) — Pepsi-Cola Sales And Advertising Union vs. Secretary of Labor
+- [GR-97108_09](GR-97108_09.md) — Daniel Garcia vs. Ernesto De Jesus
+- [GR-9714445](GR-9714445.md) — People of the Philippines vs. Juanito
+- [GR-97146](GR-97146.md) — People of the Philippines vs. Nelson C. Collantes
+- [GR-97147](GR-97147.md) — The People of the Philippines vs. Alex Querrer
+- [GR-97149](GR-97149.md) — Fidencio Y. Beja, Sr. vs. Court of Appeals, et al.
+- [GR-97180](GR-97180.md) — Benjamin D. Sison vs. Civil Service Commission
+- [GR-97217](GR-97217.md) — Chemphil Export And Import Corp. vs. Court of Appeals, et al.
+- [GR-97227](GR-97227.md) — People of the Philippines vs. Cecilio Binondo
+- [GR-97240](GR-97240.md) — Jesus T. David vs. Court of Appeals, et al.
+- [GR-97291](GR-97291.md) — Rufino Misa, et al. vs. Court of Appeals, et al.
+- [GR-97296](GR-97296.md) — People of the Philippines vs. Pedro B. Canciller
+- [GR-97303](GR-97303.md) — INT'L. IND'L. MGT. AND DEV'T. CORP. vs. HON. COURT OF APPEALS, ET AL.
+- [GR-97306](GR-97306.md) — People of the Philippines vs. Mario A. Tuboro
+- [GR-97308](GR-97308.md) — People of the Philippines. vs. Peter Hatague
+- [GR-97319](GR-97319.md) — Godofredo T. Swan, et al. vs. Hon. Court of Appeals, et al.
+- [GR-97339](GR-97339.md) — Nostram Laboratories, Inc. vs. Court of Appeals, et al.
+- [GR-97346](GR-97346.md) — Rodolfo Yosores vs. Employee's Compensation Commission
+- [GR-97351](GR-97351.md) — RAMON A. GONZALES vs. FRANCISCO I. CHAVEZ, ET AL.
+- [GR-97357](GR-97357.md) — Viron Garments Mfg., Co., et al. vs. National Labor Relation Commissions, et al.
+- [GR-97381](GR-97381.md) — Benigno V. Magpale, Jr. vs. Civil Service Commission, et al.
+- [GR-97389](GR-97389.md) — Alex Busante, et al. vs. Court of Appeals, et al.
+- [GR-97419](GR-97419.md) — Gaudencio T. Cena vs. Civil Service Commission et al.
+- [GR-97430](GR-97430.md) — People of the Philippines vs. Gomer P. Mendoza
+- [GR-97433](GR-97433.md) — People of the Philippines vs. Apolinario Sarense, et al.
+- [GR-97434](GR-97434.md) — G.R. No. 97434
+- [GR-97463](GR-97463.md) — Jesus M. Ibonilla vs. Cebu State College of Science & Technology
+- [GR-97477](GR-97477.md) — Camilo E. Tamin, et al. vs. Court of Appeals, et al.
+- [GR-97492](GR-97492.md) — Canlubang Security Agency Corp. vs. National Labor Relations Commission, et al.
+- [GR-97495](GR-97495.md) — People of the Philippines vs. Renato Mancao, et al.
+- [GR-97568](GR-97568.md) — CELINE MARKETING CORP. vs. BIENVENIDO E. LAGUESMA, ET AL.
+- [GR-97611](GR-97611.md) — People of the Philippines vs. Rogelio Talento
+- [GR-97619](GR-97619.md) — Spouses Socrates Pilapil, et al. vs. Court of Appeals, et al.
+- [GR-97637](GR-97637.md) — Wilmon Auto Supply Corp., et al. vs. Court of Appeals, et al.
+- [GR-97651](GR-97651.md) — Oscar C. Valle vs. Sandiganbayan, et al.
+- [GR-97753](GR-97753.md) — Caltex (Philippines), Inc. vs. Court of Appeals
+- [GR-97764](GR-97764.md) — Levy D. Macasiano vs. Roberto C. Diokno, et al.
+- [GR-97816](GR-97816.md) — Merrill Lynch Futures, Inc. vs. Court of Appeals
+- [GR-97822](GR-97822.md) — Mauricio N. Cachola, Sr. vs. Court of Appeals, et al.
+- [GR-97880](GR-97880.md) — RAFAEL ABUNDO vs. SANDIGANBAYAN, ET AL.
+- [GR-97906](GR-97906.md) — Republic of the Philippines vs. Court of Appeals, et al.
+- [GR-97917](GR-97917.md) — People of the Philippines vs. Pablo Dacquel
+- [GR-97930](GR-97930.md) — People of the Philippines vs. Stanley Blas
+- [GR-97952](GR-97952.md) — People of the Philippines vs. Alvin C. Liquen
+- [GR-97973](GR-97973.md) — SPOUSES GAUVAIN, ET AL. vs. COURT OF APPEALS, ET AL.
+- [GR-98028](GR-98028.md) — GREGORIO CASTILLO vs. COURT OF APPEALS, ET AL.
+- [GR-98030](GR-98030.md) — Alejandro J. Cuadra, et al. vs. National Labor Relations Commission, et al.
+- [GR-98046](GR-98046.md) — Cebu Contractors Consortium Company vs. Court of Appeals, et al.
+- [GR-98093](GR-98093.md) — Prima K. Gobantes vs. Civil Service Commission, et al.
+- [GR-98120](GR-98120.md) — Filomena R. Mancita vs. Hon. Ceferino P. Barcinas, et al.
+- [GR-98152_53](GR-98152_53.md) — People of the Philippines vs. Armando G. Pasiliao, et al.
+- [GR-98185](GR-98185.md) — Sibagat Timber Corporation vs. Adolfo B. Garcia
+- [GR-98243](GR-98243.md) — Alejandro Arada vs. Court of Appeals
+- [GR-98251](GR-98251.md) — People of the Philippines vs. Danilo Cruda
+- [GR-98258](GR-98258.md) — Tirso Oporto, et al. vs. Court of Appeals, et al.
+- [GR-98275](GR-98275.md) — Ba Finance Corporation vs. Court of Appeals
+- [GR-98325](GR-98325.md) — Lucino Diaz vs. Court of Appeals, et al.
+- [GR-98334](GR-98334.md) — Manuel D. Medida, et al. vs. Court of Appeals, et al.
+- [GR-9834042](GR-9834042.md) — Mariano J. Pimentel , et al. vs. Francis E. Garchitorena, et al.
+- [GR-98362](GR-98362.md) — People of the Philippines vs. George Agustin Y Pocno
+- [GR-98423_24](GR-98423_24.md) — People of the Philippines vs. Rafael Acuram
+- [GR-98427](GR-98427.md) — People of the Philippines vs. Winnie B. Labra
+- [GR-98430](GR-98430.md) — People of the Philippines vs. Rosalino Necerio
+- [GR-98432](GR-98432.md) — People of the Philippines vs. Ex-Cpl. Victorio Pletado
+- [GR-98440](GR-98440.md) — People of the Philippines vs. Jaime Laurora
+- [GR-98448](GR-98448.md) — Aida Ong vs. Court of Appeals, et al.
+- [GR-98467](GR-98467.md) — National Development Co et al. vs. Court of Appeals et al.
+- [GR-99287](GR-99287.md) — People of the Philippines vs. Hon. Martin S. Villarama, Jr.
+- [GR-99289](GR-99289.md) — MIRIAM DEFENSOR SANTIAGO vs. CONRADO M. VASQUEZ, ET AL.
+- [GR-99302](GR-99302.md) — German P. Zagada vs. Civil Service Commission, et al.
+- [GR-99308](GR-99308.md) — State Investment House, Inc. vs. Court of Appeals
+- [GR-99336](GR-99336.md) — MELANIO S. TORIO, VS. CIVIL SERVICE COMMISSION, NATIONAL PRINTING OFFICE, OFFICE
+- [GR-99357](GR-99357.md) — MA. LOURDES VILLANUEVA vs. COURT OF APPEALS, ET AL.
+- [GR-99431](GR-99431.md) — Goldloop Properties, Inc. vs. Court Appeals, et al.
+- [GR-L_27876](GR-L_27876.md) — Adelaida S. Maneclang vs. Juan T. Baun, et al.
+- [GR-L_49019](GR-L_49019.md) — People of the Philippines vs. City Court of Gen. Santos City (Br. Iii), et al.
+- [GR-L_49983](GR-L_49983.md) — Federation of Free Workers, et al. vs. Amado G. Inciong
+- [GR-L_60222](GR-L_60222.md) — Traders Royal Bank vs. Court of Appeals, et al.
+- [GR-L_67485](GR-L_67485.md) — Nat'l. Cong. of Unions in the Sugar Ind. of the Philippines vs. Cresenciano B. T
+- [GR-L_68311_13](GR-L_68311_13.md) — PEOPLE OF THE PHIL. vs. LAPNAYO BUKA, ET AL.
+- [GR-L_95231](GR-L_95231.md) — People of the Philippines vs. Danilo C. Dimaano, Et.,Al.

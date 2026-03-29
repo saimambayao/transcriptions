@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix B: BARMM Systems Diagnostic</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1B365D;
+    --gold: #C5A54E;
+    --gold-light: #F5EFD8;
+    --navy-light: #E8EDF3;
+    --gray-50: #F9FAFB;
+    --gray-100: #F3F4F6;
+    --gray-200: #E5E7EB;
+    --gray-300: #D1D5DB;
+    --gray-500: #6B7280;
+    --gray-700: #374151;
+    --gray-900: #111827;
+    --white: #FFFFFF;
+    --growth: #16A34A;
+    --conservation: #2563EB;
+    --release: #DC2626;
+    --reorganization: #D97706;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: var(--gray-900);
+    background: var(--white);
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page-break { page-break-before: always; }
+    .no-break { page-break-inside: avoid; }
+    @page { margin: 2cm; size: A4; }
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .cover-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 40px;
+    border-bottom: 6px solid var(--gold);
+    margin: -40px -40px 40px -40px;
+  }
+
+  .cover-header .appendix-label {
+    font-size: 14pt;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .cover-header h1 {
+    font-size: 28pt;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+
+  .cover-header .subtitle {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #B0C4DE;
+    max-width: 600px;
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 8px;
+    margin: 32px 0 16px 0;
+  }
+
+  h3 {
+    font-size: 13pt;
+    font-weight: 600;
+    color: var(--navy);
+    margin: 24px 0 10px 0;
+  }
+
+  h4 {
+    font-size: 11pt;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin: 16px 0 8px 0;
+  }
+
+  p { margin-bottom: 10px; }
+
+  .instructions {
+    background: var(--navy-light);
+    border-left: 4px solid var(--navy);
+    padding: 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
+  }
+
+  .instructions strong { color: var(--navy); }
+
+  .phase-section {
+    margin: 24px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 2px solid var(--gray-200);
+  }
+
+  .phase-header {
+    padding: 16px 20px;
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .phase-header.growth { background: var(--growth); }
+  .phase-header.conservation { background: var(--conservation); }
+  .phase-header.release { background: var(--release); }
+  .phase-header.reorganization { background: var(--reorganization); }
+
+  .phase-symbol {
+    font-size: 24pt;
+    font-weight: 800;
+    line-height: 1;
+    opacity: 0.9;
+  }
+
+  .phase-title {
+    font-size: 14pt;
+    font-weight: 700;
+  }
+
+  .phase-subtitle {
+    font-size: 9pt;
+    font-weight: 400;
+    opacity: 0.85;
+  }
+
+  .phase-body {
+    padding: 20px;
+    background: var(--white);
+  }
+
+  .checklist-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--gray-100);
+  }
+
+  .checklist-item:last-child { border-bottom: none; }
+
+  .checkbox {
+    flex-shrink: 0;
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--gray-300);
+    border-radius: 3px;
+    margin-top: 2px;
+  }
+
+  .checklist-item label {
+    flex: 1;
+    cursor: default;
+    font-size: 10.5pt;
+  }
+
+  .score-row {
+    display: flex;
+    justify-content: flex-end;
+    padding: 12px 0 0 0;
+    margin-top: 8px;
+    border-top: 2px solid var(--gray-200);
+  }
+
+  .score-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 11pt;
+  }
+
+  .score-box {
+    width: 50px;
+    height: 28px;
+    border: 2px solid var(--navy);
+    border-radius: 4px;
+    margin-left: 12px;
+    text-align: center;
+    font-weight: 700;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    table-layout: fixed;
+  }
+
+  th {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px 12px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 10pt;
+  }
+
+  td {
+    padding: 10px 12px;
+    border: 1px solid var(--gray-200);
+    font-size: 10pt;
+    vertical-align: top;
+  }
+
+  tr:nth-child(even) td { background: var(--gray-50); }
+
+  .blank-line {
+    border-bottom: 1px solid var(--gray-300);
+    height: 28px;
+    margin-bottom: 4px;
+  }
+
+  .sector-assessment {
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    margin: 20px 0;
+    overflow: hidden;
+  }
+
+  .sector-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 12px 20px;
+    font-weight: 700;
+    font-size: 12pt;
+  }
+
+  .sector-body { padding: 20px; }
+
+  .phase-selector {
+    display: flex;
+    gap: 12px;
+    margin: 12px 0;
+    flex-wrap: wrap;
+  }
+
+  .phase-option {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border: 2px solid var(--gray-300);
+    border-radius: 20px;
+    font-size: 10pt;
+    font-weight: 500;
+  }
+
+  .phase-option .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .phase-option .dot.growth-dot { background: var(--growth); }
+  .phase-option .dot.conservation-dot { background: var(--conservation); }
+  .phase-option .dot.release-dot { background: var(--release); }
+  .phase-option .dot.reorganization-dot { background: var(--reorganization); }
+
+  .evidence-lines {
+    margin: 12px 0;
+  }
+
+  .alignment-grid {
+    display: grid;
+    grid-template-columns: 140px repeat(4, 1fr);
+    border: 2px solid var(--navy);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+
+  .ag-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 9pt;
+  }
+
+  .ag-row-label {
+    background: var(--navy-light);
+    padding: 10px;
+    font-weight: 600;
+    font-size: 10pt;
+    color: var(--navy);
+    display: flex;
+    align-items: center;
+  }
+
+  .ag-cell {
+    padding: 10px;
+    border: 1px solid var(--gray-200);
+    min-height: 50px;
+    text-align: center;
+    font-size: 10pt;
+  }
+
+  .tip-box {
+    background: var(--gold-light);
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+  }
+
+  .tip-box .tip-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .worksheet-box {
+    border: 2px solid var(--gray-300);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 16px 0;
+    background: var(--white);
+  }
+
+  .worksheet-box h4 {
+    color: var(--navy);
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+  }
+
+  .footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 2px solid var(--gold);
+    font-size: 9pt;
+    color: var(--gray-500);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- COVER -->
+  <div class="cover-header">
+    <div class="appendix-label">Appendix B</div>
+    <h1>BARMM Systems Diagnostic</h1>
+    <div class="subtitle">A self-assessment checklist for determining where your sector sits in the adaptive cycle</div>
+  </div>
+
+  <div class="instructions">
+    <strong>How to Use This Diagnostic:</strong> Work through Section 1 by checking all indicators that apply to your sector. The phase with the most checked items is likely your current phase. Then complete Section 2 for a deeper sector-specific assessment, and Section 3 to analyze cross-sector alignment. This diagnostic works best when completed by a team of 3-5 people with diverse roles in the sector.
+  </div>
+
+  <!-- SECTION 1: PHASE IDENTIFICATION -->
+  <h2>Section 1: Phase Identification Checklist</h2>
+  <p>For each phase below, check every indicator that currently applies to your sector. Count your checks at the bottom of each phase.</p>
+
+  <!-- GROWTH -->
+  <div class="phase-section no-break">
+    <div class="phase-header growth">
+      <div class="phase-symbol">r</div>
+      <div>
+        <div class="phase-title">Growth Phase</div>
+        <div class="phase-subtitle">Rapid expansion, resource accumulation, experimentation</div>
+      </div>
+    </div>
+    <div class="phase-body">
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>New positions are being created and filled across the sector</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>New programs and initiatives are launching regularly</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Budget allocation is increasing year over year</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Experimentation and innovation are encouraged by leadership</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>External support and investment are flowing into the sector</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Public optimism about the sector's future is high</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>New partnerships and collaborations are forming</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Talent is being attracted to the sector (people want to join)</label>
+      </div>
+      <div class="score-row">
+        <span class="score-label">Growth Score (out of 8):</span>
+        <div class="score-box"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONSERVATION -->
+  <div class="phase-section no-break">
+    <div class="phase-header conservation">
+      <div class="phase-symbol">K</div>
+      <div>
+        <div class="phase-title">Conservation Phase</div>
+        <div class="phase-subtitle">Stability, rigidity, efficiency over innovation</div>
+      </div>
+    </div>
+    <div class="phase-body">
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Processes are highly standardized with detailed SOPs for everything</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Budget is stable but very difficult to redirect to new priorities</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Innovation is discouraged &mdash; "we've always done it this way" is common</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Key positions are held by long-tenured individuals resistant to change</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Reform proposals face strong institutional resistance</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>The gap between stated goals and actual outcomes is widening</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Resources are concentrated in established programs, starving new ones</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Compliance with procedure is valued more than achieving results</label>
+      </div>
+      <div class="score-row">
+        <span class="score-label">Conservation Score (out of 8):</span>
+        <div class="score-box"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- RELEASE -->
+  <div class="phase-section no-break">
+    <div class="phase-header release">
+      <div class="phase-symbol">&Omega;</div>
+      <div>
+        <div class="phase-title">Release Phase</div>
+        <div class="phase-subtitle">Disruption, breakdown, creative destruction</div>
+      </div>
+    </div>
+    <div class="phase-body">
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>A major disruption or crisis has recently occurred in the sector</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Key leaders have departed, been removed, or are no longer effective</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Established processes and procedures are breaking down</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Resources are being redirected, frozen, or lost</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>There is high uncertainty about the sector's future direction</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Old assumptions about how things work are being questioned publicly</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>External stakeholders are losing confidence in the sector</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Staff morale is low; talented people are leaving</label>
+      </div>
+      <div class="score-row">
+        <span class="score-label">Release Score (out of 8):</span>
+        <div class="score-box"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- REORGANIZATION -->
+  <div class="phase-section no-break">
+    <div class="phase-header reorganization">
+      <div class="phase-symbol">&alpha;</div>
+      <div>
+        <div class="phase-title">Reorganization Phase</div>
+        <div class="phase-subtitle">Renewal, experimentation, high potential and vulnerability</div>
+      </div>
+    </div>
+    <div class="phase-body">
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>New institutional structures and frameworks are being designed</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Multiple different approaches are being tested simultaneously</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>New leaders are emerging from unexpected places</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Existing rules, norms, and structures are being rewritten</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>There is high creativity but also high vulnerability to setbacks</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>There is risk of reverting to old patterns and ARMM-era habits</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>Cross-sector collaboration is happening in new configurations</label>
+      </div>
+      <div class="checklist-item">
+        <div class="checkbox"></div>
+        <label>There is a sense of possibility mixed with anxiety about direction</label>
+      </div>
+      <div class="score-row">
+        <span class="score-label">Reorganization Score (out of 8):</span>
+        <div class="score-box"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="tip-box" style="margin-top: 24px;">
+    <div class="tip-label">Interpreting Your Scores</div>
+    <p style="margin: 0;">Your <strong>highest-scoring phase</strong> is likely your sector's current position in the adaptive cycle. If two phases score similarly, your sector may be in <strong>transition</strong> between them. Note that different parts of the same sector can be in different phases &mdash; use Section 2 to go deeper.</p>
+  </div>
+
+  <!-- SECTION 2: SECTOR-SPECIFIC ASSESSMENT -->
+  <div class="page-break"></div>
+
+  <h2>Section 2: Sector-Specific Assessment</h2>
+  <p>Complete one assessment card for each major sector. Circle or highlight the phase that best describes where the sector is now, then provide evidence and identify implications.</p>
+
+  <!-- GOVERNANCE -->
+  <div class="sector-assessment">
+    <div class="sector-header">Governance Sector</div>
+    <div class="sector-body">
+      <h4>Current Phase (circle one):</h4>
+      <div class="phase-selector">
+        <div class="phase-option"><div class="dot growth-dot"></div> Growth (r)</div>
+        <div class="phase-option"><div class="dot conservation-dot"></div> Conservation (K)</div>
+        <div class="phase-option"><div class="dot release-dot"></div> Release (&Omega;)</div>
+        <div class="phase-option"><div class="dot reorganization-dot"></div> Reorganization (&alpha;)</div>
+      </div>
+
+      <h4>Evidence for Your Assessment (3-5 bullet points):</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Implications for Intervention Strategy:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Key Leverage Points Available at This Phase:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="sector-assessment">
+    <div class="sector-header">Education Sector</div>
+    <div class="sector-body">
+      <h4>Current Phase (circle one):</h4>
+      <div class="phase-selector">
+        <div class="phase-option"><div class="dot growth-dot"></div> Growth (r)</div>
+        <div class="phase-option"><div class="dot conservation-dot"></div> Conservation (K)</div>
+        <div class="phase-option"><div class="dot release-dot"></div> Release (&Omega;)</div>
+        <div class="phase-option"><div class="dot reorganization-dot"></div> Reorganization (&alpha;)</div>
+      </div>
+
+      <h4>Evidence for Your Assessment (3-5 bullet points):</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Implications for Intervention Strategy:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Key Leverage Points Available at This Phase:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- ECONOMY -->
+  <div class="sector-assessment">
+    <div class="sector-header">Economy Sector</div>
+    <div class="sector-body">
+      <h4>Current Phase (circle one):</h4>
+      <div class="phase-selector">
+        <div class="phase-option"><div class="dot growth-dot"></div> Growth (r)</div>
+        <div class="phase-option"><div class="dot conservation-dot"></div> Conservation (K)</div>
+        <div class="phase-option"><div class="dot release-dot"></div> Release (&Omega;)</div>
+        <div class="phase-option"><div class="dot reorganization-dot"></div> Reorganization (&alpha;)</div>
+      </div>
+
+      <h4>Evidence for Your Assessment (3-5 bullet points):</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Implications for Intervention Strategy:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Key Leverage Points Available at This Phase:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SOCIAL -->
+  <div class="sector-assessment">
+    <div class="sector-header">Social Sector</div>
+    <div class="sector-body">
+      <h4>Current Phase (circle one):</h4>
+      <div class="phase-selector">
+        <div class="phase-option"><div class="dot growth-dot"></div> Growth (r)</div>
+        <div class="phase-option"><div class="dot conservation-dot"></div> Conservation (K)</div>
+        <div class="phase-option"><div class="dot release-dot"></div> Release (&Omega;)</div>
+        <div class="phase-option"><div class="dot reorganization-dot"></div> Reorganization (&alpha;)</div>
+      </div>
+
+      <h4>Evidence for Your Assessment (3-5 bullet points):</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Implications for Intervention Strategy:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+
+      <h4>Key Leverage Points Available at This Phase:</h4>
+      <div class="evidence-lines">
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+        <div class="blank-line"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 3: CROSS-SECTOR ALIGNMENT -->
+  <div class="page-break"></div>
+
+  <h2>Section 3: Cross-Sector Alignment</h2>
+  <p>Transfer your sector phase assessments to the grid below to visualize alignment across sectors. Where sectors share the same phase, there is opportunity for coordinated action. Where they diverge, there is risk of working at cross-purposes.</p>
+
+  <h3>Cross-Sector Phase Grid</h3>
+  <p>Mark an <strong>X</strong> in the cell that corresponds to each sector's current phase:</p>
+
+  <div class="alignment-grid">
+    <div class="ag-header">Sector</div>
+    <div class="ag-header">Growth (r)</div>
+    <div class="ag-header">Conservation (K)</div>
+    <div class="ag-header">Release (&Omega;)</div>
+    <div class="ag-header">Reorganization (&alpha;)</div>
+
+    <div class="ag-row-label">Governance</div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+
+    <div class="ag-row-label">Education</div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+
+    <div class="ag-row-label">Economy</div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+
+    <div class="ag-row-label">Social</div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+    <div class="ag-cell"></div>
+  </div>
+
+  <h3>Alignment Analysis</h3>
+
+  <div class="worksheet-box">
+    <h4>Where are phases aligned? (Opportunity for coordinated action)</h4>
+    <p style="font-size: 9pt; color: var(--gray-500);">List sectors that share the same phase and describe how coordinated intervention could amplify impact.</p>
+    <div class="evidence-lines">
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+    </div>
+  </div>
+
+  <div class="worksheet-box">
+    <h4>Where do phases conflict? (Risk of working at cross-purposes)</h4>
+    <p style="font-size: 9pt; color: var(--gray-500);">List sectors in different phases and describe the tension. For example, if governance is in Conservation while education is in Reorganization, rigid governance structures may block education innovation.</p>
+    <div class="evidence-lines">
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+    </div>
+  </div>
+
+  <div class="worksheet-box">
+    <h4>Strategic Implications: What does this alignment pattern mean for our intervention?</h4>
+    <div class="evidence-lines">
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+      <div class="blank-line"></div>
+    </div>
+  </div>
+
+  <div class="tip-box">
+    <div class="tip-label">BARMM Context</div>
+    <p style="margin: 0;">The Bangsamoro transition from ARMM represents a system-wide Release-to-Reorganization shift, but different sectors are moving through the adaptive cycle at different speeds. Governance structures may still be in Reorganization while the economy remains in a pattern inherited from the Conservation phase of ARMM. Understanding these differences is critical for sequencing interventions effectively.</p>
+  </div>
+
+  <div class="footer">
+    Systems Change in the Bangsamoro &mdash; Appendix B: BARMM Systems Diagnostic<br>
+    Bangsamoro Autonomous Region in Muslim Mindanao
+  </div>
+
+</div>
+
+</body>
+</html>

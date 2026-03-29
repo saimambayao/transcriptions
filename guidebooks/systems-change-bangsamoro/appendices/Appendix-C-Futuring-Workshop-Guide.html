@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix C: Futuring Workshop Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1B365D;
+    --gold: #C5A54E;
+    --gold-light: #F5EFD8;
+    --navy-light: #E8EDF3;
+    --gray-50: #F9FAFB;
+    --gray-100: #F3F4F6;
+    --gray-200: #E5E7EB;
+    --gray-300: #D1D5DB;
+    --gray-500: #6B7280;
+    --gray-700: #374151;
+    --gray-900: #111827;
+    --white: #FFFFFF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: var(--gray-900);
+    background: var(--white);
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page-break { page-break-before: always; }
+    .no-break { page-break-inside: avoid; }
+    @page { margin: 2cm; size: A4; }
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .cover-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 40px;
+    border-bottom: 6px solid var(--gold);
+    margin: -40px -40px 40px -40px;
+  }
+
+  .cover-header .appendix-label {
+    font-size: 14pt;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .cover-header h1 {
+    font-size: 28pt;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+
+  .cover-header .subtitle {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #B0C4DE;
+    max-width: 600px;
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 8px;
+    margin: 32px 0 16px 0;
+  }
+
+  h3 {
+    font-size: 13pt;
+    font-weight: 600;
+    color: var(--navy);
+    margin: 24px 0 10px 0;
+  }
+
+  h4 {
+    font-size: 11pt;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin: 16px 0 8px 0;
+  }
+
+  p { margin-bottom: 10px; }
+
+  ul, ol { margin: 0 0 12px 24px; }
+  li { margin-bottom: 4px; }
+
+  .overview-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 20px 0;
+  }
+
+  .overview-card {
+    background: var(--navy-light);
+    border-left: 4px solid var(--navy);
+    padding: 16px;
+    border-radius: 0 8px 8px 0;
+  }
+
+  .overview-card .label {
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--navy);
+    margin-bottom: 4px;
+  }
+
+  .overview-card .value {
+    font-size: 10.5pt;
+    color: var(--gray-700);
+  }
+
+  .day-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 16px 24px;
+    border-radius: 8px 8px 0 0;
+    margin-top: 32px;
+  }
+
+  .day-header h2 {
+    color: var(--white);
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18pt;
+  }
+
+  .day-header .day-subtitle {
+    color: var(--gold);
+    font-size: 11pt;
+    font-weight: 500;
+    margin-top: 4px;
+  }
+
+  .session-card {
+    border: 2px solid var(--gray-200);
+    border-top: none;
+    padding: 24px;
+    margin-bottom: 0;
+  }
+
+  .session-card + .session-card {
+    border-top: 2px dashed var(--gray-200);
+  }
+
+  .session-card:last-of-type {
+    border-radius: 0 0 8px 8px;
+    margin-bottom: 24px;
+  }
+
+  .session-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .session-number {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    background: var(--gold);
+    color: var(--navy);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 16pt;
+  }
+
+  .session-meta {
+    flex: 1;
+  }
+
+  .session-meta .session-title {
+    font-size: 13pt;
+    font-weight: 700;
+    color: var(--navy);
+  }
+
+  .session-meta .session-time {
+    font-size: 10pt;
+    color: var(--gray-500);
+    font-weight: 500;
+  }
+
+  .activity-block {
+    background: var(--gray-50);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px 0;
+    border: 1px solid var(--gray-200);
+  }
+
+  .activity-label {
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+
+  .activity-block p { font-size: 10.5pt; margin-bottom: 6px; }
+
+  .exercise-block {
+    background: var(--gold-light);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px 0;
+    border: 1px solid var(--gold);
+  }
+
+  .exercise-label {
+    font-size: 9pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--navy);
+    margin-bottom: 6px;
+  }
+
+  .prototype-template {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2px;
+    margin: 16px 0;
+    border: 2px solid var(--navy);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .pt-row {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 0;
+  }
+
+  .pt-label {
+    background: var(--navy);
+    color: var(--white);
+    padding: 10px 14px;
+    font-weight: 600;
+    font-size: 10pt;
+    display: flex;
+    align-items: center;
+  }
+
+  .pt-content {
+    padding: 10px 14px;
+    background: var(--white);
+    min-height: 40px;
+    border-bottom: 1px solid var(--gray-200);
+  }
+
+  .materials-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin: 12px 0;
+  }
+
+  .material-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 10pt;
+    padding: 6px 0;
+  }
+
+  .material-check {
+    width: 16px;
+    height: 16px;
+    border: 2px solid var(--gray-300);
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  .facilitation-section {
+    background: var(--navy-light);
+    border-radius: 8px;
+    padding: 24px;
+    margin: 24px 0;
+    border: 1px solid var(--navy);
+  }
+
+  .facilitation-section h3 {
+    color: var(--navy);
+    margin-top: 0;
+  }
+
+  .fac-tip {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--gray-200);
+  }
+
+  .fac-tip:last-child { border-bottom: none; }
+
+  .fac-tip strong { color: var(--navy); }
+
+  .tip-box {
+    background: var(--gold-light);
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+  }
+
+  .tip-box .tip-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .blank-line {
+    border-bottom: 1px solid var(--gray-300);
+    height: 28px;
+    margin-bottom: 4px;
+  }
+
+  .timeline {
+    position: relative;
+    margin: 20px 0;
+  }
+
+  .timeline-item {
+    display: flex;
+    gap: 16px;
+    padding: 8px 0;
+    align-items: baseline;
+  }
+
+  .timeline-time {
+    flex-shrink: 0;
+    width: 100px;
+    font-weight: 600;
+    font-size: 10pt;
+    color: var(--navy);
+    text-align: right;
+  }
+
+  .timeline-desc {
+    flex: 1;
+    font-size: 10pt;
+    padding-left: 16px;
+    border-left: 3px solid var(--gold);
+  }
+
+  .footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 2px solid var(--gold);
+    font-size: 9pt;
+    color: var(--gray-500);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- COVER -->
+  <div class="cover-header">
+    <div class="appendix-label">Appendix C</div>
+    <h1>Futuring Workshop Guide</h1>
+    <div class="subtitle">A facilitation guide for Theory U sessions with BARMM leaders</div>
+  </div>
+
+  <!-- OVERVIEW -->
+  <h2>Workshop Overview</h2>
+
+  <div class="overview-grid">
+    <div class="overview-card">
+      <div class="label">Duration</div>
+      <div class="value">2 full days (approximately 14 hours total)</div>
+    </div>
+    <div class="overview-card">
+      <div class="label">Participants</div>
+      <div class="value">20-50 BARMM leaders (MPs, ministers, directors, LGU executives, CSO heads, ulama, youth)</div>
+    </div>
+    <div class="overview-card">
+      <div class="label">Facilitator Requirements</div>
+      <div class="value">Familiarity with Theory U methodology and systems thinking; experience with multi-stakeholder dialogues</div>
+    </div>
+    <div class="overview-card">
+      <div class="label">Workshop Outputs</div>
+      <div class="value">Shared vision document, prototype action plans, peer accountability pairs, personal commitment statements</div>
+    </div>
+  </div>
+
+  <h3>Materials Preparation Checklist</h3>
+  <div class="materials-list">
+    <div class="material-item"><div class="material-check"></div> Large paper sheets / Manila paper (50+)</div>
+    <div class="material-item"><div class="material-check"></div> Markers in multiple colors (5+ per table)</div>
+    <div class="material-item"><div class="material-check"></div> Sticky notes (4 colors, 10 pads minimum)</div>
+    <div class="material-item"><div class="material-check"></div> Index cards (100+)</div>
+    <div class="material-item"><div class="material-check"></div> Masking tape for wall displays</div>
+    <div class="material-item"><div class="material-check"></div> Printed participant handouts</div>
+    <div class="material-item"><div class="material-check"></div> Timer / bell for session transitions</div>
+    <div class="material-item"><div class="material-check"></div> Box or container for "letting go" exercise</div>
+    <div class="material-item"><div class="material-check"></div> Projector and screen</div>
+    <div class="material-item"><div class="material-check"></div> Audio system for group sessions</div>
+    <div class="material-item"><div class="material-check"></div> Prayer mats / designated prayer area</div>
+    <div class="material-item"><div class="material-check"></div> Refreshments (halal)</div>
+  </div>
+
+  <h3>Theory U Framework</h3>
+  <p>Theory U, developed by Otto Scharmer at MIT, describes a process of <strong>going down the left side of the U</strong> (opening mind, heart, and will to let go of old patterns) and <strong>coming up the right side</strong> (crystallizing vision, prototyping action, and embodying new practices). This workshop adapts Theory U for the Bangsamoro governance context.</p>
+
+  <div class="tip-box">
+    <div class="tip-label">Room Setup</div>
+    <p style="margin: 0;">Arrange tables in groups of 5-6 participants. Ensure each table has a mix of seniority levels, sectors, and geographic representation. Avoid placing people from the same ministry or LGU at the same table. Leave wall space for gallery walks and poster displays.</p>
+  </div>
+
+  <!-- DAY 1 -->
+  <div class="day-header">
+    <h2>Day 1: Going Down the U</h2>
+    <div class="day-subtitle">Opening Mind &bull; Opening Heart &bull; Opening Will</div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-header">
+      <div class="session-number">1</div>
+      <div class="session-meta">
+        <div class="session-title">Open Mind &mdash; Current State Assessment</div>
+        <div class="session-time">2 hours &bull; Morning Session 1</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Surface and examine the mental models that shape how participants understand BARMM governance. Challenge assumptions that may be limiting innovation.</p>
+
+    <h4>Suggested Timeline</h4>
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-time">0:00 - 0:15</div>
+        <div class="timeline-desc">Opening du'a and Bismillah. Facilitator introduces Theory U and the workshop purpose.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-time">0:15 - 0:45</div>
+        <div class="timeline-desc">Individual reflection: each participant writes 3 assumptions about BARMM governance they have never questioned.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-time">0:45 - 1:30</div>
+        <div class="timeline-desc">Table exercise: share assumptions, then challenge each other using structured dialogue protocol.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-time">1:30 - 2:00</div>
+        <div class="timeline-desc">Plenary debrief: each table shares their most surprising challenged assumption.</div>
+      </div>
+    </div>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: Assumption Surfacing</div>
+      <p>Each participant receives 3 index cards. On each card, write one assumption about BARMM governance that you hold as true but have never examined critically. Examples:</p>
+      <ul>
+        <li>"Budget utilization is low because of lack of capacity"</li>
+        <li>"Traditional leaders and modern governance cannot coexist"</li>
+        <li>"The transition period is too short to build real institutions"</li>
+      </ul>
+    </div>
+
+    <div class="exercise-block">
+      <div class="exercise-label">Group Exercise: Structured Dialogue</div>
+      <p>For each assumption shared at the table, follow this protocol:</p>
+      <ol>
+        <li><strong>Present</strong> &mdash; the author reads their assumption aloud (1 min)</li>
+        <li><strong>Probe</strong> &mdash; other members ask clarifying questions only, no judgments (3 min)</li>
+        <li><strong>Challenge</strong> &mdash; each member offers one counter-example or alternative explanation (5 min)</li>
+        <li><strong>Reflect</strong> &mdash; the author states what they now see differently (1 min)</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-header">
+      <div class="session-number">2</div>
+      <div class="session-meta">
+        <div class="session-title">Open Heart &mdash; Perspective Taking</div>
+        <div class="session-time">2 hours &bull; Morning Session 2</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Build empathy by experiencing issues from perspectives different from one's own role. Break down silos between levels of government and between government and citizens.</p>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: Role Reversal Exercise</div>
+      <p>Participants are assigned a role <em>different</em> from their actual position:</p>
+      <ul>
+        <li>Ministers and MPs take the role of <strong>barangay captains</strong></li>
+        <li>LGU executives take the role of <strong>ordinary citizens</strong> seeking government services</li>
+        <li>CSO leaders take the role of <strong>ministry directors</strong> managing competing demands</li>
+        <li>Youth leaders take the role of <strong>ulama</strong> navigating tradition and modernity</li>
+      </ul>
+      <p>In their assigned roles, participants discuss a common BARMM challenge (e.g., delivering basic services in remote areas) and advocate from their assigned perspective.</p>
+    </div>
+
+    <div class="exercise-block">
+      <div class="exercise-label">Exercise: "Walk in Their Shoes"</div>
+      <p>Each table selects one concrete problem (e.g., school construction delays, health worker shortages, IRA distribution). Then maps the <strong>same problem from 3 different stakeholder perspectives</strong>:</p>
+      <ol>
+        <li><strong>The citizen experiencing the problem</strong> &mdash; what do they see, feel, need?</li>
+        <li><strong>The frontline government worker</strong> &mdash; what constraints do they face?</li>
+        <li><strong>The policy maker</strong> &mdash; what trade-offs must they navigate?</li>
+      </ol>
+      <p>Each perspective is written on a different colored sticky note and posted on the table's paper.</p>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <div class="session-card" style="border-top: 2px solid var(--gray-200); border-radius: 8px;">
+    <div class="session-header">
+      <div class="session-number">3</div>
+      <div class="session-meta">
+        <div class="session-title">Open Will &mdash; Letting Go</div>
+        <div class="session-time">2 hours &bull; Afternoon Session</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Identify and consciously release ARMM-era patterns, habits, and institutional behaviors that persist in the BARMM and hinder systems change.</p>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: "What Must We Let Go Of?"</div>
+      <p>Each table identifies <strong>3 ARMM-era patterns</strong> that still persist in the BARMM today. These could be:</p>
+      <ul>
+        <li>Institutional habits (e.g., centralized decision-making, patronage-based hiring)</li>
+        <li>Mental models (e.g., "autonomy means independence from Manila")</li>
+        <li>Behavioral norms (e.g., avoiding confrontation with senior officials)</li>
+        <li>Structural patterns (e.g., parallel systems that duplicate effort)</li>
+      </ul>
+      <p>Write each pattern on a large card with: (1) the pattern, (2) why it persists, and (3) what it costs us.</p>
+    </div>
+
+    <div class="exercise-block">
+      <div class="exercise-label">Exercise: Symbolic Letting Go Ceremony</div>
+      <p>After the table discussions, each participant writes <strong>one personal pattern</strong> they commit to releasing on a card. In a facilitated ceremony:</p>
+      <ol>
+        <li>Each participant stands and reads their card aloud to their table (optional: to the whole group)</li>
+        <li>They place the card in a communal box at the center of the room</li>
+        <li>The facilitator closes with a reflection: "These patterns served us once. We honor what they were. We release them to make room for what must emerge."</li>
+      </ol>
+      <p><em>Note: This can be paired with a du'a for guidance and renewal.</em></p>
+    </div>
+
+    <div class="tip-box">
+      <div class="tip-label">Facilitator Note</div>
+      <p style="margin: 0;">This session requires psychological safety. Emphasize that naming patterns is not blaming individuals. Frame it as "institutional archaeology" &mdash; understanding what we inherited so we can choose what to carry forward. Allow silence. Do not rush the ceremony.</p>
+    </div>
+  </div>
+
+  <!-- DAY 2 -->
+  <div class="page-break"></div>
+
+  <div class="day-header">
+    <h2>Day 2: Coming Up the U</h2>
+    <div class="day-subtitle">Crystallizing &bull; Prototyping &bull; Embodying</div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-header">
+      <div class="session-number">4</div>
+      <div class="session-meta">
+        <div class="session-title">Crystallizing &mdash; Vision</div>
+        <div class="session-time">2 hours &bull; Morning Session 1</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Transform the insights from Day 1 into a concrete, shared vision for what the Bangsamoro can become by 2030.</p>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: "BARMM 2030"</div>
+      <p>Small groups (one per sector) design their vision for their assigned sector in 2030. Each group produces a visual poster answering:</p>
+      <ul>
+        <li>What does success look like for citizens in this sector by 2030?</li>
+        <li>What institutions and systems are in place?</li>
+        <li>What is different from today?</li>
+        <li>What does the Bangsamoro feel like to live in?</li>
+      </ul>
+      <p>Encourage visual representation &mdash; drawings, diagrams, and symbols alongside text.</p>
+    </div>
+
+    <div class="exercise-block">
+      <div class="exercise-label">Exercise: Gallery Walk</div>
+      <p>Groups post their vision posters on the walls. All participants do a silent gallery walk (15 min), reading each poster and placing gold sticky dots on elements that resonate with them. Then:</p>
+      <ol>
+        <li>Each group presents their vision (5 min per group)</li>
+        <li>Plenary discussion: What <strong>common themes</strong> emerge across all four sectors? (15 min)</li>
+        <li>Facilitator captures shared themes on a master sheet</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-header">
+      <div class="session-number">5</div>
+      <div class="session-meta">
+        <div class="session-title">Prototyping &mdash; Action</div>
+        <div class="session-time">2 hours &bull; Morning Session 2</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Move from vision to action by designing concrete prototype interventions using systems thinking frameworks from the guidebook.</p>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: Prototype Design</div>
+      <p>Each table designs <strong>one prototype intervention</strong> using the template below. The intervention should address a real BARMM challenge and apply systems thinking principles from the guidebook.</p>
+    </div>
+
+    <h4>Prototype Intervention Template</h4>
+    <div class="prototype-template">
+      <div class="pt-row">
+        <div class="pt-label">Problem Statement</div>
+        <div class="pt-content"><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+      <div class="pt-row">
+        <div class="pt-label">System Map</div>
+        <div class="pt-content" style="min-height: 80px;"><p style="font-size: 9pt; color: var(--gray-500); margin: 0;">Sketch the key feedback loops (use Appendix A methods)</p><div class="blank-line"></div><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+      <div class="pt-row">
+        <div class="pt-label">Leverage Point</div>
+        <div class="pt-content"><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+      <div class="pt-row">
+        <div class="pt-label">Proposed Intervention</div>
+        <div class="pt-content"><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+      <div class="pt-row">
+        <div class="pt-label">Expected Feedback Loop</div>
+        <div class="pt-content"><p style="font-size: 9pt; color: var(--gray-500); margin: 0;">What reinforcing or balancing loop will this create?</p><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+      <div class="pt-row">
+        <div class="pt-label">Measurement</div>
+        <div class="pt-content"><p style="font-size: 9pt; color: var(--gray-500); margin: 0;">How will you know it's working? What will you measure at 3, 6, and 12 months?</p><div class="blank-line"></div><div class="blank-line"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-header">
+      <div class="session-number">6</div>
+      <div class="session-meta">
+        <div class="session-title">Embodying &mdash; Commitment</div>
+        <div class="session-time">2 hours &bull; Afternoon Session</div>
+      </div>
+    </div>
+
+    <p><strong>Objective:</strong> Translate group insights and prototypes into personal commitments and peer accountability structures that will sustain momentum after the workshop.</p>
+
+    <div class="activity-block">
+      <div class="activity-label">Activity: Personal Commitment Statements</div>
+      <p>Each participant writes a personal commitment statement completing the sentence: <strong>"In the next 90 days, I will..."</strong></p>
+      <p>The commitment should be:</p>
+      <ul>
+        <li><strong>Specific</strong> &mdash; a concrete action, not a vague intention</li>
+        <li><strong>Within their authority</strong> &mdash; something they can do without waiting for approval</li>
+        <li><strong>Systems-oriented</strong> &mdash; aimed at changing a pattern, not just completing a task</li>
+        <li><strong>Measurable</strong> &mdash; they will know whether they did it</li>
+      </ul>
+    </div>
+
+    <div class="exercise-block">
+      <div class="exercise-label">Exercise: Peer Accountability Pairs</div>
+      <p>Participants pair with someone from a <em>different</em> sector or level of government. Each pair:</p>
+      <ol>
+        <li>Shares their commitment statement with their partner</li>
+        <li>Exchanges contact information</li>
+        <li>Agrees on a check-in schedule (suggested: every 2 weeks for 90 days)</li>
+        <li>Identifies one way they can support each other's commitment</li>
+      </ol>
+    </div>
+
+    <div class="activity-block">
+      <div class="activity-label">Closing: Shared Vision Statement</div>
+      <p>The facilitator guides the group to draft a <strong>collective vision statement</strong> for systems change in the Bangsamoro. Process:</p>
+      <ol>
+        <li>Review the common themes captured during the gallery walk (5 min)</li>
+        <li>Each table proposes one sentence for the statement (10 min)</li>
+        <li>Facilitator weaves the sentences into a draft on screen (10 min)</li>
+        <li>Group reads the statement aloud together (5 min)</li>
+        <li>Closing du'a and group photo</li>
+      </ol>
+    </div>
+  </div>
+
+  <!-- FACILITATION NOTES -->
+  <div class="page-break"></div>
+
+  <h2>Facilitation Notes</h2>
+
+  <div class="facilitation-section">
+    <h3>Managing Power Dynamics</h3>
+    <div class="fac-tip">
+      <strong>Senior officials and youth at the same table:</strong> Use structured protocols (timed speaking, round-robin) to ensure equal voice. Consider having senior officials speak last in rounds so they don't anchor the conversation.
+    </div>
+    <div class="fac-tip">
+      <strong>Cross-rank dialogue:</strong> Establish a "workshop bubble" norm at the start &mdash; within the workshop, participants relate as co-learners, not by rank. The facilitator should model this by addressing everyone the same way.
+    </div>
+    <div class="fac-tip">
+      <strong>Silent voices:</strong> Use written exercises before verbal sharing to give introverts and junior participants time to formulate their thoughts. Collect written cards anonymously when discussing sensitive patterns.
+    </div>
+  </div>
+
+  <div class="facilitation-section">
+    <h3>Handling Disagreement</h3>
+    <div class="fac-tip">
+      <strong>Productive vs. unproductive conflict:</strong> Disagreement about ideas is healthy; personal attacks are not. If tension rises, redirect to the shared purpose: "We all want a better Bangsamoro. Let's explore where this disagreement comes from."
+    </div>
+    <div class="fac-tip">
+      <strong>Political sensitivities:</strong> Some topics (IRA distribution, political appointments, peace process compromises) may trigger strong reactions. Prepare for these by establishing ground rules early: "We discuss systems and patterns, not individuals or parties."
+    </div>
+    <div class="fac-tip">
+      <strong>When stuck:</strong> Use the "Third Option" technique &mdash; when two positions are in opposition, ask: "What is a third option that neither side has considered?" This shifts from debate to co-creation.
+    </div>
+  </div>
+
+  <div class="facilitation-section">
+    <h3>Islamic Opening and Closing Protocols</h3>
+    <div class="fac-tip">
+      <strong>Opening:</strong> Begin with <em>Bismillahir Rahmanir Rahim</em>. Invite a respected alim or ustadz among the participants to offer the opening du'a. Include a brief Quranic reflection relevant to change and renewal (e.g., Surah Ar-Ra'd 13:11 on people changing their condition).
+    </div>
+    <div class="fac-tip">
+      <strong>Prayer breaks:</strong> Schedule the workshop around salah times. Provide a designated prayer area. Build in 15-20 minute breaks for Dhuhr and Asr prayers. Do not schedule sessions during Jumu'ah (Friday noon prayer).
+    </div>
+    <div class="fac-tip">
+      <strong>Closing:</strong> Close with a collective du'a for the success of the Bangsamoro transition, for wisdom in governance, and for the welfare of the Bangsamoro people. Allow a participant to lead this.
+    </div>
+  </div>
+
+  <div class="facilitation-section">
+    <h3>Language Considerations</h3>
+    <div class="fac-tip">
+      <strong>Working language:</strong> Default to Filipino/Tagalog or English as the plenary language, depending on participant comfort. Allow table discussions in local languages (Maguindanaon, Meranaw, Tausug, etc.).
+    </div>
+    <div class="fac-tip">
+      <strong>Written materials:</strong> All handouts and templates should be in English. Facilitator instructions and slide presentations can be bilingual (English/Filipino).
+    </div>
+    <div class="fac-tip">
+      <strong>Translation support:</strong> If the group includes participants who are more comfortable in local languages, assign bilingual table facilitators who can bridge between plenary (English/Filipino) and table discussions (local languages).
+    </div>
+  </div>
+
+  <div class="footer">
+    Systems Change in the Bangsamoro &mdash; Appendix C: Futuring Workshop Guide<br>
+    Bangsamoro Autonomous Region in Muslim Mindanao
+  </div>
+
+</div>
+
+</body>
+</html>

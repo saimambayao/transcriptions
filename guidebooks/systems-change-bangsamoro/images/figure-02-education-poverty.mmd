@@ -1,0 +1,30 @@
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '14px'}}}%%
+flowchart TD
+    classDef navy fill:#1B365D,stroke:#0F1F3A,color:#FFFFFF,stroke-width:2px
+    classDef gold fill:#C5A54E,stroke:#9A7F2E,color:#1B365D,stroke-width:2px
+    classDef loopLabel fill:none,stroke:none,color:#1B365D,font-weight:bold,font-size:16px
+
+    LFI["Low Family Income"]:::navy
+    CL["Child Labor"]:::navy
+    SD["School Dropout"]:::navy
+    LS["Low Skills"]:::navy
+    LE["Low Employment"]:::navy
+
+    BAA["BAA 18<br/>(Education Code)"]:::gold
+    MS["More Schools + AKAP"]:::gold
+    IA["Increased Access"]:::gold
+    HE["Higher Enrollment"]:::gold
+
+    LFI -->|"forces"| CL
+    CL -->|"leads to"| SD
+    SD -->|"results in"| LS
+    LS -->|"causes"| LE
+    LE -->|"perpetuates"| LFI
+
+    BAA -->|"funds"| MS
+    MS -->|"creates"| IA
+    IA -->|"drives"| HE
+    HE -->|"counteracts"| SD
+
+    R1["<b>R-: Poverty Trap</b><br/>(Reinforcing Negative Loop)"]:::loopLabel
+    B1["<b>B: Education Investment</b><br/>(Balancing Loop)"]:::loopLabel

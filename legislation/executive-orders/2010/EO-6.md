@@ -1,0 +1,57 @@
+# EXECUTIVE ORDER NO. 6
+
+**EXTENDING THE DURATION OF THE OPERATIONS OF THE PRESIDENTIAL MIDDLE EAST PREPAREDNESS COMMITTEE (PMEPC) TO DECEMBER 30,2010**
+
+## Metadata
+
+- **EO Number**: 6
+- **Date**: September 02, 2010
+- **Source**: [lawphil.net](https://lawphil.net/executive/execord/eo2010/eo_6_2010.html)
+
+---
+
+> **MALACAÑAN PALACE**
+> MANILA
+>
+> **BY THE PRESIDENT OF THE PHILIPPINES**
+>
+> [ EXECUTIVE ORDER NO. 6, September 02, 2010 ]
+>
+> EXTENDING THE DURATION OF THE OPERATIONS OF THE PRESIDENTIAL MIDDLE EAST PREPAREDNESS COMMITTEE (PMEPC) TO DECEMBER 30,2010
+>
+> WHEREAS, the term of the Presidential Middle East Preparedness Committee (PMEPC) expires on June 30, 2010, pursuant to Executive Order (EO) No. 886 dated June 3, 2010;
+>
+> **WHEREAS,** tensions, political instability, and armed conflicts continue to exist in some countries of the Middle East and Africa that directly threaten the safety and security of thousands of Filipino workers in these countries;
+>
+> **WHEREAS,** there is a need for the PMEPC to continue to assess and monitor developments and update contingency measures to ensure the safety of Filipinos in the Middle East and Africa, prepare and establish a specific contingency plan for each of the potential crises in these countries;
+>
+> **WHEREAS,** there is an urgent need for the PMEPC to continue providing assistance to the Department of Foreign Affairs, in addressing the concerns of the Philippine Government about the piracy problem in Somalia where some Filipino sailors remain in captivity aboard their respective hijacked vessels near the shores of Somalia. Likewise, it is vital for the PMEPC to continue its coordination with the Anti-Piracy Task Force of the USN Fifth Fleet based in Manama, Bahrain, regarding measures to be taken by Filipino Seamen aboard ships passing through the Gulf of Aden and the Indian Ocean; Furthermore the existing conditions of the expatriate workers in Iraq would need the immediate attention of the PMEPC;
+>
+> **WHEREAS,** the PMEPC is tasked to provide continuing assistance to the Department of Foreign Affairs, as well as to other government agencies concerned with OFW safety, security, and protection, and in the formulation and implementation of policies, plans and modes of coordination in areas where there are significant presence of OFWs;
+>
+> **WHEREAS,** under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to reorganize the functions of the Office of the President.
+>
+> **NOW, THEREFORE, I, BENIGNO S. AQUINO, III**, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the extension of operation of PMEPC to December 31, 2010 with Special Envoy Roy A. Cimatu as Chairman, or unless otherwise directed by the President.
+>
+> **Section 1.** *Functions*  The PMEPC shall continue to exercise its functions and responsibilities as provided under EO 159 dated December 23, 2002, in relation to EO 194 and EO 195, both dated April 14, 2003.
+>
+> **Section 2.** *Compositions*  The membership of the Committee, as enumerated under Section 3 of EO 159, as amended by EO 722, is hereby retained.ℒαwρhi৷
+>
+> **Section 3.** *Funding*  The Committee shall utilize its unused CY 2010 balance for its administrative and operational expenses, subject to the usual government accounting and auditing rules and regulations.
+>
+> **Section 4.** *Repeal*  All other rules, regulations and issuances or parts thereof which are inconsistent with this Executive Order are hereby repealed or modified accordingly.
+>
+> **Section 5.** *Effectivity and Retroactivity*  This Order shall take effect immediately and retroact to 1 July 2010.
+>
+> Done in the City of Manila, this 2nd day of September, in the year of Our Lord, Two Thousand and Ten.
+>
+> (SGD.) **BENIGNO S. AQUINO, III**
+> President of the Philippines
+>
+> By the President:
+>
+> (SGD.) **PAQUITO N.  OCHOA, JR.**
+> Executive Secretary
+>
+>
+>

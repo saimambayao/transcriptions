@@ -1,0 +1,347 @@
+# Legal Reference Template
+
+This template defines the standard structure for each BOL power's legal reference entry. Every power from Article V, Section 2 (a-ccc) gets one file following this format.
+
+---
+
+## File Naming Convention
+
+`{NN}-{letter}-{short-slug}.md` — numbered sequentially following Art. V, Sec. 2 order (a=01 through ccc=55).
+
+Examples: `01-a-administration-of-justice.md`, `34-bb-health.md`, `31-aa-hajj-and-umrah.md`
+
+Full numbering:
+01-a, 02-b, 03-c, 04-d, 05-e, 06-f, 07-g, 08-h, 09-i, 10-j,
+11-k, 12-l, 13-m, 14-n, 15-o, 16-p, 17-q, 18-r, 19-s, 20-t,
+21-u, 22-v, 23-w, 24-x, 25-y, 26-z, 27-aa, 28-bb, 29-cc, 30-dd,
+31-ee, 32-ff, 33-gg, 34-hh, 35-ii, 36-jj, 37-kk, 38-ll, 39-mm, 40-nn,
+41-oo, 42-pp, 43-qq, 44-rr, 45-ss, 46-tt, 47-uu, 48-vv, 49-ww, 50-xx,
+51-yy, 52-zz, 53-aaa, 54-bbb, 55-ccc
+
+---
+
+## Quick Conformance Check
+
+Before submitting a power file, verify:
+- [ ] File named `{NN}-{letter}-{slug}.md` (e.g., `01-a-administration-of-justice.md`)
+- [ ] Legal Briefer present with all 5 subsections — 800-1,500 words, answers 20 guide questions
+- [ ] BOL Provisions table: ALL provisions listed with verbatim text + explanation/implication
+- [ ] Bangsamoro Legislation (BAAs): uses PB No. column (not "Bill No." or "Enacted Bills")
+- [ ] Parliamentary Resolutions: uses PR No. column
+- [ ] National Laws: comprehensive enumeration (not just BOL-cited laws)
+- [ ] Jurisprudence: relevant SC decisions listed (or "none identified" stated)
+- [ ] Parliament Bills (Pending): filed PBs listed BEFORE Legislative Gaps
+- [ ] Legislative Gaps: Type A gaps name the BAA 13 ministry
+- [ ] Zero instances of "Exclusive", "Shared", or "Concurrent" as power labels
+- [ ] All BAA numbers verified against `legislation/baas/BAA-{N}.md`
+- [ ] Feliciano citation format in Footnotes
+
+---
+
+## Template Structure
+
+```markdown
+# (x) [Power Name as stated in BOL]
+
+> **BOL Art. V, Sec. 2({letter})** — "[Verbatim text from BOL]"
+
+## Power Overview
+
+| Attribute | Value |
+|-----------|-------|
+| **BOL Basis** | Art. V, Sec. 2({letter}) — enumerated power |
+| **National Law Consistency Required** | Yes (cite BOL provision) / No / Intergovernmental coordination (cite Art. VI body) |
+| **Lead Ministry/Office** | [From BAA No. 85 and BAA No. 13] |
+| **Supporting Agencies** | [Other BARMM bodies with jurisdiction] |
+| **BDP Chapter(s)** | [BDP 2023-2028 chapter alignment] |
+| **Priority Code** | [If covered by a priority code, e.g., Administrative Code, Education Code] |
+
+## Legal Briefer
+
+This is the primary content of each legal reference — a comprehensive narrative that tells you everything you need to know about this power's legal landscape. The detailed tables that follow are supporting reference data.
+
+### What This Power Covers
+[2-3 paragraphs: What the BOL means by this power. Start with the verbatim Art. V Sec. 2 grant, then explain the full scope by walking through every other BOL provision that elaborates on it (Art. VI through XVIII). What bodies does the BOL create for this power? What does the BOL require the Parliament to enact? What limits does it set? Write as if explaining to someone who has never read the BOL but needs to understand this subject area completely.]
+
+### How the Bangsamoro Government Exercises This Power Today
+[2-3 paragraphs: The current state of implementation. Which ministry or office leads (from BAA 13 and BAA 85), and what their mandate covers. Name every standalone BAA that has been enacted for this power, with what each one does. If the power is exercised only through a BAA 13 mandate without standalone legislation, explain what the ministry can and cannot do under that general mandate alone. Mention any relevant parliamentary resolutions that signal Parliament's intent.]
+
+### How National Law Interacts with This Power
+[1-2 paragraphs: The relationship between Bangsamoro and national authority for this power. If the BOL requires consistency with national law, cite the specific provision and name the national law (RA, EO, PD). If the BOL creates an intergovernmental body for this area (Art. VI), name it and explain its role. If no national law consistency is required but national law applies suppletorily because no BAA has been enacted yet, name the suppletory national law and explain what happens when a BAA is eventually passed. If the BOL requires Presidential approval or national government coordination, explain the mechanism.]
+
+### What Is Missing — Gaps and Legislative Opportunities
+[2-3 paragraphs: The most important section for legislators and planners. What standalone legislation does this power need that doesn't exist yet? What would a dedicated BAA codify — standards, regulatory framework, institutional structure, funding mechanisms — that BAA 13's general mandate doesn't cover? Are there BOL mandates (e.g., "The Parliament shall enact...") that remain unfulfilled? Are there unresolved national law interactions — areas where the BOL and national law potentially overlap and no mechanism clarifies which governs? Name specific bill concepts and what they would accomplish.]
+
+### Development and Policy Connection
+[1-2 paragraphs: How this power connects to the Bangsamoro Development Plan (BDP 2023-2028) and the Mas Matatag na Bangsamoro Agenda (2026-2028). Which BDP chapter and goals depend on the exercise of this power? Which of the 5 Matatag pillars does this power support? What development outcomes are at stake if the legislative gaps are not addressed?]
+
+---
+
+## Detailed Reference Tables
+
+The tables below provide the source data behind the Legal Briefer. Use them for citation, verification, and detailed lookup.
+
+### BOL Provisions
+
+All BOL provisions relevant to this power — verbatim text with explanation of what each provision means in practice.
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:40%">
+  <col style="width:45%">
+</colgroup>
+<thead>
+<tr><th>Provision</th><th>Verbatim Text</th><th>Explanation / Implication</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Art. V, Sec. 2({letter})</td>
+  <td>"[Verbatim text of the enumerated power]"</td>
+  <td>[What this grant of authority means — scope, what it authorizes the Bangsamoro Government to do]</td>
+</tr>
+<tr>
+  <td>Art. [X], Sec. [Y]</td>
+  <td>"[Verbatim excerpt from BOL]"</td>
+  <td>[What this provision means in practice — does it expand, limit, create a body, mandate legislation, require coordination? Plain language explanation.]</td>
+</tr>
+</tbody>
+</table>
+
+### Bangsamoro Legislation (BAAs)
+
+Enacted legislation. A Parliament Bill (PB) becomes a BAA when enacted.
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:13%">
+  <col style="width:30%">
+  <col style="width:30%">
+  <col style="width:15%">
+</colgroup>
+<thead>
+<tr><th>BAA</th><th>PB No.</th><th>Title</th><th>How It Implements This Power</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>BAA No. [N]</td>
+  <td>PB No. [N]</td>
+  <td>[Full title]</td>
+  <td>[Brief description of what the BAA does for this power area]</td>
+  <td>In Force / Amended by BAA [N]</td>
+</tr>
+</tbody>
+</table>
+
+### Parliamentary Resolutions
+
+Adopted resolutions. A Proposed Resolution (PR) becomes an enacted Resolution when adopted.
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:12%">
+  <col style="width:38%">
+  <col style="width:35%">
+</colgroup>
+<thead>
+<tr><th>Resolution No.</th><th>PR No.</th><th>Title / Subject</th><th>Relevance</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Res. No. [N]</td>
+  <td>PR No. [N]</td>
+  <td>[Title]</td>
+  <td>[How it relates to this power]</td>
+</tr>
+</tbody>
+</table>
+
+### National Laws
+
+All Republic Acts, Executive Orders, and Presidential Decrees pertaining to this power area.
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:25%">
+  <col style="width:30%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to This Power</th><th>Application in BARMM</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>RA [N] / EO [N] / PD [N]</td>
+  <td>[Full title]</td>
+  <td>[BOL requires consistency (cite provision) / Suppletory (no BAA exists) / BOL explicitly references / Sets minimum standards / General framework]</td>
+  <td>[How it interacts with Bangsamoro authority — does it apply directly, suppletorily, or is it superseded by a BAA?]</td>
+</tr>
+</tbody>
+</table>
+
+### Jurisprudence
+
+Supreme Court decisions relevant to this power area — defining boundaries of autonomy, resolving jurisdiction questions, or interpreting related provisions.
+
+<table>
+<colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:40%">
+  <col style="width:25%">
+</colgroup>
+<thead>
+<tr><th>Case</th><th>Date</th><th>Holding / Relevance</th><th>Impact on This Power</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>[Case name, G.R. No.]</td>
+  <td>[Date decided]</td>
+  <td>[Key holding or ratio decidendi relevant to this power]</td>
+  <td>[How this decision affects the exercise of this power by the Bangsamoro Government]</td>
+</tr>
+</tbody>
+</table>
+
+### Parliament Bills (Pending)
+
+Filed Parliament Bills (PBs) that have NOT yet been enacted into BAAs. Shows legislative intent and pending proposals.
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:40%">
+  <col style="width:33%">
+  <col style="width:15%">
+</colgroup>
+<thead>
+<tr><th>PB No.</th><th>Title / Subject</th><th>Relevance to This Power</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>PB No. [N]</td>
+  <td>[Title]</td>
+  <td>[What this bill would do for this power area]</td>
+  <td>Filed / Committee / Plenary</td>
+</tr>
+</tbody>
+</table>
+
+### Development Plan and Policy Alignment
+
+| Framework | Reference | Connection |
+|-----------|-----------|------------|
+| BDP 2023-2028 | Chapter [N]: [Topic] | [How this power enables BDP goal achievement] |
+| Mas Matatag na Bangsamoro Agenda (2026-2028) | Pillar [N]: [Name] | [How this power supports the Matatag pillar] |
+
+### Legislative Gaps and Recommended Legislation
+
+What laws should the Bangsamoro Parliament pass to fully exercise this power? Note: most powers are already exercised by MOAs through their BAA 13 (Administrative Code) mandates, but standalone legislation codifies standards, creates regulatory frameworks, and establishes institutional structures that a general mandate cannot.
+
+| Gap | What Law Should Be Passed | What It Would Cover | BOL Basis |
+|-----|---------------------------|---------------------|-----------|
+| [Brief description of what's missing] | [Proposed law title, e.g., "Bangsamoro Tourism Code"] | [Specific areas the law would codify: regulatory standards, institutional framework, funding mechanism, licensing/registration system, penalties, coordination mechanisms] | [BOL provision that mandates or authorizes this legislation, e.g., "Art. XIII, Sec. 35 — Parliament shall enact tourism laws"] |
+
+## Footnotes
+
+[^1]: Rep. Act No. 11054, sec. 2(x), art. V.
+[^2]: BAA No. [N], sec. [S].
+```
+
+---
+
+## Section-by-Section Guidance
+
+### Power Overview
+- **BOL Basis**: All 55 powers are enumerated in Art. V, Sec. 2 — this is the express grant of authority.
+- **National Law Consistency**: Check whether any BOL provision requires this power to be exercised "consistent with national laws" (e.g., Art. VII Sec. 39 for civil service, Art. VII Sec. 28 for budget, Art. IV Sec. 4 for elections). If the BOL is silent on national law for this power, the Bangsamoro Government's authority is not constrained by national law (though national law applies suppletorily where no BAA exists). If an Art. VI intergovernmental body exists for this area, note it.
+- **Lead Ministry**: Derive from BAA No. 85 (General Appropriations Act) which assigns staffing/budget by ministry. Cross-reference with BAA 13 (Administrative Code) for mandate assignments.
+- **BDP Chapter**: Map to the 15 chapters of BDP 2023-2028.
+
+### Legal Briefer
+- This is the PRIMARY content of each file — write it thoroughly. The tables are supporting data.
+- Write AFTER completing all tables — the briefer synthesizes the data into narrative.
+- 5 subsections: What This Power Covers, How BARMM Exercises It Today, National Law Interaction, Gaps and Legislative Opportunities, BDP Connection.
+- Plain prose — no tables, no bullet lists inside the briefer. Cite BAA numbers and BOL provisions inline.
+- Target audience: someone who wants to LEARN about this legal subject area. They should finish the briefer understanding the full picture — what the BOL grants, what's been done, what national law says, and what's missing.
+- The "Gaps and Legislative Opportunities" subsection is the most valuable — it tells legislators and planners what to do next with specific bill concepts.
+- Total length: 800-1,500 words (roughly 2-3 printed pages).
+
+### Guide Questions the Legal Briefer Must Answer
+
+**Scope and Authority:**
+1. What exactly does the BOL grant the Bangsamoro Government authority over in this area?
+2. What specific BOL provisions (beyond Art. V Sec. 2) elaborate on this power?
+3. Does the BOL mandate the Parliament to enact specific legislation for this power? If so, what?
+4. Are there any conditions, limitations, or qualifications the BOL places on this power?
+5. Does the BOL create any specific body, office, or institution for this power?
+
+**Implementation:**
+6. Which ministry or office is primarily responsible for exercising this power?
+7. What standalone legislation (BAAs) has the Parliament enacted for this power?
+8. If no standalone BAA exists, what does the lead ministry's BAA 13 mandate cover?
+9. What can the ministry do under its current mandate, and what can it NOT do without standalone legislation?
+10. Have any parliamentary resolutions signaled intent to legislate in this area?
+
+**National Law:**
+11. Does the BOL require this power to be exercised "consistent with" or "in accordance with" any national law? Which provision says so?
+12. If no consistency requirement exists, does national law still apply suppletorily? Which national law, and what does it cover?
+13. Is there an intergovernmental coordination body (Art. VI) for this power area?
+14. Does the BOL require Presidential approval, national government coordination, or joint exercise for any aspect of this power?
+
+**Gaps and Opportunities:**
+15. What unfulfilled BOL mandates exist — where the BOL says "The Parliament shall enact..." but no legislation has been passed?
+16. What would a standalone BAA codify that BAA 13's general mandate doesn't cover (standards, regulatory framework, institutional structure, funding)?
+17. Are there overlapping or unclear jurisdictions between Bangsamoro and national authority?
+18. What specific bill concepts could address the gaps identified?
+
+**Development and Policy Connection:**
+19. Which BDP 2023-2028 goals and Mas Matatag na Bangsamoro Agenda (2026-2028) pillars depend on the full exercise of this power?
+20. What development outcomes are at risk if the legislative gaps remain unaddressed?
+
+### BOL Provisions
+- Enumerate ALL BOL provisions related to this power — not just the obvious ones. Scan all 18 articles.
+- Start with Art. V, Sec. 2({letter}) itself, then list every elaborating provision.
+- **Verbatim Text** column: copy-paste from the local BOL transcription files. Never paraphrase.
+- **Explanation / Implication** column: plain language explanation of what this provision means in practice. What does it authorize? What does it limit? What does it create? What does it require Parliament to do? This is where you teach the reader.
+
+### Bangsamoro Legislation (BAAs)
+- An enacted Parliament Bill (PB) becomes a BAA. List both numbers together.
+- Check every BAA (1-89+) against this power area.
+- Include BAAs that partially touch this power (note which sections are relevant).
+- Status must reflect amendments: if BAA 70 amends BAA 54's provisions, note both.
+- BAA 13 (Administrative Code) touches nearly every power — include the specific Book/Title/Section that assigns the mandate.
+
+### National Laws
+- Enumerate ALL national laws pertaining to this power — not just those cited in the BOL.
+- Sources: (1) laws explicitly referenced in BOL, (2) laws governing areas where BOL requires consistency, (3) laws that apply suppletorily, (4) general framework laws that affect this area.
+- Search `legislation/national-laws/INDEX.md` by keyword for relevant RAs.
+- Search `legislation/executive-orders/` for relevant EOs.
+- Include PD 1083 (Code of Muslim Personal Laws) where relevant.
+
+### Jurisprudence
+- Search `jurisprudence/` for Supreme Court decisions relevant to this power area.
+- Focus on: (1) cases interpreting autonomous region powers, (2) cases on the specific subject matter, (3) cases defining national vs. regional authority boundaries.
+- Include ARMM-era jurisprudence that may still apply to BARMM.
+- If no relevant jurisprudence exists, state "No directly relevant Supreme Court decisions identified" rather than omitting the section.
+
+### Parliament Bills (Pending)
+- List filed PBs that have NOT been enacted — these show legislative intent.
+- Search `legislation/bills/enacted/INDEX.md` and `legislation/bills/proposed/INDEX.md` by keyword.
+- This section comes BEFORE Legislative Gaps so the reader sees what's pending before learning what's still missing.
+
+### Legislative Gaps and Recommended Legislation
+- This is the most actionable section — it tells legislators exactly what laws to pass.
+- For each gap, name a **specific proposed law** (e.g., "Bangsamoro Cooperative Code", "Bangsamoro Tourism Act") and describe what it would cover.
+- **What It Would Cover** column should be specific: regulatory standards, institutional framework, funding mechanisms, licensing/registration systems, penalties, coordination mechanisms, etc.
+- **BOL Basis** column must cite the provision that authorizes or mandates the legislation — especially unfulfilled "The Parliament shall enact..." mandates.
+- Consider what already exists (BAA 13 mandate, pending PBs, suppletory national law) and what the proposed law adds beyond those.
+- If a pending PB already addresses the gap, note it but explain what additional legislation may still be needed.
+
+### Footnotes
+- Use Feliciano 10th Edition citation format throughout.
+- Every provision cited must have a footnote with full citation.
+- Format: `Rep. Act No. 11054, sec. 2(a), art. V.` / `BAA No. 13, sec. 5, bk. IV.`

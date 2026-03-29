@@ -1,0 +1,33 @@
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '14px'}}}%%
+flowchart TD
+    classDef navy fill:#1B365D,stroke:#0F1F3A,color:#FFFFFF,stroke-width:2px
+    classDef gold fill:#C5A54E,stroke:#9A7F2E,color:#1B365D,stroke-width:2px
+    classDef loopLabel fill:none,stroke:none,color:#1B365D,font-weight:bold,font-size:16px
+
+    BG["Block Grant Received"]:::navy
+    AF["Available Funds<br/>(Stock)"]:::navy
+    SR["Spending Rate<br/>(Flow)"]:::navy
+    SD["Services Delivered"]:::navy
+    PT["Public Trust"]:::navy
+    PS["Political Stability"]:::navy
+    BC["Block Grant<br/>Continuation"]:::navy
+
+    PC["Procurement<br/>Complexity"]:::gold
+    DL["Delays"]:::gold
+    LSR["Lower Spending<br/>Rate"]:::gold
+
+    BG -->|"funds in"| AF
+    AF -->|"enables"| SR
+    SR -->|"produces"| SD
+    SD -->|"builds"| PT
+    PT -->|"strengthens"| PS
+    PS -->|"secures"| BC
+    BC -->|"renews"| BG
+
+    AF -->|"triggers"| PC
+    PC -->|"causes"| DL
+    DL -->|"reduces"| LSR
+    LSR -->|"constrains"| SR
+
+    R1["<b>R: Service Delivery</b><br/>(Reinforcing Loop)"]:::loopLabel
+    B1["<b>B: Procurement Drag</b><br/>(Balancing Loop)"]:::loopLabel

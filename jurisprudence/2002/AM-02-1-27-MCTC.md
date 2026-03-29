@@ -1,0 +1,57 @@
+# AM-02-1-27-MCTC
+
+**HOLD-DEPARTURE ORDER ISSUED BY JUDGE SALVADOR M. OCCIANO, MCTC-Nabua, Camarines Sur, in Criminal Cases Nos. 7353 and 7363**
+
+## Metadata
+
+- **Case Title**: HOLD-DEPARTURE ORDER ISSUED BY JUDGE SALVADOR M. OCCIANO, MCTC-Nabua, Camarines Sur, in Criminal Cases Nos. 7353 and 7363
+- **Division**: FIRST DIVISION
+- **Type**: Resolution
+- **Source**: [lawphil.net](https://lawphil.net/judjuris/juri2002/may2002/am_02-1-27-mctc_2002.html)
+
+---
+
+> FIRST DIVISION
+>
+> **A.M. No. 02-1-27-MCTC      May 7, 2002**
+>
+> **HOLD-DEPARTURE ORDER ISSUED BY JUDGE SALVADOR M. OCCIANO, MCTC-Nabua, Camarines Sur, in Criminal Cases Nos. 7353 and 7363**
+>
+> **R E S O L U T I O N**
+>
+> **DAVIDE, JR., *C.J.:***
+>
+> This administrative matter refers to the Hold-Departure Order issued by Judge-Designate Salvador M. Occiano of the 9th Municipal Circuit Trial Court of Nabua-Bato, Camarines Sur, on 3 June 1998 in Criminal Cases Nos. 7353 and 7363 both entitled *People of the Philippines v. Helen S. Zabala, et al.*
+>
+> The material operative facts are not complicated.
+>
+> On 3 June 1998, 2nd Assistant Provincial Prosecutor Elias Borromeo of Camarines Sur filed in Criminal Cases Nos. 7353 and 7363 a motion for the issuance of a hold-departure order against Helen S. Zabala. On the same day, respondent judge issued the hold-departure order and forthwith furnished the Commissioner of the Commission on Immigration and Deportation (CID) a copy thereof.1âwphi1.nêt
+>
+> On 22 June 1998, Commissioner Homobono A. Adaza of the CID referred to Honorable Serafin V. Cuevas, Secretary of the Department of Justice (DOJ), for appropriate action the hold-departure order issued by respondent judge. Secretary Cuevas, in turn, referred for appropriate action to Court Administrator Alfredo L. Benipayo the said order, considering that pursuant to Supreme Court Circular No. 39-97 a hold-departure order may be issued by a Regional Trial Court only.
+>
+> In his Comment, respondent judge justified his action by claiming that his court had the inherent power to issue a hold-departure order notwithstanding Supreme Court Circular No. 39-97, which provides that a hold-departure order may be issued by a Regional Trial Court and only in criminal cases within its exclusive jurisdiction. Moreover, in issuing the subject order he had in mind "solely the interest of justice, fair play and above all, so as not to frustrate the expeditious trial and early termination of these cases."
+>
+> Deputy Court Administrator Jose P. Perez recommends that respondent judge be reprimanded for having issued the order in violation of Circular No. 39-97, which limits the authority to issue hold-departure orders to criminal cases falling within the jurisdiction of the Regional Trial Courts. He also noted that in MTJ-96-1104 entitled "*Francisco Bolitan v. Judge Salvador M. Occiano*", respondent judge was meted the penalty of suspension from office for six months without pay; and in OCA IPI No. 01-1049-MTJ entitled "*Mercedita M. Arenas vs. Judge Salvador Occiano*" which is still pending investigation, respondent is charged with gross ignorance of the law.
+>
+> Circular No. 39-97 clearly states that hold-departure orders may be issued only in criminal cases within the exclusive jurisdiction of the Regional Trial Courts. Pertinent portions thereof read as follows:
+>
+> In order to avoid the indiscriminate issuance of Hold-Departure Orders resulting in inconvenience to the parties affected, the same being tantamount to an infringement on the right and liberty of an individual to travel and to ensure that the Hold-Departure Orders which are issued contain complete and accurate information, the following guidelines are hereby promulgated:
+>
+> 1. Hold-Departure Orders shall be issued only in criminal cases within the exclusive jurisdiction of the Regional Trial Courts;
+>
+> The language of the circular is very simple. It is clear that respondent judge had indeed no authority to issue a hold-departure order in Criminal Cases Nos. 7353 and 7363, since the said cases do not fall within the jurisdiction of the Regional Trial Court.
+>
+> Respondent judge fully knows the coverage of the Circular. Yet, he refused to recognize and follow it. This is evident from his Comment wherein he declared that notwithstanding Circular No. 39-97, he firmly believe that he had the authority to issue the hold-departure order. This is not just grave abuse of authority amounting to a grave misconduct or a conduct prejudicial to the best interest of the service; it is disrespect for, and a willful violation of, a lawful circular of the highest court of the land to which he owes fealty.
+>
+> Judge Occiano cannot take refuge behind his alleged zeal for the early termination of the criminal cases in question. Against the demands of sheer speed in disposing of cases, judges should be reminded that their mission above all is to see that justice is done. (*People vs. Aranzado, G.R. Nos. 132442-44, 24 September 2001*). In the instant matter, Judge Occiano issued the hold-departure order without authority. It was a clear case of a violation of the accused's right and liberty to travel. The very essence of Circular No. 39-97 is to avoid the indiscriminate issuance of hold-departure orders resulting in inconvenience to the parties affected which is tantamount to an infringement on their right and liberty to travel.
+>
+> We find the penalty of reprimand recommended by Deputy Court Administrator Perez to be too lenient. In recent cases (*Mondejar v. Judge Buban, A.M. No. MTJ-01-1349, 12 July 2001; Office of the Court Administrator v. Judge Mendoza, 340 SCRA 285, 288 [2000]; Hold-Departure Order dated 22 December 1998 issued by Acting Judge Madronio, Jr., 323 SCRA 345, 348 [2000]; Hold-Departure Order dated 20 November 1998 issued by Judge Abalos, 319 SCRA 131, 134 [1999]; Hold-Departure Order dated 29 January 1999 issued by Judge Adaoag, 315 SCRA 9, 12 [1999]; Hold-Departure Order dated 10 February 1999 issued by Judge Barot, 313 SCRA 44, 46 [1999]; Hold-Departure Order dated 13 April 1998 issued by Judge Nartatez, 298 SCRA 710, 712 [1998]),* which involved similar violations, this Court imposed the penalty of reprimand. However, the circumstances in the instant case merit more than a reprimand for the respondent judge. He has not committed a mere error of judgment; he gravely and deliberately disregarded Circular No. 39-97. This irregularity amounts to grave misconduct or deliberate violation of a lawful circular of the Court.1âwphi1.nêt
+>
+> **WHEREFORE,** finding respondent Judge Salvador M. Occiano of the 9th Municipal Circuit Trial Court, Nabua-Bato, Camarines Sur, guilty of grave misconduct, deliberate violation of a lawful circular of the Curt and conduct prejudicial to the best interest of the service, he is hereby **ORDERED** to pay a **FINE** of Ten Thousand (P10,000) Pesos to be paid within ten (10) days from receipt of a copy of this resolution, and is sternly **WARNED** that the commission of the same or similar act in the future will be dealt with more severely.
+>
+> **SO ORDERED.**
+>
+> *Davide, Jr., C.J., Puno, Kapunan, Ynares-Santiago, and Austria-Martinez, JJ.,* concur.
+>
+>
+>

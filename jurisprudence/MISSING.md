@@ -1,0 +1,297 @@
+# Missing Jurisprudence Decisions (404 on lawphil.net)
+
+Total: 214 decisions listed on month pages but returning 404
+
+These decisions are indexed on lawphil.net month pages but the actual HTML pages do not exist.
+
+## 1988 (1 missing)
+
+- GR-L-48889 — G.R. No. L-48889
+
+## 1993 (3 missing)
+
+- GR-100264_81 — G.R. Nos. 100264-81
+- GR-91622 — G.R. No. 91622
+- GR-92600 — G.R. No. 92600
+
+## 2000 (2 missing)
+
+- AM-00-1-48-RTC — A.M. No. 00-1-48-RTC
+- GR-142033 — G.R. No. 142033
+
+## 2001 (4 missing)
+
+- GR-121810 — G.R. No. 121810
+- GR-127652 — G.R. No. 127652
+- GR-132247 — G.R. No. 132247
+- GR-144422 — G.R. No. 144422
+
+## 2002 (2 missing)
+
+- AM-P-02-1574 — A.M. No. P-02-1574
+- GR-134775 — G.R. No. 134775
+
+## 2004 (31 missing)
+
+- AM-02-9-568-RTC — A.M. No. 02-9-568-RTC
+- AM-CA-04-36 — A.M. No. CA-04-36
+- AM-MTJ-00-1328 — A.M. No. MTJ-00-1328
+- AM-MTJ-00-1332 — A.M. No. MTJ-00-1332
+- AM-MTJ-02-1416 — A.M. No. MTJ-02-1416
+- AM-MTJ-03-1515 — A.M. No. MTJ-03-1515
+- AM-MTJ-04-1523 — A.M. No. MTJ-04-1523
+- AM-MTJ-04-1526 — A.M. MTJ-04-1526
+- AM-MTJ-04-1528 — A.M. No. MTJ-04-1528
+- AM-MTJ-98-1146 — A.M. No. MTJ-98-1146
+- AM-P-03-1700 — A.M. No. P-03-1700
+- AM-P-03-1714 — A.M. No. P-03-1714
+- AM-P-04-1768 — A.M. No. P-04-1768
+- AM-P-04-1769 — A.M. No. P-04-1769
+- AM-P-04-1774 — A.M. No. P-04-1774
+- AM-P-04-1780 — A.M. No. P-04-1780
+- AM-P-04-1781 — A.M. No. P-04-1781
+- AM-RTJ-00-1584 — A.M. No. RTJ-00-1584
+- AM-RTJ-01-1657 — A.M. No. RTJ-01-1657
+- AM-RTJ-03-1753 — A.M No. RTJ-03-1753
+- AM-RTJ-03-1793 — A.M. RTJ-03-1793
+- AM-RTJ_04_1887 — A.M. No. RTJ-04-1887
+- AM-SB-04-11-J — A.M. No. SB-04-11-J
+- GR-136085 — G.R. No. 136085
+- GR-147678 — G.R. No. 147678-87
+- GR-147965 — G.R. 147965
+- GR-148397 — G.R. No. 148397-400
+- GR-148716 — G.R. Nos. 148716-18
+- GR-148815 — G.R. No. 148815
+- GR-152584 — G.R. No. 152584
+- GR-152969 — G.R. No. 152969
+
+## 2005 (14 missing)
+
+- AC-%206648 — A.C. No. 6648
+- AM-04-6-141_MTC — A.M. No. 04-6-141-MTC
+- AM-05_2_41_MTC — A.M. No. 05-2-41-MTC
+- AM-2005_16_SC — A.M. No. 2005-16-SC
+- AM-MTJ_05_1611 — A.M. No. MTJ-05-1611
+- AM-P-05-2005 — A.M. No. P-05-2005
+- AM-P_04_1867 — A.M. No. P-04-1867
+- AM-P_04_1869 — A.M. No. P-04-1869
+- AM-P_05_2048 — A.M. No. P-05-2048
+- AM-P_05_2076 — A.M No. P-05-2076
+- AM-RTJ_05_1914 — A.M. No. RTJ-05-1914
+- AM-RTJ_05_1921 — A.M. No. RTJ-05-1921
+- GR-165510 — G.R. No. 165510-33
+- GR-168056A — G.R. No. 168056
+
+## 2006 (29 missing)
+
+- AM-01_34_CA_J — A.M. No. 01-34-CA-J
+- AM-05-3-04-SC — A.M. No. 05-3-04-SC
+- AM-05-8-226-METC — A.M. No. 05-8-226-MeTC
+- AM-05-8-233-MTC — A.M. No. 05-8-233-MTC
+- AM-2004_35_SC — A.M. No. 2004-35-SC
+- AM-2005-18-SC — A.M. No. 2005-18-SC
+- AM-2005-22-SC — A.M. No. 2005-22-SC
+- AM-2006-18-SC — A.M. No. 2006-18-SC
+- AM-MTJ-02-1465 — A.M. No. MTJ-02-1465
+- AM-MTJ_05_1598 — A.M. MTJ-05-1598
+- AM-MTJ_06_1619 — A.M. No. MTJ-06-1619
+- AM-P-03-1684 — A.M. No. P-03-1684
+- AM-P-04-1822 — A.M. No. P-04-1822
+- AM-P-05-2023 — A.M. No. P-05-2023
+- AM-P-06-2134 — A.M. No. P-06-2134
+- AM-P-06-2139 — A.M. No. P-06-2139
+- AM-P_05_2038 — A.M. No. P-05-2038
+- AM-P_05_2040 — A.M. No. P-05-2040
+- AM-P_06_2102 — A.M. No. P-06-2102
+- AM-P_99_1337 — A.M. No. P-99-1337
+- AM-RTJ_05_1965 — A.M. No. RTJ-05-1965
+- GR-111202-05 — G.R. Nos. 111202-05
+- GR-138874-75 — G.R. Nos. 138874-75
+- GR-167959%20 — G.R. No. 167959
+- GR-169083 — G.R. No. 169083
+- GR-170191 — G.R. No. 170191
+- GR-170470 — G.R. No. 170470
+- GR-6128 — A.C. No. 6128
+- GR-6517 — A.C. No. 6517
+
+## 2007 (1 missing)
+
+- AM-07-10-260-MTC — A.M. No. 07-10-260-MTC
+
+## 2008 (13 missing)
+
+- AC-6505 — A.C. No. 6505
+- AM-02_8_13_SC_REV
+- GR-146121 — G.R. Nos. 146121-22
+- GR-152359-174103 — G.R. No. 152359 & G.R. No. 174103
+- GR-165424 — G.R. No. 165424
+- GR-168637_170684 — G.R. No. 168637/G.R. No. 170684
+- GR-183806-08 — G.R. No. 183806-08
+- GR-2007-25-SC — A.M. No. 2007-25-SC
+- GR-7781 — A.C. No. 7781
+- GR-7820 — A.C. No. 7820
+- GR-P-03-1715 — A.M. No. P-03-1715
+- GR-P-03-1748 — A.M. No. P-03-1748
+- GR-P-07-2335 — A.M. No. P-07-2335
+
+## 2009 (3 missing)
+
+- AM-2007-17-SC — A.M. No. 2007-17-SC
+- AM-P-05-2052 — A.M. No. P-05-2052
+- GR-171340 — G.R. No. 171340
+
+## 2010 (16 missing)
+
+- AM-07-1-05-RTC — A.M. No. 07-1-05-RTC
+- AM-08-19-SB-J — A.M. No. 08-19-SB-J
+- AM-MTC-09-1728 — A.M. No. MTJ-09-1728
+- AM-RTC-06-1992 — A.M. No. RTJ-06-1992/A.M. No. P-10-2745/A.M. No. RTJ-00-1992/A.M. No. P-10-2746/A.M. No. P-102747/A.
+- AM-RTC-09-2180 — A.M. No. RTJ-09-2180
+- AM-RTC-10-2236 — A.M. No. RTJ-10-2236
+- GR-147925-26 — G.R. Nos. 147925-26
+- GR-160422 — G.R. No. 160422
+- GR-166536 — G.R. No. 166536
+- GR-174149 — G.R. No. 174149
+- GR-174599-609 — G.R. Nos. 174599-609
+- GR-179717 — G.R. No. 179717
+- GR-8390 — A.C. No. 8390
+- GR-8481 — A.C. No. 8481
+- GR-P-08-2584 — A.M. No. P-08-2584
+- GR-P-09-2700 — A.M. No. P-09-2700
+
+## 2011 (2 missing)
+
+- GR-169359-61 — G.R. No. 169359-61
+- GR-18223 — G.R. No. 182237
+
+## 2012 (3 missing)
+
+- GR-179054 — G.R. No. 179054
+- GR-180880 — G.R. Nos. 180880-81/G.R. Nos. 180896-97
+- GR-198808 — G.R. No. 189808
+
+## 2013 (5 missing)
+
+- AM-P-12-3073 — A.M. No. P-12-2073
+- AM-SCC-08-11-P — A.M. No. SCC-08-11-P
+- GR-168279 — G.R. No. 168279
+- GR-195395 — G.R. No. 195395
+- GR-198457 — G.R. No. 198457
+
+## 2014 (6 missing)
+
+- GR-177332 — G.R. No. 177332
+- GR-178733 — G.R. No. 178733
+- GR-187061 — G.R. No. 187061
+- GR-188828 — G.R. No. 188828
+- GR-193768 — G.R. No. 193768
+- GR-6677 — A.C. No. 6677
+
+## 2015 (3 missing)
+
+- AM-09-6-1-SC — A.M. No. 09-6-1-SC
+- GR-207112_SO — Justice Marvic M.V.F. Leonen
+- GR-XXX_SO
+
+## 2016 (13 missing)
+
+- AM-P-15-3300 — A.M. No. P-15-3300
+- AM-P-15-3361 — A.M. No. P-15-3361
+- AM-P-15-3393 — A.M. No. P-15-3393
+- AM-P-16-3419 — A.M. No. P-16-3419
+- AM-P-16-3423 — A.M. No. P-16-3423
+- AM-P-16-3437 — A.M. No. P-16-3437
+- AM-P-16-3447 — A.M. No. P-16-3447
+- AM-P-16-3459 — A.M. No. P-16-3459
+- GR-170746 — G.R. Nos. 170746-47
+- GR-202647 — G.R. Nos. 202647-50/G.R. Nos. 205921-24
+- GR-212593 — G.R. Nos. 212593-94/G.R. Nos. 213163-78/G.R. Nos. 213540-41/G.R. Nos. 213542-43/G.R. Nos. 215880-94/
+- GR-212593_SO — Justice Marvic M.V.F. Leonen
+- GR-222731_SO
+
+## 2017 (3 missing)
+
+- A- — A.C. No. 5582/A.C. No. 5604/A.C. No. 5652
+- AM-P-17-2492 — A.M. No. P-17-2492
+- GR-193969-193970 — G.R. Nos. 193969-193970/G.R. Nos. 194027-194028
+
+## 2018 (2 missing)
+
+- GR-230429-30 — G.R. No. 230429-30
+- OCA-17-4663-RTJ — OCA IPI No. 17-4663-RTJ
+
+## 2019 (25 missing)
+
+- AM-11-6-60-MTCC — A.M. No. 11-6-60-MTCC/A.M. No. P-13-3122
+- AM-15-09-102-MTCC — A.M. No. 15-09-102-MTCC
+- AM-17-12-02-SC — A.M. No. 17-12-02-SC
+- AM-18-06-07-CA — A.M. No. 18-06-07-CA
+- AM-18-08-69-MTC — A.M. No. 18-08-69-MTC
+- AM-18-11-09-SC — A.M. No. 18-11-09-SC
+- AM-19-02-03-CA — A.M. No. 19-02-03-CA
+- AM-2014-16-SC — A.M. No. 2014-16-SC
+- AM-MTJ-01-1385 — A.M. No. MTJ-01-1385/A.M. No. P-17-3704/A.M. No. MTJ-03-1472
+- AM-P-10-2790 — A.M. No. P-10-2790
+- AM-P-11-2894 — A.M. No. P-11-2894
+- AM-P-16-3505 — A.M. No. P-16-3505
+- AM-P-18-3791 — A.M. No. P-18-3791
+- AM-P-18-3859 — A.M. No. P-18-3859
+- AM-P-18-3864 — A.M. No. P-18-3864
+- AM-P-18-3890 — A.M. No. P-18-3890
+- AM-P-19-3911 — A.M. No. P-19-3911
+- AM-P-19-3916 — A.M. No. P-19-3916
+- AM-P-19-3919 — A.M. No. P-19-3919
+- AM-P-19-3972 — A.M. No. P-19-3972
+- AM-P-19-3985 — A.M. No. P-19-3985/P-19-3986
+- AM-P-19-3989 — A.M. No. P-19-3989
+- AM-RTJ-19-2549 — A.M. No. RTJ-19-2549
+- AM-RTJ-19-2562 — A.M. No. RTJ-19-2562
+- GR-233252 — G.R. No. 233252
+
+## 2020 (7 missing)
+
+- AM-19-02-11-SC — A.M. No. 19-02-11-SC
+- AM-2019-08-SC — A.M. No. 2019-08-SC
+- AM-2019-18-SC — A.M. No. 2019-18-SC
+- AM-P-14-3188 — A.M. No. P-14-3188
+- AM-P-19-3996 — A.M. No. P-19-3996
+- AM-P-19-4021 — A.M. No. P-19-4021
+- AM-RTJ-20-2578 — A.M. No. RTJ-20-2578
+
+## 2021 (5 missing)
+
+- AM-CA-20-36-P — A.M. No. CA-20-36-P
+- AM-MTJ-16-1880 — A.M. No. MTJ-16-1880
+- AM-P-12-3049 — A.M. No. P-12-3049
+- AM-P-18-3902 — A.M. No. P-18-3902
+- AM-P-21-024 — A.M. No. P-21-024
+
+## 2022 (7 missing)
+
+- AC-11369 — A.C. No. 11369
+- GR-214290 — G.R. No. 214290
+- GR-218087 — G.R. No. 218087
+- GR-232600-04 — G.R. No. 232600-04
+- GR-243163 — G.R. No. 243163
+- GR-246780-82 — G.R. No. 246780-82
+- GR-255157 — G.R. No. 255157
+
+## 2023 (1 missing)
+
+- AM-P-22-066 — A.M. No. P-22-066
+
+## 2024 (13 missing)
+
+- AM-RTJ-23-039 — A.M.No. RTJ-23-039
+- GR-208738 — G.R. No. 208738
+- GR-214042 — G.R.No. 214042
+- GR-254976 — G.R.No. 254976
+- GR-255466 — G.R.No. 255466
+- GR-256720 — G.R.No. 256720
+- GR-257980 — G.R. No. 257980
+- GR-260547 — G.R.No. 260547
+- GR-260973 — G.R.No. 260973
+- GR-261123 — G.R.No. 261123
+- GR-263047 — G.R.No. 263047
+- GR-267310 — G.R.No. 267310
+- GR-270257 — G.R.No. 270257

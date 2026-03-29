@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix D: Change Agent Self-Assessment</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1B365D;
+    --gold: #C5A54E;
+    --gold-light: #F5EFD8;
+    --navy-light: #E8EDF3;
+    --gray-50: #F9FAFB;
+    --gray-100: #F3F4F6;
+    --gray-200: #E5E7EB;
+    --gray-300: #D1D5DB;
+    --gray-500: #6B7280;
+    --gray-700: #374151;
+    --gray-900: #111827;
+    --white: #FFFFFF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: var(--gray-900);
+    background: var(--white);
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page-break { page-break-before: always; }
+    .no-break { page-break-inside: avoid; }
+    @page { margin: 2cm; size: A4; }
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .cover-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 40px;
+    border-bottom: 6px solid var(--gold);
+    margin: -40px -40px 40px -40px;
+  }
+
+  .cover-header .appendix-label {
+    font-size: 14pt;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .cover-header h1 {
+    font-size: 28pt;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+
+  .cover-header .subtitle {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #B0C4DE;
+    max-width: 600px;
+  }
+
+  h2 {
+    font-size: 16pt;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 8px;
+    margin: 32px 0 16px 0;
+  }
+
+  h3 {
+    font-size: 13pt;
+    font-weight: 600;
+    color: var(--navy);
+    margin: 24px 0 10px 0;
+  }
+
+  h4 {
+    font-size: 11pt;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin: 16px 0 8px 0;
+  }
+
+  p { margin-bottom: 10px; }
+
+  .instructions {
+    background: var(--navy-light);
+    border-left: 4px solid var(--navy);
+    padding: 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
+  }
+
+  .section-card {
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 24px 0;
+  }
+
+  .section-header {
+    background: var(--navy);
+    color: var(--white);
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .section-header h3 {
+    color: var(--white);
+    margin: 0;
+    font-size: 13pt;
+  }
+
+  .section-header .section-items {
+    color: var(--gold);
+    font-size: 10pt;
+    font-weight: 500;
+  }
+
+  .section-body { padding: 0; }
+
+  .rating-item {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    align-items: center;
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--gray-100);
+  }
+
+  .rating-item:last-child { border-bottom: none; }
+
+  .rating-item:nth-child(even) { background: var(--gray-50); }
+
+  .rating-statement {
+    font-size: 10.5pt;
+    padding-right: 16px;
+  }
+
+  .rating-scale {
+    display: flex;
+    gap: 0;
+    justify-content: flex-end;
+  }
+
+  .rating-circle {
+    width: 32px;
+    height: 32px;
+    border: 2px solid var(--gray-300);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10pt;
+    font-weight: 600;
+    color: var(--gray-500);
+    margin-left: -1px;
+  }
+
+  .rating-circle:first-child { margin-left: 0; }
+
+  .section-subtotal {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    background: var(--navy-light);
+    border-top: 2px solid var(--navy);
+  }
+
+  .subtotal-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 11pt;
+  }
+
+  .subtotal-box {
+    width: 60px;
+    height: 32px;
+    border: 2px solid var(--navy);
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 12pt;
+  }
+
+  .subtotal-max {
+    font-size: 10pt;
+    color: var(--gray-500);
+  }
+
+  .scale-legend {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 16px;
+    background: var(--gray-50);
+    border-radius: 8px;
+    margin: 16px 0;
+    flex-wrap: wrap;
+  }
+
+  .scale-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 9pt;
+    color: var(--gray-700);
+  }
+
+  .scale-num {
+    width: 24px;
+    height: 24px;
+    border: 2px solid var(--navy);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 9pt;
+    font-weight: 700;
+    color: var(--navy);
+  }
+
+  /* SCORING */
+  .scoring-section {
+    margin: 32px 0;
+  }
+
+  .total-score-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 20px;
+    background: var(--navy);
+    border-radius: 8px;
+    margin: 24px 0;
+  }
+
+  .total-label {
+    color: var(--white);
+    font-size: 14pt;
+    font-weight: 700;
+  }
+
+  .total-box {
+    width: 80px;
+    height: 44px;
+    border: 3px solid var(--gold);
+    border-radius: 6px;
+    background: var(--white);
+    text-align: center;
+    font-size: 18pt;
+    font-weight: 800;
+    color: var(--navy);
+  }
+
+  .total-max {
+    color: var(--gold);
+    font-size: 12pt;
+    font-weight: 600;
+  }
+
+  .score-band {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 0;
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 16px 0;
+  }
+
+  .band-range {
+    padding: 14px;
+    font-weight: 700;
+    font-size: 12pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+  }
+
+  .band-range.strong { background: #16A34A; }
+  .band-range.developing { background: #2563EB; }
+  .band-range.emerging { background: #D97706; }
+  .band-range.beginning { background: #DC2626; }
+
+  .band-desc {
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--gray-200);
+  }
+
+  .band-title {
+    font-weight: 700;
+    color: var(--navy);
+    margin-right: 8px;
+  }
+
+  /* ACTION PLANNING */
+  .action-box {
+    border: 2px solid var(--gold);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 16px 0;
+    background: var(--gold-light);
+  }
+
+  .action-box h4 {
+    color: var(--navy);
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+  }
+
+  .blank-line {
+    border-bottom: 1px solid var(--gray-300);
+    height: 28px;
+    margin-bottom: 4px;
+  }
+
+  .blank-line-gold {
+    border-bottom: 1px solid var(--gold);
+    height: 28px;
+    margin-bottom: 4px;
+  }
+
+  .commitment-box {
+    border: 3px solid var(--navy);
+    border-radius: 8px;
+    padding: 24px;
+    margin: 24px 0;
+    background: var(--white);
+  }
+
+  .commitment-box h3 {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  .commitment-prompt {
+    font-size: 12pt;
+    font-weight: 600;
+    color: var(--navy);
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  .signature-area {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+    margin-top: 32px;
+  }
+
+  .sig-field { text-align: center; }
+
+  .sig-line {
+    border-bottom: 2px solid var(--navy);
+    height: 40px;
+    margin-bottom: 4px;
+  }
+
+  .sig-label {
+    font-size: 9pt;
+    color: var(--gray-500);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .tip-box {
+    background: var(--navy-light);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    border-left: 4px solid var(--gold);
+  }
+
+  .tip-box .tip-label {
+    font-weight: 700;
+    color: var(--navy);
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .pillar-label {
+    font-size: 9pt;
+    font-weight: 700;
+    color: var(--gold);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-right: 6px;
+  }
+
+  .footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 2px solid var(--gold);
+    font-size: 9pt;
+    color: var(--gray-500);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- COVER -->
+  <div class="cover-header">
+    <div class="appendix-label">Appendix D</div>
+    <h1>Change Agent Self-Assessment</h1>
+    <div class="subtitle">A personal readiness inventory for systems leadership in the Bangsamoro</div>
+  </div>
+
+  <div class="instructions">
+    <strong>Instructions:</strong> Rate yourself honestly on each statement using a scale of 1 to 5. This is a <em>development tool</em>, not a performance evaluation &mdash; honest self-assessment is more valuable than high scores. Circle the number that best describes your current practice. Complete all four sections, then calculate your total score.
+  </div>
+
+  <div class="scale-legend">
+    <div class="scale-item"><div class="scale-num">1</div> Rarely / Not yet</div>
+    <div class="scale-item"><div class="scale-num">2</div> Occasionally</div>
+    <div class="scale-item"><div class="scale-num">3</div> Sometimes</div>
+    <div class="scale-item"><div class="scale-num">4</div> Often</div>
+    <div class="scale-item"><div class="scale-num">5</div> Consistently</div>
+  </div>
+
+  <!-- SECTION 1: SYSTEMS THINKING -->
+  <div class="section-card">
+    <div class="section-header">
+      <h3>Section 1: Systems Thinking Competencies</h3>
+      <div class="section-items">6 items &bull; Max 30 points</div>
+    </div>
+    <div class="section-body">
+      <div class="rating-item">
+        <div class="rating-statement">I can see how different BARMM sectors (governance, education, economy, social) interconnect and influence each other</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I can identify feedback loops &mdash; reinforcing and balancing &mdash; in my work and my sector</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I look for root causes rather than addressing symptoms when problems arise</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I consider unintended consequences before acting on a policy or program decision</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I think about time delays between actions and results &mdash; I do not expect instant outcomes</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I can hold multiple perspectives simultaneously and see validity in different viewpoints</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="section-subtotal">
+        <span class="subtotal-label">Section 1 Subtotal:</span>
+        <div class="subtotal-box"></div>
+        <span class="subtotal-max">/ 30</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 2: LEADERSHIP CAPACITIES -->
+  <div class="section-card">
+    <div class="section-header">
+      <h3>Section 2: Leadership Capacities</h3>
+      <div class="section-items">6 items &bull; Max 30 points</div>
+    </div>
+    <div class="section-body">
+      <div class="rating-item">
+        <div class="rating-statement">I can hold space for ambiguity and uncertainty without rushing to premature solutions</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I bridge different communities &mdash; government, CSO, private sector, traditional, and religious</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I can live with creative tension without resolving it prematurely or avoiding it</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I take responsibility for being part of the system I want to change</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I listen to the whole system &mdash; including voices I disagree with &mdash; not just my stakeholders</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I create conditions for others to lead rather than centralizing authority in myself</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="section-subtotal">
+        <span class="subtotal-label">Section 2 Subtotal:</span>
+        <div class="subtotal-box"></div>
+        <span class="subtotal-max">/ 30</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-break"></div>
+
+  <!-- SECTION 3: CHANGE READINESS -->
+  <div class="section-card">
+    <div class="section-header">
+      <h3>Section 3: Change Readiness</h3>
+      <div class="section-items">6 items &bull; Max 30 points</div>
+    </div>
+    <div class="section-body">
+      <div class="rating-item">
+        <div class="rating-statement">I am motivated by intrinsic purpose and service, not external rewards or recognition</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I can sustain effort even when results are not yet visible and progress feels slow</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I am willing to let go of approaches and programs that are not working, even if I initiated them</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I see failure as learning, not as defeat &mdash; I extract lessons and adjust course</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I can navigate between the existing system and the emerging one without losing my footing</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement">I practice what I advocate for &mdash; I model the behaviors I want to see in the system</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="section-subtotal">
+        <span class="subtotal-label">Section 3 Subtotal:</span>
+        <div class="subtotal-box"></div>
+        <span class="subtotal-max">/ 30</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 4: VALUES ALIGNMENT (Moral Governance) -->
+  <div class="section-card">
+    <div class="section-header">
+      <h3>Section 4: Values Alignment &mdash; Moral Governance</h3>
+      <div class="section-items">12 items &bull; Max 60 points</div>
+    </div>
+    <div class="section-body">
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Integrity:</span> I act consistently whether observed or not &mdash; my private actions match my public commitments</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Accountability:</span> I take ownership of outcomes, not just activities &mdash; I measure results, not effort</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Transparency:</span> I share information openly, even when it is inconvenient or reflects poorly on my work</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Patriotism:</span> I invest in the Bangsamoro's long-term success, even when short-term gains are available</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Excellence:</span> I prioritize quality over speed &mdash; I would rather do it right than do it fast</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Cultural Understanding:</span> I respect and seek to understand all 13 ethnolinguistic traditions of the Bangsamoro</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+
+      <div class="page-break"></div>
+
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Loyalty to God:</span> My public service reflects my spiritual commitments and deepens my relationship with Allah</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Justice:</span> I serve without prejudice or favoritism &mdash; I apply standards equally regardless of relationship</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Inclusivity:</span> I actively include voices that are typically excluded from decision-making processes</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Objectivity:</span> I make decisions based on evidence and analysis, not personal relationships or political pressure</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Dialogue:</span> I engage meaningfully with stakeholders and colleagues before making significant decisions</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="rating-item">
+        <div class="rating-statement"><span class="pillar-label">Balance:</span> I maintain both ethical standards and practical effectiveness &mdash; I do not sacrifice one for the other</div>
+        <div class="rating-scale">
+          <div class="rating-circle">1</div>
+          <div class="rating-circle">2</div>
+          <div class="rating-circle">3</div>
+          <div class="rating-circle">4</div>
+          <div class="rating-circle">5</div>
+        </div>
+      </div>
+      <div class="section-subtotal">
+        <span class="subtotal-label">Section 4 Subtotal:</span>
+        <div class="subtotal-box"></div>
+        <span class="subtotal-max">/ 60</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SCORING GUIDE -->
+  <h2>Scoring Guide</h2>
+
+  <div class="total-score-row">
+    <span class="total-label">Total Score:</span>
+    <div class="total-box"></div>
+    <span class="total-max">/ 150</span>
+  </div>
+
+  <p>Transfer your section subtotals and add them together:</p>
+  <table style="width: 100%; border-collapse: collapse; margin: 16px 0; table-layout: fixed;">
+    <tr>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); font-weight: 600; width: 60%;">Section 1: Systems Thinking Competencies</td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center; width: 20%;"><div class="blank-line" style="width: 60px; margin: 0 auto;"></div></td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center; color: var(--gray-500); width: 20%;">/ 30</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); font-weight: 600;">Section 2: Leadership Capacities</td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center;"><div class="blank-line" style="width: 60px; margin: 0 auto;"></div></td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center; color: var(--gray-500);">/ 30</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); font-weight: 600;">Section 3: Change Readiness</td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center;"><div class="blank-line" style="width: 60px; margin: 0 auto;"></div></td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center; color: var(--gray-500);">/ 30</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); font-weight: 600;">Section 4: Values Alignment</td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center;"><div class="blank-line" style="width: 60px; margin: 0 auto;"></div></td>
+      <td style="padding: 8px 12px; border: 1px solid var(--gray-200); text-align: center; color: var(--gray-500);">/ 60</td>
+    </tr>
+    <tr style="background: var(--navy-light);">
+      <td style="padding: 8px 12px; border: 2px solid var(--navy); font-weight: 800; font-size: 12pt; color: var(--navy);">TOTAL</td>
+      <td style="padding: 8px 12px; border: 2px solid var(--navy); text-align: center;"><div class="blank-line" style="width: 60px; margin: 0 auto; border-color: var(--navy);"></div></td>
+      <td style="padding: 8px 12px; border: 2px solid var(--navy); text-align: center; font-weight: 700; color: var(--navy);">/ 150</td>
+    </tr>
+  </table>
+
+  <h3>Interpretation</h3>
+
+  <div class="score-band">
+    <div class="band-range strong">120-150</div>
+    <div class="band-desc"><span class="band-title">Strong Systems Leader</span> &mdash; You are ready to lead systems change initiatives. Share your capabilities by mentoring others and championing cross-sector collaboration.</div>
+  </div>
+  <div class="score-band">
+    <div class="band-range developing">96-119</div>
+    <div class="band-desc"><span class="band-title">Developing</span> &mdash; You have a strong foundation. Focus on your 2-3 weakest areas through deliberate practice, reading, and peer learning.</div>
+  </div>
+  <div class="score-band">
+    <div class="band-range emerging">72-95</div>
+    <div class="band-desc"><span class="band-title">Emerging</span> &mdash; Significant growth is needed. Seek a mentor who scores in the "Strong" range. Prioritize Sections 1 and 3 for development.</div>
+  </div>
+  <div class="score-band">
+    <div class="band-range beginning">Below 72</div>
+    <div class="band-desc"><span class="band-title">Beginning</span> &mdash; Start with Chapter 5 (Futuring) of the guidebook and build your understanding of systems thinking before taking on change leadership roles.</div>
+  </div>
+
+  <div class="tip-box" style="margin-top: 24px;">
+    <div class="tip-label">Important Note</div>
+    <p style="margin: 0;">Your score reflects your <em>current</em> capacity, not your potential. All four score bands represent valid starting points. The Bangsamoro transition needs change agents at every level &mdash; the most important thing is knowing where you are and committing to grow.</p>
+  </div>
+
+  <!-- ACTION PLANNING -->
+  <div class="page-break"></div>
+
+  <h2>Action Planning</h2>
+  <p>Use your assessment results to create a focused development plan. Concentrate on a few areas rather than trying to improve everything at once.</p>
+
+  <div class="action-box">
+    <h4>My Top 3 Strengths (Leverage These)</h4>
+    <p style="font-size: 9pt; color: var(--gray-500); margin-bottom: 8px;">Identify the 3 statements where you scored highest. These are your foundation &mdash; use them to contribute to teams and mentor others.</p>
+    <div class="blank-line-gold"></div>
+    <div class="blank-line-gold"></div>
+    <div class="blank-line-gold"></div>
+    <div class="blank-line-gold"></div>
+    <div class="blank-line-gold"></div>
+    <div class="blank-line-gold"></div>
+  </div>
+
+  <div class="action-box">
+    <h4>My Top 3 Development Areas (Invest in These)</h4>
+    <p style="font-size: 9pt; color: var(--gray-500); margin-bottom: 8px;">Identify the 3 statements where you scored lowest. For each, write one specific action you will take to develop this competency.</p>
+    <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+      <tr>
+        <th style="background: var(--navy); color: var(--white); padding: 8px 12px; text-align: left; font-size: 10pt; width: 40%;">Development Area</th>
+        <th style="background: var(--navy); color: var(--white); padding: 8px 12px; text-align: left; font-size: 10pt; width: 40%;">Specific Action</th>
+        <th style="background: var(--navy); color: var(--white); padding: 8px 12px; text-align: left; font-size: 10pt; width: 20%;">By When</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+        <td style="padding: 10px 12px; border: 1px solid var(--gold);"><div class="blank-line-gold"></div></td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- 90-DAY COMMITMENT -->
+  <div class="commitment-box">
+    <h3>My 90-Day Commitment</h3>
+    <div class="commitment-prompt">"In the next 90 days, I commit to the following action to strengthen my capacity as a systems change agent in the Bangsamoro:"</div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+    <div class="blank-line"></div>
+
+    <div class="signature-area">
+      <div class="sig-field">
+        <div class="sig-line"></div>
+        <div class="sig-label">Signature</div>
+      </div>
+      <div class="sig-field">
+        <div class="sig-line"></div>
+        <div class="sig-label">Date</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="tip-box">
+    <div class="tip-label">Retake Schedule</div>
+    <p style="margin: 0;">Complete this assessment again after 90 days to track your growth. Compare your scores across sections to see where you have developed and where you still need focus. Share your results with your accountability partner from the Futuring Workshop (Appendix C) for peer feedback and support.</p>
+  </div>
+
+  <div class="footer">
+    Systems Change in the Bangsamoro &mdash; Appendix D: Change Agent Self-Assessment<br>
+    Bangsamoro Autonomous Region in Muslim Mindanao
+  </div>
+
+</div>
+
+</body>
+</html>
