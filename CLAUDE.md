@@ -57,6 +57,17 @@ For any Bangsamoro governance transcript or document:
 3. `/fact-checker` — runs automatically after transcription (built into workflow)
 4. `/humanizer` — optional, for converting to prose format
 
+## Legal Reference Pipeline (MANDATORY for all legal content)
+For legal references, legal memos, legal opinions, legislative briefers, and any document with legal claims:
+1. `/prompter` — refine what we're researching (which power, which aspects, which questions)
+2. `/plan` — design the research strategy (which local files to read, which INDEX terms to search, which BOL articles are relevant)
+3. `/legal-researcher REFERENCE` — execute the research (local source files + verified online sources ONLY — NEVER training data)
+4. `/legal-assistant REFERENCE` — write the document (evidence-first — every claim cites a local file path or verified URL)
+5. `/legal-reviewer QA-REVIEW` — review every Q&A pair (6 dimensions: Relevance, Evidence, Verbatim, Inclusiveness, Assumptions, Effectiveness)
+6. `/fact-checker` — final P0-P10 verification
+
+**No training data for legal claims.** If a claim cannot be sourced from a local file or verified URL, mark it `[UNVERIFIED]`. Training data produces hallucinations — fabricated BAA numbers, fiqh terms presented as enacted law, wrong article citations.
+
 ## Video Transcripts
 - Transcripts live in transcripts/ organized by topic subfolder
 - Topic subfolders: ai-claude-code/, ai-claude-cowork/, ai-design/, ai-engineering/, bangsamoro-governance/, lean-startup/{business-model,mvp-and-validation,sales-and-growth,founder-mindset,startup-strategy}/

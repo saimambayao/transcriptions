@@ -26,7 +26,7 @@ legal-references/
 ```
 
 **Folder naming**: `{NN}-{letter}-{short-slug}/` — numbered sequentially following Art. V, Sec. 2 order.
-**Main file**: always `legal-reference.md` inside the folder.
+**Main file**: `legal-reference-{short-slug}.md` inside the folder (e.g., `legal-reference-cooperatives.md`, `legal-reference-administration-of-justice.md`).
 **Additional files**: any sub-topic, comparative analysis, or legislative proposal relevant to this power.
 
 Full numbering:
@@ -44,7 +44,7 @@ Full numbering:
 Before submitting a power file, verify:
 
 ### Structure
-- [ ] File in folder `{NN}-{letter}-{slug}/legal-reference.md`
+- [ ] File named `legal-reference-{slug}.md` in folder `{NN}-{letter}-{slug}/`
 - [ ] Legal Sources section has all 8 tables (BOL, BAAs, Resolutions, National Laws, Shari'ah Sources, Jurisprudence, Pending PBs, Development Alignment)
 - [ ] Legal Briefer has 9 themes (A-I) with correct lettering
 - [ ] Legislative Gaps table at the bottom (separate from Theme G)
@@ -58,6 +58,7 @@ Before submitting a power file, verify:
 - [ ] BAA 13 mandate: read from actual source file (Sec. XX-XX), enumerate ALL functions
 - [ ] Zero instances of "Exclusive", "Shared", or "Concurrent"
 - [ ] All BAA numbers verified against `legislation/baas/BAA-{N}.md`
+- [ ] Em dashes use `—` (actual character), zero instances of `---` (triple hyphens) as em dashes
 
 ### Redundancy and Flow Checkpoint
 After writing all 9 themes, re-read the entire Legal Briefer and verify:
@@ -368,6 +369,41 @@ A. [Distinguish between what BAA 13 already provides (institutional existence, g
 **Q. Have any parliamentary resolutions signaled intent to legislate in this area?**
 A. [List resolutions by number and subject. If none, state so.]
 
+#### E.1.A Institutional Validation
+
+**Q. Is the assigned lead MOA the correct one for this power?**
+A. [Validate the MOA assignment. Some powers have obvious leads (MAFAR for agriculture, MBHTE for education). Others are less clear:
+- Does the assigned MOA's BAA 13 mandate actually cover the FULL scope of this power — or only part of it?
+- Is there a mismatch between the power's scope and the MOA's mandate? (e.g., "administration of justice" is broader than BAGO's prosecution/legal services mandate — it includes Shari'ah courts, traditional justice, ADR)
+- Are there multiple MOAs that exercise parts of this power? If so, which is the primary coordinator?
+- Does the BOL assign this power to a specific institution that is DIFFERENT from the BAA 13 assignment?]
+
+**Q. What BARMM institutions currently exist for this power?**
+A. [List ALL existing institutions — not just the lead MOA:
+- **Lead ministry/office**: [name, BAA 13 section, BAA 85 chapter]
+- **Supporting agencies**: [name, basis for involvement]
+- **Commissions**: [BWC, BYC, BHRC, BSC, etc. — if relevant]
+- **Special bodies**: [boards, councils, task forces created by BAA or EO]
+- **Shari'ah institutions**: [courts, Darul Ifta', SLRB — if relevant]
+- **LGU-level offices**: [mandated by BAA 49 or national law — if relevant]
+For each, state: (a) what law created it, (b) whether it is operational, (c) what specific role it plays for this power.]
+
+**Q. What institutions does the BOL mandate that have NOT been created yet?**
+A. [Check whether the BOL directs Parliament to create specific bodies for this power that do not yet exist. Examples:
+- Art. VII, Sec. 42: Parliament may create offices for youth, women, settler communities, DRRM, planning
+- Art. X, Sec. 16: Parliament may create Shari'ah public assistance office, prosecution service, academy, Jurisconsult office
+- Art. XIII, Sec. 28: Bangsamoro Economic Zone Authority (BEZA)
+- Art. VI, Sec. 8: Bangsamoro Sustainable Development Board (created by BAA 31)
+Quote the BOL provision. State whether the institution has been created (by BAA or EO) or remains unestablished.]
+
+**Q. Does this power require creating NEW institutions that the BOL does not specifically name?**
+A. [Beyond BOL-mandated bodies, analyze whether fully exercising this power requires institutions that don't exist:
+- A regulatory body (e.g., CSEA for cooperatives — exists; a Bangsamoro FDA equivalent — doesn't)
+- A dispute resolution mechanism (e.g., cooperative mediation — CSEA has this; environmental tribunal — doesn't exist)
+- An interagency coordination body (e.g., DRRM Council exists; a maritime coordination body for inland waterways — doesn't)
+- A specialized fund or financing institution
+Name the proposed institution, what it would do, and what law would create it.]
+
 #### E.2 How the National Government Implements This Power
 
 **Q. How does the national government currently exercise authority in this area within BARMM?**
@@ -475,9 +511,10 @@ Add as many as the subject demands.]
 
 What laws should the Bangsamoro Parliament pass to fully exercise this power? Note: most powers are already exercised by MOAs through their BAA 13 (Administrative Code) mandates, but standalone legislation codifies standards, creates regulatory frameworks, and establishes institutional structures that a general mandate cannot.
 
-| Gap | What Law Should Be Passed | What It Would Cover | BOL Basis |
-|-----|---------------------------|---------------------|-----------|
-| [Brief description of what's missing] | [Proposed law title, e.g., "Bangsamoro Tourism Code"] | [Specific areas the law would codify: regulatory standards, institutional framework, funding mechanism, licensing/registration system, penalties, coordination mechanisms] | [BOL provision that mandates or authorizes this legislation, e.g., "Art. XIII, Sec. 35 — Parliament shall enact tourism laws"] |
+| Gap Type | Gap | What Law / Institution Should Be Created | What It Would Cover | BOL Basis |
+|----------|-----|------------------------------------------|---------------------|-----------|
+| **Legislative** | [No standalone code/act] | [Proposed law title, e.g., "Bangsamoro Tourism Code"] | [Regulatory standards, institutional framework, funding, licensing, penalties, coordination] | [BOL provision] |
+| **Institutional** | [No MOA exists for this function] | [Proposed institution, e.g., "Bangsamoro Economic Zone Authority (BEZA)"] | [Mandate, powers, functions, organizational structure, relationship with national counterpart] | [BOL provision mandating creation] |
 
 ## Footnotes
 
@@ -501,7 +538,8 @@ What laws should the Bangsamoro Parliament pass to fully exercise this power? No
 - **Format**: Bernas/Golden Notes bar reviewer style. Each question on its own line prefixed with **Q.**, each answer prefixed with **A.** and indented.
 - **Answers must stay as close as possible to the language of the law.** Quote the BOL verbatim where possible. When explaining, use the statutory terms — don't substitute plain language for legal language.
 - **Bold italic (`***text***`)** for all verbatim text of the law (BOL, BAA, RA, EO, PD). This visually distinguishes "what the law says" from "what it means." Regular text for explanations. Example: Art. XIII, Sec. 24 states: ***"It shall adopt and implement cooperative development policies and programs through the enactment of a Bangsamoro cooperative code."*** This names the specific legislation by title.
-- **9 themes** following the legal hierarchy: A (BOL) → B (Shari'ah) → C (Constitutional) → D (National Law) → E (Implementation with E.1-E.4) → F (Divergence) → G (Gaps) → H (Development) → I (Power-Specific).
+- **Em dash**: Use `—` (actual em dash character), NEVER `---` (triple hyphens). Triple hyphens render as horizontal rules in markdown. Always use the real em dash: `—`.
+- **9 themes** following the legal hierarchy: A (BOL) → B (Shari'ah) → C (Constitutional) → D (National Law) → E (Implementation with E.1, E.1.A Institutional Validation, E.2, E.3, E.4) → F (Divergence) → G (Gaps) → H (Development) → I (Power-Specific).
 - **Inline citations**: "Art. XIII, Sec. 24", "BAA No. 18", "RA 9520" — within the answer text.
 - Target: someone studying this power should be able to look up any specific question and find a direct, law-grounded answer without reading the whole document.
 - Total length: 2,000-4,000+ words (varies by power complexity).
@@ -542,6 +580,12 @@ Each fact should appear in ONE theme only. Later themes reference earlier ones i
 14. What does the current national legal framework provide (protections, standards, institutions)?
 15. What national laws apply in BARMM — directly, suppletorily, or superseded by BAA?
 16. What national institutions exercise authority in BARMM for this area?
+
+**Institutional Validation:**
+17. Is the assigned lead MOA actually the correct one — does its BAA 13 mandate cover the FULL scope of this power?
+18. What ALL institutions exist for this power (lead, supporting, commissions, Shari'ah, LGU-level)?
+19. What institutions does the BOL mandate that haven't been created yet?
+20. Does this power require NEW institutions beyond what the BOL names?
 
 **BOL Positioning and Divergence:**
 17. Does the BOL require consistency with national law? Presidential approval? Intergovernmental coordination?
