@@ -68,13 +68,6 @@ Feliciano, Myrna S. *Philippine Manual of Legal Citations*. 10th ed. Quezon City
 
 ## Subject-Matter References
 
-### BARMM Guidebooks (by the same author)
-
-Mambayao, Saidamen R. *Bill Drafting Guidebook for the Bangsamoro Parliament*. 3rd ed. Cotabato City: Bangsamoro Parliament, 2026.
-
-Mambayao, Saidamen R. *Strategic Planning Guidebook for the Bangsamoro Government*. Cotabato City: Bangsamoro Government, 2026.
-
-Mambayao, Saidamen R. *Complete Staff Work (CSW) Guidebook*. Cotabato City: Bangsamoro Government, 2026.
 
 ### Shari'ah and Islamic Law
 

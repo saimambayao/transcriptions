@@ -27,7 +27,7 @@
 | 06-chapter-05.md | Ch 5: Step 2 — Define & Deliberate (DD) | [x] | 10 | Problem statement, root cause, SMART |
 | 07-chapter-06.md | Ch 6: Step 3 — Research (R) | [x] | 12 | Sources, lit review, primary data, ethics |
 | 08-chapter-07.md | Ch 7: Step 4 — Explore Options (E) | [x] | 10 | Criteria, CBA, impact analysis |
-| 09-chapter-08.md | Ch 8: Step 5 — Submit (SS) | [x] | 12 | Report structure, exec summary, transmittal |
+| 09-chapter-08.md | Ch 8: Step 5 — Submit (S) | [x] | 12 | Report structure, exec summary, transmittal |
 | 10-chapter-09.md | Ch 9: Step 6 — Sustain (S) | [x] | 8 | Implementation, monitoring, stakeholders |
 | 11-chapter-10.md | Ch 10: Step 7 — Iterate (IT) | [x] | 8 | M&E, feedback, lessons learned |
 

@@ -34,7 +34,7 @@ A good research question has three qualities:
 
 **Specific.** The question identifies the legal issue precisely. "What laws apply to education in BARMM?" is too broad — there are dozens. "Does BAA 18 (Education Code) authorize the Ministry to regulate private madaris?" is specific enough to research efficiently.
 
-**Tied to a legal outcome.** The question connects to a decision someone needs to make. "What does Article XII say about fiscal autonomy?" is descriptive but purposeless. "Can the Bangsamoro Government impose an excise tax on cement manufactured within the region?" ties the research to a concrete institutional decision.[^1]
+**Tied to a legal outcome.** The question connects to a decision someone needs to make. "What does Article XII say about fiscal autonomy?" is descriptive but purposeless. "Can the Bangsamoro Government impose an excise tax on cement manufactured within the region?" ties the research to a concrete institutional decision.
 
 ### Formulating Technique: The Three-Part Frame
 
@@ -63,6 +63,14 @@ Every research question has a jurisdictional dimension. In the Bangsamoro contex
 Identifying the jurisdiction at the outset determines which tiers of the hierarchy you need to search. If the subject is an enumerated Bangsamoro power with no national law consistency required, you focus on Tiers 2-4 (BOL, BAA 13, other BAAs). If national law consistency is required, you must also cover Tier 5 (national laws) thoroughly. If the subject is a residual national power, the Bangsamoro Parliament has no legislative competence, and your research should confirm this boundary rather than look for authority that does not exist.
 
 Chapter 3 covers the National Law Relationship Decision Matrix that resolves jurisdictional questions systematically.
+
+> **AI in Practice**
+>
+> AI can help generate search terms by suggesting statutory synonyms and related concepts you might miss. Give it your research question and ask for alternative legal terms.
+>
+> **What AI does:** Generates 15-20 search term variations including statutory language, broader concepts, and related subjects across Filipino, English, and Arabic.
+> **What you do:** Select the terms that match your jurisdiction and subject matter — AI suggests, you decide which are relevant.
+> **Watch for:** AI may suggest terms from national law that do not apply in BARMM, or use terminology from other jurisdictions. Always verify that suggested terms match BOL and BAA language.
 
 ### 2.2.3 Generating Search Terms
 
@@ -102,7 +110,7 @@ If the research question relates to a policy or program, check the **2nd Bangsam
 BDP context matters because:
 - A program that aligns with a BDP goal has stronger institutional support
 - The BDP may identify policy gaps that your research question touches on
-- BPDA evaluation of MOA strategic plans is based on BDP alignment[^2]
+- BPDA evaluation of MOA strategic plans is based on BDP alignment
 
 This step is optional for purely legal questions ("Does the BOL authorize X?") but essential for mandate or policy questions ("What is the legal basis for this development program?").
 
@@ -111,6 +119,14 @@ This step is optional for purely legal questions ("Does the BOL authorize X?") b
 ## 2.4 Step 3 — Systematic Source Search
 
 This is the core of legal research. You work through each tier of the seven-tier BARMM legal hierarchy, searching for every provision that bears on your question. Chapters 4-7 cover each tier in detail. This section teaches the overall methodology.
+
+> **AI in Practice**
+>
+> AI can search the entire legislative archive — 11,866 Republic Acts, 89 BAAs, 2,572 Executive Orders, 38,857 Supreme Court decisions — faster than any human researcher. It extracts provisions, builds comparative matrices, and traces cross-references across tiers simultaneously.
+>
+> **What AI does:** Searches all seven tiers in parallel, extracts verbatim provisions, and builds the Applicable Authorities table and Comparative Matrix.
+> **What you do:** Apply the National Law Relationship Test (Section 2.4.1) to determine which tier controls. Verify every provision AI extracts against the source text. Form all legal conclusions independently.
+> **Watch for:** AI frequently cites wrong BOL article numbers (Art. IX instead of Art. X) and invents BAA numbers. Every citation must be verified against the source document — not accepted from AI output alone.
 
 ### 2.4.1 Working Through the Seven Tiers
 
@@ -177,7 +193,7 @@ The **Comparative Matrix** is the tool that makes these interactions visible. Yo
 3. **Fill the Conflict/Gap column as differences appear.** The matrix reveals:
    - **Conflicts** — where two tiers say different things about the same subject. Example: a national law requires registration with a national agency, but a BAA assigns registration to a regional agency.
    - **Gaps** — where a tier is silent on an aspect that another tier addresses. Example: the BOL grants power over transportation, but no BAA has been enacted to operationalize it.
-   - **Suppletory relationships** — where a national law applies because BARMM legislation is silent. Example: RA 12009 (Procurement) applies suppletorily where BAA 38 does not cover a specific procedure.
+   - **Suppletory relationships** — where a national law applies because BARMM legislation has not yet been enacted. Example: RA 12009 (New Government Procurement Act) applies directly in BARMM because no Bangsamoro procurement BAA has been enacted to date.
    - **Evolution** — how the legal treatment of a subject has changed over time (from ARMM-era law to BTA-era legislation).
 
 4. **Use the matrix to identify which tier controls.** The Conflict/Gap column feeds directly into the national law relationship analysis (Chapter 3). When you find a conflict, you apply the national law relationship test: Is this an enumerated power with no national law consistency requirement? Does the BOL require national law consistency? The matrix gives you the raw material; the national law relationship analysis gives you the answer.
@@ -284,7 +300,7 @@ Every provision you cite must be verified. Verification answers three questions:
 
 **Is it current?** Has the provision been repealed, amended, or superseded by later legislation? The Bangsamoro Parliament passes new BAAs regularly. National laws are amended. Executive issuances expire. A provision that was good law last year may not be good law today.
 
-**Is it correctly cited?** Does the article number, section number, and subsection match the source? BOL Article misattributions are the number one error in BARMM documents — Art. IX (Basic Rights) cited when Art. X (Justice System) is correct, Art. XII Sec. 9 cited when Secs. 15-16 is correct.[^3] Verify every citation against the verbatim source text.
+**Is it correctly cited?** Does the article number, section number, and subsection match the source? The BOL has 18 articles with adjacent numbers that are easily confused — Art. IX (Basic Rights) cited when Art. X (Justice System) is correct, Art. XII Sec. 9 cited when Secs. 15-16 is correct. Verify every citation against the verbatim source text.
 
 **Is it accurately quoted?** Does the text in your Research Memorandum match the source word-for-word? Paraphrases introduce errors. "Shall take into consideration" is not the same as "shall ensure the protection." Copy the text from the source. Do not retype from memory.
 
@@ -304,7 +320,7 @@ For each provision in your Research Memorandum:
 
 Verify provisions in this order of reliability:
 
-1. **Local markdown transcriptions** — verbatim-accurate, searchable, fast. BOL at `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/`. BAAs at `~/Vault/bangsamoro/bangsamoro-laws/BAA-{N}.md`.
+1. **Verbatim source texts** — the full text of the BOL (RA 11054), all 89 enacted BAAs, and the Constitution. Always verify provisions against the source text, not from memory or secondary summaries.
 2. **Original PDF source documents** — authoritative but slower to search
 3. **Official Gazette** — for national laws and recent BAAs not yet transcribed
 4. **Web sources** — LawPhil, SC E-Library. Label as `[Source: web — verify against official copy]`
@@ -372,7 +388,7 @@ Research can expand indefinitely. There is always one more provision to check, o
 
 ### Step 2: Landscape Review
 
-- **Governance context**: Cooperative development may fall under MTIT (trade, investments, tourism) per BAA 13. The BOL mandates a "favorable environment for cooperatives" (Art. XIII, Sec. 24).
+- **Governance context**: Cooperative development may fall under MTIT (trade, investments, tourism) per BAA 13. The BOL mandates the Bangsamoro Government to "recognize, promote, protect, and support the development of cooperatives" and to enact "a Bangsamoro cooperative code" (Art. XIII, Sec. 24).
 - **National context**: RA 9520 (Philippine Cooperative Code of 2008) is the national cooperative framework. The Cooperative Development Authority (CDA) regulates cooperatives nationally.
 - **BDP context**: BDP Ch. 7 (Economy) covers cooperative development as part of economic strategy.
 
@@ -384,7 +400,7 @@ Research can expand indefinitely. There is always one more provision to check, o
 **Tier 2 — BOL:**
 - Art. V, Sec. 2(k): Bangsamoro Government has enumerated power over "Cooperatives and social entrepreneurship" (no national law consistency required).
 - Art. V, Sec. 3: General welfare clause — implied powers for cooperative regulation.
-- Art. XIII, Sec. 24: "The Bangsamoro Government shall create a favorable environment for cooperatives."
+- Art. XIII, Sec. 24: "The Bangsamoro Government... shall recognize, promote, protect, and support the development of cooperatives and other medium, small, and micro enterprises. It shall adopt and implement cooperative development policies and programs through the enactment of a Bangsamoro cooperative code."
 
 **Tier 3 — BAA 13:**
 - MTIT mandate includes trade, investments, and tourism — cooperatives may fall under this ministry.
@@ -419,11 +435,11 @@ Starting from BOL Art. V, Sec. 2(k), the traceable concept is "cooperatives and 
 
 ### Step 5: Verification
 
-All provisions verified against source files:
-- Art. V, Sec. 2(k): Verified — `bol-ra-11054/01-articles-I-to-V.md` line 156
-- Art. XIII, Sec. 24: Verified — `bol-ra-11054/04-articles-XIII-to-XV.md`
-- RA 9520: Verified — national law
-- BAA index: No cooperative BAA exists (confirmed)
+All provisions verified against the verbatim BOL text:
+- Art. V, Sec. 2(k): Verified — Republic Act No. 11054, Article V, Section 2(k)
+- Art. XIII, Sec. 24: Verified — Republic Act No. 11054, Article XIII, Section 24
+- RA 9520: Verified — Republic Act No. 9520 (Philippine Cooperative Code of 2008)
+- BAA index: No cooperative BAA exists (confirmed against the enacted BAA index)
 - Status: All in force
 
 ### Research Answer
@@ -466,10 +482,5 @@ Before submitting your Research Memorandum, confirm:
 
 ---
 
-[^1]: The three-part research question frame is adapted from standard legal research methodology. For the BARMM-specific application, see the `/legal-researcher` skill (Issue Analysis step) and the Bill Drafting Guidebook, Chapter 2, Section 2.3.1.
 
-[^2]: Strategic Planning Guidebook for the Bangsamoro Government (Cotabato City: Bangsamoro Government, 2026), Chapter 3, Section 3.1 (Purpose of BDP Alignment).
-
-[^3]: Fact-Check Error Log, Error Pattern #1 (BOL Article Misattribution). The 18-article map is the authoritative reference — see Chapter 5 of this guidebook or Appendix A.
-
-[^4]: Republic Act No. 11054, Article VI, Section 12. The provision assigns the primary protection obligation to the National Government, with the Bangsamoro Government's role being coordination and assistance. See the `/legal-researcher` OOBC worked example for the full analysis.
+[^4]: Republic Act No. 11054, Article VI, Section 12. The provision assigns the primary protection obligation to the National Government, with the Bangsamoro Government's role being coordination and assistance.

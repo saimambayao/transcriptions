@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -279,6 +292,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -296,6 +310,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -318,6 +333,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -910,9 +931,7 @@ dd {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Community&nbsp;Organizers,<br>Cooperative&nbsp;Officers, and&nbsp;CSEA-BARMM&nbsp;Staff</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1218,6 +1237,11 @@ dd {
 <li><strong>BDP 2023-2028 alignment</strong> connects your cooperative&rsquo;s work to the region&rsquo;s development goals. Your cooperative is not just a business — it is a contribution to Bangsamoro development.</li>
 <li><strong>Real templates and tools</strong> in the appendices are ready to use. They are not generic samples — they reflect CSEA-BARMM requirements and Bangsamoro practice.</li>
 </ul>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across RA 9520, BTA Bill 210, Islamic finance principles, and CSEA-BARMM requirements, and fact-checking against known error patterns.</p>
+<p>AI did not design the methodology. The cooperative lifecycle framework, the integration of Shari&rsquo;ah compliance into cooperative governance and finance, the alignment with the 12 Pillars of Moral Governance, and the practical adaptation of cooperative law to Bangsamoro communities come from the author&rsquo;s professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited, cooperative requirement documented, and Islamic finance principle applied in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <p>Each chapter opens with <strong>why the topic matters</strong> — not with definitions. Read that section first to understand the stakes.</p>
 <p><strong>Bold terms</strong> throughout the text highlight key concepts. If you are scanning quickly, the bold text gives you the gist.</p>
@@ -15426,12 +15450,7 @@ Phone: (00) 552-1105</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 
-<div class="chapter-cover-page front-matter">
-  <div class="chapter-cover-title">Appendices</div>
-  <div class="chapter-cover-gold-line"></div>
-</div>
-
-<div class="chapter" id="appendices">
+<div class="chapter" id="chapter-19">
 <h1 id="appendices">Appendices</h1>
 <p>The following appendices provide ready-to-use templates, checklists, and reference cards. Print them, photocopy them, and distribute them to your cooperative&rsquo;s officers and members. Every template has been adapted for Bangsamoro cooperatives &ndash; they include Shari&rsquo;ah provisions where relevant and reference CSEA rather than CDA where appropriate.</p>
 <hr>
@@ -15451,6 +15470,14 @@ Budget worksheet, cash flow projection template, net surplus allocation workshee
 Officer training tracker, annual education plan template, and training needs assessment form for the Education and Training Committee. Use alongside Chapter 10.</p>
 <p><strong>Appendix H &ndash; Quick Reference Cards</strong>
 Single-page reference cards for cooperative principles, officer duties, statutory fund allocation rules, member rights and responsibilities, and key RA 9520 provisions. Handy references for posting in your cooperative office.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

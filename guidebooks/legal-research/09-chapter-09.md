@@ -4,7 +4,15 @@ Every chapter in this guidebook has ended with a Shari'ah Checkpoint — a singl
 
 Shari'ah is not a niche topic that only affects family law disputes. It is a parallel legal dimension woven into the constitutional fabric of the Bangsamoro. The BOL dedicates 20 sections across Article X to the justice system, Shari'ah courts, traditional law, and alternative dispute resolution. PD 1083 — the Code of Muslim Personal Laws, enacted in 1977 — remains the primary codification of Muslim personal law in the Philippines. The Shari'ah court system forms part of the Philippine judicial system under Supreme Court supervision. Any legal researcher working in BARMM will encounter Shari'ah questions, whether the research involves inheritance, family property, commercial contracts between Muslims, or the constitutional limits of Parliament's legislative power over Islamic law.
 
-This is the only standalone chapter on Shari'ah research methodology in any BARMM guidebook. The Bill Drafting Guidebook addresses Shari'ah for drafters — how to write legislation consistent with Islamic law. This chapter addresses a different question: **how to research Shari'ah legal questions systematically**, using the same five-step methodology from Chapter 2 while navigating the unique features of Islamic legal sources.
+> **AI in Practice**
+>
+> AI tools have limited understanding of Islamic jurisprudence. They can locate BOL Art. X provisions and PD 1083 sections, but they cannot interpret Shari'ah. This chapter has a higher human verification burden than any other.
+>
+> **What AI does:** Searches BOL Art. X (Secs. 1-20) and PD 1083 for applicable provisions. Identifies jurisdictional boundaries (which Shari'ah court has authority). Locates the monetary thresholds for Circuit vs. District Court.
+> **What you do:** All Shari'ah interpretation. AI finds the enacted provisions; you (or a qualified Islamic legal scholar) determine what Shari'ah requires. Arabic legal terms in AI output must be verified against scholarly sources.
+> **Watch for:** AI frequently presents fiqh concepts (*mudarabah*, *sulh*, *ta'zir*) as if they were enacted BARMM law. They are not — no BAA codifies most Arabic legal terms. Label fiqh as scholarly, not statutory.
+
+This chapter addresses a specific question that other treatments of Shari'ah in BARMM governance do not cover: **how to research Shari'ah legal questions systematically**, using the same five-step methodology from Chapter 2 while navigating the unique features of Islamic legal sources.
 
 ---
 
@@ -325,7 +333,7 @@ This creates a unique research challenge. You cannot search for traditional law 
 
 | Source | Where to Find It | What It Contains |
 |--------|------------------|------------------|
-| **BOL Article X** | Verbatim text at the local reference: `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` (split across files 02 and 03) | 20 sections: Shari'ah courts, jurisdiction, sources of law, judges, tribal justice, ADR |
+| **BOL Article X** | Republic Act No. 11054, Article X (The Justice System in the Bangsamoro Autonomous Region) | 20 sections: Shari'ah courts, jurisdiction, sources of law, judges, tribal justice, ADR |
 | **PD 1083** | LawPhil Project (lawphil.net); Official Gazette | Code of Muslim Personal Laws: marriage, divorce, inheritance, property, family relations |
 | **Shari'ah court decisions** | SC E-Library (elibrary.judiciary.gov.ph) for cases appealed on questions of law | Shari'ah High Court decisions elevated to the Supreme Court |
 | **BAAs with Shari'ah dimension** | Bangsamoro Parliament archives; local repository at `legislation/BAAs/` | Any enacted BAA touching on Muslim personal law, Islamic finance, halal, waqf, or zakat |
@@ -574,7 +582,7 @@ Before relying on your Shari'ah research, confirm:
 
 [^14]: Republic Act No. 11054, Article X, Section 4.
 
-[^15]: Bangsamoro Shari'ah Legislation Framework, as cited in the Bill Drafting Guidebook for the Bangsamoro Parliament, 3rd ed. (Cotabato City: Bangsamoro Parliament, 2026), Chapter 1, Section 1.4.
+[^15]: The Bangsamoro Shari'ah Legislation Framework is a research document analyzing the BOL's mandate for Shari'ah mainstreaming. Its claims require verification against BOL Art. X and PD 1083 — it is not an enacted law or official government issuance.
 
 [^16]: Bangsamoro Shari'ah Legislation Framework, "Nested Sovereignty" concept.
 

@@ -1,11 +1,11 @@
 # Video Transcript Index
 
-**Total**: 133 transcripts
-**Updated**: 2026-03-29
+**Total**: 141 transcripts
+**Updated**: 2026-03-31
 
 ---
 
-## ai-claude-code/ (27)
+## ai-claude-code/ (29)
 
 | Video ID | Title | File |
 |----------|-------|------|
@@ -35,9 +35,11 @@
 | 9VNG0h4pLh0 | Never Trust An LLM | 260328-0441-never-trust-an-llm.md |
 | v-3iRJ_lMLY | One Prompt Change That Forces Claude to Be Honest | 260329-1457-one-prompt-change-that-forces-claude-to-be-honest.md |
 | UPtmKh1vMN8 | CLAUDE CODE ADVANCED COURSE — 3 HOURS | 260329-1510-claude-code-advanced-course-3-hours.md |
+| phuyYL0L7AA | Claude Code + Firecrawl = UNLIMITED Web Scraping | 260330-1509-claude-code-firecrawl-unlimited-web-scraping.md |
+| nAZdk1d_QzU | DeepSeek V4 Benchmarks LEAKED + Claude Code Computer Use + OpenAI's Codex Plugin! | 260331-1231-deepseek-v4-benchmarks-leaked-claude-code-computer-use-openai-codex-plugin.md |
 | n/a | Claude Code -- Application Guide | AI-Claude-Code-GUIDE.md |
 
-## ai-claude-cowork/ (9)
+## ai-claude-cowork/ (12)
 
 | Video ID | Title | File |
 |----------|-------|------|
@@ -49,6 +51,9 @@
 | P1yJcMV8o90 | Claude AI Crash Course: From Beginner to Building AI Tools (with Projects) | 260324-1601-claude-ai-crash-course-from-beginner-to-building-ai-tools-with-projects.md |
 | C9gKWTzRukM | Claude COWORK Full Course: Zero To Working AI Employee (2026) | 260324-1610-claude-cowork-full-course-zero-to-working-ai-employee-2026.md |
 | qo4YZvC1q5I | How I use Claude Cowork + Obsidian To Run my Life | 260324-2207-how-i-use-claude-cowork-obsidian-to-run-my-life.md |
+| NF10evwkefM | Claude Dispatch Just Dropped, And It Kills OpenClaw | 260329-2003-claude-dispatch-just-dropped-and-it-kills-openclaw.md |
+| bC_0h1C7or4 | Claude DESTROYS OpenClaw, Here's Why... | 260329-2003-claude-destroys-openclaw-heres-why.md |
+| pC_GpRbDQJ4 | Claude Dispatch Just Killed OpenClaw! (FULL GUIDE) | 260329-2003-claude-dispatch-just-killed-openclaw-full-guide.md |
 | n/a | Claude Cowork -- Application Guide | AI-Claude-Cowork-GUIDE.md |
 
 ## ai-design/ (7)
@@ -63,12 +68,15 @@
 | rrsHKGSyXm4 | Claude Code + Stitch Is The Greatest AI Design System I've Ever Used! (RIP  FIGMA) | 260323-1502-claude-code-stitch-is-the-greatest-ai-design-system.md |
 | n/a | AI Design Tools — Application Guide | AI-Design-GUIDE.md |
 
-## ai-engineering/ (2)
+## ai-engineering/ (5)
 
 | Video ID | Title | File |
 |----------|-------|------|
 | mnsDx7HDwls | 5 Insane Claude Cowork Dispatch Use Cases (Steal Them) | 260324-1059-5-insane-claude-cowork-dispatch-use-cases-steal-them.md |
 | dwYfNQzHQuY | Claude Now Controls Your Entire Computer... It's WILD | 260324-1128-claude-now-controls-your-entire-computer-its-wild.md |
+| OV5eK91YY68 | I gave OpenClaw one job: go viral (it worked?) | 260329-1954-i-gave-openclaw-one-job-go-viral-it-worked.md |
+| adRh-xeijgk | GLM-5.1 MYTHOS: This CRAZY GLM-5.1 Setup is INSANITY! | 260329-1903-glm-5-1-mythos-crazy-setup.md |
+| yuaBPLNdNSU | Turn Antigravity Into AN AI Autonomous Engineering Team! | 260330-1550-turn-antigravity-into-ai-autonomous-engineering-team.md |
 
 ## bangsamoro-governance/ (5)
 

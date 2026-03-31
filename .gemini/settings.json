@@ -1,0 +1,9 @@
+{
+  "description": "Gemini CLI settings for the transcriptions repository",
+  "skills_dir": ".gemini/skills",
+  "notes": {
+    "migrated_from": "Claude Code settings.local.json",
+    "migration_date": "2026-03-30",
+    "hooks_note": "The guidebook violations check script is at .gemini/hooks/check-guidebook-violations.sh — run manually after editing guidebook files"
+  }
+}

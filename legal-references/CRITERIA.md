@@ -110,7 +110,7 @@ Rate each entry 1-5 on these dimensions. Target: average 4+ across all dimension
 | 2 | Q&A exists but answers are generic, don't quote the law, or miss major themes |
 | 3 | All 5 themes (A-E) present with Q&A pairs; most answers cite specific provisions; 800-1,000 words |
 | 4 | Bar reviewer quality: every answer quotes or closely tracks the language of the law; a reader can look up any specific question and find a direct answer with inline citations; all ~17 Q&A pairs present; 1,000-1,500 words |
-| 5 | Publication-grade Bernas/Golden Notes quality: answers are near-verbatim statutory language with case citations where available; legislative gap answers name specific proposed laws with coverage details; a law student or parliamentary researcher can use this as a study reviewer for this power area; 1,500-2,000 words |
+| 5 | Publication-grade quality: answers are near-verbatim statutory language with case citations where available; legislative gap answers name specific proposed laws with coverage details; a law student or parliamentary researcher can use this as a study reviewer for this power area; 1,500-2,000 words |
 
 ---
 

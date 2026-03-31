@@ -59,6 +59,18 @@
   @top-center { content: none; }
 }
 
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -289,6 +301,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -306,6 +319,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -327,6 +341,11 @@ body {
 /* --- CHAPTER CONTENT --- */
 .chapter h1:first-child {
   display: none;
+}
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
 }
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
@@ -955,9 +974,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Members&nbsp;of&nbsp;Parliament,<br>Parliamentary and Legislative Staff, Bill Drafters, and Consultants</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Parliament</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1297,6 +1314,11 @@ table.allow-break tr {
 <p>Every provision cited from the Bangsamoro Organic Law (Republic Act No. 11054) and Resolution No. 268 (the Rules, Procedures, and Practices of the Bangsamoro Parliament) has been quoted verbatim from the source text. The drafting principles and style rules reflect established legislative drafting practice adapted to the specific context of Bangsamoro governance, Shari&rsquo;ah considerations, and the parliamentary system established under the BOL.</p>
 <p>This guidebook is grounded in empirical analysis of all 89 enacted Bangsamoro Autonomy Acts and 556 adopted resolutions of the Bangsamoro Parliament. Where previous editions relied on general legislative drafting principles, this edition draws its examples, clause templates, and style guidance from the actual body of Bangsamoro law. The patterns, inconsistencies, and best practices identified through that analysis inform every chapter.</p>
 <p>This guidebook is written to be timeless. It applies equally to the Bangsamoro Transition Authority Parliament and to the elected Bangsamoro Parliament that will follow. Where procedures or conventions are specific to the transition period, the text says so. In all other respects, the guidance here is intended to serve any drafter working under the Bangsamoro Organic Law, regardless of when they read it.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for legislative research compilation, cross-referencing across the 89 enacted BAAs and 556 adopted resolutions, first-draft generation, consistency checking against the BOL, and fact-checking against known error patterns.</p>
+<p>AI did not design the drafting methodology. The bill drafting stages, the legislative research process, the style rules, the Shari&rsquo;ah checkpoint, and every substantive recommendation in this guidebook come from the author&rsquo;s direct experience in the Bangsamoro Parliament — drafting bills, preparing legislative briefers, and working within the parliamentary process. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited in this guidebook was verified by the author against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. Every clause template was validated against actual enacted legislation. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work — including the verification methodology, disclosure practices, and ethical principles that governed the production of this guidebook — see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 </div>
 
 <div class="frontmatter-page" id="00c-author">
@@ -1578,6 +1600,49 @@ table.allow-break tr {
 <li>The <strong>due process</strong> and <strong>equal protection</strong> clauses (Article III, Sections 1 and 2)<sup id="fnref:21"><a class="footnote-ref" href="#fn:21">30</a></sup> apply to all Bangsamoro legislation just as they apply to national legislation.</li>
 </ul>
 <p>When you draft a bill, run it against the Constitution first. If a provision restricts a constitutional right, you need a compelling basis in the BOL or the Constitution itself. If a provision creates a classification (this group gets a benefit; that group does not), you need a rational basis for the distinction.</p>
+<h3 id="121a-constitutional-analysis-checklist-for-drafters">1.2.1.A Constitutional Analysis Checklist for Drafters</h3>
+<p>Before drafting any bill, apply this checklist to identify constitutional constraints. The full Constitutional Analysis Framework is in the Legal Research Guidebook, Chapter 4.</p>
+<p><strong>Step 1: Identify the Constitutional Floor</strong></p>
+<p>What is the minimum standard the Constitution requires for this subject area? The constitutional floor is the level below which no legislation — national or Bangsamoro — may go.</p>
+<ul>
+<li>&#9744; Which constitutional article governs this subject? (Art. XII for economy, Art. XIII for social justice, Art. XIV for education, Art. III for rights)</li>
+<li>&#9744; Does the Constitution mandate &ldquo;Congress shall&hellip;&rdquo; legislation for this area? If so, does a national law already implement it? That law carries constitutional weight.</li>
+<li>&#9744; What state policies (Art. II) apply? These guide interpretation even if not self-executing.</li>
+</ul>
+<p><strong>Step 2: Equal Protection Test</strong></p>
+<p>If this bill creates standards different from national law:</p>
+<ul>
+<li>&#9744; Does the BOL expressly authorize this differentiation? (e.g., BOL mandates a &ldquo;Bangsamoro cooperative code&rdquo; — congressional authorization for different standards)</li>
+<li>&#9744; Do the different standards rest on <strong>substantial distinctions</strong> germane to the purpose of the law? (BARMM&rsquo;s conflict-affected context, Islamic finance traditions, cultural practices)</li>
+<li>&#9744; Would a cooperative member / worker / student in BARMM lose protections they would have under national law? If yes — is this loss justified by a substantial distinction, or is it arbitrary?</li>
+</ul>
+<p><strong>Step 3: Due Process Test</strong></p>
+<p>If this bill creates enforcement provisions (penalties, suspension, dissolution, licensing):</p>
+<ul>
+<li>&#9744; <strong>Substantive</strong>: Does each regulatory provision have a rational relationship to a legitimate government purpose? (Not arbitrary or oppressive)</li>
+<li>&#9744; <strong>Procedural</strong>: Does the bill provide notice, hearing, and right to appeal before adverse action? (<em>Ang Tibay v. CIR</em> seven requirements)</li>
+<li>&#9744; Are penalty provisions proportional to the violation?</li>
+</ul>
+<p><strong>Step 4: Shari&rsquo;ah Checkpoint</strong></p>
+<ul>
+<li>&#9744; Does this bill&rsquo;s subject matter have a Shari&rsquo;ah dimension? (See Legal Research Guidebook, Chapter 9)</li>
+<li>&#9744; If yes: does the bill accommodate Shari&rsquo;ah-compliant alternatives (optional dual-track)?</li>
+<li>&#9744; Does the bill comply with the Constitution&rsquo;s supremacy over Shari&rsquo;ah? (No Shari&rsquo;ah provision may override the Bill of Rights)</li>
+</ul>
+<p><strong>Step 5: Constitutional Vulnerability Assessment</strong></p>
+<ul>
+<li>&#9744; Does the bill contain any of these red flags? (See Legal Research Guidebook, Section 4.10)</li>
+<li>Creates criminal liability for conduct protected by the Bill of Rights</li>
+<li>Restricts a fundamental right without compelling state interest</li>
+<li>Applies retroactively to disadvantage persons who acted under previous law</li>
+<li>Delegates legislative power without sufficient standards</li>
+<li>Creates an unreasonable classification (equal protection)</li>
+<li>Imposes a penalty without due process safeguards</li>
+<li>&#9744; If red flags exist: can the provision be rewritten using a &ldquo;saving construction&rdquo; that preserves constitutionality?</li>
+</ul>
+<blockquote>
+<p><strong>Cross-reference:</strong> For the full constitutional analysis methodology including worked examples (cooperatives, education, civil service), see the Legal Research Guidebook for the Bangsamoro Government, Chapter 4 — &ldquo;The 1987 Philippine Constitution: Research and Analysis.&rdquo;</p>
+</blockquote>
 <h3 id="122-the-bangsamoro-organic-law-republic-act-no-11054">1.2.2 The Bangsamoro Organic Law (Republic Act No. 11054)</h3>
 <p>The BOL is the second layer. It is the source of the Parliament&rsquo;s authority, and it also limits that authority. A BAA may not contradict the BOL. If the BOL requires something — that every bill embrace only one subject, for instance — the BAA must comply.</p>
 <p>The BOL also contains substantive mandates that constrain your drafting. For example:</p>
@@ -1589,7 +1654,7 @@ table.allow-break tr {
 <p>Treat the BOL as your drafting constitution. Before you write any provision that touches a subject covered by the BOL, read the relevant BOL provisions. If your bill is consistent with them, proceed. If it is not, revise the bill — not the BOL.</p>
 <h3 id="123-national-laws-and-their-implementing-rules-and-regulations">1.2.3 National Laws and Their Implementing Rules and Regulations</h3>
 <p>National laws enacted by Congress occupy the third layer. The relationship between national law and Bangsamoro law is not a simple hierarchy — it depends on the subject matter.</p>
-<p>The BOL enumerates 55 exclusive powers of the Bangsamoro Government (Article V, Section 2). In those areas, the Parliament has primary legislative responsibility. However, the BOL also specifies particular areas where Bangsamoro legislation must be consistent with national law:</p>
+<p>The BOL enumerates 55 powers of the Bangsamoro Government (Article V, Section 2). In those areas, the Parliament has primary legislative responsibility. However, the BOL also specifies particular areas where Bangsamoro legislation must be consistent with national law:</p>
 <ul>
 <li><strong>Civil service:</strong> The Bangsamoro civil service law must be &ldquo;in accordance with existing national laws&rdquo; and &ldquo;in case of conflict with the national laws, the Constitution and existing national civil service laws, rules, and regulations shall prevail&rdquo; (Article VII, Section 39).<sup id="fnref:natlaw1"><a class="footnote-ref" href="#fn:natlaw1">1</a></sup></li>
 <li><strong>Budget:</strong> The budget must be &ldquo;consistent with existing laws, rules and regulations of the National Government&rdquo; (Article VII, Section 28).<sup id="fnref:natlaw2"><a class="footnote-ref" href="#fn:natlaw2">2</a></sup></li>
@@ -1651,13 +1716,57 @@ table.allow-break tr {
 <li><strong>The BOL prevails over BAAs.</strong> If a BAA contradicts a provision of the BOL, the BOL controls.</li>
 <li><strong>National laws and BAAs: it depends on the area.</strong></li>
 <li><strong>Where the BOL specifically requires consistency with national law, national law prevails.</strong> The BOL does this for specific areas: civil service law must be &ldquo;in accordance with existing national laws&rdquo; and &ldquo;in case of conflict&hellip; existing national civil service laws&hellip; shall prevail&rdquo; (Article VII, Section 39);<sup id="fnref:conflict1"><a class="footnote-ref" href="#fn:conflict1">5</a></sup> the budget must be &ldquo;consistent with existing laws, rules and regulations of the National Government&rdquo; (Article VII, Section 28);<sup id="fnref:conflict2"><a class="footnote-ref" href="#fn:conflict2">6</a></sup> the electoral system must be &ldquo;consistent with national election laws&rdquo; (Article IV, Section 4);<sup id="fnref:conflict3"><a class="footnote-ref" href="#fn:conflict3">7</a></sup> COA remains the exclusive auditor (Article XII, Section 2); indigenous peoples&rsquo; rights under RA 8371 &ldquo;shall not be diminished&rdquo; (Article IX, Section 3);<sup id="fnref:conflict4"><a class="footnote-ref" href="#fn:conflict4">8</a></sup> the Shari&rsquo;ah court system is &ldquo;subject to the supervision of the Supreme Court&rdquo; (Article X, Section 2); and uranium and fossil fuels &ldquo;may be co-managed and the revenues shared equally between the National Government and Bangsamoro Government&rdquo; (Article XII, Section 34).</li>
-<li><strong>Where the BOL grants exclusive powers (Article V, Section 2) and is silent on national law applicability</strong>, the Parliament has primary legislative competence. In these areas, BAAs govern.</li>
+<li><strong>Where the BOL enumerates a power (Article V, Section 2) and is silent on national law applicability</strong>, the Parliament has primary legislative competence. In these areas, BAAs govern.</li>
 <li><strong>Residual powers</strong> — powers not granted to BARMM — remain with the National Government (Article V, Section 1).<sup id="fnref:conflict5"><a class="footnote-ref" href="#fn:conflict5">9</a></sup></li>
 <li><strong>BAAs prevail over executive issuances.</strong> An executive order, administrative order, or memorandum circular cannot contradict the BAA it implements.</li>
 <li><strong>Jurisprudence provides binding interpretation</strong> of all the above sources. Supreme Court decisions define the boundaries of regional authority.</li>
 </ol>
 <p><strong>Important clarification:</strong> Article VII, Section 39 — the provision stating that &ldquo;existing national civil service laws&hellip; shall prevail&rdquo; — is <strong>specific to civil service law</strong>. It is not a blanket rule that national law always prevails over Bangsamoro law. Each area must be analyzed individually based on whether the BOL requires national law consistency in that area.</p>
-<p><strong>What this means for drafters:</strong> For each legal provision in your bill, determine whether the BOL requires consistency with national law in that area. If it does (civil service, budget, elections, audit, indigenous peoples), your bill must comply with both the BAA and the applicable national law. If the BOL grants exclusive authority and is silent on national law, the BAA governs. When in doubt, err on the side of consistency with national law — it is always safer to comply than to assume exclusivity.</p>
+<p><strong>The 5 types of BOL conformity language.</strong> The provisions listed in Rule 4 above are representative, not exhaustive. An exhaustive scan of all 18 BOL articles identifies <strong>126 constraining provisions</strong> using five distinct types of conformity language, each with different legal effects:</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Count</th>
+<th>Effect</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>&ldquo;Shall prevail&rdquo;</strong></td>
+<td>11</td>
+<td>National law overrides any conflicting BAA</td>
+<td>Art. VII, Sec. 39 (civil service)</td>
+</tr>
+<tr>
+<td><strong>&ldquo;Shall conform&rdquo; / minimum standards</strong></td>
+<td>7</td>
+<td>Must meet or exceed national minimums</td>
+<td>Art. IX, Sec. 16 (education: &ldquo;conform to minimum standards&rdquo;)</td>
+</tr>
+<tr>
+<td><strong>&ldquo;Consistent with&rdquo;</strong></td>
+<td>33</td>
+<td>Framework alignment required</td>
+<td>Art. VII, Sec. 28 (budget)</td>
+</tr>
+<tr>
+<td><strong>Institutional retention</strong></td>
+<td>47</td>
+<td>National agency keeps jurisdiction</td>
+<td>Art. XII, Sec. 2 (COA exclusive auditor)</td>
+</tr>
+<tr>
+<td><strong>&ldquo;Shall not diminish&rdquo;</strong></td>
+<td>8</td>
+<td>Existing rights locked as floor</td>
+<td>Art. IX, Sec. 3 (IP rights)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What this means for drafters:</strong> For each provision in your bill, check the relevant BOL article for conformity language. The type of language determines how much room the drafter has. &ldquo;Shall prevail&rdquo; means no room — national law controls absolutely. &ldquo;Shall conform&rdquo; means you can go above national minimums but not below. &ldquo;Consistent with&rdquo; means the bill must not contradict the national framework but can adapt within it. Institutional retention means you cannot displace the national agency. &ldquo;Shall not diminish&rdquo; means you can add rights but never remove existing ones.</p>
+<p>If the BOL is silent on national law for a given power (approximately 20 of the 55 — cooperatives, housing, culture, solid waste, humanitarian services, etc.), the BAA governs and the drafter has the widest latitude.</p>
 <hr>
 <h2 id="13-scope-and-limitations-of-bangsamoro-legislative-power">1.3 Scope and Limitations of Bangsamoro Legislative Power</h2>
 <p>This section is the drafter&rsquo;s map. It tells you where the Parliament&rsquo;s authority reaches and where it stops. Read it carefully. Refer back to it whenever a proposed bill raises jurisdictional questions — and many will.</p>
@@ -1785,19 +1894,27 @@ table.allow-break tr {
 <p>The Parliament may create <em>parliamentary</em> districts — these are distinct from <em>legislative</em> (congressional) districts. But the line between redistricting for parliamentary purposes and creating what amounts to a legislative district has proven contentious, as the Supreme Court&rsquo;s decisions on BAA 77 and BAA 58 demonstrate.</p>
 <p><strong>Watch for &ldquo;floor&rdquo; provisions.</strong> The BOL contains several provisions that set floors rather than ceilings. Article VI, Section 10 says that privileges already enjoyed by LGUs under the Local Government Code &ldquo;shall not be diminished.&rdquo; This means a BAA can give LGUs <em>more</em> authority or <em>more</em> resources — but never less. When your bill regulates local government operations, check it against the LGC floor.</p>
 <h3 id="135-judicial-doctrines-affecting-bangsamoro-legislation">1.3.5 Judicial Doctrines Affecting Bangsamoro Legislation</h3>
-<p>Two recent Supreme Court decisions have reshaped the boundaries of Bangsamoro legislative power. Every drafter should know them.</p>
+<p>Three recent Supreme Court decisions have reshaped the boundaries of Bangsamoro legislative power. Every drafter should know them.</p>
 <p><strong>Province of Sulu v. Medialdea (G.R. Nos. 242255, 243246, 243693) — September 9, 2024</strong><sup id="fnref:35"><a class="footnote-ref" href="#fn:35">44</a></sup></p>
 <p>This case challenged the inclusion of Sulu in the Bangsamoro Autonomous Region. The Province of Sulu voted against ratification of the BOL in the 2019 plebiscite — 54.3% voted &ldquo;No.&rdquo; Despite this, the COMELEC initially counted Sulu as part of the BARMM because the overall vote in the combined ARMM territory favored ratification.</p>
 <p>The Supreme Court ruled that Sulu is not part of the Bangsamoro Autonomous Region. The Court held that Article X, Section 18 of the Constitution<sup id="fnref:36"><a class="footnote-ref" href="#fn:36">45</a></sup> requires that &ldquo;only the provinces, cities, and geographic areas voting favorably&rdquo; shall be included in the autonomous region. Since Sulu voted against the BOL, it could not be compelled to join.</p>
 <p>The Court upheld the BOL itself as constitutional but applied the <strong>doctrine of operative fact</strong> — all acts performed by the Bangsamoro Government in Sulu before the decision were presumed valid.</p>
 <p>The ruling became final on November 26, 2024. President Marcos subsequently issued Executive Order No. 91 (July 30, 2025),<sup id="fnref:37"><a class="footnote-ref" href="#fn:37">46</a></sup> realigning Sulu under Region IX (Zamboanga Peninsula).</p>
 <p><strong>What this means for the drafter:</strong> The Bangsamoro Parliament has no legislative authority over Sulu. BAAs do not apply there. When you draft a bill, do not include Sulu in the territorial scope. The current BTA has 77 members, not 80, because the three Sulu seats were eliminated. Any bill that defines geographic coverage of a program or institution should reference the current territorial composition of the BARMM, which excludes Sulu.</p>
-<p><strong>Ali et al. v. BTA (G.R. No. E-02219) and Macapaar et al. v. COMELEC (G.R. No. E-02235) — October 1, 2025 and September 30, 2025</strong><sup id="fnref:38"><a class="footnote-ref" href="#fn:38">47</a></sup></p>
+<p><strong>Sinsuat v. Ebrahim (G.R. No. 271741) — 2024</strong></p>
+<p>This case challenged BAAs 53, 54, and 55 — the BTA&rsquo;s municipality creation acts. The Supreme Court declared them partially unconstitutional, holding that plebiscites for creating new municipalities must include voters from the parent municipality. The BTA&rsquo;s plebiscite design had excluded affected constituents, violating the constitutional requirement that creation &ldquo;shall not be made unless approved by a majority of the votes cast in a plebiscite in the political units directly affected&rdquo; (Art. X, Sec. 10).</p>
+<p><strong>What this means for the drafter:</strong> Even when the BOL grants the power to create municipalities (Art. V, Sec. 2(l)), the bill must comply with constitutional plebiscite requirements AND the LGC criteria the BOL itself requires (&ldquo;criteria laid down in RA 7160&hellip;shall be satisfied&rdquo; — Art. VI, Sec. 10). This is a concrete example of the 5-layer constraint framework: the constitutional floor (Layer 1) plus the BOL&rsquo;s own minimum standards requirement (Layer 3) together constrain how the enumerated power can be exercised.</p>
+<p><strong>Ali et al. v. BTA (G.R. No. E-02219) and Macapaar et al. v. COMELEC (G.R. No. E-02235) — September 30, 2025</strong><sup id="fnref:38"><a class="footnote-ref" href="#fn:38">47</a></sup></p>
 <p>These consolidated cases challenged BAA 77 and BAA 58, the BTA&rsquo;s two attempts at redistricting. The Supreme Court declared both BAAs unconstitutional.</p>
 <p>BAA 58 was the first redistricting law enacted by the BTA. BAA 77 replaced it. Both attempted to define parliamentary districts for the first Bangsamoro elections. The Supreme Court found constitutional defects in the redistricting — the specific grounds involved the standards for redistricting, population requirements, and the boundaries drawn.</p>
+<p><strong>The divergence holding.</strong> Beyond the redistricting issue, the Court articulated the definitive judicial statement on BARMM legislative authority:</p>
+<blockquote>
+<p><em>&ldquo;While Congress may establish autonomous regions and grant them legislative authority, such authority must always operate within the bounds of the Constitution and national statutes.&rdquo;</em></p>
+</blockquote>
+<p>The Court described this as <strong>&ldquo;clear and categorical.&rdquo;</strong> This means that every BOL conformity provision — all 126 &ldquo;shall prevail,&rdquo; &ldquo;shall conform,&rdquo; &ldquo;consistent with,&rdquo; institutional retention, and &ldquo;shall not diminish&rdquo; provisions — carries judicial enforcement weight. A BAA that contradicts any of these is constitutionally vulnerable.</p>
 <p>The BTA responded by enacting BAA 86 on January 20, 2026. BAA 86 established 32 single-member parliamentary districts: Lanao del Sur (9), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), and the Special Geographic Area (2).</p>
 <p><strong>What this means for the drafter:</strong> The Supreme Court is actively reviewing Bangsamoro legislation. The Court will strike down BAAs that exceed the Parliament&rsquo;s authority or fail to comply with constitutional standards. When you draft a bill that touches sensitive constitutional territory — redistricting, taxation, property rights, the creation or alteration of political boundaries — take extra care. Research whether the Supreme Court has addressed similar issues. Build your constitutional arguments into the bill&rsquo;s framework from the start.</p>
-<p>These two decisions also reinforce a broader point: Bangsamoro legislative power, while substantial, is subject to judicial review. The Supreme Court has jurisdiction over all Bangsamoro legislation, and it will exercise that jurisdiction when asked.</p>
+<p>These three decisions reinforce a broader point: Bangsamoro legislative power, while substantial, is subject to judicial review. The Supreme Court has jurisdiction over all Bangsamoro legislation, and it will exercise that jurisdiction when asked. The &ldquo;clear and categorical&rdquo; language from <em>Ali v. BTA</em> means the drafter must treat every BOL conformity provision as an enforceable constraint — not as aspirational language.</p>
 <h3 id="136-what-this-means-for-the-drafter">1.3.6 What This Means for the Drafter</h3>
 <p>Pull these threads together, and you have a practical framework for assessing any proposed bill:</p>
 <p><strong>Step 1 — Check the enumerated powers.</strong> Does the bill fall within one of the fifty-five subjects listed in Article V, Section 2? If yes, the Parliament has primary authority. Identify the specific item.</p>
@@ -1805,7 +1922,7 @@ table.allow-break tr {
 <p><strong>Step 3 — Apply the residual clause.</strong> If neither Step 1 nor Step 2 yields authority, the residual clause of Article V, Section 1 applies. The power belongs to the National Government. Stop drafting. Advise the requesting Member or committee that the subject is outside the Parliament&rsquo;s competence.</p>
 <p><strong>Step 4 — Check for constitutional limits.</strong> Even if the Parliament has authority, the Constitution still applies. Does the bill comply with the Bill of Rights? Does it respect due process and equal protection? Does it comply with constitutional requirements for organic legislation (Article X)?</p>
 <p><strong>Step 5 — Check for conflicts with the BOL.</strong> Does the bill conflict with any substantive provision of the BOL? Does it comply with the procedural requirements (one-subject rule, three-readings rule)?</p>
-<p><strong>Step 6 — Check for conflicts with national law.</strong> Does the bill touch an area where national law also applies? If so, is the bill consistent with national law, or does it conflict? If there is a conflict, which law prevails — and how can you draft the bill to avoid the conflict altogether?</p>
+<p><strong>Step 6 — Check for BOL conformity language and national law conflicts.</strong> Search the relevant BOL article for &ldquo;shall prevail,&rdquo; &ldquo;shall conform,&rdquo; &ldquo;consistent with,&rdquo; institutional retention, or &ldquo;shall not diminish&rdquo; language. The type of conformity language determines how much room your bill has to depart from national standards. If conformity language exists, your bill must comply. If the BOL is silent, the BAA governs. When there is a conflict between a proposed provision and national law, determine which law prevails based on the conformity type — and draft to avoid the conflict altogether.</p>
 <p><strong>Step 7 — Check for conflicts with existing BAAs.</strong> Does the bill conflict with an existing BAA, including the priority codes? If so, draft an express amendment or repealing clause.</p>
 <p><strong>Step 8 — Consider judicial precedent.</strong> Has the Supreme Court addressed the subject? Are there existing rulings — like <em>Province of Sulu v. Medialdea</em> or <em>Ali et al. v. BTA</em> — that affect the analysis?</p>
 <p>This eight-step framework is not a checklist you fill out once and file away. It is a way of thinking about every bill you draft. The best drafters run this analysis instinctively. Until it becomes instinct, run it deliberately.</p>
@@ -2330,19 +2447,26 @@ table.allow-break tr {
 <p>This might seem overly formal for a small legislative staff, but it serves two purposes. First, it prevents scope creep. Without a documented starting point, the bill&rsquo;s direction can drift as different staff members add their own interpretations. Second, it creates accountability. If the bill eventually diverges from the original intent — for good reasons discovered during research — you can point back to the template and explain why.</p>
 <p>The approval does not need to be elaborate. A signed copy of the template, an email confirmation, or even a note in the office records will do. The point is to have a clear &ldquo;go&rdquo; signal before moving to Stage 2.</p>
 <hr>
+<blockquote>
+<p><strong>AI in Practice</strong></p>
+<p>Stage 2 is where AI provides the most value in the entire bill drafting process. AI can search the full legislative archive — 11,866 RAs, 89 BAAs, 2,572 EOs, 38,857 SC decisions — in minutes, building comparative matrices and extracting verbatim provisions that would take a human researcher days.</p>
+<p><strong>What AI does:</strong> Executes the 5-step legal research methodology, builds the Research Memorandum, and drafts the Legislative Research Briefer structure.
+<strong>What you do:</strong> Formulate the research question, apply the National Law Relationship Test, verify every provision AI extracts against the source text, and form all legal conclusions. Legislative intent is yours — AI cannot determine what the bill should achieve.
+<strong>Watch for:</strong> AI frequently cites wrong BOL article numbers and invents BAA numbers. Every citation must be verified against the source document before it enters the briefer.</p>
+</blockquote>
 <h2 id="23-stage-2-legislative-research">2.3 Stage 2 — Legislative Research</h2>
 <p>Research is the foundation of a strong bill. You may be tempted to jump straight into drafting — especially if the MP is impatient or the timeline is tight — but a bill written without thorough research is a bill that will be picked apart in committee, challenged on constitutional grounds, or rendered unimplementable by conflicting provisions in existing law.</p>
 <p>This stage has four parts: gathering legislative requirements, working with the Parliament&rsquo;s research arm, conducting your own policy and legal research, and preparing a Legislative Research Briefer that captures everything you found.</p>
 <h3 id="231-gathering-legislative-requirements">2.3.1 Gathering Legislative Requirements</h3>
 <p>Before diving into databases and statute books, step back and define what you need to know. Based on the Initial Legislative Template, identify your research questions:</p>
 <ul>
-<li><strong>Constitutional and BOL questions:</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> Does the Bangsamoro Government have the power to legislate on this subject matter? Is the subject within the exclusive powers listed in the BOL, or is it a shared or concurrent power with the national government? Are there constitutional limits?</li>
+<li><strong>Constitutional and BOL questions:</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> Does the Bangsamoro Government have the power to legislate on this subject matter? Is the subject within the 55 enumerated powers in BOL Art. V, Sec. 2? Does the BOL require national law consistency for this subject? Are there constitutional limits?</li>
 <li><strong>Existing law questions:</strong> What national laws already cover this area? What Bangsamoro Autonomy Acts (BAAs) are already in force? Are there implementing rules and regulations (IRRs) that add detail to those laws? Do any local government ordinances within the BARMM touch on this subject?</li>
 <li><strong>Policy questions:</strong> What do experts, practitioners, and affected communities say about this problem? Are there research studies, policy papers, or international models relevant to the proposal?</li>
 <li><strong>Budget and implementation questions:</strong> How much will this cost? Which agencies will implement it? Do those agencies have the capacity?</li>
 <li><strong>Shari&rsquo;ah and gender questions:</strong> Does the bill intersect with Islamic law? Does it affect men and women differently?</li>
 </ul>
-<p>Write these questions down. They become your research checklist. Each question should be answerable — &ldquo;Does the Bangsamoro Parliament have exclusive power to legislate on IDP protection?&rdquo; is answerable. &ldquo;What is the best approach to IDP protection?&rdquo; is too broad. Break broad questions into smaller, specific ones that your research can actually resolve.</p>
+<p>Write these questions down. They become your research checklist. Each question should be answerable — &ldquo;Does the Bangsamoro Parliament have the enumerated power to legislate on IDP protection?&rdquo; is answerable. &ldquo;What is the best approach to IDP protection?&rdquo; is too broad. Break broad questions into smaller, specific ones that your research can actually resolve.</p>
 <p>The checklist also helps you recognize when you have enough information to stop researching and start drafting. Research can become a form of procrastination — there is always one more study to read, one more law to check. Your research questions define the finish line.</p>
 <h3 id="232-working-with-the-policy-research-and-legal-services-prls">2.3.2 Working with the Policy Research and Legal Services (PRLS)</h3>
 <p>The <strong>Policy Research and Legal Services (PRLS)</strong> is the Parliament&rsquo;s institutional research arm. It exists to support all MP offices with legislative research, legal analysis, and policy review. You do not have to do everything yourself — and you should not try to.</p>
@@ -2365,7 +2489,7 @@ table.allow-break tr {
 <h3 id="233-conducting-policy-and-legal-research">2.3.3 Conducting Policy and Legal Research</h3>
 <p>While the PRLS handles its part, you conduct your own research in parallel. Your research follows the hierarchy of laws established in Chapter 1 — starting from the top and working down.</p>
 <p><strong>Step 1: The 1987 Philippine Constitution</strong></p>
-<p>Start here. Check whether the subject matter falls within the national government&rsquo;s reserved powers or the Bangsamoro Government&rsquo;s exclusive and concurrent powers. Key provisions include:</p>
+<p>Start here. Apply the National Law Relationship Test: Is the subject within the 55 enumerated powers (Art. V, Sec. 2)? Does the BOL require national law consistency? Or is it a residual national power? Key provisions include:</p>
 <ul>
 <li>Article X (Local Government),<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> which provides the constitutional basis for autonomous regions</li>
 <li>Article II (Declaration of Principles and State Policies), which may contain relevant policy mandates</li>
@@ -2375,7 +2499,7 @@ table.allow-break tr {
 <p><strong>Step 2: Republic Act No. 11054 — The Bangsamoro Organic Law (BOL)</strong></p>
 <p>The BOL is your primary reference for determining what the Bangsamoro Parliament can and cannot do. Check:</p>
 <ul>
-<li><strong>Article V (Powers of Government)</strong><sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> — Is the subject in the list of exclusive powers (Section 2)? Does the general welfare clause (Section 3) apply?</li>
+<li><strong>Article V (Powers of Government)</strong><sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> — Is the subject in the 55 enumerated powers (Section 2)? Does the general welfare clause (Section 3) apply?</li>
 <li><strong>Article VI (Intergovernmental Relations)</strong><sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> — Does the bill touch an area of shared jurisdiction between the Bangsamoro Government and the National Government?</li>
 <li><strong>Article VII (The Bangsamoro Government)</strong> and <strong>Article VIII (Wali)</strong> — Are there structural requirements or limitations that affect the bill?</li>
 <li><strong>Article IX (Basic Rights)</strong><sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup> — Does the bill affect any of the rights guaranteed under the BOL?</li>
@@ -2419,7 +2543,7 @@ table.allow-break tr {
 <p><strong>Step 1: Issue Analysis.</strong> Before searching any law, frame the legal question precisely. Identify:</p>
 <ul>
 <li>What legal question does this bill raise? (e.g., &ldquo;Does Parliament have the authority to regulate digital commerce within BARMM?&rdquo;)</li>
-<li>Which jurisdiction applies — BARMM exclusive powers, concurrent with national, or national reserved?</li>
+<li>Which jurisdiction applies — enumerated power (no NL consistency required), NL consistency required, or residual national power?</li>
 <li>What search terms will you use? (Include synonyms: &ldquo;digital commerce&rdquo; / &ldquo;e-commerce&rdquo; / &ldquo;electronic transactions&rdquo; / &ldquo;online business&rdquo;)</li>
 <li>Which tiers of the legal hierarchy are most likely to be relevant?</li>
 </ul>
@@ -2484,7 +2608,7 @@ table.allow-break tr {
 <td>2</td>
 <td>BOL (RA 11054)</td>
 <td>Art. V, Sec. 2(d)</td>
-<td>Exclusive power: creation of sources of revenues</td>
+<td>Enumerated power: creation of sources of revenues</td>
 <td>In force</td>
 </tr>
 <tr>
@@ -2521,7 +2645,7 @@ table.allow-break tr {
 <h4 id="2343-policy-and-legal-analysis">2.3.4.3 Policy and Legal Analysis</h4>
 <p>This is the analytical core of the briefer. Here you move beyond listing laws and into interpreting them. Address:</p>
 <ul>
-<li><strong>Constitutionality and BOL compliance.</strong> Is the bill within the Bangsamoro Parliament&rsquo;s legislative power? If the subject involves concurrent powers, how should the bill be structured to avoid conflict with national law?</li>
+<li><strong>Constitutionality and BOL compliance.</strong> Is the bill within the Bangsamoro Parliament&rsquo;s legislative power? If the BOL requires national law consistency for this subject, how should the bill be structured to avoid conflict with national law?</li>
 <li><strong>Consistency with existing BAAs.</strong> Does the bill conflict with any enacted Bangsamoro law? If so, which provisions need a repealing or amendatory clause?</li>
 <li><strong>Policy options.</strong> You may have found more than one way to address the problem. Present the options with their advantages and disadvantages. The MP makes the final decision, but you supply the analysis.</li>
 <li><strong>Legal risks.</strong> Could this bill be challenged before the Supreme Court? Is there a legal theory that would support a challenge? What can be done in the drafting to reduce that risk?</li>
@@ -2560,6 +2684,13 @@ table.allow-break tr {
 <p>Keep the recommendations concise and actionable. The MP does not need a summary of the entire briefer — they just read it. Give them a clear &ldquo;here is what I recommend and here is what I need from you to move forward.&rdquo;</p>
 <p><strong>Practical tip:</strong> Present the briefer to the MP in person or over a call, not just as an email attachment. Walking the MP through the analysis lets you answer questions in real time, gauge their reactions, and clarify points before drafting begins. If the MP is too busy for a full presentation, prepare a one-page executive summary and offer to discuss any section in detail.</p>
 <hr>
+<blockquote>
+<p><strong>AI in Practice</strong></p>
+<p>AI can produce a structural first draft of a bill based on your working outline, research briefer, and existing BAA patterns. It checks cross-references against the BOL and flags inconsistencies with existing legislation automatically.</p>
+<p><strong>What AI does:</strong> Generates the bill structure (title, policy declaration, definitions, operative provisions, transitory, effectivity), populates cross-references to existing BAAs, and flags where provisions may conflict with the BOL or national law.
+<strong>What you do:</strong> All policy decisions — what the bill should achieve, how it balances competing interests, which approach to take when multiple options exist. AI drafts structure; you draft intent.
+<strong>Watch for:</strong> AI-generated &ldquo;standard clauses&rdquo; may not match the Bangsamoro Parliament&rsquo;s actual drafting conventions. Verify every structural element against the patterns in enacted BAAs, not against generic legislative templates.</p>
+</blockquote>
 <h2 id="24-stage-3-preparing-the-first-draft">2.4 Stage 3 — Preparing the First Draft</h2>
 <p>With the research briefer approved and the MP&rsquo;s go-ahead, you begin drafting. This stage is where the bill starts to look like a bill — with a title, a structure, and actual provisions. But do not start writing bill text immediately. Build the scaffold first.</p>
 <h3 id="241-preparing-the-working-outline">2.4.1 Preparing the Working Outline</h3>
@@ -2718,7 +2849,7 @@ table.allow-break tr {
 <ul>
 <li><strong>Bangsamoro ministries</strong> (Ministry of Basic, Higher and Technical Education; Ministry of Health; Ministry of Social Services and Development; etc.)</li>
 <li><strong>Attached agencies and offices</strong> of the Bangsamoro Government</li>
-<li><strong>National government agencies</strong> with offices or operations in the BARMM, if the bill involves concurrent or shared powers</li>
+<li><strong>National government agencies</strong> with offices or operations in the BARMM, if the bill involves subjects where the BOL requires national law consistency</li>
 <li><strong>Local government units</strong> (provincial, municipal, city, barangay) if the bill affects their functions</li>
 </ul>
 <p><strong>What to ask implementing agencies:</strong></p>
@@ -11830,12 +11961,7 @@ The bill omits or truncates the effectivity clause.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 
-<div class="chapter-cover-page front-matter">
-  <div class="chapter-cover-title">Appendices</div>
-  <div class="chapter-cover-gold-line"></div>
-</div>
-
-<div class="chapter" id="14-appendices-a-d">
+<div class="chapter" id="chapter-16">
 <h1 id="appendices-a-through-d">Appendices A through D</h1>
 <hr>
 <h2 id="appendix-a-enumerated-powers-of-the-bangsamoro-government-bol-article-v-section-2">Appendix A: Enumerated Powers of the Bangsamoro Government (BOL Article V, Section 2)</h2>
@@ -12423,12 +12549,7 @@ Bangsamoro Government Center, Cotabato City</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 
-<div class="chapter-cover-page front-matter">
-  <div class="chapter-cover-title">Appendices</div>
-  <div class="chapter-cover-gold-line"></div>
-</div>
-
-<div class="chapter" id="15-appendices-e-g">
+<div class="chapter" id="chapter-17">
 <h1 id="appendix-e-quality-review-checklist-detachable">Appendix E — Quality Review Checklist (Detachable)</h1>
 <p>This checklist is designed to be printed and used after completing a bill draft, before submitting it for review. Work through every item. If you check &ldquo;No&rdquo; or cannot answer confidently, stop and fix the problem before proceeding.</p>
 <p>The checklist is the companion to Appendix D (Pre-Drafting Checklist). Appendix D helps you prepare before writing. This appendix helps you verify after writing.</p>
@@ -16192,6 +16313,14 @@ Bangsamoro Government Center, Cotabato City</p>
 </ol>
 <hr>
 <p><em>Note: All Bangsamoro Autonomy Acts and Adopted Resolutions cited in this guidebook are from the verified legislative archive of the Bangsamoro Transition Authority Parliament. Full text transcriptions are maintained at the Office of the Parliament.</em></p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

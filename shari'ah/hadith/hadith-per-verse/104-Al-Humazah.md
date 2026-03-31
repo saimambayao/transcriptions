@@ -1,0 +1,97 @@
+# Surah Al-Humazah
+
+- **Chapter:** 104
+- **Verses:** 9
+
+---
+
+## Verse 1
+
+>  وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
+
+Woe to every scorner and mocker
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 2
+
+> ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
+
+Who collects wealth and [continuously] counts it.1
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 3
+
+> يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
+
+He thinks that his wealth will make him immortal.
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 4
+
+> كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ
+
+No! He will surely be thrown into the Crusher.1
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 5
+
+> وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ
+
+And what can make you know what is the Crusher?
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 6
+
+> نَارُ ٱللَّهِ ٱلْمُوقَدَةُ
+
+It is the fire of Allāh, [eternally] fueled,
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 7
+
+> ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ
+
+Which mounts directed at the hearts.1
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 8
+
+> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
+
+Indeed, it [i.e., Hellfire] will be closed down upon them
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+
+## Verse 9
+
+> فِى عَمَدٍ مُّمَدَّدَةٍۭ
+
+In extended columns.1
+
+*No explicitly linked Hadiths found on Quran.com for this verse.*
+
+---
+

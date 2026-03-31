@@ -62,8 +62,8 @@ All BOL provisions relevant to this power — verbatim text with explanation of 
   <td>Incorporates the <strong>SALN requirement</strong> per national law (RA 6713). BARMM officials follow the same disclosure rules as all other government personnel.</td>
 </tr>
 <tr>
-  <td>Art. VII, Sec. 32</td>
-  <td><em><strong>"The Chief Minister shall exercise the following powers, duties, and functions: ... (f) Appoint officials from the heads of ministries to bureau directors or their equivalents and other officials of Bangsamoro-owned or controlled corporations..."</strong></em></td>
+  <td>Art. VII, Sec. 32(b)-(c)</td>
+  <td><em><strong>"(b) Appoint heads of ministries, agencies, bureaus, and offices of the Bangsamoro Government or other officers of Bangsamoro-owned or controlled corporations or entities with original charters; (c) Appoint other officers in the Bangsamoro Government, as may be provided by the Parliament;"</strong></em></td>
   <td>Defines the <strong>appointing authority</strong> of the Chief Minister — heads of ministries, bureau directors, and equivalent officials. Further elaborated by <strong>BAA 11</strong> (Power of Appointment).</td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ Filed Parliament Bills (PBs) that have NOT yet been enacted into BAAs. Shows leg
 
 ## Legal Briefer
 
-A granular Q&A analysis in the style of Philippine bar review materials (Bernas, Golden Notes). Answers stay as close as possible to the language of the law. All verbatim statutory text in ***bold italic***. Key terms in **bold**. Themes follow the legal hierarchy: BOL > Shari'ah > Constitution > National Law > Implementation > Divergence > Gaps > Development.
+A granular Q&A analysis. Answers stay as close as possible to the language of the law. All verbatim statutory text in ***bold italic***. Key terms in **bold**. Themes follow the legal hierarchy and analytical flow: BOL grant → constitutional floor → national law → implementation → Shari'ah dimension → divergence → gaps → development.
 
 ### A. BOL Grant and Scope
 
@@ -419,21 +419,7 @@ A. Three limitations — the most restrictive of any enumerated power:
 
    (3) **Compensation conformity**: Art. VII, Sec. 13 mandates adoption of the national compensation system under RA 6758.[^3]
 
-### B. Shari'ah Considerations
-
-**Q. Does this power have a Shari'ah dimension?**
-
-A. **Indirect but meaningful.** The civil service is not governed by Shari'ah in its regulatory structure, but Islamic principles deeply inform the **values framework** of Bangsamoro public service. BAA 17 Art. 5 declares that public officers ***"shall remain accountable to the people and to God"*** — a formulation that incorporates Islamic accountability alongside secular public trust.
-
-**Q. What Shari'ah principles are relevant to legislation in this area?**
-
-A. Three principles directly inform Bangsamoro civil service values: (1) ***amanah*** (trust/stewardship) — public office is a sacred trust; (2) ***'adl*** (justice/equity) — merit-based appointments prevent nepotism (*wasta*); (3) ***shura*** (consultation) — governance decisions should involve stakeholder participation. These are already embedded in BAA 17's declaration of policy.
-
-**Q. How should Shari'ah compliance be integrated into Bangsamoro legislation for this power?**
-
-A. The recommended approach is **principled** — Islamic values guide civil service culture without mandating specific Shari'ah compliance mechanisms. BAA 17 already incorporates this approach. Culture-sensitive provisions (Ramadhan flextime, pilgrimage leave, religious sensitivity in workplace policies) represent the appropriate integration level.
-
-### C. Constitutional Considerations
+### B. Constitutional Considerations
 
 **Q. What constitutional provisions apply to the civil service?**
 
@@ -457,7 +443,7 @@ A. (1) **Merit-based appointments** (Art. IX-B, Sec. 2(2)). (2) **Security of te
 
 A. Art. IX-B establishes the **CSC** as a constitutional body with nationwide jurisdiction — it cannot be replaced or subordinated by regional legislation. The BOL expressly acknowledges this by mandating CSC's continued presence in BARMM and requiring national law consistency.[^6]
 
-### D. National Law Considerations
+### C. National Law Considerations
 
 **Q. What does the current national legal framework provide for civil service?**
 
@@ -477,9 +463,9 @@ A. **All national civil service laws apply directly** — not suppletorily. BOL 
 
 A. The **Civil Service Commission (CSC)** — through **CSC-BARMM** — exercises constitutional authority over the Bangsamoro civil service. CSC conducts civil service examinations, reviews and attests appointments, adjudicates administrative cases on appeal, and issues binding rules and regulations. CSC's authority is **constitutional** — it cannot be transferred to or replaced by a Bangsamoro institution.[^2][^6]
 
-### E. Implementation
+### D. Implementation
 
-#### E.1 How the Bangsamoro Government Implements This Power
+#### D.1 How the Bangsamoro Government Implements This Power
 
 **Q. Which ministry or office is primarily responsible for exercising this power?**
 
@@ -493,7 +479,7 @@ A. **BAA 17** (Bangsamoro Civil Service Code of 2021) — comprehensive code cov
 
 A. BAA 17 covers:
 
-   **Article 2** — Basis: Cites Art. II, Sec. 2(i) and Art. VII, Sec. 39 of the BOL. Expressly acknowledges the supremacy clause.[^8]
+   **Article 2** — Basis: Cites Art. V, Sec. 2(i) and Art. VII, Sec. 39 of the BOL. Expressly acknowledges the supremacy clause.[^8]
 
    **Article 3** — Purpose: Governs ***"the conduct of civil servants, prescribe qualifications for non-elective positions, adopt an independent and credible merit and fitness system, protect civil service eligibles in various government positions, including Government-Owned or -Controlled Corporations (GOCCs) with original charter in the BARMM, and provide rules on disciplinary authority."***[^9]
 
@@ -509,7 +495,7 @@ A. Due to the supremacy clause, the Bangsamoro Government **cannot**: (a) create
 
 A. Yes — multiple resolutions signal ongoing legislative interest: Res. No. 185 (career development plans), Res. No. 227 (performance management), Res. No. 252 (values transformation), Res. No. 497 (requesting CSC to provide civil service exams).
 
-#### E.1.A Institutional Validation
+#### D.1.A Institutional Validation
 
 **Q. Is the assigned lead MOA the correct one for this power?**
 
@@ -531,7 +517,7 @@ A. All BOL-mandated institutions for civil service have been created. The CSC re
 
 A. A **Bangsamoro Human Resource Management Office** or **Civil Service Commission Liaison Office** could be established to serve as the central HR policy and coordination body within the Bangsamoro Government — distinct from CSC's regulatory functions. This would coordinate HR policies, training programs, and merit system implementation across all ministries. Currently, no single Bangsamoro office serves this coordinating function.
 
-#### E.2 How the National Government Implements This Power
+#### D.2 How the National Government Implements This Power
 
 **Q. How does the national government currently exercise authority in this area within BARMM?**
 
@@ -541,7 +527,7 @@ A. **CSC** exercises full constitutional authority through **CSC-BARMM**: conduc
 
 A. **Devolution does not apply** in the traditional sense. CSC is a **constitutional commission** — its authority is inherent in the Constitution (Art. IX-B), not delegated by statute. CSC cannot devolve its constitutional functions to a regional body. The BOL's approach is not devolution but **co-governance** — BARMM enacts a civil service law (BAA 17) that operates within the framework set by CSC and national law.
 
-#### E.3 BARMM Implementation
+#### D.3 BARMM Implementation
 
 **Q. What has the BARMM accomplished so far in exercising this power?**
 
@@ -557,7 +543,7 @@ A. (1) **Culture-sensitive provisions** — BAA 17 incorporates Bangsamoro value
 
 A. The **single biggest constraint** is the **national law supremacy clause** itself — which limits BARMM's flexibility to innovate. Beyond this structural constraint: (a) **CSC examination access** — BARMM depends on CSC to administer civil service exams, and access can be limited in remote areas (Res. No. 497 requests more exam opportunities); (b) **capacity gaps** — many BARMM agencies are still building HR management expertise; (c) **transition backlog** — the absorption of ARMM personnel (Art. XVI, Sec. 10) created staffing patterns that may not align with the new organizational structure.
 
-#### E.4 National Government Implementation
+#### D.4 National Government Implementation
 
 **Q. What has the national government built for this area that BARMM does not yet have?**
 
@@ -576,11 +562,25 @@ A. - **Replicate**: merit and fitness standards, appointment procedures, ethical
    - **Adapt**: performance management systems (add BARMM-specific metrics), training and development programs (culture-sensitive, local language delivery), HR information systems (integrated with CSC but reflecting BARMM organizational structure).
    - **Replace**: nothing — the supremacy clause prevents replacement. BARMM can **supplement** national standards (add provisions not in conflict) but cannot replace them.
 
+### E. Shari'ah Considerations
+
+**Q. Does this power have a Shari'ah dimension?**
+
+A. **Indirect but meaningful.** The civil service is not governed by Shari'ah in its regulatory structure, but Islamic principles deeply inform the **values framework** of Bangsamoro public service. BAA 17 Art. 5 declares that public officers ***"shall remain accountable to the people and to God"*** — a formulation that incorporates Islamic accountability alongside secular public trust.
+
+**Q. What Shari'ah principles are relevant to legislation in this area?**
+
+A. Three principles directly inform Bangsamoro civil service values: (1) ***amanah*** (trust/stewardship) — public office is a sacred trust; (2) ***'adl*** (justice/equity) — merit-based appointments prevent nepotism (*wasta*); (3) ***shura*** (consultation) — governance decisions should involve stakeholder participation. These are already embedded in BAA 17's declaration of policy.
+
+**Q. How should Shari'ah compliance be integrated into Bangsamoro legislation for this power?**
+
+A. The recommended approach is **principled** — Islamic values guide civil service culture without mandating specific Shari'ah compliance mechanisms. BAA 17 already incorporates this approach. Culture-sensitive provisions (Ramadhan flextime, pilgrimage leave, religious sensitivity in workplace policies) represent the appropriate integration level.
+
 ### F. Divergence Analysis
 
 **Q. To what extent can the BARMM diverge from national civil service law?**
 
-A. **Very limited** — the most constrained of all 55 powers. As established in **Theme A**, BOL Art. VII, Sec. 39 mandates that Bangsamoro civil service law be ***"in accordance with existing national laws"*** and that ***"the Constitution and existing national civil service laws, rules, and regulations shall prevail"*** in case of conflict. As established in **Theme C**, CSC has constitutional jurisdiction that cannot be subordinated.
+A. **Very limited** — the most constrained of all 55 powers. As established in the **BOL Grant and Scope** section (Section A), BOL Art. VII, Sec. 39 mandates that Bangsamoro civil service law be ***"in accordance with existing national laws"*** and that ***"the Constitution and existing national civil service laws, rules, and regulations shall prevail"*** in case of conflict. As established in the **Shari'ah Considerations** section (Section E), CSC has constitutional jurisdiction that cannot be subordinated.
 
    BARMM can diverge **upward** (providing more protections, higher standards, additional benefits) but not **downward** (less protection, lower standards). BARMM can add **supplementary provisions** that national law does not address — such as Ramadhan flextime, ethnic balance requirements, and culture-sensitive workplace policies — provided these do not conflict with national standards.
 

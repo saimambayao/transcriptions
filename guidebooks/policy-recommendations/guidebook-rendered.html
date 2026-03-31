@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -257,6 +270,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -274,6 +288,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -296,6 +311,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -769,9 +790,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Policy&nbsp;Analysts,<br>Parliamentary Staff, Ministry Officials, and Consultants</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -955,6 +974,11 @@ table.allow-break tr {
 <p>The guidebook covers the full lifecycle of a policy recommendation in the Bangsamoro government: from identifying a problem and gathering evidence, through analysis and formulation, to consultation, quality review, approval, and implementation monitoring. It applies whether you work in a ministry, a parliamentary office, or a consulting team. The methodology works whether you are recommending a new program, proposing reforms to an existing one, or advising on policy responses to emerging challenges.</p>
 <p>The analytical framework at the center of this guidebook is Bardach&rsquo;s Eightfold Path — a structured methodology for policy analysis that moves from problem definition through evidence gathering, alternative construction, and outcome projection to a final recommendation. This framework has been adapted to fit the specific context of Bangsamoro governance: the legal authority of the BOL, the priorities of the Bangsamoro Development Plan 2023-2028, the parliamentary system, and the cultural and institutional realities of the region.</p>
 <p>Every legal provision cited from the Bangsamoro Organic Law (Republic Act No. 11054) has been quoted verbatim from the source text. References to Bangsamoro Autonomy Acts, national laws, and policy documents use official titles and citations. The guidebook draws on real policy work — including policy recommendations and briefs produced for Other Bangsamoro Communities (OBCs) — to illustrate how each step translates into practice.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting analytical frameworks, structuring the Eightfold Path adaptation, formatting legal references, and organizing case study illustrations.</p>
+<p>AI did not design the methodology. The adaptation of Bardach&rsquo;s Eightfold Path to the Bangsamoro context, the integration of BOL legal authority with BDP priorities, the consultation and quality review protocols, and the implementation monitoring framework come from the author&rsquo;s professional experience in Bangsamoro governance &ndash; not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited from the Bangsamoro Organic Law (Republic Act No. 11054), every reference to Bangsamoro Autonomy Acts, national laws, and the Bangsamoro Development Plan in this guidebook was verified by the author against official source texts. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <p>This guidebook is written to be timeless. It applies equally to the transition period and to the elected Bangsamoro government that will follow. Where procedures or conventions are specific to the transition period, the text says so. In all other respects, the guidance here serves any policy analyst working under the Bangsamoro Organic Law, regardless of when they read it.</p>
 </div>
 
@@ -3587,6 +3611,14 @@ table.allow-break tr {
 <p><strong>Status Quo.</strong> The current state of affairs — what happens if the government takes no new action. The status quo is always included as one of the policy alternatives in a recommendation.</p>
 <p><strong>Transmittal Memorandum.</strong> A formal communication that accompanies the approved policy recommendation when it is sent to the implementing agency or other recipient. Specifies the action required.</p>
 <p><strong>Ultra Vires.</strong> Latin for &ldquo;beyond the powers.&rdquo; An ultra vires action is one that exceeds the legal authority of the government body taking it. Ultra vires recommendations are legally void and should be identified and prevented during the review process.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

@@ -196,6 +196,24 @@ For each of the 55 enumerated powers, the constitutional floor consists of three
 
 To identify the floor for a specific BOL power, work through all three layers. The Section 4.9 inventory provides the subject-specific provisions. The Section 4.6 rights analysis provides the Bill of Rights framework. Together, they define the constitutional boundaries.
 
+**The constitutional floor within the 5-layer constraint framework.** The three constitutional layers above are the *first* layer of a broader 5-layer constraint framework that governs BARMM's ability to diverge from national laws and standards. The full framework:
+
+| Layer | Source | Effect |
+|---|---|---|
+| **1. Constitutional rights and mandates** | Constitution (these 3 layers) | Absolute — no legislation can breach |
+| **2. BOL "shall prevail" supremacy** | 11 BOL provisions | National law overrides any conflicting BAA |
+| **3. BOL minimum standards** | 7 BOL provisions | Must meet or exceed national minimums |
+| **4. Institutional jurisdiction retention** | 47 BOL provisions | National agencies keep authority |
+| **5. BOL "shall not diminish" floors** | 8 BOL provisions | Existing rights locked as one-way ratchet |
+
+Layers 2-5 are BOL-level constraints detailed in Chapter 3, Section 3.2.2. This chapter focuses on Layer 1 — the constitutional analysis that determines the *absolute* floor no legislation can breach.
+
+**The judicial test (2025).** The Supreme Court confirmed the enforceability of this framework in *Ali et al. v. BTA Parliament* (G.R. No. E-02219, September 30, 2025):
+
+> *"While Congress may establish autonomous regions and grant them legislative authority, such authority must always operate within the bounds of the Constitution and national statutes."*
+
+The Court described this as a **"clear and categorical"** limitation. Where the BOL uses "subject to national laws" or "consistent with" language, the SC's framing confirms those qualifiers are **enforceable constitutional limits** — not aspirational language. This is the most current judicial articulation of the divergence constraint.
+
 ### 4.5.4 Worked Example: Cooperatives (Art. XII, Sec. 15 = Floor)
 
 **The power.** Article V, Section 2(k) of the BOL enumerates "Cooperatives and social entrepreneurship" as a Bangsamoro power.[^3]
@@ -286,7 +304,7 @@ Article II contains the Declaration of Principles and State Policies. These prov
 
 **How state policies function in constitutional analysis.** State policies do not invalidate legislation on their own. You will not see the Supreme Court strike down a BAA solely because it is inconsistent with Article II, Section 10. But state policies strengthen or weaken other constitutional arguments. A due process challenge to a BAA is stronger when the BAA also contradicts Article II, Section 11 (dignity of every human person). An equal protection challenge is stronger when the classification ignores Article II, Section 14 (equality of women and men).
 
-In your Constitutional Analysis Worksheet (Section 4.41), record applicable state policies. They belong in the analysis — not as standalone grounds for invalidity, but as interpretive reinforcement.
+In your Constitutional Analysis Worksheet (Section 4.14), record applicable state policies. They belong in the analysis — not as standalone grounds for invalidity, but as interpretive reinforcement.
 
 ### 4.6.4 How to Map Constitutional Rights to a Specific BOL Power
 
@@ -300,7 +318,7 @@ For any research question, use this four-step mapping process:
 
 **Step 4: Check state policies.** Scan Article II. Identify any state policies that bear on the subject. These become interpretive context for your analysis.
 
-**Record all four steps in the Constitutional Analysis Worksheet** (Section 4.41). This mapping is the foundation for the equal protection and due process analyses that follow.
+**Record all four steps in the Constitutional Analysis Worksheet** (Section 4.14). This mapping is the foundation for the equal protection and due process analyses that follow.
 
 ---
 
@@ -325,6 +343,18 @@ In *Ichong v. Hernandez* (1957),[^8] the Supreme Court upheld the nationalizatio
 
 **What this means for BARMM researchers.** Every BAA that treats different groups differently — residents vs. non-residents, registered cooperatives vs. unregistered ones, Bangsamoro businesses vs. non-Bangsamoro businesses, large firms vs. small firms — creates a classification that must pass the *Cayat* test.
 
+**Scrutiny levels matter.** Not all equal protection challenges are equally difficult to defend. Philippine jurisprudence applies different levels of scrutiny depending on what the classification touches:
+
+| Classification Type | Scrutiny Level | Practical Effect |
+|---|---|---|
+| Suspect categories (race, religion, national origin) | **Strict scrutiny** | Hard to justify — requires compelling interest and narrow tailoring |
+| Fundamental rights (speech, association, religion, voting) | **Strict scrutiny** | Hard to justify — same high standard |
+| Regulatory standards (membership thresholds, training hours, licensing requirements) | **Rational basis** | Almost always survives — requires only a legitimate purpose and rational connection |
+
+**The practical implication:** Most BARMM-vs-national differential treatment involves regulatory standards, not fundamental rights. A different cooperative membership threshold, a different training hour requirement, a different licensing procedure — these face rational basis review, which is the easiest standard to satisfy. The BOL's recognition of BARMM's distinctive characteristics provides the "substantial distinction" for rational basis almost automatically.
+
+Equal protection becomes a real constraint only when a BAA touches fundamental rights or creates suspect classifications. A BAA that restricts freedom of association, limits voting rights, or classifies based on ethnicity faces strict scrutiny — and must demonstrate a compelling interest.
+
 ### 4.7.2 When BARMM Legislates Differently from National Law — Is It an Equal Protection Issue?
 
 This is the question Bangsamoro legal researchers face most often. The Parliament enacts a BAA that sets different standards from the national law on the same subject. A cooperative in Cotabato City operates under different rules than a cooperative in Davao City. A school in Marawi must meet different accreditation standards than a school in Cagayan de Oro.
@@ -337,7 +367,7 @@ The answer depends on whether the BOL authorizes the differentiation. If the sub
 
 1. **Is the subject within the 55 enumerated powers?** If yes, the BOL provides the congressional authorization for differentiation. If no, the Parliament has no authority to legislate on the subject at all.
 
-2. **Does the BOL require national law consistency?** If yes (civil service, budget, elections, audit, IP rights), the differentiation must operate within the national framework. If no, the Parliament may depart from national standards.
+2. **Does the BOL contain conformity language for this subject?** If yes — check for all five types: "shall prevail," "shall conform," "consistent with," institutional retention, "shall not diminish" (Chapter 3, Section 3.2.2) — the differentiation must operate within the national framework. If no, the Parliament may depart from national standards.
 
 3. **Does the differentiation rest on substantial distinctions germane to a legitimate purpose?** Even with BOL authorization, the equal protection clause still applies. The distinction between the Bangsamoro context and the national context must be real and relevant. The BOL provides strong evidence of substantial distinction — Congress itself recognized the uniqueness of the Bangsamoro region — but the specific legislative classification must still be defensible.
 
@@ -373,6 +403,10 @@ This congressional authorization is the strongest response to an equal protectio
 - **Not limited to existing conditions:** The lower threshold works whether the Bangsamoro economy is in early recovery or in later development.
 
 **Conclusion:** The lower membership threshold is constitutionally defensible. The BOL's grant of primary legislative competence over cooperatives, combined with the substantial distinctions of the Bangsamoro context, satisfies the equal protection test. The differentiation advances, rather than undermines, the constitutional mandate to promote cooperatives.
+
+**What about going above — a 30-member threshold?** Equal protection is NOT the binding constraint for regulatory standards like membership thresholds. Under rational basis review, a 30-member threshold would easily survive — Parliament needs only a legitimate reason (e.g., ensuring cooperatives form with sufficient organizational capacity). The binding constraint is the **constitutional purpose test**: does the higher threshold defeat the constitutional mandate to promote cooperatives? A threshold of 30 does not prohibit formation — it raises the bar modestly. A threshold of 500, on the other hand, would effectively prohibit cooperative formation and fall below the constitutional floor. The line is drawn not by equal protection but by whether the standard serves or defeats the constitutional purpose.
+
+**The general rule for divergence:** For regulatory standards where the BOL has no conformity requirement (approximately 20 of the 55 powers), equal protection under rational basis review is almost never the binding constraint. The real questions are: (1) Does the standard serve the constitutional purpose? (2) Does it breach any other BOL or constitutional provision? Equal protection only becomes the primary concern when the BAA classifies based on suspect categories or burdens fundamental rights.
 
 ---
 
@@ -584,7 +618,7 @@ Before a bill reaches committee, run this risk assessment:
 | **Medium** | The provision may face a successful as-applied challenge | Add safeguards; note in legislative briefer |
 | **Low** | The provision passes the constitutional test on its face | Proceed; document the analysis |
 
-**Step 5: Document your assessment.** Record it in the Constitutional Analysis Worksheet (Section 4.41) and include it in your research output (Chapter 12 memorandum or legislative briefer).
+**Step 5: Document your assessment.** Record it in the Constitutional Analysis Worksheet (Section 4.14) and include it in your research output (Chapter 12 memorandum or legislative briefer).
 
 ### 4.10.4 The "Saving Construction" — Interpreting Ambiguous Provisions to Preserve Constitutionality
 
@@ -639,7 +673,7 @@ Run this checklist after completing your Tier 1-2 research and before writing yo
 
 ### 4.11.3 How Theme C (Constitutional Considerations) in Legal References Uses This Framework
 
-The Legal References for BOL Powers project — the companion reference set to this guidebook — uses a standardized three-question framework for Theme C: Constitutional Considerations.[^14]
+When conducting constitutional analysis for any of the 55 BOL powers, a standardized three-question framework helps ensure thorough coverage:
 
 **Question 1: What constitutional provisions apply to this subject area?** This question maps directly to Sections 4.5 and 4.6 of this chapter. The answer identifies the universal constraint (Art. X, Sec. 20), subject-specific provisions, and applicable Bill of Rights provisions.
 
@@ -821,7 +855,7 @@ Before finalizing any research output that includes constitutional analysis, ver
 - [ ] Where national law implements a constitutional mandate, its constitutional weight has been assessed
 - [ ] Vulnerability ratings (High / Medium / Low) have been assigned to every provision that carries constitutional risk
 - [ ] The saving construction has been applied where provisions are ambiguous
-- [ ] The analysis has been recorded in the Constitutional Analysis Worksheet (Section 4.41)
+- [ ] The analysis has been recorded in the Constitutional Analysis Worksheet (Section 4.14)
 - [ ] No BOL article or section numbers have been cited without verification against the verbatim BOL text
 - [ ] The Shari'ah checkpoint has been completed
 
@@ -858,8 +892,6 @@ The following table maps the most commonly researched BOL powers to their consti
 </tbody>
 </table>
 
-**Note:** This table covers 20 of the 55 enumerated powers. For the complete mapping of all 55 powers, consult the individual Legal References for BOL Powers, each of which includes a full Theme C (Constitutional Considerations) analysis for its subject area.
-
 ---
 
 ## Key Takeaways
@@ -870,13 +902,13 @@ The following table maps the most commonly researched BOL powers to their consti
 
 3. **Equal protection does not prohibit differentiation — it requires justification.** The BOL itself provides strong justification for BARMM legislating differently from national standards. But the specific classification must still rest on substantial distinctions germane to the law's purpose.
 
-4. **Due process is the most commonly violated constitutional requirement in BAA drafting.** Every enforcement provision — suspension, dissolution, penalty, revocation — needs notice, hearing, and appeal. The *Ang Tibay* requirements are not optional.
+4. **Due process applies to every enforcement provision in BAA drafting.** Suspension, dissolution, penalty, revocation — all need notice, hearing, and right to appeal. The *Ang Tibay* requirements are not optional.
 
 5. **Constitutional mandates carry weight even without a consistency requirement.** When a national law implements a "Congress shall..." mandate, the Bangsamoro Government must fulfill the same constitutional purpose even if it can choose different legislative means.
 
 6. **Classify before you analyze.** Self-executing rights, non-self-executing provisions, and policy declarations have different legal weight. Knowing which type you are dealing with determines how much force the provision carries in your analysis.
 
-7. **Document everything.** Use the Constitutional Analysis Worksheet (Section 4.41) for every research task. The worksheet disciplines your analysis and becomes part of your research record.
+7. **Document everything.** Use the Constitutional Analysis Worksheet (Section 4.14) for every research task. The worksheet disciplines your analysis and becomes part of your research record.
 
 ---
 
@@ -906,6 +938,5 @@ The following table maps the most commonly researched BOL powers to their consti
 
 [^13]: *In re: Guariña III*, A.C. No. 10199, March 14, 2017; see also *Macalintal v. COMELEC*, G.R. No. 157013, July 10, 2003 (applying the saving construction to an organic act provision).
 
-[^14]: Legal References for BOL Powers, Template, Theme C: Constitutional Considerations.
 
 [^15]: Republic Act No. 11054, Article VII, Section 39.

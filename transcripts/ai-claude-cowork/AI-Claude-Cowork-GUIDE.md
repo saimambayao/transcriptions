@@ -2,7 +2,7 @@
 
 Most people open Claude Desktop, type a question, and close the app. They repeat this cycle daily, never realizing they are using roughly ten percent of what the tool can actually do. Claude Cowork turns that pattern inside out: instead of a chatbot that forgets everything between sessions, it becomes a persistent assistant that reads files, connects to applications, learns workflows, and executes tasks on a schedule -- even while the user is away from the keyboard.
 
-This guide synthesizes eight deep-dive tutorials on Claude Cowork into actionable patterns for building a system that compounds over time. It covers the instruction hierarchy that governs behavior, the foundational architecture (folders, identity files, projects), the second brain as a persistent context layer, the skill and plugin ecosystem, the four keys to output quality, multi-skill system design, the connector layer that bridges external tools, artifacts for rapid tool-building, and the automation engine that turns Cowork into an always-on operator. Every pattern is grounded in demonstrated workflows, not theoretical possibilities.
+This guide synthesizes eleven deep-dive tutorials on Claude Cowork into actionable patterns for building a system that compounds over time. It covers the instruction hierarchy that governs behavior, the foundational architecture (folders, identity files, projects), the second brain as a persistent context layer, the skill and plugin ecosystem, the four keys to output quality, multi-skill system design, the connector layer that bridges external tools, artifacts for rapid tool-building, the automation engine that turns Cowork into an always-on operator, mobile orchestration through Dispatch, and skill portability between Claude Code and Cowork. Every pattern is grounded in demonstrated workflows, not theoretical possibilities.
 
 ---
 
@@ -150,6 +150,8 @@ An important operational detail: **connector hygiene**. Each active connector co
 
 For applications without native support, two paths extend the ecosystem. **Zapier MCP** connects to over 8,000 apps with 30,000+ actions -- create an MCP server at zapier.com/mcp, select Claude Cowork as the client, add tools, and paste the URL into Cowork's connector settings. [^1][^2][^5] For more granular control, **custom MCP servers** can be built using tools like n8n. This approach solved a specific limitation: the default Gmail connector can read messages but cannot send them. By building an n8n workflow with an MCP server trigger and a "send email" tool, then connecting the server URL to Claude as a custom connector, the capability gap is closed without waiting for Anthropic to update the native connector. [^6]
 
+Cowork also includes **computer use** capabilities -- the ability to take screenshots, navigate Chrome, and interact with web interfaces directly. In head-to-head testing, Cowork completed browser automation tasks that competing agent frameworks refused to execute, including navigating to specific websites and interacting with content. For simpler automation tasks, this built-in capability can replace dedicated browser automation tools, though specialized frameworks like Playwright still offer more control for complex workflows. [^10]
+
 Connectors become particularly powerful when combined with projects. Each project can have its own set of active connectors scoped to its domain -- a YouTube project connected to analytics APIs, a finance project connected to receipt scanners, a legislative project connected to document repositories. [^5]
 
 **The takeaway**: Connectors and extensions transform Cowork from an intelligent text processor into an orchestration layer that can read from and write to the tools where real work happens -- and custom MCP servers ensure that no integration gap is permanent.
@@ -198,13 +200,45 @@ The separation has concrete benefits:
 - **Scheduled tasks are scoped** -- only relevant automations run within each project. [^5]
 - **Outputs stay organized** -- HTML dashboards, presentations, and reports are grouped by domain. [^5]
 
-Projects also support **multi-folder selection** -- working across several folders within one project -- and **starred chats** for pinning important conversations for quick reference. [^5]
+Projects also support **multi-folder selection** -- working across several folders within one project -- and **starred chats** for pinning important conversations for quick reference. [^5] Claude Desktop functions as a **super app** with three modes accessible via hotkeys: Chat (Cmd+1), Cowork (Cmd+2), and Code (Cmd+3). Projects, scheduled tasks, and chat history are all visible per project, with a significantly more intuitive UI than alternatives -- scheduled tasks are labeled as "scheduled tasks" rather than technical jargon like "cron jobs." [^10]
 
 A particularly powerful feature is **Cowork Dispatch**: the ability to text Claude from the phone app and trigger tasks on the desktop, scoped to a specific project. This enables on-the-go task execution without being at the computer. [^5]
 
 The recommended approach is one project per major business area or workflow. Projects compound over time: Day 1 feels generic, Day 30 Claude knows preferences and runs tasks automatically, and Day 90 Claude functions as a team member responding to keywords and handling full workflows. [^5]
 
 **The takeaway**: Projects are the organizational infrastructure that prevents Cowork from collapsing under its own success. Without them, a growing skill library and expanding connector set become noise. With them, each domain gets a clean, focused, compounding AI workspace.
+
+## Dispatch: Mobile Orchestration Through Sub-Agents
+
+Dispatch extends Cowork from a desktop-bound tool to a mobile-first orchestration layer. Rather than requiring users to sit in front of their computer to trigger workflows, Dispatch connects the Claude mobile app to Claude Cowork running on the desktop. Tasks typed on the phone are transmitted to the desktop agent, executed locally with full access to skills, MCP servers, and file system, and results are reported back to the phone when complete. [^9]
+
+> **Key insight**: Dispatch does not run tasks on the phone -- it uses the phone as a remote control for the desktop agent. The compute, file access, and skill execution all happen locally on the user's machine, preserving the sandboxed security model while enabling mobile initiation. [^9]
+
+The architecture works through a sub-agent model. Each task sent from Dispatch spins up a new Cowork conversation on the desktop, prepended with "Dispatch:" in the tab name. Multiple tasks can run in parallel as independent sub-agents -- a lead scraping job, an inbox cleaning workflow, and a thumbnail generation task can all execute simultaneously, each in its own conversation context. When a skill requires permissions that were not pre-granted, a permission request appears on the phone for mobile approval, maintaining the allow-listing security model without requiring physical access to the computer. [^9]
+
+Setup requires five minutes: update Claude Desktop, install or update the Claude mobile app, navigate to the Dispatch section in Cowork (Cmd+2 on Mac), click "Get Started," grant permissions (keeping the computer awake is critical -- this prevents the machine from sleeping while tasks run), and pair the phone. For browser-based tasks, the **Claude browser extension** must also be installed in the desktop browser. One operational constraint applies: the desktop must remain awake and Claude Desktop must be open for Dispatch tasks to execute -- if the laptop sleeps, queued tasks will not run. [^9][^11]
+
+The capabilities extend beyond simple task triggering. A demonstrated workflow involved receiving an email with raw financial data (a general ledger and chart of accounts with thousands of rows in CSV format), then instructing Claude from the phone to download the email attachments, analyze over 25,000 entries, and generate two McKinsey-style HTML deliverables -- a financial report and a board presentation with visual graphs -- all without touching the computer. Users can also check in mid-task by asking Claude from the phone how the work is progressing, receiving real-time status updates. The process took 15-20 minutes -- designed for situations where the user is on the go and returns to completed work. [^11]
+
+The cost model is particularly favorable compared to alternatives. Dispatch runs on the user's existing flat monthly Claude subscription, which Anthropic subsidizes at four to eight times cheaper than per-token API pricing. Competing approaches like OpenClaw use per-token billing that can reach $100 in the first few days of active use -- one practitioner reported spending $38 in a single day on Claude Opus API tokens through OpenClaw -- while also carrying documented security risks including API key leaks and repeated security incidents. [^9][^10]
+
+Dispatch setup is also simpler than alternatives. Pairing with the phone requires scanning a QR code from the Dispatch section in Claude Desktop -- done. OpenClaw's equivalent phone connectivity requires configuring API tokens for Telegram integration: obtaining a bot API key, a token key, and a pairing code. The friction difference is not trivial -- it determines whether non-technical team members can actually use mobile agent control. [^10]
+
+One honest caveat: open alternatives like OpenClaw retain advantages for the small percentage of users who need **model flexibility** (switching between any AI model, not just Sonnet/Opus), **deep customization** (adjustable infrastructure dials), and **early access to innovation** (faster release cycles unconstrained by Anthropic's guardrails). For the 99% of users who want reliable outputs without managing infrastructure, Cowork's integrated approach -- subscription pricing, built-in computer use, one-click app connections, and Dispatch -- is the clear winner. [^10]
+
+**The takeaway**: Dispatch converts any dead time -- commutes, meetings, waiting rooms -- into productive agent execution time. The phone becomes the trigger; the desktop becomes the engine; and the flat subscription model makes high-volume usage economically sustainable.
+
+## Code-to-Cowork Skill Portability
+
+Claude Code and Claude Cowork share the same underlying intelligence and skill format -- both read markdown instruction files to execute workflows. The primary difference is the interface: Code runs in the terminal with direct Bash, file system, and editor access, while Cowork runs through a desktop GUI with MCP server-mediated access. This shared foundation means skills built in one environment can be ported to the other. [^9]
+
+> **Key insight**: Claude Code and Cowork are "basically the exact same thing" -- the same reasoning engine wrapped in different interfaces. Skills that are primarily prompt-based port directly; skills that depend on terminal-specific tools need adaptation for Cowork's MCP layer. [^9]
+
+The porting workflow is straightforward: duplicate Claude Code skill files to a Cowork-accessible folder, instruct Cowork to "add them all to Cowork," and it processes each skill and presents a "Copy to my skills" confirmation. Once copied, skills become accessible via Dispatch from the phone. [^9]
+
+A critical distinction determines portability. Skills that are primarily **prompt-based** -- identity files, domain context loaders, writing style guides, content frameworks -- transfer without modification. Skills that depend on **file system operations** -- reading specific local paths, writing to directories, running shell commands -- require adaptation because Cowork accesses files through MCP servers rather than direct Bash execution. The practical implication: audit each skill's dependencies before porting, and adapt file-dependent skills to use Cowork's connector and extension model instead of raw file paths. [^9]
+
+**The takeaway**: The skill library is not locked to one interface. Teams that build skills in Claude Code for power users can distribute those same skills through Cowork for non-technical users, and through Dispatch for mobile access -- one investment, three access points.
 
 ---
 
@@ -219,6 +253,8 @@ The patterns above map directly to your multi-role architecture: OOBC governance
 - **Parliamentarian** -- the research synthesis workflow (point Claude at a folder of related BAAs, surface convergent themes and contradictions) maps directly to legislative research for interpellation questions and committee hearings [^4]
 - **MoroTech/SEED Initiative** -- your 124 training course modules could be distributed as Cowork plugins: /training-assistant for facilitator guides, /cooperative for cooperative governance modules, evaluation form generators triggered by slash commands [^1][^2]
 - **OBCMS** -- Zapier MCP (8,000+ apps) opens integration paths for connecting to government reporting systems, BARMM internal tools, and regional LGU databases; for gaps where Zapier lacks a native connector, build custom MCP servers via n8n to extend Claude Desktop capabilities for OOBC regional coordinators [^1][^2][^5][^6]
+- **Dispatch for field work** -- when traveling to OBC communities, BTA sessions, or MoroTech workshops, use Dispatch to fire off research tasks, transcription jobs, and legislative queries from your phone; the desktop handles execution while you focus on the meeting; Nick's demo of running three parallel tasks from his phone maps directly to your workflow of simultaneously needing legal research, transcript processing, and policy analysis [^9]
+- **Skill portability pipeline** -- audit your 129+ Claude Code skills for Cowork portability; prompt-based skills (/bangsamoro, /humanizer, /speech-writer, /content-research-writer) should port directly; file-dependent skills (/legal-researcher, /fact-checker, /bill-drafter) need MCP-layer adaptation; once ported, these become accessible to non-technical OOBC staff via Cowork GUI and to you via Dispatch on mobile [^9]
 - **Bangsamoro Scholars Association / Moro Developers Community** -- shareable Cowork project templates could onboard members with pre-configured skills for scholarship tracking, community content creation, and event coordination [^5]
 - **NotebookLM + /expert-builder** -- the clarification question pattern (output types, expected inputs, structure rigidity) should be added to your /skill-creator and /expert-builder workflows to produce more focused skills on the first pass [^3]
 - **Vault integration** -- your dual-layer memory system (Claude Code Memory + Obsidian Vault) is more rigorous than Cowork's self-improving Claude MD. Keep your explicit /vault-update review layer for Claude Code; use the auto-rewrite pattern only for Cowork folders used by non-dev staff who do not need that control [^2][^4] Ben's skills-point-to-vault pattern validates a structural refactor: move authoritative reference files (BARMM officials list, BOL provisions, BDP chapters) to shared vault locations and have /bangsamoro, /bill-drafter, /legislative-briefer, /fact-checker, and /speech-writer point to them instead of embedding copies. When you update the officials list after elections, one update propagates to all skills. For portability to Codex/Gemini via skills-bucket, your sync script can copy referenced files into each skill folder at export time -- giving you both maintainability (vault references) and portability (embedded copies in the bucket). [^8]
@@ -238,7 +274,7 @@ The patterns above map directly to your multi-role architecture: OOBC governance
 5. **This month**: Set up a Cowork scheduled task for daily BARMM legislative monitoring -- pulling from local reference files (BOL, BDP 2023-2028, BAAs index) and outputting a briefing to a shared folder
 6. **This month**: Build an n8n custom MCP server for OOBC email workflows (send legislative updates, distribute committee reports) to close the gap in Gmail's read-only default connector
 7. **This quarter**: Build a "MoroTech Training" Cowork Project with /training-assistant packaged as a plugin, scoped to the SEED Initiative's curriculum folders -- pilot with 2-3 MoroTech facilitators
-8. **This quarter**: Evaluate Cowork Dispatch for mobile-triggered governance workflows -- "Run the daily brief in my BARMM Legislative project" from your phone during field visits or BTA sessions
+8. **This quarter**: Evaluate Cowork Dispatch for mobile-triggered governance workflows -- "Run the daily brief in my BARMM Legislative project" from your phone during field visits or BTA sessions [^9]
 9. **This quarter**: Create artifact-based prototypes for 2-3 e-Bangsamoro portal features (MP profile pages, budget visualizations) to use in stakeholder presentations before committing development resources
 10. **This week**: Audit your skill library for duplicated reference files (officials list, BOL provisions, BDP chapters) and identify which files should become shared vault references under the skills-point-to-vault pattern [^8]
 11. **This month**: Refactor 2-3 high-use skills (/bangsamoro, /bill-drafter, /legislative-briefer) to point to shared vault references instead of embedded copies; update the skills-bucket sync script to copy referenced files into skill folders at export time for portability [^8]
@@ -285,3 +321,15 @@ The patterns above map directly to your multi-role architecture: OOBC governance
 [^8]: van Sprundel, Ben. "How I use Claude Cowork + Obsidian To Run my Life."
       *Ben AI*, 21:54. YouTube, March 2026.
       https://youtube.com/watch?v=qo4YZvC1q5I
+
+[^9]: Saraev, Nick. "Claude Dispatch Just Dropped, And It Kills OpenClaw."
+      *Nick Saraev*, 15:56. YouTube, March 2026.
+      https://youtube.com/watch?v=NF10evwkefM
+
+[^10]: Goldie, Julian. "Claude DESTROYS OpenClaw, Here's Why..."
+       *Julian Goldie SEO*, 17:15. YouTube, March 2026.
+       https://youtube.com/watch?v=bC_0h1C7or4
+
+[^11]: AI Impact. "Claude Dispatch Just Killed OpenClaw! (FULL GUIDE)."
+       *AI Impact*, 5:05. YouTube, March 2026.
+       https://youtube.com/watch?v=pC_GpRbDQJ4

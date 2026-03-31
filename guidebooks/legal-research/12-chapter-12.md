@@ -150,7 +150,7 @@ The verbatim matrix is the standard tool for parliamentary committee consolidati
 
 **Audience:** Planning officers, legal officers, Ministers, Executive Directors.
 
-**When to use:** During strategic planning (Chapter 2 of the Strategic Planning Guidebook), mandate verification, or institutional assessment.
+**When to use:** During strategic planning, mandate verification, or institutional assessment.
 
 **Structure:**
 
@@ -162,7 +162,7 @@ The verbatim matrix is the standard tool for parliamentary committee consolidati
 </tbody>
 </table>
 
-This format comes from the Strategic Planning Guidebook, Chapter 2, Section 2.7.[^2] The three-column structure (Legal Basis, Authority Granted, Justification) is simpler than the Research Memorandum because it serves a different purpose — not comprehensive research, but institutional mandate mapping.
+The three-column structure (Legal Basis, Authority Granted, Justification) is simpler than the Research Memorandum because it serves a different purpose — not comprehensive research, but institutional mandate mapping.
 
 **Gap documentation:** The matrix should include two types of gaps:
 - **Type A:** Functions the MOA currently performs without clear legal basis
@@ -218,9 +218,9 @@ in force as of [date]. Any subsequent legislation may alter the analysis."]
 
 **Audience:** The sponsoring MP, the drafter, committee members.
 
-**When to use:** During Stage 2 of the bill drafting process (Bill Drafting Guidebook, Chapter 2, Section 2.3.4).
+**When to use:** During Stage 2 (Legislative Research) of the bill drafting process.
 
-**Structure (from the Bill Drafting Guidebook):**
+**Structure:**
 
 ```markdown
 ## Legislative Research Briefer
@@ -238,7 +238,7 @@ in force as of [date]. Any subsequent legislation may alter the analysis."]
 ### 6. Recommendations
 ```
 
-The Legislative Research Briefer is a specialized output format for the bill drafting context. It combines elements of the Research Memorandum (Section 2: related laws) and the IRAC Memo (Section 3: analysis) into a format designed for MP consumption.[^3]
+The Legislative Research Briefer is a specialized output format for the bill drafting context. It combines elements of the Research Memorandum (Section 2: related laws) and the IRAC Memo (Section 3: analysis) into a format designed for MP consumption.
 
 ---
 
@@ -312,7 +312,7 @@ These rules apply to every output format. Violating any of them produces unrelia
 |---|------|--------|-----------|-------------------|--------|
 | 1 | 2 | BOL | Art. V, Sec. 2(k) | "Cooperatives and social entrepreneurship" — enumerated power (no national law consistency required) | In force |
 | 2 | 2 | BOL | Art. V, Sec. 3 | General welfare clause — implied powers for cooperative regulation | In force |
-| 3 | 2 | BOL | Art. XIII, Sec. 24 | "The Bangsamoro Government shall create a favorable environment for cooperatives" | In force |
+| 3 | 2 | BOL | Art. XIII, Sec. 24 | "...shall recognize, promote, protect, and support the development of cooperatives and other medium, small, and micro enterprises. It shall adopt and implement cooperative development policies and programs through the enactment of a Bangsamoro cooperative code." | In force |
 | 4 | 3 | BAA 13 | MTIT mandate | Trade, investments, and tourism — cooperatives may fall under MTIT | In force |
 | 5 | 5 | RA 9520 | Philippine Cooperative Code | National cooperative framework — applies suppletorily (no BAA enacted) | In force |
 | 6 | 5 | RA 6938 | Original Cooperative Code (1990) | Superseded by RA 9520 (2008) | Repealed |
@@ -323,7 +323,7 @@ These rules apply to every output format. Violating any of them produces unrelia
 
 **Issue:** Does the Bangsamoro Government have enumerated authority to regulate cooperatives, and what law currently governs cooperatives within BARMM?
 
-**Rule:** BOL Art. V, Sec. 2(k) grants enumerated power over "cooperatives and social entrepreneurship" (no national law consistency required). Art. XIII, Sec. 24 mandates a "favorable environment for cooperatives."
+**Rule:** BOL Art. V, Sec. 2(k) grants enumerated power over "cooperatives and social entrepreneurship" (no national law consistency required). Art. XIII, Sec. 24 mandates the Bangsamoro Government to "recognize, promote, protect, and support the development of cooperatives" and to enact "a Bangsamoro cooperative code."
 
 **Application:** The BOL does not require national law consistency for cooperatives. However, Parliament has not enacted a Bangsamoro Cooperative Code. In the absence of a BAA, RA 9520 (Philippine Cooperative Code) applies suppletorily.
 
@@ -334,7 +334,7 @@ These rules apply to every output format. Violating any of them produces unrelia
 | Legal Basis | Authority Granted | Justification |
 |-------------|-------------------|---------------|
 | BOL Art. V, Sec. 2(k) | Cooperatives and social entrepreneurship — enumerated power | Direct basis — enumerated Bangsamoro power (no national law consistency required) |
-| BOL Art. XIII, Sec. 24 | Create favorable environment for cooperatives | Direct basis — affirmative mandate |
+| BOL Art. XIII, Sec. 24 | Recognize, promote, protect, and support the development of cooperatives; enact a Bangsamoro cooperative code | Direct basis — affirmative mandate |
 | BAA 13, MTIT sections | Trade, investments, tourism mandate | MTIT may cover cooperative regulation pending sector BAA |
 | RA 9520 | Philippine Cooperative Code | Suppletory — applies until Parliament enacts a Bangsamoro Cooperative Code |
 
@@ -373,6 +373,3 @@ Before delivering any research output, confirm:
 
 [^1]: VERBATIM MATRIX: Comparative Analysis and Recommendations on OBC Bills — Office for Other Bangsamoro Communities (OOBC), Office of the Chief Minister (February 2026). 20-page matrix comparing Bills 394, 205, and 203.
 
-[^2]: Strategic Planning Guidebook for the Bangsamoro Government (Cotabato City: Bangsamoro Government, 2026), Chapter 2, Section 2.7 (Template: Legal Mandate Matrix).
-
-[^3]: Bill Drafting Guidebook for the Bangsamoro Parliament, 3rd ed. (Cotabato City: Bangsamoro Parliament, 2026), Chapter 2, Section 2.3.4 (Preparing the Legislative Research Briefer).

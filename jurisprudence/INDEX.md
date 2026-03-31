@@ -1,6 +1,12 @@
 # Philippine Supreme Court Jurisprudence Index
 
-Total: 38857 decisions (1987-2025)
+Total: 38857 decisions + 1 administrative matter (1987-2026)
+
+## Administrative Matters (2026)
+
+| File | Case No. | Title | Date |
+|------|----------|-------|------|
+| [AM-25-11-28-SC](2026/AM-25-11-28-SC.md) | A.M. No. 25-11-28-SC | Governance Framework on the Use of Human-Centered Augmented Intelligence in the Philippine Judiciary | February 18, 2026 |
 
 ## By Period
 

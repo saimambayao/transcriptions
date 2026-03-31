@@ -1,17 +1,17 @@
 # (b) Administrative Organization
 
-> **BOL Art. V, Sec. 2(b)** --- ***"Administrative organization;"***
+> **BOL Art. V, Sec. 2(b)** —***"Administrative organization;"***
 
 ## Power Overview
 
 | Attribute | Value |
 |-----------|-------|
-| **BOL Basis** | Art. V, Sec. 2(b) --- enumerated power |
-| **National Law Consistency Required** | Yes --- Art. VII, Sec. 13 (***"The Parliament shall adopt the Revised Compensation and Position Classification System of the National Government as provided for in Republic Act No. 6758, as amended"***); Art. XVI, Sec. 10 (***"consistent with existing budgeting, organization, staffing, position classification and compensation policies, guidelines, and standards of the National Government"***) |
+| **BOL Basis** | Art. V, Sec. 2(b) —enumerated power |
+| **National Law Consistency Required** | Yes —Art. VII, Sec. 13 (***"The Parliament shall adopt the Revised Compensation and Position Classification System of the National Government as provided for in Republic Act No. 6758, as amended"***); Art. XVI, Sec. 10 (***"consistent with existing budgeting, organization, staffing, position classification and compensation policies, guidelines, and standards of the National Government"***) |
 | **Lead Ministry/Office** | **Office of the Chief Minister (OCM)**; **Bangsamoro Parliament (BTA)** |
 | **Supporting Agencies** | MILG; BPDA; DAB; SAMLMG (BAA 85, Ch. XXXIII) |
-| **BDP Chapter(s)** | Chapter 1 --- BARMM Extended Transition; Chapter 5 --- Governance and Institutional Development |
-| **Priority Code** | **Bangsamoro Administrative Code** (BAA 13) --- one of 7 priority codes (Art. XVI, Sec. 4(a)). **Enacted.** |
+| **BDP Chapter(s)** | Chapter 1 —BARMM Extended Transition; Chapter 5 —Governance and Institutional Development |
+| **Priority Code** | **Bangsamoro Administrative Code** (BAA 13) —one of 7 priority codes (Art. XVI, Sec. 4(a)). **Enacted.** |
 
 ## Legal Sources
 
@@ -22,12 +22,12 @@
 <thead><tr><th>Provision</th><th>Verbatim Text</th><th>Explanation / Implication</th></tr></thead>
 <tbody>
 <tr><td>Art. V, Sec. 2(b)</td><td><em><strong>"Administrative organization;"</strong></em></td><td>Authority to structure, create, reorganize, and manage the entire Bangsamoro bureaucracy.</td></tr>
-<tr><td>Art. VII, Sec. 2</td><td><em><strong>"The powers of government shall be vested in the Parliament ... It shall set policies, legislate on matters within its authority, and elect a Chief Minister who shall exercise executive authority on its behalf."</strong></em></td><td><strong>Parliamentary form</strong> --- foundational organizational principle.</td></tr>
+<tr><td>Art. VII, Sec. 2</td><td><em><strong>"The powers of government shall be vested in the Parliament ... It shall set policies, legislate on matters within its authority, and elect a Chief Minister who shall exercise executive authority on its behalf."</strong></em></td><td><strong>Parliamentary form</strong> —foundational organizational principle.</td></tr>
 <tr><td>Art. VII, Sec. 4</td><td><em><strong>"The executive function and authority shall be exercised by the Cabinet which shall be headed by a Chief Minister."</strong></em></td><td><strong>Cabinet system</strong> under the Chief Minister.</td></tr>
-<tr><td>Art. VII, Sec. 38</td><td><em><strong>"The Bangsamoro Government shall have the power to create offices and organize its own bureaucracy. It may establish other offices and institutions necessary for the exercise of its functions and delivery of social services."</strong></em></td><td><strong>Core organizational power</strong> --- express grant to create offices and organize the bureaucracy.</td></tr>
+<tr><td>Art. VII, Sec. 38</td><td><em><strong>"The Bangsamoro Government shall have the power to create offices and organize its own bureaucracy. It may establish other offices and institutions necessary for the exercise of its functions and delivery of social services."</strong></em></td><td><strong>Core organizational power</strong> —express grant to create offices and organize the bureaucracy.</td></tr>
 <tr><td>Art. VII, Sec. 13</td><td><em><strong>"The Parliament shall adopt the Revised Compensation and Position Classification System of the National Government as provided for in Republic Act No. 6758, as amended."</strong></em></td><td><strong>National law constraint</strong> on compensation.</td></tr>
-<tr><td>Art. VII, Sec. 39</td><td><em><strong>"The Bangsamoro Parliament shall enact a Bangsamoro civil service law which shall be in accordance with existing national civil service laws. In case of conflict ... the Constitution and existing national civil service laws ... shall prevail."</strong></em></td><td>Civil service framework --- national law prevails in conflict.</td></tr>
-<tr><td>Art. VII, Sec. 42</td><td><em><strong>"The Parliament may create other offices such as for the youth, women, settler communities, disaster risk reduction and management, and planning and development, including a Bangsamoro Pilgrimage Authority."</strong></em></td><td><strong>Permissive authority</strong> for additional offices --- non-exhaustive list.</td></tr>
+<tr><td>Art. VII, Sec. 39</td><td><em><strong>"The Bangsamoro Parliament shall enact a Bangsamoro civil service law which shall be in accordance with existing national civil service laws. In case of conflict ... the Constitution and existing national civil service laws ... shall prevail."</strong></em></td><td>Civil service framework —national law prevails in conflict.</td></tr>
+<tr><td>Art. VII, Sec. 42</td><td><em><strong>"The Parliament may create other offices such as for the youth, women, settler communities, disaster risk reduction and management, and planning and development, including a Bangsamoro Pilgrimage Authority."</strong></em></td><td><strong>Permissive authority</strong> for additional offices —non-exhaustive list.</td></tr>
 <tr><td>Art. XVI, Sec. 4(a)</td><td><em><strong>"The Bangsamoro Transition Authority shall prepare and enact the following codes: An Administrative Code..."</strong></em></td><td>Administrative Code is a <strong>priority code</strong>. <strong>Fulfilled</strong> by BAA 13.</td></tr>
 <tr><td>Art. XVI, Sec. 8</td><td><em><strong>"The interim Cabinet shall consist of ... fifteen (15) primary ministries..."</strong></em></td><td>Lists the 15 primary ministries by name.</td></tr>
 <tr><td>Art. XVI, Sec. 10</td><td><em><strong>"...consistent with existing budgeting, organization, staffing, position classification and compensation policies, guidelines, and standards of the National Government."</strong></em></td><td><strong>National consistency requirement</strong> for personnel transfer/placement.</td></tr>
@@ -40,7 +40,7 @@
 <colgroup><col style="width:12%"><col style="width:13%"><col style="width:30%"><col style="width:30%"><col style="width:15%"></colgroup>
 <thead><tr><th>BAA</th><th>PB No.</th><th>Title</th><th>How It Implements This Power</th><th>Status</th></tr></thead>
 <tbody>
-<tr><td>BAA 13</td><td>--</td><td>Bangsamoro Administrative Code</td><td><strong>Primary implementing legislation</strong> --- 6 Books organizing the entire bureaucracy</td><td>In Force</td></tr>
+<tr><td>BAA 13</td><td>--</td><td>Bangsamoro Administrative Code</td><td><strong>Primary implementing legislation</strong> —6 Books organizing the entire bureaucracy</td><td>In Force</td></tr>
 <tr><td>BAA 5</td><td>--</td><td>Attorney-General's Office</td><td>Creates BAGO as executive office</td><td>In Force</td></tr>
 <tr><td>BAA 6</td><td>--</td><td>Socio-Economic Development Planning</td><td>Creates BPDA and BEDC</td><td>In Force</td></tr>
 <tr><td>BAA 11</td><td>--</td><td>Power of Appointment</td><td>Defines appointing authority</td><td>In Force</td></tr>
@@ -138,37 +138,31 @@ A. Art. V, Sec. 2(b) enumerates ***"Administrative organization"*** as one of th
 
 **Q. What provisions elaborate on this power?**
 
-A. Seven clusters: (1) **Parliamentary system** (Art. VII, Sec. 2-4); (2) **organizational authority** (Art. VII, Sec. 38); (3) **compensation constraint** (Art. VII, Sec. 13 --- adopt RA 6758); (4) **additional offices** (Art. VII, Sec. 42); (5) **transition structure** (Art. XVI, Sec. 6-9 --- 15 ministries); (6) **personnel transfer** (Art. XVI, Sec. 10 --- national consistency); (7) **priority code** (Art. XVI, Sec. 4(a) --- Administrative Code mandate, fulfilled by BAA 13).[^2][^3][^4][^5][^6][^7][^8]
+A. Seven clusters: (1) **Parliamentary system** (Art. VII, Sec. 2-4); (2) **organizational authority** (Art. VII, Sec. 38); (3) **compensation constraint** (Art. VII, Sec. 13 —adopt RA 6758); (4) **additional offices** (Art. VII, Sec. 42); (5) **transition structure** (Art. XVI, Sec. 6-9 —15 ministries); (6) **personnel transfer** (Art. XVI, Sec. 10 —national consistency); (7) **priority code** (Art. XVI, Sec. 4(a) —Administrative Code mandate, fulfilled by BAA 13).[^2][^3][^4][^5][^6][^7][^8]
 
 **Q. Does the BOL mandate specific legislation?**
 
-A. Yes. Art. XVI, Sec. 4(a): ***"An Administrative Code"*** --- the strongest mandate (named priority code). **Fulfilled** by BAA 13.[^8]
+A. Yes. Art. XVI, Sec. 4(a): ***"An Administrative Code"*** —the strongest mandate (named priority code). **Fulfilled** by BAA 13.[^8]
 
 **Q. What limitations does the BOL place?**
 
 A. Three: (1) compensation must follow RA 6758 (Art. VII, Sec. 13); (2) personnel placement must be consistent with national standards (Art. XVI, Sec. 10); (3) LGU privileges under RA 7160 cannot be diminished (Art. VI, Sec. 10).[^4][^7][^9]
 
-### B. Shari'ah Considerations
-
-**Q. Does this power have a Shari'ah dimension?**
-
-A. **Indirect but foundational.** *Amanah* (stewardship), *shura* (consultation), and *maslahah* (public interest) inform how the bureaucracy should be organized. BAA 13 integrates Shari'ah through the *Darul Ifta'* (Sec. 52) and BAGO's LROD Shari'ah policy review function (Sec. 17(3)(d)).
-
-### C. Constitutional Considerations
+### B. Constitutional Considerations
 
 **Q. What constitutional provisions apply?**
 
 A. (1) **Art. X, Sec. 20** (autonomous region framework); (2) **Art. IX-B** (CSC jurisdiction over all government personnel); (3) **Art. IX-D** (COA audit authority). CSC and COA retain permanent authority over Bangsamoro Government entities.[^10][^11]
 
-### D. National Law Considerations
+### C. National Law Considerations
 
 **Q. What national laws apply?**
 
 A. All apply: **RA 6758** (directly, per BOL); **RA 7160** (suppletory for LGUs); **RA 6713** (directly, per BOL); **RA 10149** (directly); **RA 9184** (directly). National institutions **CSC**, **COA**, and **DBM** retain permanent authority.[^12][^13]
 
-### E. Implementation
+### D. Implementation
 
-#### E.1 How the Bangsamoro Government Implements This Power
+#### D.1 How the Bangsamoro Government Implements This Power
 
 **Q. What standalone legislation exists?**
 
@@ -176,51 +170,57 @@ A. The **most legislated power** structurally: BAA 13 (Administrative Code); BAA
 
 **Q. What is the OCM structure under BAA 13?**
 
-A. BAA 13, Book IV defines: **OCM Proper** (Chief Minister, Deputy CMs, Executive Offices including Senior Minister, Chief of Staff, Cabinet Secretary, BAGO); **15 primary ministries** (Book V); **Bangsamoro Management Support System** (Sec. 25 --- TMS, AMS, FMS, ISS, Procurement, Clinic, Satellite Offices, Manila Liaison, Library/Archives); **attached offices** (Internal Audit, ICO, Legal Division, Office for Bangsamoro Communities Outside the Region, and numerous councils/commissions/authorities).[^14][^15][^16]
+A. BAA 13, Book IV defines: **OCM Proper** (Chief Minister, Deputy CMs, Executive Offices including Senior Minister, Chief of Staff, Cabinet Secretary, BAGO); **15 primary ministries** (Book V); **Bangsamoro Management Support System** (Sec. 25 —TMS, AMS, FMS, ISS, Procurement, Clinic, Satellite Offices, Manila Liaison, Library/Archives); **attached offices** (Internal Audit, ICO, Legal Division, Office for Bangsamoro Communities Outside the Region, and numerous councils/commissions/authorities).[^14][^15][^16]
 
-#### E.2 How the National Government Implements
+#### D.2 How the National Government Implements
 
 **Q. How does the national government exercise authority?**
 
-A. **CSC** maintains a regional field office (Art. VII, Sec. 39). **COA** audits all entities. **DBM** sets organization/staffing standards per Art. XII, Sec. 19. Administrative organization is **substantially devolved** --- constraints are systemic, not requiring specific devolution actions.
+A. **CSC** maintains a regional field office (Art. VII, Sec. 39). **COA** audits all entities. **DBM** sets organization/staffing standards per Art. XVI, Sec. 10. Administrative organization is **substantially devolved** —constraints are systemic, not requiring specific devolution actions.
 
-#### E.3 BARMM Implementation
+#### D.3 BARMM Implementation
 
 **Q. What has BARMM accomplished?**
 
-A. (1) BAA 13 enacted --- most comprehensive autonomous region administrative code in Philippine history; (2) 15 ministries fully established; (3) 13+ attached offices operationalized; (4) BAA 37 (seat of government); (5) BAA 49 (Local Governance Code); (6) BAA 11 (appointment system); (7) annual GAAs funding the bureaucracy.
+A. (1) BAA 13 enacted —most comprehensive autonomous region administrative code in Philippine history; (2) 15 ministries fully established; (3) 13+ attached offices operationalized; (4) BAA 37 (seat of government); (5) BAA 49 (Local Governance Code); (6) BAA 11 (appointment system); (7) annual GAAs funding the bureaucracy.
 
 **Q. What is holding BARMM back?**
 
 A. (1) Institutional capacity gaps especially in island provinces; (2) Bangsamoro Government Center still under development; (3) some ARMM-to-BARMM personnel placement incomplete.
 
-#### E.4 National Government Implementation
+#### D.4 National Government Implementation
 
 **Q. What should BARMM replicate, adapt, or replace?**
 
 A. **Replicate**: RA 6758, RA 9184, COA standards. **Adapt**: organizational structures for parliamentary system, island geography, Shari'ah policy integration. **Replace**: presidential-bureaucracy model with parliamentary-cabinet model (already done through BAA 13).
 
+### E. Shari'ah Considerations
+
+**Q. Does this power have a Shari'ah dimension?**
+
+A. **Indirect but foundational.** *Amanah* (stewardship), *shura* (consultation), and *maslahah* (public interest) inform how the bureaucracy should be organized. BAA 13 integrates Shari'ah through the *Darul Ifta'* (Sec. 52) and BAGO's LROD Shari'ah policy review function (Sec. 17(3)(d)).
+
 ### F. Divergence Analysis
 
 **Q. To what extent can BARMM diverge?**
 
-A. **Broad authority** to organize differently. Art. VII, Sec. 38 grants express organizational power; the BOL itself establishes a parliamentary system distinct from the national presidential system. Limits from **Theme C**: CSC jurisdiction, COA authority, RA 6758 compensation constraint. Within these, BARMM can create entities with no national counterpart (e.g., CSEA, *Darul Ifta'*, Office for Bangsamoro Communities Outside the Region).
+A. **Broad but bounded** authority to organize differently. Art. VII, Sec. 38 grants express organizational power; the BOL itself establishes a parliamentary system distinct from the national presidential system. Limits from the **Shari'ah Considerations** section (Section E): CSC jurisdiction (Art. VII, Sec. 39 — "shall prevail"), COA authority (Art. XII, Sec. 2 — exclusive auditor), RA 6758 compensation constraint (Art. VII, Sec. 13 — salary standardization). Within these bounds, BARMM can create entities with no national counterpart (e.g., CSEA, *Darul Ifta'*, Office for Bangsamoro Communities Outside the Region).
 
 ### G. Legislative Gaps
 
 **Q. Are there overlapping jurisdictions?**
 
-A. **Personnel management**: CSC retains jurisdiction (Constitution, Art. VII, Sec. 39) while Bangsamoro Government exercises organizational authority (Art. VII, Sec. 38). Resolution: Art. VII, Sec. 39 (national law prevails in conflict). **LGU supervision**: MILG under BAA 49 and DILG under RA 7160 --- BAA 49 addresses most overlap.
+A. **Personnel management**: CSC retains jurisdiction (Constitution, Art. VII, Sec. 39) while Bangsamoro Government exercises organizational authority (Art. VII, Sec. 38). Resolution: Art. VII, Sec. 39 (national law prevails in conflict). **LGU supervision**: MILG under BAA 49 and DILG under RA 7160 —BAA 49 addresses most overlap.
 
 **Q. Pending bills?**
 
-A. PB Nos. 166, 195, 251, 321, 370, 387, 417 --- addressing ministry creation, administrative systems, organizational restructuring.
+A. PB Nos. 166, 195, 251, 321, 370, 387, 417 —addressing ministry creation, administrative systems, organizational restructuring.
 
 ### H. Development Connection
 
 **Q. What development outcomes are at risk?**
 
-A. Without full institutional capacity in all ministries --- especially island provinces --- service delivery is compromised. Without the Government Center, efficiency suffers from dispersed operations.
+A. Without full institutional capacity in all ministries —especially island provinces —service delivery is compromised. Without the Government Center, efficiency suffers from dispersed operations.
 
 ### I. Power-Specific Questions
 
@@ -238,7 +238,7 @@ A. Yes. Art. VII, Sec. 38 grants power to ***"create offices and organize its ow
 
 **Q. What is the DAB's role?**
 
-A. DAB (BAA 13, Sec. 47) is the ***"central human capital development training and research arm"*** --- the mechanism for building bureaucratic capacity across all ministries and offices.
+A. DAB (BAA 13, Sec. 47) is the ***"central human capital development training and research arm"*** —the mechanism for building bureaucratic capacity across all ministries and offices.
 
 ### Legislative Gaps and Recommended Legislation
 

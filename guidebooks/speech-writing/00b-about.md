@@ -26,6 +26,16 @@ The guidebook walks you through every stage of parliamentary speech writing:
 - **The Glossary** defines 30+ speech writing terms you will use daily.
 - **The Appendices** provide ready-to-use templates, sample speeches, quick references, and checklists.
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting speech templates, structuring rhetorical frameworks, formatting protocol references, and organizing parliamentary speech type taxonomies.
+
+AI did not design the methodology. The six-stage speech writing process, the cultural protocol conventions, the rhetorical techniques tailored to Bangsamoro governance themes, and the quality review standards come from the author's professional experience in Bangsamoro governance -- not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal citation, parliamentary procedure reference, and governance claim in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), enacted Bangsamoro Autonomy Acts, and official parliamentary records. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
 ## How to Use This Guidebook
 
 **Read the first two chapters first.** They establish the foundation. After that, go to the chapter you need most. Writing an authorship speech? Turn to Chapter 3. Preparing a keynote? Go to Chapter 4. Unsure about Islamic greeting protocols? Chapter 6 has a complete reference.

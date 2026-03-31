@@ -25,6 +25,16 @@ If you are a supervisor, this guidebook will help you:
 
 If you are a staff member and you are reading this, you are welcome — but know that every chapter is written from the supervisor's seat. The frameworks, protocols, and templates are tools for the person doing the supervising.
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across supervisory competency frameworks and Bangsamoro governance standards, and fact-checking against known error patterns.
+
+AI did not design the methodology. The 12 Supervisory Competencies framework, the integration of Islamic leadership principles (Amanah, Adl, Shura, Rahmah, Sidq), the performance management protocols, and the connection between supervision quality and Complete Staff Work come from the author's professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every competency framework documented, supervisory protocol described, and governance practice referenced in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
 ## How to Use This Guidebook
 
 **Use it chapter by chapter, not cover to cover.** Each chapter is self-contained. If you need to give feedback tomorrow, read Chapter 3. If you are writing performance evaluations next week, read Chapter 13. If you just became a supervisor for the first time, start with Chapter 1.

@@ -119,11 +119,11 @@ For Book VI (your most common destination), the 20 Titles correspond to specific
 | VIII | Interior and Local Government (MILG) |
 | IX | Labor and Employment (MOLE) |
 | X | Public Order and Safety (MPOS) |
-| XI | Public Works (MOPW) |
+| XI | Public Works (MPW) |
 | XII | Science and Technology (MOST) |
 | XIII | Social Services and Development (MSSD) |
 | XIV | Trade, Investments, and Tourism (MTIT) |
-| XV | Transportation and Communications (MTC) |
+| XV | Transportation and Communications (MOTC) |
 | XVI | Bangsamoro Commissions (BWC and others) |
 | XVII | Other Commissions and Bodies (BHRC, BYC, BSC) |
 | XVIII | Administrative Services |

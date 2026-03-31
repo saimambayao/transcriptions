@@ -16,6 +16,16 @@ This guidebook is for anyone working to build a successful Bangsamoro:
 
 No prior knowledge of systems thinking or complexity theory is required. Each concept is introduced from first principles and immediately applied to a Bangsamoro example.
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting systems thinking explanations, structuring complexity theory frameworks, formatting diagnostic tools, and organizing the analysis of Bangsamoro governance as a complex adaptive system.
+
+AI did not design the methodology. The application of systems thinking and complexity theory to Bangsamoro challenges, the analysis of wicked problems in the region, the adaptive cycle diagnostics, the futuring frameworks, and the strategic prescriptions for the first elected regular government come from the author's professional experience in Bangsamoro governance -- not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every governance claim, institutional reference, and development data point in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), the Bangsamoro Development Plan 2023-2028, and official government records. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
 ## How to Use This Manual
 
 This guidebook has two distinct parts:

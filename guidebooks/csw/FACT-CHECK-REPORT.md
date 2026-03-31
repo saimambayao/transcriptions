@@ -197,7 +197,7 @@ The CSW guidebook does not name specific current officials in its instructional 
 ### VERIFIED-08 — ADDRESS IT 7-step sequence
 
 **Location**: Throughout (00b-about.md, 01-introduction.md, Chapters 4-10)
-**Claim**: A (Analyze), DD (Define and Deliberate), R (Research), E (Explore), SS (Submit), S (Sustain), IT (Iterate)
+**Claim**: A (Analyze), DD (Define and Deliberate), R (Research), E (Explore), S (Submit), S (Sustain), IT (Iterate)
 **Canonical source**: ~/.claude/skills/csw/references/address-it-framework.md
 **Status**: VERIFIED — All 7 steps match the canonical version exactly. Step names, mnemonic letters, and sequence are correct. One minor note: the canonical framework's Step 5 is titled "Submit Proposal or Report" and Step 6 is "Sustain Efforts to Implement the Solution" — the guidebook uses these same names consistently.
 

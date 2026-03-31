@@ -33,43 +33,9 @@ The BOL has **18 articles** — not 13, not 16, not "around 15." Getting the art
 | **XVII** | Amendments |
 | **XVIII** | Final Provisions |
 
-**Memorize this table.** Better yet, print it and keep it within arm's reach whenever you work on BARMM legal research. Every BOL citation you write should be checked against this map. The most common error in BARMM documents — bar none — is citing the wrong article number. Section 5.1.2 covers the dangerous swaps in detail.
+**Memorize this table.** Better yet, print it and keep it within arm's reach whenever you work on BARMM legal research. Every BOL citation you write should be checked against this map.
 
-### 5.1.2 Dangerous Article Swaps
-
-Article numbering errors are the most frequent factual mistake in BARMM legal documents. Some articles are particularly easy to confuse because their subjects sound related or their numbers are adjacent. Here are the five most dangerous swaps:
-
-**Swap 1: Article IX (Basic Rights) vs. Article X (Justice System)**
-
-These two are confused constantly because both relate to "rights" and "justice." But they cover entirely different subjects. Article IX covers basic rights — transitional justice (Sec. 1), IP rights (Sec. 3), religious freedom (Sec. 5), education (Secs. 16-19), health (Sec. 22). Article X covers the Shari'ah court system — jurisdiction of Shari'ah Circuit Courts (Sec. 5), District Courts (Sec. 6), the High Court (Sec. 7), qualifications of Shari'ah judges (Sec. 8).
-
-**Test:** If you are citing a provision about education, IP rights, or social services, you want Article IX. If you are citing a provision about court jurisdiction or Shari'ah procedures, you want Article X.
-
-**Swap 2: Article V (Powers of Government) vs. Article VI (Intergovernmental Relations)**
-
-Article V lists the 55 enumerated powers and the general welfare clause. Article VI creates the intergovernmental bodies — the Intergovernmental Relations Body (Sec. 2), the Philippine Congress-Bangsamoro Parliament Forum (Sec. 3), the Intergovernmental Fiscal Policy Board (Sec. 4), and the Council of Leaders (Sec. 9). A researcher looking for the legal basis of a Bangsamoro power cites Article V. A researcher looking for intergovernmental coordination mechanisms cites Article VI. They are adjacent articles, both about "government powers," and the swap is easy to make.
-
-**Test:** If you need the enumeration of what the Bangsamoro Government can do, that is Article V. If you need the mechanism for coordinating with the National Government, that is Article VI.
-
-**Swap 3: Article VII (Bangsamoro Government) vs. Article VIII (Wali)**
-
-Article VII covers the Parliament's structure, composition, legislative powers, the Chief Minister's election and powers, and administrative organization — it spans at least 42 sections. Article VIII covers the Wali — the ceremonial head of the Bangsamoro Government — in just 6 sections. The confusion arises when a researcher looks for the "head of government" and cites Article VIII (Wali) instead of Article VII, Section 32 (Chief Minister's powers).
-
-**Test:** If you are looking for legislative procedures, the Chief Minister's authority, or the bureaucracy's organization, you want Article VII. If you are looking for the ceremonial head, oath administration, or Parliament dissolution mechanics, you want Article VIII.
-
-**Swap 4: Article VIII (Wali) vs. Article XVI (Transition)**
-
-This is the most dangerous swap for researchers working on the BTA period. Article VIII covers the Wali — a permanent office in the Bangsamoro Government structure. Article XVI covers the Bangsamoro Transition Authority — the interim government that operates during the transition period. Confusing the two means confusing a permanent institutional role with a temporary governance arrangement. Citing "Article VIII" when you mean the transition provisions sends your reader to the wrong part of the BOL entirely.
-
-**Test:** If you are writing about the BTA's mandate, its priority legislation, its composition, or the transition timeline, you want Article XVI. If you are writing about the ceremonial head who administers oaths and opens Parliament sessions, you want Article VIII.
-
-**Swap 5: Article XII, Section 9 vs. Sections 15-16 for the Block Grant**
-
-Article XII covers fiscal autonomy. Section 9 lists **limitations on taxing powers** — the things the Bangsamoro Government *cannot* tax. Sections 15 and 16 establish the **annual block grant** — the share of national internal revenue tax collections that funds the Bangsamoro Government. Citing Section 9 for the block grant is wrong. Section 9 restricts taxing power; Sections 15-16 provide the grant.
-
-**Test:** If you need the block grant provisions (amount, formula, automatic appropriation), cite Sections 15-16 of Article XII. If you need the list of taxes the Bangsamoro Government cannot impose, cite Section 9 of Article XII.
-
-### 5.1.3 The Three Power Clauses: Residual, Enumerated, and General Welfare
+### 5.1.2 The Three Power Clauses: Residual, Enumerated, and General Welfare
 
 Chapter 3 introduced the three relationships to national law (enumerated powers with no consistency requirement, powers requiring national law consistency, residual national powers). This section focuses on the three BOL provisions that define the scope of Bangsamoro authority. You must be able to find, quote, and apply all three.
 
@@ -167,7 +133,7 @@ This clause extends authority beyond the literal 55 enumerated powers in two way
 
 The general welfare clause is powerful but bounded. It cannot create authority where no express power supports it. If none of the 55 enumerated powers relates to a subject — say, national defense — the general welfare clause cannot fill that gap. Article V, Section 1 (the residual clause) sends that power to the National Government.
 
-### 5.1.4 Article-by-Article Research Guide
+### 5.1.3 Article-by-Article Research Guide
 
 This section provides a research-oriented summary of each BOL article. Use it when you need to quickly locate which article addresses a particular subject.
 
@@ -331,13 +297,12 @@ The BOL contains dozens of delegations. Here are the most significant:
 | BOL Provision | Subject Delegated | Status |
 |---------------|-------------------|--------|
 | Art. XVI, Sec. 4(a) | Bangsamoro Administrative Code | Enacted (BAA 13) |
-| Art. XVI, Sec. 4(a) | Bangsamoro Revenue Code | Enacted (BAA 11) |
-| Art. XVI, Sec. 4(a) | Bangsamoro Electoral Code | Enacted (BAA 36) |
-| Art. XVI, Sec. 4(a) | Bangsamoro Local Government Code | Enacted (BAA 15) |
+| Art. XVI, Sec. 4(a) | Bangsamoro Revenue Code | Not yet enacted |
+| Art. XVI, Sec. 4(a) | Bangsamoro Electoral Code | Enacted (BAA 35) |
+| Art. XVI, Sec. 4(a) | Bangsamoro Local Governance Code | Enacted (BAA 49) |
 | Art. XVI, Sec. 4(a) | Bangsamoro Education Code | Enacted (BAA 18) |
-| Art. VII, Sec. 39 | Bangsamoro Civil Service Code | Enacted (BAA 14) |
-| Art. XII, Sec. 14 | Bangsamoro Tax and Revenue Code | Enacted (BAA 11) |
-| Art. IX, Sec. 1 | Transitional justice mechanism | Pending |
+| Art. VII, Sec. 39 | Bangsamoro Civil Service Code | Enacted (BAA 17) |
+| Art. IX, Sec. 1 | Transitional justice mechanism | Enacted (BAA 89) |
 | Art. IX, Sec. 9 | Housing and human settlements agency | Enacted through BAA 13 provisions |
 | Art. X, Sec. 4 | Shari'ah laws (personal, family, property) | Pending |
 | Art. X, Sec. 17 | Traditional/tribal justice systems law | Pending |

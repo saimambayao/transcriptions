@@ -1,6 +1,6 @@
 # Chapter 3 — The BARMM Legal Hierarchy: A Researcher's Guide
 
-Two existing BARMM guidebooks present the legal hierarchy — and they present it differently. The Bill Drafting Guidebook places national laws at Tier 3, above Bangsamoro Autonomy Acts. The Strategic Planning Guidebook separates the Administrative Code (BAA 13) as its own tier and places national laws below other BAAs. Both are right, and both are incomplete, because the hierarchy is not a fixed ladder. It is a context-dependent structure where the order changes based on the subject matter.
+Different approaches to presenting the BARMM legal hierarchy exist — some place national laws at Tier 3 (above BAAs), others separate the Administrative Code (BAA 13) as its own tier and place national laws below other BAAs. Both approaches have merit, and both are incomplete, because the hierarchy is not a fixed ladder. It is a context-dependent structure where the order changes based on the subject matter.
 
 This chapter gives you the definitive model: **seven tiers with three relationships to national law** that determine which tier controls for any given research question. Master this framework and you will never again ask "which law prevails?" without being able to answer it.
 
@@ -24,7 +24,7 @@ Two things about this table require explanation.
 
 **First, the word "default."** Tiers 1, 2, 6, and 7 always occupy their positions. The Constitution always prevails. The BOL always prevails over BAAs. Executive issuances always yield to the BAAs they implement. Jurisprudence always provides binding interpretation. But the relationship between Tiers 3-5 — BAA 13, other BAAs, and national laws — depends on the subject matter. This is where the three relationships to national law come in (Section 3.2).
 
-**Second, BAA 13 gets its own tier.** The Bill Drafting Guidebook groups BAA 13 with other BAAs. The Strategic Planning Guidebook separates it as Tier 3. This guidebook follows the Strategic Planning approach for a practical reason: BAA 13 (the Bangsamoro Administrative Code) is not just another BAA. It prescribes the structural, functional, and procedural principles of the entire Bangsamoro Government.[^1] It establishes all 15 ministries, defines the powers of the Chief Minister, creates BPDA and BEDC, and provides the governance framework within which all other BAAs operate. For the legal researcher, BAA 13 is the first place to look for institutional mandates and organizational authority — before sector-specific BAAs, before national laws. It is the government's operating manual.
+**Second, BAA 13 gets its own tier.** Some approaches group BAA 13 with other BAAs. This guidebook separates it as Tier 3 for a practical reason: BAA 13 (the Bangsamoro Administrative Code) is not just another BAA. It prescribes the structural, functional, and procedural principles of the entire Bangsamoro Government.[^1] It establishes all 15 ministries, defines the powers of the Chief Minister, creates BPDA and BEDC, and provides the governance framework within which all other BAAs operate. For the legal researcher, BAA 13 is the first place to look for institutional mandates and organizational authority — before sector-specific BAAs, before national laws. It is the government's operating manual.
 
 ---
 
@@ -52,29 +52,82 @@ The full list runs from (a) to (ccc) — 55 areas covering everything from admin
 
 This means the Bangsamoro Government may also exercise **implied powers** — those necessarily implied from the express grants — and **incidental powers** — those necessary for efficient governance and general welfare. However, implied powers must be traceable to an express grant. You cannot use the general welfare clause to claim authority that no enumerated power supports.
 
-### 3.2.2 National Law Consistency Required
+### 3.2.2 National Law Consistency Required: The Five Types of BOL Conformity Language
 
-**Definition:** Subjects where the BOL explicitly requires consistency with national law. The BOL enumerates the power but also specifies that the Bangsamoro Government must act consistently with national law in that area. In these areas, **national law sets the framework** and BAAs must be consistent with it.
+**Definition:** Subjects where the BOL explicitly requires consistency with national law. The BOL enumerates the power but also specifies — using one of five distinct types of conformity language — that the Bangsamoro Government must act within national law boundaries. In these areas, **national law sets the framework** and BAAs must be consistent with it.
 
-The BOL identifies these areas by specific provisions scattered across multiple articles — not by a single list. The researcher must know where to find them:
+The BOL contains **126 constraining provisions** scattered across all 18 articles — not a single list. An exhaustive scan reveals five types of conformity language, each with different legal effects:[^4]
 
-| BOL Provision | Subject | What It Says |
-|---------------|---------|-------------|
-| Art. VII, Sec. 39 | **Civil service** | "In case of conflict with the national laws, the Constitution and existing national civil service laws, rules, and regulations shall prevail"[^4] |
-| Art. VII, Sec. 28 | **Budget** | Must be "consistent with existing laws, rules and regulations of the National Government"[^5] |
-| Art. IV, Sec. 4 | **Elections** | Must be "consistent with national election laws"[^6] |
-| Art. XII, Sec. 34 | **Audit** | COA remains the exclusive auditor of the Bangsamoro Government |
-| Art. IX, Sec. 3 | **Indigenous peoples' rights** | Rights under RA 8371 (IPRA) "shall not be diminished"[^7] |
-| Art. XII, Sec. 1 | **Fiscal autonomy** | Block grant and revenue sharing follow nationally-determined formulas |
-| Art. VII, Sec. 3 | **Parliamentary powers** | Parliament has "the authority to enact laws on matters that are within the powers and competencies of the Bangsamoro Government" |
+**Type 1: "Shall Prevail" — Supremacy Clauses (11 provisions)**
 
-**What this means for research:** When your research question falls into one of these areas, you must search **both** the BAA framework and the applicable national law. The national law sets a floor (or sometimes a ceiling) that BAAs cannot breach. A BAA on civil service cannot contradict the national Civil Service Commission's rules. A BAA on procurement must be consistent with RA 12009 to the extent the BOL requires. Your Comparative Matrix (Chapter 2, Section 2.4.3) is essential here — it reveals where the BAA and the national law diverge.
+National law overrides any conflicting BAA. These are the strongest constraints — express conflict-resolution clauses.
 
-**Critical nuance:** The specific provisions above are the only areas where the BOL *expressly* requires national law consistency. In all other enumerated powers where the BOL is silent on national law applicability, the Parliament has primary legislative competence. Article VII, Section 39's "national civil service laws shall prevail" applies **only to civil service law** — it is not a blanket rule that national law always prevails over BAAs.[^8]
+| BOL Provision | Subject | Verbatim Language |
+|---|---|---|
+| Art. VII, Sec. 39 | **Civil service** | "In case of conflict with the national laws, the Constitution and existing national civil service laws, rules, and regulations **shall prevail**" |
+| Art. V, Sec. 1 | **Residual powers** | Powers not granted "**shall be vested in** the National Government" |
+| Art. XII, Sec. 9 | **Tax limitations** | 12 categories of taxes BARMM **cannot impose** |
+| Art. XVII, Sec. 1 | **BOL amendment** | Only Congress can amend the BOL |
+| Art. XIII, Sec. 39 | **Telecom franchises** | Congress retains national franchise power |
+
+Civil service (Art. VII, Sec. 39) is the **most constrained** of all 55 powers — it is the only provision with an express conflict-resolution supremacy clause covering BARMM's own legislation.[^5]
+
+**Type 2: "Shall Conform" / Minimum Standards (7 provisions)**
+
+BARMM must meet or exceed national minimums. Can go above, cannot go below.
+
+| BOL Provision | Subject | Verbatim Language | National Standard |
+|---|---|---|---|
+| Art. IX, Sec. 16 | **Basic education** | "shall conform to the minimum standards set by the National Government" | DepEd K-12 |
+| Art. IX, Sec. 17 | **Vocational/TESD** | same language | TESDA Training Regulations |
+| Art. X, Sec. 8 | **Shari'ah judges** | "regular member of the Philippine Bar" | SC Bar admission |
+| Art. VII, Sec. 13 | **Compensation** | "shall adopt the Revised Compensation and Position Classification System...RA 6758" | Salary Standardization |
+| Art. XII, Sec. 3 | **Local treasurer qualifications** | "guided by the standards set by DOF-BLGF" | DOF-BLGF standards |
+| Art. VI, Sec. 10 | **Municipality creation** | "criteria laid down in RA 7160...shall be satisfied" | LGC criteria |
+| Art. XII, Sec. 20(b) | **Salary ceiling** | "No official...entitled to a salary rate higher than the maximum fixed...by applicable laws" | RA 6758 grades |
+
+**Type 3: "Consistent With" — Framework Alignment (33 provisions)**
+
+BAAs must not contradict national law but have room for regional adaptation within the framework.
+
+| BOL Provision | Subject | Key Language |
+|---|---|---|
+| Art. VII, Sec. 28 | **Budget** | "consistent with existing laws, rules and regulations of the National Government"[^6] |
+| Art. IV, Sec. 4 | **Elections** | "consistent with national election laws"[^7] |
+| Art. XIII, Sec. 32 | **Fishery** | "consistent with RA 8550" |
+| Art. XIII, Sec. 26 | **Agriculture** | "consistent with RA 8550 and other national laws" |
+| Art. XI, Sec. 5 | **DRRM** | "consistent with RA 10121" |
+
+This is the largest category. The full list of 33 provisions spans fiscal autonomy, natural resources, trade, and regulatory subjects. The researcher must search each relevant BOL article for "consistent with" language before concluding that no national law consistency is required.
+
+**Type 4: Institutional Jurisdiction Retention (47 provisions)**
+
+National agencies keep authority within BARMM. Cannot be displaced by BAAs.
+
+Key retentions: Supreme Court (courts, bar, judicial personnel), COA (exclusive auditor — Art. XII, Sec. 2), CSC (civil service), COMELEC (elections), BSP (Islamic banking supervision), PNP/BFP/BJMP (security forces), DOE (fossil fuels — joint exercise), CHED/TESDA/DepEd (education coordination), FDA (food/drug/tobacco regulation), PSA (civil registration).
+
+**Type 5: "Shall Not Diminish" — One-Way Ratchet Floors (8 provisions)**
+
+Existing rights and privileges are the floor — can only go up, never down.
+
+| BOL Provision | Subject | What It Protects |
+|---|---|---|
+| Art. VI, Sec. 10 | **LGU privileges** | Privileges under RA 7160 "shall not be diminished" |
+| Art. IX, Sec. 3 | **Indigenous peoples' rights** | Rights under RA 8371 "shall not in any manner diminish"[^8] |
+| Art. XII, Sec. 8 | **Investor incentives** | Existing incentives honored |
+| Art. XII, Sec. 36 | **IP revenue share** | IP community revenue share rights |
+
+**The judicial test.** The Supreme Court confirmed the enforceability of these constraints in *Ali et al. v. BTA Parliament* (G.R. No. E-02219, September 30, 2025): "While Congress may establish autonomous regions and grant them legislative authority, such authority must always operate within the bounds of the Constitution and national statutes." The Court described this limitation as **"clear and categorical."**[^9]
+
+**What this means for research:** When your research question falls into one of these areas, you must search **both** the BAA framework and the applicable national law. The type of conformity language determines the constraint's strength: "shall prevail" is the strongest (national law controls absolutely), "shall conform" sets a minimum floor, "consistent with" requires framework alignment, institutional retention prevents displacement, and "shall not diminish" locks existing rights as a one-way ratchet.
+
+Your Comparative Matrix (Chapter 2, Section 2.4.3) is essential here — it reveals where the BAA and the national law diverge, and the type of conformity language tells you whether that divergence is permissible.
+
+**Critical nuance:** These five types of conformity language are the only areas where the BOL *expressly* constrains Bangsamoro legislation against national law. In all other enumerated powers where the BOL is silent on national law applicability (approximately 20 of the 55 powers — cooperatives, housing, culture, solid waste, humanitarian services, customary laws, etc.), the Parliament has primary legislative competence. Article VII, Section 39's "national civil service laws shall prevail" applies **only to civil service law** — it is not a blanket rule that national law always prevails over BAAs.
 
 ### 3.2.3 Residual National Power
 
-**Definition:** Subjects not enumerated in Article V, Section 2. The National Government retains authority because the power has not been granted to the Bangsamoro Government. Under Article V, Section 1:[^9]
+**Definition:** Subjects not enumerated in Article V, Section 2. The National Government retains authority because the power has not been granted to the Bangsamoro Government. Under Article V, Section 1:[^10]
 
 > All powers, functions, and responsibilities not granted by the Constitution or by national law to the Bangsamoro Government shall be vested in the National Government.
 
@@ -95,11 +148,11 @@ Read the full list of 55 powers (Appendix A). Does your subject match one of the
 - **YES** → Proceed to Step 2.
 - **NO** → This is a **residual national power**. National law governs. The Bangsamoro Parliament has no legislative competence. Stop here.
 
-**Step 2: Does the BOL explicitly require consistency with national law on this subject?**
+**Step 2: Does the BOL contain conformity language for this subject?**
 
-Check the provisions listed in Section 3.2.2 above. Does the BOL contain a specific provision requiring consistency with national law for this subject?
+Check the five types of conformity language listed in Section 3.2.2 above. Does the BOL contain a "shall prevail," "shall conform," "consistent with," institutional retention, or "shall not diminish" provision for this subject?
 
-- **YES** → **National law consistency is required**. Both BAAs and national laws apply. National law sets the floor or ceiling. Search Tiers 2-5 thoroughly and build your Comparative Matrix.
+- **YES** → **National law consistency is required**. Identify which type(s) of conformity language apply — this determines the constraint's strength. Both BAAs and national laws apply. Build your Comparative Matrix.
 - **NO** → Proceed to Step 3.
 
 **Step 3: Has Parliament enacted a BAA on this subject?**
@@ -120,18 +173,18 @@ Is it within the 55 enumerated powers (Art. V, Sec. 2)?
    YES                              NO
     |                               |
     v                               v
-Does the BOL require         RESIDUAL NATIONAL
-national law consistency?    POWER
+Does the BOL contain         RESIDUAL NATIONAL
+conformity language?         POWER
     |              |         National law governs.
    YES             NO        Parliament has no
     |              |         legislative competence.
     v              v
-NATIONAL LAW     Has Parliament enacted
-CONSISTENCY      a BAA on this subject?
-REQUIRED             |              |
+CONFORMITY       Has Parliament enacted
+LANGUAGE         a BAA on this subject?
+FOUND                |              |
 Both apply.         YES             NO
-National law         |              |
-sets floor.          v              v
+Constraint type      |              |
+determines effect.   v              v
               BAA GOVERNS    LEGISLATIVE GAP
               No national    National law may
               law consis-    apply suppletorily
@@ -147,7 +200,7 @@ This flowchart is the **National Law Relationship Test**. Print it. Put it on yo
 When provisions from different tiers conflict, apply these eight rules in order:
 
 **Rule 1: The Constitution prevails over all other sources, including the BOL itself.**
-No provision of the BOL, no BAA, and no executive issuance can contradict the Constitution. If a BAA violates a constitutional provision, it is void — regardless of whether the subject is within the 55 enumerated powers.[^10]
+No provision of the BOL, no BAA, and no executive issuance can contradict the Constitution. If a BAA violates a constitutional provision, it is void — regardless of whether the subject is within the 55 enumerated powers.[^11]
 
 **Rule 2: The BOL prevails over all BAAs.**
 If a BAA contradicts a provision of the BOL, the BOL controls. BAAs are enacted *under* the BOL's grant of authority. They cannot exceed that grant.
@@ -168,7 +221,7 @@ When a general BAA (like BAA 13) and a specific BAA (like BAA 84 on the budget s
 An executive order, administrative order, or memorandum circular cannot contradict the BAA it implements. It also cannot expand the BAA's scope beyond Parliament's intent. If an IRR adds requirements not found in the BAA, those additional requirements may be challenged as *ultra vires*.
 
 **Rule 8: Jurisprudence provides binding interpretation of all other sources.**
-Supreme Court decisions define the boundaries of BARMM authority. When the SC rules on the validity of a BAA, the scope of BOL provisions, or the limits of regional autonomy, that ruling is binding on all government bodies. The SC's interpretation becomes part of the legal landscape — your research must account for it.[^11]
+Supreme Court decisions define the boundaries of BARMM authority. When the SC rules on the validity of a BAA, the scope of BOL provisions, or the limits of regional autonomy, that ruling is binding on all government bodies. The SC's interpretation becomes part of the legal landscape — your research must account for it.[^12]
 
 ---
 
@@ -207,10 +260,10 @@ Chapter 9 covers this in detail. For now, the checkpoint ensures you do not comp
 
 <table>
 <colgroup><col style="width:18%"><col style="width:27%"><col style="width:27%"><col style="width:28%"></colgroup>
-<thead><tr><th>Aspect</th><th>BOL (RA 11054)</th><th>BAA 38</th><th>RA 12009</th></tr></thead>
+<thead><tr><th>Aspect</th><th>BOL (RA 11054)</th><th>BAA (Bangsamoro)</th><th>RA 12009 (National)</th></tr></thead>
 <tbody>
 <tr><td><strong>Authority</strong></td><td>Art. V, Sec. 2(f): Budgeting; Art. V, Sec. 3: General welfare; Art. VII, Sec. 28: Budget consistency with national laws</td><td>No Bangsamoro procurement BAA enacted as of March 2026</td><td>RA 12009 (New Government Procurement Act, 2024) — applies directly to BARMM</td></tr>
-<tr><td><strong>Scope</strong></td><td>Within BARMM territorial jurisdiction</td><td>All procurement by BARMM MOAs</td><td>All government procurement nationwide</td></tr>
+<tr><td><strong>Scope</strong></td><td>Within BARMM territorial jurisdiction</td><td>—</td><td>All government procurement nationwide</td></tr>
 <tr><td><strong>Conflict / Gap</strong></td><td colspan="3"><strong>Legislative gap.</strong> No Bangsamoro Procurement Act has been enacted. RA 12009 applies directly. COA audits BARMM procurement against national standards. Parliament could enact a regional framework, but Art. VII, Sec. 28 requires budget consistency with national laws.</td></tr>
 </tbody>
 </table>
@@ -230,7 +283,7 @@ This is the most common hierarchy error. The BOL enumerates 55 power areas. In t
 The opposite error. Some researchers, knowing BARMM has enumerated powers, assume BAAs always control. But where national law consistency is required, national law sets the floor. A BAA on civil service that contradicts the national Civil Service Commission's rules is invalid to the extent of the inconsistency.
 
 **Pitfall 3: Citing the wrong BOL article.**
-Article misattribution is the number one error in BARMM documents. The BOL has **18 articles**, not 13. The most dangerous swaps: Art. IX (Basic Rights) cited when Art. X (Justice System) is correct; Art. V (Powers) cited when Art. VI (Intergovernmental Relations) is correct; Art. VIII (Wali) cited when Art. XVI (Transition) is correct; Art. XII, Sec. 9 cited for the Block Grant when the correct reference is Secs. 15-16.[^12] Always verify against the verbatim BOL text.
+The BOL has **18 articles** with adjacent numbers that cover related subjects. Always verify article citations against the 18-article map in Chapter 5 and Appendix A.
 
 **Pitfall 4: Treating the hierarchy as fixed and universal.**
 The hierarchy is not a single ladder that applies the same way to every question. It is a context-dependent structure. The relationship between Tiers 3-5 changes based on the relationship to national law. A researcher who memorizes "Constitution > BOL > National Laws > BAAs" (the Bill Drafting model) will get the wrong answer for areas where no national law consistency is required. A researcher who memorizes "Constitution > BOL > BAA 13 > BAAs > National Laws" (the Strategic Planning model) will get the wrong answer where national law consistency is required. Use the National Law Relationship Test, not a memorized sequence.
@@ -249,8 +302,8 @@ Use this template for every research question. Fill in the three steps, then pro
 <thead><tr><th>Step</th><th>Finding</th><th>Result</th></tr></thead>
 <tbody>
 <tr><td><strong>Step 1:</strong> Is the subject within the 55 enumerated powers (Art. V, Sec. 2)?</td><td>[Which power(s)? Direct match or implied through Art. V, Sec. 3?]</td><td>YES / NO</td></tr>
-<tr><td><strong>Step 2:</strong> Does the BOL require national law consistency?</td><td>[Which BOL provision? Art. VII Sec. 39 (civil service), Art. VII Sec. 28 (budget), Art. IV Sec. 4 (elections), Art. XII Sec. 2 (audit), Art. IX Sec. 3 (IP rights)?]</td><td>YES / NO</td></tr>
-<tr><td><strong>Step 3:</strong> Has Parliament enacted a BAA on this subject?</td><td>[Which BAA? Check index at ~/Vault/bangsamoro/bangsamoro-laws/index.md]</td><td>YES / NO / PARTIAL</td></tr>
+<tr><td><strong>Step 2:</strong> Does the BOL contain conformity language?</td><td>[Which type? "Shall prevail" (11 provisions), "Shall conform" / minimum standards (7), "Consistent with" (33), Institutional retention (47), "Shall not diminish" (8). Which specific BOL provision(s)?]</td><td>YES / NO</td></tr>
+<tr><td><strong>Step 3:</strong> Has Parliament enacted a BAA on this subject?</td><td>[Which BAA? Check the enacted BAA index]</td><td>YES / NO / PARTIAL</td></tr>
 <tr><td colspan="2"><strong>Classification:</strong></td><td>[NO NATIONAL LAW CONSISTENCY REQUIRED / NATIONAL LAW CONSISTENCY REQUIRED / RESIDUAL NATIONAL POWER / GAP]</td></tr>
 <tr><td colspan="2"><strong>Shari'ah dimension?</strong></td><td>[YES / NO]</td></tr>
 <tr><td colspan="2"><strong>Tiers to search:</strong></td><td>[List relevant tiers]</td></tr>
@@ -265,7 +318,7 @@ Before relying on your hierarchy analysis, confirm:
 
 - [ ] The research question has been classified using the three-step National Law Relationship Test
 - [ ] The correct enumerated power(s) have been identified (or confirmed absent) from Art. V, Sec. 2
-- [ ] All relevant national law consistency provisions have been checked (Art. VII Sec. 28, 39; Art. IV Sec. 4; Art. XII Sec. 2; Art. IX Sec. 3)
+- [ ] All five types of BOL conformity language have been checked: "shall prevail" (11 provisions), "shall conform" / minimum standards (7), "consistent with" (33), institutional jurisdiction retention (47), "shall not diminish" (8)
 - [ ] The classification result (No national law consistency required / National law consistency required / Residual national power / Gap) is documented
 - [ ] The Shari'ah checkpoint has been completed
 - [ ] All conflict resolution rules have been applied to any identified conflicts
@@ -282,7 +335,7 @@ Before relying on your hierarchy analysis, confirm:
 
 3. **The 55 enumerated powers are the gateway.** Everything begins with Article V, Section 2. If the subject is not there (or necessarily implied from there), the Bangsamoro Parliament has no authority.
 
-4. **National law consistency is required only where the BOL says so.** The areas where the BOL expressly requires consistency with national law are listed in specific sections — civil service, budget, elections, audit, IP rights. They are not a general rule. They are specific provisions.
+4. **National law consistency is required only where the BOL says so — but it says so in 126 provisions.** The areas where the BOL constrains Bangsamoro legislation fall into five types of conformity language: "shall prevail" (11), "shall conform" / minimum standards (7), "consistent with" (33), institutional retention (47), and "shall not diminish" (8). They are scattered across all 18 BOL articles. The researcher must check for conformity language in the specific BOL article governing the subject — not rely on a memorized short list.
 
 5. **BAA 13 is the government's operating manual.** It deserves its own tier because every institutional question starts there — who has the mandate, what are the functions, how is the government organized.
 
@@ -296,20 +349,21 @@ Before relying on your hierarchy analysis, confirm:
 
 [^3]: Republic Act No. 11054, Article V, Section 3.
 
-[^4]: Republic Act No. 11054, Article VII, Section 39.
+[^4]: Republic Act No. 11054. The 126-provision count is derived from an exhaustive scan of all 18 BOL articles, identifying every provision containing "shall prevail," "shall conform," "consistent with," "shall not diminish," institutional jurisdiction retention, or "subject to" the Constitution or national law. See the Constitutional Floor and Equal Protection Analysis for the full inventory.
 
-[^5]: Republic Act No. 11054, Article VII, Section 28.
+[^5]: Republic Act No. 11054, Article VII, Section 39. *Ali et al. v. BTA Parliament*, G.R. No. E-02219 (September 30, 2025), confirmed that civil service is the most constrained power: the express supremacy clause means national law controls absolutely in case of conflict.
 
-[^6]: Republic Act No. 11054, Article IV, Section 4.
+[^6]: Republic Act No. 11054, Article VII, Section 28.
 
-[^7]: Republic Act No. 11054, Article IX, Section 3.
+[^7]: Republic Act No. 11054, Article IV, Section 4.
 
-[^8]: Bill Drafting Guidebook for the Bangsamoro Parliament, 3rd ed. (Cotabato City: Bangsamoro Parliament, 2026), Chapter 1, Section 1.2, commentary on national law applicability: "Article VII, Section 39 applies only to civil service law."
+[^8]: Republic Act No. 11054, Article IX, Section 3.
 
-[^9]: Republic Act No. 11054, Article V, Section 1.
+[^9]: *Ali et al. v. BTA Parliament*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (September 30, 2025). The Court declared BAA 77 unconstitutional and articulated the "clear and categorical" limit on BARMM legislative authority.
 
-[^10]: 1987 Philippine Constitution, Article X, Section 20: "Within its territorial jurisdiction and subject to the provisions of this Constitution and national laws, the organic act of autonomous regions shall provide for legislative powers over... [enumerated subjects]."
+[^10]: Republic Act No. 11054, Article V, Section 1.
 
-[^11]: The Supreme Court's decisions on BAA 58 and BAA 77 (parliamentary districts, October 2025) demonstrate how jurisprudence constrains Bangsamoro legislative authority even on subjects within the enumerated powers.
+[^11]: 1987 Philippine Constitution, Article X, Section 20: "Within its territorial jurisdiction and subject to the provisions of this Constitution and national laws, the organic act of autonomous regions shall provide for legislative powers over... [enumerated subjects]."
 
-[^12]: Fact-Check Error Log, Error Pattern #1 (BOL Article Misattribution, 13+ occurrences). See the complete 18-article map in Appendix A.
+[^12]: *Ali et al. v. BTA*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (September 30, 2025). Both BAA 58 (Parliamentary Districts Creation) and BAA 77 (Reconstituted Parliamentary Districts) were declared unconstitutional.
+

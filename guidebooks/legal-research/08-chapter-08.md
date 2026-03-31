@@ -35,7 +35,7 @@ A national law applies **directly** when the subject falls outside the BOL's 55 
 - **Foreign affairs** — Treaty-making, diplomatic relations, and consular operations are exclusively national.
 - **Immigration and citizenship** — The Bureau of Immigration enforces national immigration law throughout BARMM. Parliament cannot create a separate immigration regime.
 - **Currency and monetary policy** — The Bangko Sentral ng Pilipinas operates under national law. BARMM cannot issue currency or set monetary policy.
-- **Customs and tariff** — Customs operations at BARMM ports follow national customs law, though Art. XII, Sec. 29 provides for the sharing of customs revenues.
+- **Customs and tariff** — Customs operations at BARMM ports follow national customs law, though Art. XII, Secs. 15-16 include Bureau of Customs collections in the block grant formula.
 
 **How to identify direct application:** If your national law relationship test (Chapter 3, Section 3.3) returned **"Residual National Power"** at Step 1 — the subject is not within the 55 enumerated powers — then any national law on that subject applies directly. Your research at Tier 5 is straightforward: find the applicable national law and apply it.
 
@@ -48,7 +48,7 @@ The concept comes from legal principle: when a specialized law is silent on a ma
 **Examples of suppletory application:**
 - **Cooperatives** — Art. V, Sec. 2(k) lists "Cooperatives and social entrepreneurship" as an enumerated power where the BOL is silent on national law consistency. No BAA specifically codifying cooperative law has been enacted as of March 2026. RA 9520 (Philippine Cooperative Code of 2008) therefore applies suppletorily within BARMM.[^4]
 - **Labor** — Art. V, Sec. 2(jj) lists "Labor, employment, and occupation" as an enumerated power. BAA 82 (Bangsamoro Labor and Employment Code), enacted January 2026, is the regional labor framework. The national Labor Code (PD 442, as amended) applies suppletorily where BAA 82 is silent.
-- **Tourism** — Art. V, Sec. 2(aaa) lists "Tourism development" as an enumerated power. BAA 13 creates the Ministry of Trade, Investments, and Tourism (MTIT), but no standalone tourism code exists. RA 9593 (Tourism Act of 2009) applies suppletorily.
+- **Tourism** — Art. V, Sec. 2(yy) lists "Tourism development" as an enumerated power. BAA 13 creates the Ministry of Trade, Investments, and Tourism (MTIT), but no standalone tourism code exists. RA 9593 (Tourism Act of 2009) applies suppletorily.
 
 **How to identify suppletory application:** If your national law relationship test returned **"Legislative Gap"** at Step 3 — the subject is an enumerated power (Art. V, Sec. 2) where no national law consistency is required, but no BAA has been enacted — the applicable national law fills the gap. Your research must cover both Tier 4 (confirming the gap) and Tier 5 (identifying the suppletory national law).
 
@@ -59,9 +59,9 @@ The concept comes from legal principle: when a specialized law is silent on a ma
 A national law applies through **express adoption** when the Parliament enacts a BAA that explicitly incorporates or aligns with a national framework. The BAA is the controlling authority, but it draws its substantive provisions from the national law — either by copying the framework, referencing it, or declaring consistency with it.
 
 **Examples of express adoption:**
-- **RA 12009 (New Government Procurement Act)** — No Bangsamoro Procurement Act has been enacted as of March 2026. RA 12009 applies directly to all BARMM procurement. This is a **legislative gap** — the BOL grants budgeting authority (Art. V, Sec. 2(f)) and Art. VII, Sec. 28 requires budget consistency with national laws, but Parliament has not yet exercised its power to enact a regional procurement framework. COA audits all BARMM procurement against RA 12009 standards.[^5]
 - **BAA 84 and national budget law** — BAA 84 (Budget System Act) establishes the Bangsamoro budget process consistent with the BOL's requirement that the budget conform to "existing laws, rules and regulations of the National Government" (Art. VII, Sec. 28).[^6]
-- **Civil service legislation** — When the Parliament legislates on civil service matters, Art. VII, Sec. 39 requires consistency with national civil service laws. Any Bangsamoro civil service legislation therefore constitutes express adoption of the national framework to the extent required by the BOL.[^7]
+- **Civil service legislation** — When the Parliament legislates on civil service matters, Art. VII, Sec. 39 requires consistency with national civil service laws. BAA 17 (Civil Service Code) constitutes express adoption of the national framework to the extent required by the BOL.[^7]
+- **Procurement** — RA 12009 (Government Procurement Reform Act) applies directly to all BARMM procurement because no regional procurement BAA has been enacted. Art. VII, Sec. 28 requires budget consistency with national laws, and COA audits all BARMM procurement against RA 12009 standards. This is both a **legislative gap** (Mode 2) and a national law consistency area — RA 12009 would apply even if a BAA were enacted, because procurement is closely linked to the budget consistency requirement.[^5]
 
 **How to identify express adoption:** Check the BAA's text. Does it reference a specific national law? Does it use language like "consistent with," "in accordance with," "pursuant to," or "shall apply suppletorily"? If so, your research must cover both the BAA (Tier 4) and the adopted national law (Tier 5), and your Comparative Matrix must map the relationship between them.
 
@@ -94,11 +94,11 @@ Include these in your research whenever your question involves government operat
 | **RA 6713** | Code of Conduct and Ethical Standards for Public Officials and Employees | Applies to all public officials including BARMM appointees. Defines norms of conduct, disclosure requirements, and prohibited acts. |
 | **RA 3019** | Anti-Graft and Corrupt Practices Act | Applies to all public officers. Defines corrupt practices and penalties. COA and Ombudsman enforce this within BARMM. |
 | **RA 12009** | New Government Procurement Act | Applies directly to BARMM (no regional procurement BAA enacted). COA audits all BARMM procurement against RA 12009 standards. |
-| **RA 9710** | Magna Carta of Women | Requires at least 5% of total budget for gender-responsive programs. See also BOL Art. XIII, Sec. 5 (gender equality).[^8] |
+| **RA 9710** | Magna Carta of Women | Requires at least 5% of total budget for gender-responsive programs. See also BOL Art. XIII, Sec. 5 (gender equality).[^11] |
 | **RA 10173** | Data Privacy Act of 2012 | Applies to all government processing of personal data, including BARMM civil registration, health records, and social welfare programs. |
 | **RA 11032** | Ease of Doing Business and Efficient Government Service Delivery Act of 2018 | Applies to all government agencies. Prescribes processing times and anti-red tape measures that BARMM agencies must follow. |
-| **RA 8371** | Indigenous Peoples' Rights Act (IPRA) | BOL Art. IX, Sec. 3: IP rights "shall not be diminished." NCIP retains jurisdiction over ancestral domain claims within BARMM.[^9] |
-| **RA 7160** | Local Government Code of 1991 | BOL Art. VI, Sec. 10: privileges enjoyed by LGUs "shall not be diminished." LGU powers, elections, and fiscal transfers operate under this framework.[^10] |
+| **RA 8371** | Indigenous Peoples' Rights Act (IPRA) | BOL Art. IX, Sec. 3: IP rights "shall not be diminished." NCIP retains jurisdiction over ancestral domain claims within BARMM.[^12] |
+| **RA 7160** | Local Government Code of 1991 | BOL Art. VI, Sec. 10: privileges enjoyed by LGUs "shall not be diminished." LGU powers, elections, and fiscal transfers operate under this framework.[^13] |
 
 **A practical warning:** Do not assume that a national law applies simply because it is a "good idea" or "should" apply. Confirm the legal basis. A national law on agriculture, for example, does not automatically apply in BARMM because agriculture is under Art. V, Sec. 2(c) — an enumerated power where the BOL is silent on national law consistency. If the Parliament has enacted a BAA on the subject, that BAA controls. The eight laws listed above are universal because they address cross-cutting government obligations, not because of any blanket rule that national laws always prevail.
 
@@ -297,7 +297,7 @@ RA 9520 (Philippine Cooperative Code of 2008) currently governs cooperatives in 
 
 **Pitfall 1: Assuming national law does not apply because "BARMM is autonomous."**
 
-This is the most common Tier 5 error. Autonomy does not mean independence. National laws apply directly in residual power areas, suppletorily in legislative gap areas, and as the floor or ceiling in areas where the BOL requires national law consistency. The only situation where a national law does not apply at all is when Parliament has enacted a BAA on a subject that is (a) within the 55 enumerated powers and (b) not subject to a BOL consistency requirement — and even then, laws of general application (anti-graft, data privacy, gender) still apply.
+This is a critical Tier 5 error. Autonomy does not mean independence. National laws apply directly in residual power areas, suppletorily in legislative gap areas, and as the floor or ceiling in areas where the BOL requires national law consistency. The only situation where a national law does not apply at all is when Parliament has enacted a BAA on a subject that is (a) within the 55 enumerated powers and (b) not subject to a BOL consistency requirement — and even then, laws of general application (anti-graft, data privacy, gender) still apply.
 
 **Pitfall 2: Assuming national law always applies because "the Philippines is a unitary state."**
 
@@ -380,3 +380,9 @@ Before relying on your Tier 5-6 research, confirm:
 [^9]: Republic Act No. 11054, Article V, Section 2(k).
 
 [^10]: 2nd Bangsamoro Development Plan (2023-2028), Chapter 7 (Economy), section on Cooperatives and Social Enterprises.
+
+[^11]: Republic Act No. 9710 (Magna Carta of Women, 2009). *See also* Republic Act No. 11054, Article XIII, Section 5 (gender and development).
+
+[^12]: Republic Act No. 8371 (Indigenous Peoples' Rights Act of 1997). *See also* Republic Act No. 11054, Article IX, Section 3: rights under IPRA "shall not be diminished."
+
+[^13]: Republic Act No. 11054, Article VI, Section 10: "The privileges already enjoyed by local government units... shall not be diminished." *See also* Republic Act No. 7160 (Local Government Code of 1991).

@@ -242,7 +242,7 @@ Working through each tier of the legal hierarchy, identify every provision that 
 
 **Tier 5 --- National Laws:** Identify national laws that apply to your MOA. Some are universal (procurement, anti-graft, data privacy). Others are sector-specific (a health ministry must comply with Republic Act No. 11223, the Universal Health Care Act, to the extent it applies in BARMM).
 
-> *For each national law, have you checked whether the BOL requires consistency with it? If yes, your plan must comply with both the BAA and the national law. If the BOL is silent, the BAA governs.*
+> *For each national law, have you checked whether the BOL requires consistency with it?* The BOL uses five types of conformity language: "shall prevail" (national law controls absolutely), "shall conform" / minimum standards (must meet or exceed), "consistent with" (framework alignment), institutional retention (national agency keeps jurisdiction), and "shall not diminish" (existing rights are the floor). *Search the relevant BOL article for these phrases. The type of conformity language determines whether your plan must follow national standards exactly, meet or exceed them, align with the framework, or can set its own standards. If the BOL is silent, the BAA governs.*
 
 **Tier 6 --- Executive Issuances:** Identify relevant EOs, IRRs, MCs, and AOs. Check issuances from the Office of the Chief Minister and from your own ministry.
 

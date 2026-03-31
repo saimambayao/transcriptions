@@ -20,6 +20,18 @@ You do not need technical skills to use this guidebook. If you can write a memor
 
 ---
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting AI application frameworks across the governance cycle, structuring prompt engineering guides, formatting case studies, and organizing the ethical and implementation chapters.
+
+AI did not design the methodology. The mapping of AI capabilities to each stage of the governance cycle -- strategic planning, budgeting, program implementation, monitoring and evaluation, legislative oversight, and codification -- comes from the author's professional experience building AI-augmented platforms for Bangsamoro institutions. AI accelerated the writing. It did not direct the thinking.
+
+Every BAA reference, budget document citation, institutional process description, and governance claim in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), enacted Bangsamoro Autonomy Acts, the Bangsamoro Development Plan 2023-2028, and official government records. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
+---
+
 ## How to Use This Guidebook
 
 You have two options:

@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -257,6 +270,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -274,6 +288,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -296,6 +311,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -769,9 +790,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Policy&nbsp;Analysts,<br>Parliamentary Staff, Ministry Officials, and Consultants</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 

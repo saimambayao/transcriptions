@@ -28,6 +28,14 @@ Flat searches fail in three ways:
 
 ---
 
+> **AI in Practice**
+>
+> The provision chain trace is where AI provides the most value. AI can read all five BOL chapter files, scan the full BAA 13, and follow cross-references across multiple laws simultaneously — work that would take a human researcher hours.
+>
+> **What AI does:** Extracts traceable concepts from each provision, performs full-source scans across the BOL and BAA 13, follows chains up to 3 levels deep, and outputs the Provision Chain Map table.
+> **What you do:** Apply the relevance filter — decide which traced provisions actually matter for YOUR specific research question. AI traces everything; you decide what's relevant.
+> **Watch for:** AI may follow chains into irrelevant territory. The depth limit (3 levels) prevents runaway tracing, but relevance filtering is always a human judgment call.
+
 ## 11.3 The Five-Step Chain Trace Method
 
 ### 11.3.1 Extract Traceable Concepts
@@ -127,7 +135,7 @@ The BOL grants a power, but Parliament has not enacted a BAA to exercise it. Thi
 The BOL grants power but requires national law consistency. Both the BAA and the national law apply. Example: BOL Art. V, Sec. 2(f) (budgeting) + Art. VII, Sec. 28 (consistency with national laws) → BAA 84 (Budget System Act) + national budget laws.
 
 **Pattern 4: BOL Art. VI, Sec. 12 → Multiple BOL articles → BAA 13 attached office**
-Specific to OOBC and other offices whose mandates derive from intergovernmental relations provisions that reference rights, development, and coordination across multiple BOL articles. The OOBC worked example in the `/legal-researcher` skill demonstrates this pattern fully.[^1]
+Specific to OOBC and other offices whose mandates derive from intergovernmental relations provisions that reference rights, development, and coordination across multiple BOL articles. The OOBC worked example in Section 11.7 demonstrates this pattern fully.[^1]
 
 **Pattern 5: PD 1083 → BOL Art. X → Future BAA**
 For Shari'ah matters. The existing national codification (PD 1083) continues to apply for subjects it covers. The BOL grants Parliament power to legislate on matters not covered by PD 1083. Future BAAs may supplement or supersede PD 1083 on specific subjects. Until then, PD 1083 is the floor.
@@ -247,6 +255,6 @@ Before finalizing your chain trace, confirm:
 
 ---
 
-[^1]: The OOBC worked example is documented in full in the `/legal-researcher` skill (Step 4: Provision Chain Trace) and was originally developed during the Strategic Planning Guidebook project, Chapter 2, Section 2.4 (Worked Example). See also Strategic Planning Guidebook, Chapter 2, lines 304-374.
+[^1]: The OOBC worked example was originally developed during institutional mandate research for the Office for Other Bangsamoro Communities under the Office of the Chief Minister. It demonstrates how a single BOL provision (Art. VI, Sec. 12) becomes a chain of dozens of interconnected provisions when traced systematically.
 
 [^2]: Republic Act No. 11054, Article VI, Section 12. The provision assigns separate obligations: "The National Government shall ensure the protection of the rights" (primary obligation on National Government) and "The Bangsamoro Government... shall provide assistance" (coordination and assistance role for Bangsamoro Government). Misattributing the primary protection obligation to the Bangsamoro Government inverts the legal framework.

@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -289,6 +302,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -306,6 +320,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -328,6 +343,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -837,9 +858,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practitioner's&nbsp;Guide&nbsp;to&nbsp;the&nbsp;10-Point&nbsp;Strategic<br>Planning&nbsp;Framework&nbsp;for&nbsp;Ministries,&nbsp;Offices,&nbsp;and&nbsp;Agencies</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1041,6 +1060,11 @@ table.allow-break tr {
 <p><strong>BPDA Staff</strong> (tertiary audience) — Bangsamoro Planning and Development Authority staff who review and certify MOA strategic plans for compliance with the BDP and BARMM planning standards. Chapter 12 and the appendix templates provide the reference structure for review. The quality checklists at the end of each chapter serve as a certification checklist.</p>
 </li>
 </ol>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across the Bangsamoro Development Plan and enabling legislation, and fact-checking against known error patterns.</p>
+<p>AI did not design the methodology. The 10-Point Strategic Planning Framework, the modular working-document approach, the BDP alignment methodology, and the integration of planning with budget and performance management come from the author&rsquo;s professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited, planning standard referenced, and BDP alignment documented in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <h3 id="for-first-time-users">For First-Time Users</h3>
 <p>Read <strong>Chapter 1</strong> (Introduction to Strategic Planning in BARMM) in full to understand the framework and what you are building. Then work through <strong>Chapters 2-11</strong> in sequence, completing the template at the end of each chapter before moving to the next. Finish with <strong>Chapter 12</strong> to assemble your final document.</p>
@@ -1430,6 +1454,73 @@ table.allow-break tr {
 </ul>
 <p>Identifying your creating law is the first step in the Legal Mandate Matrix. Everything else flows from it.</p>
 <hr>
+<h3 id="22a-constitutional-constraints-on-planning-domains">2.2.A Constitutional Constraints on Planning Domains</h3>
+<p>Every MOA&rsquo;s strategic plan proposes programs and activities within its mandate. But mandates do not exist in a vacuum — the Constitution sets a <strong>floor</strong> that no strategic plan can go below, even where the BOL grants broad authority.</p>
+<p><strong>The Constitutional Floor for Planning</strong></p>
+<p>The constitutional floor is the minimum standard the Constitution guarantees for a subject area. A strategic plan that proposes services <em>below</em> this floor — fewer protections, lower standards, reduced access — is constitutionally vulnerable regardless of the BOL&rsquo;s authority grant.</p>
+<table>
+<thead>
+<tr>
+<th>Planning Domain</th>
+<th>Constitutional Floor</th>
+<th>What It Means for Planning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Education (MBHTE)</td>
+<td>Art. XIV, Sec. 1 — right to quality education</td>
+<td>Strategic plan cannot propose standards below national minimum; must &ldquo;conform to minimum standards set by the National Government&rdquo; (BOL Art. IX, Sec. 16)</td>
+</tr>
+<tr>
+<td>Health (MOH)</td>
+<td>Art. XIII, Sec. 11 — right to health</td>
+<td>Health programs must adopt an integrated approach; budget allocations must be adequate for constitutional mandate</td>
+</tr>
+<tr>
+<td>Labor (MOLE)</td>
+<td>Art. XIII, Sec. 3 — workers&rsquo; rights</td>
+<td>Labor programs must protect workers&rsquo; right to security of tenure, humane conditions, and living wage; BAA 82 must satisfy Art. XIII</td>
+</tr>
+<tr>
+<td>Social services (MSSD)</td>
+<td>Art. XIII, Sec. 1 — social justice</td>
+<td>Programs targeting vulnerable sectors (women, children, elderly, PWDs) must meet constitutional standards</td>
+</tr>
+<tr>
+<td>Agriculture (MAFAR)</td>
+<td>Art. XIII, Sec. 4 — agrarian reform</td>
+<td>Programs must support genuine agrarian reform and protect small farmers/fisherfolk</td>
+</tr>
+<tr>
+<td>Environment (MENRE)</td>
+<td>Art. II, Sec. 16 — balanced ecology</td>
+<td>Plans must protect the right to a healthful environment; cannot approve projects that destroy ecological balance</td>
+</tr>
+<tr>
+<td>Indigenous peoples (MIAP)</td>
+<td>Art. XII, Sec. 5 — ancestral domains</td>
+<td>Plans must respect FPIC and ancestral domain rights; RA 8371 carries constitutional weight</td>
+</tr>
+<tr>
+<td>Cooperatives (CSEA)</td>
+<td>Art. XII, Sec. 15 — cooperative promotion</td>
+<td>Plans must promote cooperatives as instruments of social justice; cannot impose barriers that undermine this policy</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to Apply</strong></p>
+<p>When drafting a strategic plan:</p>
+<ol>
+<li><strong>Identify the constitutional floor</strong> for your planning domain from the table above (or from the Legal Research Guidebook, Chapter 4, Constitutional Floor Table)</li>
+<li><strong>Check every proposed program</strong> against the floor — does any program offer <em>less</em> than what the Constitution guarantees?</li>
+<li><strong>Check equal protection</strong> — if your plan proposes standards different from national programs, does the differentiation rest on substantial distinctions? (See Legal Research Guidebook, Section 4.7)</li>
+<li><strong>Document the constitutional basis</strong> in your Legal Mandate Matrix (Chapter 2, Step 2) — constitutional provisions belong at the top</li>
+</ol>
+<blockquote>
+<p><strong>Cross-reference:</strong> For the full Constitutional Analysis Framework including equal protection tests, due process analysis, and worked examples, see the Legal Research Guidebook for the Bangsamoro Government, Chapter 4 — &ldquo;The 1987 Philippine Constitution: Research and Analysis.&rdquo;</p>
+</blockquote>
+<hr>
 <h2 id="23-step-by-step-instructions">2.3 Step-by-Step Instructions</h2>
 <h3 id="step-1-identify-your-moas-creating-law">Step 1: Identify Your MOA&rsquo;s Creating Law</h3>
 <p>Begin by answering one question: <em>Which specific law, provision, or issuance established your MOA?</em></p>
@@ -1477,7 +1568,7 @@ table.allow-break tr {
 </blockquote>
 <p><strong>Tier 5 &mdash; National Laws:</strong> Identify national laws that apply to your MOA. Some are universal (procurement, anti-graft, data privacy). Others are sector-specific (a health ministry must comply with Republic Act No. 11223, the Universal Health Care Act, to the extent it applies in BARMM).</p>
 <blockquote>
-<p><em>For each national law, have you checked whether the BOL requires consistency with it? If yes, your plan must comply with both the BAA and the national law. If the BOL is silent, the BAA governs.</em></p>
+<p><em>For each national law, have you checked whether the BOL requires consistency with it?</em> The BOL uses five types of conformity language: &ldquo;shall prevail&rdquo; (national law controls absolutely), &ldquo;shall conform&rdquo; / minimum standards (must meet or exceed), &ldquo;consistent with&rdquo; (framework alignment), institutional retention (national agency keeps jurisdiction), and &ldquo;shall not diminish&rdquo; (existing rights are the floor). <em>Search the relevant BOL article for these phrases. The type of conformity language determines whether your plan must follow national standards exactly, meet or exceed them, align with the framework, or can set its own standards. If the BOL is silent, the BAA governs.</em></p>
 </blockquote>
 <p><strong>Tier 6 &mdash; Executive Issuances:</strong> Identify relevant EOs, IRRs, MCs, and AOs. Check issuances from the Office of the Chief Minister and from your own ministry.</p>
 <p><strong>Tier 7 &mdash; Jurisprudence:</strong> Identify any Supreme Court decisions that interpret your MOA&rsquo;s authority or the scope of BARMM&rsquo;s powers in your sector.</p>
@@ -5916,7 +6007,7 @@ Not all stakeholders support your MOA. Some oppose your programs. Some compete f
   <div class="chapter-cover-gold-line"></div>
 </div>
 
-<div class="chapter" id="appendices">
+<div class="chapter" id="chapter-16">
 <h1 id="appendices">Appendices</h1>
 <hr>
 <h2 id="appendix-a-barmm-legal-hierarchy-reference">Appendix A: BARMM Legal Hierarchy Reference</h2>
@@ -5966,6 +6057,7 @@ Not all stakeholders support your MOA. Some oppose your programs. Some compete f
 </tbody>
 </table>
 
+<p><strong>BOL Conformity Language — Critical for Planning.</strong> The BOL contains 126 constraining provisions across all 18 articles that limit how BARMM can diverge from national law. When your MOA&rsquo;s mandate touches a subject where the BOL uses &ldquo;shall prevail,&rdquo; &ldquo;shall conform,&rdquo; &ldquo;consistent with,&rdquo; institutional retention, or &ldquo;shall not diminish&rdquo; language, your strategic plan must account for the national standard. For example, an education ministry&rsquo;s plan must &ldquo;conform to the minimum standards set by the National Government&rdquo; (Art. IX, Sec. 16); a finance office&rsquo;s budget must be &ldquo;consistent with existing laws, rules and regulations of the National Government&rdquo; (Art. VII, Sec. 28). Check the specific BOL article governing your sector before setting targets that diverge from national standards.</p>
 <p><strong>How to Access.</strong> The full text of RA 11054 is published in the Official Gazette. A complete verbatim transcription is maintained in the reference collection at <code>~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/</code>.</p>
 <hr>
 <h3 id="tier-3-the-bangsamoro-administrative-code-baa-no-13">Tier 3: The Bangsamoro Administrative Code (BAA No. 13)</h3>
@@ -6047,15 +6139,38 @@ Not all stakeholders support your MOA. Some oppose your programs. Some compete f
 <hr>
 <h3 id="tier-7-jurisprudence">Tier 7: Jurisprudence</h3>
 <p><strong>Description.</strong> Supreme Court decisions interpreting autonomy provisions and resolving conflicts between national and regional authority constitute the final tier. While jurisprudence does not create new authority, it defines the boundaries of existing authority.<sup id="fnref:46"><a class="footnote-ref" href="#fn:46">46</a></sup></p>
-<p><strong>Key Areas for MOA Planning:</strong></p>
-<ul>
-<li>Decisions on the scope of regional autonomy versus national authority</li>
-<li>Rulings on fiscal matters, including revenue sharing and taxation between national and regional governments</li>
-<li>Decisions on the application of national laws within autonomous regions</li>
-<li>Cases interpreting the BOL&rsquo;s exclusive powers provisions</li>
-<li>Rulings on the constitutionality of BAA provisions</li>
-</ul>
-<p><strong>Relevance to Planning.</strong> Jurisprudence is most relevant when an MOA&rsquo;s mandate involves contested or overlapping authority between BARMM and the national government. Planning officers should note any Supreme Court decisions that affect their MOA&rsquo;s mandate scope.</p>
+<p><strong>Key SC Decisions Affecting MOA Planning (2024-2025):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Case</th>
+<th>Year</th>
+<th>Key Holding</th>
+<th>Planning Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Province of Sulu v. Medialdea</em> (GR-242255)</td>
+<td>2024</td>
+<td>Sulu is not part of BARMM</td>
+<td>Territory, population, and geographic scope of all MOA plans must exclude Sulu</td>
+</tr>
+<tr>
+<td><em>Sinsuat v. Ebrahim</em> (GR-271741)</td>
+<td>2024</td>
+<td>BAAs 53/54/55 partially unconstitutional &mdash; plebiscite must include parent municipality voters</td>
+<td>MOAs involved in LGU creation or boundary changes must comply with constitutional plebiscite requirements</td>
+</tr>
+<tr>
+<td><em>Ali v. BTA Parliament</em> (GR-E-02219)</td>
+<td>2025</td>
+<td>BAA 77 unconstitutional; BARMM authority &ldquo;must always operate within the bounds of the Constitution and national statutes&rdquo; &mdash; &ldquo;clear and categorical&rdquo;</td>
+<td>All BOL conformity provisions are judicially enforceable constraints; MOA plans that set standards diverging from national law must verify the BOL permits divergence in that area</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Relevance to Planning.</strong> Jurisprudence is most relevant when an MOA&rsquo;s mandate involves contested or overlapping authority between BARMM and the national government. The <em>Ali v. BTA</em> decision (2025) is particularly important: its &ldquo;clear and categorical&rdquo; language means that every BOL conformity provision &mdash; &ldquo;shall prevail,&rdquo; &ldquo;shall conform,&rdquo; &ldquo;consistent with,&rdquo; institutional retention, &ldquo;shall not diminish&rdquo; &mdash; carries judicial enforcement weight. Planning officers should verify their MOA&rsquo;s sector against the relevant BOL article for conformity language before setting targets that depart from national standards.</p>
 <p><strong>How to Access.</strong> Supreme Court decisions are published in the Philippine Reports (official), Supreme Court Reports Annotated (SCRA), and are accessible through the Supreme Court e-Library (elibrary.judiciary.gov.ph).</p>
 <hr>
 <h2 id="appendix-b-bdp-2023-2028-quick-reference">Appendix B: BDP 2023-2028 Quick Reference</h2>
@@ -7244,6 +7359,19 @@ Not all stakeholders support your MOA. Some oppose your programs. Some compete f
 </li>
 </ol>
 </div>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter-cover-page front-matter">
+  <div class="chapter-cover-title">Appendices</div>
+  <div class="chapter-cover-gold-line"></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

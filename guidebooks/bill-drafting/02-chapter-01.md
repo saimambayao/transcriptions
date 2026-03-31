@@ -187,7 +187,7 @@ Treat the BOL as your drafting constitution. Before you write any provision that
 
 National laws enacted by Congress occupy the third layer. The relationship between national law and Bangsamoro law is not a simple hierarchy — it depends on the subject matter.
 
-The BOL enumerates 55 exclusive powers of the Bangsamoro Government (Article V, Section 2). In those areas, the Parliament has primary legislative responsibility. However, the BOL also specifies particular areas where Bangsamoro legislation must be consistent with national law:
+The BOL enumerates 55 powers of the Bangsamoro Government (Article V, Section 2). In those areas, the Parliament has primary legislative responsibility. However, the BOL also specifies particular areas where Bangsamoro legislation must be consistent with national law:
 
 - **Civil service:** The Bangsamoro civil service law must be "in accordance with existing national laws" and "in case of conflict with the national laws, the Constitution and existing national civil service laws, rules, and regulations shall prevail" (Article VII, Section 39).[^natlaw1]
 - **Budget:** The budget must be "consistent with existing laws, rules and regulations of the National Government" (Article VII, Section 28).[^natlaw2]
@@ -273,14 +273,26 @@ The relationship between these seven layers is not a simple top-down hierarchy �
 2. **The BOL prevails over BAAs.** If a BAA contradicts a provision of the BOL, the BOL controls.
 3. **National laws and BAAs: it depends on the area.**
 4. **Where the BOL specifically requires consistency with national law, national law prevails.** The BOL does this for specific areas: civil service law must be "in accordance with existing national laws" and "in case of conflict... existing national civil service laws... shall prevail" (Article VII, Section 39);[^conflict1] the budget must be "consistent with existing laws, rules and regulations of the National Government" (Article VII, Section 28);[^conflict2] the electoral system must be "consistent with national election laws" (Article IV, Section 4);[^conflict3] COA remains the exclusive auditor (Article XII, Section 2); indigenous peoples' rights under RA 8371 "shall not be diminished" (Article IX, Section 3);[^conflict4] the Shari'ah court system is "subject to the supervision of the Supreme Court" (Article X, Section 2); and uranium and fossil fuels "may be co-managed and the revenues shared equally between the National Government and Bangsamoro Government" (Article XII, Section 34).
-5. **Where the BOL grants exclusive powers (Article V, Section 2) and is silent on national law applicability**, the Parliament has primary legislative competence. In these areas, BAAs govern.
+5. **Where the BOL enumerates a power (Article V, Section 2) and is silent on national law applicability**, the Parliament has primary legislative competence. In these areas, BAAs govern.
 6. **Residual powers** — powers not granted to BARMM — remain with the National Government (Article V, Section 1).[^conflict5]
 7. **BAAs prevail over executive issuances.** An executive order, administrative order, or memorandum circular cannot contradict the BAA it implements.
 8. **Jurisprudence provides binding interpretation** of all the above sources. Supreme Court decisions define the boundaries of regional authority.
 
 **Important clarification:** Article VII, Section 39 — the provision stating that "existing national civil service laws... shall prevail" — is **specific to civil service law**. It is not a blanket rule that national law always prevails over Bangsamoro law. Each area must be analyzed individually based on whether the BOL requires national law consistency in that area.
 
-**What this means for drafters:** For each legal provision in your bill, determine whether the BOL requires consistency with national law in that area. If it does (civil service, budget, elections, audit, indigenous peoples), your bill must comply with both the BAA and the applicable national law. If the BOL grants exclusive authority and is silent on national law, the BAA governs. When in doubt, err on the side of consistency with national law — it is always safer to comply than to assume exclusivity.
+**The 5 types of BOL conformity language.** The provisions listed in Rule 4 above are representative, not exhaustive. An exhaustive scan of all 18 BOL articles identifies **126 constraining provisions** using five distinct types of conformity language, each with different legal effects:
+
+| Type | Count | Effect | Example |
+|---|---|---|---|
+| **"Shall prevail"** | 11 | National law overrides any conflicting BAA | Art. VII, Sec. 39 (civil service) |
+| **"Shall conform" / minimum standards** | 7 | Must meet or exceed national minimums | Art. IX, Sec. 16 (education: "conform to minimum standards") |
+| **"Consistent with"** | 33 | Framework alignment required | Art. VII, Sec. 28 (budget) |
+| **Institutional retention** | 47 | National agency keeps jurisdiction | Art. XII, Sec. 2 (COA exclusive auditor) |
+| **"Shall not diminish"** | 8 | Existing rights locked as floor | Art. IX, Sec. 3 (IP rights) |
+
+**What this means for drafters:** For each provision in your bill, check the relevant BOL article for conformity language. The type of language determines how much room the drafter has. "Shall prevail" means no room — national law controls absolutely. "Shall conform" means you can go above national minimums but not below. "Consistent with" means the bill must not contradict the national framework but can adapt within it. Institutional retention means you cannot displace the national agency. "Shall not diminish" means you can add rights but never remove existing ones.
+
+If the BOL is silent on national law for a given power (approximately 20 of the 55 — cooperatives, housing, culture, solid waste, humanitarian services, etc.), the BAA governs and the drafter has the widest latitude.
 
 [^conflict1]: Rep. Act No. 11054, sec. 39, art. VII.
 [^conflict2]: Rep. Act No. 11054, sec. 28, art. VII.
@@ -444,7 +456,7 @@ The Parliament may create *parliamentary* districts — these are distinct from 
 
 ### 1.3.5 Judicial Doctrines Affecting Bangsamoro Legislation
 
-Two recent Supreme Court decisions have reshaped the boundaries of Bangsamoro legislative power. Every drafter should know them.
+Three recent Supreme Court decisions have reshaped the boundaries of Bangsamoro legislative power. Every drafter should know them.
 
 **Province of Sulu v. Medialdea (G.R. Nos. 242255, 243246, 243693) — September 9, 2024**[^35]
 
@@ -458,17 +470,29 @@ The ruling became final on November 26, 2024. President Marcos subsequently issu
 
 **What this means for the drafter:** The Bangsamoro Parliament has no legislative authority over Sulu. BAAs do not apply there. When you draft a bill, do not include Sulu in the territorial scope. The current BTA has 77 members, not 80, because the three Sulu seats were eliminated. Any bill that defines geographic coverage of a program or institution should reference the current territorial composition of the BARMM, which excludes Sulu.
 
-**Ali et al. v. BTA (G.R. No. E-02219) and Macapaar et al. v. COMELEC (G.R. No. E-02235) — October 1, 2025 and September 30, 2025**[^38]
+**Sinsuat v. Ebrahim (G.R. No. 271741) — 2024**
+
+This case challenged BAAs 53, 54, and 55 — the BTA's municipality creation acts. The Supreme Court declared them partially unconstitutional, holding that plebiscites for creating new municipalities must include voters from the parent municipality. The BTA's plebiscite design had excluded affected constituents, violating the constitutional requirement that creation "shall not be made unless approved by a majority of the votes cast in a plebiscite in the political units directly affected" (Art. X, Sec. 10).
+
+**What this means for the drafter:** Even when the BOL grants the power to create municipalities (Art. V, Sec. 2(l)), the bill must comply with constitutional plebiscite requirements AND the LGC criteria the BOL itself requires ("criteria laid down in RA 7160...shall be satisfied" — Art. VI, Sec. 10). This is a concrete example of the 5-layer constraint framework: the constitutional floor (Layer 1) plus the BOL's own minimum standards requirement (Layer 3) together constrain how the enumerated power can be exercised.
+
+**Ali et al. v. BTA (G.R. No. E-02219) and Macapaar et al. v. COMELEC (G.R. No. E-02235) — September 30, 2025**[^38]
 
 These consolidated cases challenged BAA 77 and BAA 58, the BTA's two attempts at redistricting. The Supreme Court declared both BAAs unconstitutional.
 
 BAA 58 was the first redistricting law enacted by the BTA. BAA 77 replaced it. Both attempted to define parliamentary districts for the first Bangsamoro elections. The Supreme Court found constitutional defects in the redistricting — the specific grounds involved the standards for redistricting, population requirements, and the boundaries drawn.
 
+**The divergence holding.** Beyond the redistricting issue, the Court articulated the definitive judicial statement on BARMM legislative authority:
+
+> *"While Congress may establish autonomous regions and grant them legislative authority, such authority must always operate within the bounds of the Constitution and national statutes."*
+
+The Court described this as **"clear and categorical."** This means that every BOL conformity provision — all 126 "shall prevail," "shall conform," "consistent with," institutional retention, and "shall not diminish" provisions — carries judicial enforcement weight. A BAA that contradicts any of these is constitutionally vulnerable.
+
 The BTA responded by enacting BAA 86 on January 20, 2026. BAA 86 established 32 single-member parliamentary districts: Lanao del Sur (9), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), and the Special Geographic Area (2).
 
 **What this means for the drafter:** The Supreme Court is actively reviewing Bangsamoro legislation. The Court will strike down BAAs that exceed the Parliament's authority or fail to comply with constitutional standards. When you draft a bill that touches sensitive constitutional territory — redistricting, taxation, property rights, the creation or alteration of political boundaries — take extra care. Research whether the Supreme Court has addressed similar issues. Build your constitutional arguments into the bill's framework from the start.
 
-These two decisions also reinforce a broader point: Bangsamoro legislative power, while substantial, is subject to judicial review. The Supreme Court has jurisdiction over all Bangsamoro legislation, and it will exercise that jurisdiction when asked.
+These three decisions reinforce a broader point: Bangsamoro legislative power, while substantial, is subject to judicial review. The Supreme Court has jurisdiction over all Bangsamoro legislation, and it will exercise that jurisdiction when asked. The "clear and categorical" language from *Ali v. BTA* means the drafter must treat every BOL conformity provision as an enforceable constraint — not as aspirational language.
 
 ### 1.3.6 What This Means for the Drafter
 
@@ -484,7 +508,7 @@ Pull these threads together, and you have a practical framework for assessing an
 
 **Step 5 — Check for conflicts with the BOL.** Does the bill conflict with any substantive provision of the BOL? Does it comply with the procedural requirements (one-subject rule, three-readings rule)?
 
-**Step 6 — Check for conflicts with national law.** Does the bill touch an area where national law also applies? If so, is the bill consistent with national law, or does it conflict? If there is a conflict, which law prevails — and how can you draft the bill to avoid the conflict altogether?
+**Step 6 — Check for BOL conformity language and national law conflicts.** Search the relevant BOL article for "shall prevail," "shall conform," "consistent with," institutional retention, or "shall not diminish" language. The type of conformity language determines how much room your bill has to depart from national standards. If conformity language exists, your bill must comply. If the BOL is silent, the BAA governs. When there is a conflict between a proposed provision and national law, determine which law prevails based on the conformity type — and draft to avoid the conflict altogether.
 
 **Step 7 — Check for conflicts with existing BAAs.** Does the bill conflict with an existing BAA, including the priority codes? If so, draft an express amendment or repealing clause.
 

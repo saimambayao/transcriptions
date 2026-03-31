@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -289,6 +302,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -306,6 +320,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -328,6 +343,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -1090,6 +1111,11 @@ table.allow-break tr {
 <li><strong>Academe and researchers</strong> &ndash; who study governance, conflict, development, and institutional design in the Bangsamoro context</li>
 </ul>
 <p>No prior knowledge of systems thinking or complexity theory is required. Each concept is introduced from first principles and immediately applied to a Bangsamoro example.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting systems thinking explanations, structuring complexity theory frameworks, formatting diagnostic tools, and organizing the analysis of Bangsamoro governance as a complex adaptive system.</p>
+<p>AI did not design the methodology. The application of systems thinking and complexity theory to Bangsamoro challenges, the analysis of wicked problems in the region, the adaptive cycle diagnostics, the futuring frameworks, and the strategic prescriptions for the first elected regular government come from the author&rsquo;s professional experience in Bangsamoro governance &ndash; not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every governance claim, institutional reference, and development data point in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), the Bangsamoro Development Plan 2023-2028, and official government records. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-manual">How to Use This Manual</h2>
 <p>This guidebook has two distinct parts:</p>
 <p><strong>Chapters 1 through 7</strong> build your conceptual toolkit. They introduce the frameworks &ndash; wicked problems, systems thinking, complexity theory, change models, systems mapping, futuring, strategy, and collaboration &ndash; that you need to see the Bangsamoro as a complex adaptive system.</p>
@@ -4621,6 +4647,14 @@ Allocation to A instead of B (-) Resources to B (-) Success of B (-) Allocation 
 <p>Philippine Statistics Authority. <em>Bangsamoro Autonomous Region in Muslim Mindanao Regional Profile</em>. Manila: PSA.</p>
 <p>Philippine Statistics Authority. <em>Gross Regional Domestic Product 2021</em>. Manila: PSA.</p>
 <p>Philippine Statistics Authority. <em>Functional Literacy, Education, and Mass Media Survey 2019</em>. Manila: PSA.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

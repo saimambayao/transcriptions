@@ -1,0 +1,1500 @@
+# Surah Saba (سبإ)
+
+- **English Name:** Sheba
+- **Revelation Place:** Makkah
+- **Verses:** 54
+- **Translation:** Sahih International
+
+---
+
+### Ayah 1
+
+>  ٱلْحَمْدُ لِلَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَهُ ٱلْحَمْدُ فِى ٱلْـَٔاخِرَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
+
+[All] praise is [due] to Allāh, to whom belongs whatever is in the heavens and whatever is in the earth, and to Him belongs [all] praise in the Hereafter. And He is the Wise, the Aware.
+
+### Ayah 2
+
+> يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ ٱلرَّحِيمُ ٱلْغَفُورُ
+
+He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein. And He is the Merciful, the Forgiving.
+
+### Ayah 3
+
+> وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَـٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ
+
+But those who disbelieve say, "The Hour will not come to us." Say, "Yes, by my Lord, it will surely come to you. [Allāh is] the Knower of the unseen." Not absent from Him is an atom's weight1 within the heavens or within the earth or [what is] smaller than that or greater, except that it is in a clear register -
+
+### Ayah 4
+
+> لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۚ أُو۟لَـٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+That He may reward those who believe and do righteous deeds. Those will have forgiveness and noble provision.
+
+### Ayah 5
+
+> وَٱلَّذِينَ سَعَوْ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ
+
+But those who strive against Our verses [seeking] to cause failure1 - for them will be a painful punishment of foul nature.
+
+### Ayah 6
+
+> وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ
+
+And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy.
+
+### Ayah 7
+
+> وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍ جَدِيدٍ
+
+But those who disbelieve say, "Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?
+
+### Ayah 8
+
+> أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ ۗ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ فِى ٱلْعَذَابِ وَٱلضَّلَـٰلِ ٱلْبَعِيدِ
+
+Has he invented about Allāh a lie or is there in him madness?" Rather, they who do not believe in the Hereafter will be in the punishment and [are in] extreme error.
+
+### Ayah 9
+
+> أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
+
+Then, do they not look at what is before them and what is behind them of the heaven and earth? If We should will, We could cause the earth to swallow them or [could] let fall upon them fragments from the sky. Indeed in that is a sign for every servant turning back [to Allāh].
+
+### Ayah 10
+
+> ۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا ۖ يَـٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ ۖ وَأَلَنَّا لَهُ ٱلْحَدِيدَ
+
+And We certainly gave David from Us bounty. [We said], "O mountains, repeat [Our] praises with him, and the birds [as well]." And We made pliable for him iron,
+
+### Ayah 11
+
+> أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ
+
+[Commanding him], "Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing."
+
+### Ayah 12
+
+> وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
+
+And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze.
+
+### Ayah 13
+
+> يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+
+They made for him what he willed of elevated chambers,1 statues,2 bowls like reservoirs, and stationary kettles. [We said], "Work, O family of David, in gratitude." And few of My servants are grateful.
+
+### Ayah 14
+
+> فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
+
+And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff.1 But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment.2
+
+### Ayah 15
+
+> لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ
+
+There was for [the tribe of] Saba’ in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], "Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord."
+
+### Ayah 16
+
+> فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
+
+But they turned away [refusing], so We sent upon them the flood of the dam,1 and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees.
+
+### Ayah 17
+
+> ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ
+
+[By] that We repaid them because they disbelieved. And do We [thus] repay except the ungrateful?
+
+### Ayah 18
+
+> وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًى ظَـٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ
+
+And We placed between them and the cities which We had blessed1 [many] visible cities. And We determined between them the [distances of] journey,2 [saying], "Travel between them by night or by day in safety."
+
+### Ayah 19
+
+> فَقَالُوا۟ رَبَّنَا بَـٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَـٰهُمْ أَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+But [insolently] they said, "Our Lord, lengthen the distance between our journeys," and wronged themselves, so We made them narrations1 and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful.
+
+### Ayah 20
+
+> وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ
+
+And Iblees had already confirmed through them1 his assumption,2 so they followed him, except for a party of believers.
+
+### Ayah 21
+
+> وَمَا كَانَ لَهُۥ عَلَيْهِم مِّن سُلْطَـٰنٍ إِلَّا لِنَعْلَمَ مَن يُؤْمِنُ بِٱلْـَٔاخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّ ۗ وَرَبُّكَ عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌ
+
+And he had over them no authority except [it was decreed] that We might make evident who believes in the Hereafter from who is thereof in doubt. And your Lord, over all things, is Guardian.1
+
+### Ayah 22
+
+> قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ
+
+Say, [O Muḥammad], "Invoke those you claim [as deities] besides Allāh." They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant.
+
+### Ayah 23
+
+> وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
+
+And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts,1 they will say [to one another], "What has your Lord said?" They will say, "The truth." And He is the Most High, the Grand.
+
+### Ayah 24
+
+> ۞ قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُلِ ٱللَّهُ ۖ وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِى ضَلَـٰلٍ مُّبِينٍ
+
+Say, "Who provides for you from the heavens and the earth?" Say, "Allāh. And indeed, we or you are either upon guidance or in clear error."
+
+### Ayah 25
+
+> قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ
+
+Say, "You will not be asked about what we committed, and we will not be asked about what you do."
+
+### Ayah 26
+
+> قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ
+
+Say, "Our Lord will bring us together; then He will judge between us in truth. And He is the Knowing Judge."1
+
+### Ayah 27
+
+> قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ ۖ كَلَّا ۚ بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
+
+Say, "Show me those whom you have attached to Him as partners. No! Rather, He [alone] is Allāh, the Exalted in Might, the Wise."
+
+### Ayah 28
+
+> وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+And We have not sent you except comprehensively1 to mankind as a bringer of good tidings and a warner. But most of the people do not know.
+
+### Ayah 29
+
+> وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ
+
+And they say, "When is this promise, if you should be truthful?"
+
+### Ayah 30
+
+> قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ
+
+Say, "For you is the appointment of a Day [when] you will not remain thereafter an hour, nor will you precede [it]."
+
+### Ayah 31
+
+> وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَـٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ
+
+And those who disbelieve say, "We will never believe in this Qur’ān nor in that before it." But if you could see when the wrongdoers are made to stand before their Lord, refuting each others' words...1 Those who were oppressed will say to those who were arrogant, "If not for you, we would have been believers."
+
+### Ayah 32
+
+> قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَـٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ إِذْ جَآءَكُم ۖ بَلْ كُنتُم مُّجْرِمِينَ
+
+Those who were arrogant will say to those who were oppressed, "Did we avert you from guidance after it had come to you? Rather, you were criminals."
+
+### Ayah 33
+
+> وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا ۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَـٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
+
+Those who were oppressed will say to those who were arrogant, "Rather, [it was your] conspiracy of night and day when you were ordering us to disbelieve in Allāh and attribute to Him equals." But they will [all] confide regret when they see the punishment; and We will put shackles on the necks of those who disbelieved. Will they be recompensed except for what they used to do?
+
+### Ayah 34
+
+> وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ
+
+And We did not send into a city any warner except that its affluent said, "Indeed we, in that with which you were sent, are disbelievers."
+
+### Ayah 35
+
+> وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَـٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
+
+And they1 said, "We are more [than the believers] in wealth and children, and we are not to be punished."
+
+### Ayah 36
+
+> قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+Say, "Indeed, my Lord extends provision for whom He wills and restricts [it], but most of the people do not know."
+
+### Ayah 37
+
+> وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ
+
+And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].
+
+### Ayah 38
+
+> وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ
+
+And the ones who strive against Our verses to cause [them] failure1 - those will be brought into the punishment [to remain].
+
+### Ayah 39
+
+> قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ
+
+Say, "Indeed, my Lord extends provision for whom He wills of His servants and restricts [it] for him. But whatever thing you spend [in His cause] - He will compensate it; and He is the best of providers."
+
+### Ayah 40
+
+> وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا ثُمَّ يَقُولُ لِلْمَلَـٰٓئِكَةِ أَهَـٰٓؤُلَآءِ إِيَّاكُمْ كَانُوا۟ يَعْبُدُونَ
+
+And [mention] the Day when He will gather them all and then say to the angels, "Did these [people] used to worship you?"
+
+### Ayah 41
+
+> قَالُوا۟ سُبْحَـٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
+
+They will say, "Exalted are You! You, [O Allāh], are our benefactor excluding [i.e., not] them. Rather, they used to worship the jinn; most of them were believers in them."
+
+### Ayah 42
+
+> فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+
+But today [i.e., the Day of Judgement] you do not hold for one another [the power of] benefit or harm, and We will say to those who wronged, "Taste the punishment of the Fire, which you used to deny."
+
+### Ayah 43
+
+> وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالُوا۟ مَا هَـٰذَآ إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَـٰذَآ إِلَّآ إِفْكٌ مُّفْتَرًى ۚ وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+
+And when Our verses are recited to them as clear evidences, they say, "This is not but a man who wishes to avert you from that which your fathers were worshipping." And they say, "This is not except a lie invented." And those who disbelieve say of the truth when it has come to them, "This is not but obvious magic."
+
+### Ayah 44
+
+> وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
+
+And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muḥammad], any warner.
+
+### Ayah 45
+
+> وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ
+
+And those before them denied, and they [i.e., the people of Makkah] have not attained a tenth of what We had given them. But they [i.e., the former peoples] denied My messengers, so how [terrible] was My reproach.
+
+### Ayah 46
+
+> ۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ
+
+Say, "I only advise you of one [thing] - that you stand for Allāh, [seeking truth] in pairs and individually, and then give thought." There is not in your companion any madness. He is only a warner to you before a severe punishment.
+
+### Ayah 47
+
+> قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+
+Say, "Whatever payment I might have asked of you - it is yours. My payment is only from Allāh, and He is, over all things, Witness."
+
+### Ayah 48
+
+> قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ
+
+Say, "Indeed, my Lord projects the truth, Knower of the unseen."
+
+### Ayah 49
+
+> قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَـٰطِلُ وَمَا يُعِيدُ
+
+Say, "The truth has come, and falsehood can neither begin [anything] nor repeat [it]."1
+
+### Ayah 50
+
+> قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌ قَرِيبٌ
+
+Say, "If I should err, I would only err against myself. But if I am guided, it is by what my Lord reveals to me. Indeed, He is Hearing and near."
+
+### Ayah 51
+
+> وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ
+
+And if you could see1 when they are terrified but there is no escape, and they will be seized from a place nearby.
+
+### Ayah 52
+
+> وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍ
+
+And they will [then] say, "We believe in it!" But how for them will be the taking1 [of faith] from a place far away?2
+
+### Ayah 53
+
+> وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ
+
+And they had already disbelieved in it before and would assault1 the unseen from a place far away.2
+
+### Ayah 54
+
+> وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ
+
+And prevention will be placed between them and what they desire,1 as was done with their kind before. Indeed, they were in disquieting doubt [i.e., denial].
+
+
+
+---
+
+---
+
+## Tafsir: Ibn Kathir (Abridged)
+
+### Verse 34:1
+
+### Which was revealed in Makkah
+بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ 
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### All Praise and the Knowledge of the Unseen belong to Allah Alone
+
+Allah tells us that all praise belongs to Him alone in this world and in the Hereafter, because He is the Giver and Bestower who gives to the people of this world and the Hereafter, the Sovereign and Controller of all. Allah says:
+وَهُوَ اللَّهُ لا إِلَـهَ إِلاَّ هُوَ لَهُ الْحَمْدُ فِى الاٍّولَى وَالاٌّخِرَةِ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ 
+(And He is Allah; none has the right to be worshipped but He, all praise is due to Him (both) in the first (i.e., in this world) and in the last (the Hereafter). And for Him is the decision, and to Him shall you (all) be returned.) (28:70). Allah says:
+الْحَمْدُ للَّهِ الَّذِى لَهُ مَا فِى السَّمَـوَتِ وَمَا فِى الاٌّرْضِ
+(All praise is due to Allah, to Whom belongs all that is in the heavens and all that is in the earth.) meaning, all of it is His dominion and is enslaved by Him and subject to His control, as Allah says:
+وَإِنَّ لَنَا لَلاٌّخِرَةَ وَالاٍّولَى 
+(And truly, unto Us (belong) the last (Hereafter) and the first (this world)) (92:13). Then Allah says:
+وَلَهُ الْحَمْدُ فِى الاٌّخِرَةِ
+(His is all praise in the Hereafter,) for He is the One Who will be worshipped forever and praised for eternity.
+وَهُوَ الْحَكِيمُ
+and He is the All-Wise, means, in all that He says and does, legislates and decrees.
+الْخَبِيرُ
+the All-Aware. from Whom nothing at all is hidden or concealed. Ma0lik narrated that Az-Zuhri said, He is All-Aware of His creation, All-Wise in His commands. Allah says:
+يَعْلَمُ مَا يَلْجُ فِى الاٌّرْضِ وَمَا يَخْرُجُ مِنْهَا
+(He knows that which goes into the earth and that which comes forth from it,) meaning, He knows the number of raindrops that sink into the depths of the earth, and the seeds that have been sown, and the things that are hidden in it, and He knows what comes forth from that, how many they are, how they grow and what they look like.
+وَمَا يَنزِلُ مِنَ السَّمَآءِ
+(and that which descends from the heaven) means, of raindrops and provision, and what ascends into it, i.e., righteous deeds and other things.
+وَهُوَ الرَّحِيمُ الْغَفُورُ
+(And He is the Most Merciful, the Oft-Forgiving.) means, He is Most Merciful to His servants; He does not hasten to punish them, and He forgives the sins of those who repent to Him and put their trust in Him.
+
+---
+
+### Verse 34:2
+
+
+
+---
+
+### Verse 34:3
+
+### The Hour will come so that each Person will be rewarded or punished in accordance with His Deeds
+
+This is one of three Ayat -- there is no fourth -- where Allah commands His Messenger to swear by His Almighty Lord that the resurrection will surely come, because the stubborn followers of disbelief denied that it would happen. One of these Ayat is in Surah Yunus, where Allah says:
+وَيَسْتَنْبِئُونَكَ أَحَقٌّ هُوَ قُلْ إِى وَرَبِّى إِنَّهُ لَحَقٌّ وَمَآ أَنتُمْ بِمُعْجِزِينَ 
+(And they ask you to inform them (saying): "Is it true" Say: "Yes! By my Lord! It is the very truth! and you cannot escape it!") (10:53). The second of these Ayat is this one:
+وَقَالَ الَّذِينَ كَفَرُواْ لاَ تَأْتِينَا السَّاعَةُ قُلْ بَلَى وَرَبِّى لَتَأْتِيَنَّكُمْ
+(Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, it will come to you..."). And the third of them appears in Surat At-Taghabun, where Allah says:
+زَعَمَ الَّذِينَ كَفَرُواْ أَن لَّن يُبْعَثُواْ قُلْ بَلَى وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ وَذَلِكَ عَلَى اللَّهِ يَسِيرٌ 
+(The disbelievers pretend that they will never be resurrected (for reckoning). Say: "Yes! By my Lord, you will certainly be resurrected, then you will be informed of what you did; and that is easy for Allah") (64:7). And Allah says here:
+قُلْ بَلَى وَرَبِّى لَتَأْتِيَنَّكُمْ
+(Say: "Yes, by my Lord, it will come to you...") Then Allah is described in a manner that affirms that:
+عَـلِمِ الْغَيْبِ لاَ يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى السَّمَـوَتِ وَلاَ فِى الاٌّرْضِ وَلاَ أَصْغَرُ مِن ذَلِكَ وَلاَ أَكْبَرُ إِلاَّ فِى كِتَـبٍ مُّبِينٍ
+(the All-Knower of the Unseen, not even the weight of a speck of dust or less than that or greater escapes His knowledge in the heavens or in the earth but it is in a Clear Book.) Mujahid and Qatadah said, "Nothing is hidden or concealed from Him." In other words, everything is encompassed by His knowledge, and nothing is hidden from Him. Even though bones may be scattered and disintegrate, He knows where they have gone and where they have dispersed, then He will bring them back just as He created them in the first place, because He has knowledge of all things. Then Allah tells us of His wisdom in re-creating bodies and bringing about the Hour, as He says:
+لِّيَجْزِىَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَـتِ أُوْلَـئِكَ لَهُمْ مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ وَالَّذِينَ سَعَوْا فِى ءَايَـتِنَا مُعَاجِزِينَ
+(That He may recompense those who believe and do righteous good deeds. Those, theirs is forgiveness and generous provision. But those who strive against Our Ayat to frustrate them) meaning, those who try to turn others away from the path of Allah and who disbelieve His Messengers,
+أُوْلَـئِكَ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ
+(those, for them will be a severe painful torment.) This means, He will bestow His favor upon the blessed, who are the believers, and will punish the doomed, who are the disbelievers. This is like the Ayah:
+لاَ يَسْتَوِى أَصْحَـبُ النَّارِ وَأَصْحَـبُ الْجَنَّةِ أَصْحَـبُ الْجَنَّةِ هُمُ الْفَآئِزُونَ 
+(Not equal are the dwellers of the Fire and the dwellers of the Paradise. It is the dwellers of Paradise that will be successful.) (59:20)
+أَمْ نَجْعَلُ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَـتِ كَالْمُفْسِدِينَ فِى الاٌّرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ 
+(Shall We treat those who believe and do righteous good deeds like those who cause mischief on the earth Or shall We treat those who have Taqwa as the evildoers) (38:28)
+وَيَرَى الَّذِينَ أُوتُواْ الْعِلْمَ الَّذِى أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ
+(And those who have been given knowledge see that what is revealed to you from your Lord is the truth,) This is another kind of wisdom, following on from the one before, which is that when those who believed in what was revealed to the Messengers see the onset of the Hour and how the righteous and the wicked will be rewarded and punished respectively, which they knew of beforehand in this world from the Books of Allah and which they are now seeing with their own eyes, they will say:
+لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ
+(Indeed, the Messengers of our Lord did come with the truth) (7:43). And it will be said:
+هَذَا مَا وَعَدَ الرَّحْمـنُ وَصَدَقَ الْمُرْسَلُونَ
+(This is what the Most Gracious had promised, and the Messengers spoke truth!) 36:52
+لَقَدْ لَبِثْتُمْ فِى كِتَـبِ اللَّهِ إِلَى يَوْمِ الْبَعْثِ فَهَـذَا يَوْمُ الْبَعْثِ
+(Indeed you have stayed according to the decree of Allah, until the Day of Resurrection; so this is the Day of Resurrection) (30:56),
+وَيَرَى الَّذِينَ أُوتُواْ الْعِلْمَ الَّذِى أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِى إِلَى صِرَاطِ الْعَزِيزِ الْحَمِيدِ 
+(And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise.) The Exalted in might is the One Who is All-Powerful, Whom none can overwhelm or resist, but He subjugates and controls all things. The Owner of All praise is the One Who, in all His words, deeds, laws and decrees, is deserving of praise, may He be glorified and exalted.
+
+---
+
+### Verse 34:4
+
+
+
+---
+
+### Verse 34:5
+
+
+
+---
+
+### Verse 34:6
+
+
+
+---
+
+### Verse 34:7
+
+### The Disbelievers' Denial of Life after Death, and the Refutation of Their View
+
+Here Allah tells us how the disbelievers and heretics denied that the Hour will come, and mocked the Messenger ﷺ for speaking of it.
+
+وَقَالَ الَّذِينَ كَفَرُواْ هَلْ نَدُلُّكُمْ عَلَى رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ
+
+(Those who disbelieve say: "Shall we direct you to a man who will tell you (that) when you have become fully disintegrated into dust with full dispersion...") means, when your bodies have disintegrated into the earth and dispersed without a trace,
+
+إِنَّكُمْ
+
+(then you) means, after this has happened,
+
+لَفِى خَلْقٍ جَدِيدٍ
+
+(will be created (again) anew) means, you will be restored to life and will receive provision anew. `By telling us this, he is doing one of two things: either he is deliberately fabricating something and saying that Allah has revealed it to him, or he is not doing it deliberately, but he is deluded as crazy and insane people are.' They said:
+
+أَفْتَرَى عَلَى اللَّهِ كَذِباً أَم بِهِ جِنَّةٌ
+
+(Has he invented a lie against Allah, or is there a madness in him) Allah said, refuting their words:
+
+بَلِ الَّذِينَ لاَ يُؤْمِنُونَ بِالاٌّخِرَةِ فِى الْعَذَابِ وَالضَّلَـلِ الْبَعِيدِ
+
+(Nay, but those who disbelieve in the Hereafter are (themselves) in a torment, and in far error.) meaning, the matter is not as they claim or as they think; on the contrary, Muhammad ﷺ is the one who is telling the truth, and is righteous and wise; he is the one who has brought the truth, and they are the foolish and ignorant liars.
+
+فِى الْعَذَابِ
+
+are themselves( in a torment, means, their disbelief, which will lead them to the torment of Allah.
+
+وَالضَّلَـلِ الْبَعِيدِ
+
+(and in far error.) far from the truth in this world. Then Allah warns them of His power in the creation of heavens and earth, as He says:
+
+أَفَلَمْ يَرَوْاْ إِلَى مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ مِّنَ السَّمَآءِ وَالاٌّرْضِ
+
+(See they not what is before them and what is behind them, of the heaven and the earth) meaning, wherever they go, in whatever direction, the heavens are above them and the earth is beneath them. This is like the Ayah:
+
+وَالسَّمَآءَ بَنَيْنَـهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ - وَالاٌّرْضَ فَرَشْنَـهَا فَنِعْمَ الْمَـهِدُونَ
+
+(With Hands did We construct the heaven. Verily, We are Able to extend the vastness of space thereof. And We have spread out the earth; how Excellent Spreader (thereof) are We!) (51:47-48)
+
+إِن نَّشَأْ نَخْسِفْ بِهِمُ الاٌّرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفاً مِّنَ السَّمَآءِ
+
+(If We will, We shall sink the earth with them, or cause a piece of the heaven to fall upon them.) means, `if We wished, We could do that to them because of their wrongdoing and Our power over them, but We delay it because We are Patient and Forgiving.' Then Allah says:
+
+إِنَّ فِى ذَلِكَ لاّيَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
+
+(Verily, in this is a sign for every Munib servant.) Ma`mar narrating from Qatadah, said that Al-Munib means every one who repents. Sufyan narrated from Qatadah, that Al-Munib is the one who turns to Allah. This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah. There is a sign of the Allah's ability to recreate bodies and bring about the Resurrection, because the One Who was able to create these heavens -- with their vast reaches of space, and this earth, as deep and vast as it is -- is able to recreate bodies and revive decayed bones. This is like the Ayat:
+
+أَوَلَـيْسَ الَذِى خَلَقَ السَّمَـوتِ وَالاٌّرْضَ بِقَـدِرٍ عَلَى أَن يَخْلُقَ مِثْلَهُم بَلَى
+
+(Is not He Who created the heavens and the earth, Able to create the like of them Yes, indeed!) (36:81)
+
+لَخَلْقُ السَّمَـوَتِ وَالاٌّرْضِ أَكْـبَرُ مِنْ خَلْقِ النَّاسِ وَلَـكِنَّ أَكْـثَرَ النَّاسِ لاَ يَعْلَمُونَ
+
+(The creation of the heavens and the earth is indeed greater than the creation of mankind; yet, most of mankind know not. ) (40:57)
+
+---
+
+### Verse 34:8
+
+
+
+---
+
+### Verse 34:9
+
+
+
+---
+
+### Verse 34:10
+
+### The Favors which Allah bestowed upon Dawud
+
+Here Allah tells us how He blessed His servant and Messenger Dawud (David), peace be upon him, and what He gave him of His great bounty, giving him both prophethood and kingship, and huge numbers of troops. And He blessed him with a mighty voice. Such that when he glorified Allah, the firm, solid, high mountains joined him in glorifying Allah, and the free-roaming birds, who go out in the morning and come back in the evening, stopped for him, and he was able to speak all languages. In the Sahih it is recorded that the Messenger of Allah ﷺ heard the voice of Abu Musa Al-Ash`ari, may Allah be pleased with him, reciting at night, and he stopped and listened to his recitation, then he said:
+
+«لَقَدْ أُوتِيَ هذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُد»
+
+(This man has been given one of the sweet melodious voices of the Prophet Dawud.) Abu `Uthman An-Nahdi said, "I never heard any cymbal, stringed instrument or chord that was more beautiful than the voice of Abu Musa Al-Ash`ari, may Allah be pleased with him."
+
+أَوِّبِى
+
+(Glorify) means, glorify Allah. This was the view of Ibn `Abbas, Mujahid and others. The root of this word Ta'wib means to repeat or respond, so the mountains and birds were commanded to repeat after him.
+
+وَأَلَنَّا لَهُ الْحَدِيدَ
+
+And We made the iron soft for him. Al-Hلasan Al-Basلri, Qata0dah, Al-A mash and others said, He did not need to heat it in the fire or beat it with a hammer؛ he could simply twist it in his hands, like a thread. Allah said:
+
+أَنِ اعْمَلْ سَـبِغَـتٍ
+
+Saying: Make you perfect coats of mail... , which means chain mail. Qata0dah said, He was the first person ever to make chain mail؛ before that, they used to wear plated armor.
+
+وَقَدِّرْ فِى السَّرْدِ
+
+(and balance well the rings of chain armor Sard,) This is how Allah taught His Prophet Dawud, peace be upon him, to make coats of mail. Mujahid said concerning the Ayah:
+
+وَقَدِّرْ فِى السَّرْدِ
+
+(and balance well the rings of chain armor Sard,) "Do not make the rivets too loose that the rings (of chain mail) will shake, or make them too tight that they will not be able to move at all, but make it just right." `Ali bin Abi Talhah reported that `Ibn `Abbas said, "Sard refers to a ring of iron." Some of them said, "Chain mail is called Masrud if it is held together with rivets."
+
+وَاعْمَلُواْ صَـلِحاً
+
+and work you (men) righteousness. means, with regard to what Allah has given you of blessings.
+
+إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ
+
+Truly, I am All-Seer of what you do. means, watching you and seeing all that you do and say؛ nothing of that is hidden at all.
+
+---
+
+### Verse 34:11
+
+
+
+---
+
+### Verse 34:12
+
+### The Favors which Allah bestowed upon Sulayman
+
+Having mentioned the blessings with which He favored Dawud, Allah follows this by mentioning what He gave to Dawud's son Sulayman (Solomon), may peace be upon them both. He subjugated the wind to him, so that it would carry his carpet one way for a month, then back again the next month. Al-Hasan Al-Basri said, "He set out from Damascus in the morning, landed in Istakhar where he ate a meal, then flew on from Istakhar and spent the night in Kabil." Between Damascus and Istakhar is an entire month's travel for a swift rider, and between Istakhar and Kabul is an entire month's travel for a swift rider.
+
+وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ
+
+(And We caused a fount Qitr to flow for him,) Ibn `Abbas, may Allah be plased with him, Mujahid, `Ikrimah, `Ata' Al-Khurasani, Qatadah, As-Suddi, Malik from Zayd bin Aslam, `Abdur-Rahman bin Zayd bin Aslam and others said, "Qitr means copper." Qatadah said, "It was in Yemen." Allah brought forth all the things that people make for Sulayman, peace be upon him.
+
+وَمِنَ الْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ
+
+(and there were Jinn that worked in front of him, by the leave of his Lord.) means, `We subjugated the Jinn to work in front of him,' by the permission of his Lord, i.e., by Allah's decree and subjugation, they built whatever constructions he wanted, and did other work as well.
+
+وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
+
+(And whosoever of them turned aside from Our command,) means, whoever among them tried to rebel and disobey,
+
+نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ
+
+(We shall cause him to taste of the torment of the blazing Fire.) which means, burning.
+
+يَعْمَلُونَ لَهُ مَا يَشَآءُ مِن مَّحَـرِيبَ وَتَمَـثِيلَ
+
+(They worked for him as he desired on Maharib, Tamathil,) Maharib refers to beautiful structures, the best and innermost part of a dwelling. Ibn Zayd said, "This means dwellings." With regard to "Tamathil," `Atiyah Al-`Awfi, Ad-Dahhak and As-Suddi said that Tamathil means pictures.
+
+وَجِفَانٍ كَالْجَوَابِ وَقُدُورٍ رَسِيَـتٍ
+
+(large basins like Jawab and Qudur Rasiyat.) Jawab, the plural form of Jabiyah, refers to cisterns or tanks in which water is held, and Qudur Rasiyat are cauldrons that stay in one place and are not moved around because of their great size. This was the view of Mujahid, Ad-Dahhak and others.
+
+اعْمَلُواْ ءَالَ دَاوُودَ شُكْراً
+
+(Work you, O family of Dawud, with thanks!) means, `We said to them: Work with thanks for the blessings that We have bestowed upon you in this world and the Hereafter.' This indicates that thanks may be expressed by actions as much as by words and intentions. Abu `Abdur-Rahman Al-Hubuli said, "Prayer is thanks, fasting is thanks, every good deed that you do for the sake of Allah is thanks, and the best of thanks is praise." This was recorded by Ibn Jarir. In the Two Sahihs, it is reported that the Messenger of Allah ﷺ said:
+
+«إِنَّ أَحَبَّ الصَّلَاةِ إِلَى اللهِ تَعَالَى صَلَاةُ دَاوُدَ، كَانَ يَنَامُ نِصْفَ اللَّيْلِ، وَيَقُومُ ثُلُثَهُ، وَيَنَامُ سُدُسَهُ، وَأَحَبَّ الصِّيَامِ إِلَى اللهِ تَعَالَى صِيَامُ دَاوُدَ، كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا، وَلَا يَفِرُّ إِذَا لَاقَى»
+
+(The most beloved of prayer to Allah is the prayer of Dawud. He used to sleep for half the night, stand in prayer for a third of it and sleep for a sixth of it. The most beloved of fasting to Allah is the fasting of Dawud. He used to fast for a day then not fast for a day, and he never fled the battlefield.) Ibn Abi Hatim narrated that Fudayl said concerning the Ayah:
+
+اعْمَلُواْ ءَالَ دَاوُودَ شُكْراً
+
+(Work you, O family of Dawud, with thanks!) Dawud said, "O Lord! How can I thank you when thanks itself is a blessing from You" He said: "Now you have truly given thanks to Me, for you have realized that it is a blessing from Me."
+
+وَقَلِيلٌ مِّنْ عِبَادِىَ الشَّكُورُ
+
+But few of My servants are grateful. This is a reflection of reality.
+
+---
+
+### Verse 34:13
+
+
+
+---
+
+### Verse 34:14
+
+### The Death of Sulayman
+
+Allah tells us how Sulayman, peace be upon him, died and how Allah concealed his death from the Jinn who were subjugated to him to do hard labor. He remained leaning on his stick, which was his staff, as Ibn `Abbas may Allah be pleased with him, Mujahid, Al-Hasan, Qatadah and others said. He stayed like that for a long time, nearly a year. When a creature of the earth, which was a kind of worm, ate through the stick, it became weak and fell to the ground. Then it became apparent that he had died a long time before. It also became clear to Jinn and men alike that the Jinn do not know the Unseen as they (the Jinn) used to imagine and tried to deceive people. This is what Allah says:
+مَا دَلَّهُمْ عَلَى مَوْتِهِ إِلاَّ دَابَّةُ الاٌّرْضِ تَأْكُلُ مِنسَأَتَهُ فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَن لَّوْ كَانُواْ يَعْلَمُونَ الْغَيْبَ مَا لَبِثُواْ فِى الْعَذَابِ الْمُهِينِ
+(nothing informed them (Jinn) of his death except a little worm of the earth which kept (slowly) gnawing away at his stick. So when he fell down, the Jinn saw clearly that if they had known the Unseen, they would not have stayed in the humiliating torment.) meaning, it became clear to the people that they (the Jinn) were lying.
+
+---
+
+### Verse 34:15
+
+### The Disbelief of Saba' (Sheba) and Their Punishment
+
+Saba' refers to the kings and people of the Yemen. At-Tababa`ah (Tubba`) surname of the ancient kings of Yemen were part of them, and Bilqis, the queen who met Sulayman, peace be upon him, was also one of them. They lived a life of enviable luxury in their land with plentiful provision, crops and fruits. Allah sent them messengers telling them to eat of His provision and give thanks to Him by worshipping Him alone, and they followed that for as long as Allah willed, then they turned away from that which they had been commanded to do. So they were punished with a flood which scattered them throughout the lands around Saba' in all directions, as we will see in detail below, if Allah wills. In Him we put our trust. Ibn Jarir recorded that Farwah bin Musayk Al-Ghutayfi, may Allah be pleased with him, said, "A man said, `O Messenger of Allah! Tell me about Saba' -- what was it, a land or a woman' He said:
+
+«لَيْسَ بِأَرْضٍ وَلَا امْرَأَةٍ، وَلَكِنَّهُ رَجُلٌ وُلِدَ لَهُ عَشَرَةٌ مِنَ الْوَلَدِ، فَتَيَامَنَ سِتَّةٌ وَتَشَاءَمَ أَرْبَعَةٌ، فَأَمَّا الَّذِينَ تَشَاءَمُوا: فَلَخْمٌ وَجُذَامٌ وَعَامِلَةُ وَغَسَّانُ، وَأَمَّا الَّذِينَ تَيَامَنُوا: فَكِنْدَةُ وَالْأَشْعَرِيُّونَ وَالْأَزْدُ وَمَذْحِجٌ وَحِمْيَرُ وَأَنْمَار»
+
+(It was neither a land nor a woman. It was a man who had ten children, six of whom went Yemen and four of whom went Ash-Sham. Those who went Ash-Sham were Lakhm, Judham, `Amilah and Ghassan. Those who went south were Kindah, Al-Ash`ariyyun, Al-Azd, Madhhij, Himyar and Anmar.) A man asked, `Who are Anmar' He said:
+
+«الَّذِينَ مِنْهُمْ خَثْعَمُ وَبَجِيلَة»
+
+(Those among whom are Khath`am and Bajilah. )" This was recorded by At-Tirmidhi in his Jami` Sunan in more detail than this; then he said, "This is a Hasan Gharib Hadith." The genealogists -- including Muhammad bin Ishaq -- said, "The name of Saba' was `Abd Shams bin Yashjub bin Ya`rub bin Qahtan; he was called Saba' because he was the first Arab tribe to disperse. He was also known as Ar-Ra'ish, because he was the first one to take booty in war and give it to his people, so he was called Ar-Ra'ish; because the Arabs call wealth Rish or Riyash. They differ over Qahtan, about whom there were three views. (The first) he descended from the line of Iram bin Sam bin Nuh, then there were three different views over how he descended from him. (The second) was that he was descended from `Abir, another name for Hud, peace be upon him, then there were also three different views over exactly how he descended from him. (The third) was that he was descended from Isma`il bin Ibrahim Al-Khalil, peace be upon him, then there were also three different views over exactly how he descended from him. This was discussed in full detail by Imam Al-Hafiz Abu `Umar bin `Abdul-Barr An-Namari, may Allah have mercy on him, in his book Al-Musamma Al-Inbah `Ala Dhikr Usul Al-Qaba'il Ar-Ruwat. The meaning of the Prophet's words,
+
+«كَانَ رَجُلًا مِنَ الْعَرَب»
+
+(He was a man among the Arabs.) means that he was one of the original Arabs, who were before Ibrahim, peace be upon him, and were descendants of Sam bin Nuh (Shem, the son of Noah). According to the third view mentioned above, he descended from Ibrahim, peace be upon him, but this was not a well-known view among them. And Allah knows best. But in Sahih Al-Bukhari, it is reported that the Messenger of Allah ﷺ passed by a group of people from (the tribe of) Aslam who were practicing archery, and he said,
+
+«ارْمُوا بَنِي إِسْمَاعِيلَ فَإِنَّ أَبَاكُمْ كَانَ رَامِيًا»
+
+(Shoot, O sons of Isma`il, for your father was an archer.) Aslam was a tribe of the Ansar, and the Ansar -- both Aws and Khazraj -- were from Ghassan, from the Arabs of Yemen from Saba', who settled in Yathrib when Saba' was scattered throughout the land when Allah sent against them the flood released from the dam. A group of them also settled in Syria, and they were called Ghassan for the name of the water beside which they camped -- it was said that it was in the Yemen, or that it was near Al-Mushallal, as Hassan bin Thabit, may Allah be pleased with him, said in one of his poems. The meaning of his words: "If you ask, then we are the community of the noble descendants, our lineage is Al-Azd and our water is Ghassan."
+
+«وُلِدَ لَهُ عَشْرَةٌ مِنَ الْعَرَب»
+
+(He had ten sons among the Arabs.) means that these ten were of his lineage, and that the origins of the Arab tribes of the Yemen go back to him, not that they were his sons born of his loins. There may have been two or three generations between him and some of them, or more or less, as is explained in detail in the books of genealogy. The meaning of the words,
+
+«فَتَيَامَنَ مِنْهُمْ سِتَّةٌ وَتَشَاءَمَ مِنْهُمْ أَرْبَعَة»
+
+(Six of whom went south and four of whom went north. ) is that after Allah sent against them the flood released from the dam, some of them stayed in their homeland, whilst others left to go elsewhere.
+
+### The Dam of Ma'arib and the Flood
+
+The story of the dam is about the water which used to come to them from between two mountains, combined with the floods from rainfall and their valleys. Their ancient kings built a huge, strong dam and the water reached a high level between these two mountains. Then they planted trees and got the best fruits that could ever be harvested, plentiful and beautiful. A number of the Salaf, including Qatadah, mentioned that a woman could walk beneath the trees, carrying a basket or vessel -- such as is used for gathering fruit -- on her head. And that the fruit would fall from the trees and fill the basket without any need for her to make the effort to pick the fruit, because it was so plentiful and ripe. This was the dam of Ma'arib, a land between which and San`a' was a journey of three days. Others said that in their land there were no flies, mosquitoes or fleas, or any kind of vermin. This was because the weather was good and the people were healthy, and Allah took care of them so that they would single out and worship Him alone, as He says:
+
+لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ
+
+(Indeed there was for Saba` (Sheba) a sign in their dwelling place) Then He explains this by saying:
+
+جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ
+
+(two gardens on the right and on the left;) meaning, the two sides where the mountains were, and their land was in between them.
+
+كُلُواْ مِن رِّزْقِ رَبِّكُمْ وَاشْكُرُواْ لَهُ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ
+
+((and it was said to them: ) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord!) means, `He would forgive you if you continue to worship Him alone.'
+
+فَأَعْرِضُواْ
+
+(But they turned away,) means, from worshipping Allah alone and from giving thanks to Him for the blessings that He had bestowed upon them, and they started to worship the sun instead of Allah, as the hoopoe told Sulayman, peace be upon him:
+
+فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ وَجِئْتُكَ مِن سَبَإٍ بِنَبَإٍ يَقِينٍ - إِنِّى وَجَدتُّ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ - وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ اللَّهِ وَزَيَّنَ لَهُمُ الشَّيْطَـنُ أَعْمَـلَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ فَهُمْ لاَ يَهْتَدُونَ
+
+("I have come to you from Saba' (Sheba) with true news. I found a woman ruling over them, she has been given all things, and she has a great throne. I found her and her people worshipping the sun instead of Allah, and Shaytan has made their deeds fair seeming to them, and has barred them from the way, so they have no guidance.") (27:22-24)
+
+فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ
+
+(so We sent against them flood released from the dam,) Some, including Ibn `Abbas, Wahb bin Munabbih, Qatadah and Ad-Dahhak said that when Allah wanted to punish them by sending the flood upon them, he sent beasts from the earth to the dam, large rats, which made a hole in it. Wahb bin Munabbih said, "They found it written in their Scriptures that the dam would be destroyed because of these large rats. So they brought cats for a while, but when the decree came to pass, the rats overran the cats and went into the dam, making a hole in it, and it collapsed." Qatadah and others said, "The large rat is the desert rat. They gnawed at the bottom of the dam until it became weak, then the time of the floods came and the waters hit the structure and it collapsed. The waters rushed through the bottom of the valley and destroyed everything in their path -- buildings, trees, etc." As the water drained from the trees that were on the mountains, to the right and the left, those trees dried up and were destroyed. Those beautiful, fruit-bearing trees were replaced with something altogether different, as Allah says:
+
+وَبَدَّلْنَـهُمْ بِجَنَّـتِهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ
+
+(and We converted their two gardens into gardens producing bitter bad fruit (ukul khamt),) Ibn `Abbas, Mujahid, `Ikrimah, `Ata' Al-Khurasani, Qatadah and As-Suddi said, "It refers to Arak (Zingiber officinale) and bitter bad fruit."
+
+وَأَثْلٍ
+
+and Athl, Al- Awfi and Ibn Abba0s said that this means tamarisk. Others said that it means a tree that resembles a tamarisk, and it was said that it was the gum acacia or mimosa. And Allah knows best.
+
+وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
+
+and some few lote trees. Because the lote trees were the best of the trees with which the garden was replaced, there were only a few of them.
+
+وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
+
+and some few lote trees. This is what happened to those two gardens after they had been so fruitful and productive, offering beautiful scenes, deep shade and flowing rivers: they were replaced with thorny trees, tamarisks and lote trees with huge thorns and little fruit. This was because of their disbelief and their sin of associating others with Allah, and because they denied the truth and turned towards falsehood. Allah said:
+
+ذَلِكَ جَزَيْنَـهُمْ بِمَا كَفَرُواْ وَهَلْ نُجْزِى إِلاَّ الْكَفُورَ
+
+(Like this We requited them because they were ungrateful disbelievers. And never do We requite in such a way except those who are ungrateful.) meaning, `We punished them for their disbelief.' Mujahid said, "He does not punish anyone except the disbelievers." Al-Hasan Al-Basri said, "Allah the Almighty has spoken the truth: no one will be punished in a manner that befits the sin except the ungrateful disbelievers."
+
+---
+
+### Verse 34:16
+
+
+
+---
+
+### Verse 34:17
+
+
+
+---
+
+### Verse 34:18
+
+### The Trade of Saba' and Their Destruction
+
+Allah tells us about the blessings which the people of Saba' enjoyed, and the luxuries and plentiful provision which was theirs in their land, with its secure dwellings and towns which were joined to one another, with many trees, crops and fruits. When they traveled, they had no need to carry provisions or water with them; wherever they stopped, they would find water and fruits, so they could take their noontime rest in one town, and stay overnight in another, according to their needs on their journey. Allah says:
+
+وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَى الَّتِى بَارَكْنَا فِيهَا
+
+(And We placed, between them and the towns which We had blessed,) Mujahid, Al-Hasan, Sa`id bin Jubayr and Malik, who narrated it from Zayd bin Aslam, and Qatadah, Ad-Dahhak, As-Suddi, Ibn Zayd and others -- all said that this means the towns of Syria. It means they used to travel from Yemen to Syria via towns easy to be seen and connected to one another. Al-`Awfi reported that Ibn `Abbas said, "`The towns which We had blessed by putting Jerusalem among them."
+
+قُرًى ظَـهِرَةً
+
+towns easy to be seen, meaning, clear and visible, known to travelers, so they could take their noontime rest in one town and stay overnight in another. Allah says:
+
+وَقَدَّرْنَا فِيهَا السَّيْرَ
+
+(and We made the stages (of journey) between them easy) meaning, `We made it in a way that met the needs of the travelers.'
+
+سِيرُواْ فِيهَا لَيَالِىَ وَأَيَّاماً ءَامِنِينَ
+
+(Travel in them safely both by night and day.) means, those who travel in them will be safe both by night and by day.
+
+فَقَالُواْ رَبَّنَا بَـعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُواْ أَنفُسَهُمْ
+
+(But they said: "Our Lord! Make the stages between our journey longer," and they wronged themselves;) They failed to appreciate this blessing, as Ibn `Abbas, Mujahid, Al-Hasan and others said: "They wanted to travel long distances through empty wilderness where they would need to carry provisions with them and would have to travel through intense heat in a state of fear."
+
+فَجَعَلْنَـهُمْ أَحَادِيثَ وَمَزَّقْنَـهُمْ كُلَّ مُمَزَّقٍ
+
+(so We made them as tales (in the land), and We dispersed them all totally.) means, `We made them something for people to talk about when they converse in the evening, how Allah plotted against them and dispersed them after they had been together living a life of luxury, and they were scattered here and there throughout the land.' So, the Arabs say of a people when they are dispersed, "They have been scattered like Saba'," in all directions.
+
+إِنَّ فِى ذلِكَ لآيَـتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+(Verily, in this are indeed signs for every steadfast, grateful.) In the punishment which these people suffered, the way in which their blessings and good health were turned into vengeance for their disbelief and sins, is a lesson and an indication for every person who is steadfast in the face of adversity and grateful for blessings. Imam Ahmad recorded that Sa`d bin Abi Waqqas, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said:
+
+«عَجِبْتُ مِنْ قَضَاءِ اللهِ تَعَالَى لِلْمُؤْمِنِ إِنْ أَصَابَهُ خَيْرٌ حَمِدَ رَبَّهُ وَشَكَرَ، وَإِنْ أَصَابَتْهُ مُصِيبَةٌ حَمِدَ رَبَّهُ وَصَبَرَ، يُؤْجَرُ الْمُؤْمِنُ فِي كُلِّ شَيْءٍ حَتْى فِي اللُّقْمَةِ يَرْفَعُهَا إِلَى فِي امْرَأَتِه»
+
+(I am amazed at what Allah has decreed for the believer; if something good befalls him, He praises his Lord and gives thanks, and if something bad befalls him, he praises his Lord and has patience. The believer will be rewarded for everything, even the morsel of food which he lifts to his wife's mouth.)" This was also recorded by An-Nasa'i in Al-Yawm wal-Laylah. There is a corroborating report in the Two Sahihs, where a Hadith narrated by Abu Hurayrah, may Allah be pleased with him, says:
+
+«عَجَبًا لِلْمُؤْمِنِ لَا يَقْضِي اللهُ تَعَالَى لَهُ قَضَاءً إِلَّا كَانَ خَيْرًا لَهُ، إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ، وَلَيْسَ ذَلِكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِن»
+
+(How amazing is the affair of the believer! Allah does not decree anything for him but it is good for him. If something good happens to him, he gives thanks, and that is good for him; if something bad happens to him, he bears it with patience, and that is good for him. This is not for anyone except the believer.)" It was reported that Qatadah said:
+
+إِنَّ فِى ذلِكَ لآيَـتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+g(Verily, in this are indeed signs for every steadfast, grateful.) It was Mutarrif who used to say: "How blessed is the grateful, patient servant. If he is given something, he gives thanks, and if he is tested, he bears it with patience."
+
+---
+
+### Verse 34:19
+
+
+
+---
+
+### Verse 34:20
+
+### How Iblis' thought about the Disbeliever proved True
+
+Having mentioned Saba' and how they followed their desires, and the Shaytan, Allah tells us about their counterparts among those who follow Iblis and their own desires, and who go against wisdom and true guidance. Allah says:
+وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ
+(And indeed Iblis did prove true his thought about them,) Ibn `Abbas, may Allah be pleased with him, and others said that this Ayah is like the Ayah where Allah tells us about how Iblis refused to prostrate to Adam, peace be upon him, then said:
+أَرَءَيْتَكَ هَـذَا الَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَى يَوْمِ الْقِيَـمَةِ لأَحْتَنِكَنَّ ذُرِّيَّتَهُ إَلاَّ قَلِيلاً
+(See this one whom You have honored above me, if You give me respite to the Day of Resurrection, I will surely seize and mislead his offspring all but a few!) (17:62)
+ثُمَّ لآتِيَنَّهُم مِّن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَـنِهِمْ وَعَن شَمَآئِلِهِمْ وَلاَ تَجِدُ أَكْثَرَهُمْ شَـكِرِينَ 
+(Then I will come to them from before them and behind them, from their right and from their left, and You will not find most of them as thankful ones.) (7:17) And there are many Ayat which refer to this matter.
+وَمَا كَانَ لَهُ عَلَيْهِمْ مِّن سُلْطَـنٍ
+(And he (Iblis) had no authority over them, ) Ibn `Abbas, may Allah be pleased with him said, "This means, he had no proof."
+إِلاَّ لِنَعْلَمَ مَن يُؤْمِنُ بِالاٌّخِرَةِ مِمَّنْ هُوَ مِنْهَا فِى شَكٍّ
+(except that We might test him who believes in the Hereafter, from him who is in doubt about it.) means, `We gave him power over them only to show who believes in the Hereafter and that it will come to pass.' The people will be brought to account and rewarded or punished accordingly, so that he will worship his Lord properly in this world -- and to distinguish these believers from those who are in doubt about the Hereafter.
+وَرَبُّكَ عَلَى كُلِّ شَىْءٍ حَفُيظٌ
+(And your Lord is a Watchful over everything.) means, despite His watching, those who follow Iblis go astray, but by His watching and care, the believers who follow the Messengers are saved.
+
+---
+
+### Verse 34:21
+
+
+
+---
+
+### Verse 34:22
+
+### The Helplessness of the gods of the Idolators Here
+
+Allah states clearly that He is the One and Only God, the Self-Sufficient Master, Who has no peer or partner; He is independent in His command and there is no one who can share or dispute with Him in that, or overturn His command. So, He says:
+
+قُلِ ادْعُواْ الَّذِينَ زَعَمْتُمْ مِّن دُونِ اللَّهِ
+
+(Say: "Call upon those whom you assert besides Allah...") meaning, the gods who are worshipped besides Allah.
+
+لاَ يَمْلِكُونَ مِثُقَالَ ذَرَّةٍ فِى السَّمَـوَتِ وَلاَ فِى الاٌّرْضِ
+
+(they possess not even the weight of a speck of dust, either in the heavens or on the earth,) This is like the Ayah:
+
+وَالَّذِينَ تَدْعُونَ مِن دُونِهِ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
+
+(And those, whom you invoke or call upon instead of Him, own not even a Qitmir) (35:13).
+
+وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ
+
+nor have they any share in either, means, they do not possess anything, either independently or as partners.
+
+وَمَا لَهُ مِنْهُمْ مِّن ظَهِيرٍ
+
+(nor there is for Him any supporter from among them. ) means, nor does Allah have among these rivals any whose support He seeks in any matter; on the contrary, all of creation is in need of Him and is enslaved by Him. Then Allah says:
+
+وَلاَ تَنفَعُ الشَّفَـعَةُ عِندَهُ إِلاَّ لِمَنْ أَذِنَ لَهُ
+
+(Intercession with Him profits not except for him whom He permits.) meaning, because of His might, majesty and pride, no one would dare to intercede with Him in any matter, except after being granted His permission to intercede. As Allah says:
+
+مَن ذَا الَّذِى يَشْفَعُ عِندَهُ إِلاَّ بِإِذْنِهِ
+
+(Who is he that can intercede with Him except with His permission) (2:255),
+
+وَكَمْ مِّن مَّلَكٍ فِى السَّمَـوَتِ لاَ تُغْنِى شَفَـعَتُهُمْ شَيْئاً إِلاَّ مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَآءُ وَيَرْضَى
+
+(And there are many angels in the heavens, whose intercession will avail nothing except after Allah has given leave for whom He wills and is pleased with.) (53:26)
+
+وَلاَ يَشْفَعُونَ إِلاَّ لِمَنِ ارْتَضَى وَهُمْ مِّنْ خَشْيَتِهِ مُشْفِقُونَ
+
+(and they cannot intercede except for him with whom He is pleased. And they stand in awe for fear of Him) (21:28). It was reported in the Two Sahihs through more than one chain of narration that the Messenger of Allah ﷺ , who is the leader of the sons of Adam and the greatest intercessor before Allah, will go to stand in Al-Maqam Al-Mahmud (the praised position) to intercede for all of mankind when their Lord comes to pass judgement upon them. He said:
+
+«فَأَسْجُدُ للهِ تَعَالَى فَيَدَعُنِي مَااَشاءَ اللهُ أَنْ يَدَعَنِي، وَيَفْتَحُ عَلَيَّ بِمَحَامِدَ لَا أُحْصِيهَا الْانَ، ثُمَّ يُقَالُ: يَامُحَمَّدُ ارْفَعْ رَأْسَكَ وَقُلْ تُسْمَعْ، وَسَلْ تُعْطَهُ، وَاشْفَعْ تُشَفَّع»
+
+(Then I will prostrate to Allah, may He be exalted, and He will leave me (in that position), as long as Allah wills, and He will inspire me to speak words of praise which I cannot mention now. Then it will be said, "O Muhammad, raise your head. Speak, you will be heard; ask, you will be given; intercede, your intercession will be accepted...")
+
+حَتَّى إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُواْ مَاذَا قَالَ رَبُّكُمْ قَالُواْ الْحَقَّ
+
+(So much so that when fear is banished from their hearts, they say: "What is it that your Lord has said" They say the truth.) This also refers to the great degree of His might and power. When He speaks words of revelation, the inhabitants of the heavens hear what He says, and they tremble with fear (of Allah) so much that they swoon. This was the view of Ibn Mas`ud, may Allah be pleased with him, Masruq and others.
+
+حَتَّى إِذَا فُزِّعَ عَن قُلُوبِهِمْ
+
+(So much so that when fear is banished from their hearts,) means, when the fear leaves their hearts. Ibn `Abbas, Ibn `Umar, Abu `Abdur-Rahman As-Sulami, Ash-Sha`bi, Ibrahim An-Nakha`i, Ad-Dhahhak, Al-Hasan and Qatadah said concerning the Ayah,
+
+حَتَّى إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُواْ مَاذَا قَالَ رَبُّكُمْ قَالُواْ الْحَقَّ
+
+(So much so that when fear is banished from their hearts, they say: "What is it that your Lord has said" They say the truth.) "When the fear is lifted from their hearts." When this happens, some of them say to others, "What did your Lord say" Those (angels) who are carrying the Throne tell those who are next to them, then they in turn pass it on to those who are next to them, and so on, until the news reaches the inhabitants of the lowest heaven. Allah says,
+
+قَالُواْ الْحَقَّ
+
+They say the truth. meaning, they report what He said, without adding or taking away anything.
+
+وَهُوَ الْعَلِىُّ الْكَبِيرُ
+
+(And He is the Most High, the Most Great.) In his Tafsir of this Ayah in his Sahih, Al-Bukhari recorded that Abu Hurayrah, may Allah be pleased with him said, "The Prophet of Allah said:
+
+«إِذَا قَضَى اللهُ تَعَالَى الْأَمْرَ فِي السَّمَاءِ ضَرَبَتِ الْمَلَائِكَةُ بِأَجْنِحَتِهَا خُضْعَانًا لِقَوْلِهِ،كَأَنَّهُ سِلْسِلَةٌ عَلَى صَفْوَانٍ، فَإِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا: مَاذَا قَالَ رَبُّكُمْ؟ قَالُوا لِلَّذِي قَالَ: الْحَقَّ، وَهُوَ الْعَلِيُّ الْكَبِيرُ، فَيَسْمَعُهَا مُسْتَرِقُ السَّمْعِ، وَمُسْتَرِقُ السَّمْعِ هَكَذَا بَعْضُهُ فَوْقَ بَعْضٍ وَوَصَفَ سُفْيَانُ بِيَدِهِ فَحَرَّفَهَا، وَنَشَرَ بَيْنَ أَصَابِعِهِ فَيَسْمَعُ الْكَلِمَةَ فَيُلْقِيهَا إِلَى مَنْ تَحْتَهُ، ثُمَّ يُلْقِيهَا الْاخَرُ إِلَى مَنْ تَحْتَهُ، حَتْى يُلْقِيَهَا عَلَى لِسَانِ السَّاحِرِ أَوِ الْكَاهِنِ، فَرُبَّمَا أَدْرَكَهُ الشِّهَابُ قَبْلَ أَنْ يُلْقِيَهَا، وَرُبَّمَا أَلْقَاهَا قَبْلَ أَنْ يُدْرِكَهُ، فَيَكْذِبُ مَعَهَا مِائَةَ كَذْبَةٍ فَيُقَالُ: أَلَيْسَ قَدْ قَالَ لَنَا يَوْمَ كَذَا وَكَذَا، كَذَا وَكَذَا؟ فَيُصَدَّقُ بِتِلْكَ الْكَلِمَةِ الَّتِي سُمِعَتْ مِنَ السَّمَاء»
+
+(When Allah decrees a matter in heaven, the angels beat their wings in submission to His Words, making a sound like a chain striking a smooth rock. When the fear is banished from their hearts, they say, "What is it that your Lord has said" They say the truth, and He is the Most High, the Most Great. Then the one who is listening out hears that, and those who are listening out are standing one above the other) -- Sufyan one of the narrators demonstrated with his hand, holding it vertically with the fingers outspread. (So he hears what is said and passes it on to the one below him, and that one passes it to the one who is below him, and so on until it reaches the lips of the soothsayer or fortune-teller. Maybe a meteor will hit him before he can pass anything on, or maybe he will pass it on before he is hit. He tells a hundred lies alongside it, but it will be said, "Did he not tell us that on such and such a day, such and such would happen" So they believe him because of the one thing which was heard from heaven.)" This was recorded by Al-Bukhari, not by Muslim. Abu Dawud, At-Tirmidhi and Ibn Majah also recorded it. And Allah knows best.
+
+---
+
+### Verse 34:23
+
+
+
+---
+
+### Verse 34:24
+
+### Allah has no partner in anything whatsoever
+
+Allah tells us that He is unique in His power of creation and His giving of provision, and that He is unique in His divinity also. As they used to admit that no one in heaven or on earth except Allah gave them provision, i.e., by sending down water and causing crops to grow, so they should also realize that there is no god worthy of worship besides Him.
+
+وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَى هُدًى أَوْ فِى ضَلَـلٍ مُّبِينٍ
+
+(And verily, (either) we or you are rightly guided or in plain error.) `One of the two sides must be speaking falsehood, and one must be telling the truth. There is no way that you and we could both be following true guidance, or could both be misguided. Only one of us can be correct, and we have produced the proof of Tawhid which indicates that your Shirk must be false.' Allah says:
+
+وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَى هُدًى أَوْ فِى ضَلَـلٍ مُّبِينٍ
+
+(And verily, (either) we or you are rightly guided or in plain error.) Qatadah said, "The Companions of Muhammad ﷺ said this to the idolators: `By Allah, we and you cannot be following the same thing, only one of us can be truly guided."' `Ikrimah and Ziyad bin Abi Maryam said, "It means: we are rightly guided and you are in plain error."
+
+قُل لاَّ تُسْـَلُونَ عَمَّآ أَجْرَمْنَا وَلاَ نُسْـَلُ عَمَّا تَعْمَلُونَ
+
+(Say: "You will not be asked about our sins, nor shall we be asked of what you do.") This indicates disowning them, saying, `you do not belong to us and we do not belong to you, because we call people to Allah, to believe that He is the Only God and to worship Him alone. If you respond, then you will belong to us and we to you, but if you reject our call, then we have nothing to do with you and you have nothing to do with us.' This is like the Ayat:
+
+وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ أَنتُمْ بَرِيئُونَ مِمَّآ أَعْمَلُ وَأَنَاْ بَرِىءٌ مِّمَّا تَعْمَلُونَ
+
+(And if they deny you, say: "For me are my deeds and for you are your deeds! You are innocent of what I do, and I am innocent of what you do!") (10:41)
+
+قُلْ يأَيُّهَا الْكَـفِرُونَ - لاَ أَعْبُدُ مَا تَعْبُدُونَ - وَلاَ أَنتُمْ عَـبِدُونَ مَآ أَعْبُدُ - وَلاَ أَنَآ عَابِدٌ مَّا عَبَدتُّمْ وَلاَ أَنتُمْ عَـبِدُونَ مَآ أَعْبُدُ لَكُمْ دِينُكُمْ وَلِىَ دِينِ
+
+(Say: "O disbelievers! I worship not that which you worship, Nor will you worship that which I worship. And I shall not worship that which you are worshipping. Nor will you worship that which I worship. To you be your religion, and to me my religion.") (104:1-6).
+
+قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا
+
+(Say: "Our Lord will assemble us all together...") means, `on the Day of Resurrection, He will bring all of creation together in one arena, then He will judge between us with truth, i.e., with justice.' Each person will be rewarded or punished according to his deeds; if they are good, then his end will be good, and if they are bad, then his end will be bad. On that Day they will know who has attained victory, glory and eternal happiness, as Allah says: U
+
+وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ - فَأَمَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَـتِ فَهُمْ فِى رَوْضَةٍ يُحْبَرُونَ - وَأَمَّا الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَايَـتِنَا وَلِقَآءِ الاَّخِرَةِ فَأُوْلَـئِكَ فِى الْعَذَابِ مُحْضَرُونَ
+
+(And on the Day when the Hour will be established -- that Day shall (all men) be separated. Then as for those who believed and did righteous good deeds, such shall be honored and made to enjoy luxurious life (forever) in a Garden of Delight. And as for those who disbelieved and denied Our Ayat, and the meeting of the Hereafter, such shall be brought forth to the torment.) (30:14-16). Allah says:
+
+وَهُوَ الْفَتَّاحُ الْعَلِيمُ
+
+(And He is the Just Judge, the All-Knower of the true state of affairs.)
+
+قُلْ أَرُونِىَ الَّذيِنَ أَلْحَقْتُمْ بِهِ شُرَكَآءَ
+
+(Say: "Show me those whom you have joined with Him as partners...") means, `show me those gods whom you made as rivals and equals to Allah.'
+
+كَلاَّ
+
+Nay means, He has no peer, rival, partner or equal. Allah says:
+
+بَلْ هُوَ اللَّهُ
+
+But He is Allah, meaning, the One and Only God Who has no partner.
+
+العَزِيزُ الحَكِيمُ
+
+the Almighty, the All-Wise. means, the Owner of might with which He subjugates and controls all things, the One Who is Wise in all His Words and deeds, Laws and decrees. Blessed and exalted and sanctified be He far above all that they say. And Allah knows best.
+
+وَمَآ أَرْسَلْنَـكَ إِلاَّ كَآفَّةً لِّلنَّاسِ بَشِيراً وَنَذِيراً وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+
+---
+
+### Verse 34:25
+
+
+
+---
+
+### Verse 34:26
+
+
+
+---
+
+### Verse 34:27
+
+
+
+---
+
+### Verse 34:28
+
+### The Prophet was sent to all of Mankind Allah says to His servant and Messenger Muhammad ﷺ:
+
+وَمَآ أَرْسَلْنَـكَ إِلاَّ كَآفَّةً لِّلنَّاسِ بَشِيراً وَنَذِيراً
+
+(And We have not sent you except as a giver of glad tidings and a warner to all mankind,) i.e., to all of creation among those who are accountable for their deeds. This is like the Ayah:
+
+قُلْ يَأَيُّهَا النَّاسُ إِنِّى رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا
+
+(Say: "O mankind! Verily, I am sent to you all as the Messenger of Allah.") (7:158)
+
+تَبَارَكَ الَّذِى نَزَّلَ الْفُرْقَانَ عَلَى عَبْدِهِ لِيَكُونَ لِلْعَـلَمِينَ نَذِيراً
+
+(Blessed be He Who sent down the Criterion to His servant that he may be a warner to the all creatures.) (25:1)
+
+بَشِيراً وَنَذِيراً
+
+a giver of glad tidings and a warner means, to bring the glad tidings of Paradise to those who obey you and to warn of the fire of Hell to those who disobey you. This is like the A0ya0t:
+
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+
+(and most of men know not.)
+
+وَمَآ أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+
+(And most of mankind will not believe even if you desire it eagerly. ) (12:103)
+
+وَإِن تُطِعْ أَكْثَرَ مَن فِى الاٌّرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ
+
+(And if you obey most of those on the earth, they will mislead you far away from Allah's path) (6:116). Muhammad bin Ka`b said concerning the Ayah:
+
+وَمَآ أَرْسَلْنَـكَ إِلاَّ كَآفَّةً لِّلنَّاسِ
+
+(And We have not sent you except to all mankind) meaning, to all the people. Qatadah said concerning this Ayah, "Allah, may He be exalted, sent Muhammad  ﷺ to both the Arabs and the non-Arabs, so the most honored of them with Allah is the one who is most obedient to Allah." In the Two Sahihs it was reported that Jabir, may Allah be pleased with him said, "The Messenger of Allah ﷺ said:
+
+«أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ مِنَ الْأَنْبِيَاءِ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا، فَأَيُّمَا رَجُلٍ مِنْ أُمَّتِي أَدْرَكَتْهُ الصَّلَاةُ فَلْيُصَلِّ، وَأُحِلَّتْ لِيَ الْغَنَائِمُ وَلَمْ تَحِلَّ لِأَحَدٍ قَبْلِي، وَأُعْطِيتُ الشَّفَاعَةَ، وَكَانَ النَّبِيُّ يُبْعَثُ إِلَى قَوْمِهِ خَاصَّةً وَبُعِثْتُ إِلَى النَّاسِ عَامَّة»
+
+(I have been given five things which were not given to any of the Prophets before me. I have been aided by fear (the distance of ) a month's journey. The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray. The spoils of war have been made permissible for me, whereas they were not permitted for any before me. I have been given the power of intercession; and the Prophets before me were sent to their own people, but I have been sent to all of mankind.)" It was also recorded in the Sahih that the Messenger of Allah ﷺ said:
+
+«بُعِثْتُ إِلَى الْأَسْوَدِ وَالْأَحْمَر»
+
+(I have been sent to the black and the red.) Mujahid said, "This means to the Jinn and to mankind." Others said that it meant the Arabs and the non-Arabs. Both meanings are correct.
+
+### How the Disbelievers asked about when the Resurrection wouldhappen, and the Response to Them Allah tells us how thedisbelievers believed it unlikely that the Hour would ever come to pass:
+
+وَيَقُولُونَ مَتَى هَـذَا الْوَعْدُ إِن كُنتُمْ صَـدِقِينَ
+
+(And they say: "When is this promise if you are truthful") This is like the Ayah:
+
+يَسْتَعْجِلُ بِهَا الَّذِينَ لاَ يُؤْمِنُونَ بِهَا وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ
+
+(Those who believe not therein seek to hasten it, while those who believe are fearful of it, and know that it is the very truth...) (42:18) Then Allah says:
+
+قُل لَّكُم مِّيعَادُ يَوْمٍ لاَّ تَسْتَـَخِرُونَ عَنْهُ سَاعَةً وَلاَ تَسْتَقْدِمُونَ
+
+(Say: "The appointment to you is for a Day, which you cannot for an hour move back nor forward.") meaning, `you have an appointed time which is fixed and cannot be changed or altered. When it comes, you will not be able to put it back or bring it forward,' as Allah says:
+
+إِنَّ أَجَلَ اللَّهِ إِذَا جَآءَ لاَ يُؤَخَّرُ
+
+(Verily, the term of Allah when it comes, cannot be delayed) (71:4).
+
+وَمَا نُؤَخِّرُهُ إِلاَّ لاًّجَلٍ مَّعْدُودٍ - يَوْمَ يَأْتِ لاَ تَكَلَّمُ نَفْسٌ إِلاَّ بِإِذْنِهِ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
+
+(And We delay it only for a term (already) fixed. On the Day when it comes, no person shall speak except by His leave. Some among them will be wretched and (others) blessed.) (11:104-105).
+
+---
+
+### Verse 34:29
+
+
+
+---
+
+### Verse 34:30
+
+
+
+---
+
+### Verse 34:31
+
+### How the Disbelievers have agreed in this World to deny the Truth,and how They will dispute with One Another on the Day ofResurrection
+
+Allah tells us about the excessive wrongdoing and stubbornness of the disbelievers, and their insistence on not believing in the Holy Qur'an and what it tells them about the Resurrection. Allah says:
+
+وَقَالَ الَّذِينَ كَفَرُواْ لَن نُّؤْمِنَ بِهَـذَا الْقُرْءَانِ وَلاَ بِالَّذِى بَيْنَ يَدَيْهِ
+
+(And those who disbelieve say: "We believe not in this Qur'an nor in that which was before it.") Allah threatens them and warns them of the humiliating position they will be in before Him, arguing and disputing with one another:
+
+يَرْجِعُ بَعْضُهُمْ إِلَى بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ
+
+(how they will cast the (blaming) word one to another! Those who were deemed weak) this refers to the followers --
+
+لِلَّذِينَ اسْتَكْبَرُواْ
+
+to those who were arrogant -- this refers to the leaders and masters --
+
+لَوْلاَ أَنتُمْ لَكُنَّا مُؤْمِنِينَ
+
+(Had it not been for you, we should certainly have been believers!) meaning, `if you had not stopped us, we would have followed the Messengers and believed in what they brought.' Their leaders and masters, those who were arrogant, will say to them:
+
+أَنَحْنُ صَدَدنَـكُمْ عَنِ الْهُدَى بَعْدَ إِذْ جَآءَكُمْ
+
+(Did we keep you back from guidance after it had come to you) meaning, `we did nothing more to you than to call you, and you followed us without any evidence or proof, and you went against the evidence and proof which the Messengers brought because of your own desires; it was your own choice.' They will say:
+
+بَلْ كُنتُمْ مُّجْرِمِينَوَقَالَ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ بَلْ مَكْرُ الَّيْلِ وَالنَّهَارِ
+
+("...Nay, but you were criminals." Those who were deemed weak will say to those who were arrogant: "Nay, but it was your plotting by night and day...") meaning, `you used to plot against us night and day, tempting us with promises and false hopes, and telling us that we were truly guided and that we were following something, but all of that was falsehood and manifest lies.' Qatadah and Ibn Zayd said:
+
+بَلْ مَكْرُ الَّيْلِ وَالنَّهَارِ
+
+(Nay, but it was your plotting by night and day,) means, "You plotted by night and day." Malik narrated something similar from Zayd bin Aslam.
+
+إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَاداً
+
+(when you ordered us to disbelieve in Allah and set up rivals to Him!) means, `to set up gods as equal to Him, and you created doubts and confusion in our minds, and you fabricated far-fetched ideas with which to lead us astray.'
+
+وَأَسَرُّواْ النَّدَامَةَ لَمَّا رَأَوُاْ الْعَذَابَ
+
+(And each of them (parties) will conceal their own regrets, when they behold the torment.) means, both the leaders and the followers will feel regret for what they did previously.
+
+وَجَعَلْنَا الاٌّغْلَـلَ فِى أَعْنَاقِ الَّذِينَ كَفَرُواْ
+
+(And We shall put iron collars round the necks of those who disbelieved.) This is a chain which will tie their hands to their necks.
+
+هَلْ يُجْزَوْنَ إِلاَّ مَا كَانُواْ يَعْمَلُونَ
+
+(Are they requited aught except what they used to do) means, they will be punished according to their deeds: the leaders will be punished according to what they did, and the followers will be punished according to what they did.
+
+قَالَ لِكُلٍّ ضِعْفٌ وَلَـكِن لاَّ تَعْلَمُونَ
+
+(He will say: "For each one there is double (torment), but you know not.") (7:38). Ibn Abi Hatim recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said:
+
+«إِنَّ جَهَنَّمَ لَمَّا سِيقَ إِلَيْهَا أَهْلُهَا تَلَقَّاهُمْ لَهَبُهَا، ثُمَّ لَفَحَتْهُمْ لَفْحَةً فَلَمْ يَبْقَ لَحْمٌ إِلَّا سَقَطَ عَلَى الْعُرْقُوب»
+
+(When the people of Hell are driven towards it, it will meet them with its flames, then the Fire will burn their faces and the flesh will all fall to their hamstrings.)"
+
+وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلاَّ قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُمْ بِهِ كَـفِرُونَ - وَقَالُواْ نَحْنُ أَكْثَـرُ أَمْوَلاً وَأَوْلَـداً وَمَا نَحْنُ بِمُعَذَّبِينَ - قُلْ إِنَّ رَبِّى يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ - وَمَآ أَمْوَلُكُمْ وَلاَ أَوْلَـدُكُمْ بِالَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَى إِلاَّ مَنْ ءَامَنَ وَعَمِلَ صَـلِحاً فَأُوْلَـئِكَ لَهُمْ جَزَآءُ الضِّعْفِ بِمَا عَمِلُواْ وَهُمْ فِى الْغُرُفَـتِ ءَامِنُونَ - وَالَّذِينَ يَسْعَوْنَ فِى ءَايَـتِنَا مُعَـجِزِينَ أُوْلَـئِكَ فِى الْعَذَابِ مُحْضَرُونَ
+
+---
+
+### Verse 34:32
+
+
+
+---
+
+### Verse 34:33
+
+
+
+---
+
+### Verse 34:34
+
+### How Those Who lived a Life of Luxury disbelieved in the Messengers and were misled by Their pursuit of Wealth and Children
+
+Allah is consoling His Prophet and commanding him to follow the example of the Messengers that came before him. He tells him that no Prophet was ever sent to a township but those among its people who lived a life of luxury disbelieved in him, and the weaker people of the town followed him. The people of Nuh, peace be upon him, said to him:
+
+أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الاٌّرْذَلُونَ
+
+(Shall we believe in you, when the weakest (of the people) follow you) (26:110)
+
+وَمَا نَرَاكَ اتَّبَعَكَ إِلاَّ الَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ الرَّأْى
+
+(nor do we see any follow you but the meanest among us and they (too) followed you without thinking) (11:27). The leaders among the people of Salih said:
+
+قَالَ الْمَلأ الَّذِينَ اسْتَكْبَرُواْ مِن قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُواْ لِمَنْ ءَامَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَـلِحاً مُّرْسَلٌ مِّن رَّبِّهِ قَالُواْ إِنَّا بِمَآ أُرْسِلَ بِهِ مُؤْمِنُونَ - قَالَ الَّذِينَ اسْتَكْبَرُواْ إِنَّا بِالَّذِى ءَامَنتُمْ بِهِ كَـفِرُونَ
+
+(to those who were counted weak -- to such of them as believed: "Know you that Salih is one sent from his Lord." They said: "We indeed believe in that with which he has been sent." Those who were arrogant said: "Verily, we disbelieve in that which you believe in.") (7:75-76). And Allah said:
+
+وَكَذلِكَ فَتَنَّا بَعْضَهُمْ بِبَعْضٍ لِّيَقُولواْ أَهَـؤُلاءِ مَنَّ اللَّهُ عَلَيْهِم مِّن بَيْنِنَآ أَلَيْسَ اللَّهُ بِأَعْلَمَ بِالشَّـكِرِينَ
+
+(Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from among us" Does not Allah know best those who are grateful) (6:53),
+
+وَكَذلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَـبِرَ مُجْرِمِيهَا لِيَمْكُرُواْ فِيهَا
+
+(And thus We have set up in every town great ones of its wicked people to plot therein) (6:123), and
+
+وَإِذَآ أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيْهَا الْقَوْلُ فَدَمَّرْنَاهَا تَدْمِيرًا
+
+(And when We decide to destroy a town (population), We (first) send a definite order to those among them who lead a life of luxury. Then, they transgress therein, and thus the Word (of torment) is justified against it (them). Then We destroy it with complete destruction) (17:16). And Allah says here:
+
+وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ
+
+And We did not send a warner to a township meaning a Prophet or a Messenger,
+
+إِلاَّ قَالَ مُتْرَفُوهَآ
+
+(but those who were given the worldly wealth and luxuries among them) means, those who enjoyed a life of riches and luxury, and positions of leadership. Qatadah said, "They are their tyrants, chiefs and leaders in evil."
+
+إِنَّا بِمَآ أُرْسِلْتُمْ بِهِ كَـفِرُونَ
+
+(We believe not in the (Message) with which you have been sent.) means, `we do not believe in it and we will not follow it.' Allah tells us that those who enjoyed a life of luxury and who disbelieved the Messengers said:
+
+وَقَالُواْ نَحْنُ أَكْثَـرُ أَمْوَلاً وَأَوْلَـداً وَمَا نَحْنُ بِمُعَذَّبِينَ
+
+(And they say: "We are more in wealth and in children, and we are not going to be punished.") meaning, they were proud of their great wealth and great numbers of children, and they believed that this was a sign that Allah loved them and cared for them, and that if He gave them this in this world, He would not punish them in the Hereafter. This was too far-fetched. Allah says:
+
+أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُمْ بِهِ مِن مَّالٍ وَبَنِينَ - نُسَارِعُ لَهُمْ فِى الْخَيْرَتِ بَل لاَّ يَشْعُرُونَ
+
+(Do they think that in wealth and children with which We enlarge them We hasten unto them with good things. Nay, but they perceive not.) (23:55-56)
+
+فَلاَ تُعْجِبْكَ أَمْوَلُهُمْ وَلاَ أَوْلَـدُهُمْ إِنَّمَا يُرِيدُ اللَّهُ لِيُعَذِّبَهُمْ بِهَا فِي الْحَيَوةِ الدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـفِرُونَ
+
+(So, let not their wealth nor their children amaze you; in reality Allah's plan is to punish them with these things in the life of this world, and that their souls shall depart while they are disbelievers.) (9:55), and
+
+ذَرْنِى وَمَنْ خَلَقْتُ وَحِيداً - وَجَعَلْتُ لَهُ مَالاً مَّمْدُوداً - وَبَنِينَ شُهُوداً - وَمَهَّدتُّ لَهُ تَمْهِيداً - ثُمَّ يَطْمَعُ أَنْ أَزِيدَ - كَلاَّ إِنَّهُ كان لاٌّيَـتِنَا عَنِيداً - سَأُرْهِقُهُ صَعُوداً
+
+(Leave Me Alone (to deal) with whom I created lonely. And then granted him resources in abundance. And children to be by his side. And made life smooth and comfortable for him. After all that he desires that I should give more. Nay! Verily, he has been opposing Our Ayat. I shall oblige him to face a severe torment!) (74:11-17) And Allah has told us about the story of the owner of those two gardens, that he had wealth and crops and children, but that could not help him at all when all of that was taken from him in this world, before he reached the Hereafter. Allah says here:
+
+قُلْ إِنَّ رَبِّى يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ
+
+(Say: "Verily, my Lord expands the provision to whom He wills and restricts...") meaning, He gives wealth to those whom He loves and those whom He does not love, and He makes poor whom He wills and makes rich whom He wills. He has complete wisdom and clear proof,
+
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+
+(but most men know not.) Then Allah says:
+
+وَمَآ أَمْوَلُكُمْ وَلاَ أَوْلَـدُكُمْ بِالَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَى
+
+(And it is not your wealth, nor your children that bring you nearer to Us,) meaning, `these things are not a sign that We love you or care for you.' Imam Ahmad, may Allah have mercy on him, recorded that Abu Hurayrah, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+«إِنَّ اللهَ تَعَالَى لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ إِنَّمَا يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُم»
+
+(Allah does not look at your outward appearance or your wealth, rather He looks at your hearts and your deeds.) Muslim and Ibn Majah also recorded this. Allah says:
+
+إِلاَّ مَنْ ءَامَنَ وَعَمِلَ صَـلِحاً
+
+(but only he who believes, and does righteous deeds;) meaning, `only faith and righteous deeds will bring you closer to Us.'
+
+فَأُوْلَـئِكَ لَهُمْ جَزَآءُ الضِّعْفِ بِمَا عَمِلُواْ
+
+(as for such, there will be multiple rewards for what they did,) means, the reward will be multiplied for them between ten and seven hundred times.
+
+وَهُمْ فِى الْغُرُفَـتِ ءَامِنُونَ
+
+(and they will reside in the high dwellings in peace and security.) means, in the lofty dwellings of Paradise, safe from all misery, fear and harm, and from any evil they could fear. Ibn Abi Hatim recorded that `Ali, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+«إِنَّ فِي الْجَنَّةِ لَغُرَفًا تُرَى ظُهُورُهَا مِنْ بُطُونِهَا، وَبُطُونُهَا مِنْ ظُهُورِهَا»
+
+(In Paradise there are lofty rooms whose outside can be seen from the inside and whose inside can be seen from the outside.) A bedouin asked, "Who are they for" He said:
+
+«لِمَنْ طَيَّبَ الْكَلَامَ، وَأَطْعَمَ الطَّعَامَ، وَأَدَامَ الصِّيَامَ، وَصَلَّى بِاللَّيْلِ وَالنَّاسُ نِيَام»
+
+(For those who speak well, feed the hungry, persist in fasting and pray at night while people are asleep.)
+
+وَالَّذِينَ يَسْعَوْنَ فِى ءَايَـتِنَا مُعَـجِزِينَ
+
+(And those who strive against Our Ayat, to frustrate them,) means, those who try to block people from the path of Allah and from following His Messengers and believing in His signs,
+
+فَأُوْلَـئِكَ فِى الْعَذَابِ مُحْضَرُونَ
+
+they will be brought to the torment. means, they will all be punished for their deeds, each one accordingly.
+
+---
+
+### Verse 34:35
+
+
+
+---
+
+### Verse 34:36
+
+
+
+---
+
+### Verse 34:37
+
+
+
+---
+
+### Verse 34:38
+
+
+
+---
+
+### Verse 34:39
+
+انظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ وَلَلاٌّخِرَةُ أَكْبَرُ دَرَجَـتٍ وَأَكْبَرُ تَفْضِيلاً
+
+(See how We favor one above another, and verily, the Hereafter will be greater in degrees and greater in favor.) (17:21). This means that just as there are differences between them in this world -- where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty -- so they will be in the Hereafter. There one will reside in apartments in the highest levels of Paradise, whilst another will be in the lowest levels of Hell. As the Prophet said, describing the best of people in this world:
+
+«قَدْ أَفْلَحَ مَنْ أَسْلَمَ وَرُزِقَ كَفَافًا وَقَنَّعَهُ اللهُ بِمَا آتَاه»
+
+(He truly succeeds who becomes Muslim and is given just enough provision and Allah makes him content with what He has given.)" It was recorded by Muslim.
+
+وَمَآ أَنفَقْتُمْ مِّن شَىْءٍ فَهُوَ يُخْلِفُهُ
+
+(39 cont. - and whatsoever you spend of anything, He will replace it.) means, `whatever you spend in the ways that He has commanded you and permitted you, He will compensate you for it in this world by giving you something else instead, and in the Hereafter by giving you reward.' It was reported that the Prophet said:
+
+«يَقُولُ اللهُ تَعَالَى: أَنْفِقْ، أُنْفِقْ عَلَيْك»
+
+(Allah says: "Spend, I will spend on you.") In another Hadith it is reported that every morning, two angels come, and one says, "O Allah, bring destruction upon the one who withholds (does not spend)." The other one says, "O Allah, give compensation to the one who spends." And the Messenger of Allah ﷺ said:
+
+«أَنْفِقْ بِلَالُ، وَلَا تَخْشَ مِنْ ذِي الْعَرْشِ إِقْلَالًا»
+
+(Spend, O Bilal, and do not fear that the One Who is on the Throne will withhold from you. )
+
+---
+
+### Verse 34:40
+
+### The Angels will disown Their Worshippers on the Day of Resurrection
+
+Allah tells us that on the Day of Resurrection, He will rebuke the idolators before all of creation. He will ask the angels whom the idolators used to worship, claiming that their idols were in the form of these angels and that they could bring them nearer to Allah. He will ask the angels:
+أَهَـؤُلاَءِ إِيَّاكُمْ كَانُواْ يَعْبُدُونَ
+(Was it you that these people used to worship) meaning, `did you command them to worship you' Allah says in Surat Al-Furqan:
+أَءَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـؤُلاَءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ
+(Was it you who misled these My servants or did they (themselves) stray from the (right) path) (25:17). And He will say to `Isa, peace be upon him:
+أَءَنتَ قُلتَ لِلنَّاسِ اتَّخِذُونِى وَأُمِّىَ إِلَـهَيْنِ مِن دُونِ اللَّهِ قَالَ سُبْحَـنَكَ مَا يَكُونُ لِى أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ
+(Did you say unto men: "Worship me and my mother as two gods besides Allah,' He will say: "Glory be to You! It was not for me to say what I had no right (to say).") (5:116). Similarly, the angels will say:
+سُبْحَـنَكَ
+Glorified be You! meaning, exalted and sanctified be You above the notion that there could be any god besides You.
+أَنتَ وَلِيُّنَا مِن دُونِهِمْ
+You are our Protector instead of them. means, we are Your servants and we disown these people before You.
+بَلْ كَانُواْ يَعْبُدُونَ الْجِنَّ
+(Nay, but they used to worship the Jinn;) meaning, the Shayatin, because they are the ones who made idol worship attractive to them and who misguided them.
+أَكْـثَرُهُم بِهِم مُّؤْمِنُونَ
+most of them were believers in them. This is like the A0yah:
+إِن يَدْعُونَ مِن دُونِهِ إِلاَّ إِنَـثاً وَإِن يَدْعُونَ إِلاَّ شَيْطَـناً مَّرِيداً لَّعَنَهُ اللَّهُ
+(They invoke nothing but females besides Him, and they invoke nothing but Shaytan, a persistent rebel! Allah cursed him) (4:117-118). Allah says:
+فَالْيَوْمَ لاَ يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعاً وَلاَ ضَرّاً
+(So Today, none of you can profit or harm one another.) means, `none of those idols and rivals whom you hoped would benefit you, will be of any avail to you, those whom you worshipped in the hope that they would help you at times of stress and calamity. Today they will have no power either to benefit you or to harm you.'
+وَنَقُولُ لِلَّذِينَ ظَلَمُواْ
+And We shall say to those who did wrong: -- meaning the idolators --
+ذُوقُواْ عَذَابَ النَّارِ الَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+("Taste the torment of the Fire which you used to deny.") meaning, this will be said to them by way of rebuke.
+
+---
+
+### Verse 34:41
+
+
+
+---
+
+### Verse 34:42
+
+
+
+---
+
+### Verse 34:43
+
+### The Saying of the Disbelievers about the Prophets, and its refutation
+
+Allah tells us that the disbeliever deserve to be severely punished by Him, because when His clear Verses were recited to them, and they heard them fresh from the lips of His Messenger , they said:
+
+قَالُواْ مَا هَـذَا إِلاَّ رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ
+
+(They say: "This is naught but a man who wishes to hinder you from that which your fathers used to worship.") meaning, that the religion of their fathers was the truth and that what the Messenger brought to them was false -- may the curse of Allah be upon them and their fathers!
+
+وَقَالُواْ مَا هَـذَآ إِلاَّ إِفْكٌ مُّفْتَرًى
+
+(And they say: "This is nothing but an invented lie.") referring to the Qur'an. l
+
+وَقَالَ الَّذِينَ كَفَرُواْ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَـذَآ إِلاَّ سِحْرٌ مُّبِينٌ
+
+(And those who disbelieve say of the truth when it has come to them: "This is nothing but evident magic!") Allah says:
+
+وَمَآ ءَاتَيْنَـهُمْ مِّنْ كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَا إِلَيْهِمْ قَبْلَكَ مِّن نَّذِيرٍ
+
+(And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before Muhammad ﷺ . They used to wish for that and say, `if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him. Then Allah says:
+
+وَكَذَّبَ الَّذِينَ مِن قَبلِهِمْ
+
+(And those before them denied;) meaning, other nations.
+
+وَمَا بَلَغُواْ مِعْشَارَ مَآ ءَاتَيْنَـهُمْ
+
+(these have not received even a tenth of what We had granted to those (of old);) Ibn `Abbas, may Allah be pleased with him, said, "Of the power of this world." This was also the view of Qatadah, As-Suddi and Ibn Zayd. This is like the Ayat:
+
+وَلَقَدْ مَكَّنَـهُمْ فِيمَآ إِن مَّكَّنَّـكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعاً وَأَبْصَـراً وَأَفْئِدَةً فَمَآ أَغْنَى عَنْهُمْ سَمْعُهُمْ وَلاَ أَبْصَـرُهُمْ وَلاَ أَفْئِدَتُهُمْ مِّن شَىْءٍ إِذْ كَانُواْ يَجْحَدُونَ بِـَايَـتِ اللَّهِ وَحَاقَ بِهم مَّا كَانُواْ بِهِ يَسْتَهْزِءُونَ
+
+(And indeed We had firmly established them with that wherewith We have not established you! And We had assigned them the hearing, seeing, and hearts; but their hearing, seeing, and their hearts availed them nothing since they used to deny the Ayat of Allah, and they were completely encircled by that which they used to mock at!) (46: 26)
+
+أَفَلَمْ يَسِيرُواْ فِى الاٌّرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُواْ أَكْـثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً
+
+(Have they not traveled through the earth and seen what was the end of those before them They were more in number than them and mightier in strength) (40:82). but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers. Allah says:
+
+فَكَذَّبُواْ رُسُلِى فَكَيْفَ كَانَ نَكِيرِ
+
+(yet they denied My Messengers. Then how (terrible) was My denial!) meaning, `how severe was My wrath and how great was My avenging of My Messengers.'
+
+---
+
+### Verse 34:44
+
+
+
+---
+
+### Verse 34:45
+
+
+
+---
+
+### Verse 34:46
+
+### Refutation of Their Accusation that the Prophet was Insane
+
+Allah says: `Say, O Muhammad, to these disbelievers who claim that you are crazy,'
+إِنَّمَآ أَعِظُكُمْ بِوَحِدَةٍ
+I exhort you to one (thing) only, meaning, I am only telling you to one thing, and that is:
+أَن تَقُومُواْ لِلَّهِ مَثْنَى وَفُرَادَى ثُمَّ تَتَفَكَّرُواْ مَا بِصَـحِبِكُمْ مِّن جِنَّةٍ
+that you stand up for Allah s sake in pairs and singly, and reflect, there is no madness in your companion. meaning, `stand sincerely before Allah, without being influenced by your own desires or tribal feelings, and ask one another, is Muhammad crazy Advise one another,'
+ثُمَّ تَتَفَكَّرُواْ
+and reflect means, let each person look within himself concerning the matter of Muhلammad , and ask other people about him if he is still confused, then let him think about the matter. Allah says:
+أَن تَقُومُواْ لِلَّهِ مَثْنَى وَفُرَادَى ثُمَّ تَتَفَكَّرُواْ مَا بِصَـحِبِكُمْ مِّن جِنَّةٍ
+(that you stand up for Allah's sake in pairs and singly, and reflect, there is no madness in your companion.) This meaning was stated by Mujahid, Muhammad bin Ka`b, As-Suddi, Qatadah and others. This is what is meant by the Ayah.
+إِنْ هُوَ إِلاَّ نَذِيرٌ لَّكُمْ بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ
+(He is only a warner to you in face of a severe torment.) Al-Bukhari recorded that Ibn `Abbas, may Allah be pleased with him, commented on this Ayah: "One day, the Prophet climbed up As-Safa' and shouted,
+«يَا صَبَاحَاه»
+(O people!) The Quraysh gathered around him, and said, `What is the matter with you' He said,
+«أَرَأَيْتُمْ لَوْ أَخْبَرْتُكُمْ أَنَّ الْعَدُوَّ يُصَبِّحُكُمْ أَوْ يُمَسِّيكُمْ أَمَا كُنْتُمْ تُصَدِّقُونِّي»
+(What do you think If I told you that the enemy were approaching and will reach us in the morning or in the evening, would you believe me) They said, `Of course.' He said:
+«فَإِنِّي نَذِيرٌ لَكُمْ بَيْنَ يَدَيْ عَذَابٍ شَدِيد»
+(I am a warner to you in the face of a severe punishment.) Abu Lahab said, `May you perish! You have called us together only to tell us this' Then Allah revealed:
+تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ 
+(Perish the two hands of Abu Lahab and perish he!) (111:1) We have already discussed this in our Tafsir of the Ayah:
+وَأَنذِرْ عَشِيرَتَكَ الاٌّقْرَبِينَ 
+(And warn your tribe of near kindred) (26:214).
+
+---
+
+### Verse 34:47
+
+### I do not ask for any Reward for conveying the Message
+
+Allah commands His Messenger to say to the idolators:
+
+مَا سَأَلْتُكُم مِّن أَجْرٍ فَهُوَ لَكُمْ
+
+(Whatever wage I might have asked of you is yours.) meaning, `I do not want anything for conveying the Message of Allah to you, advising you and telling you to worship Allah.'
+
+إِنْ أَجْرِىَ إِلاَّ عَلَى اللَّهِ
+
+My wage is from Allah only, means, rather I will seek the reward for that with Allah.
+
+وَهُوَ عَلَى كُلِّ شَىْءٍ شَهِيدٍ
+
+and He is a Witness over all things. means, He knows all things, and He knows everything about me and the manner in which I am conveying the Message to you, and He knows all about you.
+
+قُلْ إِنَّ رَبِّى يَقْذِفُ بِالْحَقِّ عَلَّـمُ الْغُيُوبِ
+
+(Say: "Verily, my Lord sends down the truth, the All-Knower of the Unseen.") This is like the Ayah:
+
+يُلْقِى الرُّوحَ مِنْ أَمْرِهِ عَلَى مَن يَشَآءُ مِنْ عِبَادِهِ
+
+(He sends the Revelation by His command to any of His servants He wills) (40:15). meaning, He sends the angel to whomsoever He wills of His servants among the people on earth, and He is the All-Knower of the Unseen; nothing whatsoever is hidden from Him in the heavens or on earth.
+
+قُلْ جَآءَ الْحَقُّ وَمَا يُبْدِىءُ الْبَـطِلُ وَمَا يُعِيدُ
+
+(Say: "The truth has come, and the falsehood can neither create anything nor resurrect.") means, truth and the great Law have come from Allah, and falsehood has gone and has perished and vanished. This is like the Ayah:
+
+بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَـطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ
+
+(Nay, We fling the truth against the falsehood, so it destroys it, and behold, it is vanished) (21:18). When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka`bah, he started to hit the idols with his bow, reciting,
+
+وَقُلْ جَآءَ الْحَقُّ وَزَهَقَ الْبَـطِلُ إِنَّ الْبَـطِلَ كَانَ زَهُوقًا
+
+(And say: "The truth has come and the falsehood has vanished. Surely, the falsehood is ever bound to vanish.") (17:81), and:
+
+قُلْ جَآءَ الْحَقُّ وَمَا يُبْدِىءُ الْبَـطِلُ وَمَا يُعِيدُ
+
+(Say: "The truth has come, and the falsehood can neither create anything nor resurrect.") This was recorded by Al-Bukhari, Muslim, At-Tirmidhi and An-Nasa'i.
+
+قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَى نَفْسِى وَإِنِ اهْتَدَيْتُ فَبِمَا يُوحِى إِلَىَّ رَبِّى
+
+(Say: "If (even) I go astray, I shall stray only to my own loss. But if I remain guided, it is because of the Revelation of my Lord to me...") means, all good comes from Allah, and in what Allah sends down of revelation and clear truth there is guidance and wisdom. So whoever goes astray, does so by himself, as `Abdullah bin Mas`ud, may Allah be pleased with him, said when he was asked about some issue. He said, "I will say what I think, and if it is correct, then it is from Allah, and if it is wrong, then it is from me and from the Shaytan, and Allah and His Messenger have nothing to do with it."
+
+إِنَّهُ سَمِيعٌ قَرِيبٌ
+
+Truly, He is All-Hearer, Ever Near. means, He hears all the words of His servants, and He is always near to respond to them when they call on Him. An-Nasa0 0 recorded the Hadith of Abu Mu0sa0 which also appears in the Two Sلahل0hلs:
+
+«إِنَّكُمْ لَاتَدْعُونَ أَصَمَّ وَلَا غَائِبًا، إِنَّمَا تَدْعُونَ سَمِيعًا قَرِيبًا مُجِيبًا»
+
+(You are not calling upon one who is deaf or absent; you are calling upon One Who is All-Hearer, Ever Near and Responsive.)
+
+---
+
+### Verse 34:48
+
+
+
+---
+
+### Verse 34:49
+
+
+
+---
+
+### Verse 34:50
+
+
+
+---
+
+### Verse 34:51
+
+وَأُخِذُواْ مِن مَّكَانٍ قَرِيبٍ
+(and they will be seized from a near place.) means, they will not even be given the slightest chance of escape, but they will be seized from the first instant. Al-Hasan Al-Basri said: "When they come forth from their graves."
+وَقَالُواْ ءَامَنَّا بِهِ
+(And they will say: "We do believe (now);") means, on the Day of Resurrection, they will say, `we believe in Allah and His angels, Books and Messengers.' This is like the Ayah:
+وَلَوْ تَرَى إِذِ الْمُجْرِمُونَ نَاكِسُواْ رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَآ أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَـلِحاً إِنَّا مُوقِنُونَ 
+(And if you only could see when the criminals shall hang their heads before their Lord (saying): "Our Lord! We have now seen and heard, so send us back that we will do righteous good deeds. Verily, we now believe with certainty.") (32:12) Allah says:
+وَأَنَّى لَهُمُ التَّنَاوُشُ مِن مَّكَانِ بَعِيدٍ
+(but how could they receive from a place so far off) meaning, how could they attain faith now that they are so far removed from the place where it could be accepted from them, and they have entered the realm of the Hereafter which is the realm of reward and punishment, not the realm of trial and testing If they had believed in this world, that would have been good for them, but now they have entered the Hereafter, there is no way that their faith can be accepted, just as there is no way a person can get a thing if he is far away from it. Mujahid said:
+وَأَنَّى لَهُمُ التَّنَاوُشُ
+but how could they At-Tana0wush؟ means, How could they attain that؟ Az-Zuhri said, They will wish to attain faith when they have reached the Hereafter and are cut off from this world. Al-Hلasan Al-Basلri said, They will seek something when they have no way of attaining it, they will seek faith from a distant place.
+وَقَدْ كَـفَرُواْ بِهِ مِن قَـبْلُ
+Indeed they did disbelieve before, means, how can they attain faith in the Hereafter when in this world they disbelieved in the truth and denied the Messengers؟
+وَيَقْذِفُونَ بِالْغَيْبِ مِن مَّكَانٍ بَعِيدٍ
+(and they (used to) conjecture about the Unseen from a far place. ) Malik narrated from Zayd bin Aslam that he said:
+وَيَقْذِفُونَ بِالْغَيْبِ
+(and they (used to) conjecture about the Unseen,) means, "By guessing." as Allah says,
+رَجْماً بِالْغَيْبِ
+guessing at the Unseen )18:22(. Sometimes they said he was a poet, sometimes they said he was a soothsayer, or a sorcerer, or a mad man, or other baseless comments. They denied the idea of resurrection and said:
+إِن نَّظُنُّ إِلاَّ ظَنّاً وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
+(we do not think it but as a conjecture, and we have no firm convincing belief.) (45:32). Qatadah and Mujahid said, "Their belief that there would be no resurrection, no Paradise and no Hell was based on mere conjecture."
+وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ
+(And a barrier will be set between them and that which they desire,) Al-Hasan Al-Basri, Ad-Dahhak and others, `This means faith." As-Suddi said:
+وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ
+(And a barrier will be set between them and that which they desire, ) means "Repentance." This was also the view of Ibn Jarir, may Allah have mercy on him. Mujahid said:
+وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ
+(And a barrier will be set between them and that which they desire,) means, "This world and its wealth, luxuries and people." Something similar was narrated from Ibn `Umar, Ibn `Abbas and Ar-Rabi` bin Anas, may Allah be pleased with him. It is also the opinion of Al-Bukhari and the Group. The correct view is that there is no contradiction between the two views, for a barrier will be set between them and what they desire in this world, and what they seek in the Hereafter will be denied from them.
+كَمَا فُعِلَ بِأَشْيَـعِهِم مِّن قَبْلُ
+(as was done in the past with the people of their kind.) means, as happened to the nations of the past who disbelieved in the Messengers; when the punishment of Allah came upon them, they wished that they had believed, but this was not accepted from them.
+فَلَمَّا رَأَوْاْ بَأْسَنَا قَالُواْ ءَامَنَّا بِاللَّهِ وَحْدَهُ وَكَـفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ - فَلَمْ يَكُ يَنفَعُهُمْ إِيمَـنُهُمْ لَمَّا رَأَوْاْ بَأْسَنَا سُنَّةَ اللَّهِ الَّتِى قَدْ خَلَتْ فِى عِبَادِهِ وَخَسِرَ هُنَالِكَ الْكَـفِرُونَ 
+(So, when they saw Our punishment, they said: "We believe in Allah Alone and reject (all) that we used to associate with Him as (His) partners. "Then their faith could not avail them when they saw Our punishment. (Like) this has been the way of Allah in dealing with His servants. And there the disbelievers lost utterly.) (40:84-85).
+إِنَّهُمْ كَانُواْ فِى شَكٍّ مُّرِيبِ
+Verily, they have been in grave doubt. means, in this world they had doubts, so their faith will not be accepted from them when they behold the punishment with their own eyes. Qata0dah said, Beware of doubt. For whoever dies doubting, will be raised doubting؛ and whoever dies believing, with certainty will be raised believing with certainty. This is the end of the Tafsir of Surah Saba'. Allah, may He be glorified and exalted, is the Guide to the right way.
+
+---
+
+### Verse 34:52
+
+
+
+---
+
+### Verse 34:53
+
+
+
+---
+
+### Verse 34:54
+
+
+
+---
+

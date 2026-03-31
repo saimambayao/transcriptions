@@ -353,7 +353,7 @@ Your research at Tiers 3 and 4 should not stop at enacted BAAs. The legislative 
 **Where to find bills and resolutions:**
 
 - The Bangsamoro Parliament's official records (Committee Secretariat)
-- The Bill Drafting Guidebook, which tracks the legislative agenda
+- The bill drafting process, which tracks the legislative agenda
 - Published indexes of filed bills (e.g., the Parliament's website, if available)
 
 **How to document them:** In your Research Memorandum, list pending legislation in a separate section labeled "Pending Legislation" — distinct from enacted law. Note the bill number, title, author, committee referral, and status (filed, in committee, plenary, etc.). Never cite a pending bill as enacted law.

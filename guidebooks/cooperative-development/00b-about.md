@@ -22,6 +22,16 @@ Most cooperative development materials are written for a generic Philippine audi
 - **BDP 2023-2028 alignment** connects your cooperative's work to the region's development goals. Your cooperative is not just a business — it is a contribution to Bangsamoro development.
 - **Real templates and tools** in the appendices are ready to use. They are not generic samples — they reflect CSEA-BARMM requirements and Bangsamoro practice.
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across RA 9520, BTA Bill 210, Islamic finance principles, and CSEA-BARMM requirements, and fact-checking against known error patterns.
+
+AI did not design the methodology. The cooperative lifecycle framework, the integration of Shari'ah compliance into cooperative governance and finance, the alignment with the 12 Pillars of Moral Governance, and the practical adaptation of cooperative law to Bangsamoro communities come from the author's professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal provision cited, cooperative requirement documented, and Islamic finance principle applied in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
 ## How to Use This Guidebook
 
 Each chapter opens with **why the topic matters** — not with definitions. Read that section first to understand the stakes.

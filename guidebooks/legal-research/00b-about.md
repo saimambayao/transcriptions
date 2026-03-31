@@ -23,15 +23,25 @@ By the end of this guidebook, you will be able to:
 6. **Produce** five types of legal research output: Research Memoranda, Legal Analysis Memos, Comparative Matrices, Legal Mandate Matrices, and Legal Opinions
 7. **Apply** the Shari'ah research dimension whenever a question crosses the Shari'ah-secular boundary
 
-## How This Guidebook Relates to Other BARMM Guidebooks
+## How Legal Research Connects to Other Governance Competencies
 
-This guidebook is the **foundation**. Legal research is the skill that feeds every other competency:
+Legal research is the **foundation** skill that feeds every other governance competency:
 
-- The **Bill Drafting Guidebook** teaches you how to draft legislation. Its Stage 2 (Legislative Research) is the starting point — this guidebook expands that stage into a complete discipline.
-- The **Strategic Planning Guidebook** teaches you how to build a strategic plan. Its Chapter 2 (Legal Alignment) uses the legal hierarchy to establish mandates — this guidebook teaches you how to navigate that hierarchy thoroughly.
-- The **CSW Guidebook** teaches you how to prepare Complete Staff Work. Its Step 3 (Research) depends on the methodology this guidebook provides.
+- **Bill drafting** depends on legislative research (Stage 2 of the drafting process) — this guidebook expands that stage into a complete discipline.
+- **Strategic planning** depends on legal mandate verification — this guidebook teaches how to navigate the legal hierarchy that establishes those mandates.
+- **Complete Staff Work** depends on research (Step 3 of the CSW process) — this guidebook provides the methodology for that research.
 
-If those guidebooks are the house, this guidebook is the foundation inspection manual.
+If those competencies are the house, this guidebook is the foundation inspection manual.
+
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for legal research compilation, first-draft generation, cross-referencing across the legislative archive, and fact-checking against known error patterns.
+
+AI did not design the methodology. The five-step legal research process, the seven-tier BARMM legal hierarchy, the National Law Relationship Test, the provision chain trace technique, and every analytical framework in this guidebook come from the author's professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal provision cited in this guidebook was verified by the author against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work — including the verification methodology, disclosure practices, and ethical principles that governed the production of this guidebook — see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
 
 ## How to Use This Guidebook
 

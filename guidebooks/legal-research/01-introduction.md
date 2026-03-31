@@ -1,6 +1,6 @@
 # Chapter 1 — Why Legal Research Matters in the Bangsamoro
 
-A program without legal basis can be dismantled by a single COA audit finding. A bill that cites the wrong BOL article will fail at committee. A policy recommendation that misattributes a mandate to the wrong ministry wastes months of institutional effort. Every one of these failures begins the same way: someone skipped the research, or did it badly.
+A program without legal basis can be dismantled by a single COA audit finding. A bill that cites the wrong BOL article risks failing at committee. A policy recommendation that misattributes a mandate to the wrong ministry wastes months of institutional effort. Every one of these failures begins the same way: someone skipped the research, or did it badly.
 
 Legal research is the discipline of finding, reading, tracing, and verifying the law that applies to a specific question. It is the foundation skill of the Bangsamoro Government. Whether you draft legislation, build strategic plans, prepare legislative briefers, write legal opinions, or advise a Minister, the quality of your work depends on the quality of your research. This guidebook teaches you how to do it right.
 
@@ -16,7 +16,7 @@ That definition has four parts. Each one matters.
 
 **All applicable legal authority.** You are not looking for one provision that supports a predetermined conclusion. You are looking for every provision that bears on the question — including provisions that limit, contradict, or complicate the answer. A research memorandum that cites only favorable authority is advocacy, not research.
 
-**Verifying that authority is current.** The Bangsamoro Parliament has enacted 89 Bangsamoro Autonomy Acts since 2019.[^1] National laws are amended. Executive orders are superseded. Supreme Court decisions redefine boundaries. A provision that was good law last year may have been repealed, amended, or declared unconstitutional. Verification is not optional — it is the final step of every research task.
+**Verifying that authority is current.** The Bangsamoro Parliament has enacted 89 Bangsamoro Autonomy Acts since 2019. National laws are amended. Executive orders are superseded. Supreme Court decisions redefine boundaries. A provision that was good law last year may have been repealed, amended, or declared unconstitutional. Verification is not optional — it is the final step of every research task.
 
 **Organized for use by a decision-maker.** Raw legal research has no value until it reaches the person who needs it. The output must be structured, cited, and clear enough that a Member of Parliament, a Minister, or a legal officer can act on it without re-doing the research.
 
@@ -28,7 +28,7 @@ Legal research is distinct from three other competencies that depend on it:
 
 **Legal research is not legal review.** Research finds the law. Review checks whether a document — a bill, a contract, a policy — complies with the law. A legal reviewer asks: *Does this bill contradict the BOL?* But to answer that question, the reviewer must first research what the BOL says about the subject. Research comes first.
 
-**Legal research is not bill drafting.** Drafting is the act of writing legislation. It is a craft that requires its own set of skills — structure, style, precision, internal consistency. The Bill Drafting Guidebook covers that craft in detail. But Stage 2 of the drafting process — Legislative Research — is where the drafter must conduct the same systematic search this guidebook teaches.[^2] A well-drafted bill built on bad research is a well-built house on a cracked foundation.
+**Legal research is not bill drafting.** Drafting is the act of writing legislation. It is a craft that requires its own set of skills — structure, style, precision, internal consistency. But Stage 2 of the drafting process — Legislative Research — is where the drafter must conduct the same systematic search this guidebook teaches. A well-drafted bill built on bad research is a well-built house on a cracked foundation.
 
 ---
 
@@ -36,13 +36,19 @@ Legal research is distinct from three other competencies that depend on it:
 
 Legal research errors are not academic mistakes. They have institutional consequences.
 
-**COA disallowances.** The Commission on Audit reviews whether government expenditures have legal basis. When a Ministry, Office, or Agency spends public funds on a program that lacks legal authority, COA issues a Notice of Disallowance. The responsible officers may be required to refund the amount. The root cause, in many cases, is a failure to verify that the MOA's mandate actually covers the activity. A Legal Mandate Matrix built on thorough research would have caught the gap before the first peso was spent.[^3]
+**Laws declared unconstitutional.** The Supreme Court has declared several Bangsamoro Autonomy Acts unconstitutional — underscoring the importance of thorough legal research before enactment.
 
-**Bills struck down.** BAA 58 and BAA 77 — the Parliament's first and second attempts at establishing parliamentary districts — were both declared unconstitutional by the Supreme Court in October 2025.[^4] The legal issues were complex, involving the interpretation of BOL provisions on district allocation and the constitutional requirements for redistricting. But the underlying research question — *What are the constitutional and BOL constraints on parliamentary redistricting?* — required exhaustive research across Tiers 1 (Constitution), 2 (BOL), and 7 (jurisprudence) of the legal hierarchy. Incomplete research at any tier increases the risk that enacted legislation will not survive judicial review.
+BAA 58 and BAA 77 — the Parliament's first and second attempts at establishing parliamentary districts — were both declared unconstitutional by the Supreme Court in October 2025. The Court found that the BTA exceeded its delegated authority, citing violations of constitutional provisions on representation, equitable apportionment, and the contiguity requirement. BAA 77 was also enacted after the election period commenced, breaching the Voters Registration Act. BAA 86, enacted in January 2026, established 32 parliamentary districts after accounting for the Sulu exclusion — the legislative response required precisely the kind of thorough, multi-tier research this guidebook teaches.
 
-**Misattributed mandates.** A common error in MOA strategic plans is claiming authority for functions that no law assigns to the office. This happens when planning staff rely on institutional memory instead of reading the actual text of their creating law. The Strategic Planning Guidebook documents this problem: inherited practices from the ARMM era that were never formally assigned by BAA 13 or the BOL.[^5] When legal research is skipped, the gap between what a MOA does and what it is authorized to do goes undetected — until an audit, a budget review, or a parliamentary inquiry exposes it.
+The Supreme Court also declared unconstitutional Section 5 of BAA 53, BAA 54, and BAA 55 — the municipality creation acts for three new towns in Maguindanao del Norte. The Court ruled that plebiscites must include qualified voters from both the new and mother municipalities, not only from the barangays comprising the new municipality. This was a constitutional requirement that thorough research across Tier 1 (Constitution) and Tier 7 (jurisprudence on plebiscite requirements) would have identified before enactment.
 
-**Wrong citations in official documents.** The most common research errors in BARMM documents involve BOL article misattributions — citing Article IX (Basic Rights) when the correct reference is Article X (Justice System), or attributing the Block Grant to Article XII, Section 9 when the actual provision is Article XII, Sections 15-16.[^6] These errors appear in official reports, policy recommendations, and even legislative briefers. Each one damages institutional credibility. Each one is preventable through verification against the verbatim BOL text.
+These cases illustrate the same lesson: incomplete research at any tier of the legal hierarchy increases the risk that enacted legislation will not survive judicial review.
+
+**Misattributed mandates and functions.** A common error in MOA strategic plans is claiming authority for functions that no law assigns to the office. This happens when planning staff rely on institutional memory instead of reading the actual text of their creating law. During the transition from ARMM to BARMM, some functions may have been carried over by institutional practice without being formally assigned under BAA 13 or the BOL. When legal research is skipped, the gap between what a MOA does and what it is authorized to do goes undetected — until an audit, a budget review, or a parliamentary inquiry exposes it.
+
+**Possible COA disallowances.** The Commission on Audit reviews whether government expenditures have legal basis. When a Ministry, Office, or Agency spends public funds on a program that lacks legal authority, COA issues a Notice of Disallowance. The responsible officers may be required to refund the amount. The root cause, in many cases, is a failure to verify that the MOA's mandate actually covers the activity. A Legal Mandate Matrix built on thorough research would have caught the gap before the first peso was spent.
+
+**Wrong citations.** The BOL has 18 articles (I-XVIII), and adjacent article numbers are easily confused — citing Article IX (Basic Rights) when the correct reference is Article X (Justice System), or attributing the Block Grant to Article XII, Section 9 when the actual provision is Article XII, Sections 15-16. Citation errors in any legal document — whether a research memorandum, a policy recommendation, or a legislative briefer — damage credibility and mislead decision-makers. Every citation is preventable through verification against the verbatim BOL text.
 
 ---
 
@@ -64,7 +70,7 @@ The pipeline flows in one direction. You cannot analyze what you have not resear
 
 **Parliamentary Research and Legislative Support (PRLS).** The Parliament's research arm conducts policy and legal research to support committee work, legislative analysis, and plenary deliberations. PRLS produces Legislative Research Briefers and policy notes for the institutional record.
 
-**Legislative staff in MP offices.** Each MP's office has staff responsible for preparing legislative briefers, committee hearing preparation, and bill analysis. These staff conduct legal research as part of the bill drafting process (Stage 2) and the legislative briefer process (Section 8.3 of the Bill Drafting Guidebook).[^7]
+**Legislative staff in MP offices.** Each MP's office has staff responsible for preparing legislative briefers, committee hearing preparation, and bill analysis. These staff conduct legal research as part of the bill drafting process (Stage 2) and the legislative briefer preparation process.
 
 **MOA legal officers.** Every Ministry, Office, and Agency has a legal unit or legal officer responsible for reviewing contracts, advising on compliance, and preparing legal opinions. These officers conduct legal research to answer mandate questions, verify authority for proposed programs, and assess the applicability of national laws within BARMM.
 
@@ -76,7 +82,7 @@ The pipeline flows in one direction. You cannot analyze what you have not resear
 
 If you work in an MP's office, a committee secretariat, or a MOA, you will likely work with PRLS at some point. Two rules govern that relationship:
 
-**PRLS research supplements, it does not replace, your own.** PRLS can provide background research, policy analysis, and legislative landscape reviews. But the drafter, the legislative researcher, or the legal officer is ultimately responsible for the accuracy of the final product. If PRLS provides a Research Memorandum, you must verify its findings against the source documents — not accept them on trust.[^8]
+**PRLS research supplements, it does not replace, your own.** PRLS can provide background research, policy analysis, and legislative landscape reviews. But the drafter, the legislative researcher, or the legal officer is ultimately responsible for the accuracy of the final product. If PRLS provides a Research Memorandum, you must verify its findings against the source documents — not accept them on trust.
 
 **Credit PRLS when you use their work.** If your Legislative Research Briefer or legal opinion incorporates findings from PRLS research, cite PRLS as a source. This is both an ethical obligation and a practical one — it creates an audit trail that allows the research to be verified later.
 
@@ -91,7 +97,7 @@ Legal research produces structured outputs. Each output has a specific format, a
 | **Research Memorandum** | All applicable authorities organized by tier, with verbatim provisions and status | The researcher and downstream consumers | After every research task |
 | **Legal Analysis Memo (IRAC)** | Issue, Rule, Application, Conclusion — a structured legal argument | MPs, Ministers, legal officers | When a legal question needs interpretation |
 | **Comparative Legal Matrix** | Side-by-side comparison of provisions across multiple sources | Committee staff, drafters | When assessing how different laws treat the same subject |
-| **Legal Mandate Matrix** | Every legal provision granting authority to a specific MOA | Planning officers, legal officers | During strategic planning (Chapter 2 of the Strategic Planning Guidebook) |
+| **Legal Mandate Matrix** | Every legal provision granting authority to a specific MOA | Planning officers, legal officers | During strategic planning and mandate verification |
 | **Legal Opinion** | Formal interpretation with a recommendation | Ministers, Executive Directors | When an institutional decision requires legal guidance |
 
 The Research Memorandum is the foundation. Every other output depends on it. If the memorandum is incomplete — if it misses a tier, omits a relevant BAA, or cites a superseded provision — every downstream product inherits the error.
@@ -127,26 +133,9 @@ Every chapter includes:
 
 2. **Research answers "what does the law say?" — not "what should the law say?"** Keep the boundary clear. Research is descriptive. Analysis is interpretive. Advocacy is prescriptive. This guidebook covers the first.
 
-3. **The cost of bad research is institutional.** Wrong citations, misattributed mandates, and unchecked provisions produce COA findings, failed legislation, and damaged credibility. Good research is cheaper than the alternative.
+3. **The cost of bad research is institutional.** Wrong citations, misattributed mandates, and unchecked provisions risk COA findings, failed legislation, and damaged credibility. Good research is cheaper than the alternative.
 
 4. **The pipeline is one-directional.** Research → Analysis → Review. You cannot skip or reverse the order.
 
-5. **This guidebook is the foundation.** The Bill Drafting Guidebook, the Strategic Planning Guidebook, and the CSW Guidebook all depend on the competency taught here.
+5. **This guidebook is the foundation.** Bill drafting, strategic planning, and Complete Staff Work all depend on the competency taught here.
 
----
-
-[^1]: As of February 2026, the BTA Parliament has enacted 89 Bangsamoro Autonomy Acts. See the full categorized index at `~/Vault/bangsamoro/bangsamoro-laws/baa-quick-reference.md`.
-
-[^2]: Bill Drafting Guidebook for the Bangsamoro Parliament, 3rd ed. (Cotabato City: Bangsamoro Parliament, 2026), Chapter 2, Section 2.3 (Stage 2 — Legislative Research).
-
-[^3]: The Strategic Planning Guidebook for the Bangsamoro Government (Cotabato City: Bangsamoro Government, 2026), Chapter 2, Section 2.6, Common Pitfall 1 ("Planning activities without legal authority").
-
-[^4]: BAA 58 (Parliamentary Districts) and BAA 77 (Reconstituted Parliamentary Districts) were both declared unconstitutional by the Supreme Court. BAA 86, enacted January 2026, established 32 parliamentary districts post-Sulu exclusion.
-
-[^5]: Strategic Planning Guidebook, Chapter 2, Section 2.6, Common Pitfall 4 ("Conflating 'what we have always done' with 'what the law mandates'").
-
-[^6]: Fact-Check Error Log, Error Pattern #1 (BOL Article Misattribution, 13+ occurrences). The most dangerous swaps: Art. IX vs. Art. X, Art. V vs. Art. VI, Art. VII vs. Art. VIII, Art. VIII vs. Art. XVI, Art. XII Sec. 9 vs. Sec. 15-16.
-
-[^7]: Bill Drafting Guidebook, Chapter 8 (Preparing a Legislative Briefer), Section 8.3 (The Legislative Analysis).
-
-[^8]: Bill Drafting Guidebook, Chapter 2, Section 2.3.2 (Working with the Policy Research and Legal Services).

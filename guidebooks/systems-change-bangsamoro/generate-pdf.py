@@ -40,6 +40,7 @@ MD_FILES = [
     "09-chapter-08.md",
     "10-glossary.md",
     "11-bibliography.md",
+    "appendices/appendix-ai-declaration.md",
 ]
 
 # Markdown extensions for richer conversion
@@ -92,7 +93,11 @@ def build_chapter_cover(fname: str, md_content: str) -> str:
     # Determine if this is a chapter file or front/back matter
     is_chapter = "chapter-" in fname
     is_front_matter = "introduction" in fname
-    is_back_matter = any(k in fname for k in ["glossary", "appendices", "bibliography"])
+    # No cover page for appendix files
+    if "appendix" in fname:
+        return ""
+
+    is_back_matter = any(k in fname for k in ["glossary", "bibliography"])
 
     if not is_chapter and not is_front_matter and not is_back_matter:
         return ""
@@ -269,6 +274,10 @@ def wrap_section(fname: str, html_content: str, index: int) -> str:
         return f'<div class="chapter" id="bibliography">\n{html_content}\n{back_link}\n</div>\n'
 
     # Regular chapters
+    if "appendix" in fname:
+        appendix_id = fname.replace(".md", "").replace("/", "-")
+        return f'<div class="chapter appendix-section" id="{appendix_id}">\n{html_content}\n{back_link}\n</div>\n'
+
     chapter_match = re.search(r"chapter-(\d+)", fname)
     ch_num = chapter_match.group(1) if chapter_match else str(index)
     return f'<div class="chapter" id="chapter-{ch_num}">\n{html_content}\n{back_link}\n</div>\n'

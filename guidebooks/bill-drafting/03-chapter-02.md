@@ -109,6 +109,14 @@ The approval does not need to be elaborate. A signed copy of the template, an em
 
 ---
 
+> **AI in Practice**
+>
+> Stage 2 is where AI provides the most value in the entire bill drafting process. AI can search the full legislative archive — 11,866 RAs, 89 BAAs, 2,572 EOs, 38,857 SC decisions — in minutes, building comparative matrices and extracting verbatim provisions that would take a human researcher days.
+>
+> **What AI does:** Executes the 5-step legal research methodology, builds the Research Memorandum, and drafts the Legislative Research Briefer structure.
+> **What you do:** Formulate the research question, apply the National Law Relationship Test, verify every provision AI extracts against the source text, and form all legal conclusions. Legislative intent is yours — AI cannot determine what the bill should achieve.
+> **Watch for:** AI frequently cites wrong BOL article numbers and invents BAA numbers. Every citation must be verified against the source document before it enters the briefer.
+
 ## 2.3 Stage 2 — Legislative Research
 
 Research is the foundation of a strong bill. You may be tempted to jump straight into drafting — especially if the MP is impatient or the timeline is tight — but a bill written without thorough research is a bill that will be picked apart in committee, challenged on constitutional grounds, or rendered unimplementable by conflicting provisions in existing law.
@@ -119,13 +127,13 @@ This stage has four parts: gathering legislative requirements, working with the 
 
 Before diving into databases and statute books, step back and define what you need to know. Based on the Initial Legislative Template, identify your research questions:
 
-- **Constitutional and BOL questions:**[^1] Does the Bangsamoro Government have the power to legislate on this subject matter? Is the subject within the exclusive powers listed in the BOL, or is it a shared or concurrent power with the national government? Are there constitutional limits?
+- **Constitutional and BOL questions:**[^1] Does the Bangsamoro Government have the power to legislate on this subject matter? Is the subject within the 55 enumerated powers in BOL Art. V, Sec. 2? Does the BOL require national law consistency for this subject? Are there constitutional limits?
 - **Existing law questions:** What national laws already cover this area? What Bangsamoro Autonomy Acts (BAAs) are already in force? Are there implementing rules and regulations (IRRs) that add detail to those laws? Do any local government ordinances within the BARMM touch on this subject?
 - **Policy questions:** What do experts, practitioners, and affected communities say about this problem? Are there research studies, policy papers, or international models relevant to the proposal?
 - **Budget and implementation questions:** How much will this cost? Which agencies will implement it? Do those agencies have the capacity?
 - **Shari'ah and gender questions:** Does the bill intersect with Islamic law? Does it affect men and women differently?
 
-Write these questions down. They become your research checklist. Each question should be answerable — "Does the Bangsamoro Parliament have exclusive power to legislate on IDP protection?" is answerable. "What is the best approach to IDP protection?" is too broad. Break broad questions into smaller, specific ones that your research can actually resolve.
+Write these questions down. They become your research checklist. Each question should be answerable — "Does the Bangsamoro Parliament have the enumerated power to legislate on IDP protection?" is answerable. "What is the best approach to IDP protection?" is too broad. Break broad questions into smaller, specific ones that your research can actually resolve.
 
 The checklist also helps you recognize when you have enough information to stop researching and start drafting. Research can become a form of procrastination — there is always one more study to read, one more law to check. Your research questions define the finish line.
 
@@ -160,7 +168,7 @@ While the PRLS handles its part, you conduct your own research in parallel. Your
 
 **Step 1: The 1987 Philippine Constitution**
 
-Start here. Check whether the subject matter falls within the national government's reserved powers or the Bangsamoro Government's exclusive and concurrent powers. Key provisions include:
+Start here. Apply the National Law Relationship Test: Is the subject within the 55 enumerated powers (Art. V, Sec. 2)? Does the BOL require national law consistency? Or is it a residual national power? Key provisions include:
 
 - Article X (Local Government),[^2] which provides the constitutional basis for autonomous regions
 - Article II (Declaration of Principles and State Policies), which may contain relevant policy mandates
@@ -171,7 +179,7 @@ Start here. Check whether the subject matter falls within the national governmen
 
 The BOL is your primary reference for determining what the Bangsamoro Parliament can and cannot do. Check:
 
-- **Article V (Powers of Government)**[^3] — Is the subject in the list of exclusive powers (Section 2)? Does the general welfare clause (Section 3) apply?
+- **Article V (Powers of Government)**[^3] — Is the subject in the 55 enumerated powers (Section 2)? Does the general welfare clause (Section 3) apply?
 - **Article VI (Intergovernmental Relations)**[^4] — Does the bill touch an area of shared jurisdiction between the Bangsamoro Government and the National Government?
 - **Article VII (The Bangsamoro Government)** and **Article VIII (Wali)** — Are there structural requirements or limitations that affect the bill?
 - **Article IX (Basic Rights)**[^5] — Does the bill affect any of the rights guaranteed under the BOL?
@@ -228,7 +236,7 @@ The six steps above are your research tasks. But how do you organize the process
 **Step 1: Issue Analysis.** Before searching any law, frame the legal question precisely. Identify:
 
 - What legal question does this bill raise? (e.g., "Does Parliament have the authority to regulate digital commerce within BARMM?")
-- Which jurisdiction applies — BARMM exclusive powers, concurrent with national, or national reserved?
+- Which jurisdiction applies — enumerated power (no NL consistency required), NL consistency required, or residual national power?
 - What search terms will you use? (Include synonyms: "digital commerce" / "e-commerce" / "electronic transactions" / "online business")
 - Which tiers of the legal hierarchy are most likely to be relevant?
 
@@ -278,7 +286,7 @@ A bill that cites a repealed or superseded provision is a bill that will fail at
 | # | Tier | Source | Provision | Authority/Mandate | Status |
 |---|------|--------|-----------|-------------------|--------|
 | 1 | 1 | 1987 Constitution | Art. X, Sec. 15 | Constitutional basis for autonomous regions | In force |
-| 2 | 2 | BOL (RA 11054) | Art. V, Sec. 2(d) | Exclusive power: creation of sources of revenues | In force |
+| 2 | 2 | BOL (RA 11054) | Art. V, Sec. 2(d) | Enumerated power: creation of sources of revenues | In force |
 | 3 | 4 | BAA No. 46 | Sec. 3 | Revenue Code provisions on local taxation | In force |
 
 Include: key provisions with verbatim text, conflict analysis with hierarchy resolution, gaps identified (authority implied but not explicit), and your search record (for audit and reproducibility).
@@ -316,7 +324,7 @@ Organize this section by the hierarchy of laws: Constitution first, then the BOL
 
 This is the analytical core of the briefer. Here you move beyond listing laws and into interpreting them. Address:
 
-- **Constitutionality and BOL compliance.** Is the bill within the Bangsamoro Parliament's legislative power? If the subject involves concurrent powers, how should the bill be structured to avoid conflict with national law?
+- **Constitutionality and BOL compliance.** Is the bill within the Bangsamoro Parliament's legislative power? If the BOL requires national law consistency for this subject, how should the bill be structured to avoid conflict with national law?
 - **Consistency with existing BAAs.** Does the bill conflict with any enacted Bangsamoro law? If so, which provisions need a repealing or amendatory clause?
 - **Policy options.** You may have found more than one way to address the problem. Present the options with their advantages and disadvantages. The MP makes the final decision, but you supply the analysis.
 - **Legal risks.** Could this bill be challenged before the Supreme Court? Is there a legal theory that would support a challenge? What can be done in the drafting to reduce that risk?
@@ -366,6 +374,14 @@ Keep the recommendations concise and actionable. The MP does not need a summary 
 **Practical tip:** Present the briefer to the MP in person or over a call, not just as an email attachment. Walking the MP through the analysis lets you answer questions in real time, gauge their reactions, and clarify points before drafting begins. If the MP is too busy for a full presentation, prepare a one-page executive summary and offer to discuss any section in detail.
 
 ---
+
+> **AI in Practice**
+>
+> AI can produce a structural first draft of a bill based on your working outline, research briefer, and existing BAA patterns. It checks cross-references against the BOL and flags inconsistencies with existing legislation automatically.
+>
+> **What AI does:** Generates the bill structure (title, policy declaration, definitions, operative provisions, transitory, effectivity), populates cross-references to existing BAAs, and flags where provisions may conflict with the BOL or national law.
+> **What you do:** All policy decisions — what the bill should achieve, how it balances competing interests, which approach to take when multiple options exist. AI drafts structure; you draft intent.
+> **Watch for:** AI-generated "standard clauses" may not match the Bangsamoro Parliament's actual drafting conventions. Verify every structural element against the patterns in enacted BAAs, not against generic legislative templates.
 
 ## 2.4 Stage 3 — Preparing the First Draft
 
@@ -518,7 +534,7 @@ For Bangsamoro bills, the relevant agencies are typically:
 
 - **Bangsamoro ministries** (Ministry of Basic, Higher and Technical Education; Ministry of Health; Ministry of Social Services and Development; etc.)
 - **Attached agencies and offices** of the Bangsamoro Government
-- **National government agencies** with offices or operations in the BARMM, if the bill involves concurrent or shared powers
+- **National government agencies** with offices or operations in the BARMM, if the bill involves subjects where the BOL requires national law consistency
 - **Local government units** (provincial, municipal, city, barangay) if the bill affects their functions
 
 **What to ask implementing agencies:**

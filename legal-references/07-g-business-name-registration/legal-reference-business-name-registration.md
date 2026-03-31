@@ -263,7 +263,7 @@ Filed Parliament Bills (PBs) that have NOT yet been enacted into BAAs. Shows leg
 
 ## Legal Briefer
 
-A granular Q&A analysis in the style of Philippine bar review materials (Bernas, Golden Notes). Answers stay as close as possible to the language of the law. All verbatim statutory text in ***bold italic***. Key terms in **bold**. Themes follow the legal hierarchy: BOL > Shari'ah > Constitution > National Law > Implementation > Divergence > Gaps > Development.
+A granular Q&A analysis. Answers stay as close as possible to the language of the law. All verbatim statutory text in ***bold italic***. Key terms in **bold**. Themes follow the legal hierarchy and analytical flow: BOL grant → constitutional floor → national law → implementation → Shari'ah dimension → divergence → gaps → development.
 
 ### A. BOL Grant and Scope
 
@@ -293,37 +293,15 @@ A. One condition:
 
    **PBR listing requirement**: Art. XIII, Sec. 25 requires that BARMM-registered business names ***"shall be listed in the Philippine Business Registry."*** This is a **mandatory interoperability condition** — not a subordination of BARMM registration to DTI authority, but a requirement that the BARMM registration system feed data into the national database. This protects against duplicate business name registrations across jurisdictions and ensures that BARMM-registered businesses are discoverable nationally.[^2]
 
-   No "consistent with national law" or "in accordance with" qualifier is attached to this power. The constitutional floor (Art. X, Sec. 20) applies as to all 55 powers.
+   No "consistent with national law" or "in accordance with" qualifier is attached to this power. The constitutional floor (Art. X, Sec. 15) applies as to all 55 powers.
 
-### B. Shari'ah Considerations
-
-**Q. Does this power have a Shari'ah dimension?**
-
-A. **Minimal direct Shari'ah dimension**. Business name registration is a regulatory-administrative function. However, two indirect connections exist: (1) the ***halal*** certification system — enterprises using *halal* designations in their business names should be verified for compliance, creating an intersection between business name registration and the Bangsamoro *Halal* Board's accreditation mandate under BAA 13; and (2) the general Shari'ah principles of ***maslahah*** (public interest) and ***amanah*** (trust/stewardship) support orderly business registration as a mechanism for consumer protection and commercial transparency.
-
-**Q. What does the BOL say about Shari'ah in relation to this power?**
-
-A. The BOL does not mention Shari'ah specifically in Art. XIII, Sec. 25 (business name registration). The *halal* connection arises from BAA 13, which attaches the **Bangsamoro *Halal* Board** to MTIT (Sec. 5) and assigns MTIT the function of promoting, developing, and regulating ***"Halal Industry development, and accredit Halal certifying bodies and Halal auditors"*** (Sec. 3(n)).[^6]
-
-**Q. What Shari'ah principles are relevant to legislation in this area?**
-
-A. No specific Shari'ah principles beyond the general values of *maslahah* (public interest), *amanah* (trust), and *'adl* (justice) directly govern business name registration. A Bangsamoro business registration law should, however, include provisions for verifying *halal* claims in business names — preventing fraudulent use of *halal* designations, which would violate consumer trust and Islamic commercial ethics.
-
-**Q. What existing Shari'ah legislation or jurisprudence applies?**
-
-A. **PD 1083** (Code of Muslim Personal Laws) does not address business name registration. No Shari'ah court jurisdiction over business name disputes exists under current law. Commercial disputes arising from business name conflicts between Muslim parties could potentially fall within Shari'ah District Court jurisdiction under BOL Art. X, Sec. 6(d) — ***"All actions arising from customary and Shari'ah compliant contracts in which the parties are Muslims."***[^7]
-
-**Q. How should Shari'ah compliance be integrated into Bangsamoro legislation for this power?**
-
-A. The recommended approach is **principled** — legislation guided by Islamic values without mandating specific Shari'ah compliance for business name registration itself. However, a Bangsamoro business registration law should include: (a) a **prohibition on fraudulent *halal* designations** in business names, enforceable through the *Halal* Board; and (b) a **dispute resolution** option through Shari'ah courts for business name disputes between Muslim parties.
-
-### C. Constitutional Considerations
+### B. Constitutional Considerations
 
 **Q. What constitutional provisions apply to business name registration?**
 
 A. Three categories of constitutional provisions apply:
 
-   (1) **Autonomous Region Framework (Art. X, Sec. 20)**: The universal constitutional boundary — all autonomous region powers operate ***"within the framework of this Constitution."***[^8]
+   (1) **Autonomous Region Framework (Art. X, Sec. 15)**: The universal constitutional boundary — all autonomous region powers operate ***"within the framework of this Constitution."***[^8]
 
    (2) **National Economy and Patrimony (Art. XII)**: Art. XII, Sec. 1 mandates the State to promote ***"a more equitable distribution of opportunities, income, and wealth"*** and to promote ***"industrialization and full employment."*** Business name registration facilitates enterprise formation in furtherance of this mandate.
 
@@ -337,7 +315,7 @@ A. (1) **Right to engage in trade and livelihood** — Art. XII provisions promo
 
 A. No specific constitutional mandate for business name registration exists. The general mandate to promote trade and enterprise (Art. XII) applies.
 
-### D. National Law Considerations
+### C. National Law Considerations
 
 **Q. What does the current national legal framework provide for business name registration?**
 
@@ -357,9 +335,9 @@ A. All national business registration laws apply in the absence of a Bangsamoro 
 
 A. The **Department of Trade and Industry (DTI)** exercises full business name registration authority in BARMM through its regional and provincial offices. DTI processes all business name registrations, issues Certificates of Registration, and maintains the PBR database entries for BARMM businesses. When a Bangsamoro business registration law is enacted, the question is whether **MTIT replaces DTI** within BARMM for business name registration or whether **DTI retains a coordination role** for PBR interoperability.[^11]
 
-### E. Implementation
+### D. Implementation
 
-#### E.1 How the Bangsamoro Government Implements This Power
+#### D.1 How the Bangsamoro Government Implements This Power
 
 **Q. Which ministry or office is primarily responsible for exercising this power?**
 
@@ -396,7 +374,7 @@ A. While BAA 13 assigns business name registration to the Bureau of Trade and In
 
 A. No parliamentary resolutions specifically addressing business name registration have been identified.
 
-#### E.1.A Institutional Validation
+#### D.1.A Institutional Validation
 
 **Q. Is the assigned lead MOA the correct one for this power?**
 
@@ -419,7 +397,7 @@ A. The BOL does not mandate a specific institution for business name registratio
 
 A. No new institutions are required. A **Bangsamoro Business Registration Unit** within the Bureau of Trade and Industry could be formalized by legislation to handle the function, with a digital registration system interoperable with the PBR. This would be an organizational unit, not a new institution.
 
-#### E.2 How the National Government Implements This Power
+#### D.2 How the National Government Implements This Power
 
 **Q. How does the national government currently exercise authority in this area within BARMM?**
 
@@ -433,7 +411,7 @@ A. (1) **DTI business name registration** — routine processing of new registra
 
 A. Devolution has **not commenced**. DTI retains full business name registration authority within BARMM. MTIT's Bureau of Trade and Industry has an assigned function under BAA 13 Sec. 11(c) but has not operationalized an independent registration system. No memorandum of agreement, executive order, or transition plan governs the transfer of the registration function from DTI to MTIT.
 
-#### E.3 BARMM Implementation
+#### D.3 BARMM Implementation
 
 **Q. What has the BARMM accomplished so far in exercising this power?**
 
@@ -451,7 +429,7 @@ A. BARMM has two potential advantages, though neither has been fully realized:
 
 A. The **single biggest constraint** is the absence of a **standalone business registration act**. Without it: MTIT cannot independently register business names — the regulatory framework (standards, forms, fees, timelines, penalties, appeals) does not exist in Bangsamoro law; the **PBR interoperability** required by Art. XIII, Sec. 25 has no implementing mechanism; and the **jurisdictional boundary** with DTI remains undefined.
 
-#### E.4 National Government Implementation
+#### D.4 National Government Implementation
 
 **Q. What has the national government built for this area that BARMM does not yet have?**
 
@@ -470,13 +448,35 @@ A. - **Replicate**: **registration standards** (business name search, uniqueness
    - **Adapt**: **one-stop-shop model** — integrate business name registration with LGU business permits, *halal* certification, BIR/BRO tax registration, and MTIT trade facilitation services. Adapt for **local languages** and **conflict-affected enterprise** formation.
    - **Replace**: **institutional framework** — MTIT (Bureau of Trade and Industry) replaces DTI for business name registration within BARMM. The Bangsamoro system must maintain **PBR interoperability** per Art. XIII, Sec. 25 but operates independently.
 
+### E. Shari'ah Considerations
+
+**Q. Does this power have a Shari'ah dimension?**
+
+A. **Minimal direct Shari'ah dimension**. Business name registration is a regulatory-administrative function. However, two indirect connections exist: (1) the ***halal*** certification system — enterprises using *halal* designations in their business names should be verified for compliance, creating an intersection between business name registration and the Bangsamoro *Halal* Board's accreditation mandate under BAA 13; and (2) the general Shari'ah principles of ***maslahah*** (public interest) and ***amanah*** (trust/stewardship) support orderly business registration as a mechanism for consumer protection and commercial transparency.
+
+**Q. What does the BOL say about Shari'ah in relation to this power?**
+
+A. The BOL does not mention Shari'ah specifically in Art. XIII, Sec. 25 (business name registration). The *halal* connection arises from BAA 13, which attaches the **Bangsamoro *Halal* Board** to MTIT (Sec. 5) and assigns MTIT the function of promoting, developing, and regulating ***"Halal Industry development, and accredit Halal certifying bodies and Halal auditors"*** (Sec. 3(n)).[^6]
+
+**Q. What Shari'ah principles are relevant to legislation in this area?**
+
+A. No specific Shari'ah principles beyond the general values of *maslahah* (public interest), *amanah* (trust), and *'adl* (justice) directly govern business name registration. A Bangsamoro business registration law should, however, include provisions for verifying *halal* claims in business names — preventing fraudulent use of *halal* designations, which would violate consumer trust and Islamic commercial ethics.
+
+**Q. What existing Shari'ah legislation or jurisprudence applies?**
+
+A. **PD 1083** (Code of Muslim Personal Laws) does not address business name registration. No Shari'ah court jurisdiction over business name disputes exists under current law. Commercial disputes arising from business name conflicts between Muslim parties could potentially fall within Shari'ah District Court jurisdiction under BOL Art. X, Sec. 6(d) — ***"All actions arising from customary and Shari'ah compliant contracts in which the parties are Muslims."***[^7]
+
+**Q. How should Shari'ah compliance be integrated into Bangsamoro legislation for this power?**
+
+A. The recommended approach is **principled** — legislation guided by Islamic values without mandating specific Shari'ah compliance for business name registration itself. However, a Bangsamoro business registration law should include: (a) a **prohibition on fraudulent *halal* designations** in business names, enforceable through the *Halal* Board; and (b) a **dispute resolution** option through Shari'ah courts for business name disputes between Muslim parties.
+
 ### F. Divergence Analysis
 
 **Q. To what extent can the BARMM diverge from national business name registration law?**
 
-A. BARMM has **moderate legislative authority** to diverge. The BOL **expressly grants** the power to register business names (Art. V, Sec. 2(g); Art. XIII, Sec. 25) — this is congressional authorization for a distinct regional registration system. **No consistency requirement** with national business name law is imposed. The sole constraint is the **PBR listing requirement** (Art. XIII, Sec. 25), which mandates interoperability but not conformity with DTI procedures.
+A. BARMM has **broad legislative authority** to diverge. The BOL **expressly grants** the power to register business names (Art. V, Sec. 2(g); Art. XIII, Sec. 25) — this is congressional authorization for a distinct regional registration system. **No consistency requirement** with national business name law is imposed. The sole constraint is the **PBR listing requirement** (Art. XIII, Sec. 25), which mandates interoperability but not conformity with DTI procedures.
 
-   As established in **Theme A**, the limits are: (1) the **PBR interoperability** mandate — BARMM cannot operate a closed system; (2) the **constitutional floor** established in **Theme C** — equal protection and due process in registration decisions. Within these limits, BARMM can establish its own **registration procedures**, **fee schedules**, **validity periods**, **penalty provisions**, and **dispute resolution mechanisms** — and integrate *halal* verification as a distinct feature.
+   As established in the **BOL Grant and Scope** section (Section A), the limits are: (1) the **PBR interoperability** mandate — BARMM cannot operate a closed system; (2) the **constitutional floor** established in the **Shari'ah Considerations** section (Section E) — equal protection and due process in registration decisions. Within these limits, BARMM can establish its own **registration procedures**, **fee schedules**, **validity periods**, **penalty provisions**, and **dispute resolution mechanisms** — and integrate *halal* verification as a distinct feature.
 
 **Q. If BARMM enacts different standards, what are the implications for rights holders and cross-boundary operations?**
 
@@ -548,7 +548,7 @@ What laws should the Bangsamoro Parliament pass to fully exercise this power? No
 [^5]: BAA No. 13, sec. 11(c), bk. VII, tit. V, ch. 4.
 [^6]: BAA No. 13, sec. 3(n) and sec. 5, bk. VII, tit. V.
 [^7]: Rep. Act No. 11054, sec. 6(d), art. X.
-[^8]: 1987 Const., art. X, sec. 20.
+[^8]: 1987 Const., art. X, sec. 15.
 [^9]: 1987 Const., art. III, sec. 1.
 [^10]: Act No. 3883, "The Business Name Law" (1931).
 [^11]: Exec. Order No. 587, "Directing DTI to Establish and Administer the Philippine Business Registry."

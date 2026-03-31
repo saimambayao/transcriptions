@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -299,6 +312,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -316,6 +330,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -338,6 +353,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -834,9 +855,7 @@ table.allow-break tr {
   <div class="cover-framework">Planning &middot; Budgeting &middot; Approval &middot; Implementation &middot; M&amp;E &middot; Oversight &middot; Legislation</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1032,6 +1051,12 @@ table.allow-break tr {
 <h2 id="who-this-guidebook-is-for">Who This Guidebook Is For</h2>
 <p>This guidebook serves <strong>all BARMM government staff</strong> — from administrative aides to ministers, from committee secretariat to the Office of the Chief Minister. AI is not an IT concern. It is a productivity tool for anyone who reads, writes, analyzes, or decides.</p>
 <p>You do not need technical skills to use this guidebook. If you can write a memorandum, you can write an AI prompt. Chapter 2 starts from zero.</p>
+<hr>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting AI application frameworks across the governance cycle, structuring prompt engineering guides, formatting case studies, and organizing the ethical and implementation chapters.</p>
+<p>AI did not design the methodology. The mapping of AI capabilities to each stage of the governance cycle &ndash; strategic planning, budgeting, program implementation, monitoring and evaluation, legislative oversight, and codification &ndash; comes from the author&rsquo;s professional experience building AI-augmented platforms for Bangsamoro institutions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every BAA reference, budget document citation, institutional process description, and governance claim in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), enacted Bangsamoro Autonomy Acts, the Bangsamoro Development Plan 2023-2028, and official government records. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <hr>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <p>You have two options:</p>
@@ -9872,12 +9897,7 @@ Estonia, with a population of 1.3 million (roughly comparable to BARMM&rsquo;s M
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 
-<div class="chapter-cover-page front-matter">
-  <div class="chapter-cover-title">Appendices</div>
-  <div class="chapter-cover-gold-line"></div>
-</div>
-
-<div class="chapter" id="appendices">
+<div class="chapter" id="chapter-17">
 <h1 id="appendices">Appendices</h1>
 <hr>
 <h2 id="appendix-a-prompt-library-for-common-government-tasks">Appendix A — Prompt Library for Common Government Tasks</h2>
@@ -11882,6 +11902,14 @@ Estonia, with a population of 1.3 million (roughly comparable to BARMM&rsquo;s M
 <p>Su, Jeff. &ldquo;NotebookLM Changed Completely: Here&rsquo;s What Matters (in 2026).&rdquo; YouTube, March 2026.</p>
 <hr>
 <p><em>Note: All Bangsamoro Autonomy Acts are available through the official records of the Bangsamoro Parliament. BAA numbers and titles cited in this guidebook reflect the legislative record as of March 2026. Republic Acts are published in the Official Gazette of the Republic of the Philippines. Supreme Court decisions are published in the Philippine Reports and accessible through the Supreme Court E-Library (elibrary.judiciary.gov.ph).</em></p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

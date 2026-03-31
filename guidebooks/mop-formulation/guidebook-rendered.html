@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -289,6 +302,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -306,6 +320,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -328,6 +343,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -791,9 +812,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;MOP&nbsp;Development&nbsp;Teams,<br>Ministry&nbsp;Personnel, and&nbsp;Government&nbsp;Officers</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1003,6 +1022,11 @@ table.allow-break tr {
 <p>This guidebook was written for the people who build and maintain the operating systems of Bangsamoro government. It is designed for daily use &ndash; not as a textbook to be read once and shelved, but as a working reference to be consulted at every stage of MOP development.</p>
 <p>The guidebook covers the full lifecycle of a Manual of Operations: from the moment a Ministry, Office, or Agency identifies the need for documented procedures, through information gathering, drafting, review, approval, implementation, and continuous improvement. It also addresses the legal grounding of every MOP in BAA 13 (the Bangsamoro Administrative Code) and related enabling legislation, the adaptation of the PRLS MOP format as a gold standard for procedural documentation, and the quality standards that distinguish effective MOPs from shelf documents.</p>
 <p>Every provision cited from the Bangsamoro Organic Law (Republic Act No. 11054), BAA 13, and related Bangsamoro Autonomy Acts has been quoted or referenced from the source text. The MOP development principles and format standards reflect established operations management practice adapted to the specific context of Bangsamoro governance, the parliamentary system established under the BOL, and the administrative structure defined by the Bangsamoro Administrative Code.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across BAA 13 (Bangsamoro Administrative Code) and related enabling legislation, and fact-checking against known error patterns.</p>
+<p>AI did not design the methodology. The MOP lifecycle framework, the adaptation of the PRLS MOP format as a documentation standard, the process mapping methodology, and the quality standards for operational documentation come from the author&rsquo;s professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited, procedural standard documented, and MOP development practice described in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <p>This guidebook is written to be timeless. It applies equally to MOAs under the Bangsamoro Transition Authority and to MOAs under the elected Bangsamoro Government that will follow. Where procedures or organizational structures are specific to the transition period, the text says so. In all other respects, the guidance here is intended to serve any MOP development team working within the Bangsamoro Autonomous Region, regardless of when they read it.</p>
 </div>
 
@@ -4331,6 +4355,14 @@ Reception &gt; Execution &gt; Review/Approval &gt; Delivery</p>
 <p><strong>Turnaround Time.</strong> The total time from receipt of a request to delivery of the completed output. Classified by complexity: Simple (1-2 days), Routine (3-5 days), Complex (6-15 days). See Chapter 7, Section 7.3.</p>
 <p><strong>Version Control.</strong> A system for tracking changes to the MOP. Each version has a number (1.0, 1.1, 2.0) and a change log documenting what changed and who approved the change. See Chapter 9, Section 9.4.3.</p>
 <p><strong>Workflow Table.</strong> See <em>Four-Column Workflow Table</em>.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

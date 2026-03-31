@@ -34,7 +34,7 @@ ADDRESS IT is a seven-step methodology for Complete Staff Work. Each step builds
 | 2 | **DD** | Define and Deliberate the Problem or Need | What exactly is the problem, and what causes it? |
 | 3 | **R** | Research Needed Information | What evidence do you need, and where do you find it? |
 | 4 | **E** | Explore Options | What are the viable solutions, and which is best? |
-| 5 | **SS** | Submit Proposal or Report | How do you package your work for decision? |
+| 5 | **S** | Submit Proposal or Report | How do you package your work for decision? |
 | 6 | **S** | Sustain Efforts to Implement | How do you keep momentum after approval? |
 | 7 | **IT** | Iterate and Improve | How do you learn from results and improve? |
 

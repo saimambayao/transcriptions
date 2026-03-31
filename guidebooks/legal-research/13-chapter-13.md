@@ -24,6 +24,14 @@ Verification is Step 5 of the five-step methodology. But verification is not onl
 
 ---
 
+> **AI in Practice**
+>
+> AI is both the biggest source of verification risk and the most powerful verification tool. It generates plausible-sounding text that may not match any enacted law — but it can also scan every provision in your Research Memorandum against the source archive faster than any human.
+>
+> **What AI does:** Scans for known fabrication patterns (wrong BOL articles, invented BAA numbers, misattributed actors), cross-checks citations against the legislative archive, flags provisions that may have been amended or repealed.
+> **What you do:** Confirm every flagged error against the source document yourself. AI catches patterns; you make the final verification judgment. Step 5 (Verification) cannot be fully delegated to AI.
+> **Watch for:** Do not use AI to verify AI. If AI generated a provision citation, verify it against the SOURCE DOCUMENT — not by asking AI again whether the citation is correct.
+
 ## 13.3 Verbatim Accuracy
 
 The single most important quality practice: **copy provisions from the source text, do not paraphrase from memory.**
@@ -54,30 +62,23 @@ Not all sources are equally reliable. Verify provisions in this order:
 
 | Priority | Source | Reliability | Speed |
 |----------|--------|------------|-------|
-| 1 | **Local markdown transcriptions** | Verbatim-accurate, verified against PDFs | Fastest — searchable, local |
-| 2 | **Original PDF source documents** | Authoritative originals | Slower — requires PDF reading |
+| 1 | **Verbatim source texts** | The enacted law itself — BOL, BAAs, RAs, Constitution | Highest — no interpretation layer |
+| 2 | **Original PDF source documents** | Official copies from the Bangsamoro Parliament, Official Gazette | High — authoritative originals |
 | 3 | **Official Gazette** | Official publication of record | Medium — requires web access |
 | 4 | **LawPhil / Chan Robles** | Secondary compilations | Medium — verify against official copy |
 | 5 | **Web search results** | Variable reliability | Slowest — always cross-check |
 
-**Rule:** Never cite a provision you have not verified against a Priority 1 or Priority 2 source. If you find a provision through web search (Priority 5), verify it against the local transcription or official PDF before citing it.
-
-**Local source paths (BARMM):**
-- BOL: `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` (5 chapter files)
-- BAAs: `~/Vault/bangsamoro/bangsamoro-laws/BAA-{N}.md` (89 files)
-- BAA index: `~/Vault/bangsamoro/bangsamoro-laws/index.md`
-- Resolutions: `~/Vault/bangsamoro/bangsamoro-resolutions/resolution{N}.md` (556 files)
-- Officials: `~/.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md`
+**Rule:** Never cite a provision you have not verified against a Priority 1 or Priority 2 source. If you find a provision through a secondary compilation or web search, verify it against the enacted text or official PDF before citing it.
 
 ---
 
 ## 13.5 Known Fabrication Patterns
 
-The following errors have been documented across multiple BARMM guidebooks and official documents. Study them before producing any research output.[^2]
+The following error patterns are known risks in AI-augmented legal research. AI tools — including large language models used for legal research — are prone to these specific fabrication patterns. Human researchers using AI assistance should verify against these patterns before finalizing any output.[^2]
 
-### Pattern 1: BOL Article Misattribution (13+ documented occurrences)
+### Pattern 1: BOL Article Misattribution
 
-The BOL has **18 articles (I-XVIII)**, not 13. The most dangerous swaps:
+The BOL has **18 articles (I-XVIII)**, not 13. AI tools frequently confuse adjacent article numbers. Verify every BOL article citation against the 18-article map (Chapter 5, Appendix A):
 
 | Wrong | Correct | Why It Happens |
 |-------|---------|---------------|
@@ -163,7 +164,7 @@ The BARMM legal landscape changes constantly. Parliament passes new BAAs. The Ch
 
 **Habit 2: Track BAA enactments.** Maintain or access a running list of enacted BAAs. As of February 2026, there are 89. When Parliament enacts BAA 90, update your reference. BAAs 82-89 were enacted in January-February 2026 alone — including the Labor Code (BAA 82), the Budget System Act (BAA 84), the Parliamentary District Act (BAA 86), and the Transitional Justice Program (BAA 89).
 
-**Habit 3: Review the Legal Mandate Matrix annually.** The Strategic Planning Guidebook recommends reviewing the Legal Mandate Matrix at the start of every planning cycle.[^3] Apply the same discipline to your research: when a new BAA is enacted in your sector, update your reference files and note the change.
+**Habit 3: Review the Legal Mandate Matrix annually.** The Legal Mandate Matrix should be reviewed at the start of every planning cycle. Apply the same discipline to your research: when a new BAA is enacted in your sector, update your reference files and note the change.
 
 ---
 
@@ -229,6 +230,6 @@ This is the comprehensive quality checklist for any legal research output. It co
 
 [^1]: BAA 58 (Parliamentary Districts) and BAA 77 (Reconstituted Parliamentary Districts) were declared unconstitutional by the Supreme Court (October 2025). BAA 86 (Parliamentary District Act, January 2026) was enacted as the replacement.
 
-[^2]: Fact-Check Error Log (living document, last updated March 2026). Maintained at `~/Vault/skill-outputs/fact-checker/fact-check-error-log.md`.
+[^2]: These error patterns have been identified through systematic review of BARMM legal documents and legislative outputs.
 
-[^3]: Strategic Planning Guidebook for the Bangsamoro Government (Cotabato City: Bangsamoro Government, 2026), Chapter 2, Section 2.6, Common Pitfall 5 ("Treating the legal mandate review as a one-time exercise").
+[^3]: Treating the legal mandate review as a one-time exercise is a common pitfall. The Bangsamoro Parliament enacts new BAAs regularly — what was a complete mandate review six months ago may be incomplete today.

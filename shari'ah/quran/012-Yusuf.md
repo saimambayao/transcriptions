@@ -1,0 +1,2404 @@
+# Surah Yusuf (يوسف)
+
+- **English Name:** Joseph
+- **Revelation Place:** Makkah
+- **Verses:** 111
+- **Translation:** Sahih International
+
+---
+
+### Ayah 1
+
+>  الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ
+
+Alif, Lām, Rā.1 These are the verses of the clear Book.
+
+### Ayah 2
+
+> إِنَّآ أَنزَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ
+
+Indeed, We have sent it down as an Arabic Qur’ān1 that you might understand.
+
+### Ayah 3
+
+> نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ
+
+We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.
+
+### Ayah 4
+
+> إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ
+
+[Of these stories mention] when Joseph said to his father,1 "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
+
+### Ayah 5
+
+> قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ
+
+He said, "O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.
+
+### Ayah 6
+
+> وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
+
+And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise."
+
+### Ayah 7
+
+> ۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ
+
+Certainly were there in Joseph and his brothers signs for those who ask, [such as]
+
+### Ayah 8
+
+> إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ
+
+When they said, "Joseph and his brother1 are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.
+
+### Ayah 9
+
+> ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَـٰلِحِينَ
+
+Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people."1
+
+### Ayah 10
+
+> قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَـٰعِلِينَ
+
+Said a speaker among them, "Do not kill Joseph but throw him into the bottom of the well; some travelers will pick him up - if you would do [something]."
+
+### Ayah 11
+
+> قَالُوا۟ يَـٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ
+
+They said, "O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?
+
+### Ayah 12
+
+> أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
+
+Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians."
+
+### Ayah 13
+
+> قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَـٰفِلُونَ
+
+[Jacob] said, "Indeed, it saddens me that you should take him, and I fear that a wolf would eat him while you are of him unaware."
+
+### Ayah 14
+
+> قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَـٰسِرُونَ
+
+They said, "If a wolf should eat him while we are a [strong] clan, indeed, we would then be losers."
+
+### Ayah 15
+
+> فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ
+
+So when they took him [out] and agreed to put him into the bottom of the well...1 But We inspired to him, "You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity]."
+
+### Ayah 16
+
+> وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ
+
+And they came to their father at night, weeping.
+
+### Ayah 17
+
+> قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ
+
+They said, "O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful."
+
+### Ayah 18
+
+> وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
+
+And they brought upon his shirt false blood.1 [Jacob] said, "Rather, your souls have enticed you to something, so patience is most fitting. And Allāh is the one sought for help against that which you describe."
+
+### Ayah 19
+
+> وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
+
+And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, "Good news! Here is a boy." And they concealed him, [taking him] as merchandise;1 and Allāh was Knowing of what they did.
+
+### Ayah 20
+
+> وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ
+
+And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.
+
+### Ayah 21
+
+> وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+And the one from Egypt1 who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
+
+### Ayah 22
+
+> وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+
+And when he [i.e., Joseph] reached maturity, We gave him judgement and knowledge. And thus We reward the doers of good.
+
+### Ayah 23
+
+> وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ
+
+And she, in whose house he was, sought to seduce him. She closed the doors and said, "Come, you." He said, "[I seek] the refuge of Allāh. Indeed, he1 is my master, who has made good my residence. Indeed, wrongdoers will not succeed."
+
+### Ayah 24
+
+> وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
+
+And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants.
+
+### Ayah 25
+
+> وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
+
+And they both raced to the door, and she tore his shirt from the back, and they found her husband at the door. She said, "What is the recompense of one who intended evil for your wife but that he be imprisoned or a painful punishment?"
+
+### Ayah 26
+
+> قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَـٰذِبِينَ
+
+[Joseph] said, "It was she who sought to seduce me." And a witness from her family testified, "If his shirt is torn from the front, then she has told the truth, and he is of the liars.
+
+### Ayah 27
+
+> وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ
+
+But if his shirt is torn from the back, then she has lied, and he is of the truthful."
+
+### Ayah 28
+
+> فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ
+
+So when he [i.e., her husband] saw his shirt torn from the back, he said, "Indeed, it is of your [i.e., women's] plan. Indeed, your plan is great [i.e., vehement].
+
+### Ayah 29
+
+> يُوسُفُ أَعْرِضْ عَنْ هَـٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ
+
+Joseph, ignore this.1 And, [my wife], ask forgiveness for your sin. Indeed, you were of the sinful."
+
+### Ayah 30
+
+> ۞ وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَـٰلٍ مُّبِينٍ
+
+And women in the city said, "The wife of al-ʿAzeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error."
+
+### Ayah 31
+
+> فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ
+
+So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], "Come out before them." And when they saw him, they greatly admired him and cut their hands1 and said, "Perfect is Allāh!2 This is not a man; this is none but a noble angel."
+
+### Ayah 32
+
+> قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّـٰغِرِينَ
+
+She said, "That is the one about whom you blamed me. And I certainly sought to seduce him, but he firmly refused; and if he will not do what I order him, he will surely be imprisoned and will be of those debased."
+
+### Ayah 33
+
+> قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ
+
+He said, "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant."
+
+### Ayah 34
+
+> فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+
+So his Lord responded to him and averted from him their plan. Indeed, He is the Hearing, the Knowing.
+
+### Ayah 35
+
+> ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْـَٔايَـٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
+
+Then it appeared to them after they had seen the signs1 that he [i.e., al-ʿAzeez] should surely imprison him for a time.2
+
+### Ayah 36
+
+> وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+
+And there entered the prison with him two young men. One of them said, "Indeed, I have seen myself [in a dream] pressing [grapes for] wine." The other said, "Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good."
+
+### Ayah 37
+
+> قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ
+
+He said, "You will not receive food that is provided to you except that I will inform you of its interpretation before it comes to you. That is from what my Lord has taught me. Indeed, I have left the religion of a people who do not believe in Allāh, and they, in the Hereafter, are disbelievers.
+
+### Ayah 38
+
+> وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
+
+And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allāh. That is from the favor of Allāh upon us and upon the people, but most of the people are not grateful.
+
+### Ayah 39
+
+> يَـٰصَـٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+
+O [my] two companions of prison, are separate lords better or Allāh, the One,1 the Prevailing?2
+
+### Ayah 40
+
+> مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+You worship not besides Him except [mere] names you have named them,1 you and your fathers, for which Allāh has sent down no evidence. Legislation is not but for Allāh. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.
+
+### Ayah 41
+
+> يَـٰصَـٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا ۖ وَأَمَّا ٱلْـَٔاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
+
+O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire."
+
+### Ayah 42
+
+> وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَـٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
+
+And he said to the one whom he knew would go free, "Mention me before your master." But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.
+
+### Ayah 43
+
+> وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ ۖ يَـٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَـٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
+
+And [subsequently] the king said, "Indeed, I have seen [in a dream] seven fat cows being eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry. O eminent ones, explain to me my vision, if you should interpret visions."
+
+### Ayah 44
+
+> قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَـٰمِ بِعَـٰلِمِينَ
+
+They said, "[It is but] a mixture of false dreams, and we are not learned in the interpretation of dreams."
+
+### Ayah 45
+
+> وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ
+
+But the one who was freed and remembered after a time said, "I will inform you of its interpretation, so send me forth."
+
+### Ayah 46
+
+> يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
+
+[He said], "Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you]."
+
+### Ayah 47
+
+> قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ
+
+[Joseph] said, "You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.
+
+### Ayah 48
+
+> ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ
+
+Then will come after that seven difficult [years] which will consume what you advanced [i.e., saved] for them, except a little from which you will store.
+
+### Ayah 49
+
+> ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ
+
+Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes]."
+
+### Ayah 50
+
+> وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّـٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ
+
+And the king said, "Bring him to me." But when the messenger came to him, [Joseph] said, "Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan."
+
+### Ayah 51
+
+> قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ
+
+Said [the king to the women], "What was your condition when you sought to seduce Joseph?" They said, "Perfect is Allāh!1 We know about him no evil." The wife of al-ʿAzeez said, "Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful.
+
+### Ayah 52
+
+> ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
+
+That is so he [i.e., al-ʿAzeez] will know that I did not betray him in [his] absence and that Allāh does not guide the plan of betrayers.
+
+### Ayah 53
+
+> ۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ
+
+And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy. Indeed, my Lord is Forgiving and Merciful."1
+
+### Ayah 54
+
+> وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
+
+And the king said, "Bring him to me; I will appoint him exclusively for myself." And when he spoke to him, he said, "Indeed, you are today established [in position] and trusted."
+
+### Ayah 55
+
+> قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌ
+
+[Joseph] said, "Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian."
+
+### Ayah 56
+
+> وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+
+And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.
+
+### Ayah 57
+
+> وَلَأَجْرُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
+
+And the reward of the Hereafter is better for those who believed and were fearing Allāh.
+
+### Ayah 58
+
+> وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
+
+And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.1
+
+### Ayah 59
+
+> وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
+
+And when he had furnished them with their supplies, he said, "Bring me a brother of yours from your father.1 Do you not see that I give full measure and that I am the best of accommodators?
+
+### Ayah 60
+
+> فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
+
+But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me."
+
+### Ayah 61
+
+> قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ
+
+They said, "We will attempt to dissuade his father from [keeping] him, and indeed, we will do [it]."
+
+### Ayah 62
+
+> وَقَالَ لِفِتْيَـٰنِهِ ٱجْعَلُوا۟ بِضَـٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
+
+And [Joseph] said to his servants, "Put their merchandise1 into their saddlebags so they might recognize it when they have gone back to their people that perhaps they will [again] return."
+
+### Ayah 63
+
+> فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَـٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
+
+So when they returned to their father, they said, "O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians."
+
+### Ayah 64
+
+> قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَـٰفِظًا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+
+He said, "Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allāh is the best guardian, and He is the most merciful of the merciful."
+
+### Ayah 65
+
+> وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمْ وَجَدُوا۟ بِضَـٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَـٰٓأَبَانَا مَا نَبْغِى ۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ
+
+And when they opened their baggage, they found their merchandise returned to them. They said, "O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement."1
+
+### Ayah 66
+
+> قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
+
+[Jacob] said, "Never will I send him with you until you give me a promise [i.e., oath] by Allāh that you will bring him [back] to me, unless you should be surrounded [i.e., overcome by enemies]." And when they had given their promise, he said, "Allāh, over what we say, is Entrusted."1
+
+### Ayah 67
+
+> وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
+
+And he said, "O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely."
+
+### Ayah 68
+
+> وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَـٰهُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+And when they entered from where their father had ordered them, it did not avail them against Allāh at all except [it was] a need [i.e., concern] within the soul of Jacob, which he satisfied. And indeed, he was a possessor of knowledge because of what We had taught him, but most of the people do not know.
+
+### Ayah 69
+
+> وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
+
+And when they entered upon Joseph, he took his brother to himself; he said, "Indeed, I am your brother, so do not despair over what they used to do [to me]."
+
+### Ayah 70
+
+> فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَـٰرِقُونَ
+
+So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, "O caravan, indeed you are thieves."
+
+### Ayah 71
+
+> قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
+
+They said while approaching them, "What is it you are missing?"
+
+### Ayah 72
+
+> قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ
+
+They said, "We are missing the measure of the king. And for he who produces it is [the reward of] a camel's load, and I am responsible for it."
+
+### Ayah 73
+
+> قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَـٰرِقِينَ
+
+They said, "By Allāh, you have certainly known that we did not come to cause corruption in the land, and we have not been thieves."
+
+### Ayah 74
+
+> قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَـٰذِبِينَ
+
+They [the accusers] said, "Then what would be its recompense1 if you should be liars?"
+
+### Ayah 75
+
+> قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ
+
+[The brothers] said, "Its recompense is that he in whose bag it is found - he [himself] will be its recompense.1 Thus do we recompense the wrongdoers."
+
+### Ayah 76
+
+> فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
+
+So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion [i.e., law] of the king except that Allāh willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.1
+
+### Ayah 77
+
+> ۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
+
+They said, "If he steals - a brother of his has stolen before." But Joseph kept it within himself and did not reveal it to them.1 He said, "You are worse in position, and Allāh is most knowing of what you describe."
+
+### Ayah 78
+
+> قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+
+They said, "O ʿAzeez,1 indeed he has a father [who is] an old man, so take one of us in place of him. Indeed, we see you as a doer of good."
+
+### Ayah 79
+
+> قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَـٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَـٰلِمُونَ
+
+He said, "[I seek] the refuge of Allāh [to prevent] that we take except him with whom we found our possession. Indeed, we would then be unjust."
+
+### Ayah 80
+
+> فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ
+
+So when they had despaired of him, they secluded themselves in private consultation. The eldest of them said, "Do you not know that your father has taken upon you an oath by Allāh and [that] before you failed in [your duty to] Joseph? So I will never leave [this] land until my father permits me or Allāh decides for me,1 and He is the best of judges.
+
+### Ayah 81
+
+> ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَـٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَـٰفِظِينَ
+
+Return to your father and say, 'O our father, indeed your son has stolen, and we did not testify except to what we knew. And we were not witnesses of the unseen.1
+
+### Ayah 82
+
+> وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَـٰدِقُونَ
+
+And ask the city in which we were and the caravan in which we came - and indeed, we are truthful.'"
+
+### Ayah 83
+
+> قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+
+[Jacob] said, "Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allāh will bring them to me all together. Indeed, it is He who is the Knowing, the Wise."
+
+### Ayah 84
+
+> وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ
+
+And he turned away from them and said, "Oh, my sorrow over Joseph," and his eyes became white1 from grief, for he was [of that] a suppressor.2
+
+### Ayah 85
+
+> قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ
+
+They said, "By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish."
+
+### Ayah 86
+
+> قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+He said, "I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know.
+
+### Ayah 87
+
+> يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ
+
+O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people."
+
+### Ayah 88
+
+> فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَـٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
+
+So when they entered upon him [i.e., Joseph], they said, "O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable."
+
+### Ayah 89
+
+> قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَـٰهِلُونَ
+
+He said, "Do you know what you did with Joseph and his brother when you were ignorant?"
+
+### Ayah 90
+
+> قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+
+They said, "Are you indeed Joseph?" He said, "I am Joseph, and this is my brother. Allāh has certainly favored us. Indeed, he who fears Allāh and is patient, then indeed, Allāh does not allow to be lost the reward of those who do good."
+
+### Ayah 91
+
+> قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ
+
+They said, "By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners."
+
+### Ayah 92
+
+> قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+
+He said, "No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful.
+
+### Ayah 93
+
+> ٱذْهَبُوا۟ بِقَمِيصِى هَـٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
+
+Take this, my shirt, and cast it over the face of my father; he will become seeing. And bring me your family, all together."
+
+### Ayah 94
+
+> وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ
+
+And when the caravan departed [from Egypt], their father said,1 "Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind."
+
+### Ayah 95
+
+> قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَـٰلِكَ ٱلْقَدِيمِ
+
+They said, "By Allāh, indeed you are in your [same] old error."
+
+### Ayah 96
+
+> فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+And when the bearer of good tidings1 arrived, he cast it over his face, and he returned [once again] seeing. He said, "Did I not tell you that I know from Allāh that which you do not know?"
+
+### Ayah 97
+
+> قَالُوا۟ يَـٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَـٰطِـِٔينَ
+
+They said, "O our father, ask for us forgiveness of our sins; indeed, we have been sinners."
+
+### Ayah 98
+
+> قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+
+He said, "I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful."
+
+### Ayah 99
+
+> فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ
+
+And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, "Enter Egypt, Allāh willing, safe [and secure]."
+
+### Ayah 100
+
+> وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا ۖ وَقَالَ يَـٰٓأَبَتِ هَـٰذَا تَأْوِيلُ رُءْيَـٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَـٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+
+And he raised his parents upon the throne, and they bowed to him in prostration.1 And he said, "O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle2 in what He wills. Indeed, it is He who is the Knowing, the Wise.
+
+### Ayah 101
+
+> ۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ
+
+My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous."
+
+### Ayah 102
+
+> ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
+
+That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.
+
+### Ayah 103
+
+> وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+
+And most of the people, although you strive [for it], are not believers.
+
+### Ayah 104
+
+> وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ
+
+And you do not ask of them for it any payment. It is not except a reminder to the worlds.
+
+### Ayah 105
+
+> وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+
+And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.
+
+### Ayah 106
+
+> وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ
+
+And most of them believe not in Allāh except while they associate others with Him.
+
+### Ayah 107
+
+> أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَـٰشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
+
+Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allāh or that the Hour will not come upon them suddenly while they do not perceive?
+
+### Ayah 108
+
+> قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ
+
+Say, "This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him."
+
+### Ayah 109
+
+> وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ
+
+And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they1 not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?
+
+### Ayah 110
+
+> حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ
+
+[They continued] until, when the messengers despaired and were certain that they had been denied, there came to them Our victory, and whoever We willed was saved. And Our punishment cannot be repelled from the people who are criminals.
+
+### Ayah 111
+
+> لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ
+
+There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.
+
+
+
+---
+
+---
+
+## Tafsir: Ibn Kathir (Abridged)
+
+### Verse 12:1
+
+### Which was revealed in Makkah
+
+بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+### Qualities of the Qur'an
+
+In the beginning of Surat Al-Baqarah we talked about the separate letters, Allah said,
+
+تِلْكَ ءايَـتُ الْكِتَـبِ
+
+(These are the verses of the Book) in reference to the Clear Qur'an that is plain and apparent, and explains, clarifies and makes known the unclear matters. Allah said next,
+
+إِنَّآ أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ
+
+(Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind. Therefore, the most honorable Book, was revealed in the most honorable language, to the most honorable Prophet and Messenger , delivered by the most honorable angel, in the most honorable land on earth, and its revelation started during the most honorable month of the year, Ramadan. Therefore, the Qur'an is perfect in every respect. So Allah said,
+
+نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـذَا الْقُرْءَانَ
+
+(We relate unto you the best of stories through Our revelations unto you, of this Qur'an.)
+
+### Reason behind revealing Ayah (12:3)
+
+On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that `Abdullah bin `Abbas said, "They said, `O, Allah's Messenger! Why not narrate to us stories' Later on, this Ayah was revealed,
+
+نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ
+
+(We relate unto you the best of stories...)" There is a Hadith that is relevant upon mentioning this honorable Ayah, which praises the Qur'an and demonstrates that it is sufficient from needing all books besides it. Imam Ahmad recorded a narration from Jabir bin `Abdullah that `Umar bin Al-Khattab came to the Prophet with a book that he took from some of the People of the Book. `Umar began reading it to the Prophet who became angry. He said,
+
+«أَمُتَهَوِّكُونَ فِيهَا يَا ابْنَ الْخَطَّابِ؟ وَالَّذِي نَفْسِي بِيَدِهِ، لَقَدْ جِئْتُكُمْ بِهَا بَيْضَاءَ نَقِيَّةً، لَا تَسْأَلُوهُمْ عَنْ شَيْءٍ فَيُخْبِرُوكُمْ بِحَقَ فَتُكَذِّبُونَهُ، أَوْ بِبَاطِلٍ فَتُصَدِّقُونَهُ، وَالَّذِي نَفْسِي بِيَدِهِ، لَوْ أَنَّ مُوسَى كَانَ حَيًّا مَا وَسِعَهُ إِلَّا أَنْ يَتَّبِعَنِي»
+
+(Are you uncertain about it Ibn Al-Khattab By the One in Whose Hand is my soul! I have come to you with it white and pure. Do not ask them about anything, for they might tell you something true and you reject it, or they might tell you something false and you believe it. By the One in Whose Hand is my soul! If Musa were living, he would have no choice but to follow me.) Imam Ahmad also recorded a narration from `Abdullah bin Thabit who said, "`Umar came to Allah's Messenger ﷺ and said; `O Messenger of Allah! I passed by a brother of mine from the tribe of Qurayzah, so he wrote some comprehensive statements from the Tawrah for me, should I read them to you' The face of Allah's Messenger ﷺ changed with anger. So I said to him, `Don't you see the face of Allah's Messenger ﷺ" `Umar said, `We are pleased with Allah as our Lord, Islam as our religion, and Muhammad ﷺ as our Messenger.' So the anger of the Prophet subsided, and he said,
+
+«وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْ أَصْبَحَ فِيكُمْ مُوسَى ثُمَّ اتَّبَعْتُمُوهُ وَتَرَكْتُمُونِي لَضَلَلْتُمْ، إِنَّكُمْ حَظِّي مِنَ الْأُمَمِ، وَأَنَا حَظُّكُمْ مِنَ النَّبِيِّين»
+
+(By the One in Whose Hand is Muhammad's soul, if Musa appeared among you and you were to follow him, abandoning me, then you would have strayed. Indeed you are my share of the nations, and I am your share of the Prophets.)"
+
+---
+
+### Verse 12:2
+
+
+
+---
+
+### Verse 12:3
+
+
+
+---
+
+### Verse 12:4
+
+### Yusuf's Dream
+
+Allah says, `Mention to your people, O Muhammad, among the stories that you narrate to them, the story of Yusuf.' Prophet Yusuf (Joseph) mentioned his dream to his father, Prophet Ya`qub (Jacob), son of Prophet Ishaq (Isaac), son of Prophet Ibrahim (Abraham), peace be upon them all. `Abdullah bin `Abbas stated that the dreams of Prophets are revelations from Allah. Scholars of Tafsir explained that in Yusuf's dream the eleven stars represent his brothers, who were eleven, and the sun and the moon represent his father and mother. This explanation was collected from Ibn `Abbas, Ad-Dahhak, Qatadah, Sufyan Ath-Thawri and `Abdur-Rahman bin Zayd bin Aslam. Yusuf's vision became a reality forty years later, or as some say, eighty years, when Yusuf raised his parents to the throne while his brothers were before him, 
+وَخَرُّواْ لَهُ سُجَّدَا وَقَالَ يأَبَتِ هَـذَا تَأْوِيلُ رُؤْيَـى مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا
+(and they fell down before him prostrate. And he said: "O my father! This is the interpretation of my dream aforetime! My Lord has made it come true!")
+
+---
+
+### Verse 12:5
+
+### Ya`qub orders Yusuf to hide His Vision to avoid Shaytan's Plots
+
+Allah narrates the reply Ya`qub gave his son Yusuf when he narrated to him the vision that he saw, which indicated that his brothers would be under his authority. They would be subjugated to Yusuf's authority to such an extent that they would prostrate before him in respect, honor and appreciation. Ya`qub feared that if Yusuf narrated his vision to any of his brothers, they would envy him and conspire evil plots against him. This is why Ya`qub said to Yusuf,
+
+لاَ تَقْصُصْ رُءْيَاكَ عَلَى إِخْوَتِكَ فَيَكِيدُواْ لَكَ كَيْدًا
+
+(Relate not your vision to your brothers, lest they should arrange a plot against you.) This Ayah means, "They might arrange a plot against you that causes your demise." In the Sunnah, there is a confirmed Hadith that states,
+
+«إِذَا رَأَى أَحَدُكُمْ مَا يُحِبُّ فَلْيُحَدِّثْ بِهِ، وَإِذَا رَأَى مَا يَكْرَهُ فَلْيَتَحَوَّلْ إِلَى جَنْبِهِ الْآخَرِ، وَلْيَتْفُلْ عَنْ يَسَارِهِ ثَلَاثًا، وَلْيَسْتَعِذْ بِاللهِ مِنْ شَرِّهَا، وَلَا يُحَدِّثْ بِهَا أَحَدًا فَإِنَّهَا لَنْ تَضُرَّه»
+
+(If any of you saw a vision that he likes, let him narrate it. If he saw a dream that he dislikes, let him turn on his other side, blow to his left thrice, seek refuge with Allah from its evil and not tell it to anyone. Verily, it will not harm him in this case.) In another Hadith that Imam Ahmad and collectors of the Sunan collected, Mu`awiyah bin Haydah Al-Qushayri said that the Messenger of Allah ﷺ said,
+
+«الرُّؤْيَا عَلَى رِجْلِ طَائِرٍ مَا لَمْ تُعْبَرْ، فَإِذَا عُبِرَتْ وَقَعَت»
+
+(The dream is tied to a bird's leg, as long as it is not interpreted. If it is interpreted, it comes true.) Therefore, one should hide the prospects or the coming of a bounty until it comes into existence and becomes known. The Prophet said,
+
+«اسْتَعِينُوا عَلَى قَضَاءِ الْحَوَائِجِ بِكِتْمَانِهَا، فَإِنَّ كُلَّ ذِي نِعْمَةٍ مَحْسُود»
+
+(Earn help for fulfilling needs by being discrete, for every owner of a blessing is envied.)
+
+---
+
+### Verse 12:6
+
+### Interpretation of Yusuf's Vision
+
+Allah says that Ya`qub said to his son Yusuf, `Just as Allah chose you to see the eleven stars, the sun and the moon prostrate before you in a vision, 
+وَكَذلِكَ يَجْتَبِيكَ رَبُّكَ
+(Thus will your Lord choose you) designate and assign you to be a Prophet from Him, 
+وَيُعَلِّمُكَ مِن تَأْوِيلِ الاٌّحَادِيثِ
+(and teach you the interpretation of Ahadith).' Mujahid and several other scholars said that this part of the Ayah is in reference to the interpreting of dreams. He said next, 
+وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ
+(and perfect His favor on you), `by His Message and revelation to you.' This is why Ya`qub said afterwards, 
+كَمَآ أَتَمَّهَآ عَلَى أَبَوَيْكَ مِن قَبْلُ إِبْرَهِيمَ
+(as He perfected it aforetime on your fathers, Ibrahim...), Allah's intimate friend, 
+وَإِسْحَـقَ
+(and Ishaq), Ibrahim's son, 
+إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
+(Verily, your Lord is All-Knowing, All-Wise.) Allah knows best whom to chose for His Messages.
+
+---
+
+### Verse 12:7
+
+### There are Lessons to draw from the Story of Yusuf
+ 
+Allah says that there are Ayat, lessons and wisdom to learn from the story of Yusuf and his brothers, for those who ask about their story and seek its knowledge. Surely, their story is unique and is worthy of being narrated. 
+إِذْ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَى أَبِينَا مِنَّا
+(When they said: "Truly, Yusuf and his brother are dearer to our father than we...") They swore, according to their false thoughts, that Yusuf and his brother Binyamin (Benjamin), Yusuf's full brother, 
+أَحَبُّ إِلَى أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ
+(dearer to our father than we, while we are `Usbah.) meaning, a group. Therefore, they thought, how can he love these two more than the group, 
+إِنَّ أَبَانَا لَفِى ضَلَلٍ مُّبِينٍ
+(Really, our father is in a plain error.) because he preferred them and loved them more than us. 
+اقْتُلُواْ يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ
+(Kill Yusuf or cast him out to some (other) land, so that the favor of your father may be given to you alone,) They said, `Remove Yusuf, who competes with you for your father's love, from in front of your father's face so that his favor is yours alone. Either kill Yusuf or banish him to a distant land so that you are rid of his trouble and you alone enjoy the love of your father. ' 
+وَتَكُونُواْ مِن بَعْدِهِ قَوْمًا صَـلِحِينَ
+(and after that you will be righteous folk.), thus intending repentance before committing the sin, 
+قَالَ قَآئِلٌ مِّنْهُمْ
+(One from among them said...) Qatadah and Muhammad bin Ishaq said that he was the oldest among them and his name was Rubil (Reuben). As-Suddi said that his name was Yahudha (Judah). Mujahid said that it was Sham`un (Simeon) who said, 
+لاَ تَقْتُلُواْ يُوسُفَ
+(Kill not Yusuf,), do not let your enmity and hatred towards him reach this level, of murder. However, their plot to kill Yusuf would not have succeeded, because Allah the Exalted willed that Yusuf fulfill a mission that must be fulfilled and complete; he would receive Allah's revelation and become His Prophet. Allah willed Yusuf to be a powerful man in Egypt and govern it. Consequently, Allah did not allow them to persist in their intent against Yusuf, through Rubil's words and his advice to them that if they must do something, they should throw him down to the bottom of a well, 
+يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ
+(he will be picked up by some caravan) of travelers passing by. This way, he said, you will rid yourselves of this bother without having to kill him, 
+إِن كُنتُمْ فَـعِلِينَ
+(if you must do something,) meaning, if you still insist on getting rid of him. Muhammad bin Ishaq bin Yasar said, "They agreed to a particularly vicious crime that involved cutting the relation of the womb, undutiful treatment of parents, and harshness towards the young, helpless and sinless. It was also harsh towards the old and weak who have the rights of being respected, honored and appreciated, as well as, being honored with Allah and having parental rights on their offspring. They sought to separate the beloved father, who had reached old age and his bones became weak, yet had a high status with Allah, from his beloved young son, in spite of his weakness, tender age and his need of his father's compassion and kindness. May Allah forgive them, and indeed, He is the Most Merciful among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this state- ment, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq.
+
+---
+
+### Verse 12:8
+
+
+
+---
+
+### Verse 12:9
+
+
+
+---
+
+### Verse 12:10
+
+
+
+---
+
+### Verse 12:11
+
+### Yusuf's Brothers ask for Their Father's Permission to take Yusuf with Them
+
+When Yusuf's brothers agreed to take him and throw him down the well, taking the advice of their elder brother Rubil, they went to their father Ya`qub, peace be upon him. They said to him, "Why is it that you, 
+لاَ تَأْمَنَّا عَلَى يُوسُفَ وَإِنَّا لَهُ لَنَـصِحُونَ
+(do not trust us with Yusuf though we are indeed his well-wishers)." They started executing their plan by this introductory statement, even though they really intended its opposite, out of envy towards Yusuf for being loved by his father. They said, 
+أَرْسِلْهُ مَعَنَا
+"(Send him with us) tomorrow so that we all enjoy ourselves and play." Qatadah, Ad-Dahhak and As-Suddi said similarly. Yusuf's brothers said next, 
+وَإِنَّا لَهُ لَحَـفِظُونَ
+(and verily, we will take care of him.), we will protect him and ensure his safety for you.
+
+---
+
+### Verse 12:12
+
+
+
+---
+
+### Verse 12:13
+
+### Ya`qub's Answer to Their Request
+
+Allah narrates to us that His Prophet Ya`qub said to his children, in response to their request that he send Yusuf with them to the desert to tend their cattle, 
+إِنِّى لَيَحْزُنُنِى أَن تَذْهَبُواْ بِهِ
+(Truly, it saddens me that you should take him away.) He said that it was hard on him that he be separated from Yusuf for the duration of their trip, until they came back. This demonstrates the deep love that Ya`qub had for his son, because he saw in Yusuf great goodness and exalted qualities with regards to conduct and physical attractiveness associated with the rank of prophethood. May Allah's peace and blessings be on him. Prophet Ya`qub's statement next, 
+وَأَخَافُ أَن يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ عَنْهُ غَـفِلُونَ
+(I fear lest a wolf should devour him, while you are careless of him.) He said to them, `I fear that you might be careless with him while you are tending the cattle and shooting, then a wolf might come and eat him while you are unaware.' They heard these words from his mouth and used them in their response for what they did afterwards. They also gave a spontaneous reply for their father's statement, saying, 
+لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذَا لَّخَـسِرُونَ
+(If a wolf devours him, while we are an `Usbah, then surely, we are the losers.) They said, `If a wolf should attack and devour him while we are all around him in a strong group, then indeed we are the losers and weak.'
+
+---
+
+### Verse 12:14
+
+
+
+---
+
+### Verse 12:15
+
+### Yusuf is thrown in a Well
+
+Allah says that when Yusuf's brothers took him from his father, after they requested him to permit that, 
+وَأَجْمَعُواْ أَن يَجْعَلُوهُ فِى غَيَابَةِ الْجُبِّ
+(they all agreed to throw him down to the bottom of the well,) This part of the Ayah magnifies their crime, in that it mentions that they all agreed to throw him to the bottom of the well. This was their intent, yet when they took him from his father, they pretended otherwise, so that his father sends him with a good heart and feeling at ease and comfortable with his decision. It was reported that Ya`qub, peace be upon him, embraced Yusuf, kissed him and supplicated to Allah for him when he sent him with his brothers. As-Suddi said that the time spent between pretending to be well-wishers and harming Yusuf was no longer than their straying far from their father's eyes. They then started abusing Yusuf verbally, by cursing, and harming him by beating. When they reached the well that they agreed to throw him in, they tied him with rope and lowered him down. When Yusuf would beg one of them, he would smack and curse him. When he tried to hold to the sides of the well, they struck his hand and then cut the rope when he was only half the distance from the bottom of the well. He fell into the water and was submerged. However, he was able to ascend a stone that was in the well and stood on it. Allah said next, 
+وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَـذَا وَهُمْ لاَ يَشْعُرُونَ
+(and We revealed to him: "Indeed, you shall (one day) inform them of this their affair, when they know (you) not. ") In this Ayah, Allah mentions His mercy and compassion and His compensation and relief that He sends in times of distress. Allah revealed to Yusuf, during that distressful time, in order to comfort his heart and strengthen his resolve, `Do not be saddened by what you have suffered. Surely, you will have a way out of this distress and a good end, for Allah will aid you against them, elevate your rank and raise your grade. Later on, you will remind them of what they did to you,' i 
+وَهُمْ لاَ يَشْعُرُونَ
+(when they know not.) "Ibn `Abbas commented on this Ayah, "You will remind them of this evil action against you, while they are unaware of your identity and unable to recognize you."
+
+---
+
+### Verse 12:16
+
+### Yusuf's Brothers try to deceive Their Father
+
+Allah narrates to us the deceit that Yusuf's brothers resorted to, after they threw him to the bottom of the well. They went back to their father, during the darkness of the night, crying and showing sorrow and grief for losing Yusuf. They started giving excuses to their father for what happened to Yusuf, falsely claiming that, 
+إِنَّا ذَهَبْنَا نَسْتَبِقُ
+(We went racing with one another), or had a shooting competition, 
+وَتَرَكْنَا يُوسُفَ عِندَ مَتَـعِنَا
+(and left Yusuf by our belongings), guarding our clothes and luggage, 
+فَأَكَلَهُ الذِّئْبُ
+(and a wolf devoured him), which is exactly what their father told them he feared for Yusuf and warned against. They said next, 
+وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـدِقِينَ
+(but you will never believe us even when we speak the truth.) They tried to lessen the impact of the grave news they were delivering. They said, `We know that you will not believe this news, even if you consider us truthful. So what about when you suspect that we are not truthful, especially since you feared that the wolf might devour Yusuf and that is what happened' Therefore, they said, `You have reason not to believe us because of the strange coincidence and the amazing occurrence that happened to us. ' 
+وَجَآءُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ
+(And they brought his shirt stained with false blood.) on it, to help prove plot that they all agreed on. They slaughtered a sheep, according to Mujahid, As-Suddi and several other scholars, and stained Yusuf's shirt with its blood. They claimed that this was the shirt Yusuf was wearing when the wolf devoured him, being stained with his blood. But, they forgot to tear the shirt, and this is why Allah's Prophet Ya`qub did not believe them. Rather, he told them what he felt about what they said to him, thus refusing their false claim, 
+بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ
+(Nay, but your ownselves have made up a tale. So (for me) patience is most fitting.) Ya`qub said, `I will firmly observe patience for this plot on which you agreed, until Allah relieves the distress with His aid and compassion, 
+وَاللَّهُ الْمُسْتَعَانُ عَلَى مَا تَصِفُونَ
+(And it is Allah (alone) Whose help can be sought against that which you describe.), against the lies and unbelievable incident that you said had occurred.'
+
+---
+
+### Verse 12:17
+
+
+
+---
+
+### Verse 12:18
+
+
+
+---
+
+### Verse 12:19
+
+### Yusuf is Rescued from the Well and sold as a Slave
+
+Allah narrates what happened to Yusuf, peace be upon him, after his brothers threw him down the well and left him in it, alone, where he remained for three days, according to Abu Bakr bin `Ayyash. Muhammad bin Ishaq said, "After Yusuf's brothers threw him down the well, they remained around the well for the rest of the day to see what he might do and what would happen to him. Allah sent a caravan of travelers that camped near that well, and they sent to it the man responsible for drawing water for them. When he approached the well, he lowered his bucket down into it, Yusuf held on to it and the man rescued him and felt happy,
+
+يبُشْرَى هَـذَا غُلاَمٌ
+
+("What good news! Here is a boy.") Al-`Awfi reported that Ibn `Abbas commented, "Allah's statement,
+
+وَأَسَرُّوهُ بِضَـعَةً
+
+(So they hid him as merchandise), is in reference to Yusuf's brothers, who hid the news that he was their brother. Yusuf hid this news for fear that his brothers might kill him and preferred to be sold instead. Consequently, Yusuf's brothers told the water drawer about him and that man said to his companions,
+
+يبُشْرَى هَـذَا غُلاَمٌ
+
+("What good news! Here is a boy."), a slave whom we can sell. Therefore, Yusuf's own brothers sold him." Allah's statement,
+
+وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ
+
+(And Allah was the All-Knower of what they did. ) states that Allah knew what Yusuf's brothers, and those who bought him, did. He was able to stop them and prevent them from committing their actions, but out of His perfect wisdom He decreed otherwise. He let them do what they did, so that His decision prevails and His appointed destiny rules,
+
+أَلاَ لَهُ الْخَلْقُ وَالاٌّمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَـلَمِينَ
+
+(Surely, His is the creation and commandment. Blessed is Allah, the Lord of the all that exists!) 7:54 This reminds Allah's Messenger Muhammad ﷺ, that Allah has perfect knowledge in the persecution that his people committed against him and that He is able to stop them. However, He decided to give them respite, then give Muhammad ﷺ the victory and make him prevail over them, just as He gave Yusuf victory and made him prevail over his brothers. Allah said next,
+
+وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَهِمَ مَعْدُودَةٍ
+
+(And they sold him for a Bakhs price, - for a few Dirhams) in reference to Yusuf's brothers selling him for a little price, according to Mujahid and `Ikrimah. `Bakhs' means decreased, just as Allah the Exalted said in another Ayah,
+
+فَلاَ يَخَافُ بَخْساً وَلاَ رَهَقاً
+
+(shall have no fear, either of a Bakhs (a decrease in the reward of his good deeds) or a Rahaq (an increase in the punishment for his sins).) 72:13 meaning that Yusuf's brothers exchanged him for a miserably low price. Yet, he was so insignificant to them that had the caravan people wanted him for free, they would have given him for free to them! Ibn `Abbas, Mujahid and Ad-Dahhak said that,
+
+وَشَرَوْهُ
+
+(And they sold him), is in reference to Yusuf's brothers. They sold Yusuf for the lowest price, as indicated by Allah's statement next,
+
+دَرَهِمَ مَعْدُودَةٍ
+
+(for a few Dirhams), twenty Dirhams, according to `Abdullah bin Mas`ud. Similar was said by Ibn `Abbas, Nawf Al-Bikali, As-Suddi, Qatadah and `Atiyah Al-`Awfi, who added that they divided the Dirhams among themselves, each getting two Dirhams. Ad-Dahhak commented on Allah's statement,
+
+وَكَانُواْ فِيهِ مِنَ الزَهِدِينَ
+
+(And they were of those who regarded him insignificant.) "Because they had no knowledge of his prophethood and glorious rank with Allah, the Exalted and Most Honored."
+
+---
+
+### Verse 12:20
+
+
+
+---
+
+### Verse 12:21
+
+### Yusuf in Egypt
+
+Allah mentions the favors that He granted Yusuf, peace be on him, by which He made the man from Egypt who bought him, take care of him and provide him with a comfortable life. He also ordered his wife to be kind to Yusuf and had good hopes for his future, because of his firm righteous behavior. He said to his wife, 
+أَكْرِمِى مَثْوَاهُ عَسَى أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُ وَلَدًا
+(Make his stay comfortable, maybe he will profit us or we shall adopt him as a son.) The man who bought Yusuf was the minister of Egypt at the time, and his title was `Aziz'. Abu Ishaq narrated that Abu `Ubaydah said that `Abdullah bin Mas`ud said, "Three had the most insight: the `Aziz of Egypt, who said to his wife, 
+أَكْرِمِى مَثْوَاهُ
+(Make his stay comfortable...), the woman who said to her father, 
+يأَبَتِ اسْتَـْجِرْهُ
+(O my father! Hire him...), 28:26 and Abu Bakr As-Siddiq when he appointed `Umar bin Al-Khattab to be the Khalifah after him, may Allah be pleased with them both." Allah said next that just as He saved Yusuf from his brothers, 
+كَذَلِكَمَكَّنَّا لِيُوسُفَ فِى الاٌّرْضِ
+(Thus did We establish Yusuf in the land), in reference to Egypt, 
+وَلِنُعَلِّمَهُ مِن تَأْوِيلِ الاٌّحَادِيثِ
+(that We might teach him the interpretation of events.) the interpretation of dreams, according to Mujahid and As-Suddi. Allah said next, 
+وَاللَّهُ غَالِبٌ عَلَى أَمْرِهِ
+(And Allah has full power and control over His affairs,) if He wills something, then there is no averting His decision, nor can it ever be stopped or contradicted. Rather, Allah has full power over everything and everyone else. Sa`id bin Jubayr said while commenting on Allah's statement, 
+وَاللَّهُ غَالِبٌ عَلَى أَمْرِهِ
+(And Allah has full power and control over His affairs,) "He does what ever He wills." Allah said, 
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+(but most of men know not.) meaning, have no knowledge of Allah's wisdom with regards to His creation, compassion and doing what He wills. Allah said next, 
+وَلَمَّا بَلَغَ
+(And when he attained), in reference to Prophet Yusuf, peace be upon him, 
+أَشُدَّهُ
+(his full manhood), sound in mind and perfect in body, 
+آتَيْنَاهُ حُكْمًا وَعِلْمًا
+(We gave him wisdom and knowledge), which is the prophethood that Allah sent him with for the people he lived among, 
+وَكَذَلِكَ نَجْزِى الْمُحْسِنِينَ
+(thus We reward the doers of good.) because Yusuf used to do good in the obedience of Allah the Exalted.
+
+---
+
+### Verse 12:22
+
+
+
+---
+
+### Verse 12:23
+
+### Wife of the `Aziz loves Yusuf and plots against Him
+
+Allah states that the wife of the `Aziz of Egypt, in whose house Yusuf resided and whose husband recommended that she takes care of him and be generous to him, tried to seduce Yusuf! She called him to do an evil act with her, because she loved him very much. Yusuf was very handsome, filled with manhood and beauty. She beautified herself for him, closed the doors and called him, 
+وَقَالَتْ هَيْتَ لَكَ
+(and (she) said: "Come on, O you.") But he categorically refused her call, 
+قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّى أَحْسَنَ مَثْوَاىَّ
+(He said: "I seek refuge in Allah! Truly, he is my Rabb! He made my living in a great comfort!") as they used to call the chief and master a `Rabb', Yusuf said to her, `your husband is my master who provided me with comfortable living and was kind to me, so I will never betray him by committing immoral sins with his wife,' 
+إِنَّهُ لاَ يُفْلِحُ الظَّـلِمُونَ
+(Verily, the wrongdoers will never be successful.) This was said by Mujahid, As-Suddi, Muhammad bin Ishaq and several others. The scholars differ in their recitation of, 
+هَيْتَ لَكَ
+(Hayta Laka), whereby Ibn `Abbas, Mujahid and several other scholars said that it means that she was calling him to herself. Al-Bukhari said; "Ikrimah said that, 
+هَيْتَ لَكَ
+(Hayta Laka') means, `come on, O you', in the Aramaic language." Al-Bukhari collected this statement from `Ikrimah without a chain of narration. Other scholars read it with the meaning, `I am ready for you'. Ibn `Abbas, Abu `Abdur-Rahman As-Sulami, Abu Wa'il, `Ikrimah and Qatadah were reported to have read this part of the Ayah this way and explained it in the manner we mentioned, as `I am ready for you'.
+
+---
+
+### Verse 12:24
+
+«يَقُولُ اللهُ تَعَالَى: إِذَا هَمَّ عَبْدِي بِحَسَنَةٍ فَاكْتُبُوهَا لَهُ حَسَنَةً، فَإِنْ عَمِلَهَا فَاكْتُبُوهَا لَهُ بِعَشْرِ أَمْثَالِهَا، وَإِنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْهَا فَاكْتُبُوهَا حَسَنَةً، فَإِنَّمَا تَرَكَهَا مِنْ جَرّائِي، فَإِنْ عَمِلَهَا فَاكْتُبُوهَا بِمِثْلِهَا»
+(Allah the Exalted said, `If my slave intends to perform a good deed, then record it for him as one good deed; if he performs it, then record it for him multiplied ten folds. If he intends to commit an evil act but did not commit it, then record it for him as one good deed, if he left it for My sake. But if he commits it, then write it as one evil deed.') This Hadith was also collected in the Two Sahihs using various wording, this is one of them. It was also reported that the Ayah means that Yusuf was about to beat her. As for the evidence that Yusuf saw at that moment, there are conflicting opinions to what it was. Ibn Jarir At-Tabari said, "The correct opinion is that we should say that he saw an Ayah from among Allah's Ayat that repelled the thought that crossed his mind. This evidence might have been the image of Ya`qub, or the image of an angel, or a divine statement that forbade him from doing that evil sin, etc. There are no clear proofs to support any of these statements in specific, so it should be left vague, as Allah left it. Allah's statement next, 
+كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَآءَ
+(Thus it was, that We might turn away from him evil and immoral sins.) means, `Just as We showed him the evidence that turned him away from that sin, We save him from all types of evil and illegal sexual activity in all his affairs,' because, 
+إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ
+(Surely, he was one of Our Mukhlasin servants. ) meaning, chosen, purified, designated, appointed and righte- ous. May Allah's peace and blessings be on him." 
+وَاسُتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا إِلاَ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ - قَالَ هِىَ رَاوَدَتْنِى عَن نَّفْسِى وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الكَـذِبِينَ - وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِن الصَّـدِقِينَ - فَلَمَّا رَأَى قَمِيصَهُ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُ مِن كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ
+
+---
+
+### Verse 12:25
+
+مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا
+(What is the recompense (punishment) for him who intended an evil design against your wife...), in reference to illegal sexual intercourse, 
+إِلاَ أَن يُسْجَنَ
+(except that he be put in prison) 
+أَوْ عَذَابٌ أَلِيمٌ
+(or a painful torment) tormented severely with painful beating. Yusuf did not stand idle, but he declared the truth and exonerated himself from the betrayal she accused him of, 
+قَالَ
+(He Yusuf said), in truth and honesty, 
+هِىَ رَاوَدَتْنِى عَن نَّفْسِى
+(It was she that sought to seduce me), and mentioned that she pursued him and pulled him towards her until she tore his shirt. 
+وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُ قُدَّ مِن قُبُلٍ
+(And a witness of her household bore witness (saying): "If it be that his shirt is torn from the front..."), not from the back, 
+فَصَدَقَتْ
+(then her tale is true) that he tried to commit an illegal sexual act with her. Had he called her to have sex with him and she refused, she would have pushed him away from her and tore his shirt from the front, 
+وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِن الصَّـدِقِينَ 
+(But if it be that his shirt is torn from the back, then she has told a lie and he is speaking the truth!) Had Yusuf run away from her, and this is what truly happened, and she set in his pursuit, she would have held to his shirt from the back to bring him back to her, thus tearing his shirt from the back. There is a difference of opinion over the age and gender of the witness mentioned here. `Abdur-Razzaq recorded that Ibn `Abbas said that, 
+وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ
+(and a witness of her household bore witness) "was a bearded man," meaning an adult male. Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn `Abbas said, "He was from the king's entourage." Mujahid, `Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male. Al-`Awfi reported that Ibn `Abbas said about Allah's statement, 
+وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ
+(and a witness of her household bore witness) "He was a babe in the cradle. " Similar was reported from Abu Hurayrah, Hilal bin Yasaf, Al-Hasan, Sa`id bin Jubayr and Ad-Dahhak bin Muzahim, that the witness was a young boy who lived in the `Aziz's house. Ibn Jarir At-Tabari preferred this view. Allah's statement, 
+فَلَمَّا رَأَى قَمِيصَهُ قُدَّ مِن دُبُرٍ
+(So when he saw his Yusuf's shirt torn at the back,) indicates that when her husband became certain that Yusuf was telling the truth and that his wife was lying when she heralded the accusation of betrayal at Yusuf, 
+قَالَ إِنَّهُ مِن كَيْدِكُنَّ
+(he said: "Surely, it is a plot of you women!...") He said, `This false accusation and staining the young man's reputation is but a plot of many that you, women, have,' 
+إِنَّ كَيْدَكُنَّ عَظِيمٌ
+(Certainly mighty is your plot!) The `Aziz ordered Yusuf, peace be upon him, to be discrete about what happened, 
+يُوسُفُ أَعْرِضْ عَنْ هَـذَا
+(O Yusuf ! Turn away from this!), do not mention to anyone what has happened, 
+وَاسْتَغْفِرِى لِذَنبِكِ
+(And ask forgiveness for your sin, ) addressing his wife. The `Aziz was an easy man, or gave excuse to his wife because she saw in Yusuf an appeal she could not resist. He said to her, `Ask forgiveness for your sin, the evil desire that you wanted to satisfy with this young man, and then inventing false accusations about him,' 
+إِنَّكِ كُنتِ مِنَ الْخَـطِئِينَ
+(verily, you were of the sinful.)
+
+---
+
+### Verse 12:26
+
+
+
+---
+
+### Verse 12:27
+
+
+
+---
+
+### Verse 12:28
+
+
+
+---
+
+### Verse 12:29
+
+
+
+---
+
+### Verse 12:30
+
+### The News reaches Women in the City, Who also plot against Yusuf
+
+Allah states that the news of what happened between the wife of the `Aziz and Yusuf spread in the city, that is, Egypt, and people talked about it,
+
+وَقَالَ نِسْوَةٌ فِى الْمَدِينَةِ
+
+(And women in the city said...), such as women of chiefs and princes said, while admonishing and criticizing the wife of the `Aziz,
+
+امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَـهَا عَن نَّفْسِهِ
+
+(The wife of the `Aziz is seeking to seduce her (slave) young man,), she is luring her servant to have sex with her,
+
+قَدْ شَغَفَهَا حُبًّا
+
+(indeed she loves him violently;), her love for him filled her heart and engulfed it,
+
+إِنَّا لَنَرَاهَا فِى ضَلَـلٍ مُّبِينٍ
+
+(verily, we see her in plain error.), by loving him and trying to seduce him.
+
+فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ
+
+(So when she heard of their accusation,) especially their statement, "indeed she loves him violently." Muhammad bin Ishaq commented, "They heard of Yusuf's beauty and wanted to see him, so they said these words in order to get a look at him. " This is when,
+
+أَرْسَلَتْ إِلَيْهِنَّ
+
+(she sent for them), invited them to her house,
+
+وَأَعْتَدَتْ لَهُنَّ مُتَّكَئًا
+
+(and prepared a banquet for them.) Ibn `Abbas, Sa'id bin Jubayr, Mujahid, Al-Hasan, As-Suddi and several others commented that she prepared a sitting room which had couches, pillows to recline on and food that requires knives to cut, such as citron. This is why Allah said next,
+
+وَءَاتَتْ كُلَّ وَاحِدَةٍ مَّنْهُنَّ سِكِّينًا
+
+(and she gave each one of them a knife), as a part of her plan of revenge for their plot to see Yusuf,
+
+وَقَالَتِ اخْرُجْ عَلَيْهِنَّ
+
+(and she said to Yusuf: "Come out before them."), for she had asked him to stay somewhere else in the house,
+
+فَلَمَّآ
+
+(Then, when) he went out and,
+
+رَأَيْنَهُ أَكْبَرْنَهُ
+
+(they saw him, they exalted him) they thought highly of him and were astonished at what they saw. They started cutting their hands in amazement at his beauty, while thinking that they were cutting the citron with their knives. Therefore, they injured their hands with the knives they were holding, according to several reports of Tafsir. Others said that after they ate and felt comfortable, and after having placed citron in front of them, giving each one of them a knife, the wife of the `Aziz asked them, "Would you like to see Yusuf" They said, "Yes." So she sent for him to come in front of them and when they saw him, they started cutting their hands. She ordered him to keep coming and going, so that they saw him from all sides, and he went back in while they were still cutting their hands. When they felt the pain, they started screaming and she said to them, "You did all this from one look at him, so how can I be blamed
+
+وَقُلْنَ حَاشَ للَّهِ مَا هَـذَا بَشَرًا إِنْ هَـذَآ إِلاَّ مَلَكٌ كَرِيمٌ
+
+(They said: "How perfect is Allah! No man is this! This is none other than a noble angel!") They said to her, "We do not blame you anymore after the sight that we saw." They never saw anyone like Yusuf before, for he, peace be upon him, was given half of all beauty. An authentic Hadith stated that the Messenger of Allah ﷺ passed by Prophet Yusuf, during the Night of Isra' in the third heaven and commented,
+
+«فَإِذَا هُوَ قَدْ أُعْطِيَ شَطْرَ الْحُسْن»
+
+(He was given a half of all beauty.) Mujahid and others said they said: "We seek refuge from Allah,"
+
+مَا هَـذَا بَشَرًا
+
+(No man is this!) They said next,
+
+إِنْ هَـذَآ إِلاَّ مَلَكٌ كَرِيمٌقَالَتْ فَذلِكُنَّ الَّذِى لُمْتُنَّنِى فِيهِ
+
+("This is none other than a noble angel!" She said: "This is he (the young man) about whom you did blame me...") She said these words to them so that they excuse her behavior, for a man who looks this beautiful and perfect, is worthy of being loved, she thought. She said,
+
+وَلَقَدْ رَاوَدتُّهُ عَن نَّفْسِهِ فَاسَتَعْصَمَ
+
+(and I did seek to seduce him, but he refused) to obey me. Some scholars said that when the women saw Yusuf's beauty, she told them about his inner beauty that they did not know of, being chaste and beautiful from the inside and outside. She then threatened him,
+
+وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِّن الصَّـغِرِينَ
+
+(And now if he refuses to obey my order, he shall certainly be cast into prison, and will be one of those who are disgraced.) This is when Prophet Yusuf sought refuge with Allah from their evil and wicked plots,
+
+قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِى إِلَيْهِ
+
+(He said: "O my Lord! Prison is dearer to me than that to which they invite me...") illegal sexual acts,
+
+وَإِلاَّ تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ
+
+(Unless You turn away their plot from me, I will feel inclined towards them) Yusuf invoked Allah: If You abandon me and I am reliant on myself, then I have no power over myself, nor can I bring harm or benefit to myself, except with Your power and will. Verily, You are sought for each and everything, and our total reliance is on You Alone for each and everything. Please, do not abandon me and leave me to rely on myself, for then,
+
+أَصْبُ إِلَيْهِنَّ وَأَكُن منَ الْجَـهِلِينَفَاسْتَجَابَ لَهُ رَبُّهُ
+
+("I will feel inclined towards them and be one of the ignorant." So his Lord answered his invocation) Yusuf, peace be upon him, was immune from error by Allah's will, and He saved him from accepting the advances of the wife of the `Aziz'. He preferred prison, rather than accept her illicit call. This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood. His master's wife was calling him to herself, and she was the wife of the `Aziz of Egypt. She was also very beautiful and wealthy, as well as having a great social rank. He refused all this and preferred prison, for he feared Allah and hoped to earn His reward. It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
+
+«سَبْعَةٌ يُظِلُّهُمُ اللهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ: إِمَامٌ عَادِلٌ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللهِ، وَرَجُلٌ قَلْبُهُ مُعَلَّقٌ بِالْمَسْجِدِ إِذَا خَرَجَ مِنْهُ حَتَّى يَعُودَ إِلَيْهِ، وَرَجُلَانِ تَحَابَّا فِي اللهِ، اجْتَمَعَا عَلَيْهِ وَتَفَرَّقَا عَلَيْهِ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتَّى لَا تَعْلَمَ شِمَالُهُ مَا أَنْفَقَتْ يَمِينُهُ، وَرَجُلٌ دَعَتْهُ امْرَأةٌ ذَاتُ مَنْصِبٍ وَجَمَالٍ فَقَالَ: إِنِّي أَخَافُ اللهَ، وَرَجُلٌ ذَكَرَ اللهَ خَالِيًا فَفَاضَتْ عَيْنَاه»
+
+(Allah will give shade to seven, on the Day when there will be no shade but His: A just ruler, a youth who has been brought up in the worship of Allah, a man whose heart is attached to the Masjid, from the time he goes out of the Masjid until he gets back to it, two persons who love each other only for Allah's sake and they meet and part in Allah's cause only, a man who gives charitable gifts so secretly that his left hand does not know what his right hand has given, a man who refuses the call of a charming woman of noble birth for illicit intercourse with her and says: "I am afraid of Allah, and a person who remembers Allah in seclusion and his eyes are then flooded with tears.")
+
+---
+
+### Verse 12:31
+
+
+
+---
+
+### Verse 12:32
+
+
+
+---
+
+### Verse 12:33
+
+
+
+---
+
+### Verse 12:34
+
+
+
+---
+
+### Verse 12:35
+
+### Yusuf is imprisoned without Justification
+
+Allah says, `Then it occurred to them that it would be in their interest to imprison Yusuf for a time, even after they were convinced of his innocence and saw the proofs of his truth, honesty and chastity.' It appears, and Allah knows best, that they imprisoned him after the news of what happened spread. They wanted to pretend that Yusuf was the one who tried to seduce the `Aziz's wife and that they punished him with imprisonment. This is why when the Pharaoh asked Yusuf to leave jail a long time afterwards, he refused to leave until his innocence was acertained and the allegation of his betrayal was refuted. When this was successfully achieved, Yusuf left the prison with his honor intact, peace be upon him.
+
+---
+
+### Verse 12:36
+
+### Two Jail Mates ask Yusuf to interpret their Dreams
+
+Qatadah said, "One of them was the king's distiller and the other was his baker." Each of these two men had a dream and asked Yusuf to interpret it for them.
+
+---
+
+### Verse 12:37
+
+### Yusuf calls His Jail Mates to Tawhid even before He interprets Their Dreams
+
+Yusuf, peace be upon him, told the two men that he has knowledge in the interpretation of whatever they saw in their dream, and that he will tell them about the interpretation of the dreams before they become a reality. This is why he said, 
+لاَ يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلاَّ نَبَّأْتُكُمَا بِتَأْوِيلِهِ
+(No food will come to you as your provision, but I will inform you of its interpretation) Mujahid commented, 
+لاَ يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ
+(No food will come to you as your provision,) this day, 
+إِلاَّ نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَن يَأْتِيَكُمَا
+(but I will inform you of its interpretation before it comes.) As-Suddi said similarly. Yusuf said that, this knowledge is from Allah Who taught it to me, because I shunned the religion of those who disbelieve in Him and the Last Day, who neither hope for Allah's reward nor fear His punishment on the Day of Return, 
+وَاتَّبَعْتُ مِلَّةَ ءَابَآءِي إِبْرَهِيمَ وَإِسْحَـقَ وَيَعْقُوبَ
+(And I have followed the religion of my fathers, - Ibrahim, Ishaq and Ya`qub) Yusuf said, `I have avoided the way of disbelief and polytheism, and followed the way of these honorable Messengers,' may Allah's peace and blessings be on them. This, indeed, is the way of he who seeks the path of guidance and follows the way of the Messengers, all the while shunning the path of deviation. It is he whose heart Allah will guide, teaching him what he did not know beforehand. It is he whom Allah will make an Imam who is imitated in the way of righteousness, and a caller to the path of goodness. Yusuf said next, 
+مَا كَانَ لَنَآ أَن نُّشْرِكَ بِاللَّهِ مِن شَىْءٍ ذلِكَ مِن فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ
+(and never could we attribute any partners whatsoever to Allah. This is from the grace of Allah to us and to mankind,) this Tawhid -Monotheism-, affirming that there is no deity worthy of worship except Allah alone without partners, 
+مِن فَضْلِ اللَّهِ عَلَيْنَا
+(is from the grace of Allah to us), He has revealed it to us and ordained it on us, 
+وَعَلَى النَّاسِ
+(and to mankind,), to whom He has sent us as callers to Tawhid, 
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَشْكُرُونَ
+(but most men thank not.) they do not admit Allah's favor and blessing of sending the Messengers to them, but rather, 
+بَدَّلُواْ نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّواْ قَوْمَهُمْ دَارَ الْبَوَارِ
+(Have changed the blessings of Allah into disbelief, and caused their people to dwell in the house of destruction.) 14:28
+
+---
+
+### Verse 12:38
+
+
+
+---
+
+### Verse 12:39
+
+ءَأَرْبَابٌ مُّتَّفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ
+(Are many different lords (gods) better or Allah, the One, the Irresistible) to Whose grace and infinite kingdom everything and everyone has submitted in humiliation. Prophet Yusuf explained to them next that it is because of their ignorance that they worship false deities and give them names, for these names were forged and are being transferred from one generation to the next generation. They have no proof or authority that supports this practice, hence his statement to them, 
+مَّآ أَنزَلَ اللَّهُ بِهَا مِن سُلْطَـنٍ
+(for which Allah has sent down no authority) or proof and evidence. He then affirmed that the judgement, decision, will and kingdom are all for Allah alone, and He has commanded all of His servants to worship none but Him. He said, 
+ذلِكَ الدِّينُ الْقَيِّمُ
+(that is the straight religion,) `this, Tawhid of Allah and directing all acts of worship at Him alone in sincerity, that I am calling you to is the right, straight religion that Allah has ordained and for which He has revealed what He wills of proofs and evidences,' 
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+(but most men know not.), and this is why most of them are idolators, 
+وَمَآ أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ 
+(And most of mankind will not believe even if you eagerly desire it.) 12:103 When Yusuf finished calling them, he started interpreting their dreams for them,
+
+---
+
+### Verse 12:40
+
+
+
+---
+
+### Verse 12:41
+
+### The Interpretation of the Dreams
+
+Yusuf said, 
+يصَاحِبَىِ السِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُ خَمْرًا
+(O two companions of the prison! As for one of you, he will pour out wine for his master to drink;) to the man who saw in a dream that he was pressing wine. He did not direct this speech at him, however, so that to lessen the grief of the other person. This is why he made his statement indirect, 
+وَأَمَّا الاٌّخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِن رَّأْسِهِ
+(and as for the other, he will be crucified and birds will eat from his head.) which is the interpretation of the other man's dream in which he saw himself carrying bread above his head. Yusuf told them that the decision about their matter has already been taken and it shall come to pass. This is because the dream is tied to a bird's leg, as long as it is not truthfully interpreted. If it is interpreted, then it becomes a reality. Ath-Thawri said that `Imarah bin Al-Qa`qa` narrated that Ibrahim said that `Abdullah bin Mas`ud said, "When they said what they said to him, and he explained their dreams to them, they replied, `We did not see anything at all.' This is when he said, 
+قُضِىَ الاٌّمْرُ الَّذِى فِيهِ تَسْتَفْتِيَانِ
+(Thus is the case judged concerning which you both did inquire.)" The understanding in this is that he who claims that he saw a dream and was given its interpretation, then he will be tied to its interpretation, and Allah has the best knowledge. There is an honorable Hadith that Imam Ahmad collected from Mu`awiyah bin Haydah that the Prophet said, 
+«الرُّؤْيَا عَلَى رِجْلِ طَائِرٍ مَا لَمْ تُعْبَرْ، فَإِذَا عُبِرَتْ وَقَعَت»
+(The dream is tied to a bird's leg, as long as it is not interpreted. If it is interpreted, it becomes a reality.)
+
+---
+
+### Verse 12:42
+
+### Yusuf asks the King's Distiller to mention Him to the King
+
+Yusuf knew that the distiller would be saved. So discretely, so that the other man's suspicion that he would be crucified would not intensify, he said, 
+اذْكُرْنِى عِندَ رَبِّكَ
+(Mention me to your King.) asking him to mention his story to the king. That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison. This is the correct meaning of, 
+فَأَنْسَاهُ الشَّيْطَـنُ ذِكْرَ رَبِّهِ
+(But Shaytan made him forget to mention it to his master.) that it refers to the man who was saved. As was said by Mujahid, Muhammad bin Ishaq and several others. As for, `a few years', or, Bida` in Arabic, it means between three and nine, according to Mujahid and Qatadah. Wahb bin Munabbih said, "Ayyub suffered from the illness for seven years, Yusuf remained in prison for seven years and Bukhtanassar (Nebuchadnezzar - Chaldean king of Babylon) was tormented for seven years."
+
+---
+
+### Verse 12:43
+
+### The Dream of the King of Egypt
+
+The King of Egypt had a dream that Allah the Exalted made a reason for Yusuf's release from prison, with his honor and reputation preserved. When the king had this dream, he was astonished and fearful and sought its interpretation. He gathered the priests, the chiefs of his state and the princes and told them what he had seen in a dream, asking them to interpret it for him. They did not know its interpretation and as an excuse, they said, 
+أَضْغَـثُ أَحْلَـمٍ
+(Mixed up false dreams), which you saw, 
+وَمَا نَحْنُ بِتَأْوِيلِ الاٌّحْلَـمِ بِعَـلِمِينَ
+(and we are not skilled in the interpretation of dreams.) They said, had your dream been a vision rather than a mixed up false dream, we would not have known its interpretation. The man who was saved from the two, who were Yusuf's companions in prison, remembered. Shaytan plotted to make him forget the request of Yusuf, to mention his story to the king. Now, years later, he remembered after forgetfulness and said to the king and his entourage, 
+أَنَاْ أُنَبِّئُكُمْ بِتَأْوِيلِهِ
+(I will tell you its interpretation,) he interpretation of this dream, 
+فَأَرْسِلُونِ
+(so send me forth.) to the prison, to Yusuf, the man of truth. So they sent him, and he said to Yusuf, 
+يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا
+(O Yusuf, the man of truth! Explain to us..) and mentioned the king's dream to him. 
+
+### Yusuf's Interpretation of the King's Dream
+
+This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him. Neither did he make a precondition that he be released before explaining the meaning. Rather, he said, 
+تَزْرَعُونَ سَبْعُ سِنِينَ دَأَبًا
+(For seven consecutive years, you shall sow as usual) `you will receive the usual amount of rain and fertility for seven consecutive years.' He interpreted the cows to be years, because cows till the land that produce fruits and vegetables, which represent the green ears of corn in the dream. He next recommended what they should do during these fertile years, 
+فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنبُلِهِ إِلاَّ قَلِيلاً مِّمَّا تَأْكُلُونَ
+(and that (the harvest) which you reap you shall leave it in the ears, (all) except a little of it which you may eat.) He said, `Whatever you harvest during those seven fertile years, leave it in the ears so as to preserve it better. This will help the harvest stay healthy longer, except the amount that you need to eat, which should not be substantial. Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows. During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream. Yusuf told them that during these years, the remaining ears will not produce anything and whatever they try to plant, will not produce any harvest, so he said, 
+يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلاَّ قَلِيلاً مِّمَّا تُحْصِنُونَ
+(which will devour what you have laid by in advance for them, (all) except a little of that which you have guarded (stored).) He delivered the good news to them that after the consecutive years of drought, there will come a fertile year, during which people will receive rain and the land will produce in abundance. The people will then press wine and oil as usual.
+
+---
+
+### Verse 12:44
+
+
+
+---
+
+### Verse 12:45
+
+
+
+---
+
+### Verse 12:46
+
+
+
+---
+
+### Verse 12:47
+
+
+
+---
+
+### Verse 12:48
+
+
+
+---
+
+### Verse 12:49
+
+
+
+---
+
+### Verse 12:50
+
+### The King investigates what happened between the Wife of the `Aziz, the Women in the City, and Yusuf
+
+Allah narrates to us that when the king was conveyed the interpretation of his dream, he liked Yusuf's interpretation and felt sure that it was true. He realized the virtue of Prophet Yusuf, recognized his knowledge in the interpretation of dreams and valued his good conduct with his subjects in his country. The king said,
+
+ائْتُونِى بِهِ
+
+(Bring him to me.) `Release him from prison and bring him to me.' When the king's emissary came to Yusuf and conveyed the news of his imminent release, Yusuf refused to leave the prison until the king and his subjects declare his innocence and the integrity of his honor, denouncing the false accusation that the wife of the `Aziz made against him. He wanted them to know that sending him to prison was an act of injustice and aggression, not that he committed an offense that warranted it. He said,
+
+ارْجِعْ إِلَى رَبِّكَ
+
+(Return to your lord (i.e. king...) The Sunnah of our Prophet praised Prophet Yusuf and asserted his virtues, honor, elevated rank and patience, may Allah's peace and blessings be on him. The Musnad and the Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+«نَحْنُ أَحَقُّ بِالشَّكِّ مِنْ إِبْرَاهِيمَ إِذْ قَال»
+
+(We are more liable to be in doubt than Ibrahim when he said,)
+
+رَبِّ أَرِنِى كَيْفَ تُحْىِ الْمَوْتَى
+
+(My Lord! Show me how You give life to the dead. ..)
+
+«وَيَرْحَمُ اللهُ لُوطًا لَقَدْ كَانَ يَأْوِي إِلَى رُكْنٍ شَدِيدٍ، وَلَوْ لَبِثْتُ فِي السِّجْنِ مَا لَبِثَ يُوسُفُ لَأَجَبْتُ الدَّاعِي»
+
+(And may Allah send His mercy on Lut! He wished to have powerful support! If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet said about Yusuf's statement,
+
+فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ الَّـتِى قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ
+
+("...and ask him, `What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot."')
+
+«لَوْ كُنْتُ أَنَا، لَأَسْرَعْتُ الْإِجَابَةَ وَمَا ابْتَغَيْتُ الْعُذْر»
+
+(If it was me, I would have accepted the offer rather than await my exoneration first.) Allah said (that the king asked),
+
+قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدتُنَّ يُوسُفَ عَن نَّفْسِهِ
+
+(He said, "What was your affair when you did seek to seduce Yusuf") The king gathered those women who cut their hands, while being hosted at the house of the wife of the `Aziz. He asked them all, even though he was directing his speech at the wife of his minister, the `Aziz in particular. He asked the women who cut their hands,
+
+مَا خَطْبُكُنَّ
+
+(What was your affair...), what was your story with regards to,
+
+إِذْ رَاوَدتُنَّ يُوسُفَ عَن نَّفْسِهِ
+
+(when you did seek to seduce Yusuf) on the day of the banquet
+
+قُلْنَ حَاشَ للَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ
+
+(The women said: "Allah forbid! No evil know we against him!") The women answered the king, `Allah forbid that Yusuf be guilty of this, for by Allah, we never knew him to do evil.' This is when,
+
+قَالَتِ امْرَأَتُ الْعَزِيزِ الَنَ حَصْحَصَ الْحَقُّ
+
+(The wife of the `Aziz said: "Now the truth has Hashasa...") or the truth is manifest to all, according to Ibn `Abbas, Mujahid and others. Hashasa also means, `became clear and plain',
+
+أَنَاْ رَوَدْتُّهُ عَن نَّفْسِهِ وَإِنَّهُ لَمِنَ الصَّـدِقِينَ
+
+(it was I who sought to seduce him, and he is surely of the truthful.) when he said,
+
+هِىَ رَاوَدَتْنِى عَن نَّفْسِى
+
+(It was she that sought to seduce me.)
+
+ذَلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِالْغَيْبِ
+
+(in order that he may know that I betrayed him not in (his) absence. ) She said, `I admit this against myself so that my husband knows that I did not betray him in his absence and that adultery did not occur. I tried to seduce this young man and he refused, and I am admitting this so that he knows I am innocent,'
+
+وَأَنَّ اللَّهَ لاَ يَهْدِى كَيْدَ الْخَـئِنِينَوَمَآ أُبَرِّىءُ نَفْسِى
+
+(And, verily, Allah guides not the plot of the betrayers. And I free not myself (from the blame).) She said, `I do not exonerate myself from blame, because the soul wishes and lusts, and this is what made me seduce him,' for,
+
+النَّفْسَ لأَمَّارَةٌ بِالسُّوءِ إِلاَّ مَا رَحِمَ رَبِّى
+
+(Verily, the (human) self is inclined to evil, except when my Lord bestows His mercy (upon whom He wills).) whom Allah the Exalted wills to grant them immunity,
+
+إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ
+
+(Verily, my Lord is Oft-Forgiving, Most Merciful.) This is the most viable and suitable understanding for the continuity of the story and the meanings of Arabic speech. Al-Mawardi mentioned this in his Tafsir, in support of it, it was also preferred by Imam Abu Al-`Abbas Ibn Taymiyyah who wrote about it in detail in a separate work. It was said Yusuf peace be upon him is the one who said,
+
+ذَلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ
+
+(in order that he (the `Aziz) may know that I betrayed him not) with his wife,
+
+بِالْغَيْبِ
+
+(in (his) absence).) until the end of Ayah (53) He said, `I sent back the emissary, so that the king would investigate my innocence and the `Aziz be certain that,
+
+أَنِّى لَمْ أَخُنْهُ
+
+(I betrayed him not), with his wife,
+
+بِالْغَيْبِ وَأَنَّ اللَّهَ لاَ يَهْدِى كَيْدَ الْخَـئِنِينَ
+
+(in (his) absence. And, verily, Allah guides not the plot of the betrayers.)' This is the only explanation presented by Ibn Jarir At-Tabari and Ibn Abi Hatim, but the first view is stronger and more obvious because it is a continuation of what the wife of the `Aziz said in the presence of the king. Yusuf was not present at all during this time, for he was released later on and brought to the king by his order.
+
+---
+
+### Verse 12:51
+
+
+
+---
+
+### Verse 12:52
+
+
+
+---
+
+### Verse 12:53
+
+
+
+---
+
+### Verse 12:54
+
+### Yusuf's Rank with the King of Egypt
+
+Allah states that when he became aware of Yusuf's innocence and his innocense of what he was accused of, the king said, 
+ائْتُونِى بِهِ أَسْتَخْلِصْهُ لِنَفْسِى
+(Bring him to me that I may attach him to my person.), `that I may make him among my close aids and associates,' 
+فَلَمَّا كَلَّمَهُ
+(Then, when he spoke to him), when the king spoke to Yusuf and further recognized his virtues, great ability, brilliance, good conduct and perfect mannerism, he said to him, 
+إِنَّكَ الْيَوْمَ لَدَيْنَا مِكِينٌ أَمِينٌ
+(Verily, this day, you are with us high in rank and fully trusted.) The king said to Yusuf, `You have assumed an exalted status with us and are indeed fully trusted.' Yusuf, peace be upon him said, 
+اجْعَلْنِى عَلَى خَزَآئِنِ الاٌّرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
+(Set me over the storehouses of the land; I will indeed guard them with full knowledge.) Yusuf praised himself, for this is allowed when one's abilities are unknown and there is a need to do so. He said that he is, 
+حَفِيظٌ
+(Hafiz), an honest guard, 
+عَلِيمٌ
+(`Alim), having knowledge and wisdom about the job he is to be entrusted with. Prophet Yusuf asked the king to appoint him as minister of finance for the land, responsible for the harvest storehouses, in which they would collect produce for the years of drought which he told them will come. He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way. The king accepted Yusuf's offer, for he was eager to draw Yusuf close to him and to honor him. So Allah said,
+
+---
+
+### Verse 12:55
+
+
+
+---
+
+### Verse 12:56
+
+### Yusuf's Reign in Egypt
+
+Allah said next, 
+وَكَذلِكَ مَكَّنَّا لِيُوسُفَ فِى الاٌّرْضِ
+(Thus did We give full authority to Yusuf in the land), in Egypt, 
+يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ
+(to take possession therein, when or where he likes.) As-Suddi and `Abdur-Rahman bin Zayd bin Aslam said that this part of the Ayah means, "To do whatever he wants therein." Ibn Jarir at Tabari said that it means, "He used to move about freely in the land after being imprisoned, suffering from hardship and the disgrace of slavery." Allah said next, 
+نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلاَ نُضِيعُ أَجْرَ الْمُحْسِنِينَ
+(We bestow of Our mercy on whom We will, and We make not to be lost the reward of the good doers.) Allah says here, We did not let the patience of Yusuf, from the harm his brothers exerted on him and being imprisoned because of the wife of the `Aziz, to be lost. Instead, Allah the Exalted and Most Honored rewarded him with His aid and victory, 
+وَكَذَلِكَ مَكَّنَّا لِيُوسُفَ فِى الاٌّرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلاَ نُضِيعُ أَجْرَ الْمُحْسِنِينَ - وَلاّجْرُ الاٌّخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ 
+(And We make not to be lost the reward of the good doers. And verily, the reward of the Hereafter is better for those who believed and had Taqwa.) Allah states that what He has prepared for His Prophet Yusuf, peace be upon him, in the Hereafter is much greater, subs- tantial and honored than the authority He gave him in this life. Allah said about His Prophet Sulayman (Solomon), peace be upon him, 
+هَـذَا عَطَآؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ - وَإِنَّ لَهُ عِندَنَا لَزُلْفَى وَحُسْنَ مَـَابٍ 
+("This is Our gift, so spend or withhold, no account will be asked of you." And verily, for him is a near access to Us, and a good (final) return (Paradise).) 38:39-40 Yusuf, peace be upon him, was appointed minister of finance by Ar-Rayyan bin Al-Walid, king of Egypt at the time, instead of the `Aziz who bought him and the husband of she who tried to seduce him. The king of Egypt embraced Islam at the hands of Yusuf, peace be upon him, according to Mujahid.
+
+---
+
+### Verse 12:57
+
+
+
+---
+
+### Verse 12:58
+
+### Yusuf's Brothers travel to Egypt
+
+As-Suddi, Muhammad bin Ishaq and several others said that the reason why Yusuf's brothers went to Egypt, is that after Yusuf became minister of Egypt and the seven years of abundance passed, then came the seven years of drought that struck all areas of Egypt. The drought also reached the area of Kana`an (Canaan), where Prophet Ya`qub, peace be upon him, and his children resided. Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people. This also permitted Yusuf to give gifts to the people who sought his aid from various areas who came to buy food and provisions for their families. Yusuf would not give a family man more than whatever a camel could carry, as annual provisions for them. Yusuf himself did not fill his stomach from this food, nor did the king and his aids eat except one meal a day. By doing so, the people could sustain themselves with what they had for the remainder of the seven years. Indeed, Yusuf was a mercy from Allah sent to the people of Egypt. Yusuf's brothers were among those who came to Egypt to buy food supplies, by the order of their father. They knew that the `Aziz of Egypt was selling food to people who need it for a low price, so they took some merchandise from their land with them to exchange it for food. They were ten, because Ya`qub peace be upon him kept his son and Yusuf's brother Binyamin with him. Binyamin was the dearest of his sons to him after Yusuf. When Prophet Yusuf's brothers entered on him in his court and the center of his authority, he knew them the minute he saw them. However, they did not recognize him because they got rid of him when he was still young, and sold him to a caravan of travelers while unaware of their destination. They could not have imagined that Yusuf would end up being a minister, and this is why they did not recognize him, while he did recognize them. As-Suddi said that Yusuf started talking to his brothers and asked them, "What brought you to my land" They said, "O, `Aziz, we came to buy provisions." He asked them, "You might be spies." They said, "Allah forbids." He asked them, "Where are you from" They said, "From the area of Kana`an, and our father is Allah's Prophet Ya`qub." He asked them, "Does he have other children besides you" They said, "Yes, we were twelve brothers. Our youngest died in the desert, and he used to be the dearest to his father. His full brother is alive and his father kept him, so that his closeness compensates him for losing our youngest brother who died." Yusuf ordered that his brothers be honored and allowed to remain, 
+وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ
+(And when he furnished them with their provisions,) according to their needs and gave them what they wanted to buy, he said to them, "Bring me your brother from your father's side whom you mentioned, so that I know that you have told me the truth." He continued, 
+أَلاَ تَرَوْنَ أَنِّى أُوفِى الْكَيْلَ وَأَنَاْ خَيْرُ الْمُنْزِلِينَ
+(See you not that I give full measure, and that I am the best of the hosts) encouraging them to return to him. He then threatened them, 
+فَإِن لَّمْ تَأْتُونِى بِهِ فَلاَ كَيْلَ لَكُمْ عِندِى
+(But if you bring him not to me, there shall be no measure (of corn) for you with me. ) He threatened them that if the next time they come without Binyamin with them, they will not be allowed to buy the food that they need, 
+فَإِن لَّمْ تَأْتُونِى بِهِ فَلاَ كَيْلَ لَكُمْ عِندِى وَلاَ تَقْرَبُونِ - قَالُواْ سَنُرَوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـعِلُونَ 
+("...nor shall you come near me." They said: "We shall try to get permission (for him) from his father, and verily, we shall do it.") They said, `We will try our best to bring him with us, so that we spare no effort to prove to you that we are truthful in what we told you about ourselves.' Allah said, 
+وَقَالَ لِفِتْيَانِهِ
+(And Yusuf told his servants), or his slaves, 
+اجْعَلُواْ بِضَـعَتَهُمْ
+(to put their money), or the merchandise they brought with them to exchange for food, 
+فِى رِحَالِهِمْ
+(into their bags,), while they were unaware, 
+لَعَلَّهُمْ يَرْجِعُونَ
+(in order that they might come again.) It was said that Yusuf did this because he feared that his brothers might not have any more merchandise they could bring with them to exchange for food.
+
+---
+
+### Verse 12:59
+
+
+
+---
+
+### Verse 12:60
+
+
+
+---
+
+### Verse 12:61
+
+
+
+---
+
+### Verse 12:62
+
+
+
+---
+
+### Verse 12:63
+
+### Yusuf's Brothers ask Ya`qub's Permission to send Their Brother Binyamin with Them to Egypt
+
+Allah says that when they went back to their father, 
+قَالُواْ يأَبَانَا مُنِعَ مِنَّا الْكَيْلُ
+(they said: "O our father! No more measure of grain shall we get...") `after this time, unless you send our brother Binyamin with us. So send him with us, and we shall get our measure and we shall certainly guard him.' Some scholars read this Ayah in a way that means, `and he shall get his ration.' They said, 
+وَإِنَّا لَهُ لَحَـفِظُونَ
+(and truly, we will guard him.), `do not fear for his safety, for he will be returned back to you.' This is what they said to Ya`qub about their brother Yusuf, 
+أَرْسِلْهُ مَعَنَا غَداً يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَـفِظُونَ 
+("Send him with us tomorrow to enjoy himself and play, and verily, we will take care of him.") 12:12 This is why Prophet Ya`qub said to them, 
+هَلْ آمَنُكُمْ عَلَيْهِ إِلاَّ كَمَآ أَمِنتُكُمْ عَلَى أَخِيهِ مِن قَبْلُ
+(Can I entrust him to you except as I entrusted his brother Yusuf to you aforetime) He asked them, `Will you do to him except what you did to his brother Yusuf before, when you took him away from me and separated me from him' 
+فَاللَّهُ خَيْرٌ حَـفِظًاوَهُوَ أَرْحَمُ الرَحِمِينَ
+(But Allah is the Best to guard, and He is the Most Merciful of those who show mercy.) Ya`qub said, `Allah has the most mercy with me among all those who show mercy, He is compassionate with me for my old age, feebleness and eagerness for my son. I invoke Allah to return him to me, and to allow him and I to be together; for surely, He is the Most Merciful of those who show mercy.'
+
+---
+
+### Verse 12:64
+
+
+
+---
+
+### Verse 12:65
+
+### They find Their Money returned to Their Bags
+
+Allah says, when Yusuf's brothers opened their bags, they found their merchandise inside them, for Yusuf had ordered his servants to return it to their bags. When they found their merchandise in their bags, 
+قَالُواْ يأَبَانَا مَا نَبْغِى
+(They said: "O our father! What (more) can we desire..."), what more can we ask for, 
+هَـذِهِ بِضَـعَتُنَا رُدَّتْ إِلَيْنَا
+(This, our money has been returned to us;) Qatadah commented (that they said), "What more can we ask for, our merchandise was returned to us and the `Aziz has given us the sufficient load we wanted" They said next, 
+وَنَمِيرُ أَهْلَنَا
+(so we shall get (more) food for our family,), `if you send our brother with us the next time we go to buy food for our family,' 
+وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ
+(and we shall guard our brother and add one more measure of a camel's load.) since Yusuf, peace be upon him, gave each man a camel's load of corn. 
+ذلِكَ كَيْلٌ يَسِيرٌ
+(This quantity is easy (for the king to give).) They said these words to make their case more appealing, saying that taking their brother with them is worth this gain, 
+قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّى تُؤْتُونِ مَوْثِقًا مِّنَ اللَّهِ
+(He Ya`qub (Jacob) said: "I will not send him with you until you swear a solemn oath to me in Allah's Name..."), until you swear by Allah with the strongest oath, 
+لَتَأْتُنَّنِى بِهِ إِلاَّ أَن يُحَاطَ بِكُمْ
+(that you will bring him back to me unless you are yourselves surrounded (by enemies)), unless you were all overwhelmed and were unable to rescue him, 
+فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ
+(And when they had sworn their solemn oath), he affirmed it further, saying, 
+اللَّهُ عَلَى مَا نَقُولُ وَكِيلٌ
+(Allah is the Witness to what we have said.) Ibn Ishaq commented, "Ya`qub did that because he had no choice but to send them to bring necessary food supplies for their survival. So he sent Binyamin with them."
+
+---
+
+### Verse 12:66
+
+
+
+---
+
+### Verse 12:67
+
+### Ya`qub orders His Children to enter Egypt from Different Gates
+
+Allah says that Ya`qub, peace be upon him, ordered his children, when he sent Binyamin with them to Egypt, to enter from different gates rather than all of them entering from one gate. Ibn `Abbas, Muhammad bin Ka`b, Mujahid, Ad-Dahhak Qatadah, As-Suddi and several others said that he feared the evil eye for them, because they were handsome and looked beautiful and graceful. He feared that people might direct the evil eye at them, because the evil eye truly harms, by Allah's decree, and brings down the mighty warrior-rider from his horse. He next said, l 
+وَمَآ أُغْنِى عَنكُمْ مِّنَ اللَّهِ مِن شَىْءٍ
+(and I cannot avail you against Allah at all.) this precaution will not resist Allah's decision and appointed decree. Verily, whatever Allah wills, cannot be resisted or stopped, 
+إِنِ الْحُكْمُ إِلاَّ للَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَوَلَمَّا دَخَلُواْ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُمْ مِّنَ اللَّهِ مِن شَىْءٍ إِلاَّ حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَاهَا
+("Verily, the decision rests only with Allah. In Him, I put my trust and let all those that trust, put their trust in Him." And when they entered according to their father's advice, it did not avail them in the least against (the will of) Allah; it was but a need of Ya`qub's inner self which he discharged. ), as a precaution against the evil eye, 
+وَإِنَّهُ لَذُو عِلْمٍ لِّمَا عَلَّمْنَاهُ
+(And verily, he was endowed with knowledge because We had taught him,) he had knowledge that he implemented, according to Qatadah and Ath-Thawri. Ibn Jarir said that this part of the Ayah means, he has knowledge that We taught him, 
+وَلَـكِنَّ أَكْثَرَ النَّاسِ لاَ يَعْلَمُونَ
+(but most men know not.)
+
+---
+
+### Verse 12:68
+
+
+
+---
+
+### Verse 12:69
+
+### Yusuf comforts Binyamin
+
+Allah states that when Yusuf's brothers went in before him along with his full brother Binyamin, he invited them to a place of honor as privileged guests. He granted them gifts and generous hospitality and kindness. He met his brother in confidence and told him the story of what happened to him and that he was in fact his brother. He said to him, 
+لاتَبْتَئِسْ
+`(grieve not) nor feel sad for what they did to me.' He ordered Binyamin to hide the news from them and to refrain from telling them that the `Aziz is his brother Yusuf. He plotted with him to keep him in Egypt enjoying honor and great hospitality.
+
+---
+
+### Verse 12:70
+
+### Yusuf had His Golden Bowl placed in Binyamin's Bag; a Plot to keep Him in Egypt
+
+After Yusuf supplied them with their provisions, he ordered some of his servants to place his silver bowl (in Binyamin's bag), according to the majority of scholars. Some scholars said that the king's bowl was made from gold. Ibn Zayd added that the king used it to drink from, and later, measured food grains with it since food became scarce in that time, according to Ibn `Abbas, Mujahid, Qatadah, Ad-Dahhak and `Abdur-Rahman bin Zayd. Shu`bah said that Abu Bishr narrated that Sa`id bin Jubayr said that Ibn `Abbas said that the king's bowl was made from silver and he used it to drink with. Yusuf had the bowl placed in Binyamin's bag while they were unaware, and then had someone herald, 
+أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ
+(O you (in) the caravan! Surely, you are thieves!) They looked at the man who was heralding this statement and asked him, 
+مَّاذَا تَفْقِدُونَقَالُواْ نَفْقِدُ صُوَاعَ الْمَلِكِ
+("What is it that you have lost" They said: "We have lost the bowl of the king..."), which he used to measure food grains, 
+وَلِمَن جَآءَ بِهِ حِمْلُ بَعِيرٍ
+(and for him who produces it is a camel load), as a reward, 
+وَأَنَاْ بِهِ زَعِيمٌ
+(and I will be bound by it.), as assurance of delivery of the reward.
+
+---
+
+### Verse 12:71
+
+
+
+---
+
+### Verse 12:72
+
+
+
+---
+
+### Verse 12:73
+
+تَاللَّهِ لَقَدْ عَلِمْتُمْ مَّا جِئْنَا لِنُفْسِدَ فِى الاٌّرْضِ وَمَا كُنَّا سَـرِقِينَ
+(By Allah! Indeed you know that we came not to make mischief in the land, and we are no thieves!) `Ever since you knew us, you, due to our good conduct, became certain that, 
+مَّا جِئْنَا لِنُفْسِدَ فِى الاٌّرْضِ وَمَا كُنَّا سَـرِقِينَ
+(we came not to make mischief in the land, and we are no thieves!) They said, `Theft is not in our character, as you came to know.' Yusuf's men said, 
+فَمَا جَزَآؤُهُ
+`(What then shall be the penalty of him), in reference to the thief, if it came out that he is one of you,' 
+إِن كُنتُمْ كَـذِبِينَ
+(if you are (proved to be) liars) They asked them, `What should be the thief's punishment if he is one of you' 
+قَالُواْ جَزؤُهُ مَن وُجِدَ فِى رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَلِكَ نَجْزِى الظَّـلِمِينَ 
+(They said: "His penalty should be that he, in whose bag it is found, should be held for the punishment. Thus we punish the wrongdoers!") This was the law of Prophet Ibrahim, peace be upon him, that the thief be given as a slave to the victim of theft. This is what Yusuf wanted, and this is why he started with their bags first before his brother's bag, to perfect the plot, 
+ثُمَّ اسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
+(Then he brought it out of his brother's bag.) Therefore, Yusuf took Binyamin as a slave according to their judgement and the law which they believed in. So Allah said; 
+كَذَلِكَ كِدْنَا لِيُوسُفَ
+(Thus did We plan for Yusuf.) and this is a good plot that Allah likes and prefers, because it seeks a certain benefit using wisdom and the benefit of all. Allah said next, 
+مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ الْمَلِكِ
+(He could not take his brother by the law of the king,) as a captive, for this was not the law of king of Egypt, according to Ad-Dahhak and several other scholars. Allah only allowed Yusuf to take his brother as a captive after his brothers agreed to this judgement beforehand, and he knew that this was their law. This is why Allah praised him when He said, 
+نَرْفَعُ دَرَجَـتٍ مَّن نَّشَآءُ
+(We raise to degrees whom We will,) just as He said in another Ayah, 
+يَرْفَعِ اللَّهُ الَّذِينَ ءَامَنُواْ مِنكُمْ
+(Allah will exalt in degree those of you who believe.) 58:11 Allah said next, 
+وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
+(but over all those endowed with knowledge is the All-Knowing.) Al-Hasan commented, "There is no knowledgeable person, but there is another person with more knowledge until it ends at Allah the Exalted and Most Honored. In addition, `Abdur-Razzaq recorded that Sa`id bin Jubayr said, "We were with Ibn `Abbas when he narrated an amazing Hadith. A man in the audience said, `All praise is to Allah! There is an all-knowing above every person endowed with knowledge.' Ibn `Abbas responded, `Worse it is that which you said! Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that `Ikrimah said that Ibn `Abbas said about Allah's statement, 
+وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
+(but over all those endowed with knowledge is the All-Knowing (Allah).) "This person has more knowledge than that person, and Allah is above all knowledgeable persons." Similar was narrated from `Ikrimah. Qatadah said, "Over every person endowed with knowledge is a more knowledgeable person until all knowledge ends with Allah. Verily, knowledge started from Allah, and from Him the scholars learn, and to Him all knowledge returns." `Abdullah bin Mas`ud read the Ayah this way, (وَفَوْقَ كُلِّ عَالِمٍ عَلِيمٌ) "And above every scholar, is the All-Knower (Allah)."
+
+---
+
+### Verse 12:74
+
+
+
+---
+
+### Verse 12:75
+
+
+
+---
+
+### Verse 12:76
+
+
+
+---
+
+### Verse 12:77
+
+### Yusuf's Brothers accuse Him of Theft!
+
+After Yusuf's brothers saw that the king's bowl was taken out of Binyamin's bag, they said, 
+إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُ مِن قَبْلُ
+(If he steals, there was a brother of his who did steal before.) They tried to show themselves as innocent from being like Binyamin, saying that he did just like a brother of his did beforehand, meaning Yusuf, peace be upon him! Allah said, 
+فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِ
+(But these things did Yusuf keep in himself), meaning the statement that he said afterwards, 
+أَنْتُمْ شَرٌّ مَّكَاناً وَاللَّهُ أَعْلَمْ بِمَا تَصِفُونَ
+(You are in an evil situation, and Allah is the Best Knower of that which you describe!) Yusuf said this to himself and did not utter it aloud, thus intending to hide what he wanted to say to himself even before he said it. Al-`Awfi reported that Ibn `Abbas said about Allah's statement, 
+فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِ
+(But these things did Yusuf keep in himself), "He kept in himself his statement next, 
+أَنْتُمْ شَرٌّ مَّكَاناً وَاللَّهُ أَعْلَمْ بِمَا تَصِفُونَ
+(You are in an evil situation, and Allah is the Best Knower of that which you describe!)."
+
+---
+
+### Verse 12:78
+
+### Yusuf's Brothers offer taking One of Them instead of Binyamin as a Slave, Yusuf rejects the Offer
+
+When it was decided that Benyamin was to be taken and kept with Yusuf according to the law they adhered by, Yusuf's brothers started requesting clemency and raising compassion in his heart for them, 
+قَالُواْ يأَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا
+(They said, "O `Aziz! Verily, he has an old father...") who loves him very much and is comfor- ted by his presence from the son that he lost, 
+فَخُذْ أَحَدَنَا مَكَانَهُ
+(so take one of us in his place.), instead of Binyamin to remain with you, 
+إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ
+(Indeed we think that you are one of the doers of good.), the good doers, just, and accepting fairness, 
+قَالَ مَعَاذَ اللَّهِ أَن نَّأْخُذَ إِلاَّ مَن وَجَدْنَا مَتَـعَنَا عِندَهُ
+(He said: "Allah forbid, that we should take anyone but him with whom we found our property..."), `according to the judgement that you gave for his punishment, 
+إِنَّـآ إِذًا لَّظَـلِمُونَ
+(Indeed, we should be wrongdoers.), if we take an innocent man instead of the guilty man. '
+
+---
+
+### Verse 12:79
+
+
+
+---
+
+### Verse 12:80
+
+### Allah's Prophet Ya`qub receives the Grievous News
+
+Allah's Prophet Ya`qub repeated to his children the same words he said to them when they brought false blood on Yusuf' shirt,
+
+بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ
+
+(Nay, but your own selves have beguiled you into something. So patience is most fitting (for me).) Muhammad bin Ishaq said, "When they went back to Ya`qub and told him what happened, he did not believe them and thought that this was a repetition of what they did to Yusuf. So he said,
+
+بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ
+
+(Nay, but your own selves have beguiled you into something. So patience is most fitting (for me).) Some said that since this new development came after what they did before to Yusuf, they were given the same judgement to this later incident that was given to them when they did what they did to Yusuf. Therefore, Ya`qub's statement here is befitting,
+
+بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ
+
+(Nay, but your own selves have beguiled you into something. So patience is most fitting (for me).) He then begged Allah to bring back his three sons: Yusuf, Binyamin and Rubil to him." Rubil had remained in Egypt awaiting Allah's decision about his case, either his father's permission ordering him to go back home, or to secure the release of his brother in confidence. This is why Ya`qub said,
+
+عَسَى اللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ
+
+(May be Allah will bring them (back) all to me. Truly, He! Only He is All-Knowing,), in my distress,
+
+الْحَكِيمُ
+
+(the All-Wise), in His decisions and the decree and preordainment He appoints. Allah said next,
+
+وَتَوَلَّى عَنْهُمْ وَقَالَ يأَسَفَا عَلَى يُوسُفَ
+
+(And he turned away from them and said: "Alas, my grief for Yusuf!") He turned away from his children and remembered his old grief for Yusuf,
+
+يأَسَفَا عَلَى يُوسُفَ
+
+(Alas, my grief for Yusuf!) The new grief, losing Binyamin and Rubil, renewed his old sadness that he kept to himself. `Abdur-Razzaq narrated that Ath-Thawri said that Sufyan Al-`Usfuri said that Sa`id bin Jubayr said, "Only this nation the following of Prophet Muhammad ﷺ were given Al-Istirja'. Have you not heard the statement of Ya`qub, peace be upon him,
+
+يأَسَفَا عَلَى يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ
+
+("Alas, my grief for Yusuf !" And he lost his sight because of the sorrow that he was suppressing. )" Ya`qub suppressed his sorrow and did not complain to a created being, according to Qatadah and other scholars. Ad-Dahhak also commented, "Ya`qub was aggrieved, sorrowful and sad." Ya`qub's children felt pity for him and said, while feeling sorrow and compassion,
+
+تَالله تَفْتَأُ تَذْكُرُ يُوسُفَ
+
+(By Allah! You will never cease remembering Yusuf), `you will keep remembering Yusuf,
+
+حَتَّى تَكُونَ حَرَضاً
+
+(until you become weak with old age,), until your strength leaves you,'
+
+أَوْ تَكُونَ مِنَ الْهَـلِكِينَ
+
+(or until you be of the dead.) They said, `if you continue like this, we fear for you that you might die of grief,'
+
+قَالَ إِنَّمَآ أَشْكُو بَثِّى وَحُزْنِى إِلَى اللَّهِ
+
+(He said: "I only complain of my grief and sorrow to Allah.") When they said these words to him, Ya`qub said,
+
+إِنَّمَآ أَشْكُو بَثِّى وَحُزْنِى
+
+`(I only complain of my grief and sorrow) for the afflictions that struck me,
+
+إِلَى اللَّهِ
+
+(to Allah, ) alone,
+
+وَأَعْلَمُ مِنَ اللَّهِ مَا لاَ تَعْلَمُونَ
+
+(and I know from Allah that which you know not.) I anticipate from Allah each and every type of goodness.' Ibn `Abbas commented on the meaning of,
+
+وَأَعْلَمُ مِنَ اللَّهِ مَا لاَ تَعْلَمُونَ
+
+(and I know from Allah that which you know not.) "The vision that Yusuf saw is truthful and Allah will certainly make it come true."
+
+---
+
+### Verse 12:81
+
+
+
+---
+
+### Verse 12:82
+
+
+
+---
+
+### Verse 12:83
+
+
+
+---
+
+### Verse 12:84
+
+
+
+---
+
+### Verse 12:85
+
+
+
+---
+
+### Verse 12:86
+
+
+
+---
+
+### Verse 12:87
+
+### Ya`qub orders His Children to inquire about Yusuf and His Brother
+
+Allah states that Ya`qub, peace be upon him, ordered his children to go back and inquire about the news of Yusuf and his brother Binyamin, in a good manner, not as spies. He encouraged them, delivered to them the good news and ordered them not to despair of Allah's mercy. He ordered them to never give up hope in Allah, nor to ever discontinue trusting in Him for what they seek to accomplish. He said to them that only the disbelieving people despair of Allah's mercy. 
+
+### Yusuf's Brothers stand before Him
+
+Allah said next, 
+فَلَمَّا دَخَلُواْ عَلَيْهِ
+(Then, when they entered unto him), when they went back to Egypt and entered upon Yusuf, 
+قَالُواْ يأَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ
+(they said: "O Aziz! A hard time has hit us and our family..."), because of severe droughts and the scarcity of food, 
+وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ
+(and we have brought but poor capital,) means, `we brought money for the food we want to buy, but it is not substantial,' according to Mujahid, Al-Hasan and several others. Allah said that they said next, 
+فَأَوْفِ لَنَا الْكَيْلَ
+(so pay us full measure) meaning, `in return for the little money we brought, give us the full measure that you gave us before.' Ibn Mas`ud read this Ayah in a way that means, "So give the full load on our animals and be charitable with us." Ibn Jurayj commented, "So be charitable to us by returning our brother to us." And when Sufyan bin `Uyaynah was asked if the Sadaqah (charity) was prohibited for any Prophet before our Prophet , he said, "Have you not heard the Ayah, 
+فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ إِنَّ اللَّهَ يَجْزِى الْمُتَصَدِّقِينَ
+(so pay us full measure and be charitable to us. Truly, Allah does reward the charitable.)" Ibn Jarir At-Tabari collected this statement.
+
+---
+
+### Verse 12:88
+
+
+
+---
+
+### Verse 12:89
+
+### Yusuf reveals His True Identity to His Brothers and forgives Them
+
+Allah says, when Yusuf's brothers told him about the afflictions and hardship, and shortages in food they suffered from in the aftermath of the drought that struck them, and he remembered his father's grief for losing his two children, he felt compassion, pity and mercy for his father and brothers. He felt this way, especially since he was enjoying kingship, authority and power, so he cried and revealed his true identity to them when he asked them, 
+هَلْ عَلِمْتُمْ مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَـهِلُونَ
+(Do you know what you did with Yusuf and his brother, when you were ignorant) meaning, `when you separated between Yusuf and his brother,' 
+إِذْ أَنتُمْ جَـهِلُونَ
+(when you were ignorant) He said, `What made you do this is your ignorance of the tremendous sin you were about to commit.' It appears, and Allah knows best, that Yusuf revealed his identity to his brothers only then by Allah's command, just as he hid his identity from them in the first two meetings, by Allah's command. When the affliction became harder, Allah sent His relief from that affliction, just as He said He does, 
+فَإِنَّ مَعَ الْعُسْرِ يُسْراً - إِنَّ مَعَ الْعُسْرِ يُسْراً 
+(Verily, along with every hardship is relief. Verily, along with every hardship is relief.)94:5-6 This is when they said to Yusuf, 
+أَءِنَّكَ لاّنتَ يُوسُفُ
+(Are you indeed Yusuf), in amazement, because they had been meeting him for more than two years while unaware of who he really was. Yet, he knew who they were and hid this news from them. Therefore, they asked in astonishment, 
+أَءِنَّكَ لاّنتَ يُوسُفُ قَالَ أَنَاْ يُوسُفُ وَهَـذَا أَخِى
+(Are you indeed Yusuf He said: "I am Yusuf, and this is my brother...") Yusuf said next, 
+قَدْ مَنَّ اللَّهُ عَلَيْنَآ
+`(Allah has indeed been gracious to us.) by gathering us together after being separated all this time,' 
+إِنَّهُ مَن يَتَّقِ وَيِصْبِرْ فَإِنَّ اللَّهَ لاَ يُضِيعُ أَجْرَ الْمُحْسِنِينَقَالُواْ تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا
+("Verily, he who has Taqwa, and is patient, then surely, Allah makes not the reward of the gooddoers to be lost." They said: "By Allah! Indeed Allah has preferred you above us.") They affirmed Yusuf's virtue above them, being blessed with beauty, conduct, richness, kingship, authority and, above all, prophethood. They admitted their error and acknowledged that they made a mistake against him, 
+قَالَ لاَ تَثْرَيبَ عَلَيْكُمُ الْيَوْمَ
+(He said: "No reproach on you this day.") He said to them, `There will be no blame for you today or admonishment, and I will not remind you after today of your error against me.' He then multiplied his generosity by invoking Allah for them for mercy, 
+يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَحِمِينَ
+(may Allah forgive you, and He is the Most Merciful of those who show mercy!)
+
+---
+
+### Verse 12:90
+
+
+
+---
+
+### Verse 12:91
+
+
+
+---
+
+### Verse 12:92
+
+
+
+---
+
+### Verse 12:93
+
+### Ya`qub finds the Scent of Yusuf in his Shirt!
+
+Yusuf said, `Take this shirt of mine, 
+فَأَلْقُوهُ عَلَى وَجْهِ أَبِى يَأْتِ بَصِيرًا
+(and cast it over the face of my father, his vision will return),' because Ya`qub had lost his sight from excessive crying, 
+وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ
+(and bring to me all your family.) all the children of Ya`qub. 
+وَلَمَّا فَصَلَتِ الْعِيرُ
+(And when the caravan departed) from Egypt, 
+قَالَ أَبُوهُمْ
+(their father said...), Ya`qub, peace be upon him, said to the children who remained with him, 
+إِنِّى لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ
+`(I do indeed feel the smell of Yusuf, if only you think me not senile.), except that you might think me senile because of old age.' `Abdur-Razzaq narrated that Ibn `Abbas said, "When the caravan departed from Egypt, a wind started blowing and brought the scent of Yusuf's shirt to Ya`qub. He said, 
+إِنِّى لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ
+(I do indeed feel the smell of Yusuf , if only you think me not senile.) He found his scent from a distance of eight days away!" Similar was also reported through Sufyan Ath-Thawri and Shu`bah and others reported it from Abu Sinan. Ya`qub said to them, 
+لَوْلاَ أَن تُفَنِّدُونِ
+(if only you think me not senile.) Ibn `Abbas, Mujahid, `Ata, Qatadah and Sa'id bin Jubayr commented, "If only you think me not a fool!" Mujahid and Al-Hasan said that it means, "If only you think me not old." Their answer to him was, 
+إِنَّكَ لَفِى ضَلَـلِكَ الْقَدِيمِ
+(Certainly, you are in your old Dalal.) meaning, `in your old error,' according to Ibn `Abbas. Qatadah commented, "They meant that, `because of your love for Yusuf you will never forget him.' So they uttered a harsh word to their father that they should never have uttered to him, nor to a Prophet of Allah." Similar was said by As-Suddi and others.
+
+---
+
+### Verse 12:94
+
+
+
+---
+
+### Verse 12:95
+
+
+
+---
+
+### Verse 12:96
+
+### Yahudha brings Yusuf's Shirt and Good News
+
+Ibn `Abbas and Ad-Dahhak said; 
+الْبَشِيرُ
+(good news) means information. Mujahid and As-Suddi said that the bearer of good news was Yahudha, son of Ya`qub. As-Suddi added, "He brought it (Yusuf's shirt) because it was he who brought Yusuf's shirt stained with the false blood. So he liked to erase that error with this good act, by bringing Yusuf's shirt and placing it on his father's face. His father's sight was restored to him." Ya`qub said to his children, 
+أَلَمْ أَقُلْ لَّكُمْ إِنِّى أَعْلَمُ مِنَ اللَّهِ مَا لاَ تَعْلَمُونَ
+(Did I not say to you, `I know from Allah that which you know not'), that I know that Allah will return Yusuf to me and that, 
+إِنِّى لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ
+(I do indeed feel the smell of Yusuf, if only you think me not senile.) 
+
+### Yusuf's Brothers feel Sorry and Regretful
+
+This is when Yusuf's brothers said to their father, with humble- ness, 
+قَالُواْ يأَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَـطِئِينَ - قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّى إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ 
+("O our father! Ask forgiveness (from Allah) for our sins, indeed we have been sinners." He said: "I will ask my Lord for forgiveness for you, verily, He! Only He is the Oft-Forgiving, the Most Merciful.") and He forgives those who repent to Him. `Abdullah bin Mas`ud, Ibrahim At-Taymi, `Amr bin Qays, Ibn Jurayj and several others said that Prophet Ya`qub delayed fulfilling their request until the latter part of the night.
+
+---
+
+### Verse 12:97
+
+
+
+---
+
+### Verse 12:98
+
+
+
+---
+
+### Verse 12:99
+
+### Yusuf welcomes His Parents - His Dream comes True
+
+Allah states that Ya`qub went to Yusuf in Egypt. Yusuf had asked his brothers to bring all of their family, and they all departed their area and left Kana`an to Egypt. When Yusuf received news of their approach to Egypt, he went out to receive them. The king ordered the princes and notable people to go out in the receiving party with Yusuf to meet Allah's Prophet Ya`qub, peace be upon him. It is said that the king also went out with them to meet Ya`qub. Yusuf said to his family, after they entered unto him and he took them to himself,
+
+وَقَالَ ادْخُلُواْ مِصْرَ إِن شَآءَ اللَّهُ ءَامِنِينَ
+
+(and said: "Enter Egypt, if Allah wills, in security.") He said to them, `enter Egypt', meaning, `reside in Egypt', and added, `if Allah wills, in security', in reference to the hardship and famine that they suffered. Allah said next,
+
+ءَاوَى إِلَيْهِ أَبَوَيْهِ
+
+(and he took his parents to himself) As-Suddi and `Abdur-Rahman bin Zayd bin Aslam said that his parents were his father and maternal aunt, as his mother had died long ago. Muhammad bin Ishaq and Ibn Jarir At-Tabari said, "His father and mother were both alive." Ibn Jarir added, "There is no evidence that his mother had died before then. Rather, the apparent words of the Qur'an testify that she was alive." This opinion has the apparent and suitable meaning that this story testifies to. Allah said next,
+
+وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ
+
+(And he raised his parents to Al-'Arsh) he raised them to his bedstead where he sat, according to Ibn `Abbas, Mujahid and several others. Allah said,
+
+وَخَرُّواْ لَهُ سُجَّدَا
+
+(and they fell down before him prostrate.) Yusuf's parents and brothers prostrated before him, and they were eleven men,
+
+وَقَالَ يأَبَتِ هَـذَا تَأْوِيلُ رُؤْيَـى مِن قَبْلُ
+
+(And he said: "O my father! This is the Ta'wil (interpretation) of my dream aforetime..."), in reference to the dream that he narrated to his father before,
+
+إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا
+
+(I saw (in a dream) eleven stars...) In the laws of these and previous Prophets, it was allowed for the people to prostrate before the men of authority, when they met them. This practice was allowed in the law of Adam until the law of `Isa, peace be upon them, but was later prohibited in our law. Islam made prostration exclusively for Allah Alone, the Exalted and Most Honored. The implication of this statement was collected from Qatadah and other scholars. When Mu`adh bin Jabal visited the Sham area, he found them prostrating before their priests. When he returned (to Al-Madinah), he prostrated before the Messenger of Allah ﷺ, who asked him,
+
+«مَا هَذَا يَا مُعَاذُ؟»
+
+(What is this, O, Mu`adh) Mu`adh said, "I saw that they prostrate before their priests. However, you, O Messenger of Allah, deserve more to be prostrated before." The Messenger ﷺ said,
+
+«لَوْ كُنْتُ آمِرًا أَحَدًا أَنْ يَسْجُدَ لِأَحَدٍ، لَأَمَرْتُ الْمَرْأَةَ أَنْ تَسْجُدَ لِزَوْجِهَا لِعِظَمِ حَقِّهِ عَلَيْهَا»
+
+(If I were to order anyone to prostrate before anyone else (among the creation), I would have ordered the wife to prostrate before her husband because of the enormity of his right on her.) Therefore, this practice was allowed in previous laws, as we stated. This is why they (Ya`qub and his wife and eleven sons) prostrated before Yusuf, who said at that time,
+
+يأَبَتِ هَـذَا تَأْوِيلُ رُؤْيَـى مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا
+
+(O my father! This is the Ta'wil of my dream aforetime! My Lord has made it come true!) using the word, `Ta'wil', to describe what became of the matter, later on. Allah said in another Ayah,
+
+هَلْ يَنظُرُونَ إِلاَّ تَأْوِيلَهُ يَوْمَ يَأْتِى تَأْوِيلُهُ
+
+(Await they just for its Ta'wil On the Day the event is finally fulfilled...), meaning, on the Day of Judgement what they were promised of good or evil will surely come to them. Yusuf said,
+
+قَدْ جَعَلَهَا رَبِّى حَقًّا
+
+(My Lord has made it come true!) mentioning that Allah blessed him by making his dream come true,
+
+وَقَدْ أَحْسَنَ بَى إِذْ أَخْرَجَنِى مِنَ السِّجْنِ وَجَآءَ بِكُمْ مِّنَ الْبَدْوِ
+
+(He was indeed good to me, when He took me out of the prison, and brought you (all here) out of the bedouin life,) out of the desert, for they lived a bedouin life and raised cattle, according to Ibn Jurayj and others. He also said that they used to live in the Arava, Ghur area of Palestine, in Greater Syria. Yusuf said next,
+
+مِن بَعْدِ أَن نَّزغَ الشَّيْطَـنُ بَيْنِى وَبَيْنَ إِخْوَتِى إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ
+
+(after Shaytan had sown enmity between me and my brothers. Certainly, my Lord is the Most Courteous and Kind unto whom He wills.) for when Allah wills something, He brings forth its reasons and elements of existence, then wills it into existence and makes it easy to attain,
+
+إِنَّهُ هُوَ الْعَلِيمُ
+
+(Truly, He! Only He is the All-Knowing.) what benefits His servants,
+
+الْحَكِيمُ
+
+(the All-Wise.) in His statements, actions, decrees, preordain- ment and what He chooses and wills.
+
+---
+
+### Verse 12:100
+
+
+
+---
+
+### Verse 12:101
+
+### Yusuf begs Allah to die as A Muslim
+
+This is the invocation of Yusuf, the truthful one, to his Lord the Exalted and Most Honored. He invoked Allah after His favor was complete on him by being reunited with his parents and brothers, after He had bestowed on him prophethood and kingship. He begged his Lord the Exalted and Ever High, that as He has perfected His bounty on him in this life, to continue it until the Hereafter. He begged Him that, when he dies, he dies as a Muslim, as Ad-Dahhak said, and to join him with the ranks of the righteous, with his brethren the Prophets and Messengers, may Allah's peace and blessings be on them all. It is possible that Yusuf, peace be upon him, said this supplication while dying. In the Two Sahihs it is recorded that `A'ishah, may Allah be pleased with her, said that while dying, the Messenger of Allah ﷺ was raising his finger and said - thrice,
+
+«اللَّهُمَّ فِي الرَّفِيقِ الْأَعْلَى»
+
+ثَلَاثًا (O Allah to Ar-Rafiq Al-A`la the uppermost, highest company in heaven.) It is also possible that long before he died, Yusuf begged Allah to die as a Muslim and be joined with the ranks of the righteous.
+
+---
+
+### Verse 12:102
+
+### This Story is a Revelation from Allah
+
+Allah narrated to Muhammad ﷺ, the story of Yusuf and his brothers and how Allah raised him over them, giving him the better end, triumph, the sovereignty and wisdom (i.e., prophethood), even though they tried to harm and kill him. Allah said, `This and similar stories are part of the unseen incidents of the past, O Muhammad,
+
+نُوحِيهِ إِلَيْكَ
+
+(which We reveal to you.) and inform you of, O Muhammad, because it carries a lesson, for you to draw from and a reminder to those who defy you.' Allah said next,
+
+وَمَا كُنتَ لَدَيْهِمْ
+
+`(You were not (present) with them), you did not witness their conference nor saw them,
+
+إِذْ أَجْمَعُواْ أَمْرَهُمْ
+
+(when they arranged their plan together,) to throw Yusuf into the well,
+
+وَهُمْ يَمْكُرُونَ
+
+(and (while) they were plotting) against him. We taught you all this through Our Revelation which We sent down to you.' Allah said in other Ayat,
+
+وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُون أَقْلَـمَهُمْ
+
+(You were not with them, when they cast lots with their pens..) and,
+
+وَمَا كُنتَ بِجَانِبِ الْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَى مُوسَى الاٌّمْرَ
+
+(And you were not on the western side, when We made clear to Musa the commandment...) 28:44 until,
+
+وَمَا كُنْتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا
+
+(And you were not at the side of the Tur when We did call.)28:46 Allah also said,
+
+وَمَا كُنتَ ثَاوِياً فِى أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ ءَايَـتِنَا
+
+(And you were not a dweller among the people of Madyan, reciting Our verses to them.) 28:45 Allah states that Muhammad is His Messenger and that He has taught him the news of what occurred in the past, which carry lessons for people to draw from, so that they acquire their safety in their religious affairs as well as their worldly affairs. Yet, most people did not and will not believe, so Allah said,
+
+وَمَآ أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+
+(And most of mankind will not believe even if you desire it eagerly.) Allah said in similar Ayat,
+
+وَإِن تُطِعْ أَكْثَرَ مَن فِى الاٌّرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ
+
+(And if you obey most of those on the earth, they will mislead you far away from Allah's path) 6:116, and,
+
+إِنَّ فِي ذَلِكَ لأَيَةً وَمَا كَانَ أَكْثَرُهُمْ مُّؤْمِنِينَ
+
+(Verily, in this is an Ayah, yet most of them are not believers.) 26:8 Allah said next,
+
+وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ
+
+(And no reward you ask of them for it;) Allah says, `You, O Muhammad, do not ask them in return for this advice and your call to all that is good and righteous, for any price or compensation for delivering it. Rather, you do so seeking Allah's Face and to deliver good and sincere advice to His creatures,
+
+إِنْ هُوَ إِلاَّ ذِكْرٌ لِّلْعَـلَمِينَ
+
+(it (the Qur'an) is no less than a Reminder unto the `Alamin (men and Jinn)) with which they remember, receive guidance and save themselves in this life and the Hereafter.'
+
+---
+
+### Verse 12:103
+
+
+
+---
+
+### Verse 12:104
+
+
+
+---
+
+### Verse 12:105
+
+### People neglect to ponder the Signs before Them
+
+Allah states that most people do not think about His signs and proofs of His Oneness that He created in the heavens and earth. Allah created brilliant stars and rotating heavenly objects and planets, all made subservient. There are many plots of fertile land next to each other on earth, and gardens, solid mountains, lively oceans, with their waves smashing against each other, and spacious deserts. There are many live creatures and others that have died; and animals, plants and fruits that are similar in shape, but different in taste, scent, color and attributes. All praise is due to Allah the One and Only, Who created all types of creations, Who Alone will remain and last forever. It is He Who is unique in His Names and Attributes. Allah said next,
+
+وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلاَّ وَهُمْ مُّشْرِكُونَ
+
+(And most of them believe not in Allah except that they attribute partners unto Him.) Ibn `Abbas commented, "They have a part of faith, for when they are asked, `Who created the heavens Who created the earth Who created the mountains' They say, `Allah did.' Yet, they associate others with Him in worship." Similar is said by Mujahid, `Ata, `Ikrimah, Ash-Sha`bi, Qatadah, Ad-Dahhak and `Abdur-Rahman bin Zayd bin Aslam. In the Sahih, it is recorded that during the Hajj season, the idolators used to say in their Talbiyah: "Here we rush to Your service. You have no partners with You, except a partner with You whom You own but he owns not!" Allah said in another Ayah,
+
+إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
+
+(Verily, joining others in worship with Allah is a great Zulm (wrong) indeed.) 31:13 This indeed is the greatest type of Shirk, associating others with Allah in worship. It is recorded in the Two Sahihs that `Abdullah bin Mas`ud said, "I said, `O Allah's Messenger! What is the greatest sin' He said,
+
+«أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَك»
+
+(That you call a rival to Allah while He alone created you.)" Al-Hasan Al-Basri commented on Allah's statement,
+
+وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلاَّ وَهُمْ مُّشْرِكُونَ
+
+(And most of them believe not in Allah except that they attribute partners unto Him.) "This is the hypocrite; if he performs good deeds, he does so to show off with the people, and he is an idolator while doing this." Al-Hasan was referring to Allah's statement,
+
+إِنَّ الْمُنَـفِقِينَ يُخَـدِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُواْ إِلَى الصَّلَوةِ قَامُواْ كُسَالَى يُرَآءُونَ النَّاسَ وَلاَ يَذْكُرُونَ اللَّهَ إِلاَّ قَلِيلاً
+
+(Verily, the hypocrites seek to deceive Allah, but it is He Who deceives them. And when they stand up for As-Salah, they stand with laziness and to be seen of men, and they do not remember Allah but little.) 4:142 There is another type of hidden Shirk that most people are unaware of. Hammad bin Salamah narrated that `Asim bin Abi An-Najud said that `Urwah said, "Hudhayfah visited an ill man and saw a rope tied around his arm, so he ripped it off while reciting,
+
+وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلاَّ وَهُمْ مُّشْرِكُونَ
+
+(And most of them believe not in Allah except that they attribute partners unto Him.) In a Hadith, from Ibn `Umar collected by At-Tirmidhi who said it was Hasan, the Prophet said,
+
+«مَنْ حَلَفَ بِغَيْرِ اللهِ فَقَدْ أَشْرَك»
+
+(He who swears by other than Allah, commits Shirk.) Imam Ahmad, Abu Dawud and other scholars of Hadith narrated that `Abdullah bin Mas`ud said that the Messenger of Allah ﷺ said,
+
+«إِنَّ الرُّقَى وَالتَّمَائِمَ وَالتِّوَلَةَ شِرْك»
+
+(Verily, Ar-Ruqa, At-Tama'im and At-Tiwalah are all acts of Shirk.) In another narration collected by Ahmad and Abu Dawud, the Prophet said,
+
+«الطِّيَرَةُ شِرْكٌ وَمَا مِنَّا إِلَّا، وَلَكِنَّ اللهَ يُذْهِبُهُ بِالتَّوَكُّل»
+
+(Verily, At-Tiyarah omen is Shirk; everyone might feel a glimpse of it, but Allah dissipates it with Tawakkul.)" Allah said next,
+
+أَفَأَمِنُواْ أَن تَأْتِيَهُمْ غَاشِيَةٌ مِّنْ عَذَابِ اللَّهِ
+
+(Do they then feel secure from the coming against them of the covering veil of the torment of Allah) Allah asks, `Do these idolators who associate others with Allah in the worship, feel secure from the coming of an encompassing torment from where they perceive not' Allah said in other `Ayat,
+
+أَفَأَمِنَ الَّذِينَ مَكَرُواْ السَّيِّئَاتِ أَن يَخْسِفَ اللَّهُ بِهِمُ الاٌّرْضَ أَوْ يَأْتِيَهُمُ الْعَذَابُ مِنْ حَيْثُ لاَ يَشْعُرُونَ - أَوْ يَأْخُذَهُمْ فِى تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ - أَوْ يَأْخُذَهُمْ عَلَى تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَؤُوفٌ رَّحِيمٌ
+
+(Do then those who devise evil plots feel secure that Allah will not sink them into the earth, or that the torment will not seize them from directions they perceive not Or that He may catch them in the midst of their going to and from, so that there be no escape for them (from Allah's punishment) Or that He may catch them with gradual wasting (of their wealth and health) Truly, Your Lord is indeed full of kindness, Most Merciful.) 16:45-47 and,
+
+أَفَأَمِنَ أَهْلُ الْقُرَى أَن يَأْتِيَهُم بَأْسُنَا بَيَـتاً وَهُمْ نَآئِمُونَ - أَوَ أَمِنَ أَهْلُ الْقُرَى أَن يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ
+
+أَفَأَمِنُواْ مَكْرَ اللَّهِ فَلاَ يَأْمَنُ مَكْرَ اللَّهِ إِلاَّ الْقَوْمُ الْخَـسِرُونَ
+
+(Did the people of the towns then feel secure against the coming of Our punishment by night while they were asleep Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing Did they then feel secure against the plan of Allah None feels secure from the plan of Allah except the people who are the losers.) 7:97-99)
+
+---
+
+### Verse 12:106
+
+
+
+---
+
+### Verse 12:107
+
+
+
+---
+
+### Verse 12:108
+
+### The Messenger's ﷺ Way
+
+Allah orders His Messenger to say to mankind and the Jinns that this is his way, meaning, his method, path and Sunnah, concentrating on calling to the testimony that there is no deity worthy of worship except Allah alone without partners. The Messenger ﷺ calls to this testimonial with sure knowledge, certainty and firm evidence. He calls to this way, and those who followed him call to what Allah's Messenger ﷺ called to with sure knowledge, certainty and evidence, whether logical or religious evidence,
+
+وَسُبْحَانَ اللَّهِ
+
+(And Glorified and Exalted be Allah.) This part of the Ayah means, I glorify, honor, revere and praise Allah from having a partner, equal, rival, parent, son, wife, minister or advisor. All praise and honor be to Allah, glorified He is from all that they attribute to Him,
+
+تُسَبِّحُ لَهُ السَّمَـوَتُ السَّبْعُ وَالاٌّرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلاَّ يُسَبِّحُ بِحَمْدَهِ وَلَـكِن لاَّ تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(The seven heavens and the earth and all that is therein, glorify Him, and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft-Forgiving.) 17:44)
+
+---
+
+### Verse 12:109
+
+### All of the Prophets are Humans and Men
+
+Allah states that He only sent Prophets and Messengers from among men and not from among women, as this Ayah clearly states. Allah did not reveal religious and legislative laws to any woman from among the daughters of Adam. This is the belief of Ahlus-Sunnah wal-Jama`ah. Shaykh Abu Al-Hasan, `Ali bin Isma`il Al-Ash`ari mentioned that it is the view of Ahlus-Sunnah wal-Jama`ah, that there were no female Prophets, but there were truthful believers from among women. Allah mentions the most honorable of the truthful female believers, Maryam, the daughter of `Imran, when He said, 
+مَّا الْمَسِيحُ ابْنُ مَرْيَمَ إِلاَّ رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ كَانَا يَأْكُلاَنِ الطَّعَامَ
+(The Messiah 'Isa, son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother was a Siddiqah truthful believer. They both used to eat food.) 5:75 Therefore, the best description Allah gave her is Siddiqah. Had she been a Prophet, Allah would have mentioned this fact when He was praising her qualities and honor. Therefore, Mary was a truthful believer according to the words of the Qur'an. 
+
+### All Prophets were Humans not Angels
+
+Ad-Dahhak reported that Ibn `Abbas commented on Allah's statement, 
+وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلاَّ رِجَالاً
+(And We sent not before you (as Messengers) any but men) "They were not from among the residents of the heaven (angels), as you claimed." This statement of Ibn `Abbas is supported by Allah's statements, 
+وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلاَّ إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِى الاٌّسْوَاقِ
+(And We never sent before you any of the Messengers, but verily, they ate food and walked in the markets), 25:20 
+وَمَا جَعَلْنَاهمْ جَسَداً لاَّ يَأْكُلُونَ الطَّعَامَ وَمَا كَانُواْ خَـلِدِينَ - ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنجَيْنَاهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا الْمُسْرفِينَ 
+(And We did not create them with bodies that ate not food, nor were they immortals. Then We fulfilled to them the promise. So We saved them and those whom We willed, but We destroyed extravagants), 21:8-9 and, 
+قُلْ مَا كُنتُ بِدْعاً مِّنَ الرُّسُلِ
+(Say: "I am not a new thing among the Messengers.") 46:9 Allah said next, 
+مِّنْ أَهْلِ الْقُرَى
+(from among the people of townships), meaning, from among the people of cities, not that they were sent among the bedouins who are some of the harshest and roughest of all people. 
+
+### Drawing Lessons from the Incidents of the Past
+
+Allah said next, 
+أَفَلَمْ يَسِيرُواْ فِى الاٌّرْضِ
+(Have they not traveled in the land), meaning, `Have not these people who rejected you, O Muhammad, traveled in the land,' 
+فَيَنظُرُواْ كَيْفَ كَانَ عَـقِبَةُ الَّذِينَ مِن قَبْلِهِمْ
+(and seen what was the end of those who were before them) that is, the earlier nations that rejected the Messengers, and how Allah destroyed them. A similar end is awaiting all disbelievers. Allah said in another Ayah, 
+أَفَلَمْ يَسِيرُواْ فِى الاٌّرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَآ
+(Have they not traveled through the land, and have they hearts wherewith to understand) 22:46 When they hear this statement, they should realize that Allah destroyed the disbelievers and saved the believers, and this is His way with His creation. This is why Allah said, 
+وَلَدَارُ الاٌّخِرَةِ خَيْرٌ لِّلَّذِينَ اتَّقَواْ
+(And verily, the home of the Hereafter is the best for those who have Taqwa.) Allah says, `Just as We saved the faithful in this life, We also wrote safety for them in the Hereafter, which is far better for them than the life of the present world.' Allah said in another Ayah, 
+إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ ءَامَنُواْ فِى الْحَيَوةِ الدُّنْيَا وَيَوْمَ يَقُومُ الاٌّشْهَـدُ - يَوْمَ لاَ يَنفَعُ الظَّـلِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ الْلَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ 
+(Verily, We will indeed make victorious Our Messengers and those who believe in this world's life and on the Day when the witnesses will stand forth (i.e. Day of Resurrection). The Day when their excuses will be of no profit to the wrongdoers. Theirs will be the curse, and theirs will be the evil abode (in Hellfire).) 40:51-52)
+
+---
+
+### Verse 12:110
+
+### Allah's Prophets are aided by Victory in Times of Distress and Need
+
+Allah states that He sends His aid and support to His Messengers, peace be upon them, when distress and hardship surround them and they eagerly await Allah's aid. Allah said in another Ayah,
+
+وَزُلْزِلُواْ حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ ءَامَنُواْ مَعَهُ مَتَى نَصْرُ اللَّهِ
+
+(..and were so shaken that even the Messenger and those who believed along with him said, "When (will come) the help of Allah") 2:214 As for saying of Allah,
+
+كَذَّبُواْ
+
+(they were denied) There are two recitations for it. One of them is with a Shadda (meaning: they were betrayed by their people). And this is the way `A'ishah, may Allah be pleased with her, recited it. Al-Bukhari said that `Urwah bin Az-Zubayr narrated that he asked `Aishah about the meaning of the following verse,
+
+حَتَّى إِذَا اسْتَيْـَسَ الرُّسُلُ
+
+(`Until when the Messengers give up hope...), Respite will be granted, is it denied or betrayed `A'0ishah replied, "betrayed." `Urwah said, "I said, `They were sure that their people betrayed them, so why use the word `thought" She said, `Yes, they were sure that they betrayed them.' I said,
+
+وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(and they thought that they were denied (by Allah)) `A'0ishah said, `Allah forbid! The Messengers ﷺ did not suspect their Lord of such a thing.' I asked, `So what does this Ayah mean' She said, `This Verse is concerned with the Messengers' ﷺ followers who had faith in their Lord and believed in their Messengers. The period of trials for those followers was long and Allah's help was delayed until the Messengers gave up hope for the conversion of the disbelievers amongst their nation and suspected that even their followers were shaken in their belief, Allah's help then came to them."' Ibn Jurayj narrated that Ibn Abi Mulaikah said that Ibn `Abbas read this Ayah this way,
+
+وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(and they thought they were denied.) `Abdullah bin Abi Mulaikah said, "Then Ibn `Abbas said to me that they were humans. He then recited this Ayah,
+
+حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ ءَامَنُواْ مَعَهُ مَتَى نَصْرُ اللَّهِ أَلاَ إِنَّ نَصْرَ اللَّهِ قَرِيبٌ
+
+(..even the Messenger and those who believed along with him said, "When (will come) the help of Allah" Yes! Certainly, the help of Allah is near!)2:214" Ibn Jurayj also narrated that Ibn Abi Mulaykah said that `Urwah narrated to him that `Aishah did not agree to this and rejected it. She said, "Nothing that Allah has promised Muhammad ﷺ, but Muhammad knew for certainty that it shall come, until he died. However, the Messengers were tried with trials until they thought that those believers, who were with them, did not fully support them." Ibn Abi Mulaykah said that `Urwah narrated that `Aishah recited this Ayah this way, (وَظَنُّوا أَنَّهُمْ قَد كُذِّبُوا) "and they thought that they were betrayed." Therefore, there is another way of reciting this word, and there is a difference of opinion about its meaning. We narrated the meaning that Ibn `Abbas gave. Ibn Mas`ud said, as Sufyan Ath-Thawri narrated from him, that he read the Ayah this way,
+
+حَتَّى إِذَا اسْتَيْـَسَ الرُّسُلُ وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(until, when the Messengers gave up hope and thought that they were denied.) `Abdullah commented that this is the recitation that you dislike. Ibn `Abbas also commented on the Ayah,
+
+حَتَّى إِذَا اسْتَيْـَسَ الرُّسُلُ وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(until, when the Messengers gave up hope and thought that they were denied) "When the Messengers gave up hope that their people would accept their messages, and their people thought that their Messengers had not said the truth to them, Allah's victory came then,
+
+فَنُجِّىَ مَن نَّشَآءُ
+
+(and whomsoever We willed were rescued.) Ibn Jarir At-Tabari narrated that Ibrahim bin Abi Hamzah Hurrah Al-Jazari said, "A young man from Quraysh asked Sa'id bin Jubayr `O, Abu `Abdullah! How do you read this word, for when I pass by it, I wish I had not read this Surah,
+
+حَتَّى إِذَا اسْتَيْـَسَ الرُّسُلُ وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(until, when the Messengers gave up hope and thought that they were denied...) He said, `Yes, it means, when the Messengers gave up hope that their people will believe in them and those to whom the Messengers were sent thought that the Messengers were not truthful."' Ad-Dahhak bin Muzahim commented, "I have not seen someone who is called to knowledge and is lazy accepting the invitation, until today! If you traveled to Yemen just to get this explanation, it will still be worth it." Ibn Jarir At-Tabari narrated that Muslim bin Yasar asked Sa`id bin Jubayr about the same Ayah and he gave the same response. Muslim stood up and embraced Sa'id bin Jubayr, saying, "May Allah relieve a distress from you as you relieved a distress from me!" This was reported from Sa'id bin Jubayr through various chains of narration. This is also the Tafsir that Mujahid bin Jabr and several other Salaf scholars gave for this Ayah. However, some scholars said that the Ayah,
+
+وَظَنُّواْ أَنَّهُمْ قَدْ كُذِبُواْ
+
+(and thought that they were denied), is in reference to the believers who followed the Messengers, while some said it is in reference to the disbelievers among the Messengers' nation. In the latter case, the meaning becomes: `and the disbelievers thought that the Messengers were not given a true promise of victory. ' Ibn Jarir At-Tabari narrated that Tamim bin Hadhlam said, "I heard `Abdullah bin Mas`ud comment on this Ayah,
+
+حَتَّى إِذَا اسْتَيْـَسَ الرُّسُلُ
+
+(until, when the Messengers gave up hope) that their people will believe in them, and their people thought when the respite was long, that the Messengers were not given a true promise."
+
+---
+
+### Verse 12:111
+
+### A Lesson for Men Who have Understanding
+
+Allah states here that the stories of the Messengers and their nations and how we saved the believers and destroyed the disbelievers are, 
+عِبْرَةٌ لاوْلِى الأَلْبَـبِ
+(a lesson for men of understanding), who have sound minds, 
+مَا كَانَ حَدِيثًا يُفْتَرَى
+(It is not a forged statement.) Allah says here that this Qur'an could not have been forged; it truly came from Allah, 
+وَلَـكِن تَصْدِيقَ الَّذِى بَيْنَ يَدَيْهِ
+(but a confirmation of that which was before it) in reference to the previously revealed Divine Books, by which this Qur'an testifies to the true parts that remain in them and denies and refutes the forged parts that were added, changed and falsified by people. The Qur'an accepts or abrogates whatever Allah wills of these Books, 
+وَتَفْصِيلَ كُلِّ شَىْءٍ
+(and a detailed explanation of everything) Meaning the allowed, the prohibited, the preferred and the disliked matters. The Qur'an deals with the acts of worship, the obligatory and recommended matters, forbids the unlawful and discourages from the disliked. The Qur'an contains major facts regarding the existence and about matters of the future in general terms or in detail. The Qur'an tells us about the Lord, the Exalted and Most Honored, and about His Names and Attributes and teaches us that Allah is glorified from being similar in any way to the creation. Hence, the Qur'an is, 
+هُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ
+(a guide and a mercy for the people who believe.) with which their hearts are directed from misguidance to guidance and from deviation to conformance, and with which they seek the mercy of the Lord of all creation in this life and on the Day of Return. We ask Allah the Most Great to make us among this group in the life of the present world and in the Hereafter, on the Day when those who are successful will have faces that radiate with light, while those whose faces are dark will end up with the losing deal. This is the end of the Tafsir of Surah Yusuf; and all the thanks and praises are due to Allah, and all our trust and reliance are on Him Alone.
+
+---
+

@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -168,9 +181,9 @@ body {
 
 .cover-title {
   font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 26pt;
+  font-size: 19pt;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.25;
   letter-spacing: 0.02em;
   color: #FFFFFF;
   margin-bottom: 8mm;
@@ -200,9 +213,14 @@ body {
   font-size: 10pt;
   font-weight: 400;
   letter-spacing: 0.15em;
-  text-transform: uppercase;
   color: #C5A54E;
   margin-bottom: 20mm;
+}
+
+.cover-framework strong {
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: #FFFFFF;
 }
 
 .cover-author {
@@ -299,6 +317,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -316,6 +335,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -338,6 +358,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -820,15 +846,13 @@ table.allow-break tr {
 
 <!-- ======== COVER PAGE ======== -->
 <div class="cover-page">
-  <div class="cover-title">COMPLETE STAFF WORK GUIDEBOOK FOR THE BANGSAMORO AUTONOMOUS REGION</div>
+  <div class="cover-title">COMPLETE STAFF WORK (CSW)<br>GUIDEBOOK&nbsp;FOR&nbsp;BANGSAMORO&nbsp;WORKERS</div>
   <div class="cover-gold-line"></div>
-  <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Parliament&nbsp;Staff,<br>Ministry&nbsp;Personnel, and&nbsp;Government&nbsp;Officers</div>
-  <div class="cover-framework">The ADDRESS IT Framework</div>
+  <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;the&nbsp;Staff&nbsp;Members&nbsp;of&nbsp;the<br>Bangsamoro&nbsp;Parliament,&nbsp;Ministries,&nbsp;Offices,<br>Agencies,&nbsp;and&nbsp;Local&nbsp;Government&nbsp;Units</div>
+  <div class="cover-framework">The <strong>ADDRESS IT</strong> Framework</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -920,7 +944,7 @@ table.allow-break tr {
 <div class="toc-entry toc-level-1">7.6 Validating with Stakeholders</div>
 <div class="toc-entry toc-level-1">7.7 Preparing for Recommendation</div>
 <div class="toc-entry toc-level-1">7.8 Why This Step Matters — Consequences of Skipping</div>
-<div class="toc-chapter"><a href="#chapter-8-step-5-submit-proposal-or-report-ss">Chapter 8 — Step 5: Submit Proposal or Report (SS)</a></div>
+<div class="toc-chapter"><a href="#chapter-8-step-5-submit-proposal-or-report-s">Chapter 8 — Step 5: Submit Proposal or Report (S)</a></div>
 <div class="toc-entry toc-level-1">8.1 Developing the Report Structure</div>
 <div class="toc-entry toc-level-1">8.2 Writing the Executive Summary (Write Last)</div>
 <div class="toc-entry toc-level-1">8.3 Presenting the Problem and Research Findings</div>
@@ -1028,7 +1052,7 @@ table.allow-break tr {
 </tr>
 <tr>
 <td>5</td>
-<td><strong>SS</strong></td>
+<td><strong>S</strong></td>
 <td>Submit Proposal or Report</td>
 </tr>
 <tr>
@@ -1051,6 +1075,11 @@ table.allow-break tr {
 <li><strong>Government Officers</strong> — Supervisors, directors, and senior staff who review, approve, and champion CSW practices within their organizations</li>
 </ol>
 <p>The material is designed for professionals at all experience levels, from newly hired staff learning CSW for the first time to seasoned officers seeking to formalize and improve their existing practices.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across Bangsamoro legislation and Memorandum Circulars, and fact-checking against known error patterns.</p>
+<p>AI did not design the methodology. The ADDRESS IT framework, the seven-step CSW process, the distinction between CSW types, and the integration of supervision and training competencies come from the author&rsquo;s professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal provision cited, process step documented, and governance practice described in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <h3 id="for-new-staff">For New Staff</h3>
 <p>Start with <strong>Chapter 1</strong> (Philosophy) and <strong>Chapter 2</strong> (Bangsamoro Context) to understand why CSW matters. Then read <strong>Chapter 3</strong> to identify which CSW type applies to your work. Follow with <strong>Chapters 4-10</strong> to learn the ADDRESS IT steps sequentially.</p>
@@ -1142,7 +1171,7 @@ table.allow-break tr {
 </tr>
 <tr>
 <td>5</td>
-<td><strong>SS</strong></td>
+<td><strong>S</strong></td>
 <td>Submit Proposal or Report</td>
 <td>How do you package your work for decision?</td>
 </tr>
@@ -3840,12 +3869,12 @@ table.allow-break tr {
 
 <div class="chapter-cover-page">
   <div class="chapter-cover-number">08</div>
-  <div class="chapter-cover-title">Step 5: Submit Proposal or Report (SS)</div>
+  <div class="chapter-cover-title">Step 5: Submit Proposal or Report (S)</div>
   <div class="chapter-cover-gold-line"></div>
 </div>
 
 <div class="chapter" id="chapter-08">
-<h1 id="chapter-8-step-5-submit-proposal-or-report-ss">Chapter 8 — Step 5: Submit Proposal or Report (SS)</h1>
+<h1 id="chapter-8-step-5-submit-proposal-or-report-s">Chapter 8 — Step 5: Submit Proposal or Report (S)</h1>
 <p>Your analysis is complete. Your options are evaluated. Your recommendation is ready. Now you must package everything into a document the decision-maker can act on.</p>
 <p>This is where most CSW outputs fail or succeed. Brilliant analysis buried in poor writing is useless. A clear, well-structured report with a compelling executive summary and a crisp call to action is what moves decisions forward.</p>
 <h2 id="81-developing-the-report-structure">8.1 Developing the Report Structure</h2>
@@ -6668,6 +6697,14 @@ table.allow-break tr {
 <p><strong>Stakeholder Analysis</strong> — A systematic identification and assessment of individuals, groups, or institutions affected by or interested in the CSW issue. Categorizes stakeholders by interest, influence, and position.</p>
 <p><strong>Stoplight Format</strong> — A progress reporting method using color codes: Green (on track, 90%+ of target), Yellow (at risk, 70-89%), Red (off track, below 70%).</p>
 <p><strong>Transmittal Memorandum</strong> — The cover memo accompanying a CSW output to the decision-maker. Introduces the document, summarizes the recommendation, states the action requested, and carries the supervisor&rsquo;s endorsement signature. Serves as a quality gate.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

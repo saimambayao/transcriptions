@@ -2,7 +2,7 @@
 
 Most developers treat Claude Code as an autocomplete engine -- type a prompt, get code, paste it in. But the practitioners who have shipped thousands of commits through AI agents have converged on a different model entirely. They treat Claude Code as a team of engineers who happen to have no memory, infinite patience, and the ability to be cloned.
 
-This guide synthesizes patterns from 24 practitioner-level video analyses covering skill engineering, persistent memory architecture, research offloading, autonomous optimization, agent coordination, parallelization patterns, browser automation, computer use, LLM reliability and hallucination mitigation, prompt-level honesty controls, workspace organization, model diversification, and the reliability engineering required to move from demo to production. The core thesis: the bottleneck is no longer the model's capability -- it is the quality of the systems wrapped around it.
+This guide synthesizes patterns from 26 practitioner-level video analyses covering skill engineering, persistent memory architecture, research offloading, autonomous optimization, agent coordination, parallelization patterns, browser automation, computer use, web scraping, LLM reliability and hallucination mitigation, prompt-level honesty controls, workspace organization, model diversification, cross-model integration, and the reliability engineering required to move from demo to production. The core thesis: the bottleneck is no longer the model's capability -- it is the quality of the systems wrapped around it.
 
 ---
 
@@ -14,15 +14,16 @@ Claude Code runs in four modes, each representing a different tradeoff between c
 
 ### Permissions: Three Levels of Autonomy
 
-Claude Code offers three distinct permission levels that govern how much autonomy the agent has: [^21]
+Claude Code offers four distinct permission levels that govern how much autonomy the agent has: [^21][^27]
 
 - **Default** -- asks permission before every file edit and shell command. Safe but slow; every action produces an interruption.
 - **Accept Edits On** -- auto-approves file changes but asks before shell commands (package installs, CLI execution). The recommended starting point for new users.
+- **Auto Mode** -- a classifier reviews each tool call before execution; safe actions proceed automatically while risky actions are blocked for approval. Launched March 24, 2026 and rolling out to Enterprise and API users. Developers approve roughly 93% of permission prompts in the default mode, so auto mode essentially automates the routine approvals while catching the genuinely dangerous ones. Enable via Shift+Tab cycling or the CLI. Requires Sonnet 4.6 or Opus 4.6. [^27]
 - **Bypass Permissions On** -- full autonomy; Claude Code can read, write, and execute without interruption. Requires the `--dangerously-skip-permissions` flag at startup. According to Anthropic's own data, this is how most power users run it.
 
-The practical path: start with Accept Edits, graduate to Bypass as comfort and understanding of what the agent is doing grows. The horror stories about Claude Code "deleting everything" are real but rare -- and overwhelmingly occur when users bypass permissions before they understand what commands the agent is likely to run. [^21]
+The practical path: start with Accept Edits, graduate to Auto Mode for long refactors and test loops where you want to walk away, and reserve Bypass for trusted dev branch work where speed matters most. Auto Mode is the middle path that eliminates the old binary choice between constant interruption and unrestricted execution. [^21][^27]
 
-**The takeaway**: Permissions are a learning tool as much as a safety tool -- the progression from Default to Bypass mirrors the progression from passive recipient to active director of the agent's work.
+**The takeaway**: Permissions are a learning tool as much as a safety tool -- the four-level progression (Default → Accept Edits → Auto Mode → Bypass) mirrors the progression from passive recipient to active director of the agent's work.
 
 ---
 
@@ -118,6 +119,28 @@ The Claude Code ecosystem is shifting from MCP (Model Context Protocol) integrat
 > **Key insight**: CLI tools live in the terminal where Claude Code lives -- no overhead, straight connection, fewer tokens, and the agent already knows how to use most of them. [^8]
 
 The most powerful pattern is the **CLI + Skill combo**. A CLI tool provides the capability (NotebookLM-PI for research, Stripe CLI for payments, FFmpeg for multimedia, GWS for Google Workspace); a companion skill teaches Claude Code how to use it in the specific way the developer needs. [^8] The meta-tool "CLI Anything" takes this further -- point it at any open-source project and it generates a CLI tool for that program, which Claude Code can then learn through a skill. [^8]
+
+### Firecrawl: Structured Web Scraping at Scale
+
+Claude Code's built-in web fetch has three systemic weaknesses: it cannot penetrate anti-bot protections (returning 403 errors on sites like Yellow Pages), it fails on JavaScript-heavy pages (grabbing only the static HTML shell from sites like SimilarWeb), and it is token-inefficient (dumping 13,000+ lines of raw HTML from a single Amazon product page when only 5 fields are needed). [^26]
+
+Firecrawl addresses all three by returning web data in **markdown format** optimized for LLM consumption -- structured, schema-filtered, and token-efficient. The core capability is **schema definition on the front end**: tell Firecrawl "I need product name, price, rating, review count, seller" and it returns exactly those fields, not the entire page. [^26]
+
+> **Key insight**: "The second we start talking about scraping at scale, where we do need to think about time and we do need to think about token cost, Firecrawl just makes a ton of sense." [^26]
+
+Head-to-head benchmarks quantify the gap: [^26]
+
+| Test | Web Fetch | Firecrawl | Improvement |
+|------|-----------|-----------|-------------|
+| SimilarWeb (JS-heavy) | 5+ min, no useful data | 42 seconds, full metrics | Fetch failed entirely |
+| Yellow Pages (anti-bot) | 403 errors repeatedly | 53 seconds, 16 results | Fetch blocked entirely |
+| Amazon x4 pages (heavy HTML) | 5.5 minutes | 45 seconds | 7x faster |
+
+Eight actions cover the full scraping spectrum: **scrape** (single URL), **crawl** (entire website from a starting URL), **search** (find and scrape without a known URL), **extract** (JSON-specific structured output), **map** (discover all URLs on a site), **agent** (autonomous decision-making across multiple actions), **batch scrape** (multiple URLs in one call), and **browser interact** (live Chromium sessions with click/type/scroll capability). [^26]
+
+Setup follows the standard CLI + skill pattern: install the Firecrawl CLI and skills package, authenticate with a Firecrawl account, and operate through natural language -- Claude Code's skills know how to match actions to use cases. The self-hosted open-source version is free but loses anti-bot protections (Firecrawl's proprietary "fire engine"), the Agent action, and Browser Interact. [^26]
+
+**The takeaway**: Firecrawl fills the three gaps where Claude Code's native web fetch fails -- anti-bot circumvention, JavaScript rendering, and token-efficient structured extraction -- making web scraping viable as a building block for research, competitive analysis, and data collection workflows.
 
 ### Why the Playwright CLI Gap Is So Wide: The Accessibility Tree
 
@@ -288,7 +311,7 @@ Claude can now control a Mac's mouse, keyboard, and screen -- opening files, bro
 
 > **Key insight**: Computer use transforms Claude from a tool that generates outputs into an operator that can execute within existing environments -- including apps that have no API or integration. [^18]
 
-Safety is built into the architecture. Claude monitors for prompt injection attacks, scans for suspicious behaviors, and always requests permission before accessing new apps or taking sensitive actions. The feature is currently in research preview for Claude Pro users on Mac. [^18]
+Safety is built into the architecture through multiple layers: per-approval app control (only apps approved in the current session), sentinel warnings for apps that grant shell/file system/settings access, a global escape key that aborts computer use from anywhere, and a lock file ensuring only one session controls the machine at a time. One particularly smart detail: **the terminal is excluded from screenshots** -- Claude literally cannot read terminal content, which closes an entire category of prompt injection vectors where onscreen content in the terminal could feed back into the model. [^18][^27] Setup requires enabling the built-in "computer use" MCP server (disabled by default, persists per project) and granting two macOS permissions: Accessibility (click, type, scroll) and Screen Recording (see screen). The feature is in research preview for Pro and Max plan users on Mac, requiring Claude Code version 2.185+. [^27]
 
 A critical expectation to set: computer use is often **slower than doing the task manually**. The agent must infer screen state visually, navigate unfamiliar application interfaces through trial and error, and course-correct when it makes mistakes -- a typo in a text field, a misclick on a menu item, or selecting the wrong element. The self-correction capability works (Claude can detect its own errors by re-reading the screen and fix them), but each correction cycle adds latency. [^19] For single, well-defined tasks like adding a calendar event, the experience is smooth. For multi-step workflows chaining multiple applications -- adding items to a reminders list, then navigating to an e-commerce site, searching for products, and adding them to a cart -- the cumulative inference time and error-correction loops make the process significantly slower than a human performing the same steps. [^19]
 
@@ -357,6 +380,20 @@ The recommended allocation is **70/30**: seventy percent of work through Claude 
 The synchronization step matters: keeping CLAUDE.md, AGENTS.md, and GEMINI.md in sync across workspaces means any platform can pick up the workspace instantly during an outage. The workspace structure should be designed to be **agent-agnostic** -- skills stored as portable markdown, outputs in standard formats, no Claude-specific dependencies in the organizational hierarchy. [^25]
 
 **The takeaway**: Use the best model most of the time, but never put all eggs in one basket -- maintain tested fallback paths that can activate within minutes, not hours.
+
+## Cross-Model Integration: From Fallback to Collaboration
+
+Model diversification started as insurance against outages. It is evolving into something more powerful: **deliberate cross-model collaboration** where different models challenge and validate each other's work. Two developments in March 2026 formalize this shift.
+
+> **Key insight**: The two biggest agentic coding tools now have an official integration -- and it was built by OpenAI, not Anthropic. [^27]
+
+**OpenAI's Codex plugin** installs directly inside Claude Code, enabling three modes of cross-model interaction: standard review (Codex inspects the implementation), adversarial review (Codex specifically challenges the implementation rather than just inspecting it), and handoff mode (the entire task passes to Codex). The adversarial mode is the most significant -- it provides a genuinely different model's perspective on code quality, catching blind spots that same-model review cannot. [^27]
+
+**Microsoft's "Council"** architecture takes a different approach: it runs an Anthropic model and an OpenAI model side by side on the same research query, then uses a third model to synthesize where they agree and disagree. A companion feature called "Critique" pairs a generator model from one lab with a reviewer model from a different lab before the final report ships. Both are rolling out to Enterprise Copilot users. [^27]
+
+The pattern emerging across the industry is clear: single-model pipelines are giving way to multi-model architectures where generation, review, and synthesis are deliberately split across different models. This is not about finding the "best" model -- it is about exploiting the fact that different models have different failure modes, making cross-model validation structurally more robust than same-model review.
+
+**The takeaway**: Cross-model integration has crossed from workaround to architecture -- install the Codex plugin for adversarial code review, and watch for Microsoft's Council pattern as a model for multi-model research pipelines.
 
 ## Workspace Organization: The Business/Personal/Client Hierarchy
 
@@ -483,6 +520,15 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 - **Extracted/inferred tagging in `/fact-checker`** -- Build Rule 3's source tagging into the Prevent phase of the verification framework. If content-generating skills tag every factual claim at generation time, `/fact-checker` can prioritize checking inferred claims first, reducing verification time. [^24]
 - **3x penalty line for `/bangsamoro` subagent template** -- Your subagent prompts already include fabrication warnings and `[UNVERIFIED]` rules, but adding the explicit penalty line reinforces the behavior that directly addresses BOL article swaps and BAA number inventions. [^24]
 - **Fabricated package risk in e-Bangsamoro development** -- When asking Claude Code to recommend a library or package for Django REST Framework, React 19, or TanStack Query integrations, always pass the actual package documentation or official docs URL rather than relying on model recall. Hallucinated package names that look plausible are a live supply chain risk. [^23]
+- **Firecrawl for legal research at scale** -- `/legal-researcher` currently uses web fetch for government portals; BARMM websites (parliament.bangsamoro.gov.ph, bangsamoro.gov.ph) use dynamic JavaScript rendering -- exactly the failure mode Firecrawl solves. Replace web fetch calls with Firecrawl scrape for government portals; the SEARCH action is especially useful for finding IRRs and implementing rules without knowing exact URLs [^26]
+- **Firecrawl for `/deep-research` and `/fact-checker`** -- Firecrawl's crawl action could replace URL-by-URL web fetch in /deep-research Phase 2 (source gathering); `/fact-checker` Tier 2/3 verification (BARMM official websites) would be faster and more reliable with Firecrawl handling anti-bot protections [^26]
+- **Schema-filtered extraction for token savings** -- instead of dumping full government portal HTML into context (burning tokens on navigation, scripts, and ads), define exactly which fields you need (BAA title, date enacted, full text) and get clean structured data back; this directly compounds with the token efficiency principles from context monitoring [^26][^9]
+- **New skill opportunity: `/web-scraper`** -- a dedicated web scraping skill wrapping Firecrawl's 8 actions with common use cases (legal research, market research, lead generation, content research) would be a reusable building block across `/legal-researcher`, `/deep-research`, `/fact-checker`, and `/content-research-writer` [^26]
+- **MoroMarket competitive intelligence** -- Firecrawl's batch scrape action enables automated product/price monitoring from competing cooperative marketplaces and social enterprise directories; schema-filtered extraction keeps token costs low when scraping dozens of product pages [^26]
+- **Auto mode for e-Bangsamoro sprint work** -- enable auto mode (Shift+Tab) during frontend implementation phases on dev branches; the 93% auto-approval rate means `/devwork` and `/build` verification loops run with minimal interruption; switch back to default mode for legal content and policy documents where every action should be supervised [^27]
+- **Codex adversarial review for /bill-drafter pipeline** -- after Claude Code drafts a bill, route it through the Codex plugin's adversarial review mode for cross-model challenge; this catches systematic blind spots that same-model review (/legal-reviewer, /fact-checker) cannot detect; particularly valuable for BOL consistency and Shari'ah compliance checks where different models may interpret provisions differently [^27]
+- **Microsoft Council pattern for /research-pipeline** -- your existing pipeline (NotebookLM generates → Claude validates) already uses a two-model architecture; Microsoft's Council (parallel generation + third-model synthesis of disagreements) suggests extending /deep-research to run Claude and another model in parallel, synthesizing where they agree and disagree for higher-confidence policy research [^27]
+- **e-Bangsamoro data feeds** -- scrape BARMM government portals for budget releases, legislative updates, and appointment announcements; Firecrawl's crawl action can systematically traverse entire government sites rather than one-page-at-a-time fetching [^26]
 - **CLAUDE.md "lab notes" meta-prompt** -- Add a single line to e-Bangsamoro and transcriptions CLAUDE.md files: "when you make a mistake, update this CLAUDE.md with what not to try next time under a Lab Notes section" -- this automates the failure log component of the update loop without manual intervention [^25]
 - **Stochastic consensus for bill drafting** -- Before drafting with /bill-drafter, spawn 5+ agents with different analytical framings (Shari'ah compliance, gender mainstreaming, fiscal impact, BOL consistency, comparative legislation) to independently assess the policy question; synthesize consensus + outliers into a brief that feeds the actual drafting [^25]
 - **Fan-out/fan-in for /deep-research and /research-pipeline** -- Route research phases through Sonnet sub-agents (cheaper, faster) and reserve Opus for synthesis; this single change could cut research token costs by 40-60% without quality loss [^25]
@@ -514,6 +560,11 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 17. **This month**: add model-tier routing to /deep-research and /research-pipeline — Sonnet for source gathering, Opus for synthesis — targeting 40-60% token cost reduction [^25]
 18. **This month**: install Codex CLI as fallback; create AGENTS.md alongside CLAUDE.md in e-Bangsamoro and transcriptions workspaces; verify skills-bucket is agent-agnostic [^25]
 19. **This quarter**: implement stochastic consensus pre-drafting phase in /bill-drafter — 5+ agents with different analytical framings before actual bill drafting begins [^25]
+20. **This week**: install Firecrawl CLI + skills in Claude Code (copy setup page, paste, authenticate); test with 1-2 BARMM government portal URLs to validate JavaScript rendering and anti-bot handling [^26]
+21. **This month**: create `/web-scraper` skill wrapping Firecrawl's 8 actions with presets for legal research, market research, and government portal monitoring; integrate as a building block for `/legal-researcher` and `/deep-research` [^26]
+22. **This month**: replace web fetch calls in `/legal-researcher` with Firecrawl scrape/search for government portals; benchmark token savings and speed improvement against current web fetch approach [^26]
+23. **This week**: enable auto mode in e-Bangsamoro workspace for frontend sprint work; test on a non-critical module first to calibrate the safety classifier's behavior with your codebase [^27]
+24. **This month**: install the Codex plugin inside Claude Code; test adversarial review mode on an existing bill draft to evaluate cross-model challenge quality before integrating into /bill-drafter pipeline [^27]
 
 ---
 
@@ -627,3 +678,11 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 [^25]: Saraev, Nick. "CLAUDE CODE ADVANCED COURSE — 3 HOURS."
       *Nick Saraev*, 198:23. YouTube, March 2026.
       https://youtube.com/watch?v=UPtmKh1vMN8
+
+[^26]: Chase. "Claude Code + Firecrawl = UNLIMITED Web Scraping."
+      *Chase AI*, 10:53. YouTube, March 2026.
+      https://youtube.com/watch?v=phuyYL0L7AA
+
+[^27]: Universe of AI. "DeepSeek V4 Benchmarks LEAKED + Claude Code Computer Use + OpenAI's Codex Plugin!"
+      *Universe of AI*, 10:08. YouTube, March 2026.
+      https://youtube.com/watch?v=nAZdk1d_QzU

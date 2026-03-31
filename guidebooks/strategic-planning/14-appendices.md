@@ -59,6 +59,8 @@ This appendix provides a consolidated reference for the seven-tier legal hierarc
 </tbody>
 </table>
 
+**BOL Conformity Language — Critical for Planning.** The BOL contains 126 constraining provisions across all 18 articles that limit how BARMM can diverge from national law. When your MOA's mandate touches a subject where the BOL uses "shall prevail," "shall conform," "consistent with," institutional retention, or "shall not diminish" language, your strategic plan must account for the national standard. For example, an education ministry's plan must "conform to the minimum standards set by the National Government" (Art. IX, Sec. 16); a finance office's budget must be "consistent with existing laws, rules and regulations of the National Government" (Art. VII, Sec. 28). Check the specific BOL article governing your sector before setting targets that diverge from national standards.
+
 **How to Access.** The full text of RA 11054 is published in the Official Gazette. A complete verbatim transcription is maintained in the reference collection at `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/`.
 
 ---
@@ -164,15 +166,15 @@ This appendix provides a consolidated reference for the seven-tier legal hierarc
 
 **Description.** Supreme Court decisions interpreting autonomy provisions and resolving conflicts between national and regional authority constitute the final tier. While jurisprudence does not create new authority, it defines the boundaries of existing authority.[^46]
 
-**Key Areas for MOA Planning:**
+**Key SC Decisions Affecting MOA Planning (2024-2025):**
 
-- Decisions on the scope of regional autonomy versus national authority
-- Rulings on fiscal matters, including revenue sharing and taxation between national and regional governments
-- Decisions on the application of national laws within autonomous regions
-- Cases interpreting the BOL's exclusive powers provisions
-- Rulings on the constitutionality of BAA provisions
+| Case | Year | Key Holding | Planning Impact |
+|---|---|---|---|
+| *Province of Sulu v. Medialdea* (GR-242255) | 2024 | Sulu is not part of BARMM | Territory, population, and geographic scope of all MOA plans must exclude Sulu |
+| *Sinsuat v. Ebrahim* (GR-271741) | 2024 | BAAs 53/54/55 partially unconstitutional --- plebiscite must include parent municipality voters | MOAs involved in LGU creation or boundary changes must comply with constitutional plebiscite requirements |
+| *Ali v. BTA Parliament* (GR-E-02219) | 2025 | BAA 77 unconstitutional; BARMM authority "must always operate within the bounds of the Constitution and national statutes" --- "clear and categorical" | All BOL conformity provisions are judicially enforceable constraints; MOA plans that set standards diverging from national law must verify the BOL permits divergence in that area |
 
-**Relevance to Planning.** Jurisprudence is most relevant when an MOA's mandate involves contested or overlapping authority between BARMM and the national government. Planning officers should note any Supreme Court decisions that affect their MOA's mandate scope.
+**Relevance to Planning.** Jurisprudence is most relevant when an MOA's mandate involves contested or overlapping authority between BARMM and the national government. The *Ali v. BTA* decision (2025) is particularly important: its "clear and categorical" language means that every BOL conformity provision --- "shall prevail," "shall conform," "consistent with," institutional retention, "shall not diminish" --- carries judicial enforcement weight. Planning officers should verify their MOA's sector against the relevant BOL article for conformity language before setting targets that depart from national standards.
 
 **How to Access.** Supreme Court decisions are published in the Philippine Reports (official), Supreme Court Reports Annotated (SCRA), and are accessible through the Supreme Court e-Library (elibrary.judiciary.gov.ph).
 

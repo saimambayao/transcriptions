@@ -46,6 +46,7 @@ MD_FILES = [
     "12-chapter-11.md",
     "13-glossary.md",
     "14-appendices.md",
+    "appendices/appendix-ai-declaration.md",
 ]
 
 # Markdown extensions for richer conversion
@@ -174,8 +175,9 @@ def classify_section(fname: str, index: int) -> tuple[str, str]:
         return "introduction", "chapter"
     if "glossary" in fname:
         return "glossary", "chapter"
-    if "appendices" in fname:
-        return "appendices", "chapter"
+    if "appendix" in fname:
+        appendix_id = fname.replace(".md", "").replace("/", "-")
+        return appendix_id, "chapter appendix-section"
 
     chapter_match = re.search(r"chapter-(\d+)", fname)
     ch_num = chapter_match.group(1) if chapter_match else str(index)

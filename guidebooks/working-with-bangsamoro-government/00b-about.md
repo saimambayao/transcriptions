@@ -32,6 +32,18 @@ This guidebook will bridge that gap.
 
 ---
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting institutional analyses, structuring career pathway frameworks, formatting legal references to the Bangsamoro Civil Service Code, and organizing application process guides.
+
+AI did not design the methodology. The institutional analysis of the Bangsamoro government, the career track frameworks, the Complete Staff Work methodology, the competency models, and the ethical foundations of Bangsamoro public service come from the author's professional experience in Bangsamoro governance -- not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal citation, institutional fact, and governance claim in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), enacted Bangsamoro Autonomy Acts (including BAA 13 and BAA 17), the Bangsamoro Development Plan 2023-2028, and official government records. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
+---
+
 ## How to Use This Guidebook
 
 This guidebook is organized into four parts. You can read it cover to cover, or you can go directly to the part that matches where you are in your journey.

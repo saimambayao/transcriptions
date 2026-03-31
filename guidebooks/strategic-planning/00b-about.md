@@ -16,6 +16,16 @@ This guidebook is written for three tiers of users:
 
 3. **BPDA Staff** (tertiary audience) — Bangsamoro Planning and Development Authority staff who review and certify MOA strategic plans for compliance with the BDP and BARMM planning standards. Chapter 12 and the appendix templates provide the reference structure for review. The quality checklists at the end of each chapter serve as a certification checklist.
 
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across the Bangsamoro Development Plan and enabling legislation, and fact-checking against known error patterns.
+
+AI did not design the methodology. The 10-Point Strategic Planning Framework, the modular working-document approach, the BDP alignment methodology, and the integration of planning with budget and performance management come from the author's professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal provision cited, planning standard referenced, and BDP alignment documented in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
+
 ## How to Use This Guidebook
 
 ### For First-Time Users

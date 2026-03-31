@@ -100,7 +100,7 @@
 &emsp;7.7 Preparing for Recommendation
 &emsp;7.8 Why This Step Matters — Consequences of Skipping
 
-**Chapter 8 — Step 5: Submit Proposal or Report (SS)**
+**Chapter 8 — Step 5: Submit Proposal or Report (S)**
 &emsp;8.1 Developing the Report Structure
 &emsp;8.2 Writing the Executive Summary (Write Last)
 &emsp;8.3 Presenting the Problem and Research Findings

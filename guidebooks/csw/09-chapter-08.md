@@ -1,4 +1,4 @@
-# Chapter 8 — Step 5: Submit Proposal or Report (SS)
+# Chapter 8 — Step 5: Submit Proposal or Report (S)
 
 Your analysis is complete. Your options are evaluated. Your recommendation is ready. Now you must package everything into a document the decision-maker can act on.
 

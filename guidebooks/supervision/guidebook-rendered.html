@@ -60,6 +60,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -283,6 +296,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -300,6 +314,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -321,6 +336,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -884,9 +905,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Directors,&nbsp;Division&nbsp;Chiefs,<br>Section&nbsp;Heads,&nbsp;and&nbsp;Unit&nbsp;Supervisors</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Government</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1051,6 +1070,11 @@ table.allow-break tr {
 <li><strong>Delegate</strong> effectively so that you are leading, not doing everything yourself</li>
 </ul>
 <p>If you are a staff member and you are reading this, you are welcome — but know that every chapter is written from the supervisor&rsquo;s seat. The frameworks, protocols, and templates are tools for the person doing the supervising.</p>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across supervisory competency frameworks and Bangsamoro governance standards, and fact-checking against known error patterns.</p>
+<p>AI did not design the methodology. The 12 Supervisory Competencies framework, the integration of Islamic leadership principles (Amanah, Adl, Shura, Rahmah, Sidq), the performance management protocols, and the connection between supervision quality and Complete Staff Work come from the author&rsquo;s professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every competency framework documented, supervisory protocol described, and governance practice referenced in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <p><strong>Use it chapter by chapter, not cover to cover.</strong> Each chapter is self-contained. If you need to give feedback tomorrow, read Chapter 3. If you are writing performance evaluations next week, read Chapter 13. If you just became a supervisor for the first time, start with Chapter 1.</p>
 <p><strong>Use the appendices as working tools.</strong> The templates at the back — the PPR Assessment Grid, the SBI Feedback Template, the Check-In Template, the PIP Template — are designed to be photocopied, filled out, and used in real conversations with real employees. They are marked &ldquo;Detachable&rdquo; for a reason.</p>
@@ -4722,6 +4746,14 @@ Intervention: Model accountability. When something fails, ask &ldquo;What can we
 <p><strong>4-Quadrant Coaching Guide</strong> — A matrix plotting performance (high/low) against potential (high/low) to determine the appropriate supervisory intervention for each staff member. See Chapter 2.</p>
 <p><strong>7-Element Assignment Checklist</strong> — The standard for delegating work: What, Why, Who, When, How, Authority Level, Resources. See Chapter 11.</p>
 <p><strong>70-20-10 Guideline</strong> — A guideline for development planning: 70% learning from experience (on-the-job), 20% from relationships (mentoring, coaching), 10% from formal learning (training, courses). See Chapter 8.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

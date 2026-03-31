@@ -59,6 +59,19 @@
   @top-center { content: none; }
 }
 
+
+/* Appendix section: flows continuously */
+.appendix-section {
+  page-break-before: avoid !important;
+}
+
+.appendix-section h1 {
+  font-size: 16pt;
+  margin-top: 8mm;
+  border-bottom: 1.5pt solid #C5A54E;
+  string-set: chapter-title content();
+}
+
 /* Chapter cover page: no header/footer, clean presentation */
 @page chapter-cover {
   margin: 0;
@@ -289,6 +302,7 @@ body {
   line-height: 1.25;
   max-width: 130mm;
   margin-bottom: 6mm;
+  string-set: chapter-title content();
 }
 
 .chapter-cover-gold-line {
@@ -306,6 +320,7 @@ body {
 .chapter-cover-page.front-matter .chapter-cover-title {
   font-size: 32pt;
   color: #1B365D;
+  string-set: chapter-title content();
 }
 
 /* --- TABLE OF CONTENTS --- */
@@ -328,6 +343,12 @@ body {
 .chapter h1:first-child {
   display: none;
 }
+
+/* Appendix sections: SHOW the H1 (no cover page to display it) */
+.appendix-section h1:first-child {
+  display: block !important;
+}
+
 
 /* First H2 in each chapter flows after intro paragraphs — no page break */
 .chapter h2:first-of-type {
@@ -879,9 +900,7 @@ table.allow-break tr {
   <div class="cover-subtitle">A&nbsp;Practical&nbsp;Guide&nbsp;for&nbsp;Legislative&nbsp;Staff,<br>Communications Officers, and Parliamentary Speechwriters</div>
   <div class="cover-author">Saidamen R. Mambayao</div>
   <div class="cover-bottom-block">
-    <div class="cover-institution">Bangsamoro Parliament</div>
-    <div class="cover-institution-barmm">Bangsamoro Autonomous Region in Muslim Mindanao</div>
-    <div class="cover-location">Bangsamoro Government Center, Cotabato City</div>
+    <div class="cover-institution-barmm">Bangsamoro Autonomous Region<br>in Muslim Mindanao</div>
   </div>
 </div>
 
@@ -1183,6 +1202,11 @@ table.allow-break tr {
 <li><strong>The Glossary</strong> defines 30+ speech writing terms you will use daily.</li>
 <li><strong>The Appendices</strong> provide ready-to-use templates, sample speeches, quick references, and checklists.</li>
 </ul>
+<h2 id="ai-declaration">AI Declaration</h2>
+<p>This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for drafting speech templates, structuring rhetorical frameworks, formatting protocol references, and organizing parliamentary speech type taxonomies.</p>
+<p>AI did not design the methodology. The six-stage speech writing process, the cultural protocol conventions, the rhetorical techniques tailored to Bangsamoro governance themes, and the quality review standards come from the author&rsquo;s professional experience in Bangsamoro governance &ndash; not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.</p>
+<p>Every legal citation, parliamentary procedure reference, and governance claim in this guidebook was verified by the author against the Bangsamoro Organic Law (RA 11054), enacted Bangsamoro Autonomy Acts, and official parliamentary records. The author bears full responsibility for the accuracy and completeness of the published content.</p>
+<p>For the author&rsquo;s full professional standards on AI-augmented governance, legislation, and development work, see <em>How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro</em> (Saidamen R. Mambayao, 2026).</p>
 <h2 id="how-to-use-this-guidebook">How to Use This Guidebook</h2>
 <p><strong>Read the first two chapters first.</strong> They establish the foundation. After that, go to the chapter you need most. Writing an authorship speech? Turn to Chapter 3. Preparing a keynote? Go to Chapter 4. Unsure about Islamic greeting protocols? Chapter 6 has a complete reference.</p>
 <p><strong>Keep the appendices handy.</strong> The Speech Templates (Appendix A), Islamic Greeting Protocols Quick Reference (Appendix B), and Speech Quality Review Checklist (Appendix F) are designed for daily use. Print them. Pin them above your desk.</p>
@@ -4422,6 +4446,14 @@ table.allow-break tr {
 <p><strong>Taglish.</strong> A blend of Tagalog and English common in Philippine governance communication. The primary language of most Bangsamoro Parliament proceedings.</p>
 <p><strong>Talking points.</strong> A condensed one-page reference card with the key message, main points, key statistics, and closing line. Serves as backup if the speaker goes off-script.</p>
 <p><strong>Transition.</strong> A phrase, sentence, or technique that guides the audience from one section to the next. Bridge sentences, rhetorical questions, time markers, and callbacks.</p>
+<div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
+</div>
+
+<div class="chapter appendix-section" id="appendices-appendix-ai-declaration">
+<h1 id="appendix-ai-declaration">Appendix: AI Declaration</h1>
+<p>This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for research compilation, cross-referencing legal sources, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019), and PDF generation.</p>
+<p>AI did not design the guidebook&rsquo;s structure, methodology, or recommendations. The analytical framework, practical guidance, and every substantive recommendation come from the author&rsquo;s direct experience in Bangsamoro governance. The author directed every research query, evaluated every result, and made every editorial decision.</p>
+<p>Every legal provision cited was verified against the source text. Every BOL article number was checked against the 18-article map. Every BAA number was checked against the enacted BAA index. The author bears full responsibility for the accuracy and completeness of the published content.</p>
 <div class="back-to-toc"><a href="#table-of-contents">Back to Table of Contents</a></div>
 </div>
 

@@ -12,7 +12,7 @@ The guidebook introduces the **ADDRESS IT** framework, a seven-step methodology 
 | 2 | **DD** | Define and Deliberate the Problem or Need |
 | 3 | **R** | Research Needed Information |
 | 4 | **E** | Explore Options |
-| 5 | **SS** | Submit Proposal or Report |
+| 5 | **S** | Submit Proposal or Report |
 | 6 | **S** | Sustain Efforts to Implement |
 | 7 | **IT** | Iterate and Improve |
 
@@ -25,6 +25,16 @@ This guidebook is written for three primary audiences:
 3. **Government Officers** — Supervisors, directors, and senior staff who review, approve, and champion CSW practices within their organizations
 
 The material is designed for professionals at all experience levels, from newly hired staff learning CSW for the first time to seasoned officers seeking to formalize and improve their existing practices.
+
+## AI Declaration
+
+This guidebook was produced with AI assistance. The author used AI tools (Claude Code, Anthropic) for research compilation, first-draft generation, cross-referencing across Bangsamoro legislation and Memorandum Circulars, and fact-checking against known error patterns.
+
+AI did not design the methodology. The ADDRESS IT framework, the seven-step CSW process, the distinction between CSW types, and the integration of supervision and training competencies come from the author's professional experience in Bangsamoro governance — not from AI-generated suggestions. AI accelerated the writing. It did not direct the thinking.
+
+Every legal provision cited, process step documented, and governance practice described in this guidebook was verified by the author against the source text. The author bears full responsibility for the accuracy and completeness of the published content.
+
+For the author's full professional standards on AI-augmented governance, legislation, and development work, see *How to Use AI in Governance, Legislation, and Development Work in the Bangsamoro* (Saidamen R. Mambayao, 2026).
 
 ## How to Use This Guidebook
 

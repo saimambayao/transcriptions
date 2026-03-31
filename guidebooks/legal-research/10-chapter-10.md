@@ -23,7 +23,7 @@ After completing this chapter, you will be able to:
 
 ## 10.2 Key Supreme Court Decisions Affecting BARMM
 
-Three clusters of Supreme Court decisions have reshaped the Bangsamoro legal landscape. Every BARMM researcher must know them.
+Four clusters of Supreme Court decisions have reshaped the Bangsamoro legal landscape. Every BARMM researcher must know them.
 
 **Cluster 1: Province of Sulu v. Medialdea (2024)**
 
@@ -37,22 +37,40 @@ Three clusters of Supreme Court decisions have reshaped the Bangsamoro legal lan
 - **Legislation.** BAA 86 (Parliamentary District Act, January 20, 2026) was enacted to establish 32 districts in the post-Sulu territory.[^2] Any earlier legislation that assumed Sulu's inclusion (including BAA 58 and BAA 77) is affected.
 - **Administrative transfer.** Executive Order No. 91, s. 2025 realigned Sulu under Region IX (Zamboanga Peninsula).[^3]
 
-**Cluster 2: Ali et al. v. BTA and Macapaar et al. v. COMELEC (2025)**
+**Cluster 2: Sinsuat v. Ebrahim (2024)**
 
-*Ali et al. v. BTA*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (September 30, 2025).[^4]
+*Sinsuat v. Ebrahim*, G.R. No. 271741 (2024).[^4]
+
+**Holding:** BAAs 53, 54, and 55 (municipality creation acts) were partially unconstitutional. The Court held that plebiscites creating new municipalities must include voters from the parent municipality — the BTA's plebiscite design excluded affected constituents.
+
+**Impact on research:**
+- **Plebiscite requirements.** Municipality creation under BOL Art. VI, Sec. 10 must comply with the constitutional requirement that "the creation thereof shall not be made unless approved by a majority of the votes cast in a plebiscite in the political units directly affected" (Art. X, Sec. 10).
+- **Constitutional floor for LGU creation.** The BOL grants power to create municipalities (Art. V, Sec. 2(l)), but this power is subject to both constitutional plebiscite requirements and the LGC criteria the BOL itself requires ("criteria laid down in RA 7160...shall be satisfied" — Art. VI, Sec. 10).
+- **Pattern.** Together with Cluster 3 below, this case established a pattern: the Supreme Court will scrutinize BARMM legislation for constitutional compliance, not just on major structural issues (redistricting) but on procedural requirements (plebiscite design).
+
+**Cluster 3: Ali et al. v. BTA and Macapaar et al. v. COMELEC (2025)**
+
+*Ali et al. v. BTA*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (September 30, 2025).[^5]
 
 **Holding:** Both BAA 58 (Parliamentary Districts Creation) and BAA 77 (Reconstituted Parliamentary Districts) were declared unconstitutional. The redistricting laws failed to meet constitutional standards for district creation.
 
+**The divergence holding.** Beyond the redistricting issue, the Court articulated the most important judicial statement on BARMM legislative authority to date:
+
+> *"While Congress may establish autonomous regions and grant them legislative authority, such authority must always operate within the bounds of the Constitution and national statutes."*
+
+The Court described this limitation as **"clear and categorical."** This is the current judicial test for all BARMM divergence questions: where the BOL uses "subject to," "consistent with," "shall prevail," or "shall conform" language, those qualifiers are **enforceable constitutional limits** — not aspirational language. (See Chapter 4, Section 4.5.3 for the full 5-layer constraint framework this holding anchors.)
+
 **Impact on research:**
-- **Precedent.** The Court demonstrated that Bangsamoro legislation is subject to full judicial review. The BTA's legislative authority, while broad within the 55 enumerated powers, is constrained by constitutional standards.
-- **Legislative response.** Parliament enacted BAA 86 on January 20, 2026, establishing 32 single-member parliamentary districts across the post-Sulu BARMM territory: Lanao del Sur (9 districts), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), and the Special Geographic Area (2).[^5]
+- **Divergence constraint.** The "clear and categorical" language means that every BOL conformity provision (Chapter 3, Section 3.2.2) carries judicial enforcement weight. A BAA that contradicts a "consistent with" provision is not merely inconsistent — it is constitutionally vulnerable.
+- **Full judicial review.** The Court demonstrated that Bangsamoro legislation is subject to full judicial review. The BTA's legislative authority, while broad within the 55 enumerated powers, is constrained by constitutional standards.
+- **Legislative response.** Parliament enacted BAA 86 on January 20, 2026, establishing 32 single-member parliamentary districts across the post-Sulu BARMM territory: Lanao del Sur (9 districts), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), and the Special Geographic Area (2).[^6]
 - **Research implication.** When citing any BAA, verify that it has not been declared unconstitutional or superseded. The BAA index should be checked against the amendment chain (Chapter 7, Section 7.3).
 
-**Cluster 3: BOL Ratification Cases**
+**Cluster 4: BOL Ratification Cases**
 
 Several cases challenged the validity of the BOL ratification process, including the constitutionality of RA 11054 itself. The Supreme Court upheld the BOL's constitutionality and the validity of the plebiscite — except for Sulu's inclusion (Cluster 1).
 
-**Research implication:** The BOL's constitutional foundations are settled law. You do not need to re-argue the BOL's validity in your research. However, specific BOL provisions may still be challenged through future cases. The Court's willingness to strike down BAAs (Cluster 2) means that any provision under active litigation should be flagged in your Research Memorandum.
+**Research implication:** The BOL's constitutional foundations are settled law. You do not need to re-argue the BOL's validity in your research. However, specific BOL provisions may still be challenged through future cases. The Court's willingness to strike down BAAs (Clusters 2 and 3) means that any provision under active litigation should be flagged in your Research Memorandum.
 
 ---
 
@@ -123,6 +141,7 @@ A Supreme Court decision's impact depends on what it interprets:
 | A **BOL provision** | Tier 2 | The interpretation constrains BAAs and executive issuances; may affect which national laws apply |
 | A **BAA** | Tier 4 | The BAA must be read as the Court has interpreted it; IRRs inconsistent with the interpretation are invalid |
 | A **national law** as applied in BARMM | Tier 5 | The interpretation determines how the national law interacts with the Bangsamoro legal framework |
+| The **scope of BARMM legislative authority** (divergence) | Tiers 2-4 | Defines how far BARMM can depart from national standards. The *Ali v. BTA* "clear and categorical" holding (2025) applies to all 126 BOL conformity provisions (Chapter 3, Section 3.2.2) |
 
 ---
 
@@ -233,6 +252,8 @@ Before relying on your jurisprudential research, confirm:
 
 [^3]: Executive Order No. 91, s. 2025 (realigning Sulu under Region IX, Zamboanga Peninsula).
 
-[^4]: *Ali et al. v. BTA*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (Sept. 30, 2025).
+[^4]: *Sinsuat v. Ebrahim*, G.R. No. 271741 (2024). BAAs 53, 54, and 55 partially unconstitutional — plebiscite must include parent municipality voters.
 
-[^5]: Bangsamoro Autonomy Act No. 86 (Parliamentary District Act, Jan. 20, 2026). Establishes 32 single-member parliamentary districts: Lanao del Sur (9), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), SGA (2).
+[^5]: *Ali et al. v. BTA*, G.R. No. E-02219; *Macapaar et al. v. COMELEC*, G.R. No. E-02235 (Sept. 30, 2025).
+
+[^6]: Bangsamoro Autonomy Act No. 86 (Parliamentary District Act, Jan. 20, 2026). Establishes 32 single-member parliamentary districts: Lanao del Sur (9), Maguindanao del Norte (5), Maguindanao del Sur (5), Basilan (4), Tawi-Tawi (4), Cotabato City (3), SGA (2).

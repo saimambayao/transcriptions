@@ -1,0 +1,7 @@
+# Appendix F: AI Declaration
+
+This guidebook was produced with AI assistance (Claude Code, Anthropic). AI was used for Shari'ah legal research — searching the Qur'an, the complete Kutub al-Sittah, BOL Article X, PD 1083, and 89 enacted BAAs by keyword — as well as cross-referencing, first-draft generation from verified fact sheets, fact-checking, citation formatting per the Philippine Manual of Legal Citations (Feliciano, 10th Ed., 2019) with Bangsamoro extensions for Islamic jurisprudence, and PDF generation.
+
+AI did not design the guidebook's structure, methodology, or recommendations. The five-part architecture, the legislative strategy analysis, the Shari'ah checkpoint process, the IRAC methodology adaptation for Islamic sources, and every substantive recommendation come from the author's direct experience in Bangsamoro governance. AI did not interpret Shari'ah or issue religious opinions. The institutional boundary — that legal analysis is the practitioner's work while binding religious rulings are the BDI's mandate — is a principle the author established.
+
+Every Qur'anic verse was verified against the Sahih International translation. Every Hadith citation was verified against the relevant collection in the Kutub al-Sittah. Every BOL and PD 1083 provision was verified against verbatim transcriptions of the enacted law. Every BAA reference was verified against the Bangsamoro legislative archive. The author bears full responsibility for the accuracy and completeness of the published content.
