@@ -30,3 +30,8 @@ test-results/
 
 # Node
 node_modules/
+
+# Large binary archives — local-only, never commit
+legislation/bills/scraped/pdfs/
+source-pdfs/
+*.pdf
