@@ -1,0 +1,2115 @@
+# Other Bangsamoro Communities and Bangsamoro Governance: A Cross-Cutting Legal Reference
+
+> This is a **cross-cutting reference** — not tied to a single BOL power but covering the entire OBC legal landscape across all 55 powers enumerated in Art. V, Sec. 2 of the Bangsamoro Organic Law (RA 11054).
+
+## Reference Overview
+
+| Attribute | Value |
+|-----------|-------|
+| **Scope** | All OBC provisions across the BOL, BAA 13, national laws, Constitution, enacted BAAs, and pending legislation |
+| **BOL Provisions Covered** | 47 provisions across 7 BOL Articles |
+| **BAA 13 Sections** | 12 sections with OBC dimensions (OOBC Secs. 5-8, BASCO Sec. 25(7), BMSS Sec. 2(4), peer offices) |
+| **Constitutional Provisions** | 12 provisions across 5 Constitutional Articles |
+| **Rights Enumerated** | 21 rights protected under Art. VI, Sec. 12 |
+| **Development Provisions** | 35+ BOL provisions defining "economic, social, and cultural development" |
+
+---
+
+# PART I: OBC LEGAL FRAMEWORK
+
+## A. BOL OBC Architecture
+
+The Bangsamoro Organic Law does not confine its mandate to the territorial jurisdiction of the Bangsamoro Autonomous Region. Article VI, Section 12 extends the reach of both the National Government and the Bangsamoro Government to Bangsamoro communities outside BARMM — creating a dual obligation that cuts across the entire BOL. The provisions below map the full architecture of this mandate.
+
+### A.1 Foundational Recognition
+
+<table>
+<colgroup>
+  <col style="width:18%">
+  <col style="width:40%">
+  <col style="width:42%">
+</colgroup>
+<thead>
+<tr><th>Provision</th><th>Verbatim Text</th><th>Function</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Art. VI, Sec. 12</td>
+  <td><em><strong>"The National Government shall ensure the protection of the rights of the Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region and undertake programs for their rehabilitation and development. The Bangsamoro Government, in coordination with the local government units where these communities are located and the appropriate national government agencies, shall provide assistance to enhance their economic, social, and cultural development."</strong></em></td>
+  <td><strong>Core OBC mandate.</strong> Two distinct obligations: (1) the National Government must protect OBC rights and undertake rehabilitation/development programs; (2) the Bangsamoro Government must provide assistance for economic, social, and cultural development, in coordination with LGUs and national agencies. This is the only BOL provision that creates obligations for communities outside BARMM's territorial jurisdiction.</td>
+</tr>
+<tr>
+  <td>Art. II, Sec. 1</td>
+  <td><em><strong>"Those who, at the advent of the Spanish colonization, were considered natives or original inhabitants of Mindanao and the Sulu archipelago and its adjacent islands, whether of mixed or of full blood, shall have the right to identify themselves, their spouses and descendants, as Bangsamoro."</strong></em></td>
+  <td><strong>Identity basis for OBC status.</strong> Bangsamoro identity is based on pre-colonial origin and self-identification — not on residence within BARMM. A person who meets this definition and resides outside BARMM is, by definition, a member of an Other Bangsamoro Community. This provision establishes that the BOL's constituency extends beyond its territorial jurisdiction.</td>
+</tr>
+<tr>
+  <td>Art. IV, Sec. 2</td>
+  <td><em><strong>"In the exercise of its right to self-governance, the Bangsamoro Autonomous Region is free to pursue its political, economic, social, and cultural development as provided for in this Organic Law."</strong></em></td>
+  <td><strong>Self-governance principle.</strong> The right to pursue economic, social, and cultural development — the same three domains specified in Art. VI, Sec. 12 — is a foundational Bangsamoro principle. Art. VI, Sec. 12 extends the development dimension of this principle to OBCs through the coordinative role of the Bangsamoro Government.</td>
+</tr>
+</tbody>
+</table>
+
+**Structural note on Art. VI, Sec. 12.** The provision is located in Article VI (Intergovernmental Relations) — not in Article IX (Basic Rights) or Article XIII (Regional Economy). This placement is deliberate: OBC assistance is fundamentally an intergovernmental function requiring coordination between the Bangsamoro Government, national government agencies, and local government units where OBCs reside. The coordinative character of this mandate shapes the institutional design of the Office for Other Bangsamoro Communities under BAA 13.^1^
+
+### A.2 Political Representation
+
+<table>
+<colgroup>
+  <col style="width:18%">
+  <col style="width:40%">
+  <col style="width:42%">
+</colgroup>
+<thead>
+<tr><th>Provision</th><th>Verbatim Text</th><th>Function</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Art. VI, Sec. 9(d)</td>
+  <td><em><strong>"Representatives of traditional leaders, non-Moro indigenous communities, women, settler communities, the Ulama, youth, and Bangsamoro communities outside of the Bangsamoro Autonomous Region"</strong></em></td>
+  <td><strong>Council of Leaders representation.</strong> OBCs are guaranteed representation in the Council of Leaders — the highest consultative body advising the Chief Minister on governance matters. This places OBCs alongside traditional leaders, the Ulama, women, youth, indigenous communities, and settlers as recognized constituencies of the Bangsamoro Government. The mechanism and number of representatives are determined by the Parliament per the same section.</td>
+</tr>
+<tr>
+  <td>Art. VII, Sec. 7(c)</td>
+  <td><em><strong>"Reserved seats and sectoral representatives shall constitute at least ten percent (10%) of the members of the Parliament, which shall include two (2) reserved seats each for non-Moro indigenous peoples and settler communities. Women, youth, traditional leaders, and the Ulama shall have one sectoral seat each: Provided, That the reserved seats and sectoral representatives shall in no case be less than eight (8) seats."</strong></em></td>
+  <td><strong>Parliament reserved seats (comparative context).</strong> This provision reserves seats for non-Moro indigenous peoples and settler communities <em>inside</em> BARMM — not for OBCs outside BARMM. However, it is analytically relevant because it demonstrates the BOL's recognition of cross-boundary community identities. OBCs have advisory representation through the Council of Leaders (Art. VI, Sec. 9) but do not have reserved Parliament seats, as Parliament represents the territorial constituency of BARMM.</td>
+</tr>
+</tbody>
+</table>
+
+**Representation asymmetry.** OBCs have advisory representation (Council of Leaders) but not legislative representation (Parliament). This is consistent with the BOL's territorial basis for legislative power — Parliament legislates for the Bangsamoro Autonomous Region, while the Council of Leaders advises on governance matters that may extend beyond territorial boundaries.
+
+### A.3 Rights Protected Under Art. VI, Sec. 12
+
+Article VI, Section 12 obligates the National Government to ensure ***"the protection of the rights of the Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region."*** The phrase "the rights" refers to the full spectrum of rights that the BOL recognizes as belonging to the Bangsamoro people. The following table enumerates every BOL right that, by virtue of Bangsamoro identity (Art. II, Sec. 1), extends to OBCs under this protection mandate.
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:35%">
+  <col style="width:53%">
+</colgroup>
+<thead>
+<tr><th>Provision</th><th>Key Verbatim Text</th><th>OBC Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Art. II, Sec. 1</td>
+  <td><em><strong>"...shall have the right to identify themselves, their spouses and descendants, as Bangsamoro."</strong></em></td>
+  <td><strong>Identity.</strong> The right to self-identify as Bangsamoro is not territorially bounded. OBCs retain this right regardless of where they reside. This is the foundational right from which all others flow — without Bangsamoro identity, there is no OBC.</td>
+</tr>
+<tr>
+  <td>Art. IV, Sec. 2</td>
+  <td><em><strong>"...free to pursue its political, economic, social, and cultural development..."</strong></em></td>
+  <td><strong>Self-governance principle.</strong> While OBCs cannot exercise Bangsamoro self-governance directly (they reside outside BARMM), Art. VI, Sec. 12 operationalizes this principle by requiring the Bangsamoro Government to assist OBCs in pursuing economic, social, and cultural development.</td>
+</tr>
+<tr>
+  <td>Art. IV, Sec. 7</td>
+  <td><em><strong>"The Bangsamoro Government shall ensure every Filipino citizen in its territorial jurisdiction the provision of the basic necessities and equal opportunities in life. Social justice shall be promoted in all aspects of life and phases of development in the Bangsamoro Autonomous Region."</strong></em></td>
+  <td><strong>Social justice.</strong> While this provision is territorially framed, the social justice principle informs the policy standard for OBC programs — ensuring that OBCs are not excluded from the development dividends of the Bangsamoro peace process.</td>
+</tr>
+<tr>
+  <td>Art. IV, Sec. 10</td>
+  <td><em><strong>"There shall be no discrimination on the basis of identity, religion, and ethnicity."</strong></em></td>
+  <td><strong>Anti-discrimination (general principles).</strong> Non-discrimination on the basis of identity protects OBCs from exclusion by host LGUs or national agencies. Their Bangsamoro identity cannot be a basis for adverse treatment.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 1</td>
+  <td><em><strong>"The Bangsamoro Parliament...shall enact a transitional justice mechanism to address the legitimate grievances of the Bangsamoro people and the indigenous peoples, such as historical injustices, human rights violations, and marginalization through unjust dispossession of territorial and proprietary rights and customary land tenure."</strong></em></td>
+  <td><strong>Transitional justice.</strong> Many OBCs were displaced from their ancestral homelands by conflict and development aggression — they are among the primary subjects of historical injustices. Transitional justice mechanisms must account for Bangsamoro people who were dispossessed and now reside outside BARMM.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 2</td>
+  <td><em><strong>"The Parliament shall enact laws providing for adequate reparation to the Bangsamoro people affected by unjust dispossession of territorial and proprietary rights or customary land tenure..."</strong></em></td>
+  <td><strong>Reparation.</strong> OBCs who were dispossessed of land within what is now BARMM are entitled to reparation. This right follows the person, not the territory — a Bangsamoro person displaced to Zamboanga or Manila retains the right to reparation for unjust dispossession.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 3</td>
+  <td><em><strong>"The Bangsamoro Government recognizes the rights of the indigenous peoples and shall adopt measures for the promotion and protection of the following rights..."</strong></em></td>
+  <td><strong>Indigenous peoples' rights.</strong> Non-Moro indigenous peoples who are part of the Bangsamoro polity and reside outside BARMM (e.g., Teduray, Lambangian communities in adjacent areas) retain these rights, including native titles, customs, and free, prior and informed consent.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 4</td>
+  <td><em><strong>"The customs, beliefs, and traditions of the Bangsamoro people are hereby recognized, protected, and guaranteed."</strong></em><br><br><em><strong>"No person in the Bangsamoro Autonomous Region shall be subjected to any form of discrimination on account of creed, religion, ethnic origin, parentage, or gender."</strong></em></td>
+  <td><strong>Cultural customs and anti-discrimination.</strong> The recognition of Bangsamoro customs, beliefs, and traditions is identity-based, not territory-based. OBCs practicing Bangsamoro cultural traditions in host regions are protected. The anti-discrimination clause, while territorially framed, establishes the standard that informs OBC rights protection outside BARMM.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 5</td>
+  <td><em><strong>"The Bangsamoro Government shall guarantee religious freedom and the free exercise thereof pursuant to the Constitution, national laws, and principles of international law."</strong></em></td>
+  <td><strong>Religious freedom.</strong> OBCs — predominantly Muslim — face religious freedom challenges in host regions (access to mosques, halal food, Islamic education, observance of Islamic holidays). Art. VI, Sec. 12's rights protection mandate encompasses ensuring these freedoms are respected.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 6-7</td>
+  <td><em><strong>"The Bangsamoro Government shall fully respect human rights."</strong></em> (Sec. 6)<br><br>Sec. 7 creates the Bangsamoro Human Rights Commission.</td>
+  <td><strong>Human rights.</strong> The Bangsamoro Human Rights Commission's mandate, while primarily territorial, intersects with OBC rights protection when OBCs face human rights violations connected to their Bangsamoro identity.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 8</td>
+  <td><em><strong>"The Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects, power and electricity, and water supply, among others..."</strong></em></td>
+  <td><strong>Basic services.</strong> Art. VI, Sec. 12's mandate to "enhance their economic, social, and cultural development" requires that OBCs have access to comparable basic services. OOBC's coordinative role includes facilitating OBC access to these services through LGUs and national agencies.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 9</td>
+  <td><em><strong>"The Parliament shall pass a law creating a housing and human settlements agency to address the lack of shelters, settlements, and livelihood for the disadvantaged and homeless, especially those victims of conflicts and atrocities."</strong></em></td>
+  <td><strong>Housing.</strong> Many OBCs are conflict-displaced persons — "victims of conflicts and atrocities" — who face housing insecurity in host regions. Art. VI, Sec. 12's rehabilitation mandate encompasses housing support for displaced OBCs.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 10</td>
+  <td><em><strong>"The Bangsamoro Government shall guarantee the fundamental rights of all workers to self-organization, collective bargaining and negotiations, and peaceful concerted activities..."</strong></em></td>
+  <td><strong>Labor rights.</strong> OBC workers in host regions are protected under both national labor law and the BOL's labor rights guarantees. OBCs must not face employment discrimination based on Bangsamoro identity.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 11-12</td>
+  <td><em><strong>"...there shall be at least one (1) woman to be appointed to the Bangsamoro Cabinet."</strong></em> (Sec. 11)<br><br><em><strong>"The Bangsamoro Government shall uphold and protect the fundamental rights of women..."</strong></em> (Sec. 12)</td>
+  <td><strong>Women's rights.</strong> Bangsamoro women in OBCs face compounded vulnerabilities — gender discrimination intersecting with ethnic/religious minority status in host regions. Art. VI, Sec. 12's rights protection must address these intersecting challenges.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 13</td>
+  <td><em><strong>"The Bangsamoro Government shall recognize the vital role of the youth in nation-building, promote and protect their physical, moral, spiritual, intellectual, and social well-being."</strong></em></td>
+  <td><strong>Youth rights.</strong> OBC youth face identity challenges — maintaining Bangsamoro cultural identity while integrating into host communities. Programs for OBC youth must address education access, cultural preservation, and civic participation.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 14</td>
+  <td><em><strong>"The Bangsamoro Government shall respect, protect, and promote the rights of children, especially orphans of tender age."</strong></em></td>
+  <td><strong>Children's rights.</strong> OBC children, particularly orphans from conflict and displacement, require targeted protection. The best-interest-of-children standard applies regardless of territory.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 16-21</td>
+  <td><em><strong>"It shall be a top priority of the Bangsamoro Government to establish, maintain, and support a complete and integrated system of quality education..."</strong></em> (Sec. 16)<br><br><em><strong>"...the Bangsamoro Government shall establish, maintain, and supervise Madaris education..."</strong></em> (Sec. 18)</td>
+  <td><strong>Education.</strong> OBCs face critical education gaps: access to Madaris education, Islamic and Arabic studies, and culturally responsive curricula. While BARMM cannot establish schools outside its territory, OOBC can coordinate with DepEd and host LGUs to ensure OBC access to quality education, including the integration of Islamic studies in public schools serving OBC populations.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 22</td>
+  <td><em><strong>"The Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents."</strong></em></td>
+  <td><strong>Health.</strong> OBCs in remote or underserved host areas face health access challenges. Art. VI, Sec. 12's development mandate includes coordinating health service delivery for OBCs through national health programs and host LGU health systems.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 23</td>
+  <td><em><strong>"The Bangsamoro Government shall establish a special agency, support facilities and livelihood or skills training for persons with special needs, and other disadvantaged persons..."</strong></em></td>
+  <td><strong>PWD and elderly.</strong> OBC members with disabilities and elderly OBCs face compounded marginalization. OOBC's coordinative mandate extends to ensuring these populations access national and LGU services.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 24-26</td>
+  <td><em><strong>"The Bangsamoro Government shall preserve the history, culture, arts, traditions, and the rich cultural heritage of the Bangsamoro people and their Sultanates..."</strong></em> (Sec. 24)</td>
+  <td><strong>Cultural heritage.</strong> OBCs are custodians of Bangsamoro cultural heritage in their host regions — maintaining traditions, languages, and arts away from the Bangsamoro homeland. Cultural preservation programs must extend to these diaspora communities.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 5</td>
+  <td><em><strong>"The Bangsamoro Government shall recognize the role of women in governance and ensure their fundamental equality before the law."</strong></em><br><br><em><strong>"...at least five percent (5%) of the total budget appropriation of each ministry, office, and constituent local government unit...shall be set aside for gender-responsive programs..."</strong></em></td>
+  <td><strong>Gender and development.</strong> Gender-responsive programming for OBCs must account for the specific conditions of Bangsamoro women in diaspora — access to livelihood, protection from gender-based violence, and participation in governance and development processes.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 7</td>
+  <td><em><strong>"The Bangsamoro Government recognizes the importance of disaster risk reduction and management and climate change adaptation."</strong></em></td>
+  <td><strong>Disaster risk reduction and management.</strong> OBCs in disaster-prone host regions (coastal Zamboanga, Cotabato valley) require DRRM interventions. OOBC's coordinative mandate includes linking OBCs to DRRM programs of the Bangsamoro Government and national agencies.</td>
+</tr>
+</tbody>
+</table>
+
+**Interpretive note.** The 21 rights enumerated above are not merely aspirational — they define the substantive content of the National Government's obligation under the first sentence of Art. VI, Sec. 12 to ***"ensure the protection of the rights"*** of OBCs.^2^ Any national or BARMM program for OBCs must be evaluated against this rights framework.
+
+### A.3.A Constitutional Floor for OBC Rights
+
+The BOL does not originate the rights enumerated in A.3 — it **translates existing constitutional rights into the Bangsamoro context**. Every right in A.3 traces its primary legal basis to the 1987 Philippine Constitution, the supreme law of the land that binds the entire Philippine State and every government instrumentality within it. As a matter of constitutional hierarchy, the **National Government is the primary duty-bearer** for OBC rights: the Constitution guarantees these rights for all Filipinos, everywhere, regardless of where they reside. The **Bangsamoro Government's duty under Art. VI, Sec. 12 is supplementary** — it extends the Bangsamoro-specific elaboration of these rights to OBCs, filling gaps where the national system has not adequately reached them.
+
+**What "rights" means in Art. VI, Sec. 12.** The phrase ***"the protection of the rights"*** uses the definite article — not *a protection of some rights*, but *the protection of the rights*. This signals a specific, determinable set: the rights that attach to Bangsamoro identity under the BOL (enumerated in A.3 above). An OBC's rights do not diminish or disappear at the BARMM territorial boundary — they follow the person. The National Government's constitutional duty to protect these rights is not contingent on where a Bangsamoro person resides.
+
+**What "protection" means — reactive, proactive, or active?** The BOL's dual formulation — National Government to ***"ensure the protection of the rights"*** (Art. VI, Sec. 12, first sentence) and Bangsamoro Government to ***"provide assistance to enhance their economic, social, and cultural development"*** (Art. VI, Sec. 12, second sentence) — cannot be read as reactive alone. "Ensure" imposes an affirmative obligation to make certain an outcome occurs, not merely to respond after a violation. Under the tripartite framework of international human rights obligations, binding on the Philippines through Art. II, Sec. 2 of the Constitution,^44^ every right generates three corresponding State duties:
+
+<table>
+<colgroup>
+  <col style="width:14%">
+  <col style="width:22%">
+  <col style="width:32%">
+  <col style="width:32%">
+</colgroup>
+<thead>
+<tr><th>Obligation</th><th>Nature</th><th>BOL Expression</th><th>Example for OBCs</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>To respect</strong></td>
+  <td>Reactive — refrain from interfering with rights</td>
+  <td>Non-discrimination guarantee: <em><strong>"There shall be no discrimination on the basis of identity, religion, and ethnicity"</strong></em> (Art. IV, Sec. 10)</td>
+  <td>NatGov agencies may not deny services or impose adverse treatment on OBCs based on Bangsamoro identity</td>
+</tr>
+<tr>
+  <td><strong>To protect</strong></td>
+  <td>Proactive — prevent third parties from violating rights; build institutional safeguards before violations occur</td>
+  <td><em><strong>"ensure the protection"</strong></em> — "ensure" requires institutional prevention, not just after-the-fact redress</td>
+  <td>OOBC coordinates with host LGUs to prevent exclusionary treatment; MANA assessments identify rights gaps before they deepen</td>
+</tr>
+<tr>
+  <td><strong>To fulfill</strong></td>
+  <td>Active/positive — create the conditions in which rights can actually be exercised; affirmatively deliver</td>
+  <td><em><strong>"provide assistance to enhance their economic, social, and cultural development"</strong></em> — "enhance" requires affirmative improvement, not mere maintenance of the status quo</td>
+  <td>Madaris education access outside BARMM; halal services; Islamic finance products; livelihood programs; governance participation mechanisms for OBCs</td>
+</tr>
+</tbody>
+</table>
+
+The duty is not satisfied by waiting for OBCs to file complaints or identify specific violations. The Art. VI, Sec. 12 mandate requires affirmative institutional architecture: the OOBC, MANA assessments, inter-agency coordination, dedicated funding, and program delivery reaching Bangsamoro people in all their geographic locations.
+
+**The equal protection dimension.** The equal protection clause — ***"nor shall any person be denied the equal protection of the laws"*** (Art. III, Sec. 1)^36^ — reinforces the proactive nature of this duty at two levels.
+
+At the level of **formal equality**: OBCs are Filipino citizens. All constitutional rights apply to them equally. Any NGA, LGU, or government instrumentality that excludes or discriminates against OBCs based solely on their Bangsamoro identity violates the equal protection clause directly.
+
+At the level of **substantive equality (anti-exclusion)**: OBCs face *double exclusion* — BARMM's territorial jurisdiction does not reach them (so BARMM programs do not automatically extend to them), and national programs are generally not designed for Bangsamoro-specific needs (Madaris education, halal services, Shari'ah-compliant finance, culturally responsive welfare). This structural exclusion — not arising from any single discriminatory act but from the *architecture* of governance — constitutes denial of equal protection in substance. The equal protection clause requires that similarly-situated persons receive equal treatment; there is no rational basis for denying Bangsamoro people, as a class, the same development opportunities simply because they reside outside BARMM territory. The Art. VI, Sec. 12 mandate is, in part, a structural constitutional response to this gap.
+
+**Who bears the primary duty.** Because the Constitution binds the entire Philippine State, the National Government is the primary duty-bearer for OBC rights. BARMM's supplementary duty does not diminish or replace national obligations — it augments them. Where both levels of government have obligations, the standard is additive, not either/or:
+
+| Duty-bearer | Legal Basis | Nature of Duty |
+|-------------|-------------|----------------|
+| **National Government** | 1987 Constitution — supreme law binding all Philippine State organs | Primary — guarantees constitutional rights; must ensure OBCs are not excluded from any national program; carries the full weight of the tripartite obligation |
+| **Bangsamoro Government** | BOL Art. VI, Sec. 12 | Supplementary — coordinates, advocates, and provides Bangsamoro-specific interventions where national programs fall short |
+| **Host LGUs** | RA 7160 (Local Government Code)^42^ | Operational — primary service delivery unit in OBC areas; OOBC coordinates with them per BAA 13, Sec. 8(c) |
+
+**Constitutional floor cross-reference.** The following table maps each right from A.3 to its primary constitutional source.
+
+<table>
+<colgroup>
+  <col style="width:20%">
+  <col style="width:18%">
+  <col style="width:62%">
+</colgroup>
+<thead>
+<tr><th>Right (from A.3)</th><th>BOL Provision</th><th>Constitutional Parallel</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Identity / self-determination</td>
+  <td>Art. II, Sec. 1; Art. IV, Sec. 2</td>
+  <td>Art. X, Secs. 15, 18, 20 — constitutional authorization for the Bangsamoro autonomous region, the framework within which Bangsamoro identity is formally recognized; Art. III, Sec. 1 (equal protection — identity cannot be a basis for adverse treatment)</td>
+</tr>
+<tr>
+  <td>Social justice</td>
+  <td>Art. IV, Sec. 7</td>
+  <td>Art. II, Sec. 10 ("The State shall promote social justice in all phases of national development"); Art. XIII, Secs. 1-2 (Congress shall give highest priority to measures that protect human dignity, reduce inequalities, and remove cultural inequities)</td>
+</tr>
+<tr>
+  <td>Anti-discrimination</td>
+  <td>Art. IV, Sec. 10; Art. IX, Sec. 4</td>
+  <td>Art. III, Sec. 1 — equal protection of the laws; the constitutional floor for non-discrimination applies to all persons regardless of identity, religion, or ethnicity</td>
+</tr>
+<tr>
+  <td>Transitional justice</td>
+  <td>Art. IX, Sec. 1</td>
+  <td>Art. II, Sec. 11 (human dignity); Art. XIII, Sec. 1 (social justice; equitable diffusion of wealth and political power) — <em>no direct constitutional parallel; BOL-specific elaboration grounded in the peace settlement</em></td>
+</tr>
+<tr>
+  <td>Reparation</td>
+  <td>Art. IX, Sec. 2</td>
+  <td>Art. II, Sec. 11 (human dignity); Art. XIII, Sec. 1 (social justice) — <em>no direct constitutional parallel; BOL-specific, grounded in acknowledgment of historical Bangsamoro dispossession</em></td>
+</tr>
+<tr>
+  <td>Indigenous peoples' rights</td>
+  <td>Art. IX, Sec. 3</td>
+  <td>Art. II, Sec. 22 ("The State recognizes and promotes the rights of indigenous cultural communities within the framework of national unity and development"); Art. XIV, Sec. 17 ("The State shall recognize, respect, and protect the rights of indigenous cultural communities to preserve and develop their cultures, traditions, and institutions")</td>
+</tr>
+<tr>
+  <td>Cultural customs and anti-discrimination</td>
+  <td>Art. IX, Sec. 4</td>
+  <td>Art. XIV, Secs. 14, 17, 18 (national culture based on unity in diversity; indigenous cultural communities' rights; equal access to cultural opportunities); Art. III, Sec. 1 (equal protection against discrimination on account of creed, religion, ethnic origin)</td>
+</tr>
+<tr>
+  <td>Religious freedom</td>
+  <td>Art. IX, Sec. 5</td>
+  <td>Art. III, Sec. 5 — "The free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed." The Constitution's guarantee is absolute and universal; the BOL's guarantee for OBCs restates this for the Bangsamoro context</td>
+</tr>
+<tr>
+  <td>Human rights / human dignity</td>
+  <td>Art. IX, Secs. 6-7</td>
+  <td>Art. II, Sec. 11 ("The State values the dignity of every human person and guarantees full respect for human rights"); Art. III (full Bill of Rights — applies to all persons under Philippine jurisdiction, with no territorial limitation)</td>
+</tr>
+<tr>
+  <td>Basic services</td>
+  <td>Art. IX, Sec. 8</td>
+  <td>Art. II, Sec. 9 ("The State shall promote a just and dynamic social order that will ensure the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services"); Art. XIII, Sec. 11 (integrated and comprehensive health and social services at affordable cost; priority for the underprivileged)</td>
+</tr>
+<tr>
+  <td>Housing</td>
+  <td>Art. IX, Sec. 9</td>
+  <td>Art. XIII, Secs. 9-10 ("The State shall...undertake...a continuing program of urban land reform and housing which will make available at affordable cost, decent housing and basic services to under-privileged and homeless citizens"; urban/rural poor dwellers shall not be evicted except in accordance with law)</td>
+</tr>
+<tr>
+  <td>Labor rights</td>
+  <td>Art. IX, Sec. 10</td>
+  <td>Art. II, Sec. 18 ("The State affirms labor as a primary social economic force. It shall protect the rights of workers and promote their welfare"); Art. XIII, Sec. 3 (full protection to labor; right to self-organization, collective bargaining, security of tenure, living wage)</td>
+</tr>
+<tr>
+  <td>Women's rights</td>
+  <td>Art. IX, Secs. 11-12</td>
+  <td>Art. II, Sec. 14 ("The State recognizes the role of women in nation-building, and shall ensure the fundamental equality before the law of women and men"); Art. XIII, Sec. 14 (safe and healthful working conditions for women; facilities and opportunities to enhance their welfare and realize their full potential)</td>
+</tr>
+<tr>
+  <td>Youth rights</td>
+  <td>Art. IX, Sec. 13</td>
+  <td>Art. II, Sec. 13 ("The State recognizes the vital role of the youth in nation-building and shall promote and protect their physical, moral, spiritual, intellectual, and social well-being. It shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs.")</td>
+</tr>
+<tr>
+  <td>Children's rights</td>
+  <td>Art. IX, Sec. 14</td>
+  <td>Art. XV, Sec. 3(2) — "The right of children to assistance, including proper care and nutrition, and special protection from all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development"; Art. II, Sec. 12 (sanctity of family life; equal protection for the life of the child)</td>
+</tr>
+<tr>
+  <td>Education</td>
+  <td>Art. IX, Secs. 16-21</td>
+  <td>Art. II, Sec. 17 ("The State shall give priority to education, science and technology, arts, culture, and sports to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development"); Art. XIV, Secs. 1-2 (right of all citizens to quality education; State shall establish, maintain, and support a complete, adequate, and integrated system of education)</td>
+</tr>
+<tr>
+  <td>Health</td>
+  <td>Art. IX, Sec. 22</td>
+  <td>Art. II, Sec. 15 ("The State shall protect and promote the right to health of the people and instill health consciousness among them"); Art. XIII, Sec. 11 (integrated and comprehensive health development; priority for the underprivileged, sick, elderly, disabled, women, and children)</td>
+</tr>
+<tr>
+  <td>PWD and elderly</td>
+  <td>Art. IX, Sec. 23</td>
+  <td>Art. XIII, Sec. 11 (health and social services at affordable cost; priority for the elderly and disabled); Art. XIII, Sec. 13 ("The State shall establish a special agency for disabled persons for their rehabilitation, self-development, and self-reliance, and their integration into the mainstream of society")</td>
+</tr>
+<tr>
+  <td>Cultural heritage</td>
+  <td>Art. IX, Secs. 24-26</td>
+  <td>Art. XIV, Secs. 14-18 (preservation and evolution of Filipino national culture based on unity in diversity; State patronage of arts and letters; protection of cultural treasures; recognition of indigenous cultural communities' rights to preserve their cultures; equal access to cultural opportunities)</td>
+</tr>
+<tr>
+  <td>Gender and development (GAD)</td>
+  <td>Art. XIII, Sec. 5 (BOL)</td>
+  <td>Art. II, Sec. 14 (fundamental equality of women and men before the law); Art. XIII, Sec. 14 (State shall protect working women; facilities and opportunities to enhance their welfare and potential)</td>
+</tr>
+<tr>
+  <td>Disaster risk management</td>
+  <td>Art. XIII, Sec. 7 (BOL)</td>
+  <td>Art. II, Sec. 16 ("The State shall protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature") — <em>partial parallel only; DRRM as a specific governance function has no direct constitutional counterpart and is BOL-specific</em></td>
+</tr>
+</tbody>
+</table>
+
+### A.4 Social, Economic, and Cultural Development Provisions
+
+Article VI, Section 12 mandates the Bangsamoro Government to ***"provide assistance to enhance their economic, social, and cultural development."*** The following table maps every BOL provision that defines the substantive content of "economic, social, and cultural development" — the program areas through which the Art. VI, Sec. 12 mandate is operationalized.
+
+<table>
+<colgroup>
+  <col style="width:10%">
+  <col style="width:15%">
+  <col style="width:35%">
+  <col style="width:40%">
+</colgroup>
+<thead>
+<tr><th>Category</th><th>Provision</th><th>Key Text</th><th>OBC Application</th></tr>
+</thead>
+<tbody>
+
+<!-- SOCIAL -->
+<tr>
+  <td rowspan="10"><strong>Social</strong></td>
+  <td>Art. IX, Sec. 8</td>
+  <td><em><strong>"...basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects..."</strong></em></td>
+  <td>Defines the baseline social services OBCs should access — health, education, livelihood, housing. OOBC coordinates with host LGUs and national agencies to close gaps.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 9</td>
+  <td><em><strong>"...housing and human settlements agency to address the lack of shelters...especially those victims of conflicts and atrocities."</strong></em></td>
+  <td>Conflict-displaced OBCs are priority beneficiaries. Housing programs coordinated by OOBC with NHA and host LGUs.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 10</td>
+  <td><em><strong>"...fundamental rights of all workers to self-organization, collective bargaining..."</strong></em></td>
+  <td>OBC labor rights protection, livelihood support, and skills training through DOLE and host LGU programs.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 11-12</td>
+  <td><em><strong>"...uphold and protect the fundamental rights of women..."</strong></em></td>
+  <td>Women-focused social programs for OBCs — anti-GBV, livelihood, health, and legal aid.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 13</td>
+  <td><em><strong>"...promote and protect their physical, moral, spiritual, intellectual, and social well-being."</strong></em></td>
+  <td>Youth development programs for OBC communities — sports, education, leadership, civic engagement.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 14</td>
+  <td><em><strong>"...respect, protect, and promote the rights of children, especially orphans of tender age."</strong></em></td>
+  <td>Child protection and welfare programs for OBC communities, coordinated with DSWD.</td>
+</tr>
+<tr>
+  <td>Art. IX, Secs. 16-18</td>
+  <td><em><strong>"...a complete and integrated system of quality education..."</strong></em> (Sec. 16)<br><em><strong>"...establish, maintain, and supervise Madaris education..."</strong></em> (Sec. 18)</td>
+  <td>Education access for OBCs: Madaris support, Islamic/Arabic studies integration, scholarship programs, and coordination with DepEd.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 22</td>
+  <td><em><strong>"...comprehensive and integrated health service delivery..."</strong></em></td>
+  <td>Health programs for OBCs — primary care, hospital access, disease prevention, maternal and child health, coordinated with DOH and host LGU health offices.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 23</td>
+  <td><em><strong>"...special agency, support facilities and livelihood or skills training for persons with special needs..."</strong></em></td>
+  <td>PWD, elderly, and disadvantaged persons programs for OBC populations, coordinated with DSWD and host LGUs.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 7</td>
+  <td><em><strong>"...disaster risk reduction and management and climate change adaptation."</strong></em></td>
+  <td>DRRM support for disaster-vulnerable OBC communities, coordinated with NDRRMC and host LGU DRRMCs.</td>
+</tr>
+
+<!-- ECONOMIC -->
+<tr>
+  <td rowspan="8"><strong>Economic</strong></td>
+  <td>Art. XIII, Sec. 1</td>
+  <td><em><strong>"The Bangsamoro Government shall establish an economic system based on the principles and state policies declared in the Constitution."</strong></em></td>
+  <td>The social justice and economic development principles that guide the Bangsamoro economy also inform the economic component of OBC assistance programs.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 2</td>
+  <td><em><strong>"...equitable and sustainable development...economic development that facilitates growth and full employment, human development, and social justice."</strong></em></td>
+  <td>OBC economic programs must target sustainable livelihoods, employment, and equitable development — not one-time dole-outs.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 5</td>
+  <td><em><strong>"...at least five percent (5%) of the total budget appropriation...shall be set aside for gender-responsive programs..."</strong></em></td>
+  <td>OBC programs must allocate at least 5% for gender-responsive economic interventions (women's livelihood, cooperatives, microfinance).</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 23</td>
+  <td><em><strong>"...advance agriculture as a key development strategy, promote productivity measures, and provide support for small farmers..."</strong></em></td>
+  <td>Agricultural livelihood for OBC farming communities. Many OBCs in Regions IX, X, XI, XII are agricultural workers.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 24</td>
+  <td><em><strong>"...building up of entrepreneurial capability...recognize, promote, protect, and support the development of cooperatives and other medium, small, and micro enterprises."</strong></em></td>
+  <td>Trade, industry, and cooperative development for OBC entrepreneurs. OOBC can coordinate with DTI, CDA, and BARMM's trade ministry to support OBC MSMEs and cooperatives.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 27</td>
+  <td><em><strong>"...recognize, protect, and promote the establishment of cooperative enterprises...promote social entrepreneurship..."</strong></em></td>
+  <td>Cooperative and social enterprise development for OBCs — leveraging collective economic action to address community needs.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Sec. 30</td>
+  <td><em><strong>"The Bangsamoro Government shall have the power to accredit halal-certifying bodies...promote awareness through the development and implementation of a halal campaign program."</strong></em></td>
+  <td>Halal industry development for OBC communities — halal certification awareness, market access for OBC halal producers and businesses.</td>
+</tr>
+<tr>
+  <td>Art. XIII, Secs. 31-34</td>
+  <td><em><strong>"...Islamic banking and finance system, to include...the promotion and development of Shari'ah-compliant financial institutions."</strong></em> (Sec. 32)</td>
+  <td>Islamic banking and financial services access for OBCs — Shari'ah-compliant savings, microfinance, and investment products serving OBC communities.</td>
+</tr>
+
+<!-- CULTURAL -->
+<tr>
+  <td rowspan="5"><strong>Cultural</strong></td>
+  <td>Art. IX, Sec. 4</td>
+  <td><em><strong>"The customs, beliefs, and traditions of the Bangsamoro people are hereby recognized, protected, and guaranteed."</strong></em></td>
+  <td>Cultural preservation in diaspora — protecting OBC communities' right to practice Bangsamoro customs, including marriage traditions, conflict resolution customs, and communal practices.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 18</td>
+  <td><em><strong>"...establish, maintain, and supervise Madaris education...ensure the integration in the elementary and high school education curricula the teaching of Islamic and Arabic studies..."</strong></em></td>
+  <td>Islamic education access for OBCs — Madaris support, Islamic and Arabic studies in host region public schools serving OBC populations.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 24</td>
+  <td><em><strong>"The Bangsamoro Government shall preserve the history, culture, arts, traditions, and the rich cultural heritage of the Bangsamoro people and their Sultanates..."</strong></em></td>
+  <td>Cultural heritage preservation in OBC communities — documentation of oral traditions, support for cultural practitioners, and preservation of Sultanate heritage among diaspora populations.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 25</td>
+  <td><em><strong>"...primary responsibility to write the history of the Bangsamoro people and to establish and sustain the cultural institutions, programs, and projects..."</strong></em></td>
+  <td>Including OBC narratives in Bangsamoro historiography. OBC experiences of displacement, migration, and community-building in host regions are part of the Bangsamoro story.</td>
+</tr>
+<tr>
+  <td>Art. IX, Sec. 26</td>
+  <td><em><strong>"The National Government shall transfer the management of Bangsamoro historical and cultural sites..."</strong></em></td>
+  <td>Identification and preservation of Bangsamoro cultural sites in OBC areas — ancestral lands, historical markers, and heritage sites outside BARMM that are part of Bangsamoro history.</td>
+</tr>
+
+<!-- FISCAL -->
+<tr>
+  <td rowspan="3"><strong>Fiscal</strong></td>
+  <td>Art. XII, Sec. 1</td>
+  <td><em><strong>"The Bangsamoro Government shall enjoy fiscal autonomy...shall have the power to create its sources of revenues as provided in this Organic Law..."</strong></em></td>
+  <td>Fiscal autonomy enables the Bangsamoro Government to allocate funds for OBC programs. OOBC's budget is part of the Office of the Chief Minister's budget under BAA 13.</td>
+</tr>
+<tr>
+  <td>Art. XII, Secs. 15-19</td>
+  <td><em><strong>"The National Government shall provide an annual block grant..."</strong></em> (Sec. 15)<br><em><strong>"The Parliament shall assign the highest budgetary priority to education, health, and social services..."</strong></em> (Sec. 19)</td>
+  <td>The block grant is the primary funding source for BARMM operations, including OBC programs. Parliament's priority for education, health, and social services aligns with the core needs of OBC populations.</td>
+</tr>
+<tr>
+  <td>Art. XIV, Secs. 1-2</td>
+  <td><em><strong>"...intensify development efforts for the rehabilitation, reconstruction, and development...address the needs of internally displaced persons, widows and orphans, and poverty-stricken communities."</strong></em> (Sec. 1)<br><br><em><strong>"The National Government shall provide a special development fund to the Bangsamoro Government for the rebuilding, rehabilitation, and development of its conflict-affected communities."</strong></em> (Sec. 2)</td>
+  <td>The Special Development Fund (PHP 5 billion/year for 10 years) targets conflict-affected communities. While the SDF is for communities within BARMM's territorial jurisdiction, Art. VI, Sec. 12's rehabilitation mandate creates a parallel obligation for OBC rehabilitation that must be funded through other mechanisms (GAAB allocation or OCM budget).</td>
+</tr>
+</tbody>
+</table>
+
+### A.5 Institutional Framework
+
+BAA No. 13 (Bangsamoro Administrative Code) establishes the institutional framework for OBC assistance. The Office for Other Bangsamoro Communities (OOBC) is located in **Book IV (Office of the Chief Minister), Title III (Functions of the Office of the Chief Minister), Chapter 1 (Different Offices in the Office of the Chief Minister Proper), Section D**.
+
+**Full verbatim text of BAA 13, Book IV, Title III, Chapter 1, Section D (Secs. 5-8):**
+
+> ***"Sec. 5. Office for Other Bangsamoro Communities. — The Office for Other Bangsamoro Communities is created to ensure the protection of the rights and enhance the economic, social, and cultural development of Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region."***^3^
+
+> ***"Sec. 6. Mandate. — The Office shall be the primary unit in the Office of the Chief Minister that recommends policies and systematic programs for promoting the welfare of Bangsamoro communities outside the region, including provision of services, in coordination with local government units as well as appropriate national government agencies."***^4^
+
+> ***"Sec. 7. Organization and Composition. — The Office shall be headed by an Executive Director assisted by a Deputy Executive Director, with the ranks of Director II and Director I, respectively, who shall both be appointed by the Chief Minister. Their appointments shall be coterminous with the appointing authority."***^5^
+
+> ***"The Office of the Chief Minister may propose the appropriate structure for this Office."***^5^
+
+> ***"Sec. 8. Functions. — The Office shall have the following functions:"***^6^
+>
+> ***"a. Gather information on and assess the economic, social, and cultural needs of Bangsamoro communities located outside of the region;"***
+>
+> ***"b. Recommend to the Chief Minister projects and activities for the promotion of the welfare of Bangsamoro communities outside the region;"***
+>
+> ***"c. Coordinate with the appropriate ministry, office, or agency, including the Bangsamoro Satellite Coordinating Offices in the conduct of activities that provide social, economic, and cultural interventions to the other Bangsamoro communities; and"***
+>
+> ***"d. Perform such other functions as may be directed by the Chief Minister or other proper authorities."***^6^
+
+**Organizational context.** OOBC is one of four offices in the Office of the Chief Minister Proper under Chapter 1, Title III, Book IV of BAA 13:
+
+| Section | Office | Function |
+|---------|--------|----------|
+| A | Internal Audit Office | Management control and operations audits of OCM |
+| B | Information and Communications Office | ICT security, network infrastructure, MIS for OCM |
+| C | Legal and Legislative Liaison Office | Legal services, policy coordination, legislative liaison |
+| **D** | **Office for Other Bangsamoro Communities** | **OBC rights protection, welfare, and development coordination** |
+
+All four offices are directly under the Office of the Chief Minister Proper. This placement means OOBC has **no fiscal autonomy** — its budget is part of OCM's budget. OOBC is a **recommendatory and coordinative body**: it recommends to the Chief Minister (Sec. 8(b)), coordinates with ministries and BASCOs (Sec. 8(c)), and gathers information (Sec. 8(a)). When OOBC "implements," it is OCM implementing through OOBC.
+
+**BASCO coordination.** Section 8(c) explicitly links OOBC to the Bangsamoro Satellite Coordinating Offices (BASCOs). BAA 13, Book IV, Title II, Chapter 1, Section C(7) establishes BASCOs as part of the Bangsamoro Management and Support System (BMSS):
+
+> ***"(7) Bangsamoro Satellite Coordinating Offices — The Chief Minister shall be represented by his/her Deputy Chief Ministers in the Bangsamoro Satellite Coordinating Offices (BASCOs), for Mainland and Island Provinces. The BASCOs shall:"***^7^
+>
+> ***"a. Serve as coordinating offices of the Chief Minister in the represented sub-regions; and"***
+>
+> ***"b. Perform other functions as directed by the Chief Minister or by his/her authorized representative."***
+
+BASCOs serve as coordination nodes within BARMM's sub-regions. For OBC work, BASCOs can serve as staging points for outreach to OBC communities in adjacent regions — OOBC coordinates through BASCOs to extend the Chief Minister's reach beyond BARMM territory.
+
+### A.6 BAA 13 "Promotion of Welfare" Scope
+
+Section 6 of BAA 13 defines OOBC's mandate as ***"promoting the welfare of Bangsamoro communities outside the region, including provision of services."*** The term "welfare" is not defined in the BAA, but its scope can be derived from three sources: (1) Art. VI, Sec. 12 of the BOL, (2) the four functions in BAA 13, Sec. 8, and (3) the BAA 13 creation provision in Sec. 5.
+
+**What "welfare" encompasses.** Section 5 states that OOBC is created to ensure ***"the protection of the rights and enhance the economic, social, and cultural development."*** Read together with the BOL provisions mapped in Sections A.3 and A.4 above, "welfare" encompasses every domain of human development:
+
+| Domain | BOL Basis | Program Areas |
+|--------|-----------|---------------|
+| **Rights protection** | Art. VI, Sec. 12 (first sentence); Art. IX, Secs. 1-26 | Anti-discrimination advocacy, legal aid, human rights monitoring, transitional justice claims |
+| **Education** | Art. IX, Secs. 16-21 | Madaris support, Islamic/Arabic studies, scholarship programs, technical-vocational training |
+| **Health** | Art. IX, Sec. 22 | Primary care access, hospital referral, maternal/child health, disease prevention |
+| **Livelihood** | Art. XIII, Secs. 23-24, 27 | Agriculture, cooperatives, MSMEs, social enterprises, skills training |
+| **Housing** | Art. IX, Sec. 9 | Shelter assistance, human settlements, relocation support for displaced OBCs |
+| **Cultural preservation** | Art. IX, Secs. 4, 24-26 | Heritage documentation, cultural institutions, arts programs, language preservation |
+| **Religious services** | Art. IX, Sec. 5; Art. V, Sec. 2(aa) | Mosque support, halal access, Hajj/Umrah facilitation, Islamic education |
+| **Social services** | Art. IX, Secs. 8, 13-14, 23 | Youth programs, child protection, PWD/elderly support, disaster response |
+| **Governance participation** | Art. VI, Sec. 9(d) | Council of Leaders representation, consultative mechanisms, community organizing |
+
+**Mapping Sec. 8's four functions to program areas.** Each of the four functions in BAA 13, Sec. 8 maps to specific operational roles:
+
+| Function | Operational Role | Program Area |
+|----------|-----------------|--------------|
+| **(a) Gather information and assess needs** | Data collection, needs assessment, community profiling, situation analysis | MANA (Mapping and Needs Assessment), PSA data compilation, community surveys, baseline studies |
+| **(b) Recommend projects and activities** | Policy formulation, program design, budget proposals, priority-setting | Policy recommendations to the Chief Minister, annual work plans, budget proposals to OCM |
+| **(c) Coordinate with ministries, offices, BASCOs** | Inter-agency coordination, program delivery through MAOs, BASCO liaison | Joint programs with BARMM ministries (education, health, social services, trade), LGU coordination, NGA engagement |
+| **(d) Other functions as directed by the CM** | Flexible mandate expansion at the Chief Minister's discretion | Special projects, emergency response, diplomatic engagements, field operations as directed |
+
+**How OOBC's coordinative mandate covers the full scope of Art. VI, Sec. 12.** OOBC does not directly implement programs — it recommends and coordinates. But through its coordinative function (Sec. 8(c)), OOBC can mobilize the entire BARMM bureaucracy for OBC work. Every ministry, agency, and office (MAO) with programs relevant to OBCs can be engaged through OOBC's coordination mandate. The Chief Minister, as head of the executive, can direct any MAO to include OBC components in its programs — and OOBC serves as the coordinating hub for this cross-cutting mandate. Function (d) — ***"such other functions as may be directed by the Chief Minister"*** — provides the legal basis for the Chief Minister to expand OOBC's operational role as needed.
+
+---
+
+## B. Constitutional Dimensions
+
+The OBC mandate operates within the framework of the 1987 Philippine Constitution, which both authorizes and shapes the scope of Bangsamoro governance over communities outside BARMM.
+
+### B.1 Authorization
+
+The constitutional basis for autonomous regions — and by extension, for the OBC mandate — rests on four provisions:
+
+1. **Art. X, Sec. 1** — ***"There shall be autonomous regions in Muslim Mindanao and the Cordilleras as hereinafter provided."*** The Constitution names "Muslim Mindanao" as a basis for autonomy, recognizing a people-based (not purely territory-based) claim to self-governance. The Bangsamoro people exist both inside and outside the resulting autonomous region.
+
+2. **Art. X, Sec. 15** — ***"There shall be created autonomous regions in Muslim Mindanao and in the Cordilleras consisting of provinces, cities, municipalities, and geographical areas sharing common and distinctive historical and cultural heritage, economic and social structures, and other relevant characteristics within the framework of this Constitution and the national sovereignty as well as territorial integrity of the Republic of the Philippines."*** The "common and distinctive historical and cultural heritage" that justifies autonomy is not confined to BARMM territory — it is shared by all Bangsamoro people, including those in OBCs.
+
+3. **Art. X, Sec. 18** — Organic acts for autonomous regions shall define the basic structure of government, provide for special courts, and define the relation of autonomous regional government units to the national government and to other local government units. This authorization enables the BOL's intergovernmental relations framework (Art. VI), including Art. VI, Sec. 12's OBC provision.
+
+4. **Art. X, Sec. 20** — Autonomous regions have legislative power over, among others, personal, family, and property relations; regional urban and rural planning development; economic, social, and tourism development; and other matters authorized by law for the promotion of the general welfare of the people of the region. The "promotion of the general welfare of the people of the region" language supports a reading that extends welfare promotion to Bangsamoro people outside the territorial region.
+
+### B.2 Bill of Rights
+
+The 1987 Constitution's Bill of Rights (Article III) provides the floor for OBC rights protection:
+
+**Due process and equal protection** (Art. III, Sec. 1) — ***"No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws."*** OBCs are entitled to equal protection in their host regions. Discriminatory treatment based on Bangsamoro identity violates this constitutional guarantee.
+
+**Religious freedom** (Art. III, Sec. 5) — ***"No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof."*** This protects OBC religious practice — mosque construction, halal observance, Islamic education, and religious assembly — in host regions where Muslims are a minority.
+
+**Right to information** (Art. III, Sec. 7) and **right to association** (Art. III, Sec. 8) — These protect OBC community organizations, peoples' organizations, and their right to access information about government programs and services available to them.
+
+### B.3 Social Justice
+
+Article XIII of the Constitution mandates social justice across multiple dimensions relevant to OBCs:
+
+**Labor** (Art. XIII, Secs. 1-3) — The State shall afford full protection to labor and promote full employment, ensure equal work opportunities, and guarantee the rights of workers. OBC workers, many of whom are in informal or precarious employment in host regions, are protected under these provisions.
+
+**Health** (Art. XIII, Sec. 11) — The State shall adopt an integrated and comprehensive approach to health development. This obligates host LGUs and national health agencies to include OBCs in health service delivery.
+
+**Women** (Art. XIII, Sec. 14) — The State shall protect working women by providing safe and healthful working conditions, considering their maternal functions. Bangsamoro women in OBCs are protected under both constitutional and BOL guarantees.
+
+**Peoples' organizations** (Art. XIII, Sec. 15-16) — The State shall respect the role of independent people's organizations and enable them to effectively participate in governance. OBC peoples' organizations are a key mechanism for community participation in development planning and program delivery.
+
+### B.4 Education, Science, and Culture
+
+Article XIV of the Constitution reinforces the cultural and educational dimensions of OBC welfare:
+
+**Education access** (Art. XIV, Sec. 1) — The State shall protect and promote the right of all citizens to quality education at all levels. OBCs are entitled to the same quality of education as all Filipino citizens.
+
+**Religious instruction** (Art. XIV, Sec. 3(3)) — ***"At the option expressed in writing by the parents or guardians, religion shall be allowed to be taught to their children or wards in public elementary and high schools..."*** This authorizes Islamic religious instruction in public schools serving OBC populations, supporting the BOL's mandate for Islamic and Arabic studies integration (Art. IX, Sec. 18).
+
+**Cultural heritage** (Art. XIV, Secs. 14-18) — The State shall foster the preservation, enrichment, and dynamic evolution of a Filipino national culture based on the principle of unity in diversity. Bangsamoro cultural heritage in OBC communities — arts, languages, traditions, historical knowledge — is protected under these provisions.
+
+### B.5 National Economy
+
+Article XII of the Constitution provides the economic framework within which OBC development programs operate:
+
+**Cooperatives** (Art. XII, Sec. 15) — The Congress shall create an agency to promote the viability and growth of cooperatives as instruments for social justice and economic development. OBC cooperatives are a priority vehicle for economic development under both the Constitution and the BOL (Art. XIII, Secs. 24, 27).
+
+**Economic goals** (Art. XII, Secs. 1-2) — The national economy shall be under the control of Filipino citizens, with the goals of more equitable distribution of opportunities, income, and wealth; sustained increase in goods and services; and an expanding productivity as the key to raising the quality of life. OBC economic programs must align with these national economic goals while addressing the specific development needs of Bangsamoro communities in host regions.
+
+---
+
+## Footnotes
+
+1. Rep. Act No. 11054, sec. 12, art. VI.
+2. Rep. Act No. 11054, secs. 1-26, art. IX; secs. 5, 7, art. XIII; sec. 1, art. II; secs. 2, 7, 10, art. IV.
+3. BAA No. 13, sec. 5, bk. IV, tit. III, ch. 1, sec. D.
+4. BAA No. 13, sec. 6, bk. IV, tit. III, ch. 1, sec. D.
+5. BAA No. 13, sec. 7, bk. IV, tit. III, ch. 1, sec. D.
+6. BAA No. 13, sec. 8, bk. IV, tit. III, ch. 1, sec. D.
+7. BAA No. 13, sec. 25(7), bk. IV, tit. II, ch. 1, sec. C.
+# Section C: National Law Framework for OBC Social, Economic, Cultural Development
+
+The Bangsamoro Organic Law (RA 11054) does not operate in a vacuum. Bangsamoro communities outside the autonomous region remain subject to the full range of Philippine national laws that govern education, health, social welfare, labor, and local governance. These national laws create both rights and institutional mechanisms that OBC populations can access — and that OOBC must coordinate with when delivering programs outside BARMM's territorial jurisdiction.
+
+This section catalogs 40+ national laws organized into 14 categories, identifying each law's relationship to OBC and its practical application. Because OOBC operates through coordination with LGUs and national government agencies (per BAA 13, Sec. 8(c)), understanding this national law landscape is essential for program design and implementation.
+
+---
+
+## C.1 Education
+
+Education is the most frequently cited need of OBCs in the 2024-2025 MANA. National education laws create the framework within which OOBC coordinates madaris integration, scholarship programs, and alternative learning systems for Bangsamoro learners outside BARMM.
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 9155</strong> (2001)</td>
+  <td>Governance of Basic Education Act</td>
+  <td>Decentralizes basic education governance to school divisions, creating the institutional framework through which OOBC coordinates madaris integration and ALS programs in LGUs hosting OBCs.</td>
+  <td>School divisions in Regions IX, X, XI, XII are the primary partners for OBC education interventions.</td>
+</tr>
+<tr>
+  <td><strong>RA 7722</strong> (1994)</td>
+  <td>Higher Education Act (creating CHED)</td>
+  <td>CHED regulates higher education institutions accessible to OBC youth. Scholarship programs coordinated through CHED benefit OBC students in host regions.</td>
+  <td>OOBC coordinates with CHED regional offices for scholarship access and madrasah graduate recognition.</td>
+</tr>
+<tr>
+  <td><strong>RA 10533</strong> (2013)</td>
+  <td>Enhanced Basic Education Act (K-12)</td>
+  <td>Establishes the K-12 curriculum framework that applies to all OBC learners in public schools outside BARMM. Provides for mother tongue-based multilingual education relevant to Bangsamoro-speaking communities.</td>
+  <td>OBC learners follow K-12 standards; OOBC advocates for Bangsamoro language integration in host-region schools.</td>
+</tr>
+<tr>
+  <td><strong>RA 11650</strong> (2022)</td>
+  <td>Inclusive Education Act</td>
+  <td>Mandates inclusive education for learners with disabilities, including OBC children with special needs who may lack access to specialized services outside BARMM.</td>
+  <td>Ensures OBC learners with disabilities receive appropriate accommodations in host-region schools.</td>
+</tr>
+<tr>
+  <td><strong>RA 10908</strong> (2016)</td>
+  <td>Integration of Filipino-Muslim and IP History in Education</td>
+  <td>Mandates the integration of Filipino-Muslim history, identity, and contributions into the national curriculum — directly supporting cultural preservation for OBC youth.</td>
+  <td>OBC communities benefit from curriculum reform that validates their identity in schools outside BARMM.</td>
+</tr>
+</tbody>
+</table>
+
+## C.2 Muslim Affairs
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 9997</strong> (2009)</td>
+  <td>National Commission on Muslim Filipinos Act</td>
+  <td>NCMF is the primary national agency serving Muslim Filipinos outside BARMM, including OBCs. It coordinates Hajj, Muslim civil registry, and community services. The BOL amends Section 8 of RA 9997 (Art. XVIII, Sec. 4(h)).</td>
+  <td>OOBC coordinates with NCMF for OBC services — Hajj facilitation, Muslim registry, and community programs in host regions.</td>
+</tr>
+</tbody>
+</table>
+
+## C.3 Halal
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 10817</strong> (2016)</td>
+  <td>Philippine Halal Export Development and Promotion Act</td>
+  <td>National halal certification framework. OBC entrepreneurs and cooperative members outside BARMM access halal certification through the national system rather than BARMM's Bangsamoro Halal Board.</td>
+  <td>OBC-based halal enterprises and food producers outside BARMM apply for certification under the national framework.</td>
+</tr>
+</tbody>
+</table>
+
+## C.4 Health
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 11223</strong> (2019)</td>
+  <td>Universal Health Care Act</td>
+  <td>Guarantees health coverage for all Filipinos, including OBCs. Automatically enrolls all citizens in PhilHealth — a critical benefit for OBC populations with historically low PhilHealth registration.</td>
+  <td>OOBC facilitates PhilHealth enrollment drives and health facility access in OBC-concentrated areas.</td>
+</tr>
+<tr>
+  <td><strong>RA 11036</strong> (2018)</td>
+  <td>Mental Health Act</td>
+  <td>Provides for mental health services in communities and workplaces. OBC populations — many of whom are conflict-affected or displaced — have elevated mental health needs.</td>
+  <td>OOBC coordinates with DOH regional offices for psychosocial support services in OBC communities.</td>
+</tr>
+<tr>
+  <td><strong>RA 10354</strong> (2012)</td>
+  <td>Responsible Parenthood and Reproductive Health Act</td>
+  <td>Provides for reproductive health services and information. OBC women in underserved communities face barriers to maternal and reproductive health access.</td>
+  <td>OOBC coordinates with LGU health offices for maternal health services in OBC-concentrated barangays.</td>
+</tr>
+</tbody>
+</table>
+
+## C.5 Social Protection
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 11310</strong> (2019)</td>
+  <td>Pantawid Pamilyang Pilipino Program Act</td>
+  <td>Institutionalizes the Pantawid Pamilyang Pilipino Program (4Ps). OBC families in poverty are eligible regardless of location — the BOL itself mandates continued national 4Ps funding (Art. VI, Sec. 13).</td>
+  <td>OOBC ensures OBC households are identified and enrolled in 4Ps through DSWD regional offices.</td>
+</tr>
+<tr>
+  <td><strong>RA 9994</strong> (2010)</td>
+  <td>Expanded Senior Citizens Act</td>
+  <td>Provides benefits and privileges for senior citizens. BOL Art. IX, Sec. 23 mandates support for senior citizens; OBC elderly outside BARMM access benefits through the national system.</td>
+  <td>OBC senior citizens claim benefits through LGU offices in host regions.</td>
+</tr>
+</tbody>
+</table>
+
+## C.6 Cooperatives and Enterprise
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 9520</strong> (2008)</td>
+  <td>Philippine Cooperative Code</td>
+  <td>Governs all cooperatives in the Philippines. OBC cooperatives outside BARMM register and operate under this national code rather than the Bangsamoro cooperative code.</td>
+  <td>OBC livelihood cooperatives are registered with CDA and supervised under national cooperative law.</td>
+</tr>
+<tr>
+  <td><strong>RA 9501</strong> (2008)</td>
+  <td>Magna Carta for MSMEs</td>
+  <td>Provides support framework for micro, small, and medium enterprises — the primary enterprise type in OBC communities.</td>
+  <td>OBC entrepreneurs access MSME support programs through DTI and LGU channels in host regions.</td>
+</tr>
+<tr>
+  <td><strong>RA 10644</strong> (2014)</td>
+  <td>Go Negosyo Act</td>
+  <td>Establishes Negosyo Centers in all cities and municipalities to assist MSMEs. OBC entrepreneurs access business registration, mentoring, and financing through these centers.</td>
+  <td>OOBC coordinates with Negosyo Centers in OBC-concentrated LGUs for enterprise development.</td>
+</tr>
+</tbody>
+</table>
+
+## C.7 Local Governance
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 7160</strong> (1991)</td>
+  <td>Local Government Code</td>
+  <td>Governs LGUs where OBCs reside. LGUs are OOBC's primary coordination partners for service delivery. The BOL itself mandates coordination with LGUs (Art. VI, Sec. 12). BOL Art. VI, Sec. 10 guarantees that LGU privileges under RA 7160 shall not be diminished.</td>
+  <td>OBC service delivery requires MOAs/MOUs with host LGUs under the LGC framework.</td>
+</tr>
+</tbody>
+</table>
+
+## C.8 Indigenous Peoples
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 8371</strong> (1997)</td>
+  <td>Indigenous Peoples Rights Act (IPRA)</td>
+  <td>Protects rights of indigenous peoples including non-Moro IPs in BARMM and Bangsamoro-related IPs outside the region. BOL Art. IX, Sec. 3 affirms that IPRA rights shall not be diminished.</td>
+  <td>OBC areas with IP populations (e.g., Teduray, Lambangian communities outside BARMM) retain IPRA protections.</td>
+</tr>
+</tbody>
+</table>
+
+## C.9 Disaster Management
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 10121</strong> (2010)</td>
+  <td>Philippine Disaster Risk Reduction and Management Act</td>
+  <td>Establishes the national DRRM framework. OBC populations — many in disaster-prone or conflict-affected areas — access DRRM services through LGU and national systems. BOL Art. XIII, Sec. 7 creates a Bangsamoro DRRM Council but its jurisdiction is within BARMM.</td>
+  <td>OBC communities access disaster preparedness, response, and rehabilitation through host-LGU DRRM offices.</td>
+</tr>
+</tbody>
+</table>
+
+## C.10 Labor
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>PD 442</strong> (1974, as amended)</td>
+  <td>Labor Code of the Philippines</td>
+  <td>Governs employment relations for all Filipino workers. OBC workers outside BARMM are governed by the national Labor Code rather than BAA 82 (Bangsamoro Labor and Employment Code).</td>
+  <td>OBC workers' rights — minimum wage, security of tenure, occupational safety — are enforced through DOLE regional offices.</td>
+</tr>
+<tr>
+  <td><strong>RA 8042</strong> (1995, as amended by RA 10022)</td>
+  <td>Migrant Workers and Overseas Filipinos Act</td>
+  <td>Protects OFWs including Bangsamoro overseas workers. BAA 19 creates a Bangsamoro-specific overseas worker protection framework that complements this national law.</td>
+  <td>Bangsamoro OFWs outside BARMM access national migrant worker protections while OOBC coordinates with MOLE-BARMM for supplementary support.</td>
+</tr>
+</tbody>
+</table>
+
+## C.11 Women
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 9262</strong> (2004)</td>
+  <td>Anti-Violence Against Women and Their Children Act</td>
+  <td>Provides protection orders and criminal penalties for violence against women and children. OBC women outside BARMM access these protections through national courts and LGU social welfare offices.</td>
+  <td>OBC women access VAWC desks and protection orders through host-LGU mechanisms.</td>
+</tr>
+<tr>
+  <td><strong>RA 9710</strong> (2009)</td>
+  <td>Magna Carta of Women</td>
+  <td>Comprehensive women's rights law mandating gender mainstreaming in all government programs. BOL Art. IX, Sec. 11-12 and Art. XIII, Sec. 5 complement this for Bangsamoro women; outside BARMM, the national MCW governs.</td>
+  <td>OOBC programs incorporate gender-responsive design as required by the MCW.</td>
+</tr>
+</tbody>
+</table>
+
+## C.12 Persons with Disabilities
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 7277</strong> (1992, as amended by RA 9442 and RA 10754)</td>
+  <td>Magna Carta for Persons with Disability</td>
+  <td>Provides rights, privileges, and benefits for PWDs. BOL Art. IX, Sec. 23 mandates Bangsamoro Government support for persons with special needs; outside BARMM, OBC PWDs access benefits under national law.</td>
+  <td>OBC PWDs claim discount privileges and access rehabilitation services through national and LGU channels.</td>
+</tr>
+</tbody>
+</table>
+
+## C.13 Youth
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 8044</strong> (1995)</td>
+  <td>Youth in Nation-Building Act</td>
+  <td>Creates the National Youth Commission and provides for youth development programs. BOL Art. IX, Sec. 13 and BAA 10 create the Bangsamoro Youth Commission; outside BARMM, OBC youth access national youth programs.</td>
+  <td>OBC youth access Sangguniang Kabataan mechanisms and national youth programs through host LGUs.</td>
+</tr>
+</tbody>
+</table>
+
+## C.14 Cultural Heritage
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:25%">
+  <col style="width:33%">
+  <col style="width:30%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Relationship to OBC</th><th>Application</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>RA 10066</strong> (2009)</td>
+  <td>National Cultural Heritage Act</td>
+  <td>Provides for the preservation and protection of cultural heritage, including intangible heritage such as Bangsamoro traditions, oral histories, and performing arts maintained by OBC communities.</td>
+  <td>OBC cultural preservation — okir, pangalay, traditional weaving, oral traditions — can access national heritage protection mechanisms.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+# PART II: OBC LEGAL SOURCES
+
+This Part catalogs all legal sources that constitute, authorize, or support programs for Other Bangsamoro Communities. The eight tables below progress from the organic law (BOL), through enacted Bangsamoro legislation (BAAs), parliamentary actions, national laws, Islamic legal principles, jurisprudence, pending legislation, and development plan alignment.
+
+---
+
+## Table 1: BOL Provisions Relevant to OBC
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:45%">
+  <col style="width:40%">
+</colgroup>
+<thead>
+<tr><th>Provision</th><th>Verbatim Text</th><th>Explanation</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Art. II, Sec. 1</strong></td>
+  <td>***"Those who, at the advent of the Spanish colonization, were considered natives or original inhabitants of Mindanao and the Sulu archipelago and its adjacent islands, whether of mixed or of full blood, shall have the right to identify themselves, their spouses and descendants, as Bangsamoro."***</td>
+  <td>Bangsamoro identity is not geographically bounded. OBCs outside BARMM retain their right to self-identify as Bangsamoro — the foundational basis for all OBC programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. IV, Sec. 2</strong></td>
+  <td>***"In the exercise of its right to self-governance, the Bangsamoro Autonomous Region is free to pursue its political, economic, social, and cultural development as provided for in this Organic Law."***</td>
+  <td>Self-governance includes the authority to pursue development for the Bangsamoro people — a category that extends beyond the territorial jurisdiction.</td>
+</tr>
+<tr>
+  <td><strong>Art. IV, Sec. 7</strong></td>
+  <td>***"The Bangsamoro Government shall ensure every Filipino citizen in its territorial jurisdiction the provision of the basic necessities and equal opportunities in life. Social justice shall be promoted in all aspects of life and phases of development in the Bangsamoro Autonomous Region."***</td>
+  <td>Social justice obligation. While territorially limited, this principle extends through Art. VI, Sec. 12 to OBCs outside the region.</td>
+</tr>
+<tr>
+  <td><strong>Art. IV, Sec. 10</strong></td>
+  <td>***"The freedom of choice of all peoples within the Bangsamoro Autonomous Region shall be respected. Indigenous peoples shall have the freedom to retain their distinct indigenous and ethnic identity in addition to their Bangsamoro political identity. There shall be no discrimination on the basis of identity, religion, and ethnicity."***</td>
+  <td>Non-discrimination principle. OBCs in host LGUs face discrimination based on identity, religion, and ethnicity — this provision establishes the normative standard.</td>
+</tr>
+<tr>
+  <td><strong>Art. V, Sec. 2(r)</strong></td>
+  <td>***"Development programs and laws for women, labor, the youth, the elderly, the differently-abled, and indigenous peoples"***</td>
+  <td>Bangsamoro Government authority over development programs for vulnerable sectors — applicable to OBC women, youth, elderly, and PWDs through OOBC coordination.</td>
+</tr>
+<tr>
+  <td><strong>Art. V, Sec. 2(v)</strong></td>
+  <td>***"Education and skills training"***</td>
+  <td>Bangsamoro authority over education and skills training — the basis for OBC scholarship, madaris support, and TVET programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. V, Sec. 2(bb)</strong></td>
+  <td>***"Health"***</td>
+  <td>Bangsamoro authority over health — the basis for OBC health interventions including medical missions and PhilHealth enrollment drives.</td>
+</tr>
+<tr>
+  <td><strong>Art. V, Sec. 2(dd)</strong></td>
+  <td>***"Humanitarian services and institutions"***</td>
+  <td>Bangsamoro authority over humanitarian services — directly applicable to OBC populations, many of whom are conflict-displaced diaspora communities.</td>
+</tr>
+<tr>
+  <td><strong>Art. V, Sec. 2(vv)</strong></td>
+  <td>***"Social services, social welfare, and charities"***</td>
+  <td>Bangsamoro authority over social services — the basis for OBC social welfare interventions including livelihood, housing, and relief programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. VI, Sec. 9(d)</strong></td>
+  <td>***"Representatives of traditional leaders, non-Moro indigenous communities, women, settler communities, the Ulama, youth, and Bangsamoro communities outside of the Bangsamoro Autonomous Region"***</td>
+  <td>The Council of Leaders must include OBC representatives — the first explicit mention of OBCs in the BOL's governance structure. This ensures OBC voices reach the Chief Minister.</td>
+</tr>
+<tr>
+  <td><strong>Art. VI, Sec. 12</strong></td>
+  <td>***"The National Government shall ensure the protection of the rights of the Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region and undertake programs for their rehabilitation and development. The Bangsamoro Government, in coordination with the local government units where these communities are located and the appropriate national government agencies, shall provide assistance to enhance their economic, social, and cultural development."***</td>
+  <td>The primary legal basis for OBC programs. Establishes a dual obligation: (1) National Government shall ensure rights protection and undertake rehabilitation/development; (2) Bangsamoro Government shall provide assistance in coordination with LGUs and NGAs. This is the provision that OOBC implements.</td>
+</tr>
+<tr>
+  <td><strong>Art. VII, Sec. 5(a)</strong></td>
+  <td>***"Enact laws to promote, protect, and ensure the general welfare of the Bangsamoro people and other inhabitants in the Bangsamoro Autonomous Region"***</td>
+  <td>Parliamentary power to legislate for the welfare of the Bangsamoro people — the legislative basis for BAAs that affect OBCs.</td>
+</tr>
+<tr>
+  <td><strong>Art. VII, Sec. 7(c)</strong></td>
+  <td>***"Reserved seats and sectoral representatives shall constitute at least ten percent (10%) of the members of the Parliament, which shall include two (2) reserved seats each for non-Moro indigenous peoples and settler communities."***</td>
+  <td>Parliamentary representation structure. While OBCs do not have a dedicated seat, the sectoral representation model (women, youth, traditional leaders, Ulama) creates advocacy channels for OBC concerns.</td>
+</tr>
+<tr>
+  <td><strong>Art. VII, Sec. 42</strong></td>
+  <td>***"The Parliament may create other offices such as for the youth, women, settler communities, disaster risk reduction and management, and planning and development"***</td>
+  <td>The enabling provision for Parliament to create offices — the framework under which BAA 13 created OOBC within OCM.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 1</strong></td>
+  <td>***"The Bangsamoro Parliament, taking into account the report of the Transitional Justice and Reconciliation Commission, shall enact a transitional justice mechanism to address the legitimate grievances of the Bangsamoro people and the indigenous peoples, such as historical injustices, human rights violations, and marginalization through unjust dispossession of territorial and proprietary rights and customary land tenure."***</td>
+  <td>Transitional justice applies to all Bangsamoro people, including OBCs who were dispossessed. Many OBCs are descendants of communities displaced by the Jabidah Massacre, martial law, and the Bangsamoro wars.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 4</strong></td>
+  <td>***"The customs, beliefs, and traditions of the Bangsamoro people are hereby recognized, protected, and guaranteed."***</td>
+  <td>Cultural protection applies to all Bangsamoro people regardless of location. OBC communities maintaining customs, beliefs, and traditions outside BARMM are protected by this provision.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 6</strong></td>
+  <td>***"The Bangsamoro Government shall fully respect human rights."***</td>
+  <td>Human rights obligation extends to all OBC-related government action.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 8</strong></td>
+  <td>***"The Bangsamoro Government shall provide, maintain, and ensure the delivery of basic and responsive health programs, quality education, appropriate services, livelihood opportunities, affordable and progressive housing projects, power and electricity, and water supply, among others, to the Bangsamoro people and other inhabitants of the Bangsamoro Autonomous Region."***</td>
+  <td>Enumerates the basket of basic services. While territorially bounded, OOBC's mandate under Art. VI, Sec. 12 is to extend analogous assistance to OBCs outside the region.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 13</strong></td>
+  <td>***"The Bangsamoro Government shall recognize the vital role of the youth in nation-building, promote and protect their physical, moral, spiritual, intellectual, and social well-being."***</td>
+  <td>Youth protection — applicable to OBC youth through OOBC coordination with the Bangsamoro Youth Commission (BAA 10).</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 16</strong></td>
+  <td>***"It shall be a top priority of the Bangsamoro Government to establish, maintain, and support a complete and integrated system of quality education"***</td>
+  <td>Education as top priority — the basis for OOBC education programs including scholarships, madaris support, and ALS for OBCs.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 17</strong></td>
+  <td>***"The thrusts and programs of vocational, technical, nonformal, and special education of the Bangsamoro Autonomous Region educational system for the poor, illiterate, out-of-school youth, persons with special needs, disadvantaged, and senior citizens shall be supportive and relevant to the human resource requirements of the Bangsamoro Autonomous Region"***</td>
+  <td>TVET and non-formal education for disadvantaged populations — applicable to OBC out-of-school youth and adults who need skills training.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 18</strong></td>
+  <td>***"In coordination with the Department of Education, Commission on Higher Education, and Technical Education and Skills Development Authority, the Bangsamoro Government shall establish, maintain, and supervise Madaris education in the Bangsamoro Autonomous Region."***</td>
+  <td>Madaris education mandate. While territorially bounded, OOBC coordinates madaris-related programs for OBCs in coordination with DepEd and CHED.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 22</strong></td>
+  <td>***"The Bangsamoro Government shall adopt a policy on health that provides for a comprehensive and integrated health service delivery for its constituents."***</td>
+  <td>Health service delivery mandate — the policy basis for OBC health missions and interventions coordinated by OOBC.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 23</strong></td>
+  <td>***"The Bangsamoro Government shall establish a special agency, support facilities and livelihood or skills training for persons with special needs, and other disadvantaged persons for their rehabilitation and productive integration into mainstream society."***</td>
+  <td>Support for disadvantaged persons — applicable to OBC PWDs, senior citizens, and vulnerable populations.</td>
+</tr>
+<tr>
+  <td><strong>Art. IX, Sec. 24</strong></td>
+  <td>***"The Bangsamoro Government shall preserve the history, culture, arts, traditions, and the rich cultural heritage of the Bangsamoro people and their Sultanates"***</td>
+  <td>Cultural preservation mandate. OBC communities maintain Bangsamoro cultural traditions in diaspora — OOBC supports cultural preservation activities outside BARMM.</td>
+</tr>
+<tr>
+  <td><strong>Art. XII, Sec. 1</strong></td>
+  <td>***"The Bangsamoro Government shall enjoy fiscal autonomy with the end in view of attaining economic self-sufficiency and genuine development."***</td>
+  <td>Fiscal autonomy — the basis for allocating Bangsamoro Government funds to OBC programs through the GAAB.</td>
+</tr>
+<tr>
+  <td><strong>Art. XII, Sec. 6</strong></td>
+  <td>***"The Bangsamoro Government shall have the power to create its own sources of revenues and to levy taxes, fees, and charges"***</td>
+  <td>Revenue authority — fiscal capacity to fund OBC programs from Bangsamoro Government revenues.</td>
+</tr>
+<tr>
+  <td><strong>Art. XII, Sec. 15</strong></td>
+  <td>***"The National Government shall provide an annual block grant which shall be the share of the Bangsamoro Government in the national internal revenue tax collections"***</td>
+  <td>Block grant — the primary funding source from which OBC programs are allocated. Art. XII, Sec. 19 requires highest priority for education, health, and social services.</td>
+</tr>
+<tr>
+  <td><strong>Art. XII, Sec. 19</strong></td>
+  <td>***"The Parliament shall assign the highest budgetary priority to education, health, and social services as may be provided in its appropriations law."***</td>
+  <td>Budget priority for social sectors — directly supports the case for OBC education, health, and social welfare funding.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 1</strong></td>
+  <td>***"The Bangsamoro Government shall establish an economic system based on the principles and state policies declared in the Constitution."***</td>
+  <td>Economic system grounded in social justice — the basis for OBC livelihood and economic development programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 7</strong></td>
+  <td>***"The Bangsamoro Government recognizes the importance of disaster risk reduction and management and climate change adaptation."***</td>
+  <td>DRRM recognition — relevant to OBC communities in disaster-prone areas outside BARMM.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 23</strong></td>
+  <td>***"The Bangsamoro people, indigenous peoples, and resident marginal fisherfolk shall enjoy preferential fishing rights in the Bangsamoro regional waters"***</td>
+  <td>Fishing rights — relevant to OBC fisherfolk who may seek access to Bangsamoro waters.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 24</strong></td>
+  <td>***"The Bangsamoro Government recognizes the private sector as a mover of trade, commerce, and industry."***</td>
+  <td>Enterprise development — the basis for OBC cooperative and MSME programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 27</strong></td>
+  <td>***"The Bangsamoro Government shall recognize, protect, and promote the establishment of cooperative enterprises."***</td>
+  <td>Cooperative development mandate — the basis for OBC cooperative formation and strengthening programs.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 30</strong></td>
+  <td>***"The Bangsamoro Government shall have the power to accredit halal-certifying bodies in the Bangsamoro Autonomous Region."***</td>
+  <td>Halal program — relevant to OBC halal enterprise development.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 31</strong></td>
+  <td>***"The Bangsamoro Government shall encourage the establishment of: (a) Banks and financial institutions and their branches including an Islamic window in domestic and foreign conventional banks"***</td>
+  <td>Islamic banking access — relevant to OBC financial inclusion through Shari'ah-compliant banking.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIII, Sec. 35</strong></td>
+  <td>***"The Bangsamoro Government shall promote tourism within the Bangsamoro Autonomous Region."***</td>
+  <td>Tourism development — OBC areas with cultural tourism potential (e.g., Bangsamoro heritage sites outside BARMM) can benefit from coordinated tourism promotion.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIV, Sec. 1</strong></td>
+  <td>***"The Bangsamoro Government, with funding support from the National Government, shall intensify development efforts for the rehabilitation, reconstruction, and development of the Bangsamoro Autonomous Region as part of the normalization process. It shall formulate and implement a program for rehabilitation and development that will address the needs of... internally displaced persons, widows and orphans, and poverty-stricken communities."***</td>
+  <td>Rehabilitation and development mandate. Many OBCs are IDPs, widows, orphans, and members of poverty-stricken communities who were displaced from BARMM — this provision extends to them.</td>
+</tr>
+<tr>
+  <td><strong>Art. XIV, Sec. 2</strong></td>
+  <td>***"The National Government shall provide a special development fund to the Bangsamoro Government for the rebuilding, rehabilitation, and development of its conflict-affected communities."***</td>
+  <td>Special Development Fund (PHP 50B over 10 years). While designated for conflict-affected communities within BARMM, OBCs are themselves conflict-affected diaspora communities — a potential advocacy point for SDF access.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 2: Bangsamoro Autonomy Acts (BAAs) Relevant to OBC
+
+<table>
+<colgroup>
+  <col style="width:8%">
+  <col style="width:22%">
+  <col style="width:45%">
+  <col style="width:10%">
+</colgroup>
+<thead>
+<tr><th>BAA</th><th>Title</th><th>How It Implements OBC Mandate</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>BAA 8</strong></td>
+  <td>Bangsamoro Women Commission Act</td>
+  <td>Sec. 3.4 — Requires an advisory council including ***"one woman representative each from the following stakeholders: youth, civil society organizations, traditional leaders, Bangsamoro communities outside BARMM and religious leaders."*** OBC women have a mandated advisory role in the BWC.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 10</strong></td>
+  <td>Bangsamoro Youth Commission Act</td>
+  <td>Sec. 7(k) — Requires a youth advisory council including ***"youth representatives from local government units in the BARMM, women sector, civil society organizations, traditional leaders, Bangsamoro communities outside BARMM, and religious leaders."*** OBC youth have a mandated advisory role in the BYC.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 13</strong></td>
+  <td>Bangsamoro Administrative Code</td>
+  <td>Secs. 5-8 — Creates OOBC within OCM Office Proper with four functions: (a) gather information and assess needs, (b) recommend projects, (c) coordinate with ministries and BASCOs, (d) perform other functions directed by CM. Also establishes the Bangsamoro Satellite Coordinating Offices (BASCOs) that serve as OOBC's field coordination mechanism.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 18</strong></td>
+  <td>Bangsamoro Education Code</td>
+  <td>Establishes the Bangsamoro education system framework. OBC education programs — scholarships, madaris integration, ALS — draw their policy basis from this code. Encourages lifelong learning for all Bangsamoro People beyond regular schooling.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 19</strong></td>
+  <td>Bangsamoro Overseas Employment Act</td>
+  <td>Sec. 3 — Applies to ***"all Overseas Bangsamoro Workers and Overseas Bangsamoro within Bangsamoro territory and give assistance to Overseas Bangsamoro outside Bangsamoro territory."*** Explicitly extends protection beyond BARMM borders, establishing a model for extra-territorial OBC service delivery.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 31</strong></td>
+  <td>Bangsamoro Sustainable Development Board Act</td>
+  <td>Sec. 3(2) — Adopts the principle of social justice including ***"equity in access to resources and the benefits derived from them; provision of the basic necessities and equal opportunities in life including basic services; housing and human settlements; labor rights"*** — applicable to OBCs as part of the Bangsamoro mandate population.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 49</strong></td>
+  <td>Bangsamoro Local Governance Code</td>
+  <td>Establishes local governance structures within BARMM. While not directly applicable to OBC areas (which are outside BARMM), the code creates the LGU coordination framework through which BARMM LGUs partner with adjacent non-BARMM LGUs hosting OBCs.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 50</strong></td>
+  <td>Bangsamoro Kulliyyah for Islamic Studies Act</td>
+  <td>Creates the BKIS for Islamic higher education. OBC youth seeking Islamic higher education can access the Kulliyyah — extending Islamic education services beyond BARMM territory to the Bangsamoro diaspora.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 57</strong></td>
+  <td>Mujahideen Under Special Circumstance Act</td>
+  <td>Sec. 3 — Financial assistance to MILF/MNLF mujahideen who are senior citizens or permanently disabled. Many mujahideen reside in OBC areas outside BARMM — the act applies to qualified beneficiaries regardless of location.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 59</strong></td>
+  <td>Bangsamoro Agriculture and Fisheries Training Institute Act</td>
+  <td>Creates BAFTI for agricultural extension and training. OBC farming and fishing communities can access BAFTI training programs through OOBC coordination, strengthening OBC livelihood capacity.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 62</strong></td>
+  <td>Internally Displaced Persons Protection Act</td>
+  <td>Provides a rights-based framework for IDPs including education continuity, health services, civil documentation, and durable solutions. Many OBCs are former IDPs or their descendants — the act's principles apply to displacement-related vulnerabilities that persist in diaspora communities.</td>
+  <td>In Force</td>
+</tr>
+<tr>
+  <td><strong>BAA 64</strong></td>
+  <td>Indigenous Peoples Rights Act (BARMM)</td>
+  <td>Sec. 4 — Reaffirms IP rights within BARMM including the principle that IPs may retain ***"their distinct indigenous and ethnic identity in addition to their Bangsamoro political identity."*** Relevant to OBC communities that include non-Moro IPs (Teduray, Lambangian) who reside outside BARMM.</td>
+  <td>In Force</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 3: Parliamentary Resolutions
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:30%">
+  <col style="width:35%">
+  <col style="width:20%">
+</colgroup>
+<thead>
+<tr><th>Resolution</th><th>Title</th><th>OBC Relevance</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>PB 205</strong> [UNVERIFIED]</td>
+  <td>Resolution on Social Justice for Other Bangsamoro Communities [UNVERIFIED]</td>
+  <td>Reported to express Parliament's sense that OBC populations require social justice interventions, supporting OOBC's mandate to deliver humanitarian and development services. [UNVERIFIED — resolution number, title, and content require confirmation from Parliament records]</td>
+  <td>[UNVERIFIED]</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 4: National Laws — Summary
+
+<table>
+<colgroup>
+  <col style="width:12%">
+  <col style="width:28%">
+  <col style="width:15%">
+  <col style="width:45%">
+</colgroup>
+<thead>
+<tr><th>Law</th><th>Title</th><th>Category</th><th>OBC Application</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>RA 9155</strong></td><td>Basic Education Governance Act</td><td>Education</td><td>School division coordination for OBC learners</td></tr>
+<tr><td><strong>RA 7722</strong></td><td>Higher Education Act</td><td>Education</td><td>CHED scholarship access for OBC students</td></tr>
+<tr><td><strong>RA 10533</strong></td><td>K-12 Enhanced Basic Education Act</td><td>Education</td><td>Curriculum framework for OBC learners</td></tr>
+<tr><td><strong>RA 11650</strong></td><td>Inclusive Education Act</td><td>Education</td><td>Accommodations for OBC learners with disabilities</td></tr>
+<tr><td><strong>RA 10908</strong></td><td>Muslim and IP History in Education</td><td>Education</td><td>Cultural identity validation in schools</td></tr>
+<tr><td><strong>RA 9997</strong></td><td>NCMF Act</td><td>Muslim Affairs</td><td>NCMF services for OBCs — Hajj, registry, programs</td></tr>
+<tr><td><strong>RA 10817</strong></td><td>Halal Export Development Act</td><td>Halal</td><td>Halal certification for OBC enterprises</td></tr>
+<tr><td><strong>RA 11223</strong></td><td>Universal Health Care Act</td><td>Health</td><td>Automatic PhilHealth enrollment for OBCs</td></tr>
+<tr><td><strong>RA 11036</strong></td><td>Mental Health Act</td><td>Health</td><td>Psychosocial services for conflict-affected OBCs</td></tr>
+<tr><td><strong>RA 10354</strong></td><td>Reproductive Health Act</td><td>Health</td><td>Maternal health for OBC women</td></tr>
+<tr><td><strong>RA 11310</strong> (2019)</td><td>Pantawid Pamilyang Pilipino Program Act</td><td>Social Protection</td><td>Conditional cash transfers for OBC households in poverty</td></tr>
+<tr><td><strong>RA 9994</strong></td><td>Expanded Senior Citizens Act</td><td>Social Protection</td><td>Senior citizen benefits for OBC elderly</td></tr>
+<tr><td><strong>RA 9520</strong></td><td>Cooperative Code</td><td>Enterprise</td><td>OBC cooperative registration and governance</td></tr>
+<tr><td><strong>RA 9501</strong></td><td>MSME Magna Carta</td><td>Enterprise</td><td>MSME support for OBC entrepreneurs</td></tr>
+<tr><td><strong>RA 10644</strong></td><td>Go Negosyo Act</td><td>Enterprise</td><td>Negosyo Center access for OBC enterprises</td></tr>
+<tr><td><strong>RA 7160</strong></td><td>Local Government Code</td><td>Governance</td><td>LGU coordination framework for OBC service delivery</td></tr>
+<tr><td><strong>RA 8371</strong></td><td>IPRA</td><td>Indigenous Peoples</td><td>IP rights for OBC areas with indigenous populations</td></tr>
+<tr><td><strong>RA 10121</strong></td><td>DRRM Act</td><td>Disaster</td><td>Disaster services for OBCs in vulnerable areas</td></tr>
+<tr><td><strong>PD 442</strong></td><td>Labor Code</td><td>Labor</td><td>Worker protections for OBC employees</td></tr>
+<tr><td><strong>RA 8042</strong></td><td>Migrant Workers Act</td><td>Labor</td><td>OFW protections for Bangsamoro overseas workers</td></tr>
+<tr><td><strong>RA 9262</strong></td><td>Anti-VAWC Act</td><td>Women</td><td>Protection orders for OBC women</td></tr>
+<tr><td><strong>RA 9710</strong></td><td>Magna Carta of Women</td><td>Women</td><td>Gender mainstreaming in OBC programs</td></tr>
+<tr><td><strong>RA 7277</strong></td><td>PWD Magna Carta</td><td>PWD</td><td>PWD benefits for OBC persons with disabilities</td></tr>
+<tr><td><strong>RA 8044</strong></td><td>Youth in Nation-Building Act</td><td>Youth</td><td>Youth programs for OBC young people</td></tr>
+<tr><td><strong>RA 10066</strong></td><td>National Cultural Heritage Act</td><td>Culture</td><td>Cultural heritage protection for OBC traditions</td></tr>
+</tbody>
+</table>
+
+---
+
+## Table 5: Shari'ah and Islamic Legal Sources
+
+<table>
+<colgroup>
+  <col style="width:20%">
+  <col style="width:25%">
+  <col style="width:55%">
+</colgroup>
+<thead>
+<tr><th>Source / Principle</th><th>Arabic Term</th><th>Application to OBC</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>'Adl</strong> (Justice/Equity)</td>
+  <td>العدل</td>
+  <td>The Qur'anic imperative of justice requires equitable treatment of all Bangsamoro — including those residing outside the territorial jurisdiction. Withholding services from OBCs while serving those within BARMM violates the principle that ***"God commands justice and doing good"*** (Qur'an 16:90). OBC funding equity is a matter of 'adl.</td>
+</tr>
+<tr>
+  <td><strong>Maslahah</strong> (Public Interest)</td>
+  <td>المصلحة</td>
+  <td>The principle that governance must serve the common good (maslahah 'ammah). Bangsamoro development that excludes 30-42% of the mandate population fails the maslahah test. OBC programs serve communal welfare by strengthening the entire Bangsamoro polity.</td>
+</tr>
+<tr>
+  <td><strong>Ummah Solidarity</strong></td>
+  <td>الأمة</td>
+  <td>The Hadith principle that ***"the believers in their mutual kindness, compassion, and sympathy are like one body"*** (Sahih Muslim). OBCs remain part of the Bangsamoro ummah regardless of geographic location. The obligation to serve them is not diminished by distance.</td>
+</tr>
+<tr>
+  <td><strong>Mustad'afin</strong> (Vulnerable/Oppressed)</td>
+  <td>المستضعفين</td>
+  <td>The Qur'anic concept of the mustad'afin — the vulnerable and oppressed — who have a special claim on the community's resources (Qur'an 4:75, 4:97-98). OBC populations, many of whom are conflict-displaced, economically marginalized, and politically underrepresented, fall squarely within the mustad'afin category.</td>
+</tr>
+<tr>
+  <td><strong>Hijrah Protection</strong></td>
+  <td>الهجرة</td>
+  <td>The Prophet Muhammad (SAW) established the precedent that migrant communities (muhajirun) receive full support from the receiving community (ansar). OBCs are the modern muhajirun — Bangsamoro people who migrated to communities outside their homeland. The Hijrah precedent obligates the Bangsamoro Government to protect and assist them.</td>
+</tr>
+<tr>
+  <td><strong>Ihsan</strong> (Excellence in Service)</td>
+  <td>الإحسان</td>
+  <td>The Islamic principle of ihsan requires not merely meeting minimum obligations but striving for excellence. For OBC programs, ihsan means going beyond token assistance to provide comprehensive, dignity-affirming development programs.</td>
+</tr>
+<tr>
+  <td><strong>Amanah</strong> (Trusteeship)</td>
+  <td>الأمانة</td>
+  <td>Public office in Islam is an amanah — a trust from God and the people. Government officials entrusted with OBC programs bear a sacred obligation to deliver services faithfully and accountably. Fiscal mismanagement of OBC funds violates the amanah principle.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 6: Jurisprudence
+
+<table>
+<colgroup>
+  <col style="width:20%">
+  <col style="width:25%">
+  <col style="width:55%">
+</colgroup>
+<thead>
+<tr><th>Case</th><th>Citation</th><th>OBC Relevance</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Province of North Cotabato v. GRP Peace Panel</strong></td>
+  <td>G.R. No. 183591, October 14, 2008</td>
+  <td>The Supreme Court ruled on the constitutionality of the MOA-AD, addressing the territorial scope of Bangsamoro autonomy. The decision established that autonomous region boundaries must be determined by plebiscite — which means OBC areas that did not vote for inclusion in BARMM remain outside the territorial jurisdiction, creating the very category of "communities outside" that OOBC serves.</td>
+</tr>
+<tr>
+  <td><strong>Sema v. COMELEC</strong></td>
+  <td>G.R. No. 177597, July 16, 2008</td>
+  <td>The Supreme Court addressed autonomous region powers regarding the creation of provinces and legislative districts, clarifying the limits of autonomous region authority. Relevant to understanding why Bangsamoro Government authority does not extend to OBC areas but why the duty to assist (Art. VI, Sec. 12) is constitutionally valid.</td>
+</tr>
+<tr>
+  <td><strong>Province of Sulu v. GRP</strong></td>
+  <td>G.R. No. 242255, September 9, 2024</td>
+  <td>The Supreme Court ruled on the exclusion of Sulu from BARMM, fundamentally altering BARMM's territorial jurisdiction and population base. Post-Sulu, BARMM population is approximately 3.4 million, making OBC populations (1.5-2.5 million) an even more significant proportion of the total Bangsamoro mandate population (30-42%).</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 7: Pending Parliament Bills
+
+<table>
+<colgroup>
+  <col style="width:15%">
+  <col style="width:30%">
+  <col style="width:35%">
+  <col style="width:20%">
+</colgroup>
+<thead>
+<tr><th>Bill</th><th>Title</th><th>OBC Relevance</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>PB 205</strong> [UNVERIFIED]</td>
+  <td>Social Justice for OBC [UNVERIFIED]</td>
+  <td>Reported parliamentary bill addressing social justice interventions for Other Bangsamoro Communities, potentially providing a stronger legislative mandate for OBC programs beyond the administrative framework of BAA 13. [UNVERIFIED — bill number, title, content, and status require confirmation from Parliament records]</td>
+  <td>[UNVERIFIED]</td>
+</tr>
+<tr>
+  <td><strong>PB 394</strong></td>
+  <td>OBC Bill [UNVERIFIED for exact title]</td>
+  <td>A bill specifically addressing Other Bangsamoro Communities that has been the subject of OOBC position papers and policy analysis. The bill would potentially create a stronger legislative framework for OBC programs, including dedicated budget mechanisms. [UNVERIFIED — bill details require confirmation]</td>
+  <td>[UNVERIFIED]</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Table 8: Development Plan Alignment
+
+<table>
+<colgroup>
+  <col style="width:20%">
+  <col style="width:25%">
+  <col style="width:55%">
+</colgroup>
+<thead>
+<tr><th>BDP 2023-2028 Goal</th><th>Focus Area</th><th>OBC Program Alignment</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Goal 1: Meaningful Self-Determination</strong></td>
+  <td>Governance and political participation</td>
+  <td>OBC representation in the Council of Leaders (Art. VI, Sec. 9(d)), advisory councils in BWC (BAA 8) and BYC (BAA 10), and participation in governance mechanisms. OOBC ensures OBC voices are heard in Bangsamoro policy-making despite geographic distance from the seat of government.</td>
+</tr>
+<tr>
+  <td><strong>Goal 2: Balanced, Inclusive, and Sustainable Economy</strong></td>
+  <td>Livelihood, cooperatives, halal, MSMEs</td>
+  <td>OBC livelihood programs — cooperative formation (RA 9520, Art. XIII, Sec. 27), MSME development (RA 9501, RA 10644), halal enterprise support (RA 10817, Art. XIII, Sec. 30), agricultural training (BAA 59), and skills development. Economic self-sufficiency reduces OBC vulnerability and dependence.</td>
+</tr>
+<tr>
+  <td><strong>Goal 3: Just and Lasting Peace</strong></td>
+  <td>Transitional justice, IDP support, normalization</td>
+  <td>OBCs are the conflict-affected diaspora. Many fled violence during the Bangsamoro wars, the Marawi siege, or generational displacement. Art. IX, Sec. 1 (transitional justice), Art. XIV, Secs. 1-2 (rehabilitation and development), and BAA 62 (IDP protection) all address the conflict-rooted vulnerabilities of OBC populations. BAA 89 (transitional justice) extends this further.</td>
+</tr>
+<tr>
+  <td><strong>Goal 4: Quality Social Services</strong></td>
+  <td>Education, health, social welfare</td>
+  <td>OBC education programs (scholarships, madaris, ALS — Art. IX, Secs. 16-18, BAA 18), health missions and PhilHealth enrollment (Art. IX, Sec. 22, RA 11223), social welfare interventions (Art. IX, Secs. 8, 23). This is the largest OBC program area, addressing the most urgent MANA-identified needs.</td>
+</tr>
+<tr>
+  <td><strong>Goal 5: Cultural Enrichment, Moral Integrity, and Social Harmony</strong></td>
+  <td>Cultural preservation, Islamic education</td>
+  <td>OBC cultural preservation programs — maintaining Bangsamoro identity in diaspora through language programs, cultural events, masjid support, madaris (Art. IX, Sec. 24, BAA 50). OBC communities face cultural assimilation pressure; OOBC counters this through cultural development interventions.</td>
+</tr>
+<tr>
+  <td><strong>Goal 6: Responsive and Connected Infrastructure</strong></td>
+  <td>Community infrastructure</td>
+  <td>OBC community infrastructure needs — madaris buildings, masjid rehabilitation, multipurpose centers, water systems. While BARMM cannot directly build infrastructure outside its territory, OOBC coordinates with host LGUs and national agencies to channel infrastructure support to OBC communities.</td>
+</tr>
+<tr>
+  <td><strong>Mas Matatag Agenda</strong></td>
+  <td>BARMM's enhanced governance framework</td>
+  <td>The Mas Matatag ("Stronger") Agenda reinforces the transition from BTA to elected governance and strengthens institutional capacity. OBC programs benefit from stronger institutions — particularly OOBC's organizational development, BASCO network strengthening, and the professionalization of OBC service delivery mechanisms.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+**Footnotes:**
+
+1. Feliciano, J.T. (2009). "Bangsamoro Identity and Self-Determination: Legal Foundations," *Mindanao Law Journal*, 3(1), pp. 45-78. The concept of Bangsamoro identity as non-geographic (Art. II, Sec. 1) has deep roots in the peace process negotiations, where the MILF consistently argued that the Bangsamoro people are a nation defined by identity, not territory. This distinction is what makes OBC programs constitutionally and legally coherent — the Bangsamoro Government serves a people, not merely a territory.
+
+2. The dual obligation in Art. VI, Sec. 12 — with the National Government bearing the primary duty and the Bangsamoro Government providing assistance "in coordination with" LGUs and NGAs — reflects the intergovernmental relations framework that runs through the entire BOL (Art. VI, Secs. 1-13). OOBC's coordinative and recommendatory nature (BAA 13, Secs. 5-8) mirrors this framework precisely: OOBC does not implement independently but coordinates implementation through the appropriate agencies.
+
+3. The Islamic legal principles cited in Table 5 are grounded in the BOL's own recognition of Shari'ah as a source of law (Art. X, Sec. 3) and the Bangsamoro Government's character as an entity that governs in accordance with Islamic values (Preamble: "reflective of their system of life as prescribed by their faith"). The 'adl and maslahah principles are not merely aspirational — they are normative standards against which Bangsamoro Government policies, including OBC budget allocation, can be evaluated.
+# PART III: LEGAL BRIEFER — OTHER BANGSAMORO COMMUNITIES
+
+> This briefer synthesizes the legal framework for Other Bangsamoro Communities (OBC) into 9 thematic Q&A sections. All verbatim legal text appears in ***bold italic***. Citations follow Philippine legal convention (Article before Section). Cross-references to Part I and Part II avoid repeating material already presented in the reference tables.
+
+---
+
+## A. BOL Grant and Scope
+
+**Q1. What power does the BOL grant regarding Other Bangsamoro Communities?**
+
+A. Article VI, Section 12 of the BOL creates a dual obligation. First, the National Government ***"shall ensure the protection of the rights of the Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region and undertake programs for their rehabilitation and development."*** Second, the Bangsamoro Government, ***"in coordination with the local government units where these communities are located and the appropriate national government agencies, shall provide assistance to enhance their economic, social, and cultural development."***[^1] This is the only BOL provision that extends the Bangsamoro Government's developmental mandate beyond its territorial borders.
+
+**Q2. What specific provisions elaborate this power?**
+
+A. Three additional BOL provisions support Art. VI, Sec. 12:
+
+- **Art. II, Sec. 1** — Defines Bangsamoro identity based on descent from pre-colonial inhabitants of Mindanao and the Sulu archipelago, establishing who qualifies as OBC[^2]
+- **Art. VI, Sec. 9(d)** — Includes representatives of ***"Bangsamoro communities outside of the Bangsamoro Autonomous Region"*** in the Council of Leaders, the highest advisory body to the Chief Minister[^3]
+- **Art. IX, Sec. 18** — Mandates the Bangsamoro Government to ***"establish, maintain, and supervise Madaris education"*** and ***"ensure the integration in the elementary and high school education curricula the teaching of Islamic and Arabic studies for Muslim pupils and students in public schools"*** — supporting educational assistance to OBC[^5]
+
+**Q3. Does the BOL mandate Parliament to enact OBC legislation?**
+
+A. No. Unlike Shari'ah (where Art. X, Sec. 4 expressly grants Parliament legislative authority), the BOL contains no explicit directive to Parliament to legislate on OBC. Article VI, Section 12 creates an obligation of assistance, but does not prescribe the legislative vehicle. Parliament operationalized this obligation through BAA No. 13, which created OOBC as an office within the OCM — an administrative, not legislative, response. A comprehensive OBC Development Act would require Parliament to exercise its general legislative authority under Art. VII, Sec. 3.[^6]
+
+**Q4. Does the BOL create specific bodies for OBC?**
+
+A. The BOL itself does not create an OBC-specific institution. It is BAA No. 13 (Bangsamoro Administrative Code) that establishes the Office for Other Bangsamoro Communities under the Office of the Chief Minister Proper. BAA 13, Section 5 states: ***"The Office for Other Bangsamoro Communities is created to ensure the protection of the rights and enhance the economic, social, and cultural development of Bangsamoro people residing in communities outside the Bangsamoro Autonomous Region."***[^7] The BOL provides the mandate (Art. VI, Sec. 12), while BAA 13 provides the institutional form.
+
+**Q5. What conditions, limitations, and qualifications apply?**
+
+A. Three structural constraints define the scope of OBC assistance:
+
+1. **Coordinative, not regulatory** — Art. VI, Sec. 12 specifies ***"in coordination with the local government units where these communities are located and the appropriate national government agencies"*** — BARMM cannot act unilaterally in non-BARMM territories[^1]
+2. **Developmental, not jurisdictional** — The Bangsamoro Government ***"shall provide assistance to enhance their economic, social, and cultural development"*** — this is a service mandate, not an extension of territorial authority[^1]
+3. **Subject to the general supervision of the President** — Art. VI, Sec. 1 provides that ***"[t]he President shall exercise general supervision over the Bangsamoro Government to ensure that laws are faithfully executed"***[^8]
+
+**Q6. What rights are protected?**
+
+A. The BOL guarantees a comprehensive set of rights to all Bangsamoro people, including OBCs. These rights are enumerated in the reference tables (Part I, Section A.3) and include identity rights (Art. II, Sec. 1), political representation rights (Art. VI, Sec. 9(d)), and developmental rights (Art. VI, Sec. 12). The 1987 Constitution supplements these with equal protection (Art. III, Sec. 1), religious freedom (Art. III, Sec. 5), and social justice guarantees (Art. XIII).
+
+**Q7. What does "economic, social, and cultural development" mean in the OBC context?**
+
+A. The three dimensions map to specific intervention areas (detailed in Part I, Section A.4):
+
+- **Economic** — Livelihood, enterprise development, cooperative formation, halal industry access, employment facilitation, scholarship programs
+- **Social** — Health services, housing assistance, social welfare, legal aid, IDP protection, youth and women's programs
+- **Cultural** — Madaris education, Islamic and Arabic studies, Bangsamoro identity preservation, cultural heritage protection, Hajj/Umrah facilitation
+
+---
+
+## B. Constitutional Considerations
+
+**Q1. What constitutional provisions apply to OBC assistance?**
+
+A. Five constitutional provisions create the legal floor for OBC assistance:
+
+1. **Art. X, Sec. 15** — Authorizes the creation of autonomous regions in Muslim Mindanao ***"within the framework of this Constitution and the national sovereignty as well as territorial integrity of the Republic"***[^9]
+2. **Art. X, Sec. 18** — Grants organic acts authority to provide for special courts with personal, family, and property law jurisdiction[^10]
+3. **Art. X, Sec. 20** — Enumerates legislative powers including ***"personal, family, and property relations"*** and ***"regional urban and rural planning development"***[^11]
+4. **Art. II, Sec. 11** — The State values the dignity of every human person and guarantees full respect for human rights
+5. **Art. XIII** — The Social Justice provisions mandate the State to reduce social inequalities and promote the common good
+
+**Q2. What constitutional rights are guaranteed for OBCs?**
+
+A. OBCs enjoy all rights guaranteed to Filipino citizens, with particular relevance to:
+
+- **Equal protection** (Art. III, Sec. 1) — OBCs cannot be denied government services based on their Bangsamoro identity
+- **Religious freedom** (Art. III, Sec. 5) — Protects Islamic religious practice in non-BARMM areas
+- **Cultural rights** (Art. XIV, Sec. 17) — The State recognizes the rights of cultural communities to preserve their cultures
+- **Education rights** (Art. XIV, Sec. 3(3)) — Permits religious instruction in public schools at the option of parents
+
+**Q3. What constitutional mandates (State shall...) are relevant?**
+
+A. The Constitution imposes affirmative duties: Art. II, Sec. 22 (***"The State recognizes and promotes the rights of indigenous cultural communities within the framework of national unity and development"***); Art. XIII, Sec. 1 (Congress must give highest priority to enactment of measures that protect the underprivileged); and Art. XIV, Sec. 17 (State shall recognize, respect, and protect the rights of cultural communities).[^12]
+
+**Q4. How do national obligations and Bangsamoro assistance interact?**
+
+A. Art. VI, Sec. 12 creates a dual-track system: the National Government bears the primary obligation to ***"ensure the protection of the rights"*** and ***"undertake programs for their rehabilitation and development"*** while the Bangsamoro Government provides supplementary ***"assistance."***[^1] Neither obligation displaces the other. The National Government cannot claim that Bangsamoro assistance relieves it of its constitutional duties to Filipino citizens in OBC areas, nor can the Bangsamoro Government claim that national programs relieve it of its organic-law obligation.
+
+---
+
+## C. National Law Considerations
+
+**Q1. What national legal framework applies to OBC areas?**
+
+A. OBC areas fall entirely within the jurisdiction of national law and host-LGU authority. The national legal framework is catalogued in Part I, Section C. Key statutes include RA 8371 (IPRA), RA 7160 (Local Government Code), RA 9997 (NCMF), PD 1083 (Code of Muslim Personal Laws), and RA 11439 (Islamic Banking).
+
+**Q2. Which national laws currently apply in OBC areas?**
+
+A. All national laws apply in OBC areas because these areas are outside BARMM territorial jurisdiction. OBCs in Regions IX, X, XI, and XII are governed by national law as implemented by their respective host LGUs and regional offices of national government agencies.
+
+**Q3. Which national institutions exercise authority?**
+
+A. Eight national agencies are particularly relevant: DSWD (social welfare), DepEd (education), DOLE (labor and employment), NCMF (Muslim affairs), NCIP (indigenous peoples), DOH (health), CHR (human rights), and CDA (cooperative development). These agencies operate through their regional offices in Regions IX, X, XI, and XII.[^13]
+
+**Q4. How do BARMM and national programs interact?**
+
+A. Interaction occurs through three channels: (a) coordination — OOBC coordinates with NGAs for OBC-targeted programs under Art. VI, Sec. 12's ***"in coordination with"*** mandate; (b) supplementation — Art. VI, Sec. 13 explicitly provides that national programs ***"shall continue to be funded by the National Government, without prejudice to the power of the Bangsamoro Government to provide for supplemental funding"***;[^14] and (c) MOA-based partnerships — OOBC can enter memoranda of agreement with host LGUs and NGAs to co-implement programs.
+
+---
+
+## D. Implementation
+
+### D.1 How the Bangsamoro Government Implements
+
+**Q1. Which office is primarily responsible for OBC?**
+
+A. OOBC — the Office for Other Bangsamoro Communities — under the Office of the Chief Minister Proper. BAA 13, Section 6 designates it as ***"the primary unit in the Office of the Chief Minister that recommends policies and systematic programs for promoting the welfare of Bangsamoro communities outside the region."***[^15] OOBC is headed by an Executive Director (Director II rank) assisted by a Deputy Executive Director (Director I), both appointed by and coterminous with the Chief Minister (BAA 13, Sec. 7).[^16]
+
+**Q2. What are OOBC's mandate and functions?**
+
+A. BAA 13, Section 8 enumerates four functions: (a) ***"Gather information on and assess the economic, social, and cultural needs of Bangsamoro communities located outside of the region"***; (b) ***"Recommend to the Chief Minister projects and activities for the promotion of the welfare of Bangsamoro communities outside the region"***; (c) ***"Coordinate with the appropriate ministry, office, or agency, including the Bangsamoro Satellite Coordinating Offices in the conduct of activities that provide social, economic, and cultural interventions to the other Bangsamoro communities"***; and (d) ***"Perform such other functions as may be directed by the Chief Minister or other proper authorities."***[^17] The full text of Secs. 5-8 appears in Part I, Section A.5.
+
+**Q3. What standalone BAAs support OBC?**
+
+A. Ten BAAs have provisions relevant to OBC:
+
+| BAA | Title | OBC-Relevant Provision |
+|-----|-------|----------------------|
+| BAA 8 | Bangsamoro Women's Commission Act | Sec. 9(3.4) — advisory council includes OBC women representative |
+| BAA 10 | Bangsamoro Youth Commission Act | Sec. 7(k) — advisory council includes OBC youth representative |
+| BAA 13 | Bangsamoro Administrative Code | Secs. 5-8 — creates OOBC |
+| BAA 18 | Bangsamoro Education Code | Sec. 3 — establishes the Bangsamoro Education System within BARMM; MBHTE expertise in Islamic education applicable to OBC Madaris through MOA coordination with DepEd in host areas |
+| BAA 19 | Overseas Bangsamoro Workers Act | Sec. 3 — covers OBC members working abroad |
+| BAA 31 | Bangsamoro Sustainable Development Board Act | Sec. 3(2) — social justice and well-being principle: equity in access to resources and basic services, and rights of women, youth, children, and settler communities inform BSDB's OBC-relevant sustainable development activities |
+| BAA 50 | Bangsamoro Kulliyyah for Islamic Studies Act | Secs. 9(i-j) — scholarships accessible to OBC |
+| BAA 59 | Bangsamoro Agriculture and Fisheries Training Institute Act | Sec. 10 — Halal standards relevant to OBC enterprise |
+| BAA 62 | IDP Act | Sec. 4 — covers Bangsamoro displaced to areas outside BARMM |
+| BAA 64 | Bangsamoro Indigenous Peoples' Act of 2024 | Protects indigenous peoples in BARMM; indirectly relevant to OBC indigenous communities (Téduray, Badjao, Sama) whose ancestral domains or communities may extend outside BARMM |
+
+**Q4. What can OOBC NOT do without standalone legislation?**
+
+A. Four limitations constrain OOBC under its current BAA 13 mandate:
+
+1. **Cannot directly implement programs** — OOBC can only recommend and coordinate; OCM implements through OOBC
+2. **Cannot compel ministry participation** — OOBC coordinates, but ministries are not legally obligated to allocate OBC-specific budget lines
+3. **Has no dedicated budget line** — OOBC's budget is embedded within OCM's budget; there is no separate GAAB allocation for OBC
+4. **Cannot establish field offices** — No legal basis exists for permanent OOBC presence in OBC areas without an enabling BAA or executive order
+
+**Q5. Are there parliamentary resolutions signaling intent on OBC?**
+
+A. PB 205 [UNVERIFIED] has been identified as a pending bill related to OBC. The absence of a comprehensive OBC Development Act remains the most significant legislative gap.
+
+### D.1.A Institutional Validation
+
+**Q1. Is OOBC correctly assigned as lead office for OBC?**
+
+A. Yes. BAA 13, Section 6 designates OOBC as ***"the primary unit in the Office of the Chief Minister"*** for OBC — consistent with the BOL's placement of the OBC mandate under Art. VI (Intergovernmental Relations) rather than under any ministry's sectoral jurisdiction.[^15] The OCM placement reflects the cross-cutting, intergovernmental nature of OBC work.
+
+**Q2. What institutions currently exist for OBC?**
+
+A. Five institutional touchpoints serve OBC:
+
+1. **OOBC** — lead office under OCM (BAA 13, Secs. 5-8)
+2. **BASCOs** (Bangsamoro Satellite Coordinating Offices) — referenced in BAA 13, Sec. 8(c) as coordination partners
+3. **BWC Advisory Council** — includes OBC women's representative (BAA 8, Sec. 9(3.4))
+4. **BYC Advisory Council** — includes OBC youth representative (BAA 10, Sec. 7(k))
+5. **Council of Leaders** — includes OBC representative (Art. VI, Sec. 9(d))
+
+**Q3. What BOL-mandated OBC institutions have not been created?**
+
+A. The BOL does not mandate any OBC-specific institution — unlike Shari'ah, where Art. X, Sec. 16 mandates four institutions. The BOL mandates assistance (Art. VI, Sec. 12); BAA 13 responded by creating OOBC. There is no unfulfilled BOL-mandated OBC institution.[^18]
+
+**Q4. Does OBC require new institutions?**
+
+A. Yes. Four institutional needs have been identified through OOBC's operational experience:
+
+1. **OBC Development Fund** — A dedicated fiscal mechanism (either separate GAAB allocation under OCM or mainstreamed MAO budgets) to ensure predictable, adequate funding
+2. **Inter-Agency Coordination Framework** — A formal mechanism obligating ministries to include OBC components in their programs
+3. **OOBC Field Offices** — Permanent presence in Regions IX, X, XI, and XII for community liaison and program monitoring
+4. **OBC Data Portal** — A system building on the Mapping and Needs Assessment (MANA) data to maintain current OBC population and needs information
+
+### D.2 How the National Government Implements
+
+**Q1. What is the NGA role in OBC areas?**
+
+A. NGAs bear primary service-delivery responsibility in OBC areas because these areas fall within national — not BARMM — jurisdiction. Key agencies: DSWD (4Ps, social welfare), DepEd (schools, curriculum), DOLE (employment, labor standards), NCMF (Muslim community welfare, Islamic affairs), NCIP (ancestral domain, indigenous rights), DOH (health facilities, PhilHealth), CHR (human rights protection), and CDA (cooperative registration and development).[^13]
+
+**Q2. What national programs operate in OBC areas?**
+
+A. Five major programs: (a) Pantawid Pamilyang Pilipino Program (4Ps) — conditional cash transfers; (b) PhilHealth — universal health insurance; (c) DepEd schools — basic education delivery; (d) NCMF services — Muslim affairs, Madaris support, cultural programs; (e) NCIP ancestral domain — delineation, protection, and free prior informed consent processes for indigenous communities.[^14]
+
+**Q3. What is the devolution status for OBC areas?**
+
+A. OBC areas are NOT devolved to BARMM. They remain under the jurisdiction of their host LGUs and the national government. OOBC coordinates with — but does not replace — NGA functions. The Bangsamoro Government's authority in OBC areas is limited to the assistance mandate of Art. VI, Sec. 12 and the coordinative functions of BAA 13, Sec. 8.
+
+**Q4. Where do concurrent or overlapping mandates exist?**
+
+A. Two significant overlaps: (a) **NCMF vs. OOBC** — NCMF promotes Muslim community welfare nationwide including OBC areas, while OOBC serves the same population under a different legal basis; (b) **DepEd vs. MBHTE** — DepEd administers Madaris education in non-BARMM areas, while MBHTE has expertise in Islamic education curricula that could benefit OBC Madaris. These overlaps require MOA-based coordination rather than jurisdictional resolution.[^19]
+
+### D.3 BARMM Implementation
+
+**Q1. What has BARMM accomplished for OBC?**
+
+A. Five categories of accomplishment:
+
+1. **Community consultations** — Five regional consultations conducted in 2022-2023 across Regions IX, X, XI, and XII
+2. **MANA assessments** — Mapping and Needs Assessment conducted in 2024 (Regions IX and XII) and 2025 (Regions XI and X), mapping approximately 1.3 million OBC members
+3. **Policy development** — One comprehensive Policy Paper (OOBC-PP-2026-001), 10 Policy Recommendations, and 10 Policy Briefs produced
+4. **Program fragments** — AMBaG (livelihood), TABANG (social assistance), and KAPYANAN (education) programs launched in limited scope
+5. **BASCO coordination** — Satellite coordinating offices serving as liaison points in selected OBC areas
+
+**Q2. Where is BARMM stronger than NGA for OBC?**
+
+A. Five comparative advantages: (a) cultural sensitivity and understanding of Bangsamoro identity; (b) Islamic education expertise through MBHTE and BKIS; (c) community trust built through shared identity and the peace process; (d) MANA data — the only systematic OBC population and needs database; (e) Bangsamoro-specific program design responsive to the unique needs of diaspora communities.
+
+**Q3. What holds BARMM back?**
+
+A. Four structural constraints: (a) no dedicated OBC budget — OOBC operates within OCM's budget with no separate GAAB allocation; (b) no field offices — OOBC has no permanent presence in OBC areas; (c) coordinative-only mandate — OOBC recommends and coordinates but cannot directly implement; (d) no regulatory authority outside BARMM — the Bangsamoro Government cannot impose requirements on host LGUs or NGAs operating in OBC areas.
+
+### D.4 National Government Implementation
+
+**Q1. What has NGA built that BARMM lacks for OBC?**
+
+A. Three infrastructure advantages: (a) service delivery networks — DSWD, DepEd, DOH, and other agencies maintain regional and provincial offices with staff, facilities, and budgets in all OBC areas; (b) data systems — PhilSys, NHTS, and other national databases cover OBC populations; (c) regulatory infrastructure — accreditation, licensing, and compliance enforcement systems that operate in OBC territories.
+
+**Q2. Where does NGA fall short?**
+
+A. Three deficits: (a) no OBC-specific programs — no NGA has a program specifically designed for Bangsamoro communities outside BARMM; (b) no cultural sensitivity to Bangsamoro identity — national programs are designed for general populations, not for a diaspora community with specific cultural, religious, and identity needs; (c) no coordination with BARMM for OBC — no institutional mechanism connects NGA regional offices with OOBC for joint programming.
+
+**Q3. What should BARMM replicate, adapt, or replace?**
+
+A. **Adapt:** Scholarship programs — OOBC can coordinate with CHED and DepEd to channel Bangsamoro-specific scholarships through existing infrastructure. **Replicate:** Data systems — the OBC-MANA portal should build on the MANA assessments to create a standing database comparable to NHTS. **Replace:** Nothing — OOBC supplements but does not replace NGA functions in OBC areas, consistent with the coordinative mandate of BAA 13, Sec. 8.
+
+---
+
+## E. Shari'ah Considerations
+
+**Q1. Is there a Shari'ah dimension to OBC assistance?**
+
+A. Yes. OBCs are predominantly Muslim communities whose daily life is governed by Islamic practice. Shari'ah principles inform the design and delivery of OBC assistance — from educational programming (Madaris) to economic activity (halal enterprise) to family law (PD 1083 application in non-BARMM areas).
+
+**Q2. What BOL Shari'ah provisions are relevant to OBC?**
+
+A. Three provisions have direct OBC application:
+
+1. **Art. IX, Sec. 18** — The mandate to maintain Madaris education and integrate Islamic and Arabic studies supports educational assistance to OBC communities[^5]
+2. **Art. XIII, Sec. 30** — The halal program mandate supports OBC economic development through halal enterprise and certification[^20]
+3. **Art. XIII, Secs. 31-34** — The Islamic banking and finance framework supports OBC financial inclusion through Shari'ah-compliant products[^21]
+
+**Q3. What Islamic principles are relevant?**
+
+A. Five principles inform OBC assistance: (a) ***'Adl*** (justice) — equitable distribution of Bangsamoro Government resources to communities outside the region; (b) ***Maslahah*** (public interest) — OBC assistance serves the common good of the ummah; (c) ummah solidarity — the obligation of a Muslim community to support its members regardless of geographic location; (d) ***mustad'afin*** (vulnerable/oppressed) — Islamic duty to protect vulnerable populations, including diaspora communities; (e) ***hijrah*** protection — the principle that migration does not sever community bonds or religious obligations.
+
+**Q4. How should Shari'ah be integrated into OBC programming?**
+
+A. Three integration pathways: (a) Madaris curriculum extension — MBHTE expertise applied to OBC area Madaris through coordination with DepEd; (b) halal certification — Bangsamoro Halal Board standards promoted for OBC enterprises through MOAs with host-LGU DTI offices; (c) Islamic finance access — Shari'ah-compliant lending and cooperative models made available to OBC entrepreneurs through OOBC-facilitated programs.
+
+---
+
+## F. Divergence Analysis
+
+**Q1. Does the Bangsamoro Government have extraterritorial authority?**
+
+A. No. Article V powers are territorial — they apply within BARMM borders. However, Art. VI, Sec. 12 creates a unique exception: it authorizes the Bangsamoro Government to provide assistance beyond its territory. This is not regulatory authority but developmental assistance. BARMM can fund programs and enter MOAs with host LGUs, but cannot legislate, regulate, or enforce within non-BARMM jurisdictions.[^22]
+
+**Q2. How does territorial vs. personal jurisdiction work for OBC?**
+
+A. This is the fundamental tension in OBC law. The 55 powers in Art. V, Sec. 2 are territorial — they govern the Bangsamoro Autonomous Region. But Art. VI, Sec. 12 is personal/ethnic — it obligates the Bangsamoro Government to serve Bangsamoro people regardless of where they reside. This makes Art. VI, Sec. 12 unique in the BOL: the only provision enabling the Bangsamoro Government to extend its developmental mandate to people outside its borders based on identity rather than territory.[^1]
+
+**Q3. What are the implications of different standards between BARMM and host areas?**
+
+A. Three implications: (a) BARMM cannot impose regulations on non-BARMM LGUs — a halal standard adopted by BARMM has no legal force in Zamboanga or Davao without host-LGU concurrence; (b) coordination-based approach is the only option — MOAs, joint programs, and mutual recognition agreements replace regulatory authority; (c) credentials and certifications require mutual recognition — a Madaris accreditation from MBHTE needs recognition by DepEd to be valid in OBC areas.
+
+---
+
+## G. Legislative Gaps
+
+**Q1. Where do overlapping jurisdictions create confusion?**
+
+A. Three overlaps: (a) OOBC vs. NCMF — both serve Muslim communities outside BARMM, with no formal delineation of respective roles; (b) MBHTE vs. DepEd — Madaris education in OBC areas falls under DepEd jurisdiction, but MBHTE has the Islamic education expertise; (c) BARMM-funded programs in non-BARMM LGU territory — no intergovernmental relations (IGR) framework specific to OBC governs how BARMM programs operate in host-LGU jurisdictions.[^19]
+
+**Q2. Are there pending Parliamentary Bills on OBC?**
+
+A. PB 205 [UNVERIFIED] has been identified as a pending bill with OBC relevance. The legislative pipeline for OBC is sparse compared to other cross-cutting themes such as Shari'ah, which has 30+ pending bills and resolutions.
+
+**Q3. What gaps remain even if pending bills pass?**
+
+A. Three structural gaps persist: (a) no OBC Development Act — a comprehensive law establishing the legal framework for OBC assistance, institutional responsibilities, and programmatic mandates; (b) no OBC Development Fund — a dedicated fiscal mechanism ensuring predictable funding; (c) no IGR framework specific to OBC — a formal mechanism governing how BARMM programs operate in non-BARMM jurisdictions through MOAs, joint committees, and coordination protocols.
+
+---
+
+## H. Development and Policy Connection
+
+### H.1 BDP 2023-2028 Goals
+
+**Q. How do the six BDP goals connect to OBC?**
+
+A. Each Bangsamoro Development Plan goal has an OBC dimension:
+
+| BDP Goal | OBC Connection |
+|----------|---------------|
+| Goal 1: Stable, just, and accountable government | Transparent and accountable OOBC operations; OBC consultation processes; OBC representation in Council of Leaders; IGR mechanisms for OBC coordination |
+| Goal 2: Equitable, competitive, and robust economy | OBC livelihood programs, halal enterprise development, cooperative formation, scholarship and skills training for OBC entrepreneurs and workers |
+| Goal 3: Peaceful, safe, and resilient communities | Protection of OBC rights through coordination with NGA justice institutions; access to Shari'ah courts for personal status matters under PD 1083; disaster resilience for OBC areas |
+| Goal 4: Inclusive, responsive, and quality social services | Health assistance, education (Madaris and scholarship), housing, social welfare services for OBC |
+| Goal 5: Rich and diverse culture preserved | Cultural preservation for diaspora communities, Islamic education, Bangsamoro language programs, cultural exchange with host communities |
+| Goal 6: Strategic, adequate, and climate-resilient infrastructure | Inclusion of OBC areas in BARMM infrastructure coordination; climate resilience for OBC communities in disaster-prone coastal and upland areas |
+
+### H.2 Mas Matatag na Bangsamoro Agenda
+
+**Q. How do the five Matatag pillars map to OBC?**
+
+A. The Mas Matatag na Bangsamoro Agenda (2026-2028), institutionalized under OCM E.O. No. 2, s. 2026, has five pillars with OBC programmatic implications:
+
+- **Pillar A (Mas Matatag na Gobyerno)** — OOBC as a model of accountable, transparent governance; OBC consultation and feedback mechanisms as part of full authority and efficient services
+- **Pillar B (Mas Matatag na Kabuhayan)** — Livelihood, enterprise, halal industry, and cooperative programs targeting OBC areas; OBC communities as part of the Bangsamoro economic constituency
+- **Pillar C (Mas Matatag na Pamayanan)** — Education (scholarships, Madaris), health, social welfare, and root-cause development interventions for OBC communities
+- **Pillar D (Mas Matatag na Seguridad)** — Coordination with NGA justice agencies for OBC rights protection; legal aid for OBC communities facing land disputes, discrimination, or rights violations
+- **Pillar E (Mas Matatag na Paniniwala)** — Madaris support, Islamic education coordination with DepEd in OBC areas, halal certification, and Shari'ah-compliant finance access for OBC Muslims
+
+### H.3 OBC Development as Equity Imperative
+
+**Q. What is the fiscal equity case for OBC investment?**
+
+A. The equity case is compelling. Cumulative General Annual Appropriations for the Bangsamoro (GAAB) from FY 2020 to FY 2026 total approximately PHP 613.3 billion. Of this amount, less than PHP 100 million (< 0.016%) has been allocated to OBC programs.[^23] Meanwhile, the OBC population — Bangsamoro people residing outside BARMM — constitutes 30-42% of the total Bangsamoro mandate population. BARMM's post-Sulu population is approximately 3.4 million; OBC population estimates range from 1.5 to 2.5 million. The proposed allocation of 1% of GAAB (approximately PHP 1.2 billion per year) would begin to address this structural inequity. The approved budget framework proposes a three-year ramp from PHP 1.0 billion (Year 1) to PHP 1.5 billion (Year 3), totaling approximately PHP 3.7 billion.[^24]
+
+---
+
+## I. OBC-Specific Questions
+
+**Q1. Who counts as an OBC member?**
+
+A. An OBC member is any person who satisfies two criteria: (a) Bangsamoro identity under Art. II, Sec. 1 — those who ***"at the advent of the Spanish colonization, were considered natives or original inhabitants of Mindanao and the Sulu archipelago and its adjacent islands, whether of mixed or of full blood"*** and their spouses and descendants;[^2] and (b) residence outside BARMM — ***"residing in communities outside the Bangsamoro Autonomous Region"*** per Art. VI, Sec. 12.[^1]
+
+**Q2. What happened with Sulu post-Supreme Court exclusion?**
+
+A. The Supreme Court, in G.R. No. 242255 (September 9, 2024), excluded Sulu province from BARMM. Executive Order No. 91 (July 30, 2025) operationalized the transition, declaring the Province of Sulu as part of Region IX (Zamboanga Peninsula) and ensuring continuity of government operations and public services. The approximately 952,000 residents of Sulu who identify as Bangsamoro became, by operation of the SC decision, the largest single OBC population — Bangsamoro people now residing outside the Bangsamoro Autonomous Region. This significantly expanded OOBC's mandate population and underscored the urgency of establishing a comprehensive OBC framework.[^25]
+
+**Q3. How does the territorial vs. personal jurisdiction paradox work?**
+
+A. Art. V, Sec. 2 grants the Bangsamoro Government authority over 55 subject matters within its territory. Art. VI, Sec. 12 creates a personal/ethnic mandate extending beyond that territory. The paradox: BARMM has the institutional expertise (Islamic education, halal certification, Bangsamoro cultural programs) but lacks territorial jurisdiction where OBCs reside, while host LGUs have territorial jurisdiction but lack Bangsamoro-specific institutional capacity. Resolution requires coordination frameworks — MOAs, joint programs, secondment arrangements — rather than jurisdictional assertion.
+
+**Q4. What fiscal mechanism funds OBC programs?**
+
+A. Two options have been identified in the approved budget framework:[^24]
+
+- **Option A: Separate GAAB allocation under OCM** — OBC programs receive a distinct budget line within the GAAB, accessed by ministries and agencies (MAOs) per approved guidelines coordinated by OOBC
+- **Option B: Mainstream into MAO budgets** — An Executive Order directs each MAO to include OBC components in their respective budgets, with OOBC ensuring compliance and coordination
+
+Both options maintain OOBC's coordinative role consistent with BAA 13 — OOBC does not hold or disburse funds independently, as it has no fiscal autonomy separate from OCM.
+
+**Q5. How does BARMM coordinate with host LGUs?**
+
+A. Three coordination mechanisms: (a) MOA framework — bilateral agreements with individual LGUs specifying program scope, roles, and resource sharing (the Palawan consultation model serves as a precedent); (b) IGR mechanisms — the Intergovernmental Relations Body under Art. VI, Sec. 2 can be engaged for policy-level coordination; (c) BASCO network — Bangsamoro Satellite Coordinating Offices serve as liaison points where established.
+
+**Q6. What is the MANA methodology?**
+
+A. MANA — Mapping and Needs Assessment — is OOBC's systematic methodology for identifying and profiling OBC communities. Conducted in 2024 (Regions IX and XII) and 2025 (Regions XI and X), MANA mapped approximately 1.3 million OBC members. MANA compiles demographic data, assesses economic, social, and cultural needs, and maps existing service gaps. PSA demographic data used in MANA is attributed to PSA; MANA's original contribution is the community-level needs assessment and service-gap mapping.[^26]
+
+**Q7. What is the difference between OBC and settler communities?**
+
+A. OBC and settler communities are opposite directions of the same phenomenon. **OBC** = Bangsamoro people residing outside BARMM (outward from the autonomous region). **Settler communities** = non-Bangsamoro people residing inside BARMM (inward to the autonomous region). The BOL provides for both: Art. VI, Sec. 12 mandates assistance to OBC, while Art. VII, Sec. 7(c) provides reserved parliamentary seats for settler communities. The two populations have different legal frameworks, different institutional leads, and different programmatic needs.[^27]
+
+---
+
+# PART IV: OBC MAPPING TO THE 55 POWERS
+
+All 55 powers enumerated in BOL Art. V, Sec. 2 are classified by the degree of OBC relevance: **Central** (the power directly shapes OBC programming), **Significant** (the power has a substantial OBC dimension), **Indirect** (the power applies to OBC through general Bangsamoro developmental assistance), or **None** (no meaningful OBC connection).
+
+| # | Letter | Power Name (BOL) | OBC Dimension | Analysis |
+|---|--------|-----------------|---------------|---------|
+| 1 | **(a)** | Administration of justice | Indirect | Shari'ah courts under PD 1083 serve OBC Muslims for personal status matters, but court jurisdiction is national, not BARMM-administered in OBC areas. |
+| 2 | **(b)** | Administrative organization | Significant | BAA 13 places OOBC within OCM's administrative structure. The organizational design of BARMM governance directly determines how OBC is institutionally served. |
+| 3 | **(c)** | Agriculture, livestock, and food security | Significant | OBC communities in Regions IX, X, XI, and XII include agricultural populations. BAA 59 (Agriculture and Fisheries Training Institute) and halal agricultural standards connect to OBC livelihood programs. |
+| 4 | **(d)** | Ancestral domain and natural resources | Indirect | Some OBC communities occupy ancestral domains outside BARMM. NCIP, not BARMM, has jurisdiction, but OOBC can coordinate on Bangsamoro ancestral claims. |
+| 5 | **(e)** | Barter trade and countertrade | Indirect | Relevant to OBC communities in Sulu (post-exclusion) and coastal Regions IX and XII engaged in traditional barter trade. |
+| 6 | **(f)** | Budgeting | Central | The absence of a dedicated OBC budget line is the fundamental fiscal constraint. The proposed 1% of GAAB allocation directly determines OBC program capacity. |
+| 7 | **(g)** | Business name registration | None | Territorial function with no OBC application. |
+| 8 | **(h)** | Cadastral land survey | None | Territorial function; OBC areas are surveyed by national agencies. |
+| 9 | **(i)** | Civil service | Indirect | OOBC staffing and field office personnel fall under BARMM civil service. No direct application to OBC populations. |
+| 10 | **(j)** | Classification of public lands | None | Territorial function; no OBC application. |
+| 11 | **(k)** | Cooperatives and social entrepreneurship | Significant | Cooperative formation among OBC communities — including Shari'ah-compliant models — is a key livelihood strategy. RA 9520 (Cooperative Code) governs OBC cooperatives; OOBC can coordinate with CDA to support Bangsamoro cooperative formation in host areas. |
+| 12 | **(l)** | Creation, division, merger, abolition or alteration of boundaries of municipalities and barangays | None | Territorial function; BARMM cannot create or alter LGUs in non-BARMM areas. |
+| 13 | **(m)** | Creation of GOCCs and pioneer firms | Indirect | A potential OBC Development Fund could be structured as a GOCC or trust fund, but this is prospective. |
+| 14 | **(n)** | Creation of sources of revenues | Indirect | OBC programs are funded from GAAB revenues. No OBC-specific revenue source exists or is proposed. |
+| 15 | **(o)** | Cultural exchange, and economic and technical cooperation | Significant | Cultural exchange programs for OBC — including OIC connections, Islamic education exchanges, and diaspora cultural programming — fall squarely within OBC's cultural development mandate. |
+| 16 | **(p)** | Culture and language | Central | Bangsamoro cultural preservation for diaspora communities is a core OBC mandate. Art. VI, Sec. 12's reference to ***"cultural development"*** directly engages this power. Language programs, cultural heritage, and identity preservation are central to OBC. |
+| 17 | **(q)** | Customary laws | Indirect | Islamic customary practices of OBC communities are governed by PD 1083 in non-BARMM areas, not by BARMM legislation. |
+| 18 | **(r)** | Development programs and laws for women, labor, the youth, the elderly, the differently-abled, and indigenous peoples | Central | BAA 8 (BWC, OBC women's rep), BAA 10 (BYC, OBC youth rep), and the cross-cutting nature of OBC development programs for vulnerable sectors make this a central power. |
+| 19 | **(s)** | Disaster risk reduction and management | Indirect | OBC communities affected by disasters can receive BARMM assistance through coordination with OCD and host LGUs. |
+| 20 | **(t)** | Ecological solid waste management and pollution control | None | Territorial regulatory function; no OBC application. |
+| 21 | **(u)** | Economic zones, industrial centers, and free ports | None | Territorial designation; BARMM cannot establish economic zones in non-BARMM areas. |
+| 22 | **(v)** | Education and skills training | Central | Madaris education (Art. IX, Sec. 18), Islamic and Arabic studies, scholarships (BAA 50, BKIS), and skills training are core OBC interventions under the ***"cultural development"*** mandate. |
+| 23 | **(w)** | Eminent domain | None | Territorial power; BARMM cannot exercise eminent domain outside its jurisdiction. |
+| 24 | **(x)** | Environment, parks, forest management, wildlife, and nature reserves conservation | None | Territorial regulatory function; no OBC application. |
+| 25 | **(y)** | Fishery, marine, and aquatic resources | Indirect | OBC fishing communities in coastal Regions IX and XII may benefit from BARMM fishery expertise through technical cooperation. |
+| 26 | **(z)** | Grants and donations | Significant | BARMM can channel grants and donations to OBC communities. This power provides the legal basis for direct financial assistance to OBC organizations and individuals. |
+| 27 | **(aa)** | Hajj and Umrah | Significant | OBC Muslims undertake Hajj and Umrah. The Bangsamoro Pilgrimage Authority (BAA 13, Secs. 43-46) can extend pilgrimage facilitation services to OBC communities through coordination. |
+| 28 | **(bb)** | Health | Significant | Health assistance to OBC — including culturally appropriate care, Islamic health policies, and health facility support — falls within the ***"social development"*** mandate. |
+| 29 | **(cc)** | Housing and human settlements | Indirect | Housing assistance for OBC is part of the social development mandate but requires host-LGU coordination for any physical intervention. |
+| 30 | **(dd)** | Humanitarian services and institutions | Significant | BAA 62 (IDP Act) covers Bangsamoro displaced outside BARMM. Humanitarian assistance to OBC — including those displaced by Sulu's exclusion — is directly relevant. |
+| 31 | **(ee)** | Human rights | Significant | Protection of OBC rights — against discrimination, displacement, and cultural erosion — is a core mandate. Art. VI, Sec. 12 begins with the National Government's obligation to ***"ensure the protection of the rights"*** of OBC. |
+| 32 | **(ff)** | Indigenous peoples' rights | Indirect | Some OBC communities include indigenous Bangsamoro peoples. NCIP jurisdiction applies, but OOBC coordinates on Bangsamoro-specific indigenous concerns. |
+| 33 | **(gg)** | Inland waters | None | Territorial function; no OBC application. |
+| 34 | **(hh)** | Inland waterways for navigation | None | Territorial function; no OBC application. |
+| 35 | **(ii)** | Islamic banking and finance | Indirect | Shari'ah-compliant financial products for OBC communities depend on national Islamic banking framework (RA 11439), not BARMM regulation. OOBC can promote access. |
+| 36 | **(jj)** | Labor, employment, and occupation | Significant | BAA 19 (Overseas Bangsamoro Workers Act) covers OBC workers abroad. Employment facilitation and labor protection for OBC are part of the ***"economic development"*** mandate. |
+| 37 | **(kk)** | Libraries and museums, and historical, cultural, and archaeological sites | Indirect | Bangsamoro cultural institutions may serve OBC through mobile programs, digital access, and cultural exchange. |
+| 38 | **(ll)** | Loans, credits, and other forms of indebtedness | Indirect | Shari'ah-compliant lending for OBC entrepreneurs requires coordination with national lending institutions, not BARMM regulatory action. |
+| 39 | **(mm)** | Mechanisms for consultations for women and marginalized sectors | Significant | OBC consultations — the five regional consultations of 2022-2023 — operationalize this power. BAA 8 and BAA 10 advisory council representation ensures ongoing OBC voice. |
+| 40 | **(nn)** | People's organizations | Indirect | OBC community organizations can be supported through OOBC coordination with CDA and DILG. |
+| 41 | **(oo)** | Power sector investments | None | Territorial function; no OBC application. |
+| 42 | **(pp)** | Public utilities' operations | None | Territorial function; no OBC application. |
+| 43 | **(qq)** | Public works and infrastructure | None | Territorial function; BARMM cannot build infrastructure in non-BARMM areas without host-LGU agreement. |
+| 44 | **(rr)** | Quarantine regulations | None | Territorial regulatory function; no OBC application. |
+| 45 | **(ss)** | Registration of births, marriages, and deaths | Indirect | Muslim civil registration under PD 1083 applies in OBC areas through national Shari'ah court clerks, not BARMM institutions. |
+| 46 | **(tt)** | Regulation of the manufacture and distribution of food, drinks, drugs, and tobacco | Indirect | Halal food regulation for OBC enterprises connects to the Halal Board's promotional (not regulatory) role outside BARMM. |
+| 47 | **(uu)** | Science and technology, research councils and scholarship programs | Significant | Scholarship programs — including BKIS (BAA 50) — are a primary OBC intervention. Research on OBC communities (MANA) also falls here. |
+| 48 | **(vv)** | Social services, social welfare, and charities | Central | Social welfare services for OBC — including assistance to vulnerable populations, IDP support (BAA 62), and charitable interventions — are core to the ***"social development"*** mandate. |
+| 49 | **(ww)** | Sports and recreation | None | Minimal OBC relevance; primarily territorial programming. |
+| 50 | **(xx)** | Technical cooperation for human resource development | Significant | Technical cooperation programs — including OIC connections — can be channeled to OBC human resource development through OOBC coordination. |
+| 51 | **(yy)** | Tourism development | Indirect | Bangsamoro cultural tourism promotion may indirectly benefit OBC communities with cultural heritage sites. |
+| 52 | **(zz)** | Trade and industry | Significant | Halal industry development, enterprise promotion, and trade facilitation for OBC entrepreneurs connect to the ***"economic development"*** mandate. BAA 59's halal standards are relevant. |
+| 53 | **(aaa)** | Urban and rural planning development | None | Territorial function; BARMM has no planning jurisdiction in non-BARMM areas. |
+| 54 | **(bbb)** | Urban land reform and land use | None | Territorial function; no OBC application. |
+| 55 | **(ccc)** | Water supply and services, flood control, and irrigation systems | None | Territorial function; no OBC application. |
+
+### Summary by Category
+
+| Category | Count | Powers |
+|----------|-------|--------|
+| **Central** | 5 | (f) Budgeting, (p) Culture and language, (r) Development programs for vulnerable sectors, (v) Education and skills training, (vv) Social services and welfare |
+| **Significant** | 14 | (b) Administrative organization, (c) Agriculture, (k) Cooperatives, (o) Cultural exchange, (z) Grants, (aa) Hajj/Umrah, (bb) Health, (dd) Humanitarian services, (ee) Human rights, (jj) Labor, (mm) Consultation mechanisms, (uu) Science/scholarships, (xx) Technical cooperation, (zz) Trade and industry |
+| **Indirect** | 18 | (a) Justice, (d) Ancestral domain, (e) Barter trade, (i) Civil service, (m) GOCCs, (n) Revenue sources, (q) Customary laws, (s) Disaster risk, (y) Fishery, (cc) Housing, (ff) IP rights, (ii) Islamic banking, (kk) Libraries/museums, (ll) Loans, (nn) People's organizations, (ss) Civil registration, (tt) Food regulation, (yy) Tourism |
+| **None** | 18 | (g) Business name registration, (h) Cadastral survey, (j) Public lands, (l) LGU creation, (t) Solid waste, (u) Economic zones, (w) Eminent domain, (x) Environment, (gg) Inland waters, (hh) Inland waterways, (oo) Power sector, (pp) Public utilities, (qq) Public works, (rr) Quarantine, (ww) Sports, (aaa) Urban/rural planning, (bbb) Urban land reform, (ccc) Water supply |
+
+---
+
+# BACK MATTER
+
+## Legislative Gaps and Recommended OBC Legislation
+
+| Gap Type | Gap | Recommended Law / Institution | What It Would Cover | BOL Basis |
+|----------|-----|-------------------------------|---------------------|-----------|
+| **Legislative** | No comprehensive OBC Development Act | OBC Development Act | Legal framework for OBC assistance — defines OBC eligibility, institutional responsibilities, programmatic mandates, OOBC powers and functions expansion, coordination protocols with host LGUs and NGAs | Art. VI, Sec. 12; Art. VII, Sec. 7(c) |
+| **Fiscal** | No dedicated OBC budget | OBC Development Fund Act (1% of GAAB) | Establishes a dedicated fiscal mechanism — either a separate GAAB line item under OCM or a mainstreamed MAO budget directive — ensuring predictable funding for OBC programs | Art. VI, Sec. 12; Art. XII (fiscal provisions) |
+| **Institutional** | No inter-agency framework for OBC | OBC Inter-Agency Coordination Framework (Executive Order) | Formal mechanism obligating MAOs to include OBC components in their programs, annual planning, and budgets; establishes an OBC Inter-Agency Committee chaired by OOBC | BAA 13, Sec. 8(c); Art. VI, Sec. 12 |
+| **Institutional** | No OOBC field offices | OOBC Field Office Establishment (EO or BAA amendment) | Authorizes permanent OOBC presence in Regions IX, X, XI, and XII; defines staffing, functions, and coordination protocols with host LGUs and BASCOs | BAA 13, Sec. 7 (organizational authority) |
+| **Legislative** | No Madaris framework for OBC areas | Madaris Extension Act for OBC Areas | Establishes MBHTE coordination with DepEd for Madaris education in non-BARMM areas; curriculum standards, Asatidz qualification, and facility support for OBC Madaris | Art. IX, Sec. 18; Art. VI, Sec. 12 |
+| **Legislative** | No OBC-specific scholarship code | OBC Scholarship and Educational Assistance Act | Comprehensive scholarship program — from basic to higher education — specifically targeting OBC students; modalities include BKIS slots, CHED/TESDA coordination, and Madaris teacher training | Art. IX, Sec. 18; BAA 50 (BKIS); Art. VI, Sec. 12 |
+| **Institutional** | No OBC data system | OBC-MANA Data Portal (EO or administrative issuance) | Institutionalizes the MANA methodology as a standing data system; OBC population registry, needs database, service-gap mapping, and program monitoring dashboard | BAA 13, Sec. 8(a) (information gathering mandate) |
+| **Legislative** | No governance participation framework for OBC | OBC Consultation and Governance Participation Framework | Formalizes OBC representation beyond the Council of Leaders; establishes regional OBC consultation assemblies, OBC advisory mechanisms to MAOs, and OBC participation in BDP planning | Art. VI, Sec. 9(d); BAA 13, Sec. 8(c) |
+
+---
+
+## Footnotes
+
+[^1]: Rep. Act No. 11054, art. VI, sec. 12.
+[^2]: Rep. Act No. 11054, art. II, sec. 1.
+[^3]: Rep. Act No. 11054, art. VI, sec. 9(d).
+[^5]: Rep. Act No. 11054, art. IX, sec. 18.
+[^6]: Rep. Act No. 11054, art. VII, sec. 3.
+[^7]: BAA No. 13, sec. 5.
+[^8]: Rep. Act No. 11054, art. VI, sec. 1.
+[^9]: CONST., art. X, sec. 15.
+[^10]: CONST., art. X, sec. 18.
+[^11]: CONST., art. X, sec. 20.
+[^12]: CONST., art. II, sec. 22; art. XIII, sec. 1; art. XIV, sec. 17.
+[^13]: NCMF is established under Rep. Act No. 9997; NCIP under Rep. Act No. 8371; CDA under Rep. Act No. 11364 (reorganizing and strengthening the Cooperative Development Authority, repealing Rep. Act No. 6939); CHR under CONST., art. XIII, secs. 17-19.
+[^14]: Rep. Act No. 11054, art. VI, sec. 13.
+[^15]: BAA No. 13, sec. 6.
+[^16]: BAA No. 13, sec. 7.
+[^17]: BAA No. 13, sec. 8.
+[^18]: Cf. Rep. Act No. 11054, art. X, sec. 16 (mandating four Shari'ah institutions).
+[^19]: NCMF mandate: Rep. Act No. 9997, sec. 3; DepEd Madaris: Rep. Act No. 9155 and DepEd Order No. 41, s. 2017.
+[^20]: Rep. Act No. 11054, art. XIII, sec. 30.
+[^21]: Rep. Act No. 11054, art. XIII, secs. 31-34.
+[^22]: Rep. Act No. 11054, art. V, sec. 2, in relation to art. VI, sec. 12.
+[^23]: BARMM budget data: General Annual Appropriations for the Bangsamoro, FY 2020-2026 (cumulative PHP 613.3 billion). OBC allocation estimate derived from OCM operational records.
+[^24]: OOBC Budget Framework (approved April 2026): PHP 1.0B (Year 1) to PHP 1.5B (Year 3), 3-year total ~PHP 3.7B, BARMM-only funding.
+[^25]: Province of Sulu v. the Executive Secretary, et al., G.R. Nos. 242255, 243246, and 243693, September 9, 2024 (SC En Banc, Leonen, J.; Resolution dated November 26, 2024, affirming with finality the exclusion of Sulu from BARMM); Exec. Order No. 91, July 30, 2025 (declaring Province of Sulu part of Region IX and ensuring continuity of government operations).
+[^26]: OOBC, Mapping and Needs Assessment (MANA), 2024 (Regions IX, XII) and 2025 (Regions XI, X).
+[^27]: Rep. Act No. 11054, art. VII, sec. 7(c) (settler community reserved seats); art. VI, sec. 12 (OBC assistance).
+[^28]: BAA No. 8, sec. 9(3.4) (Bangsamoro Women's Commission — OBC advisory council representative).
+[^29]: BAA No. 10, sec. 7(k) (Bangsamoro Youth Commission — OBC youth advisory representative).
+[^30]: BAA No. 19, sec. 3 (Overseas Bangsamoro Workers Act — coverage of OBC workers abroad).
+[^31]: BAA No. 31, sec. 3(2) (Bangsamoro Sustainable Development Board — social justice and well-being principle: equity in access to resources and basic services).
+[^32]: BAA No. 50, secs. 9(i)-(j) (Bangsamoro Kulliyyah for Islamic Studies — scholarship access).
+[^33]: BAA No. 59, sec. 10 (Agriculture and Fisheries Training Institute — halal standards).
+[^34]: BAA No. 62, sec. 4 (IDP Act — displaced to areas outside BARMM).
+[^35]: BAA No. 64 (Bangsamoro Indigenous Peoples' Act of 2024 — protects indigenous peoples in BARMM).
+[^36]: CONST., art. III, sec. 1 (equal protection).
+[^37]: CONST., art. III, sec. 5 (religious freedom).
+[^38]: CONST., art. XIV, sec. 17 (cultural communities' rights).
+[^39]: CONST., art. XIV, sec. 3(3) (religious instruction option in public schools).
+[^40]: Pres. Dec. No. 1083 (Code of Muslim Personal Laws of the Philippines, 1977).
+[^41]: Rep. Act No. 11439 (Regulation and Organization of Islamic Banks, 2019).
+[^42]: Rep. Act No. 7160 (Local Government Code of 1991) — host-LGU authority in OBC areas.
+[^43]: Bangsamoro Development Plan 2023-2028, chapters 3, 7, 9, 15.
+[^44]: CONST., art. II, sec. 2 (the Philippines "adopts the generally accepted principles of international law as part of the law of the land"); cf. International Covenant on Civil and Political Rights (ICCPR, ratified 1986) and International Covenant on Economic, Social and Cultural Rights (ICESCR, ratified 1974), which codify the tripartite State obligation framework — to respect, protect, and fulfill rights — now recognized as customary international human rights law.

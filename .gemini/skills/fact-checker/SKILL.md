@@ -25,9 +25,9 @@ argument-hint: "[file-path or text]"
 ## Verification Framework
 
 This skill implements the Universal Verification Framework (Prevent → Detect → Confirm).
-Before running, read `${GEMINI_SKILL_DIR}/references/verification-framework.md` for the full
+Before running, read `${CLAUDE_SKILL_DIR}/references/verification-framework.md` for the full
 protocol, taxonomy (P1-P10), known fabrication patterns, and authoritative source paths.
-For source verification, follow `~/.gemini/skills/fact-checker/references/source-preload-protocol.md` — read the full source file before marking any citation as VERIFIED.
+For source verification, follow `~/.claude/skills/fact-checker/references/source-preload-protocol.md` — read the full source file before marking any citation as VERIFIED.
 
 **Key rule:** Run this skill on EVERY chapter/section of a document, not just the final chapter.
 The #1 process failure is running fact-checker on only part of the document.
@@ -96,6 +96,11 @@ These patterns indicate an UNSOURCED claim masquerading as established fact:
 - Footnotes that restate the body text instead of citing a source
 - Footnotes citing other in-development guidebooks as authoritative published works
 - Footnotes citing internal file paths or development artifacts
+- "Islamic governance" or "Islamic principles" when the BOL says "Shari'ah" — overgeneralization (Pattern #11)
+- "administrative staff" or "government staff" listed as document audience — name specific roles (Pattern #12)
+- Internal development jargon in external-facing text: "institutional boundary", "pipeline enforcement", "context rot" (Pattern #13)
+- Goal, pillar, or framework names that don't match the source document verbatim — verify against BDP/OIC/SDG before citing (Pattern #14)
+- "supreme authority" or "sole authority" for any BARMM institution — read the creating law's exact language before describing an institution's role (Pattern #15)
 
 ### Unnecessary Footnotes (over-footnoting)
 
@@ -122,7 +127,7 @@ When a claim describes an error pattern, determine whether it is an **AI-generat
 
 - **AI issue:** BOL article number swaps (Art. IX/X, Art. V/VI), BAA number fabrication, ministry abbreviation errors, fiqh presented as enacted law — these are LLM fabrication patterns from training data, NOT documented patterns in human-authored BARMM documents. Do not present AI weaknesses as institutional or human researcher problems.
 - **Human issue:** Only flag as a human researcher pattern if there is verifiable evidence (COA findings, SC decisions citing wrong provisions, published errata). If the only evidence is the AI's own error log, it is an AI issue.
-- **Rule:** Never write "this is the most common error in BARMM documents" based on AI-generated error data. If the error pattern comes from Gemini's fact-check error log, it belongs in the AI in Practice callout or the AI Declaration — not in the methodology chapter as if human researchers routinely make this mistake.
+- **Rule:** Never write "this is the most common error in BARMM documents" based on AI-generated error data. If the error pattern comes from Claude's fact-check error log, it belongs in the AI in Practice callout or the AI Declaration — not in the methodology chapter as if human researchers routinely make this mistake.
 
 ### Integrity Checks — Second Dimension
 
@@ -410,7 +415,7 @@ Common fabrications to catch:
 ### Step 1b: BOL Article Map Verification
 
 Extract every BOL article/section citation. Verify against the 18-article map
-in `${GEMINI_SKILL_DIR}/references/verification-framework.md` (Section 8).
+in `${CLAUDE_SKILL_DIR}/references/verification-framework.md` (Section 8).
 
 Flag known dangerous swaps:
 - Art. IX (Basic Rights) vs Art. X (Justice/Shari'ah) — 5 documented occurrences
@@ -640,7 +645,7 @@ See `barmm-officials-2025-2026.md` for the full auto-caption error mapping table
 - BAA numbers are the #2 fabrication target — verify against ~/Vault/bangsamoro/bangsamoro-laws/index.md (89 BAAs enacted as of Feb 2026)
 - Ministry abbreviations use BARMM equivalents (MFBM, MOLE, MBHTE, MILG, MOH) — never national (DBM, DOLE, DepEd, DILG, DOH)
 - After generating content from source documents, re-read the specific cited passage and verify the output matches — contextual inconsistency (wrong output despite correct context) is the hardest failure mode to catch
-- Official titles change frequently — always verify against ~/.gemini/skills/bangsamoro/references/barmm-officials-2025-2026.md, not training data
+- Official titles change frequently — always verify against ~/.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md, not training data
 - Filipino Muslim names from auto-captions (Whisper) are always garbled — verify every name against the officials reference file
 - Never trust BAA numbers that appear in subagent output without verification — subagents fabricate BAA numbers that /citation then makes look authoritative
 

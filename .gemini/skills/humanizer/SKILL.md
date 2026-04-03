@@ -10,6 +10,7 @@ description: |
   organized notes, session summaries, policy documents, or any content that should read
   like a competent human wrote it. Works with all writing contexts — structured notes,
   bullet points, prose, legal documents, technical docs, and casual content.
+allowed-tools: Read, Edit, Grep, Write
 argument-hint: "[text-or-file]"
 ---
 
@@ -38,6 +39,7 @@ Identify the writing mode and apply appropriate standards:
 | **Research/knowledge docs** (vault notes, takeaways) | Authoritative, concise | Evidence over assertion, specific over vague |
 | **Reports/policy** (formal documents, briefers) | Professional | Precision, citations, measured language |
 | **Legal/legislative** (BAA, resolutions, laws) | Formal | Philippine citation standards (see references/) |
+| **Professional** (concept notes, proposals, executive summaries) | Authoritative, assertive | Paragraphs over bullets, institutional precision, no fluff |
 | **General content** (blog posts, emails, descriptions) | Natural, conversational | Reads like a real person talking to another |
 | **Technical docs** (README, API docs, skill files) | Clear, imperative | Accuracy, brevity, zero fluff |
 
@@ -78,8 +80,35 @@ with plain English: is, includes, helps, uses.
 | Formulaic transitions (Moreover, Furthermore, Additionally) | Max 1 per 3-4 paragraphs. Use topic sentences instead. |
 | Three-beat cadences ("fast, efficient, and reliable") | Vary list lengths. Drop to 2, or expand to 4-5. |
 | Em-dash overuse | AI uses 3x human rate. Use commas or parentheses. |
+| Double hyphen (--) in formal docs | Always use proper em-dash (—) in formal/government documents. Never use -- as a substitute. |
 | Uniform sentence length | Mix short (5-12), medium (13-20), long (21-30) words. |
 | Uniform paragraph length | Vary. A one-sentence paragraph has impact. |
+
+### Professional Mode Additional Checks (Mode 4 only)
+
+When the detected context is **Professional** (concept notes, proposals, executive summaries,
+MOUs, institutional letters), apply the 6 rules from
+[references/professional-mode.md](references/professional-mode.md) in addition to Tiers 1-4:
+
+1. **Paragraphs over bullets** — convert bullet-heavy sections to flowing paragraphs with
+   strong topic sentences. Lists are acceptable only for genuine sequences or distinct items.
+2. **Direct, assertive tone** — remove hedging ("aims to help", "hopes to serve"). State
+   what the document DOES, not what it "aims" to do.
+3. **Ban on decorative fluff** — kill "rich tapestry", "fosters", "catalyst", "seamlessly",
+   "transformative" on sight. Use plain, precise verbs: establishes, bridges, maps, verifies.
+4. **Institutional precision** — replace every "stakeholders", "various agencies", "government
+   partners" with the specific named entity (e.g., "Committees on Shari'ah and Justice",
+   "CSEA", "Bangsamoro Darul-Ifta'"). Name the actual laws, bodies, and mechanisms.
+5. **Precise logical boundaries** — catch sweeping claims that overstep institutional mandates
+   (e.g., don't say "a guidebook on interpreting the Qur'an" if the mandate is legal analysis,
+   not scriptural interpretation).
+6. **No internal jargon in external documents** — terms from internal development processes
+   ("institutional boundary," "pipeline enforcement," "context rot") mean nothing to external
+   readers. Test: if the intended audience would need to ask "what does that mean?", rewrite
+   it in plain language that names the actual concepts.
+7. **No formulaic conclusions** — replace "In conclusion, this represents a significant step..."
+   with a specific Call to Action or Next Steps that tells the reader exactly what to do
+   (endorse, sign, fund, review, participate).
 
 ### Structured Content (Bullets & Lists)
 
@@ -157,6 +186,13 @@ VOICE:
 [ ] Concrete outcomes over aspirational language
 [ ] No throat-clearing phrases
 [ ] Reads naturally spoken aloud
+
+EXTERNAL DOCUMENT CHECKS (Patterns #11-16):
+[ ] No "Islamic governance" or "Islamic principles" (use "Shari'ah")
+[ ] Audience identified with specific roles (not "administrative staff" or "government staff")
+[ ] No internal jargon (institutional boundary, pipeline enforcement, context rot)
+[ ] Named goals/pillars/frameworks verified verbatim against source document
+[ ] Institutional roles match creating law's exact language (not elevated)
 ```
 
 ## When NOT to Humanize
@@ -175,8 +211,16 @@ The best humanization is never producing slop in the first place. When generatin
 reaching for "valuable insights" or "rich tapestry" and replace in real-time. This skill
 applies to your own output as much as it does to text you're editing.
 
-For long documents (10+ pages): do a Tier 1 sweep first (fastest, highest impact), then
-Tier 2-4 in a second pass. Prioritize the opening and closing — readers notice those most.
+### Document Length Scaling
+
+| Document Size | Approach |
+|--------------|----------|
+| **< 5 pages** | Mode 2 (Quick Scan) — Tier 1-2 + structural fixes |
+| **5-30 pages** | Mode 1 (Full) — single pass, all tiers |
+| **30-100 pages** | Two-pass: Tier 1 sweep first, then Tier 2-4 in second pass |
+| **100+ pages** | Chapter-by-chapter with context resets between chapters |
+
+Prioritize the opening and closing — readers notice those most.
 
 ## Modes
 
@@ -190,6 +234,18 @@ Skip legal citations unless content is legislative.
 ### Mode 3: Legal/Policy Mode
 Apply all steps plus Philippine legal citation standards.
 See [references/legal-citation-guide.md](references/legal-citation-guide.md) for formats.
+
+### Mode 4: Professional Mode (Concept Notes & Proposals)
+Apply all steps plus the 6 Professional Mode rules for institutional documents. Use when
+the input is a concept note, project proposal, executive summary, MOU, or formal letter
+intended for government ministries, development agencies, or institutional partners.
+
+Key differences from other modes:
+- **Paragraphs are the primary structure** — convert bullet-heavy content to flowing prose
+- **Institutional precision** — every reference must name specific entities, laws, mechanisms
+- **Conclusions must be actionable** — specific Call to Action, not summary restatement
+- See [references/professional-mode.md](references/professional-mode.md) for the full 6-rule
+  framework and quick checklist.
 
 Quick reference:
 | Source | Format |
@@ -216,3 +272,4 @@ Text that reads like a human wrote it IS better writing.
 | [anti-patterns.md](references/anti-patterns.md) | Full 100+ phrase library with frequency data |
 | [technical-writing-standards.md](references/technical-writing-standards.md) | Government/professional writing standards |
 | [legal-citation-guide.md](references/legal-citation-guide.md) | Philippine legal citation formats |
+| [professional-mode.md](references/professional-mode.md) | 6-rule framework for concept notes, proposals, and institutional documents |

@@ -82,9 +82,9 @@ The distinction is the same one that applies to all legal work: a legal research
 
 **Use Part III when you need to legislate.** Chapter 8 addresses the strategic question of how Parliament should legislate Shari'ah. Chapter 9 gives you the practical checkpoint for bill drafting. Chapter 10 maps the current legislative landscape — what exists, what's pending, and what's missing.
 
-**Use Part IV when you need to apply.** Chapters 11-16 cover how Shari'ah should be legislated and implemented across all BOL powers — from social services and health (Chapter 13) to environment and natural resources (Chapter 15) to governance and administration (Chapter 16). Chapter 17 provides a complete sector directory mapping all 55 powers.
+**Use Part IV when you need to apply.** Chapters 11-15 cover how Shari'ah should be legislated and implemented across all BOL powers — from social services and health (Chapter 11) to economy, finance, and natural resources (Chapter 13) to governance and administration (Chapter 14). Chapter 15 provides a complete sector directory mapping all 55 powers.
 
-**Use Part V on the job.** Chapter 18 is a toolkit of detachable checklists, worksheets, and quick references. Print the ones you need and keep them at your desk.
+**Use Part V on the job.** Chapter 16 is a toolkit of detachable checklists, worksheets, and quick references. Print the ones you need and keep them at your desk.
 
 Every chapter ends with a **Worked Example** that walks through a realistic scenario, a **Common Pitfalls** section that flags the mistakes practitioners make, and a **Quality Checklist** you can use before submitting your work.
 
@@ -102,7 +102,7 @@ Every chapter ends with a **Worked Example** that walks through a realistic scen
 > 4. **Chapter 7** — How do you structure a legal opinion on the proposed bill's Shari'ah basis?
 > 5. **Chapter 8** — Should this be a standalone BAA or should waqf provisions be mainstreamed into existing legislation?
 > 6. **Chapter 9** — Use the Shari'ah checkpoint to review the draft bill
-> 7. **Chapter 18** — Use the Shari'ah Compliance Flags template
+> 7. **Chapter 16** — Use the Shari'ah Compliance Flags template
 
 ---
 

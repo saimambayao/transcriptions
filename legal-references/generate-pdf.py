@@ -55,8 +55,16 @@ POWERS = [
     "38-ll-loans-credits",
     "39-mm-consultation-mechanisms",
     "40-nn-peoples-organizations",
+    "41-oo-power-sector",
+    "42-pp-public-utilities",
     "43-qq-public-works",
+    "44-rr-quarantine",
+    "45-ss-registration-births-marriages-deaths",
+    "46-tt-regulation-of-food-drugs",
+    "47-uu-science-and-technology",
     "48-vv-social-services",
+    "49-ww-sports-and-recreation",
+    "50-xx-technical-cooperation",
     "51-yy-tourism",
     "52-zz-trade-and-industry",
     "53-aaa-urban-rural-planning",
@@ -105,8 +113,16 @@ POWER_LABELS = {
     "38-ll": "(ll) Loans, Credits, and Other Forms of Indebtedness",
     "39-mm": "(mm) Mechanisms for Consultations",
     "40-nn": "(nn) People's Organizations",
+    "41-oo": "(oo) Power Generation and Electrical Industry",
+    "42-pp": "(pp) Public Utilities",
     "43-qq": "(qq) Public Works",
+    "44-rr": "(rr) Quarantine Regulations",
+    "45-ss": "(ss) Registration of Births, Marriages, and Deaths",
+    "46-tt": "(tt) Regulation of Food, Drinks, Drugs, and Tobacco",
+    "47-uu": "(uu) Science and Technology",
     "48-vv": "(vv) Social Services",
+    "49-ww": "(ww) Sports and Recreation",
+    "50-xx": "(xx) Technical Cooperation",
     "51-yy": "(yy) Tourism Development",
     "52-zz": "(zz) Trade and Industry",
     "53-aaa": "(aaa) Urban and Rural Planning",
@@ -408,6 +424,11 @@ def build_toc_html():
         label = POWER_LABELS.get(key, folder)
         anchor = folder.replace("-", "")
         items.append(f'<div class="toc-item"><a href="#{anchor}" class="toc-link"><span class="toc-label">{label}</span><span class="toc-num">{i}</span></a></div>')
+    # Add cross-cutting references at the end
+    items.append('<div style="margin-top:12pt;border-top:1pt solid #C5A54E;padding-top:8pt;"></div>')
+    items.append('<div class="toc-item" style="font-size:8pt;color:#888;padding-bottom:2pt;"><span>Cross-Cutting Legal References</span></div>')
+    items.append('<div class="toc-item"><a href="#shariah-crosscut" class="toc-link"><span class="toc-label" style="font-weight:700;color:#1B365D;">Shari\'ah and Bangsamoro Governance</span><span class="toc-num"></span></a></div>')
+    items.append('<div class="toc-item"><a href="#obc-crosscut" class="toc-link"><span class="toc-label" style="font-weight:700;color:#1B365D;">Other Bangsamoro Communities (OBC)</span><span class="toc-num"></span></a></div>')
     return "\n".join(items)
 
 def convert_md_to_html(md_path):
@@ -433,14 +454,7 @@ def main():
         </div>
         <h1>Legal Reference on the Powers of the Bangsamoro Government</h1>
         <div class="subtitle">Under Republic Act No. 11054</div>
-        <div class="subtitle" style="font-size:11pt;color:rgba(197,165,78,0.7);margin-top:4pt;">Bangsamoro Organic Law</div>
-        <div class="volume">Complete Edition — All 55 Enumerated Powers</div>
-        <div class="meta">
-            <p><strong>Basis:</strong> Art. V, Sec. 2, Republic Act No. 11054</p>
-            <p><strong>Companion Laws:</strong> BAA No. 13 (Administrative Code), BAA Nos. 1-89</p>
-            <p><strong>Date:</strong> March 2026</p>
-        </div>
-        <div class="institution">BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO</div>
+        <div class="subtitle" style="font-size:10pt;color:rgba(197,165,78,0.7);margin-top:4pt;line-height:1.4;">An Act Providing for the Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao</div>
     </div>
     </div>
     """
@@ -459,6 +473,44 @@ def main():
         </div>
     </div>
     """
+
+    # Shari'ah cross-cutting reference (front-matter, after TOC)
+    shariah_path = BASE_DIR / "00-shariah-cross-cutting" / "legal-reference-shariah-bangsamoro-governance.md"
+    if shariah_path.exists():
+        print("  [Shari'ah] Cross-cutting legal reference")
+        shariah_cover = """
+        <div class="chapter-cover" id="shariah-crosscut">
+            <div class="power-letter" style="font-size:36pt;">Shari'ah</div>
+            <div class="power-title">A Cross-Cutting Legal Reference</div>
+            <div class="power-meta">
+                <p><strong>Covers all 55 enumerated powers</strong> — BOL Shari'ah architecture, institutions, courts, Islamic finance, divergence analysis</p>
+            </div>
+        </div>
+        """
+        shariah_html = convert_md_to_html(shariah_path)
+        shariah_crosscut = f'{shariah_cover}\n<div class="chapter">\n{shariah_html}\n</div>'
+    else:
+        shariah_crosscut = ""
+
+    # OBC cross-cutting reference
+    obc_path = BASE_DIR / "00-obc-other-bangsamoro-communities" / "legal-reference-other-bangsamoro-communities.md"
+    if obc_path.exists():
+        print("  [OBC] Cross-cutting legal reference")
+        obc_cover = """
+        <div class="chapter-cover" id="obc-crosscut">
+            <div class="power-letter" style="font-size:36pt;">OBC</div>
+            <div class="power-title">Other Bangsamoro Communities — A Cross-Cutting Legal Reference</div>
+            <div class="power-bol">BOL Art. VI, Sec. 12 — Assistance to Other Bangsamoro Communities</div>
+            <div class="power-meta">
+                <p><strong>Covers all 55 enumerated powers</strong> — OBC rights framework, institutional structure (OOBC), national law landscape, implementation analysis</p>
+                <p>Office for Other Bangsamoro Communities (OOBC) — Office of the Chief Minister</p>
+            </div>
+        </div>
+        """
+        obc_html = convert_md_to_html(obc_path)
+        obc_crosscut = f'{obc_cover}\n<div class="chapter">\n{obc_html}\n</div>'
+    else:
+        obc_crosscut = ""
 
     # Convert all chapters
     chapters = []
@@ -510,6 +562,8 @@ def main():
 {cover}
 {toc}
 {"".join(chapters)}
+{shariah_crosscut}
+{obc_crosscut}
 </body>
 </html>"""
 

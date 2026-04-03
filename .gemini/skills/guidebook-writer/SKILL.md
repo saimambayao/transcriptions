@@ -42,8 +42,8 @@ This skill follows the architecture of the **Bill Drafting Guidebook** (330 page
 ## Verification Protocol
 
 This skill follows the Universal Verification Framework (Prevent → Detect → Confirm).
-Read `~/.gemini/skills/fact-checker/references/verification-framework.md` for the full protocol.
-Read `~/.gemini/skills/fact-checker/references/source-preload-protocol.md` — MANDATORY: load source text BEFORE writing any citation. No claims from training data when local source exists.
+Read `~/.claude/skills/fact-checker/references/verification-framework.md` for the full protocol.
+Read `~/.claude/skills/fact-checker/references/source-preload-protocol.md` — MANDATORY: load source text BEFORE writing any citation. No claims from training data when local source exists.
 If a claim cannot be verified against loaded source files, mark it `[UNVERIFIED]` — never guess or fabricate. See source-preload-protocol.md Section 4.
 **NEVER cite other BARMM guidebooks as primary sources for factual claims** (legislation numbers, BOL articles, official data). Guidebooks are still in development and may contain errors. Always trace factual claims back to the enacted law, BOL provision, or official document — cite THAT, not the guidebook. Guidebooks may only be referenced for format/structure templates, methodology patterns, or writing style.
 
@@ -87,11 +87,15 @@ Before writing anything, conduct this interview to disambiguate requirements. Ad
 ### Required Inputs
 
 1. **Subject** — What competency or workflow does this guidebook cover?
-2. **Target Audience** — Who will use it?
+2. **Target Audience** — Who will use it? Name specific roles, not generic labels.
    - Parliament staff (legislative focus)
    - MOA staff (executive/administrative focus)
    - Cross-cutting (both Parliament and MOAs)
    - Specific division or office
+   - **Audience validation (Pattern #12):** For each audience member listed, test: would this
+     person actually open the guidebook and apply it to their daily work? Remove anyone who
+     would not. "Administrative staff" and "government staff" are too generic — name the
+     actual roles (bill drafters, legal researchers, policy analysts, ministry directors).
 3. **Institutional Context** — Which BARMM entity is this for?
    - Bangsamoro Parliament (BTA)
    - A specific Ministry (e.g., MBHTE, MOH, MAFAR)
@@ -121,7 +125,7 @@ Before writing anything, conduct this interview to disambiguate requirements. Ad
 
 ### Handling Uncertainty
 
-If the user is unsure about chapters or scope, recommend the chapter structure from `${GEMINI_SKILL_DIR}/references/chapter-templates.md` for their guidebook type. If no composing skill applies, proceed as standalone — the guidebook itself becomes the reference. If a composing skill is unavailable or fails, write the chapter from domain knowledge (via `/bangsamoro`) without the specialized skill integration.
+If the user is unsure about chapters or scope, recommend the chapter structure from `${CLAUDE_SKILL_DIR}/references/chapter-templates.md` for their guidebook type. If no composing skill applies, proceed as standalone — the guidebook itself becomes the reference. If a composing skill is unavailable or fails, write the chapter from domain knowledge (via `/bangsamoro`) without the specialized skill integration.
 
 ### Domain Context Loading
 
@@ -131,7 +135,7 @@ After the interview, invoke `/bangsamoro` to load domain context. This provides 
 
 ## Phase 2: PLAN — Table of Contents
 
-Generate a proposed chapter structure based on the interview. Read `${GEMINI_SKILL_DIR}/references/chapter-templates.md` for recommended structures per guidebook type.
+Generate a proposed chapter structure based on the interview. Read `${CLAUDE_SKILL_DIR}/references/chapter-templates.md` for recommended structures per guidebook type.
 
 ### Output Directory Setup
 
@@ -259,6 +263,88 @@ is correct. A sentence without its footnote is incomplete.
 
 **After drafting each chapter**, invoke `/citation` as a safety net to catch any claims that slipped through without footnotes. This is the SECOND citation pass — the first happened during writing. A chapter without footnotes is incomplete and must not be presented to the user.
 
+### Per-Chapter QA Loop (MANDATORY)
+
+**Every chapter must pass through this loop before proceeding to the next chapter.** Do not batch chapters — write one, QA it, fix it, regenerate, then move on. This catches errors early when they're cheapest to fix.
+
+**The loop:**
+
+```
+1. RESEARCH — Read authoritative local sources for the chapter's topic:
+   a. Identify which source files are needed (BOL chapters, BAA text, PD 1083 sections, BDP chapters,
+      Qur'an/Hadith for Shari'ah content, reference files from /bangsamoro or /shariah)
+   b. Read each source file using the Read tool — load the actual text into context
+   c. Build a Chapter Fact Sheet: table of verified claims with source file path + line number
+   d. Read the fact-check error log for known fabrication patterns on this topic
+   e. List claims NOT to make (known errors from the error log)
+   → The fact sheet is the SOLE source of truth for writing. No claim enters the chapter
+     unless it appears in the fact sheet with a verified source path.
+
+2. WRITE chapter (from fact sheet only, with inline [^N] citations as you write)
+   - Every factual claim gets its footnote AT THE TIME OF WRITING, not added after
+   - When quoting legal text, copy VERBATIM from the loaded source — never paraphrase from memory
+   - When citing scriptural sources, grep the local Qur'an/Hadith files — never cite from training data
+
+3. SCAN for prohibited phrases, internal path leaks, and skill terminology in published text
+
+4. RUN /fact-checker VALIDATE on the chapter
+   - Classify every factual claim (SOURCED / AUTHOR'S OBSERVATION / INFERENTIAL / UNSOURCED)
+   - Verify every SOURCED claim against the loaded source files (BOL verbatim, BAA text, PD 1083)
+   - Check footnote accuracy (correct article/section, source matches claim)
+   - Flag any fabricated citations (wrong BAA numbers, invented BOL provisions, misquoted text)
+
+5. FIX all CRITICAL (P1-P4) and HIGH (P5-P8) errors
+
+6. REGENERATE PDF to verify the chapter renders correctly
+
+7. VISUAL VERIFICATION — screenshot the PDF and iterate until correct:
+   a. Convert PDF page(s) to image: `pdftoppm -jpeg -r 150 -f <page> -l <page> output.pdf /tmp/pdf-verify`
+   b. Read the image: `Read /tmp/pdf-verify-<page>.jpg`
+   c. Inspect for: layout issues, title wrapping, table overflow, missing content, rendering artifacts
+   d. If ANY issue found: fix the source (CSS, markdown, or template), regenerate, screenshot again
+   e. Loop steps a-d until the visual output is correct — do NOT present to user and wait for feedback
+   f. Only proceed when the screenshot matches the intended design
+   This applies to ALL visual changes: cover page design, chapter layouts, table formatting,
+   diagram rendering, and any CSS modifications. The user should never have to send a
+   screenshot back to point out a visual issue that was visible in the generated PDF.
+
+8. UPDATE PROGRESS.md — mark chapter status as "Drafted + QA" with date
+
+9. PRESENT the fact-check summary to the user, then proceed to the next chapter
+```
+
+**Exit condition:** 0 CRITICAL errors AND 0 HIGH errors in the fact-check report.
+
+**Source file mapping — read BEFORE writing each chapter:**
+
+| Topic | Local Source Files |
+|-------|-------------------|
+| BOL provisions | `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` (5 chapter files) |
+| BAA references | `~/Vault/bangsamoro/bangsamoro-laws/baa-quick-reference.md` → full text at `BAA-{N}.md` |
+| PD 1083 | `~/apps/transcriptions/legislation/national-laws/PD-1083.md` |
+| BDP targets | `~/Vault/bangsamoro/bangsamoro-development/bdp-chapter-summaries.md` |
+| Officials/institutions | `~/.claude/skills/bangsamoro/references/moa-structure.md`, `barmm-officials-2025-2026.md` |
+| Qur'an | `~/apps/transcriptions/shari'ah/quran/` (grep by keyword) |
+| Hadith (Kutub al-Sittah) | `~/apps/transcriptions/shari'ah/hadith/{bukhari,muslim,abudawud,tirmidhi,nasai,ibnmajah}/` |
+| Known errors | `~/Vault/skill-outputs/fact-checker/fact-check-error-log.md` |
+| Constitutional provisions | `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/01-articles-I-to-V.md` (Art. X = Constitution) |
+
+**Rule:** If a claim is not in the fact sheet, do not include it. Flag the gap instead.
+
+**Known high-risk claims to verify for every chapter:**
+- Every BOL article and section number → read the actual chapter file
+- Every BAA number → cross-check against `baa-quick-reference.md`
+- Every verbatim legal quote → compare word-for-word against source text
+- Every footnote → verify the cited provision matches the claim it supports
+- Preamble and purpose clause quotes → read the actual text, never paraphrase from memory
+- Names of institutions → verify against `moa-structure.md` (e.g., "Shari'ah High Court" not "Shari'ah Appellate Court")
+
+**What this loop catches that end-of-guidebook QA misses:**
+- Fabricated citations that propagate across later chapters (Ch. 2 cites a wrong BAA → Ch. 5 repeats it)
+- Training data leaking into legal quotes (preamble paraphrased from memory instead of verbatim)
+- Internal skill terminology in published text (EXTRACTED, FIQH tags, local file paths)
+- AI issue patterns presented as human researcher patterns
+
 ### Chapter Length Targets
 
 Target chapter length varies by complexity tier — this keeps guidebooks proportional:
@@ -266,9 +352,20 @@ Target chapter length varies by complexity tier — this keeps guidebooks propor
 - **Standard**: 15-25 pages per chapter
 - **Comprehensive**: 20-30 pages per chapter
 
-### Multi-Session Progress Tracking
+### Multi-Session Progress Tracking (MANDATORY FORMAT)
 
-For guidebooks that span multiple sessions, create a `PROGRESS.md` file in the guidebook directory tracking which chapters are drafted, under review, and finalized. Update after each chapter is approved.
+Create a `PROGRESS.md` file in the guidebook directory with this structure:
+
+1. **Pipeline definition** — the 9-step per-chapter loop (copy from the Per-Chapter QA Loop above)
+2. **Chapter status table** with columns for each pipeline step:
+   `| # | Chapter | Written | Scanned | Validated | Fixed | PDF | Visual | QA Complete |`
+   - "Validated" means full `/fact-checker VALIDATE` was run (claim-by-claim classification, source verification) — NOT inline spot-checks
+   - Mark "Inline only" if you did spot-checks but not the full VALIDATE protocol
+   - A chapter is not "QA Complete" until full VALIDATE has run with 0 CRITICAL + 0 HIGH
+3. **Fact-check error log** — every error found and corrected during production, with chapter, error description, type, and fix applied
+4. **Session log** — date entries for each session's work
+
+**The rule:** If PROGRESS.md shows "Inline only" for any chapter, that chapter is NOT done. Run the full VALIDATE before claiming QA Complete. The user can check PROGRESS.md at any time to see exactly where each chapter stands in the pipeline.
 
 ### Chapter Structure Pattern
 
@@ -422,7 +519,7 @@ Do NOT skip this phase. Do NOT proceed to Phase 5 until every MISMATCH and NOT_F
 
 ## Phase 5: REVIEW — Quality Pipeline
 
-After all chapters are verified (Phase 4b) and drafted, run the quality pipeline. Read `${GEMINI_SKILL_DIR}/references/quality-pipeline.md` for detailed procedures.
+After all chapters are verified (Phase 4b) and drafted, run the quality pipeline. Read `${CLAUDE_SKILL_DIR}/references/quality-pipeline.md` for detailed procedures.
 
 ### Step 1: Fact-Check (invoke `/fact-checker`) — run on EVERY chapter, not just the capstone
 - Verify all names, titles, dates, legislation references
@@ -559,7 +656,7 @@ Before finalizing any guidebook, verify:
 
 ## Phase 6: BUILD — Output Generation
 
-Adapt the proven generation scripts from the bill-drafting template. Read `${GEMINI_SKILL_DIR}/references/build-pipeline.md` for the full adaptation guide.
+Adapt the proven generation scripts from the bill-drafting template. Read `${CLAUDE_SKILL_DIR}/references/build-pipeline.md` for the full adaptation guide.
 
 ### Customization Points
 
@@ -579,7 +676,7 @@ Each guidebook needs these adapted:
 3. Reference the PNG in markdown: `![Figure N: Description](images/diagram.png)`
 4. Delete the `.mmd` source file after rendering (keep only the PNG)
 
-**Excalidraw (default for all diagrams):** Use the `/excalidraw` skill for all diagram generation. It produces higher quality output than Mermaid with BARMM colors, self-validation, and hand-drawn aesthetic. Render: `~/.gemini/skills/excalidraw/scripts/venv/bin/python3 ~/.gemini/skills/excalidraw/scripts/render_excalidraw.py input.excalidraw -o output.png`. Fall back to Mermaid only for sequence diagrams or ER diagrams.
+**Excalidraw (default for all diagrams):** Use the `/excalidraw` skill for all diagram generation. It produces higher quality output than Mermaid with BARMM colors, self-validation, and hand-drawn aesthetic. Render: `~/.claude/skills/excalidraw/scripts/venv/bin/python3 ~/.claude/skills/excalidraw/scripts/render_excalidraw.py input.excalidraw -o output.png`. Fall back to Mermaid only for sequence diagrams or ER diagrams.
 
 **Infographics and visual summaries:** For chapter-level infographics, one-page visual summaries, dashboards, and visual briefs, use `/visualize` to generate self-contained HTML visualizations that can be converted to PNG for embedding.
 
@@ -649,7 +746,7 @@ Dependencies: `pip3 install markdown weasyprint python-docx`
 
 ## Improving on Existing Formats
 
-When the user provides sample documents to improve upon, read them first and identify specific gaps. Read `${GEMINI_SKILL_DIR}/references/improvement-patterns.md` for detailed improvement strategies for:
+When the user provides sample documents to improve upon, read them first and identify specific gaps. Read `${CLAUDE_SKILL_DIR}/references/improvement-patterns.md` for detailed improvement strategies for:
 - **PRLS Manuals of Operations** — expand from procedural SOPs to include rationale, best practices, and quality standards
 - **PRLS Policy Notes** — deepen from 7-page briefs to comprehensive analytical frameworks with methodology sections
 

@@ -1,7 +1,7 @@
 # Video Transcript Index
 
-**Total**: 141 transcripts
-**Updated**: 2026-03-31
+**Total**: 147 transcripts
+**Updated**: 2026-04-01
 
 ---
 
@@ -68,7 +68,7 @@
 | rrsHKGSyXm4 | Claude Code + Stitch Is The Greatest AI Design System I've Ever Used! (RIP  FIGMA) | 260323-1502-claude-code-stitch-is-the-greatest-ai-design-system.md |
 | n/a | AI Design Tools — Application Guide | AI-Design-GUIDE.md |
 
-## ai-engineering/ (5)
+## ai-engineering/ (12)
 
 | Video ID | Title | File |
 |----------|-------|------|
@@ -77,6 +77,13 @@
 | OV5eK91YY68 | I gave OpenClaw one job: go viral (it worked?) | 260329-1954-i-gave-openclaw-one-job-go-viral-it-worked.md |
 | adRh-xeijgk | GLM-5.1 MYTHOS: This CRAZY GLM-5.1 Setup is INSANITY! | 260329-1903-glm-5-1-mythos-crazy-setup.md |
 | yuaBPLNdNSU | Turn Antigravity Into AN AI Autonomous Engineering Team! | 260330-1550-turn-antigravity-into-ai-autonomous-engineering-team.md |
+| dYG8JxtSgmM | Claude Code was just leaked... (WOAH) | 260401-1449-claude-code-was-just-leaked-woah.md |
+| tXtCK66fPj8 | Claude Code Source Code Just Leaked… 8 Things You Must Do | 260401-1524-claude-code-source-code-leaked-8-things-to-do.md |
+| OIfRt1oyAss | Claude Opus 4.7 + Sonnet 4.8 + Mythos 5 ALL Leaked & New Claude Code Features! | 260401-1543-claude-opus-4-7-sonnet-4-8-mythos-5-leaks.md |
+| 2nxlwYyGUeg | Claude Code was just leaked... (INSANE) | 260401-1547-claude-code-leak-agentic-loop-roadmap.md |
+| GdgRpiQRsis | Claude Code got leaked | 260401-1552-claude-code-leak-security-source-analysis.md |
+| GEbfZs-FK6E | Claude Code LEAK: What They Don't Tell You | 260401-1554-claude-leak-the-secret-agent-harness.md |
+| PNjIXYAFgCI | Claude Code source code LEAKED | 260401-1609-claude-code-leak-clean-room-ai-porting-crypto-x42.md |
 
 ## bangsamoro-governance/ (5)
 

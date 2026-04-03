@@ -57,7 +57,8 @@ FOR each P1-P4 claim in generated output:
   2. IDENTIFY the authoritative source file for this claim type:
      - P1 (Constitution): ~/Vault/bangsamoro/ Constitution transcription
      - P2 (BOL): ~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/ (5 files)
-     - P3 (BAA/RA): ~/Vault/bangsamoro/bangsamoro-laws/index.md + BAA full text
+     - P3 (BAA): ~/Vault/bangsamoro/bangsamoro-laws/index.md + BAA full text
+     - P3 (RA): ~/apps/transcriptions/legislation/national-laws/INDEX.md (11,866 RAs) → grep by keyword → read RA-{subfolder}/RA-{N}.md
      - P4 (Verbatim): the specific source document being quoted
   3. READ the source passage (use Read tool — not from memory, not from training data)
   4. COMPARE: does the generated text match the source?
@@ -75,9 +76,9 @@ FOR each P1-P4 claim in generated output:
 **Legitimate Sources (Tier 1 — the ONLY acceptable sources for this loop):**
 - BOL: `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` (5 chapter files)
 - BAA index: `~/Vault/bangsamoro/bangsamoro-laws/index.md` (89 BAAs)
-- Officials: `~/.gemini/skills/bangsamoro/references/barmm-officials-2025-2026.md`
+- Officials: `~/.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md`
 - BDP: `~/Vault/bangsamoro/bangsamoro-development/bdp-2023-2028/` (15 chapters)
-- MOA structure: `~/.gemini/skills/bangsamoro/references/moa-structure.md`
+- MOA structure: `~/.claude/skills/bangsamoro/references/moa-structure.md`
 - Error log: `~/Vault/skill-outputs/fact-checker/fact-check-error-log.md`
 
 **Training data is NOT a legitimate source for**: BOL article/section numbers, BAA number-to-title mappings, official names/titles/positions, ministry names/abbreviations, budget figures, statistical data.
@@ -107,7 +108,7 @@ These are the 10 patterns AI most frequently fabricates, extracted from 66 docum
 
 **Correct answer**: See Section 8 (BOL 18-Article Map) for the complete mapping.
 
-**Source to verify against**: `~/.gemini/skills/bangsamoro/references/bol-key-provisions.md` or `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/`
+**Source to verify against**: `~/.claude/skills/bangsamoro/references/bol-key-provisions.md` or `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/`
 
 ### Pattern 2: BAA Number Fabrication (5+ occurrences)
 
@@ -158,7 +159,7 @@ These are the 10 patterns AI most frequently fabricates, extracted from 66 docum
 
 **Correct answer**: See Section 7 (Ministry Abbreviation Whitelist) for the complete list of 15 ministries.
 
-**Source to verify against**: `~/.gemini/skills/bangsamoro/references/moa-structure.md`
+**Source to verify against**: `~/.claude/skills/bangsamoro/references/moa-structure.md`
 
 ### Pattern 4: Sulu Territorial Status
 
@@ -243,6 +244,26 @@ Five enacted, two pending.
 
 **Source to verify against**: Visual inspection of each chapter
 
+### Pattern #11: "Islamic Governance/Principles" Generalization
+The BOL creates specific Shari'ah provisions (courts, halal, banking), not "Islamic governance." Using "Islamic governance" or "Islamic principles" overstates the BOL's scope. Replace with "Shari'ah", "Shari'ah provisions", "Shari'ah dimensions", or "Shari'ah considerations."
+**Grep:** `Islamic governance|Islamic principles`
+
+### Pattern #12: Wrong Audience Identification
+When listing who will use a document, name specific roles (bill drafters, legal researchers, policy analysts, ministry directors) — not generic labels ("administrative staff", "government staff"). Test: would this person actually open the document and apply it?
+
+### Pattern #13: Internal Jargon in External Documents
+Terms from AI development processes ("institutional boundary", "pipeline enforcement", "context rot", "skill triggering", "verification framework") mean nothing to external readers. Before delivering any external document, scan for terms that only make sense if you built the project.
+**Grep:** `institutional boundary|pipeline enforcement|context rot|skill triggering`
+
+### Pattern #14: Fabricated Framework/Goal Names
+Never paraphrase goal, pillar, or framework names from memory. Always verify against the source document verbatim. Example: BDP "Goal Area 1: Moral Governance" is fabricated — the actual name is "Goal 1: Stable, just, and accountable government."
+
+### Pattern #15: Institutional Role Overstatement
+For any institution's mandate or role, read the creating law's exact language. Never elevate "consultative body" to "supreme authority" or "advisory" to "sole authority." Example: BDI is a "consultative body for policy-making through Islamic jurisprudence" (BAA 13 Sec. 52), not a "supreme authority."
+
+### Pattern #16: Article Scope Conflation
+When describing what a BOL article covers, read the article first. Do not attribute provisions from other articles or from BAAs to an article that does not contain them. Example: Art. X covers courts/justice only — Hajj (Art. V/VII), halal (Art. XIII), Islamic banking (Art. V/XIII), and BDI (BAA 13) are NOT in Art. X.
+
 ---
 
 ## 3. Authoritative Source File Paths
@@ -251,7 +272,7 @@ Every reference file used by the verification framework.
 
 | File | What It Covers | Path |
 |------|---------------|------|
-| BOL key provisions | 18-article BOL structure, section numbers | `~/.gemini/skills/bangsamoro/references/bol-key-provisions.md` |
+| BOL key provisions | 18-article BOL structure, section numbers | `~/.claude/skills/bangsamoro/references/bol-key-provisions.md` |
 | BOL full text | Verbatim BOL transcription (5 chapter files) | `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` |
 | BAA quick reference | All 89 BAAs with short titles by category | `~/Vault/bangsamoro/bangsamoro-laws/baa-quick-reference.md` |
 | BAA full text | Verbatim BAA transcriptions | `~/Vault/bangsamoro/bangsamoro-laws/BAA-{N}.md` |
@@ -259,11 +280,12 @@ Every reference file used by the verification framework.
 | Resolution classification | 556+ resolutions classified by type | `~/Vault/bangsamoro/bangsamoro-resolutions/resolution-classification.md` |
 | BDP chapter summaries | 6 goals, 8 strategies, macro targets, sector data | `~/Vault/bangsamoro/bangsamoro-development/bdp-chapter-summaries.md` |
 | BDP full chapters | 15 chapters of the 2nd BDP 2023-2028 | `~/Vault/bangsamoro/bangsamoro-development/bdp-2023-2028/` |
-| BARMM officials | Current leadership, ministers, MPs (2025-2026) | `~/.gemini/skills/bangsamoro/references/barmm-officials-2025-2026.md` |
-| MOA structure | 15 ministries, OCM, attached agencies, commissions | `~/.gemini/skills/bangsamoro/references/moa-structure.md` |
+| BARMM officials | Current leadership, ministers, MPs (2025-2026) | `~/.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md` |
+| MOA structure | 15 ministries, OCM, attached agencies, commissions | `~/.claude/skills/bangsamoro/references/moa-structure.md` |
 | Fact-check error log | 66 documented errors, 10 recurring patterns | `~/Vault/skill-outputs/fact-checker/fact-check-error-log.md` |
 | Author bio | Canonical author bio for all publications | `~/Vault/reference/author-bio-standard.md` |
-| Verification framework | This document (canonical protocol) | `~/.gemini/skills/fact-checker/references/verification-framework.md` |
+| Source pre-load protocol | Mandatory pre-load workflow for all source citations + subagent protocol | `~/.claude/skills/fact-checker/references/source-preload-protocol.md` |
+| Verification framework | This document (canonical protocol) | `~/.claude/skills/fact-checker/references/verification-framework.md` |
 
 ---
 
@@ -279,12 +301,16 @@ The cheapest intervention. A subagent with loaded references will not fabricate.
 | **1b** | Read the fact-check error log at `~/Vault/skill-outputs/fact-checker/fact-check-error-log.md` | 30 sec | Any BARMM content |
 | **1c** | Fast research: WebSearch or check authoritative sources for recent developments on the topic (new BAAs, leadership changes, court rulings, updated statistics) | 2-5 min | Time-sensitive topics, governance, statistics |
 | **1d** | Read authoritative reference files relevant to the topic (only what the topic touches -- not all files every time) | 1-2 min | Any content with P1-P7 claims |
+| **1d-SRC** | For every source to be cited: grep INDEX, read full source file into context, build fact sheet. Follow `~/.claude/skills/fact-checker/references/source-preload-protocol.md`. When dispatching subagents: include fact sheet + source file paths + pre-load instruction + [UNVERIFIED] rule in every subagent prompt. | 2-5 min per source | Any content citing RAs, BAAs, BOL, Resolutions, BDP, Bills |
 | **1e** | Build a Fact Sheet: structured table of verified claims with source file paths -- this is the SOLE source of truth for writing | 5-10 min | Guidebooks (per chapter), bills, policy papers |
 | **1f** | Include in every subagent prompt: fact sheet, reference file paths, 5 most dangerous fabrication patterns, and the rule "If not in your sources, write [UNVERIFIED]" (see Section 6 for template) | 1 min | Any work dispatching subagents |
+| **1g** | Include honesty controls in every subagent prompt: (1) "wrong answer is 3x worse than blank"; (2) extracted/inferred tagging on every claim; (3) [UNVERIFIED: reason] with explanation (see Section 6 HONESTY RULES) | 0 min | Any work dispatching subagents |
 
 ### Layer 2: DETECT (after writing)
 
 Enhanced `/fact-checker` runs after output is produced. One invocation covers all 10 priority categories in order.
+
+**Triage rule**: If the generating skill tagged claims as EXTRACTED/INFERRED, verify all INFERRED claims first (these are highest-risk). EXTRACTED claims with valid source paths get a lighter check (confirm the source path exists and the section number is correct). Untagged claims are treated as INFERRED.
 
 | Step | Category | Check | Method |
 |------|----------|-------|--------|
@@ -358,13 +384,24 @@ Before writing ANY factual claim, you MUST:
 3. If citing BOL: verify the article number (18 articles total -- Art. IX = Basic Rights, Art. X = Justice/Shari'ah, Art. XII = Fiscal Autonomy)
 4. If naming a ministry: use ONLY these abbreviations: MAFAR, MBHTE, MENRE, MFBM, MOH, MHSD, MILG, MIPA, MOLE, MPOS, MPW, MOST, MSSD, MTIT, MOTC
 5. If mentioning Sulu: add caveat about SC ruling (Sept 2024) excluding Sulu from BARMM
-6. If you CANNOT verify a claim from your sources: write [UNVERIFIED] -- NEVER guess
+6. If you CANNOT verify a claim from your sources: write [UNVERIFIED: reason] -- NEVER guess
+7. Use "Shari'ah" not "Islamic governance" or "Islamic principles" (Pattern #11)
+8. Name specific audience roles; test: would they actually use this document? (Pattern #12)
+9. No internal jargon in external documents (Pattern #13)
+10. Verify goal/pillar/framework names against source document verbatim (Pattern #14)
+11. For institutional roles: read the creating law's exact language (Pattern #15)
+12. For each BOL article cited: verify it contains the claimed provision (Pattern #16)
+
+HONESTY RULES:
+- A fabricated legal reference is 3x worse than writing [UNVERIFIED]. When in doubt, leave it blank.
+- For every [UNVERIFIED] marker, explain WHY in brackets -- e.g., [UNVERIFIED: two conflicting provisions found in BAA 49 Sec. 12 and BAA 13 Sec. 5]
+- For every factual claim, tag as EXTRACTED (verbatim from source + file path) or INFERRED (derived from context + evidence). INFERRED claims will be verified more strictly.
 
 Reference files you MUST read before writing:
-- BOL key provisions: ~/.gemini/skills/bangsamoro/references/bol-key-provisions.md
+- BOL key provisions: ~/.claude/skills/bangsamoro/references/bol-key-provisions.md
 - BAA quick reference: ~/Vault/bangsamoro/bangsamoro-laws/baa-quick-reference.md
-- BARMM officials: ~/.gemini/skills/bangsamoro/references/barmm-officials-2025-2026.md
-- MOA structure: ~/.gemini/skills/bangsamoro/references/moa-structure.md
+- BARMM officials: ~/.claude/skills/bangsamoro/references/barmm-officials-2025-2026.md
+- MOA structure: ~/.claude/skills/bangsamoro/references/moa-structure.md
 - [Additional paths specific to this chapter's topic]
 
 Known fabrication patterns to AVOID:

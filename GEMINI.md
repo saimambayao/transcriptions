@@ -9,6 +9,7 @@ A documentation and transcription repository — no build system, no tests. Cont
 See [INDEX.md](INDEX.md) for the full directory listing with file counts and links. Summary:
 - `legislation/` — BAAs, Bills (enacted/proposed), Resolutions (enacted/proposed), national laws
 - `guidebooks/` — All BARMM guidebooks (bill-drafting, CSW, MOP, supervision, etc.) with `_archive/` for older versions; each guidebook is an independent publication
+- `members-of-parliament/` — Scraped profiles of 77 BTA Members of Parliament (2022-2025) with biosketches, authored bills, and committee memberships
 - `transcripts/` — YouTube video transcripts organized by topic subfolder
 - `reference/` — Constitution, BDP, systems-ebooks, BAA No. 85 breakdown
 - `source-pdfs/` — Source PDF documents (BAA PDFs, Resolution PDFs, Parliament assignments)
@@ -31,6 +32,12 @@ See [INDEX.md](INDEX.md) for the full directory listing with file counts and lin
 - **Vault symlink**: `~/Vault/Ph-Laws/republic-acts/` points here
 - **Source pre-load protocol**: `~/.gemini/skills/fact-checker/references/source-preload-protocol.md` — MANDATORY for all content skills
 - **Guidebooks are NOT authoritative sources**: Never cite BARMM guidebooks as primary sources for factual claims. They are in development and may contain errors. Trace all factual claims back to enacted law, BOL, BAA, BDP, or official documents.
+
+## Constitution Archive
+- `legislation/Constitution/` — 1987 Philippine Constitution scraped from lawphil.net
+- **INDEX.md** — index with links to the Constitution text
+- **Vault symlink**: `~/Vault/Ph-Laws/Constitution/`
+- **Scraper**: `scripts/scrape_constitution.py`
 
 ## Executive Orders Archive
 - `legislation/executive-orders/` — 2,572 Executive Orders (1987-2025) scraped from lawphil.net
@@ -108,6 +115,7 @@ For legal references, legal memos, legal opinions, legislative briefers, and any
 **GLOBAL VAULT CONTEXT:** For any general knowledge, policy question, or contextual query, you MUST ALWAYS read or search `~/Vault/INDEX.md` and related vault files FIRST before answering or looking externally. Your local knowledge base is your primary source of truth.
 
 These files are authoritative local sources. Check them BEFORE running web searches:
+- `legislation/Constitution/1987-constitution.md` — 1987 Constitution of the Republic of the Philippines
 - `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` — Republic Act 11054 (Bangsamoro Organic Law) verbatim transcription (5 chapter files)
   - Fallback: `source-pdfs/other/RA 11054.pdf` (original PDF if transcription is incomplete)
 - `~/Vault/bangsamoro/bangsamoro-development/bdp-2023-2028/` — 2nd Bangsamoro Development Plan 2023-2028 (15 chapters)
@@ -119,6 +127,13 @@ These files are authoritative local sources. Check them BEFORE running web searc
 - Remove garbled characters from other scripts (Thai, Bengali, Hindi, etc.) — these are auto-caption noise
 - When Arabic text appears in the transcript, provide an **English translation** in brackets immediately after (e.g., `[Translation: O Allah, guide our leaders...]`)
 - Arabic prayers, Quranic verses, and formal Islamic greetings should be preserved in Arabic with translation
+
+## Professional Writing Mode
+For all concept notes, project proposals, executive summaries, MOUs, and formal communications to ministries or institutional partners, you MUST apply the `/humanizer` Professional Mode (Mode 4).
+1. Read `.gemini/skills/humanizer/references/professional-mode.md` before drafting.
+2. Structure your output in flowing, cohesive paragraphs (avoid relying on bulleted lists with bold headers).
+3. Use a direct, assertive tone. Replace AI slop ("valuable insights", "fosters", "delve") with precise, concrete verbs.
+4. Maintain strict institutional precision (name specific ministries, laws, and committees rather than using generic terms like "stakeholders").
 
 ## Skills Library
 Skills are located in `.gemini/skills/`.

@@ -110,39 +110,71 @@
 
 ---
 
-### Part IV — Applying Shari'ah in Development
+### Part IV — Applying Shari'ah Across All BOL Powers
 
-**Chapter 11 — Islamic Finance for Cooperatives and Social Enterprises**
-&emsp;11.1 The Legal Framework
-&emsp;11.2 Key Instruments: Mudarabah, Musharakah, Murabaha
-&emsp;11.3 Waqf and Zakat
-&emsp;11.4 Shari'ah-Compliant Cooperative Bylaws
-&emsp;11.5 The Dual Compliance Challenge
-&emsp;11.6 Worked Example: Structuring a Shari'ah-Compliant Cooperative
-&emsp;11.7 Common Pitfalls, Quality Checklist
+**Chapter 11 — Social Justice and Human Development (Art. IX)**
+&emsp;11.1 Art. IX and the Shari'ah Imperative
+&emsp;11.2 Health: Legislating Hifz al-Nafs
+&emsp;11.3 Education and the Madaris System
+&emsp;11.4 Labor: BAA 82 as the Mainstreaming Model
+&emsp;11.5 Social Welfare, Housing, and Humanitarian Services
+&emsp;11.6 Human Rights through an Islamic Lens
+&emsp;11.7 Worked Example: Drafting an Ibadah-Friendly Hospital Accreditation BAA
+&emsp;11.8 Common Pitfalls, Quality Checklist
 
-**Chapter 12 — Halal Economy and Regulatory Framework**
-&emsp;12.1 Halal Certification in BARMM
-&emsp;12.2 The Mas Matatag Agenda and Halal Economy
-&emsp;12.3 BOL Provisions for Halal Regulation
-&emsp;12.4 National Halal Framework and BARMM's Role
-&emsp;12.5 Opportunities for Development Practitioners
+**Chapter 12 — Shari'ah Courts, Worship, and Identity (Art. X)**
+&emsp;12.1 Art. X: The Shari'ah-Dedicated Article
+&emsp;12.2 Hajj and Umrah: Legislating a Religious Obligation
+&emsp;12.3 Culture, Language, and Islamic Heritage
+&emsp;12.4 Customary Laws: The Shari'ah-Adat Interface
+&emsp;12.5 Indigenous Peoples' Rights and Shari'ah
+&emsp;12.6 Worked Example: Drafting a Cultural Heritage Preservation BAA
+&emsp;12.7 Common Pitfalls, Quality Checklist
+
+**Chapter 13 — Economy, Finance, and Natural Resources (Art. XII-XIII)**
+&emsp;13.1 Art. XII-XIII and the Economic Shari'ah Dimension
+&emsp;13.2 Islamic Banking and Finance
+&emsp;13.3 Islamic Finance for Cooperatives and Social Enterprises
+&emsp;13.4 Halal Economy and Regulatory Framework
+&emsp;13.5 Agriculture, Fishery, and Marine Resources
+&emsp;13.6 Environment and the Khalifah Stewardship Framework
+&emsp;13.7 Ancestral Domain and Land Administration
+&emsp;13.8 Trade, Tourism, and Economic Zones
+&emsp;13.9 Worked Example: Integrating Khalifah Principles into an Environmental Protection BAA
+&emsp;13.10 Common Pitfalls, Quality Checklist
+
+**Chapter 14 — Governance, Infrastructure, and Administration (Art. V)**
+&emsp;14.1 Why Administrative Powers Need Shari'ah Awareness
+&emsp;14.2 The Values-Based Integration Framework
+&emsp;14.3 Fiscal and Financial Powers
+&emsp;14.4 Infrastructure and Utilities
+&emsp;14.5 Administrative and Institutional Powers
+&emsp;14.6 Community and Development Powers
+&emsp;14.7 Worked Example: Adding Shari'ah Provisions to a DRR BAA
+&emsp;14.8 Common Pitfalls, Quality Checklist
+
+**Chapter 15 — Sector Directory: All 55 Powers Mapped**
+&emsp;15.1 How to Use This Directory
+&emsp;15.2 The Shari'ah Integration Spectrum
+&emsp;15.3 Complete Sector Directory
+&emsp;15.4 Cross-Reference: Maqasid to Powers
+&emsp;15.5 Legislative Priority Matrix
 
 ---
 
 ### Part V — Practical Tools
 
-**Chapter 13 — The Practitioner's Toolkit**
-&emsp;13.1 Shari'ah Checkpoint Checklist
-&emsp;13.2 Jurisdictional Determination Worksheet
-&emsp;13.3 Shari'ah Compliance Flags Template
-&emsp;13.4 Islamic Finance Instrument Quick Reference
-&emsp;13.5 PD 1083 Subject Index
-&emsp;13.6 BOL Art. X Section-by-Section Quick Reference
-&emsp;13.7 Kutub al-Sittah Quick Reference
-&emsp;13.8 Qur'an and Hadith Citation Format Quick Reference
-&emsp;13.9 When to Refer to BDI
-&emsp;13.10 AI in Practice: AI-Assisted Shari'ah Legal Analysis
+**Chapter 16 — The Practitioner's Toolkit**
+&emsp;16.1 Shari'ah Checkpoint Checklist
+&emsp;16.2 Jurisdictional Determination Worksheet
+&emsp;16.3 Shari'ah Compliance Flags Template
+&emsp;16.4 Islamic Finance Instrument Quick Reference
+&emsp;16.5 PD 1083 Subject Index
+&emsp;16.6 BOL Art. X Section-by-Section Quick Reference
+&emsp;16.7 Kutub al-Sittah Quick Reference
+&emsp;16.8 Qur'an and Hadith Citation Format Quick Reference
+&emsp;16.9 When to Refer to BDI
+&emsp;16.10 AI in Practice: AI-Assisted Shari'ah Legal Analysis
 
 ---
 

@@ -56,4 +56,4 @@ This guidebook was drafted with AI assistance using Claude (Anthropic). The auth
 
 Every Qur'anic verse and Hadith citation was verified against digital source files. Every BOL and PD 1083 provision was verified against verbatim transcriptions of the enacted law. Every BAA reference was verified against the Bangsamoro legislative archive.
 
-For more on how AI was used in this publication, see Appendix F (AI Declaration) and Chapter 18, Section 18.10 (AI in Practice).
+For more on how AI was used in this publication, see Appendix F (AI Declaration) and Chapter 16, Section 16.10 (AI in Practice).

@@ -32,6 +32,12 @@ See [INDEX.md](INDEX.md) for the full directory listing with file counts and lin
 - **Source pre-load protocol**: `~/.claude/skills/fact-checker/references/source-preload-protocol.md` — MANDATORY for all content skills
 - **Guidebooks are NOT authoritative sources**: Never cite BARMM guidebooks as primary sources for factual claims. They are in development and may contain errors. Trace all factual claims back to enacted law, BOL, BAA, BDP, or official documents.
 
+## Constitution Archive
+- `legislation/Constitution/` — 1987 Philippine Constitution scraped from lawphil.net
+- **INDEX.md** — index with links to the Constitution text
+- **Vault symlink**: `~/Vault/Ph-Laws/Constitution/`
+- **Scraper**: `scripts/scrape_constitution.py`
+
 ## Executive Orders Archive
 - `legislation/executive-orders/` — 2,572 Executive Orders (1987-2025) scraped from lawphil.net
 - **INDEX.md** — master index with year-by-year counts
@@ -111,6 +117,7 @@ For legal references, legal memos, legal opinions, legislative briefers, and any
 
 ## Local Reference Files (Tier 1 Sources)
 These files are authoritative local sources. Check them BEFORE running web searches:
+- `legislation/Constitution/1987-constitution.md` — 1987 Constitution of the Republic of the Philippines
 - `~/Vault/bangsamoro/bangsamoro-laws/bol-ra-11054/` — Republic Act 11054 (Bangsamoro Organic Law) verbatim transcription (5 chapter files)
   - Fallback: `source-pdfs/other/RA 11054.pdf` (original PDF if transcription is incomplete)
 - `~/Vault/bangsamoro/bangsamoro-development/bdp-2023-2028/` — 2nd Bangsamoro Development Plan 2023-2028 (15 chapters)

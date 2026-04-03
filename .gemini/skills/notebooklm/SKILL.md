@@ -1,13 +1,14 @@
 ---
 name: notebooklm
 description: |
-  Use Google NotebookLM from Gemini CLI via the notebooklm-py CLI. Offloads heavy analysis
+  Use Google NotebookLM from Claude Code via the notebooklm-py CLI. Offloads heavy analysis
   to Google's servers for free — no token cost on your side. Use when user mentions "notebooklm",
-  "notebook lm", "research with notebooklm", "generate podcast", "generate audio",
-  "analyze these videos", "create an infographic from", "add to notebook", "generate slides",
-  "generate quiz", "generate flashcards", "mind map from", or wants to analyze YouTube videos,
-  PDFs, or web sources through NotebookLM. Also trigger when user wants deliverables like
-  podcasts, slide decks, infographics, or quizzes generated from research sources.
+  "notebook lm", "research with notebooklm", "notebooklm research", "generate podcast",
+  "generate audio", "analyze these videos", "create an infographic from", "add to notebook",
+  "generate slides", "generate quiz", "generate flashcards", "mind map from", "research to vault",
+  "deep research with notebooklm", or wants to analyze YouTube videos, PDFs, or web sources
+  through NotebookLM. Also trigger when user wants deliverables like podcasts, slide decks,
+  infographics, quizzes, or research reports generated from research sources.
 allowed-tools: Bash, Read, Write
 ---
 
@@ -31,10 +32,32 @@ and truncated IDs cause `RPC GET_NOTEBOOK failed` errors that look like auth fai
 ```bash
 notebooklm list --json             # ALWAYS use --json to get full UUIDs
 notebooklm list                    # Table view (for display only — IDs are truncated!)
-notebooklm create "Research Topic" # Create new notebook
+notebooklm create "Research Topic" # Create new notebook (DOES NOT auto-set active!)
 notebooklm use <full-uuid>         # Set active notebook — MUST be full UUID
-notebooklm metadata --json         # Export notebook metadata
+notebooklm metadata --json         # Export notebook metadata — use to VERIFY active notebook
 ```
+
+**CRITICAL: `create` does NOT reliably set the active notebook.** You MUST run `use <uuid>` after
+every `create` before adding sources, asking questions, or generating deliverables. Without this,
+all operations silently target the PREVIOUSLY active notebook.
+
+### Safe Create Pattern (MANDATORY)
+
+After every `notebooklm create`, immediately run this sequence:
+
+```bash
+# Step 1: Create and capture the UUID from output
+NOTEBOOK_ID=$(notebooklm create "Research: Topic" 2>/dev/null | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')
+
+# Step 2: Explicitly set active notebook
+notebooklm use "$NOTEBOOK_ID"
+
+# Step 3: Verify the correct notebook is active
+notebooklm metadata --json 2>/dev/null | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Active: {d[\"title\"]} ({d[\"id\"]})')"
+```
+
+If Step 3 shows the wrong notebook, re-run `use` with the full UUID from `list --json`.
+**Never proceed to add sources until you have verified the active notebook is correct.**
 
 ### Notebook ID Resolution
 
@@ -109,6 +132,7 @@ Choose the workflow based on user input:
 | Local files (PDF, docs) | Document Analysis | Extracting insights from documents |
 | Topic/question (no sources) | Topic Deep Dive | Broad research with `--mode deep` |
 | Topic + needs background processing | Async Deep Research | Long investigations, non-blocking |
+| Topic + wants vault output | **Research → Vault** | Full pipeline: deep research → synthesis → report → vault note |
 
 If ambiguous, ask: "Do you have specific sources, or should I research the topic broadly?"
 
@@ -138,54 +162,173 @@ After finishing any workflow, always report back to the user:
 Save downloaded artifacts to `~/Downloads/` or the user's specified location.
 Use naming convention: `yymmdd-topic-slug.{ext}` (e.g., `260323-cooperative-frameworks.mp3`).
 
-**Timeout syntax for long-running commands:** When using Bash tool, set `timeout: 300000`
-(5 minutes) for `source add-research`, `generate audio`, `generate video`, `generate slide-deck`.
-Default 120s will kill these prematurely.
+**Timeout syntax for long-running commands:** When using Bash tool, set `timeout: 600000`
+(10 minutes) for `source add-research`, `generate audio`, `generate video`, `generate slide-deck`.
+Default 120s will kill these prematurely. 5 minutes (300000) is often insufficient for deep research.
 
 ## Typical Workflows
 
 ### YouTube Research Pipeline
-1. `notebooklm create "Research: [Topic]"`
-2. `notebooklm source add "https://youtube.com/watch?v=..."` (repeat for multiple videos)
-3. **VERIFY**: `notebooklm source list` — confirm all sources loaded (count matches expected)
-4. `notebooklm ask "What are the key themes across these videos?"`
-5. `notebooklm generate infographic` or `generate slide-deck` (use `timeout: 300000`)
-6. Download the artifact and save to vault or project
-7. Print **Completion Report** (see template above)
+1. **CREATE + USE**: `notebooklm create "Research: [Topic]"` — capture UUID from output
+2. **SET ACTIVE**: `notebooklm use <captured-uuid>` — explicitly set the new notebook as active
+3. **VERIFY ACTIVE**: `notebooklm metadata --json` — confirm the correct notebook title is shown
+4. `notebooklm source add "https://youtube.com/watch?v=..."` (repeat for multiple videos)
+5. **VERIFY SOURCES**: `notebooklm source list` — confirm all sources loaded (count matches expected)
+6. `notebooklm ask "What are the key themes across these videos?"`
+7. `notebooklm generate infographic` or `generate slide-deck` (use `timeout: 600000`)
+8. Download the artifact and save to vault or project
+9. Print **Completion Report** (see template above)
 
 ### Document Analysis
-1. `notebooklm create "Analysis: [Document Name]"`
-2. `notebooklm source add "./path/to/document.pdf"`
-3. **VERIFY**: `notebooklm source list` — confirm document loaded
-4. `notebooklm ask "Summarize the key findings"`
-5. Generate any deliverables needed
-6. Print **Completion Report**
+1. **CREATE + USE**: `notebooklm create "Analysis: [Document Name]"` — capture UUID from output
+2. **SET ACTIVE**: `notebooklm use <captured-uuid>`
+3. **VERIFY ACTIVE**: `notebooklm metadata --json` — confirm correct notebook
+4. `notebooklm source add "./path/to/document.pdf"`
+5. **VERIFY SOURCES**: `notebooklm source list` — confirm document loaded
+6. `notebooklm ask "Summarize the key findings"`
+7. Generate any deliverables needed
+8. Print **Completion Report**
 
 ### Topic Deep Dive (Deep Research Mode)
-1. `notebooklm create "Deep Dive: [Topic]"`
-2. `notebooklm source add-research "topic keywords" --mode deep --import-all` (use `timeout: 300000`)
-3. **VERIFY**: `notebooklm source list` — if 0 sources, deep research failed silently. Retry or fall back.
-4. `notebooklm ask "What are the main arguments and counterarguments?"`
-5. `notebooklm generate audio` for a podcast summary
-6. `notebooklm generate report` for a structured research report
-7. Print **Completion Report**
+1. **CREATE + USE**: `notebooklm create "Deep Dive: [Topic]"` — capture UUID from output
+2. **SET ACTIVE**: `notebooklm use <captured-uuid>`
+3. **VERIFY ACTIVE**: `notebooklm metadata --json` — confirm correct notebook
+4. `notebooklm source add-research "topic keywords" --mode deep --import-all` (use `timeout: 600000`)
+5. **VERIFY SOURCES**: `notebooklm source list` — if 0 sources, run `notebooklm research wait --import-all` to retry import. If still 0, inform user and suggest manual source addition.
+6. `notebooklm ask "What are the main arguments and counterarguments?"`
+7. `notebooklm generate audio` for a podcast summary (use `timeout: 600000`)
+8. Print **Completion Report**
 
 ### Async Deep Research (for longer investigations)
-1. `notebooklm create "Research: [Topic]"`
-2. `notebooklm source add-research "topic" --mode deep --no-wait` (starts research in background)
-3. `notebooklm research status` (check progress)
-4. `notebooklm research wait --import-all` (wait and auto-import when done)
-5. **VERIFY**: `notebooklm source list` — confirm sources imported
-6. `notebooklm ask "Synthesize the key findings"`
-7. Print **Completion Report**
+1. **CREATE + USE**: `notebooklm create "Research: [Topic]"` — capture UUID from output
+2. **SET ACTIVE**: `notebooklm use <captured-uuid>`
+3. **VERIFY ACTIVE**: `notebooklm metadata --json` — confirm correct notebook
+4. `notebooklm source add-research "topic" --mode deep --no-wait` (starts research in background)
+5. `notebooklm research status` (check progress)
+6. `notebooklm research wait --import-all` (wait and auto-import when done; use `timeout: 600000`)
+7. **VERIFY SOURCES**: `notebooklm source list` — if 0 sources, retry `research wait --import-all`
+8. `notebooklm ask "Synthesize the key findings"`
+9. Print **Completion Report**
+
+### Research → Vault (Deep Research to Obsidian)
+
+Fully automated: topic in → detailed research note in `~/Vault/research/` out. Zero manual steps.
+NotebookLM's Gemini-powered deep research finds and analyzes web sources for free — Claude Code
+orchestrates the pipeline and formats the output.
+
+**When to use**: User says "research X", "notebooklm research X", or wants a detailed research
+report on a topic saved to the vault. This is the "just research this and give me a vault note" mode.
+
+**Input**: Topic string. Optional: report format (`briefing-doc`|`study-guide`|`blog-post`|`custom`),
+focus instructions, vault filename override.
+
+**Pipeline**:
+
+1. **CREATE + USE + VERIFY** (Safe Create Pattern):
+   ```bash
+   NOTEBOOK_ID=$(notebooklm create "Research: [Topic]" 2>/dev/null | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')
+   notebooklm use "$NOTEBOOK_ID"
+   notebooklm metadata --json 2>/dev/null | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Active: {d[\"title\"]} ({d[\"id\"]})')"
+   ```
+
+2. **DEEP RESEARCH** (use `timeout: 600000`):
+   ```bash
+   notebooklm source add-research "topic keywords" --mode deep --import-all
+   ```
+
+3. **VERIFY SOURCES**:
+   ```bash
+   notebooklm source list
+   ```
+   If 0 sources: run `notebooklm research wait --import-all` (timeout: 600000). If still 0, inform user.
+
+4. **MULTI-QUERY SYNTHESIS** — Ask 5 structured questions to extract different angles. Capture
+   each answer via `--json` and collect the responses. Adapt questions to the topic, but follow
+   this pattern:
+   ```bash
+   notebooklm ask "What are the key findings and main arguments on [topic]?" --json
+   notebooklm ask "What are the counterarguments, limitations, or criticisms?" --json
+   notebooklm ask "What are the practical implications and real-world applications?" --json
+   notebooklm ask "What frameworks, models, or methodologies are referenced?" --json
+   notebooklm ask "What gaps exist in the current research, and what are emerging trends?" --json
+   ```
+   Parse each JSON response to extract the `answer` text and `references` array.
+
+5. **GENERATE REPORT** (use `timeout: 600000`):
+   ```bash
+   notebooklm generate report --format briefing-doc --wait
+   ```
+   Use `--format study-guide` or `--format custom "instructions"` if user specified a preference.
+   Use `--append "Focus on X"` to add user's focus instructions to built-in format templates.
+
+6. **DOWNLOAD REPORT**:
+   ```bash
+   notebooklm download report /tmp/notebooklm-research-output.md
+   ```
+
+7. **FORMAT FOR VAULT** — Read the downloaded report and the synthesis answers, then compose a
+   vault-ready research note combining both. The vault note structure:
+
+   ```markdown
+   ---
+   date: YYYY-MM-DD
+   tags: [research, notebooklm, <topic-tags>]
+   source: NotebookLM deep research (<N> sources imported)
+   notebook_id: <uuid>
+   ---
+
+   # [Topic Title]
+
+   ## Executive Summary
+   [Synthesized from the generated report — 3-5 paragraph overview]
+
+   ## Key Findings
+   [From Q1: main arguments and findings, with inline citations]
+
+   ## Counterarguments and Limitations
+   [From Q2: criticisms, limitations, opposing views]
+
+   ## Practical Implications
+   [From Q3: real-world applications, implementation considerations]
+
+   ## Frameworks and Methodologies
+   [From Q4: referenced models, frameworks, theoretical foundations]
+
+   ## Research Gaps and Emerging Trends
+   [From Q5: what's missing, where the field is heading]
+
+   ## Sources
+   [List of sources imported by NotebookLM deep research — from `source list` output]
+   ```
+
+   Save to: `~/Vault/research/YYMMDD-topic-slug.md`
+
+8. **COMPLETION REPORT**:
+   ```
+   **NotebookLM Research → Vault Complete**
+   - **Notebook**: [name] ([uuid]) — [N] sources imported
+   - **Synthesis queries**: 5
+   - **Report format**: [briefing-doc|study-guide|blog-post|custom]
+   - **Saved to**: ~/Vault/research/YYMMDD-topic-slug.md
+   - **Next steps**: Query the notebook further with `notebooklm ask`, generate podcast/slides, or add more sources
+   ```
+
+**Gotchas**:
+- Deep research takes 2-10 minutes — always `timeout: 600000`
+- `--import-all` can silently fail in background mode — always run in foreground
+- Report generation can take 5-15 minutes — use `--wait` flag
+- If `generate report` fails or returns empty, fall back to composing the vault note from the 5 synthesis answers alone (they contain the substance)
+- NotebookLM citations reference source numbers (e.g., [1], [2]) — preserve these in the vault note and list the actual sources in the Sources section so citations are traceable
 
 ## Error Handling
 
 | Error | Actual Cause | Fix |
 |-------|-------------|-----|
 | `RPC GET_NOTEBOOK failed` / `null result data` | **Truncated notebook ID** — NOT auth | Use `notebooklm list --json` to get full UUID |
+| `RPC IMPORT_RESEARCH failed` / `null result data` | Import batch too large, empty notebook, or API timeout | Retry with `notebooklm research wait --import-all`. If still 0 sources, manually add key sources via URL |
 | `API returned no data for URL` | Notebook not properly selected | Re-run `notebooklm use <full-uuid>` first |
 | `Failed to get SOURCE_ID` | Source add failed (bad URL, or notebook not selected) | Verify notebook is selected with `notebooklm metadata --json` |
+| Sources go to wrong notebook | **`create` did not set active notebook** | ALWAYS run `use <uuid>` after `create`. Verify with `metadata --json` before adding sources |
 | `Authentication required` / `storage_state.json not found` | Actual auth issue | Run `notebooklm login` (opens browser) |
 | `Session expired` | Google session timed out | Run `notebooklm login` to re-authenticate |
 
@@ -200,8 +343,8 @@ GOOD (from --json):      a1b2c3d4-e5f6-7890-abcd-ef1234567890  ← full UUID, wo
 
 ## Limits & Scaling
 
-- **Max 50 sources per notebook** — create separate notebooks for separate research topics
-- **Deep research takes 2-5 minutes** — always run in foreground with `timeout: 300000`
+- **Source limits per notebook** — Free: 50, Plus/Pro: 300, Ultra: 600. Check the user's plan before hitting limits.
+- **Deep research takes 2-10 minutes** — always run in foreground with `timeout: 600000`
 - **Deliverable generation times**: text analysis ~30s, slide decks up to 15 min, audio/video slower
 - **Session timeout**: Google sessions expire after extended periods — re-auth with `notebooklm login`
 - **Source add-research silent failure**: can return 0 sources in background mode (known bug). Always verify with `notebooklm source list` after adding sources
@@ -216,4 +359,4 @@ These skills build on `/notebooklm` as infrastructure:
 ## Caveats
 
 - Uses **undocumented Google APIs** — best for research and prototyping, not production workflows
-- All processing happens on Google's infrastructure — **zero Gemini CLI token cost** for analysis
+- All processing happens on Google's infrastructure — **zero Claude Code token cost** for analysis

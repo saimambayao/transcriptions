@@ -45,10 +45,8 @@ MD_FILES = [
     "14-chapter-14.md",
     "15-chapter-15.md",
     "16-chapter-16.md",
-    "17-chapter-17.md",
-    "18-chapter-18.md",
-    "19-glossary.md",
-    "20-bibliography.md",
+    "17-glossary.md",
+    "18-bibliography.md",
     "appendices/appendix-f-ai-declaration.md",
 ]
 
