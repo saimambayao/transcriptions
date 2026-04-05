@@ -1,0 +1,990 @@
+# GR-250927-LEONEN
+
+**Separate Opinion: Justice Marvic M.V.F. Leonen**
+
+## Metadata
+
+- **Case Title**: Separate Opinion: Justice Marvic M.V.F. Leonen
+- **Ponente**: LEONEN, J.
+- **Division**: FIRST DIVISION
+- **Type**: Decision
+- **Date**: November 29, 2022
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/05/250927-LEONEN.pdf)
+
+---
+
+> ENBANC
+> G.R. No. 250927- MARIO NISPEROS y PADILLA., petitioner, v.
+> PEOPLE OF THE PIDLIPPINES, respondent.
+> Promulgated:
+> November 29, 2022
+> x--- ,-------------------{:',,,-----==k-~~.:r"=~~;---X
+> SEPARATE OPINION
+> LEONEN,J.:
+> I concur with Associate Justice Ricardo R. Rosario's ponencia that
+> Mario Nisperos y Padilla (Nisperos) must be acquitted on the ground of the
+> prosecution's failure to prove beyond reasonable doubt that he is guilty of
+> illegal sale of drugs. However, I write separately to expound on certain points
+> with which I differ from the ponencia. It is important that I articulate these
+> matters for although they do not affect the specific outcome of this case, the
+> principles espoused by jurisprudence as to what is sufficient compliance with
+> the law provides clear and definite guidelines on the proper conduct of law
+> enforcement operations.
+> I maintain that the requirements laid down by law, specifically the chain
+> of custody in Republic Act No. 9165, as well as by jurisprudence, must be
+> strictly adhered to during the conduct of buy-bust operations. These stringent
+> requirements, including the presence of insulating witnesses at the time of
+> arrest or seizure that is well established in jurisprudence, 1 are imposed to
+> preserve the constitutional rights of all citizens, especially those who stand to
+> suffer from the State's use of legitimate force.2 The calibration of the
+> requirements of Section 21 of Republic Act No. 9165, as amended by
+> Republic Act No. 10640, is vital in balancing the need for effective F
+> prosecution of those involved in illegal drugs while preserving the people's
+> enjoyment of the most basic liberties.3 ~
+> People v. Mendoza, 736 Phil. 749 (2014) [Per J. Bersamin, First Division]; People v. Bintaib, 829 Phil.
+> 13 (20 I 8) [Per J. Mattires, Third Division]; People v. Sood, 832 Phil. 850(2018) [Per J. Caguioa, Second
+> Division]; People v. Tampan, G.R. No. 222648, February 13, 2019 [Per J. J. Reyes, Jr., Second Division];
+> People v. Dela Torre, G.R. No. 238519, June 26, 2019 [Per J. Peralta, Third Division]; People v. Bahoyo,
+> G.R. No. 238589, June 26, 2019 [Per J. A. Reyes, Jr., Third Division]; People v. Advincula, G.R. No.
+> 201576, July 22, 2019 [Per J. Carandang, First Division]; Abilla v. People, G.R. No. 227676, April 3,
+> 2019 [Per J. Caguioa, Second Division]; People v. Martin, G.R. No. 233750, June 10, 2019 [Per J. A.
+> Reyes, Jr., Third Division]; People v. Angeles, G.R. No. 224223, November 20, 2019 [Per J. lnting,
+> Second Division]; People v. Sta. Cruz, G.R. No. 244256, November 25, 2019 [Per J. J. Reyes, Jr. First
+> Division]; Luna v. People, G.R. No. 231902, June 30, 2021 [Per J. Caguioa, First Division]; Paga/ v.
+> People, G.R. No. 251894, March 2, 2022 [Per J. Leanen, Third Division].
+> 2 People v. Que, 824 Phil. 882,885 (2018) [Per. J. Leonen, Third Division]; and People v. Sumilip, G.R.
+> No. 223712, September 11,2019 [Per. J. Leanen, Special First Division].
+> Jct.
+>
+> Separate Opinion 2 G.R. No. 250927
+> Strict adherence to the chain of custody rule <)nsures the integrity of the
+> allegedly seized items and thus, renders them trustworthy. Failure to observe
+> the stringent requirements of the chain of custody rule puts reasonable doubt
+> on the guilt of the accused, as it also means that the prosecution was not able
+> to establish the corpus delicti. However, jurisprudence has recognized that in
+> some cases, strict compliance with the rule is impracticable, which gives
+> leeway for deviations, but only on the strictest and most exceptional grounds.
+> In addition, the prosecution must also state and prove the twin requirements
+> of: (a) justifiable ground for noncompliance; and (b) assurance that the
+> integrity and evidentiary value of the seized items are properly preserved. Law
+> enforcement agents bear the burden of declaring and demonstrating the
+> "concrete steps" they have taken to guarantee the "integrity and evidentiary
+> value of the items allegedly seized" as well as the "specific reasons impelling
+> them to deviate from the law."4
+> Finally, I emphasize that our courts must exercise "heightened scrutiny,
+> consistent with the requirement of proof beyond reasonable doubt, in
+> evaluating cases involving min[u]scule amounts of drugs"5 for such face the
+> greatest risk of planting and tampering of evidence. 6 I repeat that it is about
+> time that our law enforcers exert more effort in going after the real drug
+> syndicates that wreak havoc in our country instead of spending valuable
+> resources on "orchestrated or poorly built up drug-related cases"7 that do
+> nothing but "alienate our people, enable corrupt law enforcers, and undermine
+> the confidence of our people--especially those who are impoverished and
+> underprivileged---on our court's ability to do justice."8
+> I
+> In a September 18, 2015 Information, Nisperos was charged with
+> violation of Section 5 of Republic Act No. 9165.9 Upon arraignment, he
+> entered a plea of not guilty to the offense charged. Then, trial ensued. 10
+> On March 13, 2018, the Regional Trial Court found Nisperos guilty
+> beyond reasonable doubt of the offense charged and sentenced him to suffer
+> life imprisonment and to pay a fine of P500,000.00. It subsequently denied his /}
+> Motion for Reconsideration.11
+> ):
+> 4 People v. Abdulah, G.R. No. 243941, March I I, 2020 [Per J. Leanen, Third Division].
+> People v. Holgado, 741 Phil. 78, 100 (2014) [Per J. Leanen, Third Division].
+> 6 Id.
+> 7 People v. Comoso, G.R. No. 227497, April 10, 2019 [Per J. Leanen, Third Division] citing People v.
+> Lim, 839 Phil. 598 (2018) [Per J. Peralta, En Banc].
+> People v. Suating, G.R. No. 220142, January 29, 2020 [Per J. Leanen, Third Division].
+> 9 Ponencia, p. 2.
+> 10 Id. at 3.
+> 11 Id.
+>
+> Separate Opinion 3 G.R. No. 250927
+> On June 29, 2018, the Court of Appeals affirmed his conviction with
+> modification that he shall not be eligible for parole. It also denied his Motion
+> for Reconsideration. 12
+> Hence, Nisperos filed a Petition for Review on Certiorari before this
+> Court. In sum, petitioner argues that the apprehending team failed to strictly
+> follow the chain of custody rule.13
+> I concur with petitioner's acquittal. As aptly discussed in the ponencia,
+> while the purported sale transpired at 11:30 a.m. of June 30, 2015, the
+> inventory took place only at 12:00 p.m. In this case, without the presence of
+> Department of Justice representative Ferdinand Gangan (Gangan), the
+> inventory could not be conducted. Hence, the chain of custody rule has not
+> been complied with.14
+> Furthermore, Gangan also testified that when he arrived, the seized
+> items were still unmarked and were only marked subsequently.15 Worse, the
+> prosecution gave no reason to warrant such delay. Thus, I agree with the
+> ponencia that since the first link of the chain of custody was not established,
+> there is no chain to speak of. With the belated marking and conduct of the
+> inventory of the seized drugs, the integrity and evidentiary value of the corpus
+> delicti are seriously compromised and the acquittal of petitioner is
+> warranted. 16
+> The utter disregard in complying with the reqms1tes provided by
+> Section 21 of the Comprehensive Dangerous Drugs Act is apparent in this
+> case. The failure to secure the required witnesses during seizure and inventory
+> and to mark the seized items in the presence of third witnesses cast doubt on
+> the integrity and identity of the alleged illicit drugs. As the "last bulwark of
+> democracy,"17 this Court cannot sanction violations of the chain of custody
+> requirements.18 The burden rests upon the prosecution to prove an accused's
+> guilty beyond reasonable doubt.19 Absent such proof, acquittal must ensue.
+> However, I maintain that the presence of the three witnesses must be
+> secured not only during the inventory but also during the seizure of the
+> confiscated items. This is because their presence during this crucial time
+> would erase doubt as to the seized items' source, identity, and integrity.20 The /
+> witnesses would be able to testify whether the items taken during the seizure
+> 12 Id. at 3-4.
+> 13 Id. at 4.
+> 14 Id. at 6.
+> 15 Id. at 3.
+> 16 Id. at 7.
+> 17 J. Perfecto, Dissenting Opinion in Ramos v. Commission on Elections, 80 Phil. 722, 728 (1948) [Per J.
+> Paras, Second Division].
+> 18 People v. Banding, G.R. No. 233470, August 14, 2019 [Per J. Leanen, Third Division].
+> Id.
+> 19
+> 20
+> People v. Tomawis, 830 Phil. 385,405 (2018) [Per J. Caguioa, Second Division].
+>
+> Separate Opinion 4 G.R. No. 250927
+> by tbe apprehending officer are the same items presented in the court as tbey
+> would have personal knowledge of what has transpired during tbe buy-bust
+> operation itself.
+> II
+> The constitutional mandate that no person shall be deprived of life,
+> liberty, or property without due process of law21 remains solemn and
+> inflexible.22 This Court has emphasized that "absolute heedfulness of tbis
+> constitutional injunction is most pronounced in criminal cases where the
+> accused is in the gravest jeopardy of losing their life."23 Hence, every court
+> must proceed with utmost care with each case presented before it, most
+> especially "when tbe possible punishment is in its severest form--deatb-a
+> penalty tbat once carried out, is irreversible and irreparable."24
+> In a criminal prosecution, much, if not all, is at stake for the accused.
+> Upon conviction, a person is stigmatized and deprived of liberty, and if capital
+> punishment is imposed, life is forever lost.25 Hence, in any just and humane
+> society which values the good name and freedom of each individual, it is
+> important that a person shall not be condemned for committing a crime when
+> there is reasonable doubt of tbeir guilt.26 Thus, the due process clause
+> mandates that no person shall lose their liberty, or in grave instances-their
+> life-unless tbe government has overcome the burden of convincing the court
+> of tbeir guilt. 27
+> The moral force of criminal law must not be diluted by a standard of
+> proof that leaves people doubting whether the innocent are being condemned.
+> Such is essential in a society that values freedom, where individuals can go
+> about their daily affairs witb confidence that their government cannot adjudge
+> them guilty of a criminal offense without convincing the court of their guilt
+> with moral certainty.28
+> Hence, convictions in criminal actions require proofbeyond reasonable
+> doubt.29 Rule 133, Section 2 of tbe Rules of Court spells out tbis requisite
+> quantum of proof:
+> 21 CONST., art. lll, sec. I.
+> 22 People v. Alcalrje, 432 Phil. 366, 381 (2002) [Per J. Davide, Jr., En Banc].
+> 23 Id.
+> 24 People v. Tizon, 375 Phil. I 096, 1102 (I 999) [Per J. Vitug, En Banc].
+> 25 People v. Garcia. 289 Phil. 819,831 (1992) [Per J. Davide, Jr., Third Division].
+> 26 Id. at 831-832, citing In Re Winship, 397 U.S. 358, 90 S. Ct. 1068, 25 L.E. 2d, excerpted from LEWIS
+> AND PEOPLES, THE SUPREME COURT AND Tl-iE CRIMINAL PROCESS 712 (1978).
+> 27 Id.
+> 28 People v. Morales, 630 Phil. 215, 218-219 (2010) [Per J. Del Castillo, Second Division], citing In Re
+> Winship, 397 U.S. 358, 90 S. Ct. 1068 (1970).
+> 29 People v. Que. 824 Phil. 882,891 (2018) [Per J. Leanen, Third Division].
+>
+> Separate Opinion 5 G.R. No. 250927
+> Section 2. Proof beyond reasonable doubt. - In a criminal case, the
+> accused is entitled to an acquittal, unless his or her guilt is shown beyond
+> reasonable doubt. Proof beyond reasonable doubt does not mean such a
+> degree of proof as, excluding possibility of error, produces absolute
+> certainty. Moral certainty only is required, or that degree of proof which
+> produces conviction in an unprejudiced mind.
+> To emphasize, "[p] roof beyond reasonable doubt is ultimately a matter
+> of conscience."30 It does not mean proof beyond all "possible or imaginary
+> doubt."31 Rather, it means a certainty that convinces and satisfies both reason
+> and conscience, after duly taking into account every circumstance favoring
+> the defendant's innocence, that they are responsible for the offense charged,
+> and not only did they perpetrate the act, but such act amounted to a crime.32
+> Such is the immensity of the responsibility that the prosecution must bear.
+> It is not sufficient that the prosecution only establishes a probability, no
+> matter how strong.33 Rather, it is necessary for the prosecution to lay before
+> the court the relevant facts and evidence, "to the end that the court's mind may
+> not be tortured by doubts, that the innocent may not suffer and the guilty not
+> escape unpunished."34 This is the "prosecution's prime duty to the court, to
+> the accused, and the [S]tate."35
+> The prosecution's duty arises from a constitutional mandate and finds
+> basis both in the due process clause36 and the presumption of innocence37 of
+> the accused.38 As this Court ruled in People v. Ganguso:39
+> An accused has in his favor the presumption of innocence which the
+> Bill of Rights guarantees. Unless his guilt is shown beyond reasonable
+> doubt, he must be acquitted. This reasonable doubt standard is demanded
+> by the due process clause of the Constitution which protects the accused
+> from conviction except upon proof beyond reasonable doubt of every fact
+> necessary to constitute the crime with which he is charged. The burden of
+> proof is on the prosecution, and unless it discharges that burden the accused
+> I
+> 30 People v. Comoso, G.R. No. 227497, April 10, 2019 [Per J. Leonen, Third Division].
+> 31 U.S. v. Reyes, 3 Phil. 3, 5--o (1903) [Per J. Johnson, En Banc].
+> 32 People v. Cui, Jr., 245 Phil. I 96, 205~206 (1988) [Per J. Padilla, Second Division].
+> 33 U.S. v. Reyes, 3 Phil. 3, 6 (I 903) [Per J. Johnson, En Banc].
+> 34 People v. Esquivel, 82 Phil. 453,459 (1948) [Per J. Tuason, En Banc].
+> 35 Id.
+> 36 Article Ill, Section I of the Constitution provides:
+> SECTION I. No person shall be deprived of life, liberty, or property without due process of law, nor
+> shall any person be denied the equal protection of the laws.
+> 37 Article III, Section 14(2) of the Constitution provides:
+> (2) In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved, and
+> shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the
+> accusation against him, to have a speedy, impartial, and public trial, to meet the witnesses face to face,
+> and to have compulsory process to secure the attendance of witnesses and the production of evidence in
+> his behalf However, after anaignrnent, trial may proceed notwithstanding the absence of the accused
+> provided that he has been duly notified and h is failure to appear is unjustifiable.
+> 38 Palencia v. People. G.R. No. 219560, July I, 2020 [Per J. Leonen, Third Division].
+> 39 320 Phil. 324 (I 995) [Per J. Davide, Jr., First Division].
+>
+> Separate Opinion 6 G.R. No. 250927
+> need not even offer evidence in his behalf, and he would be entitled to an
+> acquittal.40 (Citations omitted)
+> Thus, to secure a conviction in a criminal case, the prosecution must
+> prove the guilt of an accused beyond reasonable doubt which requires that
+> every fact essential to the commission of the crime be established.41
+> III
+> In cases involving illicit narcotics, this Court has laid down the
+> elements of illegal sale and illegal possession:
+> Material to a prosecution for illegal sale of dangerous drugs is the
+> proof that the transaction or sale actually took place, coupled with the
+> presentation in court of the corpus delicti as evidence.42
+> In illegal possession of dangerous drugs, the elements are: (1) the
+> accused is in possession of an item or object which is identified to be a
+> prohibited drug; (2) such possession is not authorized by law; and (3) the
+> accused freely and consciously possessed the said drug.43
+> In both instances, "the illicit drugs confiscated from the accused
+> comprise the corpus delicti of the charges."44 Corpus delicti is defined as "the
+> body or substance of the crime, and establishes the fact that a crime has
+> actually been committed."45 Its elements include proof that a certain act was
+> committed and that a person is criminally responsible for the act.46
+> Thus, their identity and integrity must be established beyond reasonable
+> doubt.47 It is the prosecution's duty "to ensure that the illegal drugs offered
+> in court are the very same items seized from the accused."48 Proof beyond
+> reasonable doubt in these cases demands an "unwavering exactitude that the
+> dangerous drug presented in court as evidence against the accused is the same
+> as that seized from him in the first place."49
+> 40 Id. at 335.
+> 41 People v. Pagaduan, 641 Phil. 432,447 (2010) [Per J. Brion, Third Division].
+> 42 People v. Boco. 368 Phil. 341,356 (1999) [Per J. Panganiban, En Banc]; and People v. San Juan, 427
+> Phil. 236,242 (2002) [Per J. Buena, Second Division].
+> 43 People v. Khor, 366 Phil. 762, 795 (1999) [Per J. Gonzaga-Reyes, Third Division].
+> 44 People v. Sagona, 815 Phil. 356,367 (2017) [Per J. Leonen, Second Division], citing People v. Ismael,
+> 806 Phil. 21 (2017) [Per J. Del Castillo, First Division].
+> 45 People v. Monte, 455 Phil. 720, 727 (2003) [Per J. Ynares-Santiago, First Division] citing People v.
+> Oliva, 395 Phil. 265,275 (2000) [Per J. Pardo, First Division].
+> 46 Id. at 727-728, citing People v. Boca, 368 Phil. 341 (I 999) [Per J. Panganiban, En Banc].
+> 47
+> People v. Castillo, G.R. No. 238339, August 7,2019 [Per J. Leonen, Third Division]; Evardo v. People,
+> G.R. No. 234317, May I 0, 2021 [Per J. Leonen, Third Division].
+> 48 People v. Saunar, 816 Phil. 482,491 (2017) [Per J. Leonen, Second Division].
+> 49 Catuiran v. People, 605 Phil. 646, 655 (2009) [Per J. Tinga, Second Division] citing RONALD J. ALLEN
+> AND RICHARD B. KUHNS, AN ANALYTICAL APPROACH TO EVIDENCE 174 (1989).
+>
+> Separate Opinion 7 G.R. No. 250927
+> Such strict requirements is demanded due to the nature of illegal drugs.
+> Illegal drugs are fungible things50-indistinct and not readily identifiable.51
+> Because of this, the legislature saw it fit to establish a chain of custody rule
+> specific to cases involving dangerous drugs. 52 It requires strict compliance
+> with an exacting standard that entails a chain of custody of the item with
+> sufficient completeness that would make it highly unlikely, if not impossible,
+> for the original item to be exchanged, contaminated, or tampered with.53
+> Hence, to establish the requisite identity of the dangerous drug, the
+> prosecution must be able to account for each link in the chain of custody from
+> the moment the drug is seized, up to its presentation in court as evidence.54 It
+> is in this context that we emphasize the essence of the chain of custody
+> requirements under Section 21, Article II of Republic Act No. 9165, as
+> amended by Republic Act No. 10640.
+> IV
+> The law provides the procedural safeguards that must be observed in
+> the handling of seized illegal drugs to remove all doubts concerning the
+> identity and integrity of the corpus delicti.55 Strict compliance with the
+> prescribed procedure must be observed in every single case.56 Section 21 of
+> Republic Act No. 9165, as amended by Republic Act No. 10640, provides the
+> requirements for the custody and disposition of confiscated, seized, and/or
+> surrendered drugs and/or drug paraphernalia:
+> SECTION 21. Custody and Disposition of Confiscated, Seized, and/or
+> Surrendered Dangerous Drugs, Plant Sources of Dangerous Drugs,
+> Controlled Precursors and Essential Chemicals,
+> Instruments/Paraphernalia and/or Laboratory Equipment. - The PDEA
+> shall take charge and have custody of all dangerous drugs, plant sources of
+> dangerous drugs, controlled precursors and essential chemicals, as well as
+> instruments/paraphernalia and/or laboratory equipment so confiscated,
+> seized and/or surrendered, for proper disposition in the following manner:
+> (I) The apprehending team having initial custody and control of the
+> dangerous drugs, controlled precursors and essential chemicals,
+> instruments/paraphernalia and/or laboratory equipment shall,
+> immediately after seizure and confiscation, conduct a physical
+> I
+> inventory of the seized items and photograph the same in the presence
+> of the accused or the persons from whom such items were confiscated
+> and/or seized, or his/her representative or counsel, with an elected
+> 50
+> People v. O'Cochlain, G.R. No. 229071, December 10, 2018 [Per J. Peralta, Third Division], p. 29. This
+> refers to the pinpoint citation of the Decision uploaded in the Supreme Court website.
+> 51 People v. Pagaduan, 641 Phil. 432,444(2010) [Per J. Brion, Third Division]. See also People v. Garcia,
+> 599 Phil. 416 (2009) [Per J. Brion, Second Division].
+> 52
+> J. Caguioa, Concurring Opinion in People v. Veloo, G.R. No. 252154, March 24, 2021 [Per J. Peralta,
+> First Division].
+> 53 Mal/ii/in v. People, 576 Phil. 576,589 (2008) [Per J. Tinga, Second Division].
+> 54 People v. Lopez, G.R. No. 247974, July 13, 2020 [Per J. Caguioa, First Division].
+> 55 People v. De Guzman, 825 Phil. 43, 54 (2018) [Per J. Del Castillo, First Division].
+> 56 ld. at 54-55.
+>
+> Separate Opinion 8 G.R. No. 250927
+> public official and a representative of the National Prosecution Service
+> or the media who shall be required to sign the copies of the inventory
+> and be given a copy thereof: Provided, That the physical inventory and
+> photograph shall be conducted at the place where the search warrant is
+> served; or at the nearest police station or at the nearest office of the
+> apprehending officer/team, whichever is practicable, in case of
+> warrantless seizures: Provided, finally, That noncompliance of these
+> requirements under justifiable grounds, as long as the integrity and the
+> evidentiary value of the seized items are properly preserved by the
+> apprehending officer/team, shall not render void and invalid such
+> seizures and custody over said items.
+> (2) Within twenty-four (24) hours upon confiscation/seizure of dangerous
+> drugs, plant sources of dangerous drugs, controlled precursors and
+> essential chemicals, as well as instruments/paraphernalia and/or
+> laboratory equipment, the same shall be submitted to the PDEA
+> Forensic Laboratory for a qualitative and quantitative examination;
+> (3) A certification of the forensic laboratory examination results, which
+> shall be done by the forensic laboratory examiner, shall be issued
+> immediately upon the receipt of the subject itern/s: Provided, That
+> when the volume of dangerous drugs, plant sources of dangerous drugs,
+> a.TJ.d controlled precursors and essential chemicals does not allow the
+> completion of testing within the time frame, a partial laboratory
+> examination report shall be provisionally issued stating therein the
+> quantities of dangerous drugs still to be examined by the forensic
+> laboratory: Provided, however, That a final certification shall be issued
+> immediately upon completion of the said examination and
+> certification[.]
+> In Mallillin v. People,57 this Court exhaustively explained the chain of
+> custody rule and what is considered sufficient compliance with the rule:
+> As a method of authenticating evidence, the chain of custody rule requires
+> that the admission of an exhibit be preceded by evidence sufficient to
+> support a finding that the matter in question is what the proponent claims it
+> to be. It would include testimony about every link in the chain, from the
+> moment the item was picked up to the time it is offered into evidence, in
+> such a way that every person who touched the exhibit would describe how
+> and from whom it was received, where it was and what happened to it while
+> in the witness' possession, the condition in which it was received and the
+> condition in which it was delivered to the next link in the chain. These
+> witnesses would then describe the precautions taken to ensure that there had
+> been no change in the condition of the item and no opportunity for someone
+> not in the chain to have possession of the same.58 (Citations omitted)
+> This ruling has been applied in numerous cases and this Court has
+> consistently recognized that the chain of custody must be sufficiently (
+> established in buy-bust situations to ensure the preservation of the identity and
+> integrity of the seized dangerous drugs:59
+> 57 576 Phil. 576 (2008) [Per J. Tinga, Second Division].
+> 58 Id. at 587.
+> 59 Derilo v. People, 784 Phil. 679,686 (2016) [Per J. Brion, Second Division].
+>
+> Separate Opinion 9 G.R. No. 250927
+> [F]irst, the seizure and marking, if practicable, of the illegal drug recovered
+> from the accused by the apprehending officer; second, the turnover of the
+> illegal drug seized by the apprehending officer to the investigating officer;
+> third, the turnover by the investigating officer of the illegal drug to the
+> forensic chemist for laboratory examination; and fourth, the turnover and
+> submission of the marked illegal drug seized from the forensic chemist to
+> the court. 60
+> To show an unbroken chain ofcustody, the prosecution's evidence must
+> include testimony about every link in the chain, from the moment the
+> dangerous drug was seized to the time it is offered in court as evidence.61 "It
+> is from the testimony of every witness who handled the evidence from which
+> a reliable assurance can be derived that the evidence presented in court is one
+> and the same as that seized from the accused."62
+> V
+> The first and most crucial step in proving an unbroken chain of custody
+> in drug-related prosecutions is the marking of the seized illicit drugs and other
+> related items, as it is "the starting point in the custodial link that succeeding
+> handlers of [said items] will use as a reference point."63 While marking does
+> not explicitly form part of the chain of custody requirements under the letter
+> of Section 21, it is indispensable in ensuring that the integrity and identity of
+> the dangerous drugs are preserved.64 Marking the evidence separates them
+> from the corpus of all other similar evidence, therefore preventing intentional
+> or accidental switching, planting, or contamination.65 As a rule, the inventory
+> and taking of photographs must also be done at the actual place of
+> apprehension. 66
+> Hence, this Comi has been consistent in ruling that the failure of the
+> police to immediately mark the seized drugs is sufficient to overturn the
+> presumption of regularity in the performance of official duties. Such failure
+> raises reasonable doubt on the authenticity of the corpus delicti.67
+> To repeat, the physical inventory and photographing of the evidence
+> must be done immediately after seizure and confiscation in the presence of /
+> three witnesses. The first witness is the accused or the person from whom the
+> 60 People v. Kamad, 624 Phil. 289,304 (2010) [Per J. Brion, Second Division] citing People v. Garcia,
+> 599 Phil. 416 (2009) [Per J. Brion, Second Division].
+> 61 Derilo v. People, 784 Phil. 679,686 (2016) [Per J. Brion, Second Division].
+> 62 People v. Veedor, Jr., 834 Phil. 88, 99 (2018) [Per J. Del Castillo, First Division] citing Derilo v. People,
+> 784 Phil. 679 (20 I 6) [Per J. Brion, Second Division],
+> 63 Id., citing People v. Bartolini, 791 Phil. 626 (2016) [Per J. Carpio, Second Division].
+> 64 People v. Castillo, G.R. No. 238339, August 7,2019 [Per J. Leonen, Third Division]
+> 65 People v. Veedor, Jr., 834 Phil. 88, 99-100 (2018) [Per J. Del Castillo, First Division].
+> 66 People v. Sumilip, G.R. No. 223712, September 11, 2019 [Per J. Leonen, Special First Division).
+> 67
+> People v. Veedor, Jr., 834 Phil. 88, I 00 (20 I 8) [Per J. Del Castillo, First Division], citing People v.
+> Bartolini, 791 Phil. 626 (2016) [Per J. Carpio, Second Division].
+>
+> Separate Opinion 10 G.R. No. 250927
+> items were seized, or their representative. The second witness is an elective
+> public official. Lastly, the third witness is a representative from the National
+> Prosecution Service or the media.68
+> This Court has consistently held that the presence of insulating
+> witnesses in the first link is vital. 69 Without the insulating presence of these
+> persons, the possibility of switching, planting, or contamination of the
+> evidence negates the credibility of the seized drug and other confiscated
+> items. 70 The required witnesses must be present right during the apprehension
+> and not only during the subsequent marking, inventory, and taking
+> photographs.71 Their presence must be secured during the actual seizure of
+> the items as the statutory requirement of conducting the inventory and taking
+> of photographs "immediately after seizure and confiscation" necessarily
+> means that the required witnesses must also be present during the seizure or
+> confiscation. 72
+> In People v. Estabillo,73 this Court emphasized that the job of an
+> insulating witness is not to look for white powdery substances which could be
+> dangerous drugs. Rather, the role of the insulating witness is to confirm that
+> the items seized from the appellant are the ones appearing in the inventory
+> and are the same items offered in evidence before the court, regardless of
+> whether they are dangerous drugs or ordinary household items. The insulating
+> witness does not have to guarantee that the items seized from the accused are
+> indeed illegal drugs. 74
+> In Abilla v. People,75 this Court held that because the only insulating
+> witness present arrived after the apprehension of the accused, he was unable
+> to witness how the alleged sachets of dangerous drugs were seized. Hence,
+> "his presence did not in any way prevent the possibility that a switching,
+> planting[,] or contamination of the evidence had transpired."76
+> In People v. Luna,77 the Court explained that the reason for this
+> mandatory imposition is dictated by logic:
+> I
+> 68 Republic Act No. I 0640 (2014), sec. 21(1 ).
+> 69 People v. Bintaib. 829 Phil. 13, 24 (2018) [Per J. Martires, Third Division].
+> 70 People v. Sagona, 815 Phil. 356, 372-373 (2017) [Per J. Leanen, Second Division]; People v. Reyes.
+> 797 Phil. 671, 689 (2016) [Per J. Bersamin, First Division]; People v. Mendoza, 736 Phil. 749, 764
+> (2014) [Per J. Bersamin, First Division]; People v. Sood, 832 Phil. 850, 868 (2018) [Per J. Caguioa,
+> Second Division]; People v. Advincula, G.R. No. 201576, July 22, 2019 [Per J. Carandang, First
+> Division]; People v. Sta. Cruz, G.R. No. 244256, November 25, 2019 (Per J. J. Reyes, Jr. First Division];
+> and People v. Que, 824 Phil. 882, 91 I (2018) [Per J. Leonen, Third Division].
+> 71 People v. Sumilip, G.R. No. 223712, September 11, 2019 [Per J. Leanen, Special First Division].
+> 72 Peoplev. Que, 824 Phil. 882,911 (2018) [PerJ. Leonen, Third Division].
+> 73 G.R. No. 252902, June 16, 2021 [Per J. Lazaro-Javier, Second Division].
+> 74 ld.
+> 75 G.R. No. 227676, April 3, 2019 [Per J. Caguioa, Second Division].
+> 76 Id.
+> 77 828 Phil. 671 (2018) [Per J. Caguioa, Second Division].
+>
+> Separate Opinion 11 G.R. No. 250927
+> [T]hese witnesses are presumed to be disinterested third parties insofar as
+> the buy-bust operation is concerned. Hence, it is at the time ofa rrest - or
+> at the time of the drugs' "seizure and confiscation" - that the insulating
+> presence oft he witnesses is most needed, as it is their presence at the time
+> ofs eizure and confiscation that wouldforeclose the pernicious practice of
+> planting of evidence. 78 (Emphasis supplied)
+> If this Court will only require witnesses to be present after the
+> apprehension and seizure, which are the most critical parts in buy-bust
+> operations, their presence will be rendered meaningless. The reason why this
+> Court, in a multitude of cases,79 declared that the witnesses must also be
+> present at the time and place of arrest or seizure is because it is when they are
+> needed the most. This is because the illegal drugs, the corpus delicti of the
+> crime, can be easily planted in the pockets or the hands of its unknowing
+> victims.
+> As early as 1921, this Court has emphasized that "scrupulous care"80
+> should be exercised by the courts to ascertain the guilt of the accused charged
+> with violating provisions of laws prohibiting illegal drugs because it is
+> "extremely easy for [informers] to blackmail or fix the badge of guilt" against
+> the innocent and "[o]nly the constant vigilance of the courts can guard against
+> the danger arising from such abuses."81 In People v. Castillo:82
+> Having third-party witnesses present only during the subsequent physical
+> inventory and photographing renders the whole requirement of their
+> presence futile. Securing third-party witnesses provides a layer of
+> protection to the integrity of the items seized and forecloses any opportunity
+> for the planting of dangerous drugs. Having their presence only at a very
+> late stage reduces them to passive automatons, utilized merely to lend
+> hollow legitimacy by belatedly affixing signatures on final inventory
+> documents despite lacking authentic knowledge on the items conji·onting
+> them. They are then reduced to rubberstamps, oblivious to how the dangers
+> sought to be avoided by their presence may have already transpired. 83
+> (Emphasis supplied)
+> If we were to strictly require the presence of these witnesses only at a
+> very late stage, after the accused has been apprehended or after the items have
+> 78 Id. at 689.
+> 79 People v. Mendoza, 736 Phil. 749 [Per J. Bersamin, First Division]; People v. Bintaib, 829 Phil. 13
+> (2018) [Per J. Martires, Third Division]; People v. Sood, 832 Phil. 850 (2018) [Per J. Caguioa, Second
+> Division]; People v. Dela Torre, G.R. No. 238519, June 26,2019 [Per J. Peralta, Third Division]; People
+> v. Bahoyo, G.R. No. 238589, June 26, 2019 [Per J. A. Reyes, Jr., Third Division]; People v. Advincula,
+> G.R. No. 201576, July 22, 2019 [Per J. Carandang, First Division]; People v. Tampan, G.R. No. 222648,
+> February 13, 2019 [Per J. J. Reyes, Jr., Second Division]; Abilla v. People, G.R. No. 227676, April 3.
+> 2019 [Per J. Caguioa, Second Division]; People v. Martin, G.R. No. 233750, June 10, 2019 (Per J. A.
+> Reyes, Jr., Third Division]; People v. Angeles. G.R. No. 224223, November 20, 2019 (Per J. Inting,
+> Second Division]; People v. Sta. Cruz, G.R. No. 244256, November 25, 2019 [Per J. J. Reyes, Jr., First
+> Division]; Luna v. People, G.R. No. 231902, June 30, 2021 [Per J. Caguioa, First Division]; Paga! v.
+> People, G.R. No. 251894, March 2, 2022 [Per J. Leonen, Third Division].
+> 80 US. v. Delgado, 41 Phil. 372,382 (1921) [Per J. Malcolm, En Banc].
+> ,, Id.
+> 82 G.R. No. 238339, August 7, 2019 [Per J. Leonen, Third Division]
+> 83 Id.
+>
+> Separate Opinion 12 G.R. No. 250927
+> been seized, their presence would no longer hold significant value for they
+> would have absolutely no personal knowledge of what has transpired in the
+> most crucial moment when their presence is most important-at the very
+> beginning, when the corpus delicti' s very existence is put to the test. For what
+> is of utmost importance in the first link in the chain of custody is not the bare
+> conduct of inventory, nor the mere act of marking or photographing. Rather,
+> it is the certainty that the items allegedly taken from the accused will retain
+> their integrity as they make their way from the accused to the officer effecting
+> the seizure. 84
+> For completeness, it is best to discuss the remaining links involved in
+> the chain of custody. The second link involves "the tum-over of the
+> confiscated drugs to the police station, the recording of the incident, and the
+> preparation of the necessary documents such as the request for laboratory
+> examination of the seized drugs."85 The second link happens when the seized
+> drugs are transferred from the apprehending officer to the investigating
+> officer. 86 This is because the investigating officer will be the one to conduct
+> the proper investigation and prepare all the documents for the criminal case.
+> Hence, they must have possession of the illegal substance to prepare the
+> documentation. 87
+> In People v. Del Rosario, 88 this Court held that the lack of information
+> and documentary evidence as to how, at what point, and in what condition
+> were the seized items handed from the apprehending officer to the
+> investigating officer cast doubt on the seized items' source, identity, and
+> integrity and ultimately acquitted the accused due to these lapses in the chain
+> of custody.89
+> The third link involves the delivery of the illicit drugs by the
+> investigating officer to the forensic chemist at the forensic laboratory.90 The
+> laboratory technician will testify and verify the nature of the substance.91
+> In Valencia v. People,92 this Court has emphasized that the third link
+> should detail who brought the seized shabu to the crime laboratory, who
+> received it, and who exercised custody and possession after it was examined
+> and before it was presented in court.93 Finding that these crucial details were I
+> 84 People v. Luna, 828 Phil. 671,695 (2018) [Per J. Caguioa, Second Division].
+> 85 People v. Villojan, Jr., G.R. No. 239635, July 22, 2019 [Per J. Lazaro-Javier, Second Division].
+> 86 People v. Dahil, 750 Phil. 212, 231 (2015) [Per J. Mendoza, Second Division].
+> 87 Id. at 235.
+> 88 G.R. No. 235658, June 22, 2020 [Per J. Gesmundo, Third Division].
+> 89 Id.
+> ' 0 People v. Nandi, 639 Phil. 134, 145 (2010) [Per J. Mendoza, Second Division].
+> 91 People v. Bangcola, G.R. No. 237802, March 18, 2019 [Per J. Gesmundo, First Division]; and Peoplev.
+> Dela Rosa, 822 Phil. 885,907 (2017) [Per J. Gesmundo, Third Division].
+> 92 725 Phil. 268 (2014) [Per J. Reyes, First Division].
+> " Id. at 285.
+>
+> Separate Opinion 13 G.R. No. 250927
+> nowhere to be found in the records, the Court held that there was an unbroken
+> chain of custody and thus acquitted the accused.94
+> Lastly, the fourth link refers to the transfer of the seized drugs from the
+> forensic chemist to the court when such evidence is presented during the
+> criminal case.95 This Court has held that "it is of paramount necessity that the
+> forensic chemist testifies as to details pertinent to the handling and analysis of
+> the dangerous drug submitted for examination[.]"96 They must detail when
+> and from whom the illicit drug was received, the identifying labels and objects
+> with it, its description, and its container.97 They must also identify the method
+> of the analysis used to determine the chemical composition of the involved
+> specimen.98
+> In People v. Ubungen,99 this Court held that absent any testimony
+> regarding the management, storage, and preservation of the illegal drug
+> allegedly seized herein after its qualitative examination, the fourth link in the
+> chain of custody of the said illegal drug could not be reasonably established.100
+> VI
+> Strict compliance with the chain of custody rule is essential to ensure
+> that the seized items are the same items brought to court. In People v.
+> Holgado, 101 the chain of custody requirements protect the integrity of the
+> corpus delicti in four aspects:
+> [F]irst, the nature of the substances or items seized; second, the quantity
+> (e.g., weight) of the substances or items seized; third, the relation of the
+> substances or items seized to the incident allegedly causing their seizure;
+> and fourth, the relation of the substances or items seized to the person/s
+> alleged to have been in possession of or peddling them. 102
+> Conversely, as held in Pimentel v. People, 103 the effect of
+> noncompliance with the chain of custody requirements is the failure on the
+> part of the prosecution to establish the identity and integrity of the corpus
+> delicti and will lead to the acquittal of the accused for failure to prove their /
+> guilt beyond reasonable doubt.104
+> 94 Id. at 287.
+> 95 People v. Kamad. 624 Phil. 289,304 (2010) [Per J. Brion, Second Division].
+> 96 Largo v. People, G.R. No. 201293, June 19. 2019 [Per J. Lazaro-Javier, Second Division].
+> '' Id.
+> 98 People v. Rivera, G.R. No. 252886, March 15, 2021 [Per J. Perlas-Bernabe. Second Division].
+> 99 836 Phil. 888 (2018) [Per J. Martires, Third Division].
+> ioo Id. at 902.
+> 101 741 Phil. 78 (2014) [Per J. Leanen, 1llird Division].
+> 102 Id. at 93.
+> 3 G.R. No. 239772, January 29, 2020 [Per J. Leanen, Third Division].
+> 10
+> 104 Id.
+>
+> Separate Opinion 14 G.R. No. 250927
+> Although strict compliance is indeed the expected standard, the law
+> recognizes that there are extraordinary circumstances in which such would not
+> be possible. As long as noncompliance to the rule has justifiable grounds and
+> the integrity and the evidentiary value of the seized items remain properly
+> preserved, the seizures and custody over said items shall not be rendered
+> invalid. 105
+> Failure to strictly follow the mandatory requirements under the chain
+> of custody rule must be adequately explained and must be proven as a fact in
+> accordance with the rules of evidence.106 This requires the officers to clearly
+> state the grounds in their sworn affidavit, coupled with a statement
+> enumerating the steps they took to preserve the integrity of the seized items.107
+> The prosecution bears the burden of proving a valid cause for noncompliance
+> and justifying any perceived deviations from what is required by the chain of
+> custody rule. 108 "Otherwise, the requisites under the law would merely be
+> fancy ornaments that may or may not be disregarded by the arresting officers
+> at their own convenience."109 As held in People v. Miranda: 110
+> The Court, however, clarified that under varied field conditions,
+> strict compliance with the requirements of Section 21 of RA 9165 may not
+> always be possible. In fact, the Implementing Rules and Regulations (IRR)
+> of RA 9165-which is now crystallized into statutory law with the passage
+> of RA I 0640 - provide that the said inventory and photography may be
+> conducted at the nearest police station or office of the apprehending team
+> in instances of warrantless seizure, and that non-compliance with the
+> requirements of Section 21 of RA 9165 -under justifiable grounds -will
+> not render void and invalid the seizure and custody over the seized items so
+> long as the integrity and evidentiary value of the seized items are properly
+> preserved by the apprehending officer or team. Tersely put, the failure of
+> the apprehending team to strictly comply with the procedure laid out in
+> Section 21 of RA 9165 and the IRR does not ipso facto render the seizure
+> and custody over the items as void and invalid, provided that the prosecution
+> satisfactorily proves that: (a) there is justifiable ground for non-compliance;
+> and (b) the integrity and evidentiary value of the seized items are properly
+> preserved. In People v. Almorfe, the Court stressed that for the above
+> saving clause to apply, the prosecution must explain the reasons behind the
+> procedural lapses, and that the integrity and value of the seized evidence
+> had nonetheless been preserved. Also, in People v. De Guzman, it was
+> emphasized that the justifiable ground for non-compliance must be proven
+> as a fact, because the Court cannot presume what these grounds are or that
+> I
+> they even exist.111 (Citations omitted)
+> In determining whether noncompliance with the strict requirements
+> of Section 21 is justified, this Court has taken into consideration certain
+> Id.
+> 10s
+> 106 People v. Sipin, 833 Phil. 67. 92 (2018) [J. Peralta, Second Division].
+> 107
+> Id., citing People v. Saragena, 817 Phil. 117 (2017) [Per J. Leon en, Third Division].
+> 108 People v. Paz, 824 Phil. 1025, 1041 (2018) [Per J. Perlas-Bernabe, Second Division]; and People v.
+> Mamangon, 824 Phil. 728, 742 (2018) [Per J. Perlas-Bernabe, Second Division].
+> 109 Valencia v. People, 725 Phil. 268,286 (2014) [Per J. Reyes, First Division].
+> ,w
+> 824 Phil. 1042 (2018) [Per J. Perlas-Bernabe, Second Division].
+> 111 Id. at 1052-1053.
+>
+> Separate Opinion 15 G.R. No. 250927
+> situations that do not fall within the savmg clause of the amended
+> Comprehensive Dangerous Drugs Act.
+> In People v. Asaytuno, 112 this Court held that "the mere assembling of
+> people does not equate to danger that compromises the activities of law
+> enforcers. It does not mean that the arrest site is no longer a viable place for
+> completing necessary procedures."113 This Court emphasized that since the
+> buy-bust operation was a "prearranged activity,"114 the law enforcement team
+> must have adequately prepared for the situations that may occur in a public
+> setting. The police officers are expected to exercise their functions diligently
+> despite being in a public area for they had adequate time to make the necessary
+> preparations. Failure to make such preparations is not an excuse for
+> noncompliance with the strict requirements of the chain of custody rule.
+> Furthermore, the prosecution claimed that the buy-bust team was not able to
+> immediately do the marking at the place of the arrest because the elective
+> official was not present at the site of the arrest. This Court held that such
+> claim underscores their neglect and does not justify failure to comply with
+> Section 21.115
+> In People v. Ramos, 116 this Court held that the police officers'
+> inadequate preparations in buy-bust operations are not justifiable grounds for
+> noncompliance with the chain of custody rule. The apprehending officers are
+> given runple time to prepare and are aware of the strict guidelines of Section
+> 21. Failure to mark the seized drugs immediately because there was no marker
+> or because the required witnesses were absent are the officers' own fault and
+> are not valid excuses for noncompliance with the chain of custody rule.117
+> In Sio v. People, 118 "the failure of police officers to comply with the
+> basic requirements of Section 21, when operations conducted by virtue of
+> search warrants require planning and preparation, means that noncompliance
+> with the requirements is unjustifiable."119
+> In People v. Comoso, 120 this Court held that "the often minuscule
+> amounts of dangerous drugs seized by law enforcement officers compel
+> courts to be more circumspect in the exrunination of the evidence.
+> Reasonable doubt arises in the prosecution's narrative when the links in the
+> fl
+> chain of custody cannot be properly established. There is no guarantee that
+> ;1
+> the evidence had not been tampered with, substituted, or altered."121
+> 112 G.R. No. 245972, December 2, 2019 [Per J. Leanen, Third Division].
+> I 13 Id.
+> Id.
+> i 14
+> Id.
+> 11s
+> 116 G.R. No. 225325, August 28, 2019 [Per J. Leonen, Third Division].
+> Id.
+> 111
+> 118 G.R. No. 224935, March 2, 2022 [Per J. Leonen, Third Division].
+> 119
+> Id. at 9. This refers to the pinpoint citation of the Decision uploaded in the Supreme Court website.
+> 120 G.R. No. 227497, April 10, 2019 [Per J. Leonen, Third Division].
+> 121 Id.
+>
+> Separate Opinion 16 G.R. No. 250927
+> In People v. Abdulah, 122 this Court said that flimsy and
+> unsubstantiated claims of unsafe conditions do not meet the requisites
+> imposed to justify noncompliance with the chain of custody rule. Shallow
+> averments of unsafe conditions premised on the profile of a given locality's
+> population reveals indolence, if not bigotry. This Court did not accept the
+> police officers' justification that they were unable to comply with the
+> stringent requirements of Section 21 due to the danger of the location
+> wherein they were situated which they described as a notorious "Muslim
+> area." This Court held that this is not a valid reason for noncompliance with
+> Section 21, and only serves to reinforces outdated stereotypes and blatant
+> prejudices.123
+> In People v. Macud, 124 this Court recognized the destructive effects of
+> illicit drugs in our society but emphasized that the effort to eradicate this
+> menace cannot trample on the constitutional rights of individuals,
+> "particularly those at the margins of our society who are prone to abuse at
+> the hands of the armed and uniformed men of the State."125 This Court held
+> that this case shows how a minuscule amount of 0.08 gram "could have cost
+> a man his liberty for a lifetime due [to] a bungled up buy-bust operation."126
+> The above cases show that this Court, in determining whether
+> noncompliance with the strict requirements of the chain of custody rule is
+> justified, takes into consideration the degree of preparation of the conduct
+> of prearranged activities such as buy-bust operations, the amount of illicit
+> drugs seized from the accused, and the degree of involvement of the accused
+> in the drug trade.
+> As to the degree of involvement of the accused in the drug trade, this
+> Court has already recognized the death of the person who was involved in the
+> illegal drug trade death as an extralegal killing. This Court has held that the
+> fact that of previous arrest for selling illegal drugs is of no consequence as law
+> enforcement agents are "not at liberty to disregard the respondent's
+> constitutionally guaranteed rights to life, liberty[,] and security."127 Hence, I
+> emphasize that this Court will not tolerate law enforcement agents who
+> conspire with the accused to conduct their own illicit trade of illegal drugs.
+> Law enforcement operations on illegal drug trade have been recognized by
+> this Court as prone to police abuse and buy-bust operations have been often
+> used as a tool for extortion.128 This Court will not sit idly when such unlawful ;J
+> A
+> dealings occur.
+> 122 G.R. No. 243941, March 11, 2020 [Per J. Leonen, Third Division].
+> 113 Id.
+> 124 822 Phil. 1016 (2017) [Per J. Del Castillo, First Division].
+> 125 Id. at I 042.
+> 126 Id.
+> 127 Tabian v. Gonzales, G.R. No. 24721 I, August 1, 2022 [Per J. J. Lopez, Second Division], p. 19. This
+> refers to the pinpoint citation of the Decision uploaded in the Supreme Court website.
+> 128 People v. Suating, G.R. No. 220142, January 29, 2020 [Per J. Leonen, Third Division].
+>
+> Separate Opinion 17 G.R. No. 250927
+> To repeat, strict compliance with the chain of custody rule preserves the
+> identity and integrity of the evidence, but most importantly, safeguards the
+> rights of the accused "whose life and liberty hang[s] in the balance."129
+> The ponencia, in seeking to overturn well-established jurisprudential
+> doctrine espoused in People v. Toma:wis130 and People v. Mendoza, 131 is
+> confident that the absence of these insulating witnesses does not prevent the
+> court from detenuining the integrity and evidentiary value of the seized
+> items.132
+> After discussing in great detail each of the requisites in establishing the
+> chain of custody and its corresponding purposes, I maintain that pushing any
+> of these well-established requirements to the sidelines will prevent the courts
+> from determining if the integrity and evidentiary value of the seized items had
+> been properly preserved. This Court has recognized that narcotic substances
+> are not readily identifiable.133 There is danger that the white powder taken
+> from the accused, the corpus delicti of the crime, could be mistaken for illegal
+> drugs even if it could have only been sugar or baking powder.134 As this Court
+> held in People v. Que:135
+> Fidelity to the chain of custody requirements is necessary because,
+> by nature, narcotics may easily be mistaken for everyday objects. Chemical
+> analysis and detection through methods that exceed human sensory
+> perception, such as specially trained canine units and screening devices, are
+> often needed to ascertain the presence of dangerous drugs. The physical
+> similarity of narcotics with everyday objects facilitates their adulteration
+> and substitution. It also makes planting of evidence conducive.136
+> Furthermore, our data reveals that there has been a significant increase
+> in the disposal of drugs cases since the Court's pronouncement in People v.
+> Lim.137 In 2021, 82.35% of the 260 appealed drugs cases were resolved to
+> acquit the accused.138 The grounds for such acquittals have been largely due
+> to noncompliance with the chain of custody rule.139 In 2020, 290 out of the
+> 296 acquittals were due to such noncompliance.140 Significantly, failure to
+> comply with the witness requirement during seizure or time of apprehension
+> is one of the most common procedural infractions that led to such acquittals.141
+> I
+> 129 People v. Veedor, Jr., 834 Phil. 88, 102 (2018) [Per J. Del Castillo, First Division].
+> 130 830 Phil. 385 (2018) [Per J. Caguioa, Second Division].
+> 131 736 Phil. 749 (2014) [Per J. Bersamin, First Division].
+> 132 Ponencia, p. 6.
+> 133 Mal/ii/in v. People, 576 Phil. 576, 588-589 (2008) [Per J. Tinga, Second Division].
+> 134 Id.
+> 135 824 Phil. 882 (2018) [Per J. Leonen, Third Division].
+> 136 Id. at 896.
+> c
+> 131 omparative Analysis ofS upreme Court Caseload Statistics for Appealed Drugs Cases (2022), pp. 2-3.
+> !38 Id.
+> 139 Id. at 3.
+> 140 Id. at 4.
+> 141 Id.
+>
+> Separate Opinion 18 G.R. No. 250927
+> The data shows that this Court has given utmost importance to the significance
+> of the presence of insulating witnesses during arrest or seizure and has
+> consistently held that the absence of such part in the chain of custody is
+> considered as sufficient ground to acquit the accused.
+> When the item in question is so small or easily replaceable, with
+> physical characteristics that look similar, if not exactly, alike with substances
+> used in everyday life, the most likely it is to be tampered with, lost, or
+> mistaken with something else.142 The Court must therefore not reluctantly
+> cast its eyes away from the reality of the possibility of substitution, alteration,
+> or contamination of these narcotic substances in buy-bust operations. The
+> absence of the insulating witnesses during the actual arrest and seizure would
+> create a wide gap in the chain of custody, producing doubt as to the legitimacy
+> of the operation and the identity of the seized illegal drugs.143
+> As to the safety and strategic concerns raised by the ponencia, I
+> maintain that in every buy-bust operation, police officers set about a
+> meticulously prepared and self-conscious operation.144 "[B]uy-bust
+> operations, by definition, are preplanned, deliberately arranged[, and]
+> calculated."145 Hence, the apprehending team is expected to exercise due
+> diligence in securing preliminaries which include the safety of the required
+> witnesses. Law enforcement agents necessarily possess the competence and
+> skill required to conduct successful buy-bust operations, including securing
+> the presence of witnesses which would ultimately strengthen their case against
+> the accused.
+> Again, as this Court has pronounced in Que, "[t]here is nothing overly
+> complicated, demanding, or difficult in Section 21 's requirements. If at all,
+> these requirements have so repeatedly been harped on in jurisprudence, and
+> almost just as certainly on professional and casual exchanges among police
+> officers, that the buy-bust team must have been so familiar with them." 146 The
+> specific requirement of the presence of insulating witnesses at the time of
+> arrest or seizure is not complicated. It is not difficult to follow. It may be
+> arguably burdensome to our law enforcers, but such is the price to pay when
+> the liberty and even life of a human being are at stake.
+> VII
+> At this point, I strongly emphasize that this case involves a meager
+> 0.7603 gram of shabu147 which weighs less than half the weight of a small
+> 142
+> People v. Que, 824 Phil. 882, 897(2018) [Per J. Leonen, Third Division].
+> 143 Pimentel v. People, G.R. No. 239772, January 29, 2020 [Per J. Leonen, Third Division].
+> 144 People v. Que, 824 Phil. 882, 912 (2018) Per J. Leonen, Third Division].
+> 145
+> J. Leonen, Concurring Opinion in People v. Lim, G.R. No. 231989, September 4, 2018, [Per J. Peralta,
+> En Banc].
+> 146 824 Phil. 882,912 (2018) Per J. Leonen, Third Division].
+> 147 Ponencia, p. 2.
+>
+> Separate Opinion 19 G.R. No. 250927
+> five-centavo coin (1.9 grams). This small amount, although not a basis for
+> acquittal per se148 or a badge of innocence, 149 should impel our police officers
+> to faithfully comply with the law150 and should compel our courts to strictly
+> scrutinize the evidence presented by the prosecution against the exacting
+> standards imposed by Section 21 of Republic Act No. 9165, as amended.151
+> The possibility of abuse in drugs cases which involve small amounts is great
+> as evidence could be easily planted and buy-bust operations could be
+> conveniently initiated based on unfounded claims.152 In People v. Tan, 153 this
+> Court held that:
+> "(B]y the very nature of anti-narcotics operations, the need for entrapment
+> procedures, the use of shady characters as informants, the ease with which
+> sticks of marijuana or grams of heroin can be planted in pockets or hands
+> of unsuspecting provincial hicks, and the secrecy that inevitably shrouds all
+> drug deals, the possibility of abuse is great." Thus, the courts have been
+> exhorted to be extra vigilant in trying drug cases lest an innocent person is
+> made to suffer the unusually severe penalties for drug offenses[.]"154
+> (Citations omitted)
+> Hence, in these cases, evidence presented by the prosecution must
+> undergo "severe testing."155 There must be stricter compliance with the chain
+> of custody rule and the exercise of a higher level of scrutiny156 with utmost
+> diligence and prudence.
+> Furthermore, our data reveals that majority of the cases on sale and
+> possession of dangerous drugs from 2010 to 2021 that reached this Court
+> typically involve shabu with amounts that are below one gram.157 From 201 0
+> to 2021, there has been a steady increase in the number disposed drugs cases
+> appealed to this Court, 158 a significant number of which have been due to the
+> noncompliance of the chain of custody rule.159 These findings are consistent
+> with this Court's pronouncements of dismay with the deluge of cases against
+> small-time drug pushers clogging its dockets160 and its emphasis on ensuring
+> the integrity of seized drugs in the chain of custody when only a minuscule
+> amount of drugs are involved. 161
+> I
+> 148 Palencia v. People, G.R. No. 219560, July I, 2020 [Per J. Leonen, Third Division].
+> 149 People v. Que, 824 Phil. 882, 914 (2018) [Per J. Leonen, Third Division].
+> 150 People v. Balubal,, 837 Phil. 496,514 (2018) [Per J. Gesmundo, Third Division].
+> 151 People v. Holgado, 741 Phil. 78, 100 (2014) (Per J. Leonen, Third Division].
+> 152 People v. Saragena, 8 I 7 Phil. 117, 143 (2017) [Per J. Leonen, Third Division].
+> 153 401 Phil. 259 (2000) [Per J. Melo, Third Division].
+> 154 Id. at 273.
+> 155 Peoplev. Saragena, 817 Phil. 117, 129 (2017) [Per J. Leonen, Third Division].
+> 156 People v. Caiz, 790 Phil. 183,209 (2016) [Per J. Leonen, Second Division], citing Mallil/in v. People,
+> 576 Phil. 576, 588 (2008) [Per J. Tinga, Second Division].
+> 157
+> Comparative Analysis ofS upreme Court Caseload Statistics for Appealed Drugs Cases (2022), p. 9.
+> 158 Id. at 2.
+> 159 Id. at 3.
+> 160
+> People v. lung Wai Tang, G.R. No. 238517, November 27, 2019 [Per J. Zalameda, Third Division].
+> 161 People v. Jaafar, 803 Phil. 582, 595 (2017) [Per J. Leonen, Second Division].
+>
+> Separate Opinion 20 G.R. No. 250927
+> It is thus imperative to reiterate this Court's ruling in Holgado162 that
+> courts should carefully and conscientiously consider all the factual
+> circumstances in drugs cases, especially those which involve minuscule
+> amounts of dangerous drugs:
+> It is lamentable that while our dockets are clogged with prosecutions
+> under Republic Act No. 9165 involving small-time drug users and retailers,
+> we are seriously short of prosecutions involving the proverbial "big fish."
+> We are swamped with cases involving small fi:y who have been arrested for
+> min[u]scule amounts. While they are certainly a bane to our society, small
+> retailers are but low-lying fruits in an exceedingly vast network of drug
+> cartels. Both law enforcers and prosecutors should realize that the more
+> effective and efficient strategy is to focus resources more on the source and
+> true leadership of these nefarious organizations. Otherwise, all these
+> executive and judicial resources expended to attempt to convict an accused
+> for 0.05 gram of shabu under doubtful custodial arrangements will hardly
+> make a dent in the overall picture. It might in fact be distracting our law
+> enforcers from their more challenging task: to uproot the causes of this drug
+> menace. We stand ready to assess cases involving greater amounts of drugs
+> and the leadership of these cartels.163
+> In Palencia v. People, 164 this Court has held that every effort on cases
+> involving illicit drugs with quantities that are as little as less than a gram,
+> "wastes law enforcement, prosecution and judicial time."165 Instead of
+> focusing on the small fry, our law enforcers should step up and exert valuable
+> time, effort, and resources in capturing the big fish-----drug kingpins166 who
+> control the source of illegal drugs which continue to plague our society. This
+> Court is more than ready to take on cases involving drug cartels circulating
+> drugs in massive quantities 167-not just those which involve amounts so small
+> as to equate to a few grains of rice.
+> VIII
+> As a final note, for each count of unauthorized possession of dangerous
+> drugs or unauthorized sale of dangerous drugs even for the smallest amount,
+> the corresponding penalty under the law is at least 12 years and one day of
+> imprisonment.168 Strict compliance with the safeguards provided by the law
+> and established by jurisprudence must remain paramount.
+> If the requisites that insulate the people from wrongful arrests and/;/Ji
+> f
+> unjust convictions are dispensed with and labelled as trivial matters, such
+> I
+> 162 741 Phil. 78 (2014) [Per J. Leonen, Third Division].
+> 163 Id. at 100.
+> 164 G.R. No. 219560, July!, 2020 [Per J. Leanen, Third Division].
+> Id.
+> 16s
+> !66 Id.
+> 167 People v. Lung Wai Tang, G.R. No. 238517, November 27, 2019 [Per J. Zalameda, Third Division].
+> 168 Republic Act No. 9165 (2002), sec. 5.
+>
+> Separate Opinion 21 G.R. No. 250927
+> would open the floodgates to rampant abuse by corrupt and immoral law
+> enforcement officers and agents who prey on the weak and the defenseless.
+> We must never forget that the strength of the barrier which separates
+> the effortless act of planting illegal drugs of minuscule amount into the
+> pockets of innocent people and the severity of the penalties in drugs cases
+> rests in the strict compliance with the chain of custody rule. Without the strict
+> requirements of the chain of custody rule, innocent individuals are exposed to
+> the risk of wrongful conviction and face the gravest jeopardy of losing their
+> liberty, or worse-their lives.
+> ACCORDINGLY, I vote that the Petition be GRANTED and the June
+> 29, 2018 Decision and November 7, 2019 Resolution of the Court of Appeals
+> in CA-G.R. CR-HC No. 11472 be REVERSED and SET ASIDE. Petitioner
+> Mario Nisperos y Padilla must be ACQUITTED of the crime charged on the
+> ground of reasonable doubt and be ORDERED IMMEDIATELY
+> RELEASED from detention unless he is being lawfully held for another
+> cause.
+> CE RTi Fl£() TRUE CO PY
+> '
+> MARtt-E .
+> Clerk ur Court
+> ::,uµrtJ1111:l l,uurt

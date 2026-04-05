@@ -1,0 +1,607 @@
+# GR-209216-CAGUIOA
+
+**Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: February 14, 2023
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2024/03/209216-CAGUIOA.pdf)
+
+---
+
+> ENBANC
+> G.R. No. 209216 EXECUTIVE SECRETARY LEANDRO
+> MENDOZA, DEPARTMENT OF ENERGY - DEPARTMENT OF
+> JUSTICE JOINT TASK FORCE AND DEPARTMENT OF ENERGY
+> SECRETARY ANGELO I. REYES, Petitioners, v. PILIPINAS SHELL
+> PETROLEUM CORPORATION, Respondent.
+> Promulgated:
+> _c,;,_'.&
+> x------ -- - -- -- --- - -- --- --- --
+> SEPARATE CONCURRING OPINION
+> CAGUIOA, J.:
+> This Opinion was originally a conscientious dissent from the
+> ponencia' s original submission that only the President has the authority to
+> exercise the emergency takeover power being challenged in this petition.
+> Thus, while my concurrence essentially reiterates the ponencia, it must
+> be clarified that the arguments mirrored herein were brought about by the
+> ponencia having finally adopted what once was my dissent. Given this, I now
+> express my concurrence to the ponencia, as revised, as it now reverses and
+> sets aside the Court Appeals (CA) Decision1 and declares Section 14(e) of
+> Republic Act (R.A.) No. 84792 constitutional.
+> Section 14(e) ofR.A. No. 8479, [also known as the Downstream Oil
+> Industry Deregulation Act of 1998], provides -
+> In times of national emergency, when the public interest so requires, the
+> DOE may, during the emergency, under reasonable terms prescribed by it,
+> temporarily take over or direct the operation of any person or entity in the
+> Industry. (Emphasis supplied)
+> The validity of this provision was challenged, through an action for
+> declaratory reliefl filed before the Regional Trial Court ofMakati (RTC) by
+> respondent Pilipinas Shell Petroleum Corporation (Pilipinas Shell), for being
+> oppressive, unreasonable, and an invalid delegation of emergency powers to
+> the Executive Department.4
+> 1 Rollo, pp. 44-54. Penned by Associate Justice Socorro B. !nting, with Associate Justices Jose C. Reyes,
+> Jr. (now a retired Member of this Court), and Mario V. Lopez (now a Member of this Court) concurring.
+> 2 An Act Deregulating the Downstream Oil Industry, and for Other Purposes (Downstream Oil Industry
+> Deregulation,Act of 1998).
+> Ponencia, p. 5.
+> 4 Id. at 3.
+>
+> Separate Concurring Opinion 2 G.R. No. 209216
+> The RTC issued a decision favorable to Pilipinas Shell, declaring
+> Section 14(e) of R.A. No. 8479" void and unconstitutional.5 Petitioners
+> appealed to the CA, which affirmed the RTC's decision.6 Aggrieved,
+> petitioners filed the present petition before the Court,7 arguing that the
+> challenged provision is a proper delegation of the power to exercise
+> emergency powers to the President, through the Department of Energy
+> (DOE).8
+> In reversing and setting aside the Decision of the CA, the ponencia
+> declares Section 14(e) ofR.A. No. 8479 constitutional.9
+> I concur.
+> Justiciability
+> While the ponencia had initially taken the position that actual harm or
+> injury is necessary in order for a controversy to become justiciable, it now
+> fully adopts the position that I have taken from the very inception of the
+> deliberations in the instant case as regards the requirement of actual case or
+> controversy. To be sure, as I had consistently put forward in several other
+> cases, the latest of which being the recently decided case of Universal Robina
+> Corporation v. Department ofT rade and Industry10 (URC vi DTJ), actual facts
+> resulting from the assailed law, as applied, are not absolutely necessary in all
+> cases in order for the Court to exercise its power of judicial review. Once and
+> for all, with this case and that of URC v. DTI, it should now be definitively
+> settled that "mere contrariety of legal rights" constitutes a justiciable
+> controversy.
+> To be sure, this correct understanding of justiciability is entrenched in
+> jurisprudence. As early as Province ofN orth Cotabato v. Government ofthe
+> Republic of the Philippines Peace Panel on Ancestral Domain11 (Province of
+> North Cotabato ), the Court already ruled that "when an act of a branch of
+> government is seriously alleged to have infringed the Constitution, it becomes
+> not only the right[,] but in fact the duty of the judiciary to settle the dispute."12
+> In other words, it is sufficient that the questioned law has been enacted, or that
+> the challenged action was approved for an:actual case or controversy to exist.
+> Stated differently, petitioners need not await the "implementing evil to befall
+> on them",13 or for them to actually suffer the injury or harm before challenging
+> these acts as illegal or unconstitutional.14
+> •
+> 5 Id. at 4---6.
+> 6 Id. at 6~7.
+> 7 Id at 7.
+> 8 Id
+> 9 Ponencia, p. 36.
+> 10 G.R. No. 203353, February 14, 2023 [Per J. Leonen, En Banc].
+> 11 589 Phil. 387 (2008) [Per J. Carpio Morales, En Banc].
+> 12 Id. at 486.
+> 13 Pimentel, Jr. v. Aguirre, 391 Phil. 84, 107 (2000) [Per J. Panganiban, En Banc].
+> 14 Spouses Imbong v. OchDa, Jr., 732 Phil. I, 120 (2014) [Per J. Mendoza, En Banc].
+>
+> Separate Concurring Opinion 3 G.R. No. 209216
+> This was also the position taken by the Court in SPA RK v. Quezon
+> City15 where it proceeded to rule on the constitutionality of the curfew
+> ordinances· in several cities in Metro Manila, even if there was no allegation
+> that petitioners therein already violated said ordinances or that they
+> already suffered actual harm or injury. The Court notably found the case
+> therein already justiciable due tq_ the "evident clash of the parties' legal
+> claims."16
+> As well, in Inmates ofN ew Bil ibid Prison v. De Lima17 (Inmates ofN ew
+> Bilibid) it was ruled that a judicial controversy already exists if "there is a
+> contrariety of legal rights that can be interpreted and enforced on the basis of
+> existing law and jurisprudence."18 Indeed, as succinctly stated by the majority
+> in Republic v. Maria Basa Express Jeepney Operators and Drivers
+> Association, Inc. 19 (Maria Basa) citing Inmates of New Bilibid, "the
+> existence of an actual case or controversy does not call for concrete acts,
+> as an actual case may exist even in the absence of 'tangible instances'."20
+> Thus, following the principle of stare decisis et non quieta movere--or
+> to follow P,ast precedents and not to disturb what has been settled~the Court
+> should no longer recalibrate the meaning of the actual case or controversy
+> requirement.
+> In the instant case, the present petition stemmed from an action for
+> declaratory relief that was filed by Pilipinas Shell before the RTC to raise a
+> question of law, i.e., the constitutionality of Section 14(e) of R.A. No. 8479.
+> Here, the ponencia does not only find Pilipinas Shell's question justiciable, it
+> also gives due course to the declaratory relief that was filed by Pilipinas Shell
+> to raise the unconstitutionality of Section 14(e) of R.A. No. 8479. Notably,
+> this is notwithstanding the fact that the case is bereft of any contention
+> whatsoever that Pilipinas Shell committed overt acts in violation of the law
+> or that it suffered actual harm after the passage ofR.A. No. 8479. Verily,
+> what existed when Pilipinas Shell filed its petition was a mere contrariety of
+> legal rights between oil companies on the one hand, and the DOE on the other.
+> In other words, there were no "actual facts".
+> Again, justiciability and absence of overt acts constituting breach of a
+> law or regulation are not mutually exclusive, especially in an action for
+> declaratory relief. In fact, both are essential requisites of said remedY:21 In
+> Malana Tappa,22 it was explained that:
+> V.
+> 15 815 Phil. 1067 (2017) [Per J. Perlas-Bernabe, En Banc].
+> 16 Id.at 1091.
+> 17 854 Phil. 675 (2019) [Per J. Peralta, En Banc].
+> 13 Id. at 693 and 694
+> 19 G.R. Nos. 206486, 212604, 212682 and 212800, August 16, 2022 [Per J. Lopez, J., En Banc].
+> 20 Id. at 15. This pinpoint citation refers to the copy of the Decision uploaded to the Supreme Court website.
+> 21 Ferrer v. Raco, 637 Phil. 3 IO (2010) [Per J. Mendoza, Second Division].
+> 22 616 Phil. 177 (2009) [Per J. Chico-Nazario, Third Division].
+>
+> Separate Concurring Opinion 4 G.R. No. 209216
+> [A]n action for declaratory relief presupposes that there has been no
+> actual breach of the instruments involved or of rights arising
+> thereunder. Since the purpose of an action for declaratory relief is to secure
+> an authoritative statement of the rights and obligations of the parties under
+> a statute, deed, or contract for their guidance in the enforcement thereof, or
+> compliance therewith, and not to settle issues arising from an alleged breach
+> thereof, it may be entertained only before the breach or violation of the
+> statute, deed, or contract to which it refers. A petition for declaratory relief
+> gives a practical remedy for ending controversies that have not reached
+> the state where another relief is immediately available; and supplies the
+> need for a form of action that will set controversies at rest before they
+> lead to a repudiation of obligations, an invasion of rights, and a
+> commission of wrongs.
+> Where the law or contract has already been contravened prior to the
+> filing of an action for declaratory relief, the courts can no longer assume
+> jurisdiction over the action. In other words, a court has no mote jurisdiction
+> over an action for declaratory relief if its subject has already been infringed
+> or transgressed before the institution of the action.23 (Emphasis supplied)
+> To be sure, the presence of a justiciable controversy is already satisfied
+> "when an actual controversy or the ripening seeds thereof exist between the
+> parties, all of whom are sui juris and before the court, and the declaration
+> sought will help in ending the controversy."24 Thus, in Metropolitan Manila
+> Development Authority v. Viron Transportation Co., Inc. 25 (Viron), the Court
+> ruled that the requirement of a justiciable controversy was not lacking when
+> therein respondents, bus operators with terminals in Metro Manila, filed
+> petitions for declaratory relief to challenge the constitutionality of the
+> Executive Order directing the elimination of bus terminals along major
+> thoroughfares in Metro Manila. Aside from the immediate effectivity of said
+> Executive Order, the Court found that there were circumstances evincing the
+> intention of the government to proceed with this project, which was apparent
+> from the ongoing planning and construction of a centralized station.26
+> It is therefore incongruent, to say the least, to equate absence of overt
+> act with lack of actual case or controversy. Again, at the risk of being
+> repetitive, to rule in this manner would render nugatory or inutile an action for
+> declaratory relief as there would be no proper time to avail of this remedy, for
+> there is no real room between its prematurity and the expiration of its
+> availability.
+> In all, I agree with the ponencia in its finding of actual case and
+> controversy in the subject declaratory relief filed by Pilipinas Shell to question
+> the constitutionality of a law it has not yet breached or violated.
+> Constitutionally vested powers oft he President
+> 23 Id. at 188-189.
+> " Metropolitan Manila Development Authority v. Viron Transportation Co., Inc., 557 Phil. 121, 134 (2007)
+> [Per J. Carpio-Morales, En Banc].
+> 2s Id.
+> 26 Id.
+>
+> Separate Concurring Opinion 5 G.R. No. 209216
+> Pilipinas Shell claims that Section 14(e) of R.A. No. 8479 is
+> unconstitutional primarily because Congress delegated the temporary
+> emergency takeover power to the DOE, not the President personally, as
+> supposedly required under Article VJ, Section 23 and Article XII, Section 17
+> of the Constitution, which read:
+> ARTICLE VI
+> THE LEGISLATIVE DEPARTMENT
+> SECTION 23. (1) The Congress, by a vote of two-thirds of both Houses in
+> joint ·.session assembled, voting separately, shall have the sole power to
+> declare the existence of a state of war.
+> (2) In times of war or other national emergency, the Congress may, by law,
+> authorize the President, for a lirp.ited period and subject to such restrictions
+> as it may prescribe, to exercise powers necessary and proper to carry out a
+> declared national policy. Unless sooner withdrawn by resolution of the
+> Congress, such powers shall cease upon the next adjournment thereof.
+> (Emphasis supplied)
+> ARTICLE XII
+> NATIONAL ECONOMY AND PATRIMONY
+> SECTION 17. In times of national emergency, when the public interest so
+> requires, the State may, during the emergency and under reasonable
+> terms prescribed by it, temporarily take over or direct the operation of
+> any privately owned public utility or business affected with public
+> interest. (Emphasis supplied)
+> Pilipinas Shell is in error.
+> In David v. Arroyo27 (David), the Court elucidated that the takeover
+> power provided under Article XII, Section 17 of the Constitution is part of the
+> emergency powers which are gerrerally reposed upon Congress, as may be
+> deduced from the language of Article VI, Section 23 of the Constitution.28
+> Further, the Court in David held that the President may only exercise such
+> temporary emergency takeover power when the same is delegated to him or
+> her by Congress pursuant to a law or statute,29 to wit:
+> But the exercise of emergency powers, such as the taking over of
+> privately owned public utility or business affected with public interest, is a
+> different matter. This requires a delegation from Congress.
+> Courts have often said that constitutional provisions in pari
+> materia are to be construed together. Otherwise stated, different clauses,
+> sections, and provisions of a constitution which relate to the same subject
+> matter will be construed together and considered in the light of each
+> othei;. Considering that Section 17 of Article XII and Section 23 of Article
+> 27 522 Phil. 705 (2006) [Per J. Sandoval-Gutierrez, En Banc].
+> 28 Id. at 789.
+> 29 Id
+>
+> Separate Concurring Opinion 6 G.R. No. 209216
+> VI, previously quoted, relate to national emergencies, they must be read
+> together to determine the limitation of the exercise of emergency powers.
+> Section 17, Article XII must be understood as an aspect of the
+> emergency powers clause. The taking over of private business affected with
+> public interest is just another facet of the emergency powers generally
+> reposed upon Congress. Thus, when Section 17 states that "the State may,
+> during the emergency and under reasonable terms prescribed by it,
+> temporarily take over or direct the operation of any privately owned public
+> utility or business affected with public interest," it refers to Congress, not
+> the President. Now, whether or not the President may exercise such
+> power is dependent on whether Congress may delegate it to him [or her]
+> pursuant to a law prescribing the reasonable terms thereof. 30 (Emphasis
+> supplied)
+> David therefore instructs that since the "State" under Article XII,
+> Section 17 refers to Congress, then it is only the latter that can exercise this
+> temporary takeover power which it does by way of a law. David goes on to
+> say that "whether or not the President may exercise such power is dependent
+> on whether Congress may delegate itto him [or her],"31 thereby signaling that
+> such power can be delegated to an entity other than the President. This is
+> precisely what Section 14( e) ofR.A. No. 84 79 does in identifying the DOE as
+> the executive agency to wield such power.
+> In other words, by the very text of Article XII, Section 17 of the
+> Constitution, the framers conceived of this delegation by Congress to the
+> department heads, such as the Secretary of Energy, because the latter act as
+> alter egos of the President. Accordingly, I do not agree that the emergency
+> takeover power of the Congress may be delegated ONLY to the President
+> personally, as Pilipinas Shell espouses.32
+> In our presidential system, we recognize a single and not a plural
+> Executive. The President is "the Executive of the Government of the
+> Philippines, and no other."33 Logically therefore, our Constitution has named
+> only the "President" whenever it refers to the Executive Department in its
+> prov1s1ons.
+> This does not mean, however', that the President is expected to exercise
+> all of his or her powers and mandates in person.34 To require such is neither
+> practical nor efficient as the President has many responsibilities and he or she
+> cannot be expected to attend to multifarious responsibilitie~ at the same time.
+> This is precisely the problem addressed by the well-settled doctrine of
+> qualified political agency, which postulates that:
+> 30 Id. at 788.
+> 31 Id at 789.
+> 32 Ponencia, p. 8.
+> 33 Villena v. Secretary of Interior, 67 Phil. 451,464 (1939) [Per J. Laurel, En Banc]; Lacson-Magallanes
+> Co., Inc. v. Pano, 129 Phil. 123 (1967) [Per J. Sanchez, En Banc].
+> 34 JOAQUIN BERNAS, SJ., THE 1987 CONSTITUTION OF THE REPUBLIC OF THE PHILIPPINES 889 (2009 ed.).
+>
+> Separate Concurring Opinion 7 G.R. No. 209216
+> [A]ll executive and administrative organizations are adjuncts of the
+> Execµtive Department, the heads of the various executive departments are
+> assistants and agents of the Chief Executive, and, except in cases where the
+> Chief Executive is required by the Constitution or law to act in person
+> or the exigencies of the situation demand that he [o r she] act personally,
+> the multifarious executive and administrative functions of the Chief
+> Executive are performed by ahd through the executive departments,
+> and the acts of the secretaries of such departments, performed and
+> promulgated in the regular course of business, are, unless disapproved or
+> reprobated by the Chief Executive, presumptively the acts of the Chief
+> Executive.35 (Emphasis supplied)
+> Viewed differently, what this means is that in the faithful execution of
+> the laws,36 the qualified political agency is the rule to be followed. This
+> doctrine--<leveloped specifically because the President cannot be expected to
+> attend to multifarious responsibilities at the same time-allows for effective
+> governance and, at the same time, is circumscribed by the power and authority
+> of the President himself or herself as the Constitution expressly provides that
+> the President has "control of all the executive departments, bureaus, and
+> offices"37 :Vith the power to "alter or modify or nullify or set aside what a
+> subordinate officer had done in the performance of his [o r her] duties and to
+> substitute the judgment of the former for that of the latter."38
+> Both the Constitution and ,.the Court recognize that "each head of a
+> department is, and must be, the President's alter ego in the matters of that
+> department where the President is required by law to exercise authority."39 In
+> Gi!,40 the Court ruled that "in the exercise of his [or her] executive
+> Planas v.
+> power, the President can act through the heads of the executive
+> departments."41 It bears repeating that this rule ofgovernance is already a
+> well-settled and age-old doctrine.
+> By way of exception, there are what have been identified as that special
+> class of constitutionally-vested powers that only the President can and must
+> exercise exclusively and personally. These constitutional powers that only the
+> President can wield were identified in 42
+> Spouses Constantino v. Cuisia
+> where the Court held:
+> (Spouses Constantino)
+> Nevertheless, there are powers vested in the President by
+> the Constitution which may not be delegated to or exercised by an agent
+> or alter ego of the President. Justice Laurel, in his ponencia in Villena,
+> makes this clear:
+> 35 Lacson-Magallanes Co., Inc. v. Paiio, supra note 33, at 13L
+> 36 Article VII, Section 17, 1987 Constitution: "The President shall have control of all the executive
+> departments, bureaus, and offices. He shall ensure that the laws be faithfully executed."
+> 37 Id
+> 38 Mondano v .. Si/vosa, 97 Phil. 143, 148 (1955) [Per J. Padilla, En Banc].
+> 39 Philippine Institute for Development Studies v. Commission on Audit. 860 Phil. 303,327 (2019) [Per J.
+> Leanen, En Banc].
+> 40 67 Phil. 62 (1939) [Per J. Laurel, En Banc].
+> 41 Id. at 77.
+> 42 509 Phil. 486 (2005) [Per J. Tinga, En Banc].
+> ~
+>
+> ' Separate Concurring Opinion 8 G.R. No. 209216
+> Withal, at first blush, the argument ofratification may seem
+> plausible uuder the circumstances, it should be observed
+> that there are certain acts which, by their very nature, cannot
+> be validated by subsequent approval or ratification by the
+> President. There are certain constitutional powers and
+> prerogatives of the Chief Executive of the Nation which
+> must be exercised by him [or her] in person and no
+> amount of approval or ratification will validate the
+> exercise of any of those powers by any other person.
+> Such. for instance, is his Io r her) power to suspend the
+> writ of habeas corpus and proclaim martial law (PAR.
+> 3. SEC. 11. Art. VII) and the exercise by him (or her) of
+> the benign prerogative of mercy (par. 6, sec. 11. idem).
+> These distinctions hold true to this day. There are certain
+> presidential powers which arise out of exceptional circumstances, and
+> if exercised, would involve the suspension of fundamental freedoms, or
+> at least call for the supersedence of executive prerogatives over those
+> exercised by co-equal branches of government. The declaration of
+> martial law, the suspension of the writ of habeas corpus, and the
+> exercise of the pardoning power notwithstanding the judicial
+> determination of guilt of the accused, all fall within this special class
+> that demands the exclusive exercise by the President of the
+> constitutionally vested power. The list is by no means exclusive, but there
+> must be a showing that the executive power in question is of
+> similar gravitas and exceptional import.43 (Emphasis supplied)
+> I agree with the ponencia that the temporary emergency takeover power
+> under Article XII, Section 17 of the Constitution cannot be viewed as
+> belonging to that special class of constitutionally-vested powers that only the
+> President can and must exercise exclusively and personally.44 Following the
+> doctrine in Spouses Constantino, the exercise of the takeover power during
+> times of national emergency will nci't involve the suspension of fundamental
+> freedoms enshrined in the Constitution.
+> In the same case of Spouses Constantino, the Court h;:td the occasion to
+> declare that the borrowing power of the President under Article VII, Section
+> 2045 and his or her authority to impose tariffs and imposts46 based on Article
+> VI, Section 2847 of the Constitution are not special constitutional powers of
+> the President, and may therefore be delegated by Congress directly to the
+> 43 Id. at 518.
+> 44 Ponencia, p. 34.
+> 45 "The President may contract or guarantee foreign loans on behalf of the Republic of the Philippines with
+> the prior concurrence of the Monetary Beard, and subject to such limitations as may be provided by law.
+> The Monetary Board shall, within thirty days fi-om the end of every quarter of the calendar year, submit
+> to the Congress a complete report of its decisions on applications for loans to be contracted or guaranteed
+> by the Government or government-owned and controlled corporations which would have the effect of
+> increasing the foreign debt, and containing other matters as may be provided by law." (Emphasis supplied)
+> 46 Spouses Constantino v. Cuisia, supra note 42, at 520. Citing Southern Cross Cement Corporation v. The
+> Philippine Cement Manufacturers Corp., 478.Phil. 85,546 (2004) [Per J. Tinga, Second Division].
+> 47 '"The Congress may, by law, authorize the President to fix within specified limits, and subject to such
+> limitations and restrictions as it may impose, tariffrates,'import and export quotas, tonnage and wharfage
+> dues, and other duties or imposts within the framework of the national development program of the
+> Government." (Emphasis supplied)
+>
+> .
+> ; ' ..:.
+> Separate Concurring Opinion 9 G.R. No. 209216
+> Secretary of Finance and the Secretary of Trade and Industry, respectively, as
+> alter egos of the President, viz.:
+> We cannot conclude that the power of the President to contract
+> or guarantee foreign debts falls within the same exceptional class.
+> Indubitably, the decision to contract or guarantee foreign debts is of vital
+> public interest, but only akin to any contractual obligation undertaken by the
+> sovereign, which arises not from any extraordinary incident, but from the
+> established functions of governance.
+> Another important qualification must be made. The Secretary of
+> Finance or any designated alter ego of the President is bound to secure the
+> latter's prior consent to or subsequent ratification of his [o r her] acts. In the
+> matter of contracting or guaranteeing foreign loans, the repudiation by the
+> President of the very acts performed in this regard by the alter ego will
+> definitely have binding effect, Had petitioners herein succeeded in
+> demonstrating that the President actually withheld approval and/or
+> repudiated the Financing Program, there could be a cause of action to nullify
+> the acts of respondents. Notably though, petitioners do not assert that
+> respondents pursued the Program without prior authorization of the
+> President or that the terms of the contract were agreed upon without the
+> President's authorization. Congruent with the avowed preference of then
+> President Aquino to honor and restructure existing foreign debts, the lack of
+> showing that she countermanded the acts of respondents leads us to
+> conclude that said acts carried presidential approval.
+> With constitutional parameters already established, we may also
+> note, as a source of suppletory guidance, the provisions of R.A. No. 245.
+> The afore-quoted Section 1 thereof empowers the Secretary of Finance
+> with the approval of the President and after consultation of the
+> MoDoetary Board, "to borrow from time to time on the credit of the
+> Republic of the Philippines such sum or sums as in his [or her]
+> judgment may be necessary, and to issue therefor evidences of .
+> indebtedness of the Philippine Government." Ineluctably then, while the
+> President wields the borrowing power it is the Secretary of Finance who
+> normally carries out its thrusts. "
+> In our recent rulings in Southern Cross Cement Corporation v. The
+> Philippine Cement Manufacturers Corp., this Court had occasion to
+> examine the authority granted by Congress to the Department of Trade and
+> Industry (DTI) Secretary to impose safeguard measures pursuant to
+> the Safeguard Measures Act. In doing so, the Court was impelled to construe
+> Section 28(2), Article VI of the Constitution, which allowed Congress, by
+> law, to authorize the President to "fix within specified limits, and subject to
+> such limitations and restrictions as it may impose, tariff rates, import and
+> export quotas, tonnage and wharfage dues, and other duties or imposts
+> within the framework of the national development program of the
+> Government."
+> While the Court refused to uphold the broad construction of the grant
+> of J)'ower as preferred by the DTI Secretary, it nonetheless tacitly
+> acknowledged that Congress could designate the DTI Secretary, in his
+> [o r her] capacity as alter ego of the President, to exercise the authority
+> vested on the chief executive under Section 28(2), Article VI. At the
+> same time, the Court emphasized that since Section 28(2), Article VI
+> authorized Congress to impose limitations and restrictions on the authority
+> of the President to impose tariffs and imposts, the DTI Secretary was
+>
+> , ' '
+> Separate Concurring Opinion 10 G.R. No. 209216
+> necessarily subjected to the same restrictions that Congress could impose on
+> the President in the exercise of this taxing power.
+> Similarly, in the instant case, the Constitution allocates to the
+> President the exercise of the foreign borrowing power "subject to such
+> limitations as may be provided under law." Following Southern Cross, but
+> in line with the limitations as defined in Villena, the presidential prerogative
+> may be exercised by the President's alter ego, who in this case is the
+> Secretary of Finance.48 (Emphasis supplied)
+> While I agree with the ponencia that these cases ar~ not on all fours
+> with the instant case49 considering the difference in the factual backdrop and
+> the constitutional provisions involved, I strongly submit that the seminal
+> doctrine espoused therein still applies in interpreting Article VI, Section 23 of
+> the Constitution.
+> In the case before us, the takeover of companies in the downstream oil
+> industry will only affect the property rights of business owners, not for
+> any iniquitous reason, but to prevent or regulate monopolies in times of
+> national emergency.50 To be clear, that there are different ways to achieve
+> this end, such as the imposition of price caps or the prohibition on price
+> increases, is beside the point as it now questions the wisdom of the law which
+> deems the takeover of oil compani~s during times of emergency imperative.
+> Further, unlike the declaration of martial law, the suspension of the writ
+> of habeas corpus, and the exercise of the pardoning power, the takeover of
+> privately-owned downstream oil companies will not replace, in any way, the
+> powers and prerogatives of both the Legislative or the Judiciary, as
+> indeed, the regulation of the operation and management of any privately
+> owned public utility or busillless affected with public interest lies with the
+> Executive. 51
+> In plain terms, the exercise of the takeover powers cannot be said,
+> borrowing the language of Spouses Constantino, to have the same gravitas
+> and exceptional import as the other recognized powers belonging in the
+> special class of constitutionally-vested powers that only the President can
+> wield. At the risk of being repetitive, these powers should involve the
+> suspension of fundamental freedoms, or at least call for the supersedence
+> of executive prerogatives over those exercised by co-equal branches of
+> government.
+> To be sure, jurisprudence abounds in declaring that it is not required,
+> as a rule, that the delegation be exclusive to the President alone.
+> 48 Spouses Constantino v. Cuisia, supra note 42, at 518-520.
+> 49 Ponencia, p. 34.
+> 50 See Garcia v. Corona, 378 Phil. 848 (1999) [Per J. Ynares-Santiago, En Banc].
+> 51 See Ynchausti Steamship Company v. The Public Utility Commissioner and The Board ofA ppeal, 44 Phil.
+> 363 (1923) [Per J. Antonio, Second Division]; The Manila Electric Company v. The Public Service
+> Commission, 60 Phil. 658 (1934) [Per J. Villa-Real, En Banc].
+>
+> Separate Concurring Opinion 11 G.R. No. 209216
+> For Instance, in Southern Cross Cement Corporation v. The Philippine
+> Cement Manufacturers Corp.,52 the Court declared the provision ofR.A No.
+> 8800, also known as the Safeguard Measures Act, granting the Department of
+> Trade and Industry Secretary the power to set tariff imposts, a valid delegation
+> of legislative power. This is notwithstanding the fact that under Article VI,
+> Section 28(2) of the Constitution, the Congress may only delegate said power
+> to the "President".53 Further, in Araneta v. Gatmaitan54 (Araneta) the Court
+> also declared as a valid delegation of legislative power the specific provisions
+> of Commonwealth Act No. 471, which granted the Secretary of Agriculture
+> and Natural Resources the power "to provide by regulations such restrictions
+> as he deemed necessary in order to preserve the aquatic resources of the land."
+> All that having been said, it bears repeating that even as Congress
+> delegates its powers to the department heads, the President can still exercise
+> these powers and authorities since he or she has control over all the heads of
+> the executive departments, bureaus, and offices, and the latter are merely his
+> or her alter egos. The President can even alter, modify, nullify, or set aside
+> his or her subordinate's actions as he or she may deem proper or necessary.55
+> This doctrine is explained in Araneta, to wit:
+> Now, if under the law the Secretary of Agriculture and Natural
+> Resources has authority to regulate or ban the fishing by trawl which, it is
+> claimed, obnoxious for it carries away fish eggs and fry's which should be
+> preserved, can the President of the Philippines exercise that same power and
+> authority? Section 10(1 ), Article VII of the Constitution of the Philippines
+> prescribes:
+> SECTION IO (1 ). The President shall have control of all the
+> executive departments, bureaus or offices, exercises general
+> supervision over all local govermnents as may be provided
+> by law, and take care that the laws be faithfully executed.
+> Section 63 of the Revised Administrative Code reads as follows:
+> SECTION 63. EXECUTIVE ORDERS AND EXECUTIVE
+> PROCLAMATION. Administrative acts and commands
+> ~
+> of the President of the Philippines touching the organization
+> or mode of operation of the Govermnent or rearranging or
+> readjusting any of the district, divisions, parts or ports of the
+> Philippines, and all acts and commands governing the
+> general performance of duties by public employees or
+> disposing of issues of general concern shall be made in
+> executive orders.
+> 51 Supra note 46.
+> 53 "The Congress may, by !aw, authorize the President to fix within specified limits, and subject to such
+> limitations and restrictions as it may impose, tariff rates, import and export quotas, tonnage and wharfage
+> dues, and other duties or imposts within the framework of the national development program of the
+> Government." (Emphasis supplied)
+> 54 101 Phil. 328 (1957) [Per J. Felix, En Banc].
+> 55 Mondano v. Silvosa, supra note 38, at 148.
+>
+> ,_ .. l ;.
+> Separate Concurring Opinion 12 G.R. No. 209216
+> Regarding department organization Section 74 of the Revised
+> . Administrative Code also provides that:
+> All executive junctions of the government oft he Republic of
+> the Philippines shall be directly under the Executive
+> Departments subject to the supervision and control of the
+> President of the Philippines in matters of general policy. The
+> Departments are established for the proper distribution of the
+> work of the Executive, for the performance of the functions
+> expressly assigned to them by law, and in order that each
+> branch of the administration may have a chief responsible
+> for its direction and policy. Each Department Secretary shall
+> assume the burden of, and responsibility for, all activities of
+> the Government under his [o r her] control and supervision.
+> For administrative purpOSl?,S the President of the Philippines
+> shall be considered the Department Head of the Executive
+> Office.
+> One of the executive departments is that of Agriculture and Natural
+> Resources which by law is placed under the direction and control of the
+> Secretary, who exercises its functions subject to the general supervision and
+> control of the President of the Philippines (Sec. 75, R. A. C.). Moreover,
+> 'executive orders, regulations, decrees and proclamations relative to matters
+> under the supervision or jurisdiction of a Department, the promulgation
+> whereof is expressly assigned by Jaw to the President of the Philippines,
+> shall as a general rule, be issued upon proposition and recommendation of
+> the respective Department' (Sec. 79-A, R.A.C.), and there can be no doubt
+> that the promulgation of the questioned Executive Orders was upon the
+> proposition and recommendation of the Secretary of Agriculture and
+> Natural Resources and that is why said Secretary, who was and is called
+> upon to enforce said executive Orders, was made a party defendant in one
+> of the cases at bar (G.R. No. L-9191).56
+> Practically speaking as well,· the President, who may not have the
+> technical competence and expertise, cannot be expected to personally take
+> over or direct the operation of an oil company. Clearly, this is not the intention
+> of the framers of our Constitution especially considering that the takeover is
+> exercised during times of national emergency, when time is of the essence and
+> the President is expected to attend to other more relevant issues.
+> There is no question that the exercise of the takeover power will have
+> cascading effects to the community at large. But that is exactly the point of
+> the law-the law seeks to prevent, for the welfare of the community at large,
+> the evil of "temporary monopolies" during times of national emergencies.57
+> In fine, I cannot see why the takeover of oil companies cannot be left to the
+> discretion of the DOE, the agency that has the expertise in energy matters and
+> which was created precisely for the purpose of regulating these types of
+> entities.58 Stated differently, I cannot see why Pilipinas Shell is insisting on
+> 56 See Araneta v. Gatmaitan, supra note 46.
+> 57 See Garcia v. Corona, supra note 50. N
+> 58 Republic Act No. 7638 (1992), An Act Creating the Department of Energy Rationalizing the Organization
+> °""
+> M' C@oCoos o<G,,_,., A;,Mdo "'~' o "'-'"' '• "°>""-sw;oo '(<)
+>
+> ;, ' .:...
+> Separate Concurring Opinion 13 G.R.No. 209216
+> the personal takeover of oil companies by the President, who may not have
+> the time, especially during national emergencies, as well as the expertise.
+> In view of the foregoing, I maintain my position and CONCUR with
+> the ponencia that the emergency takeover power under Article XII, Section
+> 17 of the Constitution may be delegated to the heads of the Executive
+> departments, in this case the Secretary of Energy:% and for this reason, Section
+> 14(e ) of R.A. No. 847 9 is neither ultra vires not uncons • 1tional.
+> I .
+> I
+> / 01· I
+> /' \ 1
+> o/ S. CAGUIOA
+> '-y'

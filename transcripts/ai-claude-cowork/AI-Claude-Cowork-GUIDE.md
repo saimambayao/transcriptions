@@ -228,6 +228,26 @@ One honest caveat: open alternatives like OpenClaw retain advantages for the sma
 
 **The takeaway**: Dispatch converts any dead time -- commutes, meetings, waiting rooms -- into productive agent execution time. The phone becomes the trigger; the desktop becomes the engine; and the flat subscription model makes high-volume usage economically sustainable.
 
+## Computer Use: When Claude Controls the Entire Desktop
+
+Computer Use is a distinct mode from standard Cowork. Where Cowork works within a designated folder, Computer Use gives Claude access to the **entire computer** — it can see the screen, move the cursor, click buttons, type in fields, open any application, and switch windows. The user cannot use their computer during execution. [^12]
+
+The practical architecture: Computer Use is a feature available inside both Claude Cowork and Claude Code tabs (not a standalone product). Enabling it requires three settings in Claude Desktop — **Keep computer awake** (prevents sleep during long tasks), **Allow browser use** (lets Claude interact with Chrome without per-action prompts), and **Computer Use** (grants screen recording and keyboard/mouse control permissions). Specific apps can be blocklisted from Claude's access, preserving privacy boundaries. [^12]
+
+> **Key insight**: Computer Use's distinctive advantage over Cowork's folder-based model is that it can search the **entire computer including cloud-synced folders like Dropbox** — no need to specify paths or copy files into a designated working folder. The cost is that the user cannot use their computer simultaneously. [^12]
+
+Honest capability assessment from live demonstrations: [^12]
+- **Works well**: finding named files, opening apps, document-to-PDF conversion, browsing + code generation, basic file operations, summarizing long documents
+- **Struggles**: imprecise file descriptions (searches everywhere), data entry into web forms (too slow), complex editing tasks (e.g., video cut points in Premiere)
+- **Not yet practical for**: actual video editing, form-filling workflows, any time-sensitive task
+- **Best current use case**: async, non-urgent tasks while away from the computer — converting documents, organizing files, sending summaries to yourself
+
+Dispatch (the phone remote-control feature) integrates directly with Computer Use: a task sent from the phone can leverage full computer access on the desktop, not just the Cowork folder. The practical workflow is **pre-task loading** — send a complex task before sleeping or leaving the office; return to completed work. [^12]
+
+**The takeaway**: Use Computer Use for async, file-discovery tasks where the target location is unknown or the task spans multiple applications. Keep Cowork for bounded, repeatable workflows where the folder model and skills system provide more control.
+
+---
+
 ## Code-to-Cowork Skill Portability
 
 Claude Code and Claude Cowork share the same underlying intelligence and skill format -- both read markdown instruction files to execute workflows. The primary difference is the interface: Code runs in the terminal with direct Bash, file system, and editor access, while Cowork runs through a desktop GUI with MCP server-mediated access. This shared foundation means skills built in one environment can be ported to the other. [^9]
@@ -333,3 +353,7 @@ The patterns above map directly to your multi-role architecture: OOBC governance
 [^11]: AI Impact. "Claude Dispatch Just Killed OpenClaw! (FULL GUIDE)."
        *AI Impact*, 5:05. YouTube, March 2026.
        https://youtube.com/watch?v=pC_GpRbDQJ4
+
+[^12]: Skill Leap AI. "Claude Can Control Your Computer - Everything You Need To Know."
+       *Skill Leap AI*, 17:52. YouTube, April 2026.
+       https://youtube.com/watch?v=Dl36TDBFUdo

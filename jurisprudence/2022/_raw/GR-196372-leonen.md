@@ -1,0 +1,1170 @@
+# GR-196372-leonen
+
+**196372/210224/216104/219632 Dissenting Opinion: Justice Marvic M.V.F. Leonen**
+
+## Metadata
+
+- **Case Title**: 196372/210224/216104/219632 Dissenting Opinion: Justice Marvic M.V.F. Leonen
+- **Ponente**: LEONEN, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: August 9, 2022
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/03/196372-leonen.pdf)
+
+---
+
+> · EN BANC
+> G.R. No. 196372 - GINEB.RA SAN MIGUEL, INC., Petitioner, v.
+> DIRECTOR OF THE BUREAU OF TRADEMARKS, Respondent.
+> G.R. No. 210224 - TANDUAY DISTILLERS, INC., Petitioner, v.
+> GINEBRA SAN MIGUEL, INC., Respondent.
+> G.R. No. 216104 - TANDUAY DISTILLERS, INC., Petitioner, v.
+> GINEBRA SAN MIGUEL, INC., Respondent.
+> G.R. No. 219632 - TANDUAY DISTILLERS, INC., Petitioner, v.
+> GINEBRA SAN MIGUEL, INC., Respondent.
+> Promulgated:
+> August 9, 2022
+> DISSENTING OPINION
+> LEONEN,J.:
+> This case will determine whether we will allow a word commonly used
+> by Spanish-speaking peoples around the world to refer to a particular product
+> that will be appropriated here by a business, to the exclusion of all others.
+> Further, we detennine whether we will implicitly give license to and
+> grant our approval for other countries to unconditionally register ordinary
+> terms from our own languages as trade or service marks. Already, in Europe,
+> a cookie brand called "Filipinos" is being sold.1
+> The law is clear enough. Generic words cannot be appropriated,
+> excluded, and burdened for profit through exclusion.
+> With regrets and an abundance of respect, I dissent.
+> I explain further.
+> Trademark Application No. 4-2003-0001682 must be denied, because
+> the word mark "Ginebra" for the Class 33 good "gin" is not registrable under /
+> "Philippines protest 'Filipinos' as cookie brands", Kyodo News/Asian Economic News, August 27,
+> 1999, available at
+> <https:// www.thefreelibrary.com/Ph ilippines+protests+%2 7Filipinos%27+as+cookie+brand. -
+> a055759591> (last accessed on August 9, 2022).
+>
+> Dissenting Opinion 2 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> Republic Act No. 8293, or the Intellectual Property Code. Following this, the
+> applicant Ginebra San Miguel, Inc. (Ginebra San Miguel) cannot exclude
+> others, including Tanduay Distillers, Inc. (Tanduay), from using the generic
+> word "ginebra" in their own trademarks for Class 33 goods.
+> I
+> The purpose of a trade or service mark is to distinguish an enterprise's
+> goods or services.2 When a person or enterprise introduces a good or service
+> to the market, a trade or service mark directs the public's attention to that good
+> or service and keeps their patronage, with the mark acting as a shorthand in
+> the public's memory. Because the good or service is produced or provided by
+> the originating person or enterprise, the trade or service mark serves an
+> assurance of that good or service's origins and quality. Further, should another
+> person or enterprise attempt to direct some fraction of that attention or
+> patronage to its own similar good or service, it cannot do so by appropriating
+> this trade or service mark to bypass the effort and skill required to establish
+> its own reputation and audience in the market.3
+> Trade and service marks function to indicate ownership, guarantee
+> quality, and advertise the goods and services. At times, they even become
+> markers of identity. The law allows the registrant of a valid trade or service
+> mark registration to exclusively appropriate particular symbols, restricting
+> their communicative purpose in commerce for the benefit of a particular
+> person or enterprise. In Mirpuri v. Court ofA ppeals:4
+> Modem authorities on trademark law view trademarks as performing
+> three distinct functions: (I) they indicate origin or ownership of the articles
+> to which they are attached; (2) they guarantee that those articles come up to
+> a certain standard of quality; and (3) they advertise the articles they
+> symbolize.
+> Symbols have been used to identify the ownership or origin of
+> articles for several centuries. As early as 5,000 B.C., markings on pottery
+> have been found by archaeologists. Cave drawings in southwestern Europe
+> show bison with symbols on their flanks. Archaeological discoveries of
+> ancient Greek and Roman inscriptions on sculptural works, paintings, vases,
+> precious stones, glassworks, bricks, etc. reveal some features which are
+> thought to be marks or symbols. These marks were affixed by the creator
+> or maker of the article, or by public authorities as indicators for the payment
+> of tax, for disclosing state monopoly, or devices for the settlement of
+> accounts between an entrepreneur and his workmen.
+> /
+> 2 Intellectual Property Code, subsection 121.1, which states:
+> Sec. 121. Definitions. -As used in Part III, the fopowing terms have the following meanings:
+> 121.1. "Mark" means any visible sign capable of distinguishing the goods (trademark) or services
+> (service mark) of an enterprise and shall include a stamped or marked container of goods[.]
+> Gabriel v. Perez, 154 Phil. 371 (1974) [Per J. Makasiar, First Division], Etepha, A.G. v. Director of
+> Patents, 123 Phil. 329 (1966) [Per J. Sanchez, En· Banc].
+> 4 376 Phil. 628 ( 1999) [Per J. Pono, First Division],
+>
+> Dissenting Opinion 3 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> In the Middle Ages, the use of many kinds of marks on a variety of
+> goods was commonplace. Fifteenth century England saw the compulsory
+> use of identifying marks in certain trades. There were the baker's mark on
+> bread, bottlemaker's marks, smith's marks, tanner's marks, watermarks on
+> paper, etc. Every guild had its own mark and every master belonging to it
+> had a special mark of his own. The marks were not trademarks but police
+> marks compulsorily imposed by the sovereign to let the public know that
+> the goods were not "foreign" goods smuggled into an area where the guild
+> had a monopoly, as well as. to aid in tracing defective work or poor
+> craftsmanship to the artisan. For a similar reason, merchants also used
+> merchants' marks. Merchants dealt in goods acquired from many sources
+> and the marks enabled them to identify and reclaim their goods upon
+> recovery after shipwreck or piracy.
+> With constant use, the mark acquired popularity and became
+> voluntarily adopted. It was not intended to create or continue monopoly but
+> to give the customer an index or guarantee of quality. It was in the late 18th
+> century when the industrial revolution gave rise to mass production and
+> distribution of consumer goods that the mark became an important
+> instrumentality of trade and commerce. By this time, trademarks did not
+> merely identify the goods; they also indicated the goods to be of satisfactory
+> quality, and thereby stimulated further purchases by the consuming public.
+> Eventually, they came to symbolize the goodwill and business reputation of
+> the owner of the product and became a property right protected by law. The
+> common law developed the doctrine of trademarks and tradenames "to
+> prevent a person from palming off his goods as another's, from getting
+> another's business or injuring his reputation by unfair means, and, from
+> defrauding the public." Subsequently, England and the United States
+> enacted national legislation on trademarks as part of the law regulating
+> unfair trade. It became the right of the trademark owner to exclude others
+> from the use of his mark, or of a confusingly similar mark where confusion
+> resulted in diversion of tradia or financial injury. At the same time, the
+> trademark served as a warning against the imitation or faking of products to
+> prevent the imposition of fraud upon the public.
+> Today, the trademark is not merely a symbol of origin and goodwill;
+> it is often the most effective agent for the actual creation and protection of
+> goodwill. It imprints upon the public mind an anonymous and impersonal
+> guaranty of satisfaction, creating a desire for further satisfaction. In other
+> words, the mark actually sells the goods. The mark has become the "silent
+> salesman," the conduit through which direct contact between the trademark
+> owner and the consumer is assured. It has invaded popular culture in ways
+> never anticipated that it has become a more convincing selling point than
+> even the quality of the article to which it refers. In the last half century, the
+> unparalleled growth of industry and the rapid development of
+> communications technology have enabled trademarks, tradenames and
+> other distinctive signs of a product to penetrate regions where the owner
+> does not actually manufacture or sell the product itself. Goodwill is no
+> longer confined to the territory of actual market penetration; it extends to
+> zones where the marked article has been fixed in the public mind through
+> advertising. Whether in the print, broadcast or electronic communications
+> I
+> medium, particularly on the ·_Internet, advertising has paved the way for
+> growth and expansion of the product by creating and earning a reputation
+> that crosses over borders, virtually turning the whole world into one vast
+> marketplace. 5 (Citations omitted)
+> 5 Id. at 645---1549.
+>
+> Dissenting Opinion 4 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> The general rule is that any mark as defined in Subsection 121.16 of the
+> Intellectual Property Code is registrable. The exception is a mark which is
+> non-registrable pursuant to Subsection _123 .1:
+> SECTION 123. Registrability. -123_.l. A mark cannot be registered ifit:
+> (a) Consists of immoral, deceptive or scandalous matter, or matter
+> which may disparage or falsely suggest a connection with persons, living or
+> dead, institutions, beliefs, or national symbols, or bring them into contempt
+> or disrepute;
+> (b) Consists of the flag or coat of arms or other insignia of the
+> Philippines or any of its political subdivisions, or of any foreign nation, or
+> any simulation thereof;
+> ( c) Consists of a name, portrait or signature identifying a particular
+> living individual except by his written consent, or the name, signature, or
+> portrait of a deceased President of the Philippines, during the life of his
+> widow, if any, except by written consent of the widow;
+> ( d) Is identical with a registered mark belonging to a different
+> proprietor or a mark with an earlier filing or priority date, in respect of: cd
+> (i) The same goods or services, or
+> (ii) Closely related goods ·or services, or
+> (iii) If it nearly resembles such a mark as to be likely to deceive
+> or cause confusion;
+> ( e) Is identical with, or confusingly similar to, or constitutes a
+> translation of a mark which is considered by the competent authority of the
+> Philippines to be well-known internationally and in the Philippines, whether
+> or not it is registered here, as being already the mark of a person other than
+> the applicant for registration, and used for identical or similar goods or
+> services: Provided, That in determining whether a mark is well-known,
+> account shall be taken of the knowledge of the relevant sector of the public,
+> rather than of the public at large, including knowledge in the Philippines
+> which has been obtained as a result of the promotion of the mark;
+> (f) Is identical with, or confusingly similar to, or constitutes a
+> translation of a mark considered well-known in accordance with the
+> preceding paragraph, which is registered in the Philippines with respect to
+> goods or services which are not similar to those with respect to which
+> registration is applied for: Provided, Tb.at use of the mark in relation to those
+> goods or services would indicate a connection between those goods or
+> services, and the owner of the registered mark: Provided, further, That the
+> interests of the owner of the registered mark are likely to be damaged by
+> such use;
+> /
+> (g) Is likely to mislead the public, particularly as to the nature,
+> quality, characteristics or geographical origin of the goods or services;
+> 6 Intellectual Property Code, Subsection 121. I.
+>
+> Dissenting Opinion 5 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> (h) Consists exclusively of signs that are generic for the goods or
+> services that they seek to identify;
+> (i) Consists exclusively of signs or of indications that have become
+> customary or usual to designate the goods or services in everyday language
+> or in bona fide and established trade practice;
+> (j) Consists exclusively of signs or of indications that may serve
+> in trade to designate the kind, quality, quantity, intended purpose, value,
+> geographical origin, time or production of the goods or rendering of the
+> services, or other characteristics of the goods or services;
+> (k) Consists of shapes that may be necessitated by technical factors
+> or by the nature of the goods themselves or factors that affect their intrinsic
+> value;
+> (I) Consists of color alone, unless defined by a given form; or
+> (m) Is contrary to public order or morality. 7
+> Among those non-registrable marks are generic marks, which"[c onsist]
+> exclusively of signs that are generic for the goods or services that they seek to
+> identify."8 In in Societe des Produits Nestle, S.A. v. Court ofA ppeals:9
+> Generic terms are those which constitute "the common descriptive name of
+> an article or substance," or comprise the "genus of which the particular
+> product is a species," or are "commonly used as the name or description of
+> a kind of goods," or "imply reference to every member of a genus and the
+> exclusion of individuating characters," or "refer to the basic nature of the
+> wares or services provided rather than to the more idiosyncratic
+> characteristics of a particular product," and are not legally protectab!e.10
+> Generic marks must be distinguished with descriptive marks, which are
+> related to the quality, description, or other characteristics of the goods or
+> services11 and are not registrable pursuant to Subsection 123.l(j). Although
+> both types of marks are amo_ng those enumerated in Subsection 123.1,
+> Subsection 123.2 provides an exception to the non-registrability of descriptive
+> marks:
+> 123.2. As regards signs or devices mentioned in paragraphs (j), (k),
+> and (]), nothing shall prevent the registration of any such sign or device
+> which has become distinctive in relation to the goods for which registration
+> is requested as a result of the use that have been made of it in commerce in
+> the Philippines. The Office may accept as prima facie evidence that the
+> mark has become distinctive, as used in connection with the applicant's
+> goods or services in commerce, proof of substantially exclusive and
+> 7 Intellectual Property Code, subsection 123. l.
+> Intellectual Property Code, subsection 123.I.(h).
+> 9 408 PhiL 307 (200!) [Per J. Ynares-Santiago, First Division].
+> 10 ld. at 325.
+> " Ang v. Teodoro, 74 PhiL 50 (1942) [Per J. Ozaeta, First Division].
+>
+> G.R. Nos. 196372, 210224,
+> Dissenting Opinion 6
+> 216104 & 219632
+> continuous use thereof by the applicant in commerce in the Philippines for
+> five ( 5) years before the date on which the claim of distinctiveness is
+> made.12
+> Other non-registrable marks which may nonetheless be registered after
+> satisfying the conditions in Subsection 123.2 are: (1) geographic marks, also
+> under Subsection 123.lU); (2) shape marks under Subsection 123.l(k); and
+> (3) color marks under Subsection 123.1(1).
+> Subsection 123.2 embodies the doctrine of secondary meanmgs of
+> marks, as explained in Ang v. Teodoro:13
+> Second. In her second assignment of error petitioner contends that
+> the Court of Appeals erred in holding that the words "Ang Tibay" had
+> acquired a secondary meaning. In view of the conclusion we have reached
+> upon the first assignment of error, it is unnecessary to apply here the
+> doctrine of "secondary meaning" in trade-mark parlance. This doctrine is
+> to the effect that a word or phrase originally incapable of exclusive
+> appropriation with reference to an article on the market, because
+> geographically or otherwise descriptive, might nevertheless have been used
+> so long and so exclusively by one producer with reference to his article that,
+> in that trade and to that branch oft he purchasing public, the word or phrase
+> has come to mean that the article was his product. 14 (Emphasis supplied,
+> citations omitted)
+> However, the acqms1t1on of secondary meanings is limited in the
+> Intellectual Property Code to only four types of non-registrable marks. This
+> is in contrast to the provisions of Republic Act No. 166-the predecessor of
+> the Intellectual Property Code-which, with certain exceptions, states that any
+> marks that have become distinctive of the applicant's goods or services may
+> be registered upon proof of substantially exclusive and continuous use of the
+> goods or services:
+> SECTION 4. Registration · of Trade-marks, Trade-names and
+> Service-marks. - The owner of a trade-mark, trade-name or service-mark
+> used to distinguish his goods, business or services from the goods, business
+> or services of others shall have the right to register the same, unless it:
+> (a) Consists of or comprises immoral, deceptive or
+> scandalous matter; or matter which may disparage or falsely
+> suggest a connection with persons, living or dead,
+> institutions, beliefs, or national symbols, or bring them into
+> contempt or disrepute;
+> (b) Consists of or comprises the flag or coat of arms
+> or other insignia of the Philippines or any of its political /
+> subdivisions, or of any foreign nation, or any simulation
+> 12 Intellectual Property Code, subsection 123.2.
+> 13 74 Phil. 50 (1942) [Per J. Ozaeta, First Division].
+> 14 Id. at 52-53.
+>
+> Dissenting Opinion 7 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> thereof;
+> ( c) Consists of or comprises a name, portrait, or
+> signature identifying a particular living individual except by
+> his written consent, or the name, signature, or portrait of a
+> deceased President of the Philippines, during the life of his
+> widow, if any, except by the written consent of the widow;
+> ( d) Consists of or comprises a mark or trade-name
+> which so resembles a mark or trade-name registered in the
+> Philippines or a mark·or trade-name previously used in the
+> Philippines by another and not abandoned, as to be likely,
+> when applied to or used in connection with the goods,
+> business or services of the applicant, to cause confusion or
+> mistake or to deceive purchases; or
+> (e) Consists of a mark or trade-name which, when
+> applied to or used in connection with the goods, business or
+> services of the applicant is merely descriptive or deceptively
+> misdescriptive of them, or when applied to or used in
+> connection with the goods, business or services of the
+> applicant is primarily geographically descriptive or
+> deceptively misdescriptive of them, or is primarily merely a
+> surname.
+> (f) Except as expressly excluded in paragraphs (a),
+> (b), (c) and (d) of this section, nothing herein shall prevent
+> the registration of a mark or trade-name used by the
+> applicant which has become distinctive of the applicant's
+> goods, business or se,rvices. The Director may accept as
+> prima facie evidence that the mark or trade-name has become
+> distinctive, as applied to or used in connection with the
+> applicant's goods, business or services, proof of substantially
+> exclusive and continuous use thereof as a mark or trade
+> name by the applicant in connection with the sale of goods,
+> business or services for the five years next preceding the date
+> of the filing of the application for its registration. (Emphasis
+> supplied)
+> When the Intellectual Property Code superseded Republic Act No. 166,
+> the broad provision on acquisition of distinctiveness was undoubtedly limited
+> to only certain types of marks, namely those falling under paragraphs G), (k),
+> and (1) of Subsection 123 .1. These types of marks may be subject to the in
+> depth, empirical, and even scientific analysis proposed in the ponencia,
+> precisely because they are the types of marks that the Intellectual Property
+> Code permits to be registered, for having acquired a secondary meaning.
+> However, when the mark sought for application consists exclusively of
+> signs which are generic for the goods it seeks to identify-i.e., that it is a
+> Subsection 123.l(g) mark-then not only is the "primary significance" test /
+> misplaced, but it is also contrary to Subsection 123.2 of the Intellectual
+> Property Code. To permit this is to allow an exception not written in the law.
+>
+> Dissenting Opinion 8 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> Signs that are generic for the goods or services applied for can never be
+> made distinctive and exclusive for a single registrant, even by long use or the
+> passage of time, simply because any person or entity should be able to use the
+> generic word to identify that particular good or service. They cannot be
+> subject of exclusive appropriation under our trademark law.15 They are also
+> incapable of indicating the goods or se.rvices by themselves, foreclosing any
+> finding that those who use it as a trade or service mark have been injured by
+> other people's use of the generic mark, or that the public was deceived by its
+> widespread use. 16
+> According to the Association of South East Asian Nations (ASEAN)
+> Common Guidelines for the Substantive Examination of Trademarks, which
+> serves as a reference to guide and focus practices of intellectual property
+> offices of ASEA__N nations, the non-registrability of generic marks promotes
+> competition and free trade:
+> A sign that consists exclusively or essentially of a word that is a
+> generic, customary, common scientific or technical name or designation of
+> a particular product or service, or of a ·category of goods or services, cannot
+> be appropriated in exclusivity by any individual trader as a mark to
+> distinguish such goods or services. Such names and designations need to
+> remain free for use by all competitors in order that they may exercise their
+> trade normally and unfettered by exclusive third-party rights.17
+> As early as 1905, in Baxter v. Zuazua, 18 this Court held that the name
+> of a flower cannot be registered as a trademark, any more than words such as
+> "coffee," "sugar," or "tobacco":
+> The defendant alleged in his answer that the word "Kananga" could
+> not be used as a trade-mark because it was the name of a flower. It is stated
+> in the judgment oft he court below that the word "Kananga" represents the
+> name of a well-known tree in the Philippines. This finding has not been
+> disputed by the plaintiffe, who simply allege that the spelling of the said
+> word indicates that it is foreign to the Spanish language. This, by the way,
+> would not prove, even though it were tI;ue, that the said word was not in fact
+> the name ofa ;lower oft he Philippine Islands, as set out in the judgment. It
+> is apparent, therefore, that the said word could not be used exclusively as a
+> trade-mark, any more than could the words "sugar," "tobacco," or
+> "coffee." The law is clear and conclusive upon the subject. "A designation
+> or part of a designation," says section 2 of Act No. 666, "which relates only
+> to the name, quality, or description of the merchandise * * * can not be the
+> subject of a trade-mark." This provision is in conformity with the provisions
+> 15 Masso Hermanos, S.A. v. Director of Patents, 94 Phil. 136 (I 953) [Per J. Jugo, En Banc]; Ong Ai Gui v.
+> Director of Patents, 96 Phil. 673 (1955) [Per J. Labrador, En Banc]; The East Pacific Merchandising
+> Corp. v. Director of Patents, 110 Phil. 443 (1960) [Per J. J.B.L. Reyes, Second Division]; Coffee
+> Partners. Inc. v. San Francisco Coffee & Roastery, Inc., 628 Phil. 13 (2010) [Per J. Carpio, Second /
+> Division].
+> 16 Philippine Refining Co., Inc. Ng Sam, 201 Phil. 61 (1982) [Per J. Escolin, Second Division].
+> 17 AssOClATlON OF SOUTHEAST ASlAN NAT]ONS, COMMON GUlDELlNES FOR THE SUBSTANTJVE
+> EXAMlNATlON OF TRADEMARKS 79 (Second ed., 2020).
+> 18 5 Phil. 160 (1905) [Per J. Mapa, En Banc].
+>
+> Dissenting Opinion 9 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> of paragraph 3 of article 5 of the royal decree of the 26th of October, 1888,
+> under which Guillermo Baxter secured the registration of his trade-mark.
+> The said royal decree provided that the denominations generally used in
+> commerce for the purpose of designating a class of goods could not be the
+> subject of labels or trade-marks.
+> The plaintiffs allege that the defendants did_ not prove, or even
+> attempt to prove, that the goods manufactured by them had anything to do
+> with the "Kananga" flower. If the goods in question had really nothing to
+> do with the said flower, then it was not lawful for the plaintiffs to sell them
+> to the public under the name of "Agua de Kananga," because the people
+> might be deceived as to the nature of the goods, taking for "Kananga" an
+> article which, as a matter of fact, had nothing to do with the said flower.
+> Both plaintiffs and defendant would be exactly in the same position as one
+> who should sell goods as "coffee" or "tobacco" which were neither one nor
+> the other. Such being the case the plaintiffs could not have maintained this
+> action for unfair competition, because under section 9 of said Act No. 666
+> such action would not lie "when the trade-mark or designation of its origin,
+> ownership, or manufacture has been used by the claimant for the purpose of
+> deceiving the public as to the nature of the goods in which he deals, his
+> business, profession, or occupation." The law can not and does not permit
+> that trade-marks shall contain indications capable of deceiving the public as
+> to the nature of the goods. This would be exactly the case if under the trade
+> mark of "Agua de Kananga" the plaintiffs should sell goods that had in fact
+> nothing to do, as they say, with the "Kananga" flower. However the
+> contention of the plaintiffs may be considered, the proof is nevertheless
+> insufficient to show that the word "Kananga" the name of a flower, can be
+> appropriated, as the subject of a trade-mark, under the law.19 (Emphasis
+> supplied)
+> Similarly, in La Yebana Co., Inc. v. Alhambra Cigar & Cigarette
+> Manufacturing Co.,20 this Court held that the word "chorritos" cannot be
+> exclusively appropriated, as it is the generic name used to identify a kind of
+> cigarette with the tobacco rolled in sweetened black paper. This Court found
+> that many local manufacturers included the word "chorritos" in the names of
+> their version of this cigarette:
+> We experience no difficulty in reaching the definite conclusion that
+> the registration of the trade-mark of the appellee does not constitute an
+> infringement of appellant's trade-mark. The word "Chorritos •· as we
+> understand it, had come to be a local name given to a special kind of
+> cigarettes the tobacco ofw hich is rolled in sweetened black paper. Like the
+> words "Corona," "Especiaies," "Perfectas," etc. which are used in
+> common by local cigar manufacturers to designate the different shapes or
+> forms of cigar manufactured by them, for cigarettes there could be "La
+> Yebana Chorritos," "Alhambra Chorritos," "Chorritos de Gamu, '' etc.
+> This is particularly true in so far as the appellant is concerned, since the
+> appellant was one of the last to make use of the word "Chorritos" as a trade
+> mark, and since all that the appellee has been endeavoring to do has
+> consisted to perfecting a trade-mark originally registered many years ago. ~
+> On such facts, the appellee, rather than the appellant, could more logically /
+> 19 Id. at 164-165.
+> 20 56 Phil. 106 (1931) (Per J. Malcolm, En Banc].
+>
+> Dissenting Opinion 10 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> contend that it has acquired the exclusive right to use the word "Chorritos"
+> as a trade-mark for cigarettes. In addition, it need only be remarked that a
+> superficial examination is sufficient to show an entire back of deceitful
+> similarity between the trade-mark of the appellant and the trade-mark of the
+> appellee.21 (Emphasis supplied; citation omitted)
+> As recently as Kensonic, Inc. v. Uni-Line Multi-Resources, Inc.
+> (Phil.),22 this Court affirmed Asia Brewery v. Court ofA ppeals23 in holding
+> that generic marks identifiable for certain goods or services may not be
+> exclusively appropriated:
+> Section 123(h) of the Intellectual Property Code prohibits the
+> registration of a trademark that consists exclusively of signs that are generic
+> for the goods or services that they seek to identify. It is clear from the law
+> itself, therefore, that what is prohibited is not having a generic mark but
+> having such generic mark being identifiable to the good or service. In Asia
+> Brewery, Inc. v. Court of Appeals, the Court ruled that there was no
+> infringement of San Miguel Brewery's Pale Pilsen trademark because Pale
+> Pilsen could not be appropriated.24 (Citation omitted)
+> Should a generic word be registered as a trademark, it would unfairly
+> deprive other persons engaged in the commerce of the goods or services
+> designated by such generic word the opportunity to use it. In Asia Brewery v.
+> Court ofA ppeals:25
+> The words "pale pilsen" may not be appropriated by SMC for its
+> exclusive use even if they are part of its registered trademark: SAN
+> MIGUEL PALE PILSEN, any more than such descriptive words as
+> "evaporated milk," "tomato ketchup," "cheddar cheese," "com flakes" and
+> "cooking oil" may be appropriated by any single manufacturer of these food
+> products, for no other reason than that he was the first to use them in his
+> registered trademark. In Masso Hermanos, SA. vs. Director ofP atents . ..
+> it was held that a dealer in shoes cannot register "Leather Shoes" as his
+> trademark because that would be merely descriptive and it would be unjust
+> to deprive other dealers in leather shoes oft he right to use the same words
+> with reference to their merchandise. No one may appropriate generic or
+> descriptive words. They belong to the-public domain ... :
+> "A word or a combination of words which is merely
+> descriptive of an article of trade, or of its composition,
+> characteristics, or qualities, cannot be appropriated and
+> protected as a trademark to the exclusion of its use by others
+> ... inasmuch as all persons have an equal right to produce
+> and vend similar articles, they also have the right to describe
+> them properly and to use any appropriate language or words
+> 21 Id. at I 08.
+> " G.R. Nos. 211820-21, June 6, 2018,
+> <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64270> [Per J. Bersamin, Third Division].
+> 23 296 Phil. 298 (1993) [Per J. Grino-Aquino, En B~nc].
+> 24 G.R. Nos. 211820-21, June 6, 2018,
+> <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64270> [Per J. Bersamin, Third Division].
+> " 296 Phil. 298 ( 1993) [Per J. Grifio-Aquino, En Banc].
+>
+> Dissenting Opinion 11 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> for that purpose, and no person can appropriate to himself
+> exclusively any word or expression, properly descriptive of
+> the article, its qualities, ingredients or characteristics, and
+> thus limit other persons in the use of language appropriate to
+> the description of their manufactures, the right to the use of
+> such language being common to all. This rule excluding
+> descriptive terms has also been held to apply to trade-names.
+> As to whether words employed fall within this prohibition, it
+> is said that the true test is not whether they are exhaustively
+> descriptive of the article designated, but whether in
+> themselves, and as they are commonly used by those who
+> understand their meaning, they are reasonably indicative and
+> descriptive of the thing intended. If they are thus descriptive,
+> and not arbitrary, they cannot be appropriated from general
+> use and become the exclusive property of anyone ....
+> " ... Others may use the same or similar descriptive
+> word in connection with their own wares, provided they take
+> proper steps to prevent the public being deceived ....
+> ". . . A descriptive word may be admittedly
+> distinctive, especially .i f the user is the first creator of the
+> article. It will, however, be denied protection, not because it
+> lacks distinctiveness, but rather because others are equally
+> entitled to its use[.]."26 (Emphasis supplied; citations
+> omitted)
+> These cases must be differentiated from instances when a generic or
+> common word was allowed registration, but for goods or services that bear no
+> relation to the meaning of the word. There, no issue on the exclusive
+> appropriation of the generic word arises, because the generic word's use to
+> designate a good or service will not unfairly exclude others from using that
+> word.
+> In Philippine Refining Co., Inc. v. Ng Sam,27 this Court recognized that
+> "camia" is descriptive for a genus of plants with white flowers. However,
+> because the "Camia" mark was being used for non-floral products such as
+> threads, yarns, textiles, and a variety of food such as oils and hams, this Court
+> found that the use of "Camia" was fanciful, and capable of distinguishing the
+> goods for which the mark was sought registration. Thus, the element of
+> unrelatedness must be present before an alleged generic mark may be
+> permitted registration.28 This was also the case in Mighty Corporation v.
+> E.&J Gallo Winery,29 concerning the use of the Spanish word "gallo"
+> ( translated as "rooster") as trademarks for cigarettes and wine by different
+> manufacturers. ·
+> 26 Id. at 314-315.
+> 27 201 Phil. 61 (1982) [Per J. Escolin, Second Division].
+> 28 Heirs a/Cristina Y. Gabriel-Almoradie v. Court ofA ppeals, 299 Phil. 14 (1994) [Per J. Nocon, Second
+> Division].
+> 29 478 Phil. 615 (2004) [Per J. Corona, Third Division].
+>
+> Dissenting Opinion 12 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> The absolute non-registrability of generic marks is not unique to
+> Philippine trademark law. The Paris Convention for the Protection of
+> Industrial Property, to which the Philippines is a signatory, states that marks
+> may be denied registration or invalidated if they are, among others, "devoid
+> of any distinctive character, or consist exclusively of signs or indications
+> which may serve, in trade, to designate the kind, quality, quantity, intended
+> purpose, value, place of origin, of the goods, or the time of production, or have
+> become customary in the current language or in the bona fide and established
+> practices of the trade of the country where protection is claimed."30
+> Moreover, all countries in the "ASEAN,31 as well as the European
+> Union,32 have provisions in their respective trademark laws or regulations
+> concerning the non-registrability of generic marks. While some of the
+> ASEAN member-nations-such as Brimei,33 Myanmar,34 and Singapore35
+> -
+> 30 Paris Convention, art. 6quinquies(B)(2).
+> 31 See fn. 43 in the ASEAN Common Guidelines for the Substantive Examination of Trademarks (Second
+> Edition), p. 79.
+> 32 Regulation (EU) 2017/1001, art. 7 provides:
+> Article 7
+> Absolute grounds for refosal
+> I. The following shall not be registered:
+> (b) trade marks which are devoid of any distinctive character;
+> (c) trade marks which consist exclusively of signs or indications which may serve, in trade, to designate
+> the kind, quality, quantity, intended purpose, value, geographical origin or the time of production of the
+> goods or of rendering of the service, or other characteristics of the goods or service;
+> (d) trade marks which consist exclusively of signs or indications which have become customary in the
+> current language or in the bona fide and established practices of the trade[.]
+> 33 Brunei Trade Marks Act (2000), sec. 6 provides:
+> Absolute grounds for refosal of registration.
+> 6. (I) The following shall not be registered-
+> ( c) trade marks which consist exclusively of signs or indications which may serve, in trade, to designate
+> the kind, quality, quantity, intended purpose, value, geographical origin, time of production of goods or
+> of rendering of services, or other characteristics of goods or services;
+> (d) trade marks which consist exclusively of signs or indications which have become customary in the
+> current language or in the bona fide and established practices of the trade:
+> Provided that a trade mark shall not be refosed registration by virtue of paragraph (b ), ( c) or ( d) if, before
+> the date of application. it has in fact acquired a distinctive character as a result of the use made of it.
+> 34 Myanmar Pyidaungsu Hluttaw Law No. 3/2019 (Trademark Law), sec. 13 provides:
+> 13. Any of the following characteristics of a mark constitutes absolute grounds for refosal and the
+> aforementioned mark is not eligible for registration:
+> (b) containing only marks or indications of a goad's or service's type, related information, quality,
+> quantity, intended use, value, origin, time of manufacture, or other characteristics;
+> Exceptions - If one of the following circumstances applies to the provisions in subsections (a) and (b),
+> there are no grounds for refusal of the registration of the mark in question.
+> (1) If the mark's distinctiveness is known among consumers due to its use before the date of
+> application for mark registration;
+> (2) If the applicant, in good faith, is exclusiveiy using the mark continuously within the
+> commercial area of Myanmar.
+> The English provisional translation from the Burmese original is provided by the JICA Judicial and I
+> Legal Project, available at <https://www.myanmar-law-library.org/law-library/laws-and
+> regulations/laws/myanmar-laws-1988-unti I-now /national-league-for-democracy-20 l 6/myanmar-laws-
+> 20 I 9/pyidaungsu-hluttaw-law-no-3-2019-trademark-law-burmese.html> (last accessed August 9,
+> 2022).
+> 35 Singapore Trade Marks Act I 998, sec. 7 provides:
+> Absolute grounds for refosal ofregistration
+> 7.--(1) The following must not be registered:
+>
+> Dissenting Opinion 13 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> and the European Union36 do provide for the acquisition of secondary
+> meanings in generic marks, these stand in contrast with the Intellectual
+> Property Code, which does not contain a similar provision, as discussed
+> above.
+> II
+> The prohibition against the registration of generic marks must extend
+> even to foreign equivalents of generic marks.
+> The Intellectual Property Code permits the registration as trade or
+> service marks of words which are not in English or Filipino. Spanish words
+> like "gallo"37 and "marca pifia";38 French words like "le cordon bleu";39
+> Japanese words like "sakura";40·and Italian words like "adagio"41 had been or
+> are among the trade or service marks registered in this country. The law only
+> requires that the applicant must provide a translation or transliteration of the
+> mark being applied for:
+> SECTION 124. Requirements of Application. - 124.1. The
+> application for the registration of the mark shall be in Filipino or in English
+> and shall contain the following:
+> G) A transliteration or translation of the mark or of
+> some parts of the mark, as prescribed in the Regulations[.]
+> Under Rule 404 of Memorandum Circular No. 17-01042 of the
+> (c) trade marks which consist exclusively of signs or indications which may serve, in trade, to
+> designate the kind, quality, quantity, intended purpose, value, geographical origin, the time of
+> production of goods or of rendering of services, or other characteristics of goods or services;
+> and
+> ( d) trade marks which consist exclusively of signs or indications which have become customary
+> in the current language or in the bona fide and established practices of the trade.
+> (2) A trade mark must not be refused registration by virtue of subsection ( 1) (b) , ( c) or ( ct) if, before the
+> date of application for registration, it has in fact acquired a distinctive character as a result of the use
+> made of it.
+> 36 Regulation (EU) 2017/ I 00 I, article 7 provides:
+> 3. Paragraph l(b), (c) and (d) shall not apply if the trade mark has become distinctive in relation to the
+> goods or services for which registration is requested as a consequence of the use which has been made
+> of it.
+> 37 Mighty Corp. v. E.&J Gallo Winery, 478 Phil. 615 (2004) [Per J. Corona, Third Division].
+> I
+> 38 Chung Te v. Ng Kian Giab, 124 Phil. 1375 (1966) [Per J. makasiar, En Banc].
+> 39 Ecole de Cuisine Manille (Cordon Bleu of the Philippines), Inc. v. Renaud Cointreau & Cie, 710 Phil.
+> 305 (2013) [Per J. Perlas-Bernabe, Second Division].
+> 4°
+> Kensonic, Inc. v. Uni-line Multi-Resources, Inc. (Phil.), G.R. Nos. 211820-21, June 6, 2018,
+> <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64270> [Per J. Bersamin, Third Division].
+> 41 Romero v. Maiden Form Brassiere Co., Inc., I 19 Phil. 829 (1964) [Per J. Barrera, En Banc].
+> 42
+> "Rules and Regulations On Trademarks, Service Marks, Trade Names and Marked or Stamped
+> Containers of 2017", available at <https://ipophil.gov.ph/images/2017Uploads/lPOPHL-Memorandum
+> Circular-No.-l 7-01 O-Rules-and-Regulations-on-Trademarks-Service-Marks-Trade-Names-and
+> Marked-or-Stamped-Containers-of-2017.pdt> (last accessed August 9, 2022).
+>
+> Dissenting Opinion 14 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> Intellectual Property Office of the Philippines, foreign words in marks must
+> be translated or transliterated:
+> Rule 404. Translation or Transliteration. - A translation or
+> transliteration of the mark or of some parts of the mark must accompany the
+> application if the mark or of some parts of the mark is/ are in foreign
+> word(s), letter(s) and character(s), or foreign sounding.
+> The purpose of the translation requirement is to prevent the
+> circumvention of the provisions of the Intellectual Property Code, by which
+> an applicant for a mark may obtain an exclusive right to use a non-registrable
+> mark simply by using a language unfamiliar to the trademark examiner.
+> Applicants for trademarks should not be allowed to use the foreign-language
+> equivalents of marks which would have been otherwise denied for non
+> registrability had they been applied for in English or Filipino.
+> In Etepha A.G. v. Director of Patents,43 the Latin root word "tussin,"
+> and its derivative "tussis," cannot be monopolized by one trademark registrant
+> for cough medication, since the word ~eans "cough":
+> 2. That the word "tussin" figures as a component of both trademarks
+> is nothing to wonder at. The Director of Patents aptly observes that it is "the
+> common practice in the drug and pharmaceutical industries to 'fabricate'
+> marks by using syllables or words suggestive of the ailments for which they
+> are intended and adding thereto distinctively prefixes or suffixes". And
+> appropriately to be considered now is the fact that, concededly, the "tussin"
+> (in Pertussin and Atussin) was derived from the Latin root word "tussis"
+> meaning cough.
+> "Tussin ,. is merely descriptive; it is generic; it furnishes to the buyer
+> no indication of the origin of the goods; it is open for appropriation by
+> anyone. It is accordingly barred ji'.om registration as trademark. With
+> jurisprudence holding the line, we feel safe in making the statement that any
+> other conclusion would result in "appellant having practically a monopoly"
+> oft he word "tussin" in a trademark.
+> While "tussin" by itself cannot thus be used exclusively to identify
+> one's goods, it may properly become the subject of a trademark "by
+> combination with another word or phrase"9 And this union of words is
+> reflected in petitioner's Pertussin and respondent's Atussin, the first with
+> prefix "Per" and the second with prefix "A".44 (Emphasis supplied;
+> citations omitted)
+> The translation requirement becomes even more essential in today's
+> globalized marketplace, where the trade of goods and services are no longer /
+> confined within national or geographical boundaries but are becoming /(
+> increasingly borderless.
+> 43 123 Phil. 329 (I 966) [Per J. Sanchez, En Banc].
+> 44 Id. at 333-334.
+> .,
+>
+> Dissenting Opinion 15 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> Our trademark laws and regulations help foster cross-border trade with
+> mechanisms such as those provided in the Protocol Relating to the Madrid
+> Agreement Concerning the International Registration of Marks (Madrid
+> Protocol), which is a "centralized system providing a one-stop solution for
+> registering and managing marks worldwide, allows the trademark owner to
+> file one application in one language, and to pay one set of fees to protect his
+> mark in the territories ofup to 97 member-states."45
+> Systems such as the Madrid Protocol both facilitate the export of
+> Philippine products and services to other countries and the proliferation of
+> international brands in local commerce. Yet marks sought for registration
+> using the Madrid Protocol are still examined according to the relevant national
+> law,46 which in the case of the Philippines is the Intellectual Property Code.
+> If this Court seeks to diminish the statutory tenns under which marks are
+> examined for registration, then it will affect both local trade or service marks
+> as well as foreign persons' or entities' trade or service marks used in this
+> country's commerce.
+> This Court's proposed changes to Spanish-language generic words for
+> the goods or services they refer. to may adversely affect the local availability
+> of goods or services which are referred to or marketed in part using the now
+> trademarked generic foreign-language word. It likewise signals to other
+> nations that the exclusive appropriation of Filipino and other Philippine
+> language words generic for a good or service for commercial purposes is
+> acceptable, diluting their communicative effect in favor of profit-seeking and
+> depriving people of common symbols of which they socially and culturally
+> ought to have free use.
+> The ponencia's reliance_ on foreign rules, such as the Trademark
+> Manual of Examination Procedure of the United States Patent and Trademark
+> Office,47 and American trademark jurisprudence, is highly improper.
+> The Intellectual Property Office of the Philippines has not issued any
+> rule or regulation adopting the United States Patent and Trademark Office's
+> guidelines on foreign equivalents of dictionary words. Moreover, if this Court
+> were to adopt a foreign agency's guidelines on trademark examination on
+> behalf of the Intellectual Property Office of the Philippines, it would be an
+> encroachment on the latter's power to fonnulate its own manual of
+> examination procedure for trademarks.
+> Even conceding that this Court may adopt the limitations to the doctrine /
+> 45 Intellectual Property Association of the Philippines v. Ochoa, 790 Phil. 276, 287 (20 I 6) [Per J.
+> Bersamin, En Banc].
+> 46 Id. at 302.
+> 47 Ponencia, pp. 36 and 38.
+>
+> Dissenting Opinion 16 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> of foreign equivalents proposed in the ponencia,48 neither is helpful in this
+> case. Spanish is not an unfamiliar or dead language to Filipinos, and there is
+> still a considerable number not just of Spanish speakers, but also speakers of
+> variations of Chavacano49 in this country. It is also apparent from the number
+> of alcohol manufacturers and distillers who also use the word "ginebra" for
+> their alcoholic products, including Tanduay, that ordinary purchasers and
+> drinkers have some idea that "ginebra" is a word at least associated with the
+> liquor product gin.
+> The cases cited in the ponencia for this point are inapplicable. Palm
+> Bay Imps., Inc. v. Veuve Clicquot Ponsardin Maison Fondee En. so evidently
+> involved a French-language mark ("Veµve Royale") which was claimed to be
+> confusingly similar to a previously-registered English-language mark ("The
+> Widow"). Both of these marks are not generic for the goods sparkling wine
+> products, but instead are random or imaginative marks.
+> On the other hand, the Russian-language mark "Moskovskaya" in In re
+> Spirits Int'l N. V51 is a geographic mark ("for Moscow" in English) for vodka
+> products, which is among the limited types of marks which may acquire
+> secondary meanings in Subsection 123.2 of the Intellectual Property Code.
+> Moreover, while this Court has often cited American doctrines in
+> trademark law, these cases cannot supplant the categorical restrictions on the
+> registrability of marks in the Intellectual Property Code. In particular, the
+> Lanham Act does not contain any provision similar to Subsection 123.l(g),
+> meaning that unlike the Intellectual Property Code, United States federal
+> trademark law does not contain an express statutory prohibition against the
+> registration of generic marks, or the acquisition of secondary meaning of a
+> generic mark that would otherwise permit its registration.
+> Hence, any attempt to use United States caselaw to interpret the
+> Intellectual Property Code's provisions is incomplete by nature, because
+> Philippine grounds for absolute refusal of a trade or service mark are broader
+> and more comprehensive than those in United States federal trademark law.
+> Neither can foreign cases invalidate Subsection 123. l(g) of the Intellectual
+> Property Code and overturn the consistent rulings of this Court that generic
+> marks cannot be subject of exclusive appropriation.52
+> 48 Id. at 36-39.
+> ~ 9 A Spanish-derived creoie language with an extensive vocabulary of Spanish loanwords.
+> JO Ponencia, p. 37.
+> s1 Id.
+> 52 See Baxter v.-Zucr:ua, 5 Phil. 160 (1905) [Per J. Mapa, En Banc]; Masso Hermanos, SA. v. Director of
+> Paten1s, 94 Phil. 136 (1953) [Per J. Jugo, En Banc]; Ong Ai Gui v. Director of the Philippines Pare~t
+> Office, 96 Phil, 673 (1955) [Per J. Labrador, En Banc]; The East Pacific Merchandising Corp. v. Director
+> of Patents, 110 Phil. 443 (1960) [Per J. J.B.L. Reyes, Second Division]; Coffee Partners, Inc. v. San
+> Francisco Coffee & Roastery, Inc, 628 Phil. 13 (2010) [Per J. Carpio, Second Division]; Asia Brewery
+> v. Court of Appeals, 296 Phil. 298 (1993) [Per "J. Grifio-Aquino, En Banc]; La Yebana Co .. Inc. v
+> Alhambra Cigar & Cigarette Manufacturing Co, 56 Phil. 106 (1931) [Per J. Malcolm, En Banc]; Etepha
+>
+> Dissenting Opinion 17 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> III
+> Clearly "Ginebra,"53 the mark Ginebra San Miguel seeks to register, is
+> a generic mark for the purposes of Subsection 123. l(h).
+> It is undisputed that "ginebra" is the Spanish word for the liquor product
+> known as gin. Ginebra San Miguel's trademark application for "Ginebra" is
+> for the product "gin" under Class 33 of the International (Nice) Classification
+> of Goods and Services, which covers alcoholic beverages, except beer, and
+> alcoholic preparations for making beverages. This is precisely the type of
+> generic mark contemplated in Subsection 123.l(h) that cannot be registered.
+> As noted by the Court of Appeals in its August 13, 2010 Decision in CA-G.R.
+> SP No. 112005:
+> In the case at bar, petitioner itself provided the English translation of the
+> Spanish word "GINEBRA" as "gin". Its use therefore, in gin products
+> would be merely indicative and descriptive of the merchandise or product
+> designated. It is therefore a generic term which cannot be appropriated for
+> petitioner's exclusive use because it will unjustly deprive other gin dealers
+> of the right to use the same with reference to their merchandise. Hence, the
+> IPO Director General correctly denied registration of the said mark.
+> Corollary thereto, petitioner's claim that the "GINEBRA" mark is not solely
+> generic but also descriptive which may acquire secondary meaning in
+> accordance with the provisions of Section 123. l(j) in relation to Section
+> 123.2 ofR.A. No. 8239 since it designated the kinds of goods manufactures
+> is untenable. Its contention that "GINEBRA" is not a direct Spanish
+> counterpart of the English wo_rd "gin" but rather, the Spanish equivalent of
+> "genever" or "jenever", the juniper berry-flavored grain spirit which
+> originated in the Netherlands :in the 17th century, hence, considered a "kind
+> of gin," compared to "gin" which may refer to any kind of alcoholic spirits,
+> does not change the fact that "ginebra" and "gin" refer to the same object.
+> Hence, being exclusively generic, the doctrine of secondary meaning ...
+> finds no applicability. Besides, for the doctrine to apply, the use of the mark
+> must have been exclusive which is not the case here. Records reveal that
+> other manufacturers of gin and other alcoholic beverages like Tanduay
+> Distillers, Inc., Twin Ace Holding Corporation, Consolidated Distillers of
+> the Far East, Inc. and Webengton Distillery (Philippines) Inc. had similarly
+> used the mark "GINEBRA" as part of the composite marks for their
+> products [.] 54
+> To compound the situation, the mark sought to be registered is a word
+> mark, which has been described by the Philippine Intellectual Property Code
+> A.G. v. Director of Patents, 123 Phil. 329 (1966) [Per J. Sanchez, En Banc]; and Kensonic, Inc. v. Uni
+> Line Multi-Resources, Inc., G.R. Nos. 211820-21, June 6, 2018,
+> <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/64270> [Per J. Bersamin, Third Division].
+> 53 Subject of Trademark Application No. 4-2003-0001682.
+> 54 Ponencia, p. 5. Cm;,rt of Appeals Decisjon, pp. 3----4. The Decision penned by Associate Justice Estela
+> M. Perlas-Bernabe (now a r.etired Member of the Court) with Associate Justices Bienvenido B. Reyes
+> (now a retired Member of the Court) and Elihu A. Ybanez, concurring.
+>
+> Dissenting Opinion 18 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> in its 20 I 7 Trademark Regulations to be one having no special characteristics:
+> RULE 402. Reproduction of the Mark.-One (1) reproduction of the mark
+> shall be submitted upon filing of the .application which shall substantially
+> represent the mark as actually used or intended to be used on or in
+> connection with the goods and/or_ services of the applicant. The
+> reproduction may be added or pasted on the space provided for in the
+> application form or printed on an ordinary bond paper. The reproduction
+> must be clear and legible, printed in black ink or in color, if colors are
+> claimed, and must be capable of being clearly reproduced when published
+> in the IPO eGazette. An electronic copy of the reproduction may likewise
+> be submitted in lieu of the printed reproduction. The electronic
+> reproduction should be in .jpg format and must not exceed one (I)
+> megabyte.
+> In the case ofw ord marks or if no special characteristics have to be
+> shown, such as design, style ofl ettering, color, diacritical marks, or unusual
+> forms ofp unctuation, the mark must be represented in standard characters.
+> The specification of the mark to be ·reproduced will be indicated in the
+> applicationform and/or published on the website.
+> The provisions of this Rule shall, however, be construed liberally in
+> determining whether the application shall be considered complete for
+> purposes of granting a filing date. (Emphasis supplied)
+> Unlike other "Ginebra"-inclusive marks registered by Ginebra San
+> Migue!55 that were compound word marks or composite marks, Trademark
+> Application No, 4-2003-0001682 consists solely of the single word
+> "Ginebra," without any other included words, shapes, designs, or special
+> characteristics.
+> The characteristics of the mark sought to be registered is essential,56 as
+> the Intellectual Property Code grants to a successful registrant the right to
+> exclude others from using that mark as it is registered,57 or its dominant
+> feature.58 This is demonstrated in Coffee Partners, Inc. v. San Francisco
+> Coffee & Roastery, Jnc.,59 where this Court clarified that although the
+> respondent had validly acquired the right to exclusively appropriate "San
+> Francisco Coffee," it did not mean exclusive use of the component words "San
+> Francisco" and "coffee":
+> 55 Id. at 8.
+> 56 J. Leanen, Dissenting Opinion in Prose! Pharmaceuticals & Distributors, inc. v. Tynor Drug House,
+> Inc., G.R. No. 248021, September 30, 2020,
+> <https://elibrary.judiciary.gov.ph/tbebookshelf/showdocs/1/66883> [Per J. Carandang, Third Division].
+> 57 Intellectual Property Code, sec. 14 7. I provides:
+> Sec. 147. Rights Conferred. - 147.1. Except in cases of importation of drugs and medicines allowed
+> under Section 72. l of this Act and of off-patent drugs and medicines, the owner of a registered mark
+> shall have the exclusive right to prevent all third parties not having the owner's consent from using in
+> the course of trade identical or similar to those in respect of which the trademark is registered where
+> such use would result in a likelihood of confusion. In case of the use of an identical sign for identical
+> goods or services, a likelihood of confusion shall be presumed.
+> ss Kolin Electronics Co., Inc. v. Kolin PhWppines International, Inc., G.R. No. 228165, February 9, 2021,
+> ~ <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67171> [Per J. Caguioa, En Banc].
+> 00 628 Phil. 13 (2010) [Per J. Carpio, Second Division].
+>
+> Dissenting Opinion 19 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> Applying either the dominancy test or the holistic test, petitioner's
+> "SAN FRANCISCO COFFEE" trademark is a clear infringement of
+> respondent's "SAN FRANCISCO COFFEE & ROASTERY, INC." trade
+> name. The descriptive words._"SAN FRANCISCO COFFEE" are precisely
+> the dominant features of respondent's trade name. Petitioner and respondent
+> are engaged in the same business of selling coffee, whether wholesale or
+> retail. The likelihood of confusion is higher in cases where the business of
+> one corporation is the same or substantially the same as that of another
+> corporation. In this case, the consuming public will likely be confused as
+> to the source of the coffee being sold at petitioner's coffee shops.
+> Petitioner's argument that "San Francisco" is just a proper name referring
+> to the famous city in California and that "coffee" is simply a generic term,
+> is untenable. Respondent has acquired an exclusive right to the use of the
+> trade name "SAN FRANCISCO COFFEE & ROASTERY, INC." since the
+> registration of the business name with the DTI in 1995. Thus, respondent's
+> use of its trade name from then on must be free from any infringement by
+> similarity. Of course, this does not mean that respondent has exclusive use
+> of the geographic word "San Francisco" or the generic word "coffee."
+> Geographic or generic words are not, per se, subject . to exclusive
+> appropriation. It is only the combination of the words "SAN FRANCISCO
+> COFFEE, " which is respondent's trade name in its coffee business, that is
+> protected against infringement on matters related to the coffee business to
+> avoid confusing or deceiving the public. 60 (Emphasis supplied)
+> Ginebra San Miguel should not be allowed to: ( a) allow the registration
+> of the word mark "Ginebra" in Class 33, particularly gin products; and (b)
+> exclude any other person or entity from using the Spanish word for gin as a
+> name or label for gin products, even in conjunction with other words.
+> Considering this, the United States Supreme Court case cited in the ponencia61
+> is inapplicable, because there, the mark sought to be registered is not merely
+> the generic word "booking," but "booking.com," which conveyed an
+> association with a single website, which only respondent's business could
+> occupy based on the nature of top-level domains on the Intemet.62
+> Moreover, the grounds for absolute refusal of registration listed in the
+> Lanham Act which was the basis of the ruling in United Stated Patent and
+> Trademark Office v. Booking.com B. V do not correspond to those in the
+> Intellectual Property Code. We cannot assume that Philippine courts will reach
+> a similar legal conclusion when·the laws involved are not the same.
+> In this regard, the reliance on the "primary significance test"63 is highly
+> misplaced.
+> The clause in Section 151 of the Intellectual Property Code cited in the
+> 60 Id. at 24-25.
+> 61 United Stated Patenr and Trademark Office v. Booking.com B. V., 591 U.S. (2020) (Slip Opinion).
+> 61 Id.
+> 63 Ponencia, pp. 29-34.
+>
+> Dissenting Opinion 20 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> ponencia64 refers to instances when a registered mark has become so generic,
+> that it may be subjected to cancellation proceedings. This presupposes that:
+> (1) there is a registered mark; (2) that registered mark has become a generic
+> name for the goods and services for which it was registered; and (3) that a
+> party has filed a petition for cancellation of that mark. None of these
+> circumstances are availing in the cases here, because the action with regard to
+> "Ginebra" is an application for its registration.
+> Further, "Ginebra" is not a registered mark which has allegedly become
+> a generic name. As discussed above, "Ginebra" is a generic word for gin,
+> which registrability is under question. It is not a mark that had become generic
+> and, thus, became susceptible to the cancellation of its registration.
+> Finally, as "Ginebra" has not yet been allowed registration, it cannot be
+> subject of a cancellation case which would have placed it within the coverage
+> of Section 151 of the Intellectual Property Code. Likewise, the 2020 Revised
+> Rules of Procedure for Intellectual Property Rights Cases provides a test to
+> determine if a registered mark can be deemed generic in the appreciation of
+> evidence in trademark infringement and unfair competition cases.65 Again,
+> this cannot apply to applications for registration of marks.
+> As I have discussed above, it is improper to resort to American
+> jurisprudence and rules, especially when the text of our Intellectual Property
+> Code is clear on the matter. However, even when this Court may consider
+> foreign caselaw, those cited in the ponencia are inapplicable when attempting
+> to determine if a mark is registrable under our trademark law.
+> 64 Id. at 32. The ponencia provides:
+> Notably, the primary significance test, which is u·sed to measure public perception in the United States
+> to determine whether a term is generic or not, is also reflected in our jurisdiction under Sec. 151. l (b) of
+> R.A. No. 8239. The provision reads:
+> SECTION 15 I. Cancellation. - 151.1. A petition to cancel a registration of a mark under this Act may
+> be filed with the Bureau of Legal Affairs by any person who believes that he is or will be damaged by
+> f
+> the registration of a mark under this Act as follows:
+> (a)xxxx
+> (b) At any time, if the registered mark becomes the generic name for the goods or services, ofa portion
+> thereof, for which it is registered, or has been abandoned, or its registration was obtained fraudulently
+> or contrary to the provisions of this Act, or if the registered mark is being used by, or with the permission
+> of, the registrant so as to misrepresent the source of the goods or services on or in connection with which
+> the mark is used. If the registered mark becomes the generic name for less than all of the goods or
+> services for which it is registered, a petition to cancel the registration for only those goods or services
+> may be filed. A registered mark shall not be dee~ed to be the generic name of goods or services solely
+> because such mark is also used as a name of or to identlfy a unique product or service. The primary
+> significance of the registered mark to the relevant public rather than purchaser motivation shall be the
+> test for detennining whether the registered mark has become the generic name of goods or services on
+> or in connection wit:h which it has been used.
+> (c)xxxx
+> Under Sec. 151.l(b) of R.A. No. 8239, a registered trademark is made susceptible to cancellation if it
+> subsequently becomes a generic name for the product or services it represents. In determining whether
+> a· registered trademark has become generic, the provision categorical-ly adopted as the test therefor-"the
+> primary significance of the registered mark to the relevant public ... " This, in franker terms, is an explicit
+> call for the application of public perception under the primary significance test in determining the
+> genericness or di_stinctiveness of a mark.
+> 65 Rule 8 of the 2020 Revised Rules of Procedure for Intellectual Property .Rights Cases, under which
+> Section 8 can be found, covers evidence in traderriark infringement and unfair competition cases.
+>
+> Dissenting Opinion 21 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> The cases of Bayer Co. v. United Drug Co. 66 Singer Manufacturing Co.
+> ;
+> v. June Manufacturing Co. and Singer Manufacturing Co. v. Redlich67
+> ;
+> Genes see Brewing Co. v. Stroh Brewing Co. 68 ; Kellogg Co. v. National Biscuit
+> Co.69; Royal Crown Co. v. Coca-Cola Co.70 Gloverv. Ampak, Incorporated'1
+> ; ;
+> Princeton Vanguard LLC v. Frfto-Lay North America, Inc.72 Berner Intern.
+> ;
+> Corp. v. Mars Sales Co.73 and Filipino Yellow Pages Inc. v. Asian Journal
+> ;
+> Publications, Inc.,74 all involved marks which were originally arbitrary,
+> fanciful, or suggestive, but by dint of widespread and common usage, became
+> generic marks for the products or services to which they signify. In other
+> words, these were instances of "genericide."
+> Conversely, the case presented before this Court now is the opposite:
+> that of Ginebra San Miguel's attempt to convince this Court that the Spanish
+> equivalent of a generic word is no longer a generic mark, but rather one
+> susceptible to its exclusive app~opriation.
+> Not even the customary use by Ginebra San Miguel of the word
+> "ginebra" in its products, no matter how extensive or well-documented,75
+> should overcome the absolute bar on the non-registrability of generic words
+> for goods or services. As astutely observed by the Court of Appeals, Ginebra
+> San Miguel's use of the word "ginebra" for alcohol products cannot even be
+> considered exclusive, because the same word is used by other manufacturers
+> and distributors for their own gin or alcohol products. That alone should
+> demonstrate that, regardless of Ginebra San Miguel's tireless efforts, even in
+> the marketplace it has not excluded other distillers and distributors from
+> designating their alcohol produ~ts as some kind of"ginebra."
+> Pursuant to the ponencia's interpretation, generic words for particular
+> goods or services are susceptible of exclusive appropriation regardless of our
+> jurisprudence and the Intellectual Property Code's unqualified provisions.
+> This creates, in words and symbols, an unqualified property right that benefits
+> only the trademark registrant, when trade and service marks-unlike most
+> other forms of property, intellectual or otherwise-are only permitted
+> 66 272 F. 505 (S.D.N.Y. 1921). Concerning the mark "Aspirin" over the medicine acetyl salicylic acid. See (
+> ponencia, p. 34.
+> 67 163 U.S. 169 (l 896) and 132 U.S. 518 (1889). Concerning the mark "Singer" for sewing machines. See
+> ponencia, p. 34.
+> 68 124 F.3d 137 (1997). Concerning the mark "Honey Brown" for beer. See ponencia, p. 30.
+> 69 302 U.S. 111 (1939). Concerning the tradename "Shredded Wheat" for a wheat biscuit. See ponencia, p.
+> 30.
+> 70 892 F.3d 1358 (Fed. Cir. 2018). Concerning the mark "Zero" for zero-calorie drinks. See ponencia, p.
+> 30.
+> 71 74 F.3d 57 (4th Cir. 1996). Concerning the mark "White Tail" for knives. See ponencia, p. 31.
+> 72 786 F.3d 960 (20 l 5). Concerning the mark "Pretzel Crisps" for pretzel crackers. See ponencia, p. 31.
+> 73 987 F.2d 975 (3d Cir. 1993). Concerning the mark "'Air Door" for air curtains. See ponencia, p. 31.
+> 74 198 F.3d 1143 (9th Cir. 1999). Concerning the mark "Filipino Yellow Pages" for a telephone directory.
+> See ponencia, p. 31.
+> 75 Id. at 48-58.
+>
+> Dissenting Opinion 22 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> continuity of exclusive appropriation by proof of use,76 notwithstanding the
+> first-to-file system in the Intellectual Property Code.
+> Courts should take care not to foster monopolistic practices in trade and
+> service mark laws, to the detriment not only of fair competition in the
+> marketplace, but also the free exchange and propagation of shared symbols
+> within and across languages.
+> IV
+> Because Ginebra San Miguel cannot claim to have an exclusive right to
+> use "Ginebra" for Class 33 goods, it follows that it cannot be damaged by the
+> registration by other persons or entities of marks that include the word
+> "ginebra."
+> Although Ginebra San Miguel .has other valid registered marks that
+> contain the word "ginebra," it cannot use those registered marks to oppose or
+> cancel other marks that contain the word "ginebra", as it does not have the
+> right to exclude others from using that word in their own trademarks,
+> especially for goods in Class 33. As held in Ong Ai Gui v. Director of the
+> Philippine Patent Office,77 using a generic term in a trade or service mark is
+> conditioned on the limitation that ''the registrant does not acquire the
+> exclusive right to the descriptive or generic term or word."78 What it acquired
+> are rights over the combinations of words and images that happen to include
+> the word "ginebra," as embodied in its certificates of trademark
+> registrations. 79
+> Here, a review of the records show that the word "ginebra" has been
+> consistently disclaimed in Ginebra's trademark registrations for "Ginebra San
+> Miguel."80 "Ginebra 65" was likewise disclaimed in "Ginebra S. Miguel
+> 65."81 Similarly, til-ie phrase "ginebra mix" was disclaimed in the mark "La
+> Tondefia Cliq! Ginebra Mix & Stylized Letters Ltd. With Crown Device
+> Inside A Rectangle."82
+> It must be pointed out that Section 126 of the Intellectual Property Code
+> 76 Intellectual Property Code, sec. 145 provides:
+> Sec. 145. Duration. - A certificate of registratioil shall remain in force for then (10) years: Provided,
+> That the registrant shall file a declaration of actual use and evidence to that effect, or shall show valid
+> reasons based on the existence of obstacles to such use, as prescribed by the Regulations, within one ( l)
+> year from the fifth anniversary of the date of the registration of the mark. Othernrise, the mark shal1 be
+> removed from the Register by the Office.
+> 77 96 Phil. 673 (1955) [Per .J. Labrador, En Banc].
+> 78 Id. at 677.
+> 79 Coffee Partners, Inc. v. San Francisco Coffee & Roastery, Inc., 628 Phil. 13 (2010) [Per J. Carpio,
+> Second Division l
+> 8 ~ Rollo (G.R. No. 210224), p. 1128 and 1132. Trademark Registration No. 7484 in Class 33 for the goods
+> "'gin".
+> 81 Id at 1135. Trademark Registration No. 53668 in Class 33.
+> & 2 Id at 1147. Trademark Registration No. 4_-1996-11357 in Class 33 for the goods "gin mix".
+>
+> Dissenting Opinion 23 G.R. Nos. 196372, 210224,
+> 216104 & 219632
+> permits disclaimers, through which a mark may still be registered even if a
+> component of it is unregistrable-:
+> SECTION. 126. Disclaimers. - The Office may allow or require the
+> applicant to disclaim an unregistrable component of an otherwise registrable
+> mark but such disclaimer shall not prejudice or affect the applicant's or
+> owner's rights then existing or thereafter arising in the disclaimed matter,
+> nor such shall disclaimer prejudice or affect the applicant's or owner's right
+> on another application of l~ter date if the disclaimed matter became
+> distinctive of the applicant's or owner's goods, business or services.
+> In line with this, Rule 604 of the Rules and Regulations on Trademarks,
+> Service Marks, Trade Names, and Marked or Stamped Containers of 201 7
+> states that generic terms, among others, must be disclaimed in a composite
+> mark:
+> Rule 604. Disclaimers. - The basic purpose of disclaimers is to
+> make of record, that a significant element of a composite mark is not being
+> exclusively appropriated apart from the composite. The following portions
+> of a mark, when forming part ·of the composite mark, must be disclaimed to
+> permit registration, namely:
+> (a) a generic term;
+> (b) a descriptive matter in a composite mark;
+> ( c) a customary term, sign, or indication; or;
+> ( d) a matter which does not function as a trademark, or
+> service mark or a trade name[.]
+> A disclaimer has the purpose of allowing the registration of a mark
+> regardless of the inclusion of an unregistrable component, conditioned on the
+> registrant being disallowed from claiming exclusivity over the unregistrable
+> component. That "Ginebra" is disclaimed in trademark registrations in Class
+> 33 demonstrates that Ginebra San Miguel, Tanduay, or any other entity cannot
+> rely on registered marks containing the word "Ginebra" to prove their
+> exclusive appropriation of this word.
+> As such, the Court of Appeals was incorrect in G.R. Nos. 210224 and
+> 216104 to hold that the dominant feature of Ginebra San Miguel's registered
+> marks is "gipebra," such that it.can exclude others from using or registering
+> marks that contain said word. A disclaimer functions to limit the exclusive
+> appropriation of a registered mark's components when they are
+> unregistrable-and therefore not susceptible to exclusive appropriation
+> under the Intellectual Property Code.
+> /
+> Moreover, although a disclaimed component of a mark may later
+> become registrable due to the acquisition of a secondary meaning, this clause
+>
+> Dissenting Opinion . 24 G .R. Nos. 1963 72, 210224,
+> 216104 & 219632
+> must be read in conjunction with Subsection 123.2. This means that, even if
+> an applicant previously successfully registered marks that contained the
+> generic word, it is clear, under Philippine trademark law and jurisprudence,
+> that no secondary meaning can inure in favor of a generic mark, and that
+> would otherwise transform it into a registrable distinctive mark.
+> As Ginebra San Miguel cannot exclude other enterprises from using the
+> word "ginebra" in their Class 33 marks, it must rely on the strength of its
+> existing registrations "Ginebra San Miguel" (word marks and composite
+> marks) to obtain favorable rulings in its trademark opposition, trademark
+> infringement, and unfair competition cases against Tanduay. There, it cannot
+> be said that the dominant feature of Ginebra San Miguel's marks, namely
+> "Ginebra San Miguel," can be found in Tanduay's "Ginebra Kapitan" mark.
+> Likewise, it cannot be said that that there is a likelihood of confusion between
+> "Ginebra San Miguel" and ''Ginebra ~apitan" among ordinary purchasers of
+> alcohol products.
+> Thus, to find that Tanduay was attempting to imitate or pass its gin
+> products as Ginebra San Miguel's when it chose to include the word "ginebra"
+> in a trademark for a gin product, is to ignore that "ginebra" is a reasonable
+> word to include in a name or mark for alcohol which contains gin, in a country
+> which national language incorporates several Spanish loan words.
+> ACCORDINGLY, I vote as follows:
+> 1. The Petition for Review 'for Certiorari in G.R. No. 196372 is
+> DENIED. The August 13, 2010 Decision and March 25, 2011 Resolution of
+> the Comi of Appeals in CA-G.R. SP No. 112005 are AFFIRMED.
+> 2. The Petitions for Review on Certiorari in G.R. Nos. 2.10224 and
+> 219632 are GRANTED. The Decisions and Resolutions of the Court of
+> Appeals in CA-G.R. SP No. 127255 and CA-G.R. CV No. 100332 are
+> REVERSED AND SET ASIDE. The October 5, 2012 Decision of Branch
+> 211, Regional Trial Court of Mandaluyong City in IP Case No. MC03-0 l is
+> REINSTATED.
+> 3. The Petition for Review on Ce1iiorari in G.R. No. 216104 is
+> GRANTED. The Decision and Resolution of the Couii of Appeals in CA
+> G.R. SP No. 132441 are REVERSED AND SET ASIDE. The September
+> 24, 2013 Decision of the Office of the Director General of the Intellectual
+> Property Office of the Philippines is REINSTATED.
+> Senior Associate Justice
+> '.,,
+> . •._ 2
+> c. · ~:-t

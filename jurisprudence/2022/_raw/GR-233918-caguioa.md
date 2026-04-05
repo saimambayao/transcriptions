@@ -1,0 +1,3250 @@
+# GR-233918-caguioa
+
+**Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: August 9, 2022
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/03/233918-caguioa.pdf)
+
+---
+
+> EN BANC
+> G.R. No. 233918 - FILIPINO SOCIETY OF COMPOSERS, AUTHORS
+> AND PUBLISHERS, INC., petitioner, versus ANREY, INC., respondent.
+> Promulgated:
+> ·----------
+> August 9, 2022
+> x- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+> '------1'¼,~"'-"°~
+> SEPARATE CONCURRING OPINION
+> CAGUIOA, J.:
+> I concur in the result.
+> At the outset, it is important to stress that this case presents an
+> opportunity for the Court to balance the rights of music copyright owners with
+> public interest, as well as to finally elucidate on the scope of the right of public
+> performance and the right of communication to the public.
+> The Filipino Society of Composers, Authors and Publishers, Inc.
+> (FILSCAP), the petitioner in this case, is "a non-stock, non-profit association
+> of composers, lyricists, and music publishers"' accredited by the Intellectual
+> Property of the Philippines (IPO) to perform the role of a Collective
+> Management Organization (CMO), and is a member of the Paris-based
+> International Confederation of Societies of Authors and Composers
+> (Confederation Internationale des Societes d'Auteurs et Compositeurs or
+> CISAC), the umbrella organization of all composer societies worldwide.
+> Being the designated CMO of composers, lyricists, and music publishers,
+> FILS CAP assists in "protecting the intellectual property rights of its members
+> by licensing perfonnances of their copyright music."2 For this purpose,
+> FILSCAP gets assigned the copyright by its members,3 and, as assignee, then
+> collects royalties which come in the form of license fees from end-users who
+> intend to "publicly play, broadcast, stream, and to a certain extent (reproduce)
+> any copyrighted local and international music of its members."4
+> This case deals with the use of copyrighted music by respondent Anrey,
+> Inc., (Anrey), an operator of three Sizzling Plate restaurants (Anrey's
+> restaurants) in Baguio City.5
+> After FILSCAP representatives monitored the restaurants operated by
+> Anrey and found these establishments to have played various works included
+> Ponencia, p. 8.
+> 2 Id.
+> 3 Id.
+> 4 Id.
+> 5 Id., p. 3.
+>
+> Separate Concurring Opinion 2 G.R. No. 233918
+> in FILSCAP's repertoire, FILSCAP sent demand letters informing Anrey's
+> restaurants of their obligations under Republic Act No. (RA) 8293, otherwise
+> known as the Intellectual Property Code (IP Code), and demanding that they
+> pay the appropriate amount of license fees and/or that they obtain the
+> necessary license from FILSCAP.
+> Anrey's restaurants, however, refused to heed the demand, prompting
+> FILSCAP to file a complaint for copyright infringement against Anrey. In its
+> Answer to the complaint, Anrey questioned FILSCAP's authority to enforce
+> music copyright and - without explicitly raising as defenses any of the
+> exceptions to copyright infringement under the law - denied that its
+> restaurants committed copyright infringement.
+> The ponencia of Associate Justice Rodi! V. Zalameda correctly rules in
+> favor of FILS CAP, finding that Anrey committed copyright infringement by
+> playing, without a license from FILSCAP, copyrighted music through loud
+> speakers in the dining areas of its restaurants.6
+> I concur with the finding of copyright infringement in the ponencia, and
+> agree that the acts of Anrey are not analogous to fair use. 7 Yet, I write this
+> separate opinion to offer a nuanced discussion on the different limitations on
+> copyright and, more particularly, the· concept of fair use. I also express
+> reservations as to the manner in which the ponencia deals with the rights of
+> "public performance" and "communication to the public." I submit that:
+> I. The Court is called upon not to simply discuss the
+> provisions on copyright protection, but to extensively
+> delve into its existing limitations, namely:
+> a. Limitations on copyright
+> b. Fair Use
+> Fair Use Doctrine
+> 1.
+> Fair Use in the Philippines
+> 11.
+> The Four Fair Use Factors
+> 111.
+> 1. First Factor: The
+> Purpose and Character
+> ofUse
+> 2. Second Factor: Nature
+> of Copyrighted Work
+> ' Id. at 33.
+> 7 Id. at 28-34.
+>
+> Separate Concurring Opinion 3 G.R. No. 233918
+> 3. Third Factor: Amount
+> and Substantiality of
+> the Portion Used
+> 4. Fourth Factor: The
+> Effect of the Use
+> Upon the Potential
+> Market for or Value of
+> the Copyrighted Work
+> c. The acts of Anrey do not fall under any of the
+> exceptions to copyright infringement under the
+> IP Code.
+> II. The law itself distinguishes the right of "public
+> performance" from the right of "communication to the
+> public," either right being enforceable through FILSCAP.
+> a. The right of public performance and the right to
+> communicate to the public are two separate and
+> distinct rights.
+> b. As a general rule, a single radio reception of a
+> copyrighted musical work cannot be both a
+> public performance and a communication to the
+> public.
+> c. Any further communication to a "new public"
+> beyond the original broadcast is an exercise of
+> the right to coinmunicate to the public under
+> Section 17 7. 7 in relation to 17 1.3 of the IP Code.
+> d. Anrey exercised only the right · of
+> communication to the public, and not the right of
+> public performance.
+> III. Anrey must pay FILSCAP actual damages.
+> DISCUSSION
+> I. THE COURT IS CALLED UPON NOT TO SIMPLY DISCUSS THE
+> PROVISIONS ON COPYRIGHT PROTECTION, BUT TO
+> EXTENSIVELY DELV E INTO ITS EXISTING LIMITATIONS
+> As mentioned, the primordial issue in this case is the existence of
+> copyright infringement. As correctly held by the ponencia, in order to prove
+> copyright infringement, the copyright owner must not only be able to
+> demonstrate that the infringers violated at least one economic right under
+> Section 177 of the IP Code, but must also show that "the act complained 0£
+>
+> Separate Concurring Opinion 4 G.R. No. 233918
+> must not fall under any of the limitations on copyright under Section 184 of
+> the [IP Code] or [amount] to fair use of copyrighted work."8 Clearly,
+> therefore, in resolving the main issue of copyright infringement, the Court is
+> called upon to consider and delve into the exceptions to copyright
+> infringement (i.e., the Limitations on Copyright under Section 184 of the IP
+> Code and Fair Use ofa Copyrighted Work under Section 185 of the IP Code)
+> because they are crucial in determining whether copyright infringement
+> exists.
+> Notably, even if Anrey has not explicitly raised as affirmative defenses
+> the exceptions to copyright infringement, its defenses are akin to these
+> exceptions, as will be discussed in more detail below. In any event, the fact
+> that Anrey did not expressly raise these exceptions as issues in the present
+> case is of no moment.
+> In the first place, Spouses Campos v. Republic9 explains that the Court
+> may consider issues not raised by the parties if these are necessary at arriving
+> at a just decision, serve the interest of justice, and necessary to rule on the
+> questions properly assigned as errors:
+> The general rule that an assignment of error is essential to appellate
+> review and only those errors assigned will be considered applies in the
+> absence of certain exceptional circumstances. As exceptions to the rule, the
+> Court has considered grounds not raised or assigned as errors in instances
+> where: (I) grounds not assigned as errors but affecting jurisdiction over the
+> subject matter; (2) matters not assigned as errors on appeal but are evidently
+> plain or clerical errors within the contemplation of the law; (3) matters not
+> assigned as errors on appeal, whose consideration is necessary in arriving
+> at a just decision and complete resolution of the case or to serve the interest
+> of justice or to avoid dispensing piecemeal justice; (4) matters not
+> specifically assigned as errors on appeal but raised in the trial court and are
+> matters of record having some bearing on the issue submitted which the
+> parties failed to raise or which the 'lower court ignored; (5) matters not
+> assigned as errors on appeal but are closely related to the assigned error/s;
+> and ( 6) matters not assigned as errors on appeal, whose determination is
+> necessary to rule on the question/s properly assigned as errors. The present
+> case falls into the exceptions. We find no error by the CA in resolving the
+> issues on the nature and duration of the petitioners' possession and on the
+> alienable character of the subject land. These issues were apparently not
+> raised by the Republic in its appeal before the CA, but are crucial in
+> determining whether the petitioners have registrable title over the subject
+> land. In Mendoza v. Bautista, the Court held that the appellate court reserves
+> the right, resting on its public duty, to take cognizance of palpable error on
+> the face of the record and proceedings, and to notice errors that are obvious
+> upon inspection and are of a controlling character, in order to prevent a
+> miscarriage of justice due to oversight. 10 (Emphasis and citations omitted)
+> Secondly, for the immediate protection of the general public against an
+> overly expansive interpretation of the coverage of music copyright protection,
+> Id., p. 7.
+> 9 728 Phil. 450 (2014).
+> 10 Id. at 456-457.
+>
+> Separate Concurring Opinion 5 G.R. No. 233918
+> the Court's verdict must also thoroughly expound on and construe more
+> definitively the guardrails already recognized under the law. This is part
+> and parcel of the Court's function not only to adjudicate the rights of the
+> parties but also, or more so, to interpret the law for the guidance of all. After
+> all, even the ponencia acknowledges that an overly broad interpretation could
+> cause even ordinary music listeners to live in fear, and is thus "a cause for
+> concem."11
+> Music copyright is not a topic often discussed in our jurisprudence.
+> Philippine jurisprudence has not yet caught up with the recent technological
+> advances that have facilitated the access to, and multiplied the manner of use
+> of, copyrighted musical works. Accordingly, even as the Court, by its decision
+> in this case, shows respect for the copyright owners' rights, it also must
+> prudently temper the wide-ranging effects of this decision in order to protect
+> the public when using copyrighted music under the instances allowed by law.
+> This the Court can do because in determining whether Anrey committed
+> copyright infringement, it is also necessary to explain why its acts do not fall
+> under the exceptions to copyright infringement.
+> Lastly, the discussion of the exceptions to copyright infringement is
+> necessary - especially for this landmark case - for the Court to balance the
+> competing interests involved in copyright protection.
+> As stated in the ponencia, intellectual property has a social function
+> under the Constitution.12 Section 2 of the IP Code underscores that the
+> ultimate objective of having an intellectual property system, which includes
+> the means of protecting copyrights, is to benefit society, viz.:
+> SECTION 2. Declaration of State Policy. -The State recognizes
+> that an effective intellectual and industrial property system is vital to the
+> development of domestic and creative activity, facilitates transfer of
+> technology, attracts foreign investments, and ensures market access for
+> our products. It shall protect and secure the exclusive rights of scientists,
+> inventors, artists and other gifted citizens to their intellectual prope11y and
+> creations, particularly when beneficial to the people, for such periods as
+> provided in this Act.
+> The use of intellectual property bears a social function. To this
+> end, the State shall promote the diffusion of knowledge and
+> information for the promotion of national development and progress
+> and the common good.
+> It is also the policy of the State to streamline administrative
+> procedures ofregistering patents, trademarks and copyright, to liberalize the
+> registration on the transfer of technology, and to enhance the enforcement
+> of intellectual property rights in the Philippines. (Emphasis supplied)
+> Indeed, the delicate balance involved in copyright protection will be
+> maintained and strengthened if'the Court decides this case fully and wholly,
+> 11 Ponencia, p. 38.
+> 12 Id.at 11-15.
+>
+> Separate Concurring Opin1on 6 G.R. No. 233918
+> considering its implications, and not simply deciding it in a vacuum. This
+> delicate balancing is warranted because the expansive breadth of rights
+> conferred upon copyright holders may be used to the detriment of everyone
+> else. A plain reading of the copyright provisions in the IP Code readily
+> conveys that the law may be "weaponized" by copyright owners because of
+> its broad coverage and because of its penal provisions. In this light, it is
+> imperative to elaborate on the exceptions to copyright infringement - to
+> significantly shape the contours of music copyright jurisprudence movmg
+> forward.
+> Because of the dearth of jurisprudence discussing the nuances of music
+> copyright, resolving the rights of the parties herein without amply
+> emphasizing their reasonably defined edges may do more harm than good and
+> tilt the balance in favor of copyright holders to the prejudice of the rest of
+> society. Thus, notwithstanding the fact that Anrey may not have expressly
+> raised as defenses any of the exceptions to copyright infringement, the Court
+> is called upon to be proactive in reassuring the public that not all instances of
+> using copyrighted music will be met with sanctions. Surely, this proactive
+> stance in encouraging others to use protected material in a manner consistent
+> with the copyright owners' rights is in line with the role of the State to
+> "promote the diffusion of knowledge and information for the promotion of
+> national development and progress and the common good."13
+> Section 177 of the IP Code makes it clear that a copyright over
+> protected works is a bundle of exclusive economic rights in favor of the
+> author. Generally speaking, these comprehensively encompass the several
+> means by which copyrighted material may be used, viz.:
+> CHAPTER V
+> Copyright or Economic Rights
+> SECTION 177. Copyright or Economic Rights. - Subject to the provisions
+> of Chapter VIII, copyright or economic rights shall consist of the exclusive
+> right to carry out, authorize or prevent the following acts:
+> 177 .1. Reproduction of the work or substantial portion of
+> the work;
+> 1 77 .2. Dramatization, translation, adaptation, abridgment,
+> arrangement or other transformation of the work;
+> 177.3. The first public distribution of the original and each
+> copy of the work by saie or other forms of transfer of
+> ownership;
+> 177.4. Rental of the original or a copy of an audiovisual or
+> cinematographic work, a work embodied in a sound
+> recording, a computer program, a compilation of data
+> and other materials or a musical work in graphic
+> 13 IP CODE, Sec. 2.
+>
+> Separate Concurring Opinion 7 G.R. No. 233918
+> form, irrespective of the ownership of the original or
+> the copy which is the subject of the rental; xx x
+> 177.5. Public display .of the original or a copy of the work;
+> 177.6. Public performance of the work; and
+> 177. 7. Other communication to the public of the work. (Sec.
+> 5, P.D. No. 49a) (Emphasis supplied)
+> Section 21 7 of the IP Code, in tum, provides penal sanctions for
+> copyright infringement:
+> SECTION 217. Criminal Penalties. - 217.1. Any person infringing any
+> right secured by provisions of Part IV of this Act or aiding or abetting such
+> infringement shall be guilty of a crime punishable by:
+> (a) Imprisonment of one (1) year to three (3) years plus
+> a fine ranging from Fifty thousand pesos (PS0,000) to
+> One hundred fifty thousand pesos (PlS0,000) for the
+> first offense.
+> (b) Imprisonment of.three (3) years and one (1) day to six
+> (6) years plus a fine ranging from One hundred fifty
+> thousand pesos (PlS0,000) to Five hundred thousand
+> pesos (PS00,000) for the second offense.
+> (c) Imprisonment of six (6) years and one (1) day to nine
+> (9) years plus a. fine ranging from Five hundred
+> thousand pesos (PS00,000) to One million five
+> hundred thousand pesos (Pl,500,000) for the third
+> and subsequent offenses.
+> (d) In all cases, subsidiary imprisonment in cases of
+> insolvency. (Emphasis supplied)
+> Based on the foregoing, it may be readily concluded that these penal
+> sanctions pertain to wide-ranging conduct, including acts involving
+> copyrighted material which are arguably commonplace in today's world. This,
+> in effect, further narrows the already thin line dividing infringement and
+> allowable use or reproduction. To illustrate, there is yet no categorical
+> guidance on whether the followi'ng ordinary or day to day situations fall within
+> the definition of copyright infringement and whether these people may be
+> subjected to the penal provisions of the law:
+> (l)An organization established to promote awareness of the
+> hardships endured by street children arranges an enclosed
+> gallery in the high school cafeteria showcasing its members'
+> photographs of street children. The organization charges a
+> viewing fee of 10 pesos to visitors to raise funds to cover its
+> administrative and operational expenses. To improve the
+> atmosphere of the gallery, the organization plays the entire
+>
+> Separate Concurring Opinion 8 G.R. No. 233918
+> album of Smokey Mountain which includes the song
+> "Paraiso."
+> (2)A taxi driver listens to the radio inside his car for his own
+> indulgence but regularly receives huge tips from his
+> passengers for playing music through his radio.
+> (3) A small carinderia owner sings the entirety of her favorite
+> songs all day to entertain her customers who keep coming
+> back.
+> ( 4) A teenager plays the Eraserheads album in the background to
+> improve the ambiance in a garage sale.
+> (5)A customer sings all the hit songs of Queen onstage in a
+> karaoke bar where more than 500 customers regularly go
+> every night.
+> Even assuming that the copyright owners or their representatives do
+> not, in reality, enforce their rights against ordinary individuals like those
+> described in the examples above, this does not change the fact that their acts
+> may fall under the definition of copyright infringement and potentially make
+> them subject to penal sanctions. In fact, the lack of jurisprudence involving
+> these ordinary people doing everyday activities precisely serves as the
+> impetus for why the Court should take a proactive stance in elaborating on the
+> limitations of copyright law.
+> In view of the unlikelihood that jurisprudence will categorically declare
+> their acts as non-infringing - whether because cases have not historically
+> been filed against them or whether because these disputes have always ended
+> up in settlement - the Sword of Damocles would hover indefinitely over the
+> heads of these ordinary people doing everyday activities. In this very real
+> sense, therefore, it behooves the Court to take an active stance, and to not rely
+> on the benevolence of copyright holders on the naYve belief that copyright
+> holders enforcing their rights will never tyrannically bludgeon ordinary
+> people using copyrighted material in common situations.
+> To be sure, the exceptions to copyright infringement are expressly
+> provided under the IP Code. As well, the ponencia already addresses how
+> none of these exceptions apply to the present case.14 However, since these
+> exceptions are certainly difficult to understand, a more extensive yet nuanced
+> rational interpretation of the Court would still be necessary - particularly in
+> order to categorically give the assurance that ordinary people do not have to
+> fear penal sanctions for using copyrighted musical works. To my mind, this is
+> 14 Ponencia, pp. 26-28. The ponencia observes that none of the exceptions under Sec. 184 apply in this
+> case, and clarifies that Section 184 (I) applies only to .institutions for charitable and educational purposes.
+> Id. at 28-34. The ponencia also applied the four-factors under Section 185 of the IP Code and concludes
+> that Anrey's acts are not analogous with fair use. ·
+>
+> Separate Concurring Opinion 9 G.R. No. 233918
+> vital in this case, especially in light of the dangers an overly expansive
+> interpretation of the coverage of music copyright protection could entail.
+> If the Court is to do its part in the delicate balancing of interests,
+> copyright protection mu~t, in the first place, not be seen as towering fortresses
+> intended to define the metes and bounds of the owners' exclusive rights and
+> to keep the trespassers out. While the Court is called upon to be steadfast in
+> recognizing when the defensive ramparts have been breached, it must also
+> reassure that these imposing edifices - while aiming to protect the interests
+> of the owners - may also be used as platforms for the rest of society to reach
+> loftier heights. Indeed, if the spirit of copyright protection as a catalyst for the
+> progress or betterment of society is to be genuinely upheld, the Court must
+> place due emphasis on how the law itself limits the coverage of copyright
+> protection in a manner that already protects ordinary people in ordinary
+> situations. At the risk of being repetitive, encouraging other people to use
+> copyrighted material in a manner consistent with copyright owners'
+> rights is also important in order to "promote the diffusion of knowledge
+> and information for the promotion of national development and progress
+> and the common good."
+> The ponencia aptly discusses the four factors of the fair use doctrine, 15
+> and holds that Anrey failed to demonstrate that the use of FILSCAP's
+> copyrighted works by its restaurants was either fair or covered by the
+> limitations on copyright.16 However, in view of the foregoing compelling
+> considerations, for the guidance of the Bench, the Bar, and the public, I submit
+> the following discussions on the exceptions to copyright infringement in
+> Sections 184 and 185 of the IP Code.
+> A.
+> Limitations on Copyright
+> Section 184 of the IP Code reads:
+> SECTION 184. Limitations on Copyright. - 184.1. Notwithstanding the
+> provisions of Chapter V, the following acts shall not constitute infringement
+> of copyright:
+> (a) The recitation or performance of a work, once it has been
+> lawfully made accessible to the public, if done privately
+> and free of charge or if made strictly for a charitable or
+> religious institution or society; (Sec. I 0( I), P .D. No. 49)
+> (b) The making of quotations from a published work if they
+> are compatible with fair use and only to the extent
+> justified for the _purpose, including quotations from
+> newspaper articles and periodicals in the form of press
+> summaries: Provided, That the source and the name of
+> 15 Id. at 28-34.
+> 16 Id. at 26-34.
+>
+> Separate Concurring Opinion 10 G.R. No. 233918
+> the author, if appearing on the work, are mentioned;
+> (Sec. 11, third par., P .D. No. 49)
+> ( c) The reproduction or communication to the public by
+> mass media of articles on current political, social,
+> economic, scientific or religious topic, lectures,
+> addresses and other works of the same nature, which are
+> delivered in public if such use is for information
+> purposes and has not been ·expressly reserved: Provided,
+> That the source is clearly Indicated; (Sec. 11, P.D. No.
+> 49)
+> ( d) The reproduction and communication to the public of
+> literary, scientific or artistic works as part of reports of
+> current events by means of photography,
+> cinematography or broadcasting to the extent necessary
+> for the purpose; (Sec. 12, P.D. No. 49)
+> ( e) The inclusion of a work in a publication, broadcast, or
+> other communication to the public, sound recording or
+> film, if such inclusion is made by way of illustration for
+> teaching purposes and is compatible with fair use:
+> Provided, That the source and the name of the author, if
+> appearing in the work, are mentioned;
+> (f) The recording made in schools, univers1t1es, or
+> educational institutions of a work included in a broadcast
+> for the use of such schools, universities or educational
+> institutions: Provided, That such recording must be
+> deleted within a reasonable period after they were first
+> broadcast: Provided, farther, That such recording may
+> not be made from audiovisual works which are part of
+> the general cinema repertoire of feature films except for
+> brief excerpts of the work;
+> (g) The making of ephemeral recordings by a broadcasting
+> organization by means of its own facilities and for use in
+> its own broadcast;
+> (h) The use made of a work by or under the direction or
+> control of the Government, by the National Library or by
+> educational, scientific or professional institutions where
+> such use is in the public interest and is compatible with
+> fair use;
+> (i) The public performance or the communication to the
+> public of a work, in a place where no admission fee is
+> charged in respect of such public performance or
+> communication, by a club or institution for charitable or
+> educational purpose only, whose aim is not profit
+> making, subject to such other limitations as may be
+> provided in the Regulations; (n)
+> G) Public display of the original or a copy of the work not
+> made by means of a film, slide, television image or
+> otherwise on screen or by means of any other device or
+> process: Provided, That either the work has been
+>
+> Separate Concurring Opinion 11 G.R. No. 233918
+> published, or, that.the original or the copy displayed has
+> been sold, given a':"ay or otherwise transferred to another
+> person by the author or his successor in title; and
+> (k) Any use made of a work for the purpose of any judicial
+> proceedings or for the giving of professional advice by a
+> legal practitioner.
+> This Section expressly provides for specific situations involving the use
+> of copyrighted material which do not constitute infringement.
+> In this regard, particularly relevant to the aforementioned examples of
+> day-to-day situations - and ultimately, the issue in this case - are
+> paragraphs (a) and (i) of Section 184.1, which respectively involve (i) "the
+> recitation or performance" of a work in private places, and (ii) the "public
+> performance" and/or "communication to the public" of copyrighted works in
+> public or publicly acces;,ible places. Under these paragraphs, in order for a
+> recitation, performance and/or the communication of a work to be exempt, the
+> following requisites should be present:
+> Under Section 184.1 (a):
+> (i) The recitation or performance is done (a) privately and
+> free of charge or (b) made strictly for a charitable or
+> religious institution or society; and
+> (ii) The work has been lawfully made accessible to the public
+> prior to the recitation or performance
+> Under Section 184.l(i):
+> (i) The place where the public performance and/or
+> communication to the public is made does not charge any
+> admission fee in respect of such performance or
+> communication;
+> (ii) The public performance and/or communication to the
+> public is made by a club or institution: (a) for charitable or
+> educational purpose only; and (b) whose aim is not profit
+> making; and
+> (iii) Such other requirei11ents that may be prescribed under the
+> implementing rules and regulations promulgated by the
+> Director General of the IPO.17
+> Regarding the first requisite of Section 184.1 (a), for this exemption to
+> apply, the recitation or performance should be done privately and completely
+> free of charge - unless the same is made strictly for a charitable or religious
+> 17 Currently, the !PO has not prescribed any additional requirements for the application of this exemption
+>
+> Separate Concurring Opinion 12 G.R. No. 233918
+> institution or society. Corollarily, a person could avail of the exemption under
+> Section 184.l(a) even if the recitation or performance were to be done
+> publicly and/or for compensation, provided that the same is made strictly for
+> a charitable or religious institution or society.
+> Notably, the IP Code does not specifically define the term "privately."
+> Since Congress did not assign a statutory definition to the term "privately,"
+> this term should thus be understood in its plain and ordinary sense,18 i.e.,
+> "relating or belonging to an individual, opposed to the public or the
+> government."19 Considering, however, that the term "public," the commonly
+> accepted antonym of"private," is given a technical meaning elsewhere in the
+> IP Code, then resort could also be made to this definition in order to construe
+> what "privately" as contemplated under Section 184.l(a) means. In this
+> regard, Section 171.6 of the IP Code provides that a performance of a sound
+> recording will be deemed as "public" if it would entail "making the recorded
+> sounds audible at a place or at places where persons outside the normal circle
+> of a family and that family's closest social acquaintances are or can be present,
+> irrespective of whether they are or can be present at the same place and at the
+> same time, or at different places and/or at different times."20
+> In other words, construing "privately" in its ordinary sense (i.e., as the
+> opposite of "publicly"), and coupled with the definition of "public" under
+> Section 171.6, then this term should simply be understood to refer to situations
+> where the work is not made "audible at a place or at places where persons
+> outside the normal circle of a family and that family's closest social
+> acquaintances are or can be present." After all, it is a settled principle of
+> statutory construction that "words used in the Constitution or in the statute
+> must be given their ordinary meaning except where technical terms are
+> employed."21 As well, the law must not be read in truncated parts, and "the
+> whole and every part thereof must be considered in fixing the meaning of any
+> of its parts in order to produce a harmonious whole."22
+> Meanwhile, regarding the first requisite of Section 184.1 (i), in contrast
+> with the first requisite of Section 184. l(a), it should be clarified that based on
+> the plain text of paragraph (i) of Section 184, 23 charging an admission fee, per
+> se, does not take out an otherwise allowable "performance" or
+> "communication" from this exemption. Rather, the admission fee must
+> specifically be "charged in respect of such performance or communication."
+> Thus, if an admission fee is charged for some other purpose not otherwise
+> 18 Commissioner of Internal Revenue v. Bank of the Philippine Islands, 525 Phil. 624, 632-633(2006);
+> Commissioner of Internal Revenue v. Bank of Commerce, 498 Phil. 673, 684 (2005); Romualdez v.
+> Sandiganbayan, 479 Phil. 265, 287-288 (2004); Estradav. Sandiganbayan, 421 Phil. 290,348 (2001).
+> See Commissioner of Internal Revenue v. Court ofA ppeals, 363 Phil. 130, 138 (I 999), citing Mustang
+> Lumber Inc. v. Court ofA ppeals, 327 Phil. 214 (1996), further citing RUBEN E. AGPALO, STATUTORY
+> CONSTRUCTION, (2"' Ed. 1990), p. 131.
+> 19 Private, Black's Law Dictionary (9'' Edition) (2009), p. 1315.
+> 20 IP CODE, Sec. 171.6.
+> 21 FreuhaufElectronics v. Technology Electronics Assembly, 800 Phil. 721, 747 (2016).
+> 22 Philippine International Trading Corporation v. Commission on Audit, 635 Phil. 448,454 (2010).
+> 23 The provision specifically exempts places "where no admission fee is charged in respect of such public
+> performance or communication." (Emphasis supplied)
+>
+> Separate Concurring Opinion 13 G.R. No. 233918
+> related to the perfonnance or communication, then the latter could still be
+> exempt under this paragraph.
+> Anent the second requisite of Section 184.l(i), it must be underscored
+> that not only must the club or institution be for a "charitable or educational
+> purpose," but it must also be "non-profit." Thus, to be exempt, the club or
+> institution must not only first qualify as either a charitable institution, i.e., it
+> "provide[s] for free goods and services to the public which would otherwise
+> fall on the shoulders of government,"24 or an educational institution, i.e., it
+> must be a school, seminary, college or similar educational establishment
+> under the formal school systein;25 but also, said club or institution must
+> likewise be "non-profit," such that "no net income or asset accrues to or
+> benefits any member or specific person, with all [its] net income or asset[s]
+> devoted to the institution's purposes and all its activities conducted not for
+> profit.
+> ,,26
+> Going back to the examples of commonplace situations where
+> copyrighted materials are used, even if the organization in the first example27
+> plays the entirety of the copyrighted musical work (i.e., the entire album of
+> Smokey Mountain which includes the song "Paraiso.") in a public place, this
+> does not constitute copyright infringement because it falls under Section
+> l 84(i).28 While the songs are publicly performed by the organization and an
+> admission fee is being charged, the fee is not charged with respect to the
+> public performance of the copyrighted music and the organization carrying
+> out the public performance is for a charitable purpose and its aim is not profit
+> making.
+> In contrast to Section 184 which specifies the "Limitations on
+> Copyright," Section 185 of the IP Code on Fair Use provides several factors
+> that may encompass a multitude of situations not specifically contemplated
+> under the law.
+> B.
+> Fair Use
+> i. Fair Use Doctrine
+> 24 Commissioner of Internal Revenue v. St. Luke's Medical Center, 805 Phil. 607, 618 (20 I 7), citing
+> Commissioner ofI nternal Revenue v. St. Luke's Medical Center, 695 Phil. 867, 895 (20 I 2); Lung Center
+> oft he Philippines v. Quezon City, 477 Phil. 141 (2004).
+> 25 See Commissioner ofi nternal Revenue v. Court ofA ppeals, 358 Phil. 562 ( 1998), citing 84 CJS 566).
+> 26 Commissioner ofI nternal Revenue v. St: Luke's Medical Center, supra note 24, at 617-618.
+> 27 (I) An organization intended to promote awareness of the hardships endured by street children arranges
+> an enclosed gallery in the high school C<)feteria showcasing its members' photographs of street children.
+> The organization charges a viewing fee of IO pesos to visitors to cover its administrative and operational
+> expenses. To improve the atmosphere of the gallery, the organization plays the entire album of Smokey
+> Mountain which includes the song "Paraiso."
+> 28 IP CODE, Sec. 18 (i): "The public performance or the communication to the public of a work, in a place
+> where no admission fee is charged in respect of such public perfonnance or communication, by a club
+> or inst(tu~im~ for charitable or education.al purpose only, whose aim is not profit making, subject to such
+> other hm1tat1ons as may be provided in the Regulations[.)"
+>
+> Separate Concurring Opinion 14 G.R. No. 233918
+> Aside from the specific exceptions and limitations contemplated under
+> Section 184 of the IP Code, the law also provides a statutory framework that
+> may be used as a guide in determining whether an unlicensed use of a
+> copyrighted work falls within fair use and consequently, outside the scope of
+> copyright infringement. Specifically, Section 185 provides as follows:
+> SECTION 185. Fair Use ofa Copyrighted Work. - 185.1. The fair use of
+> a copyrighted work for criticism, comment, news reporting, teaching
+> including multiple copies for classrqom use, scholarship, research, and
+> similar purposes is not an infringement of copyright x x x. In determining
+> whether the use made of a work in any particular case is fair use, the factors
+> to be considered shall include:
+> (a) The purpose and character of the use, including whether
+> such use is of a commercial nature or is for non-profit
+> educational purposes;
+> (b) The nature of the copyrighted work;
+> (c ) The amount and substantiality of the portion used in
+> relation to the copyrightedwork as a whole; and
+> ( d) The effect of the use upon the potential market for or
+> value of the copyrighted work.
+> Copyright is defined as the right granted by a statute to the proprietor
+> of an intellectual creation for its exclusive use and enjoyment.29 Copyright
+> protection is extended to creators of intellectual properties primarily to
+> promote their personal and economic gain over their creations.30 Although
+> copyright protection inspired and encouraged a great deal of artistic and
+> ingenious minds, it also effectively created a monopoly over the use of certain
+> information, to the detriment of public availability and accessibility of
+> literature, music, and other arts.31 This quandary created the need to balance
+> these two conflicting interests, and led to the development, and eventually the
+> codification of the Doctrine of Fair Use.32
+> The Doctrine of Fair Use is "judge-made."33 Its origin may be traced
+> back to the fair abridgment cases litigated in English courts in the early·
+> l 700s,34 including the leading case of Gyles v. Wilcox, Barrow, and Nutt.35
+> 29 Dissenting Opinion of Chief Justice Hilario Davide, Jr. in Habana v. Robles, 369 Phil. 764, 787 (I 999).
+> 30 Id. at 789.
+> 3l Pedro Jose Bernardo, TRANSFORMA TIVE ADAPT AT JON, PERFORMANCE, AND FAIR USE OF LITERARY AND
+> DRAMATIC WORKS: DELINEATING THE RIGHTS OF PLAYWRIGHTS AND ADAPTERS, pp. 619-620, citing
+> Brad Sherman & Lionel Bentley, THE MAKING OF MODERN INTELLECTUAL PROPERTY LAW (2000), p.
+> 302.
+> Id.
+> 32
+> 33 Natanel, Neil Weinstock, MAKING SENSE. OF FAIR USE (2011), p. 719, available at
+> <https://escholarship.org/content/qt5mh7w8hc/qt5mh7w8hc.pdf>, citing Matthew Sag, THE PRE
+> HISTORY OF FAIR USE, 76 BROOK. L. REV. (forthcoming 2011).
+> 34 Id.
+> 35 [1741] 2 Atk. 141, cited in PRIMARY SOURCES ON COPYRIGHT (1450-1900), eds L. Bently & M.
+> Kretschmer, available at <https://web.archive.org/web/20110725200047/http://www.copyrighthistory.org
+> /cgi-bin/kleioc/00 I O/exec/showScreen/%22uk_ 1741 _im_ 001_0001.jpg%22>.
+>
+> Separate Concun-ing Opinion 15 G.R. No. 233918
+> This case involved a bookseller,· Fletcher Gyles (Gyles), who sought to enjoin
+> the printing of a book titled "Modern Crown Law," "it being suggested to be
+> colourable only, and in fact borrowed verbatim from Sir Matthew Hale's
+> Pleas oft he Crown."36 In ruling in favor of Gyles, the Court declared that an
+> abridgment of a book that is fairly made may, "with great propriety be called
+> a new book,"37 because ''the invention, learning, and uudgment] of the author
+> are also shown in it."38 In this case however, the Court ruled that the "Modern
+> Crown Law" is only a colorable reproduction, not a fair abridgment of the
+> "Pleas oft he Crown," and therefore, a mere evasion of the statute and should
+> not be allowed.39
+> Through time, this Doctrine of Fair Abridgment evolved and shaped
+> the modem idea and concept of fair use that is currently incorporated in
+> copyright laws, including the Copyright Act of 1976 of the United States
+> (US), and the IP Code of the Philippines.
+> The Doctrine of Fair Use .was first launched in American jurisprudence
+> in 1841 in the case of Folsom v. Marsh.40 In this case, the US Circuit Court
+> for the District of Massachusetts ruled that the reproduction of 353 pages of
+> President George Washington's papers in the two-volume work titled "The
+> Life of Washington in the Form of an Autobiography," published by
+> defendant, was not fair use and therefore, constituted "an act of piracy."41
+> More importantly, in said case, Justice Joseph Story first proposed the four
+> factors of fair use that would later be integrated into the US Copyright Act of
+> 1976, to wit:
+> In short, we must often, in deciding questions of this sort, look to the nature
+> and objects of the selections made, the quantity and value of the
+> materials used, and the degree in which the use may prejudice the sale,
+> or diminish the profits, or supersede the objects, of the original work.42
+> (Emphasis and underscoring supplied)
+> Fair use has since been recognized as one of the acceptable affirmative
+> defenses against allegations of copyright infringement.
+> In Campbell v. Acuff-Rose Music, Inc.43 (Campbell), a case concerning
+> a parody of the popular song "Pretty Woman," the Supreme Court of the
+> United States (SCOTUS) definitively held that "fair use is an affirmative
+> defense, so doubts about whether a given use is fair should not be resolved in
+> favor of the self-proclaimed pai'odist."44 In order to validly raise this defense,
+> it is not enough to simply allege fair use. Statute and jurisprudence require the
+> 36 Id.
+> 37 Id. at 143.
+> 38 Id.
+> 39 See id.
+> 40 Supra note 31, at 302.
+> 41 See Case Summary, Outcome, 9 F. Cas. 342, 344 (C.C.D. Mass. 1841 ).
+> 42 Id. at 348.
+> 43 510US569(1994).
+> 44 Id. at 599.
+>
+> ,
+> Separate Concurring Opinion 16 G.R. No. 233918
+> alleged infringer to prove that his or her use or reproduction is compatible
+> with fair use, using as guide the four fa~r use factors enumerated in copyright
+> laws.
+> At present, the Doctrine of Fair Use is not available in most European
+> countries, which predominantly have civil law systems.45 The copyright laws
+> of European countries do not provide for a broad fair use exception, unlike
+> the Copyright Act of 1976 of the US and the IP Code of the Philippines. On
+> the other hand, they provide a list of specific uses of copyrighted works, akin
+> to Section 184 of the IP Code, _w hich are considered exceptions to
+> infringement. Perhaps, the closest to the Doctrine of Fair Use would already
+> be the Doctrine of Fair Dealing found in the copyright law of the United
+> Kingdom (UK), also known as the Copyright, Design, and Patents Act of
+> 1988. Unlike fair use, however, the defense of fair dealing is less subjective
+> and may only be applied in the following cases: (1) non-commercial research;
+> (2) criticism review and news reporting; and (3) caricature, parody and news
+> reporting, to wit:
+> Section 29. Research and private study:
+> (1) Fair dealing with a work for the purposes ofresearch for
+> a non-commercial purpose does not infringe any
+> copyright in the work provided that it is accompanied by
+> a sufficient acknowledgement.
+> xxxx
+> Section 30. Criticism, review, and news reporting:
+> (1) Fair dealing with a work for the purpose of criticism or
+> review, of that or another work or of a performance of a
+> work, does not infringe any copyright in the work
+> provided that it is accompanied by a sufficient
+> acknowledgement (unless this would be impossible for
+> reasons of practicality or otherwise) and provided that
+> the work has been made available to the public.
+> xxxx
+> (2) Fair dealing with a work (other than a photograph) for
+> the purpose of reporting current events does not infringe
+> any copyright in the work provided that ( subject to
+> subsection (3)) it is accompanied by a sufficient
+> acknowledgement.
+> xxxx
+> Section 30A. Caricature, parody or pastiche
+> 45 P. Bernt Hugenholtz, Law and Technology Fair Use in Europe, VIEWPOINTS: COMMlJNICATIONS OF THE
+> ACM (2013), Vol. 56, No. 5, p. 26, available at <https://www.ivir.nl/publicaties/download/Communications
+> _ACM.pdf>; The Copyright Fair Use Debate: A European Perspective, MINITERELLISON, available at
+> <https:// www.minterellison.com/articles/the-copyright-fair-use-debate-a-european-perspective>.
+>
+> Separate Concun-ing Opinion 17 G.R. No. 233918
+> (1) Fair dealing with a work for the purposes of caricature,
+> parody or pastiche does not infringe copyright in the
+> work.46
+> What is considered "fair dealing," according to the case of Hubbard v.
+> Vosper,47 is difficult to define, viz.:
+> It is impossible to define what is "fair dealing." It must be a question of
+> degree. You must consider first the number and extent of the quotations and
+> extracts. Are they altogether too many and too long to be fair? Then you
+> must consider the use made of them. If they are used as a basis for comment,
+> criticism or review, that may be fair dealing. If they are used to convey the
+> same information as the author, for a rival purpose, that may be unfair. Next,
+> you must consider the proportions. To take long extracts and attach short
+> comments may be unfair. But, short extracts and long comments may be
+> fair. Other considerations may come to mind also. But, after all is said and
+> done, it must be a matter of impression. As with fair comment in the law of
+> libel, so with fair dealing in the law of copyright. The tribunal of fact must
+> decide.48
+> The UK courts have been stringent in appreciating the doctrine of fair
+> dealing. For example, in the case of The Controller of Her Majesty's
+> Stationery Office, Ordnance Survey v. Green Amps,49 which involved the
+> unauthorized use and download of the Ordnance Survey' s50 digital maps for
+> research purposes by a company engaged in the business of providing wind
+> turbines, the court in UK ruled that the defense of fair dealing should fail. The
+> court noted that defendant used the maps to develop a commercial product.
+> Thus, in view of the commercial purpose of the research, the doctrine of fair
+> dealing was not appreciated.
+> In another interesting case of HRH Prince of Wales v. Associated
+> Newspaper Ltd.,51 involving the unauthorized use of the Prince of Wales's
+> travel journals, the UK court ruled that the defense of doctrine of fair dealing
+> should also fail considering that defendant obtained a copy of the journal as a
+> result of breach of confidence. Moreover, the articles published by defendant
+> in relation to the travel journals did not totally deal with current events. The
+> defense of fair dealing for the purpose of criticism or review cannot also be
+> appreciated considering that the journals have not been made available to the
+> public for scrutiny.
+> In Fraser-Woodward Limited v. British Broadcasting Corporation and
+> Brighter Pictures Limited,52 however, the UK court gave credence to the
+> defense of fair dealing. In this case, defendants published photographs of the
+> 46 Copyright, Designs and Patents Act 1988, LEGISLATION.GOV.UK, available at <https://www.legislation
+> .gov.uk/ukpga/ 1988/48/contents>.
+> 47 1971 C. No. 7360, available at <https://uniset.ca/other/cs3/vosper.html>.
+> 48 Id.
+> 49 [2007] EWHC 2755, available at <http://www2.bailii.org/ew/cases/EWHC/Ch/2007/2755.html>.
+> 50 "Ordnance Survey" is the national mapping agency of Great Britain.
+> 51 (2006] EWCA Civ 1776, available at <https://www.5rb.com/wp-content/uploads/2013/1 0/HRH-Prince
+> of-Wales-v-Associated-Newspapers-CA-2 l-Dec-2006.pdf>.
+> 52
+> [2005] EWHC 4 72 (Ch), available at <https://www.5rb.com/wp-content/uploads/2013/ I 0/Fraser-v-
+> BBC-final.pdf>. ·
+>
+> Separate Concurring Opinion 18 G.R. No. 233918
+> Beckham family, the copyright of which belongs to complainant therein.
+> Ultimately, the court found that the subject photographs were used for the
+> purpose of criticism or review of other works, namely the tabloid press and
+> magazmes.
+> ii. Fair Use in the Philippines
+> Although the term "fair use" was introduced in the legal system of the
+> Philippines only when the IP Code took effect in 1998, its essence may already
+> be culled from statutes dating back to the 1920s.
+> Act No. 3134, 53 or the Copyright Law of the Philippine Islands, which
+> became effective on March 6, 1924, specifically allowed citation or
+> reproduction of copyrighted work for purposes of comment, dissertation and
+> criticism. Further, it authorized reproduction of news and articles as long as
+> proper citation is provided and parts of little extent of musical work. For
+> reference, the relevant provision of Act No. 3134 is copied below:
+> SECTION 5. Lines, passages, or paragraphs in a book or other
+> copyrighted works mav be quoted or cited or reproduced for comment,
+> dissertation, or criticism.
+> News items, editorial paragraphs, and articles in periodicals may
+> also be reproduced unless they contain a notice that their publication is
+> reserved or a notice of copyright, but the source of the reproduction or
+> original reproduced shall be cited. In case of musical works parts of little
+> extent mav also be reproduced.54 (Emphasis and underscoring supplied.)
+> In the 1929 case of Philippine· Education Company, Inc. v. Vicente
+> Sotto,55 the Court had the opportunity"to explain the legal construction that
+> should be placed upon the second paragraph of Section 5 of Act No. 3134.
+> The Court ruled that "where one periodical purchases, pays for and publishes
+> an article with notice that 'all rights thereto were reserved,' another periodical
+> has no legal right to again publish the article, without giving 'the source of
+> reproduction' or citing the original from which it was reproduced."56
+> Subsequently, Presidential Decree No. (PD) 49 or the Decree on the
+> Protection of Intellectual Property57 was enacted in 1972 to update the
+> provisions of Act No. 3134 in order to "give fuller protection to intellectual
+> property and to encourage arts and letters, as well as stimulate scientific
+> research and invention, at the same time safeguard the public's right to
+> cultural information."58 In doing so, PD No. 49 expanded Section 5 of Act No.
+> 3134 and enumerated the following limitations on copyright protection, the
+> 53
+> AN ACT TO PROTECT INTELLECTUAL PROPERTY.
+> 54 Act. No. 3134, Sec. 5.
+> 55 52 Phil. 680 (I 929).
+> 56 Id. See Syllabus.
+> 57 Dated November 14, 1972.
+> 58 PD 49, Whereas Clause.
+>
+> Separate Concurring Opinion 19 G.R. No. 233918
+> nature of which align with the spirit of fair use, as may be deduced from the
+> ruling in the case of Habana v. Robles59 (Habana):
+> SECTION 10. When a work has been lawfully made accessible to
+> the public, the author shall not be entitled to prohibit;
+> 1. Its recitation or performance (A) if done privately and
+> free of charge; or (B) if made for strictly charitable or
+> religious institution or society.
+> 2. Reproductions, translations and adaptations thereof
+> destined exclusively for personal and private use;
+> SECTION 11. To an extend (sic) compatible with fair practice and
+> justified by the scientific, critical, informatory or educational purpose, it
+> shall be permissible to make quotations or excerpts from a work already
+> lawfully made accessible to the public. Such quotations may be utilized in
+> their original form or in translation.
+> News items, editorials, and articles on current political, social,
+> economic, scientific or religious topic may be reproduced by the press or
+> broadcast, unless they contain or are accompanied by a notice that their
+> reproduction or publication is reserved. In case of musical works, parts of
+> little extent may also be reproduced.
+> Quotations and excerpts as well as reproduction shall always be
+> accompanied by an acknowledgment of the source and name of the author,
+> if his name appears thereon.
+> SECTION 12. In reports of a current event by means of
+> photography, cinematography or broadcasting, literary, scientific or artistic
+> works which can be seen or heard in the course of said event may be
+> reproduced and communicated to the public to the extent necessary for the
+> purpose.
+> SECTION 13. Libraries, public archives and museums have the
+> right, subject to the conditio11s specified in the succeeding paragraphs, to
+> produce for purposes of their activities by photographic means, and
+> without the consent of the caretaker or proprietor, copies of a literary or
+> artistic work. 60 (Underscoring supplied)
+> PD 285,61 which took effect on September 3, 1973, was also an indirect
+> application of fair use in the Philippines. With affordability and availability
+> of educational, scientific or cultural books and materials as end in mind, the
+> law granted the government and private printers the right to reprint books,
+> pamphlets, and other written materials, whether of domestic or foreign
+> origin.62
+> 59 369 Phil. 764 ( 1999).
+> 60 PD49,Secs. 11-13.
+> 61
+> AUTHORIZING THE COMPULSORY LICENSING OR REPRINTING OF EDUCATIONAL, SCIENTIFIC OR
+> CULTURAL BOOKS ANO MATERIALS AS A TEMPORARY OR EMERGENCY MEASURE WHENEVER THE
+> PRICES THEREOF BECOME So EXORBITANT As To BE DETRIMENTAL To THE NATIONAL INTEREST.
+> 62 PD 285, Sec. I.
+>
+> Separate Concurring Opinion 20 G.R. No. 233918
+> Notwithstanding the foregoing and the subsequent institutionalization
+> of the Doctrine of Fair Use in Section 185 of the IP Code of the Philippines,
+> the Court has had only two notable cases that touched on the application of
+> fair use. Specifically, these are Habana- and ABS-CBN Corporation v. Gozon,
+> et al. 63 (ABS-CBN).
+> In the case of Habana, the Court ruled that therein respondent's "act of
+> lifting from the book of petitioners substantial portions of discussion and
+> examples, and her failure to acknowledge the same in her book is an
+> infringement of petitioner's copyrights."64 In determining whether the act of
+> reproduction constituted copyright infringement, the Court considered: (a) the
+> amount of matter copied from the copyrighted work; and (b) the damages
+> caused to the author of the book copied:
+> We believe that respondent Robles' act of lifting from the book of
+> petitioners substantial portions of discussions and examples, and her failure
+> to acknowledge the same in her book is an infringement of petitioners'
+> copyrights.
+> xxxx
+> In determining the question of infringement, the amount of
+> matter copied from the copyrighted work is an important
+> consideration. To constitute infringement, it is not necessary that the whole
+> or even a large portion of the work shall have been copied. If so much is
+> taken that the value of the original is sensibly diminished, or the labors of
+> the original author are substantially and to an injurious extent appropriated
+> by another, that is sufficient in point oflaw to constitute piracy.
+> xxxx
+> The next question to resolve is to what extent can copving be
+> injurious to the author of the book being copied. Is it enough that there
+> are similarities in some sections of the books or large segments of the books
+> are the same?
+> xxxx
+> In cases of infringement, copying alone is not what is prohibited.
+> The copying must produce an "injurious effect." Here, the injury consists in
+> that respondent Robles lifted from petitioners' book materials that were the
+> result of the latter's research work and compilation and misrepresented
+> them as her own. She circulated the book DEP for commercial use and did
+> not acknowledge petitioners as her source. 65 (Emphasis and underscoring
+> supplied)
+> For his part, Chief Justice Hilario Davide, Jr., in his dissenting opinion
+> in Habana, defined "fair use" as "a privilege to use the copyrighted material
+> 63 755 Phil. 709 (2015).
+> 64 Habana v. Robles, supra note 59, at 778.
+> 65 Id. at 778-780, citing Columbia Pictures Inc. v. Court ofA ppeals, 329 Phil. 875 (I 996).
+>
+> Separate Concurring Opinion 21 G.R. No. 233918
+> in a reasonable manner without the consent of the copyright owner or as
+> copying the theme or ideas rather than their expression. "66
+> The case ofA BS-CBN is a more pronounced application of the Doctrine
+> of Fair Use. Consistent with US jurisprudence, the Court held that the
+> determination of whether the subject five-second footage may be considered
+> fair use is a matter of defense. The Court also had the opportunity to discuss,
+> albeit briefly, the four factors listed in Section 185 of the IP Code that may be
+> used as guide in determining whether there is fair use of a copyrighted work,
+> viz.:
+> First, the purpose and character of the use of the copyrighted
+> material must fall under those listed in Section 185, thus: "criticism,
+> comment, news reporting, teaching including multiple copies for classroom
+> use, scholarship, research, and similar purposes." The purpose and character
+> requirement is impo11ant in view of copyright's goal to promote creativity
+> and encourage creation of works. Hence, commercial use of the
+> copyrighted work can be weighed against fair use.
+> The "transformative test" is generally used in reviewing the purpose
+> and character of the usage of the copyrighted work. This court must look
+> into whether the copy of the work adds 'new expression, meaning or
+> message' to transform it into something else. 'Meta-use' can also occur
+> without necessarily transforming the copyrighted work used.
+> Second, the nature of the copyrighted work is significant in
+> deciding whether its use was fair. If the nature of the work is more factual
+> than creative, then fair use will be weighed in favor of the user.
+> Third, the amount and substantiality of the portion used is
+> important to determine whether usage falls under fair use. An exact
+> reproduction of a copyrighted work, compared to a small portion of it, can
+> result in the conclusion that its use is not fair. There may also be cases
+> where, though the entirety of the copyrighted work is used without consent,
+> its purpose determines that the usage is still fair. For example, a parody
+> using a substantial amount of copyrighted work may be permissible as fair
+> use as opposed to a copy of a work produced purely for economic gain.
+> Lastly, the effect of the use on the copyrighted work's market is
+> also weighed for or against the user. If this court finds that the use had or
+> will have a negative impact on the copyrighted work's market, then the use
+> is deemed unfair.67
+> 66 Dissenting Opinion of Chief Justice Hil~rio Davide, Jr., in Habana v. Robles, supra note 29, at 797.
+> 67 ABS-CBN Corporation v. Gozon, el al., supra note 63, at 758-760, citing: (i) Matthew D. Bunker,
+> Transforming The News: Copyright AndFair Use In News-Related Contexts, 52 J. COPYRIGHT SOC'Y
+> U.S.A. 309,311 (2004-2005); (ii) Campbe/L v. Acuff-Rose Music, Inc., 510 US 569,579 (1994); (iii)
+> Nunez v. Caribbean International News Corp., 235 F.3d 18 ( I st Cir. 2000) and (iv) Psihoyos v. National
+> Examiner, 49 U.S.P.Q.2d 1766 (S.D. N.Y. 1998) (See note 120: "Bunker proposes the term 'meta-use'
+> for the kind of use that does not necessarily transform the original work by adding expression, meaning,
+> or message, but only changes the purpose of the work. '[Psihoyos] distinguished between using the
+> photograph to 'show what it depict[ed]' versus commenting upon the photograph in s0me way. Certainly
+> the Nunez use was for purposes of commentary on the photos - the photos had engendered significant
+> controversy, and the news article reported on that controversy. Thus, the Nunez use was what we might
+> refer to as a 'meta-use' of the photos that went beyond simply using a photograph to illustrate a news
+> story - as in Psihoyos - and instead consisted of a news story about the photographs themselves, or at
+> least public reaction to them."); (v) John J. McGowan, Competition, Regulation, and Pe,.formance In
+>
+> Separate Concurring Opinion 22 G.R. No. 233918
+> Unfortunately, in view of the insufficiency of available evidence, the
+> determination of whether the five-second footage was subject to fair use, and
+> consequently, the application of the four-factor test, was left to the trial court.
+> After the ABS-CBN case, there are no other fair use cases that reached
+> the Supreme Court.
+> iii. The Four Fair Use Factors
+> Considering the broad descriptions of the four fair use factors and the
+> tangential applications of the doctrine in the cases of Habana and ABS-CBN,
+> I submit that reference should be had bY, the Court to US fair use cases in order
+> to further elucidate the meaning and substance of each of the four factors.
+> Although fair use cases should be analyzed case-by-case,68 the Court may
+> nevertheless fashion a set of governing.principles that the Bench, the Bar, and
+> more importantly, the general public, can apply when confronted with fair use
+> cases. This discussion would be crucial considering that, as emphasized
+> earlier, copyright infringement may be penal in nature and that the Doctrine
+> of Fair Use is recognized only as an affirmative defense.
+> Before delving into the relevant judicial interpretations made by the US
+> Courts, it should first be emphasized that the four fair use factors set out in
+> Section 185 of our IP Code are an exact reproduction of the factors listed in
+> the counterpart provision of the US Copyright Act of 1976, to wit:
+> Section 107. Limitations on the exclusive rights: Fair use
+> Notwithstanding the provisions of sections I 06 and I 06A, the fair use of a
+> copyrighted work, including such ·use by reproduction in copies or
+> phonorecords or by any other means specified by that section, for purposes
+> such as criticism, comment, news reporting, teaching (including multiple
+> copies for classroom use), scholarship, or research, is not an infringement
+> of copyright. In determining whether the use made of a work in any
+> particular case is a fair use the factors to be considered shall include-
+> (1) -"th"'e'--_p"'-u,,r,.,p~o""s"'e _ ___,,a"'n"'d'----'c""h"'a,,_r.,,a.::.ct.,e"-r _ ___,ocef_ ___,t!!h.::.e
+> use, including whether such use is of a commercial
+> nature or is for nonprofit educational purposes;
+> (2) the nature of the copvrighted work;
+> (3) the amount and substantiality of the portion used in
+> relation to the copyrighted work as a whole; and
+> ( 4) the effect of the use upon the potential market for or
+> value of the copyrighted work.
+> The fact that a work is unpublished shall not itself bar a finding of fair use
+> if such finding is made upon consideration of all the above factors.
+> (Emphasis and underscoring supplied)
+> Television Broadcasting, 1967 WASH. U. L. Q. 499 ( 1967), and (vi) William T. Kelley, How Television
+> Stations Price Their Service, l l J. BROAD. 313 (1966-1967).
+> 68 See Campbell v. Acuff-Rose Music, Inc., supra note 43.
+>
+> Separate Concurring Opinion 23 G.R. No. 233918
+> Accordingly, reference to US cases 1s not only proper, but also
+> imperative.
+> Further, it should be pointed out that, as held in the case of Campbell,
+> each of the four factors is not individually conclusive and should be weighed
+> along with the other factors for purposes of establishing a case bf fair use.
+> 1. First Factor: The Purpose and Character of Use
+> The first factor to consider in determining whether an unlicensed use or
+> reproduction of a copyrighted work is in accordance with fair use is the
+> purpose and character of the use, including whether such use is of a
+> commercial nature or is for nonprofit educational purposes. In Campbell,
+> the SCOTUS clarified the core value behind an enquiry as to the purpose and
+> character of the new work:
+> x x x The central purpose of this investigation is to see, in Justice
+> Story's words, whether the new work merely "supersede(s] the objects"
+> of the original creation x x x, or instead adds something new, with a
+> further purpose or different character, altering the first with new
+> expression, meaning, or message; it asks, in other words, whether and to
+> what extent the new work is 'transformative.' Although such transformative
+> use is not absolutely necessary for a finding of fair use, the goal of
+> copyright, to promote science and the arts, is genera!Jy furthered by the
+> creation of transformati ve works. Such works thus lie at the heaii of the fair
+> use doctrine's guarantee of breathing space within the confines of
+> copyright, x x x and the more transformative the new work, the less will
+> be the significance of other factors, like commercialism, that may weigh
+> against a finding of fair use.69 (Emphasis supplied)
+> Speaking of commercial purpose, the SCOTUS also clarified its ruling
+> in Sony Corp. ofA merica v. Un.iversal Studios, Inc. ,70 and further elucidated
+> that the commercial character of a work does not per se make it unfair. At the
+> same time, "the mere fact that a use is educational and not for profit does not
+> insulate it from a finding of infringement. "71 In shedding this light, the Court
+> stated, as follows:
+> The language of the statute makes clear that the commercial or nonprofit
+> educational purpose of a work is only one element of the first factor
+> enquiry into its purpose and character. Section 107(1) uses the term
+> "including" to begin the dependent clause refening to commercial use, and
+> the main clause speaks of a broader investigation into "purpose and
+> character." As we explained in Harper & Row, Congress resisted attempts
+> to narrow the ambit of this traditional enquiry by adopting categories of
+> presumptively fair use, and it urged courts to preserve the breadth of their
+> traditionally ample view of the universe of relevant evidence x x x !f,
+> indeed, commerciality carried presumptive force against a finding of
+> fairness, the presumption would swallow nearly all of the illustrative
+> 69 Id. at 578-579
+> 70 464 US 417, 451, stating: .
+> [E]very [ unauthorized] commercial use ofc opyrighted material is presumptively an unfair
+> exploitation of the monopoly privilege that belongs to the owner of the copyright.
+> 71 Campbell v. Acuff-Rose Music, Inc., supra note 43, at 584.
+>
+> Separate Concurring Opinion 24 G.R. No. 233918
+> uses listed in the preamble paragraph of § 107, including news
+> reporting, comment, criticism, teaching, scholarship, and research,
+> since these activities "are generally conducted for profit in this
+> country." Congress could not have intended such a rule, which certainly is
+> not inferable from the common-law cases, arising as they did from the world
+> of letters in which Samuel Johnson c;ould pronounce that "no man but a
+> blockhead ever wrote, except for money."72 (Emphasis and underscoring
+> supplied)
+> In Harper & Row, Publrs. v. Nation Enters.73 (Harper & Row), the
+> SCOTUS explained that "the crux of the profit/nonprofit distinction is not
+> whether the sole motive of the use is monetary gain, but whether the user
+> stands to profit from exploitation of the copyrighted material without
+> paying the customary price."74
+> In other words, if the new work clearly has transformative use and
+> value, a finding of fair use is more likely even if the user stands to profit from
+> his or her new work. Conversely, if the.new work merely supplants the object
+> of the original work, i.e., it has no transfonnative value, and is commercial in
+> nature, the first factor will most likely be weighed against a finding of fair use.
+> Needless to state, if the new work has transformative use and value, and was
+> created for a noncommercial purpose or use, the scale will highly likely be
+> swayed in favor of fair use.
+> Applying the ruling of the SCOTUS in Campbell, we may use as
+> illustrative, not limitative, examples oftransformative use those listed in the
+> preamble of Section 185 of the IP Code, i.e., for criticism, comment, news
+> reporting, teaching, scholarship, research, and similar purposes.
+> In Campbell, the SCOTUS held that parodies which are "less ostensibly
+> humorous forms of criticism[ s] ,"75 have transformative value76 and served an
+> entirely different function.77 The US Court of Appeals for the Ninth Circuit,
+> in Hustler Magazine, Inc., v. Moral Majority, Inc.78 (Hustler Magazine), held
+> that defendants reproduced and distributed copies of a single page from
+> Hustler Magazine, Inc.'s magazine for a different purpose - "to defend
+> himself (Jerry Falwell) against such derogatory personal attacks. "79 Similarly,
+> the US Court of Appeals for the Second Circuit, in The Author's Guild, Inc.
+> v. Hathitrust8° (The Author's Guild), ruled that the creation of a full-text
+> 72 Id, citing Harper & Row Pub/rs. v. Nation Enter~., 471 US 539, 561 (1985); House Report, p. 66; 3
+> Boswell's Life of Johnson 19 (G. Hill ed. 1934). ·
+> 73 471 us 539 (1985).
+> 74 Id. at 562. Emphasis supplied.
+> 75 Campbell v. AcuffR ose Music. Inc,, supra note 43, at 579
+> 76 Id.
+> 77 Id. at 591
+> 78 796 F.2d 1148 (1986). Hustler Magazine, Inc., published an ad parody of Campari liquor featuring
+> Reverend Jerry Falwell, "a nationally known fundamentalist minister, describing his 'first time' as being
+> incest with his mother in an outhouse, and saying that he always gets 'sloshed' before giving his
+> sermons." Defendants reproduced copies of the single page ad parody and distributed them to their
+> members for solicitation in order to raise money to help Falwell '"defend his mother's memory" in court.
+> 79 Id.atll53.
+> ' 0 755 F.3d 87 (2014).
+>
+> Separate Concurring Opinion 25 G.R. No. 233918
+> searchable database of books is "a quintessentially transformative use" and
+> the same should not be considered as a substitute for the books searched. In
+> the same line, the US Court of Appeals for the Ninth Circuit, in Kelly v.
+> Arriba-Soft81 (Kelly), ruled that the reproduction of plaintiff's photos as
+> thumbnail images served an entirely different purpose - "as a tool to help
+> index and improve access to images on the internet and their related web
+> sites."82 In the seminal case of Field v. Google, Inc. 83 (Field), the US District
+> Court for the District of Nevada also ruled that Google's use of"cached" links
+> has transformative use such as: (1) it enables the users to temporarily access
+> an inaccessible page; (2) it allows users to identify changes made to a
+> particular website; and (3) it "allows users to understand why a page was
+> responsive to their original query ."84
+> On the other hand, in Harper & Row, the SCOTUS ruled that the
+> respondent's intended purpose for the unauthorized use of the unpublished
+> manuscripts was simply to "[supplant] the copyright holders' commercially
+> valuable right of first p\..l.blication," and thus, without any transformative use
+> or value. 85 In Twin Peaks Productions, Inc. v. Publications International
+> Ltd.86 (Twin Peaks), the US Court of Appeals for the Second Circuit held that
+> a book which simply summarizes the plots of plaintiff's teleplay has no
+> transformative value.87
+> 81 336 F.3d 811 (2003).
+> 82 Id. at 818.
+> 83 412 F. Supp. 2d 1106 (2006):
+> xx x Google maintains one of the world's largest and most popular Internet search engines,
+> accessible, among other places, on the World Wide Web at www.google.com x xx.
+> xx x There are billions of Web pages accessible on the Internet. It would be impossible for
+> Google to locate and index or catalog them manually.xx x Accordingly, Google, like other
+> search engines, uses an automated program (called the 'Googlebot') to continuously crawl
+> across the Internet, to locate and analyze available Web pages, and to catalog those Web
+> pages into Google's searchable Web index.xx x
+> xx x As part of this process, Google makes and analyzes a copy of each Web page that it
+> finds, and stores the HTML code from those pages in a temporary repository called a cache
+> XXX
+> x x x When Google displays Web pages in its search results x x x in the smaller font,
+> Google often displays another link labeled "Cached."
+> x x x When clicked, the "Cached" link directs an Internet user to the archival copy of a
+> Web page stored in Google's system cache, rather than the original Web site for that page.
+> By clicking on the 'Cached link' for a page, a user can view the 'snapshot' of that page, as
+> it appeared the last time the site was visited and analyzed by the Googlebot." (pp.11 10-
+> 1111)
+> Plaintiff Blake Field (Field), an author and attorney, filed an action against Google for
+> directly infringing his copyrights "when a Google user clicked on a 'cached' link to the
+> Web pages containing Field's copyrighted works and downloaded a copy of those pages
+> from Google's computers. (p. I I 15)
+> H 4 ld.atlll9.
+> 85 Harper & Row Pub/rs v. Nation Enters., supra note 73, at 562.
+> 86 996 F.2d 1366 ( 1993). Petitioner Twin Peaks Productions, Inc. (TPP) is the producer of the show "Twin
+> Peaks," which premiered on ABC in April 1990. In October 1990, defendant Publications International,
+> Ltd. (PlL) published a book entitled "Welcome to Twin Peaks: A Complete Guide to Who's Who and
+> What's What" based on the first eight episodes of TPP's Twin Peaks. "The 128-page book has seven
+> chapters, dealing with, respectively, ( 1) the popularity of the show; (2) the characters and the actors who
+> pla)' them; (3) the plots of the eight _episodes, some commentary on the plots, and 'unanswered
+> questions'; (4) David Lynch, the creator of the show; (5) Mark Frost, the producer of the show, and
+> Snoqualmie, Washington, the location of the show; (6) the music of the show; and (7) trivia questions
+> and quotations constituting the 'wit and wisdom of Agent Cooper,' one of the characters." (p. 1370)
+> 87 See id.
+>
+> Separate Concurring Opinion 26 G.R. No. 233918
+> Taking into consideration the other fair use factors, US Courts sustained
+> the user's claim of fair use in Campbell, Hustler Magazine, The Author's
+> Guild, Kelly, and Field, but denied the same in Harper & Row and Twin Peaks.
+> 2. Second Factor: Nature of Copyrighted Work
+> The second fair use factor involves the assessment of the nature of the
+> copyrighted work. "This factor calls for recognition that some works are
+> closer to the core of intended copyright protection than others, with the
+> consequence that fair use is more difficult to establish when the former works
+> are copied. "88
+> In the case of Stewart v. Abend89 (Stewart), the SCOTUS ruled that
+> there is a higher probability for the fair use defense to fly in case of factual
+> works than works of fiction and fantasy, since the law generally recognizes a
+> greater need to disseminate the former than the latter. Considering that a
+> motion picture based on a fictional short story is more creative than factual,
+> the fair use defense was given less weight. This ruling is affirmed in Twin
+> Peaks, which involved a televised work of fiction.
+> In addition, in Harper & Row, the SCOTUS stated that the fact that the
+> copied work is unpublished is a significant element of its "nature," since "the
+> scope of fair use is narrower with respect to unpublished works."90
+> While even substantial quotations might qualify as fair use in a
+> review of a published work or a news account of a speech that had been
+> delivered to the public or disseminated to the press, xx x the author's right
+> to control the first public appearance of his expression weighs against
+> such use of the work before its release. The right of first publication
+> encompasses not only the choice whether to publish at all, but also the
+> choices of when, where, and in what form first to publish a work.91
+> (Emphasis supplied)
+> This ruling was affirmed by the US Courts in Salinger v. Random
+> House, Inc.92 and Love v. Kwitny,93 where defendants' unauthorized
+> reproduction of unpublished letters and manuscripts were weighed against fair
+> use.
+> In the recent case of Google LLC v. Oracle America, Inc. 94 Google
+> (
+> LLC), the SCOTUS placed the copied "declaring code" farther from the core
+> " Campbell v. Acujf-Rose Music, Inc., supra note 43, at 586.
+> 89 495 US 207 (1990).
+> 90 Harper & Row Pub/rs v. Nation Enters., supra note 73, at 564.
+> 91 Id.
+> 92 811 F.2d90(!987).
+> 93 772 F. Supp. 1367 (I 989).
+> 94 141 S. Ct. 1183. "Oracle America, Inc., owns a copyright in Java SE, a computer platform that uses the
+> popular Java computer programming language. In 2005, Google acquired Android and sought to build a
+> new software platform for mobile devices. To allow the millions of programmers familiar with the Java
+> programming language to work with its new Android platform, Google copied roughly 11,500 lines of
+> code from the Java SE program. The copied lines are part of a tool called an Application Programmin
+>
+> Separate Concurring Opinion 27 G.R. No. 233918
+> of copyright compared to other computer programs. 95 Given this, the
+> application of fair use was held to "[unlikely undermine] the general copyright
+> protection that Congress provided for computer programs."96
+> The foregoing judicial interpretations may be applied by analogy in
+> similar cases or used as guide when this Court or the public is confronted with
+> copyright infringement and fair use cases. As a rule, the closer the work is to
+> the core of copyright protection - i.e., the more creative, imaginative, or
+> original the copied work is, the more likely will fair use be rejected as a
+> defense against infringement.
+> 3. Third Factor: Amount and Substantiality of the Portion Used
+> The third fair use factor asks whether the amount and substantiality
+> of the portion used in relation to the copyrighted work as a whole is
+> reasonable. The SCOTUS, in Google LLC, ruled that the "substantiality"
+> factor "will generally weigh in favor of fair use where x x x the amount
+> of copying was tethered to a valid, and [transformative purpose)."97 Thus,
+> this factor calls for thought not only about the quantity of the materials
+> used, but about their quality and importance, too. In Harper & Row, for
+> example, the Nation had taken only some 300 words out of President Ford's
+> memoirs, but we signaled the significance of the quotations in finding them
+> to amount to "the heart of the book," the part most likely to be newsworthy
+> and important in licensing serialization. We also agree with the Court of
+> Appeals that whether "a substantial portion of the infringing work was
+> copied verbatim" from the copyrighted work is a relevant question, for it
+> may reveal a dearth of transformative character or purpose under the
+> first factor, or a greater likelihood of market harm under the fourth; a
+> work composed primarily of an original, pa11icularly its heart, with little
+> added or changed, is more likely to be a merely superseding use, fulfilling
+> demand for the original.98 (Emphasis and underscoring supplied)
+> In Campbell, the SCOTUS also clarified that the third fair use factor
+> must be examined in relation to the first factor, which is the purpose and
+> character of use. Thus, in this case, the Court held that a parody, which should
+> necessarily "conjure up" at least enough of the original "to make the object of
+> Interface (API). An API allows programmers to call upon prewritten computing tasks for use in their
+> own programs." (p. 1187) "For each task, there is a computer code, known as 'implementing code' that
+> in effect tells the computer how to execute the particular task you have asked it to perform," (p. 1191)
+> and a declaring code which simply "locate[s] and invoke[s] the particular implementing code that it
+> needs to instruct the computer how to carry out a particular task." (p.1192) "Google did not copy the
+> task-implementing programs, or implementing code, from the Sun Java AP!. It wrote its own task
+> implementing programs, such as those that would determine which of two integers is the greater or carry
+> out any other desired (normally far more complex) task. This implementing code constitutes the vast
+> majority of both the Sun Java AP! and the API that Google created for Android. For most of the packages
+> in its new AP!, Google also wrote its own declaring code. For 37 packages, however, Google copied the
+> declaring code from the Sun Java API."(p.1193)
+> 95 Id.
+> 96 Id. at 1188.
+> 97 Id. at 1205.
+> 98 Campbell v. Acuff-Rose Music, Inc., supra note 43, at 587-588 citing Harper & Row Pub/rs v. Nation
+> Enters., supra note 73.
+>
+> Separate Concurring Opinion 28 G.R. No. 233918
+> its critical wit recognizable," is fair use. 99 This is consistent with the US
+> Court's statement in Field that "even copying of entire works should not
+> weigh against a fair use finding where the new use serves a different function
+> from the original."100 Thus, the US District Court for the District of Nevada
+> further stated:
+> xx x Google's use of entire "':'eb pages in its Cached links serves
+> multiple transformative and socially valuable purposes. These
+> purposes could not be effectively accomplished by using only portions
+> of the Web pages. Without allowing access to the whole of a Web page,
+> the Google Cached link cannot assist Web users (and content owners)
+> by offering access to pages that are otherwise unavailable. Nor could use
+> of less than the whole page assist in the archival or comparative purposes
+> of Google's "Cached" links. Finally, Google's offering of highlighted
+> search terms in cached copies of Web pages would not allow users to
+> understand why a Web page was deemed germane if less than the whole
+> Web page were provided xx x. Because Google uses no more of the works
+> than is necessary in allowing access to them through "Cached" links,
+> the third fair use factor is neutral, despite the fact that Google allowed
+> access to the entirety of Field's works.101 (Emphasis supplied)
+> 4. Fourth Factor: The Effect of the Use Upon the Potential Market for or
+> Value of the Copyrighted Work
+> The last factor, according to the case of Harper & Row, is "undoubtedly
+> the single most important element of fair use."102 "It requires courts to
+> consider not only the extent of market harm caused by the particular actions
+> of the alleged infringer, but also 'whether unrestricted and widespread
+> conduct of the sort engaged in by the defendant x x x would result in a
+> substantially adverse impact on the potential market' for the original"103 and
+> derivative works.104
+> The SCOTUS, in Campbell, stated that "when a commercial use
+> amounts to mere duplication of the entirety of the original, it clearly
+> supersedes the object of the original and serves as a market replacement
+> for it, making it likely that cognizable market harm to the original will
+> occur."105
+> In Hustler Magazine, the US Court of Appeals for the Ninth Circuit
+> held that in order to determine the potential harm to a copyrighted work, the
+> courts should focus on whether the infringing use: (1) "tends to diminish or
+> prejudice the potential sale of the work; (2) tends to interfere with its
+> 99 Id.
+> °
+> 10 Field v. Google, Inc., supra note 83, at 1120.
+> 101 Id.
+> ' 0 ' Harper & Row, Pub/rs. v. Nation Enters., supra note 73, at 566; Stewart v. Abend, supra note 89, at 238,
+> citing 3 Nimmer§ 13.05[A], pp. 13-81.
+> 103 Campbell v. AcuffRose Music; Inc., supra note 43, at 590, citing Nimmer § 13.05[A][ 4], p. 13-
+> 102.61; Harper & Row, Pub/rs. v. Nation Enters., supra note 73, at 569; Senate Report, p.
+> 65; Folsom v. Marsh, 9 F. Cas. 341 (1841).
+> 104 Id. citing Harper & Row, Pub/rs. v. Nation Enters., supra note 73, at 568. Emphasis supplied.
+> 105 Campbell v. AcuffR ose Music, Inc., supra note 43, at 591. Emphasis supplied.
+>
+> Separate Concurring Opinion 29 G.R. No. 233918
+> marketability of the work; or (3) fulfill the demand for the original work." 106
+> In this case, the US Court considered the following factors in concluding that
+> the impact of defendant's use 9f plaintiffs work was nil: (a) the plaintiffs
+> work was first issued or released long before defendant's mailings went out;
+> (b) "the effect on the marketability of back issues of the magazine is de
+> minimis because it is only one page of a publication"; and ( c) defendant's uses
+> did not cause plaintiff any competitive injury since defendant was not selling
+> or distributing copies of the ad parodies to plaintiffs followers.107
+> In Google LLC, the SCOTUS found that Google's new smartphone
+> platform is not a market substitute for Java SE, and accordingly, weighed the
+> fourth factor in favor of fair use.108
+> On the other hand, in the case of Harper & Row, the SCOTUS held that
+> "if the defendant's work adversely affects the value of any of the rights in the
+> copyrighted work (in this case the adaptation and serialization right) the use
+> is not fair."I09 Similarly, in Stewart, the SCOTUS ruled that the rerelease of a
+> film based on a story impinged on respondent's ability to market new versions
+> of the story, and consequently, caused market harm to respondent.1I0
+> In Twin Peaks, the US Court of Appeals for the Second Circuit weighed
+> the fourth factor against fair use and held that:
+> x x x It is a safe generalization that copyright holders, as a class,
+> wish to continue to sell the copyrighted work and may also wish to prepare
+> or license such derivative wo1ls as book versions or films. In this case, the
+> Book may interfere with the primary market for the copyrighted works and
+> almost ce11ainly interferes with legitimate markets for derivative works. It
+> is possible that a person who had missed an episode of "Twin Peaks"
+> would find reading the Book an adequate substitute, and would not
+> need to rent the videotape of that episode in order to enjoy the next one
+> xx x. A copyright holder's protection of its market for derivative works
+> of course cannot enable it to bar publication of works of comment,
+> criticism, or news reporting whose commercial success is enhanced by
+> the wide appeal of the copyrighted work. The author of "Twin Peaks"
+> cannot preserve for itself the entire field of publishable works that wish to
+> cash in on the "Twin Peaks" phenomenon. But it may rightfully claim a
+> favorable weighting of the fourth fair use factor with respect to a book that
+> reports the plot in such extraordinary detail as to risk impairment of the
+> market for the copyrighted works themselves or derivative works that the
+> author is entitled to license.111 (Emphasis supplied)
+> Applying the foregoing discussion, it may be strongly argued that all
+> five examples earlier provided in the previous section fall under fair use.
+> 106 Hustler Magazine, Inc., v. Moral Majority, Inc., supra note 78, at 1155-1156.
+> 107 Id. at 1156.
+> 108 Google llC v. Oracle America, Inc., supra note 94, at 1208.
+> 109 Harper & Row, Pub/rs. v. Nation Enters., supra note 73, 568, citing 3 Nimmer§ 13.05[8), at 13-77 -
+> 13-78.
+> 110 Stewart v. Abend, supra note 89, at 238.
+> 111 Twin Peaks Productions, Inc. v. Publications International ltd, supra note 86, at 1377.
+>
+> Separate Concurring Opinion 30 G.R. No. 233918
+> In the first, 112 second, 113 and last114 examples, although the purpose for
+> playing or singing the copyrighted songs is not transformative, considering
+> the personal and noncommercial or nonprofit nature of the intended purpose
+> for listening to and playing music in the gallery venue, inside a car, and in a
+> karaoke bar, the first factor should be weighed in favor of fair use. In the first
+> example, although the organization charges a viewing fee, the same is not for
+> profit since the purpose is to cover the organization's administrative and
+> operational expenses. Similarly, the money earned by the taxi driver from tips
+> received from his music-loving passengers is merely incidental, and should
+> not be weighed against a finding of fair use. As to the customer singing the
+> hit songs of a popular band in a karaoke bar, his or her purpose in singing
+> these songs is obviously noncommercial and nonprofit.
+> In all these examples, both the second and third fair use factors should
+> be weighed against a finding of fair use. Following the rulings of the US
+> Courts, the Fair Use Doctrine should find lesser application in case of
+> reproduction of creative works such as songs or music.
+> Lastly, the fourth and most important element should favor a finding in
+> favor of fair use for all of the examples. First, the playing of songs will
+> unlikely affect the potential market for the original and derivative works since
+> the use of copyrighted songs is only done for a limited period of time, i.e.,
+> during the duration of the gallery, the car ride, and the garage sale. In addition,
+> public performance, i.e., the singing of copyrighted songs, is only done by
+> small-scale users and should not cause considerable harm to the potential
+> market of the original or derivative works.
+> Indeed, a reasonable interpretation of the law, as proposed above, does
+> not lose sight of the primary objective of allowing and promoting the use of
+> intellectual property for the common good and the progress of society. In this
+> regard, despite the equivocal wording of the exceptions under the IP Code,
+> small-scale users of copyrighted music can reasonably take comfort in the fact
+> that the Court will never permit the balance to be tilted in favor of music
+> cop:yTight owners to the detriment of the society in general.
+> C.
+> The acts ofA nrey 's restaurants do not fall under any oft he exceptions to
+> copyright infringement under the IP Code
+> 112 (1) An organization intended to promote awareneSs of the hardships endured by street children arranges
+> an enclosed gaJlery in the high school cafeteria showcasing its members' photographs of street children.
+> The organization charges a viewing fee of 10 peso;:, to visitors to cover its administrative and operational
+> expenses. To improve the atmosphere of the gallery, the organization plays the entire album of Smokey
+> Mountain which includes the song "Paraiso."
+> 113 (2) A taxi driver listens to the radio inside his car for his own indulaence but reaularly receives huae tips
+> b b b
+> from his passengers for playing music.
+> 114 (5) A customer sings all the hit songs of Queen onstage in a karaoke bar where more than 500 customers
+> regularly go every night.
+>
+> Separate Concurring Opinion 31 G.R. No. 233918
+> As mentioned above, to comprehensively discuss the existence of
+> copyright infringement, there must be a showing that the acts in question
+> relate to Section 17 7 and that they do not fall under the limitations on
+> copyright (Section 184, IP Code) or the fair use doctrine (Section 185, IP
+> Code).
+> Here, the core issue is whether the playing of a radio broadcast as
+> background music in the dining areas of Anrey's restaurants amounts to
+> copyright infringement.115 As will be further explained below, Anrey
+> committed copyright infringement because its acts relate to the author's
+> exclusive rights under Section 'l 77 and its acts do not fall under any of the
+> exceptions to copyright infringement. FILSCAP alleges that Anrey's
+> restaurants played, and for the benefit of its customers, radio receptions of
+> sound recordings containing copyrighted music included in FILSCAP's
+> repertoire without a license from FILSCAP.116 Since Anrey's act of playing
+> such radio broadcasts does not -fall under any of the recognized exemptions
+> under the IP Code, FILSCAP argues that Anrey should be found liable for
+> copyright infringement. 117
+> On the other hand, Anrey argues that it cannot be made to pay license
+> fees or royalties as the radio stations should have already paid the same.118
+> Moreover, Anrey alleges that the playing of such music cannot be deemed as
+> "public," as the music was simply played for the benefit of its staff. 119
+> Notably, while Anrey does not invoke any of the exemptions found under
+> Section 184 of the IP Code, it nevertheless argues that it should likewise be
+> exempt from paying license fees based on US copyright law provisions
+> exempting small business esta~lishments from copyright infringement for
+> television and radio receptions based on their size, number of devices used,
+> and whether there is any cover charge.120 In addition, Anrey alleges that the
+> playing of the radio was for its staff to "hear hourly news."121
+> The ponencia concludes that the act of playing radio broadcasts
+> containing copyright music through the use of loudspeakers, without a license
+> from the copyright owner or the latter's duly authorized representative, would
+> 115 Ponencia, p. 6; rollo, p. 63.
+> 110 Ponencia, pp. 3-4; rollo, p. 55.
+> 117 Rollo, pp. 65-70.
+> 118 Ponencia, p. 4.
+> 119 Id.
+> 120 Rollo, p. 95. Under said rules, a food service and drinking establishment that is 3,750 square feet or
+> larger must secure a license for the public performance of musical works via radio and television. For
+> establishments using television: (a) it has more than four (4) television sets; (b) it has more than one (I)
+> television set in any room; (c) if any of the television sets used has a diagonal screen with size that is
+> greater than fifty-five (55) inches; (d) if any audio portion of the audiovisual performance is
+> communicated by means of more than six (6) loudspeakers or four (4) loudspeaker in any one room or
+> adjoining outdoor space; or (e) if there is any cover charge. As to the use of radio sets, it must secure a
+> license if the following conditions apply: (a) if it has more than six (6) loudspeakers; (b) it has more than
+> four (4) loudspeakers in any one room or adjoining outdoor it has more than four (4) loudspeakers in
+> any one room or adjoining outdoor space; (c) ifthere is any cover charge; or (d) ifthere is music on hold.
+> 121 Id. at 185.
+>
+> Separate Concurring Opinion 32 G.R. No. 233918
+> already constitute copyright infringement.122 Thus, it grants FILSCAP's
+> petition and awards damages.123
+> I concur with the foregoing disposition. The act of playing radio
+> broadcasts containing copyright music in the dining areas of Anrey's
+> restaurants does not fall under any of the recognized exceptions under Section
+> 184 of the IP Code, nor is it justified by the fair use doctrine under Section
+> 185 of the IP Code.
+> As correctly held by the ponencia, none of the exceptions in Section
+> 184 of the IP Code applies in this case.124 While the RTC found Anrey exempt,
+> in particular, under paragraph (i) of Section 184,125 the ponencia astutely finds
+> this to have been a misapplication, considering that this exemption "only
+> applies to institutions for charitable and educational purposes."126 Here, while
+> Anrey does not charge any admission fee in respect of such radio broadcasts,
+> it is nonetheless undisputed that Anrey, being the owner and operator of three
+> Sizzling Plate restaurants in Baguio City, 127 is not a charitable or educational
+> institution, nor is its aim not profit making.
+> In this regard, Associate Justic~ Amy C. Lazaro-Javier (AJ Lazaro
+> Javier), nevertheless posits that there is no copyright infringement in this case
+> as the act of playing copyrighted music in Anrey's restaurants was done
+> "privately," and thus falls, instead, under Section 184.l(a) of the IP Code.128
+> In support of this position, AJ Lazaro-Javier argues that the definition of
+> "private" in this case should not be lim}ted to the opposite of how "public" in
+> relation to "public performance" is defined, and that instead, the Court should
+> apply the "homestyle exemption" unde~ the US Copyright Law.129 Relying on
+> the US case of Edison Bros. Stores v. Broad. Music, Inc., 130 AI Lazaro-Ia vier
+> posits, to wit:
+> Privately should be interpreted beyond how the right of public
+> performance of the work pursuant to Section 171.6 of RA 8293 says of what
+> public is - persons outside the normal circle of a family and that family's
+> closest social acquaintances. Private does not refer to just being within the
+> normal circle of family and its closest social acquaintances.
+> xxxx
+> 122 Ponencia, pp.21-24
+> 123 Id. at 39-43.
+> 124 Id. at 26-28.
+> 125 Rollo, p. 443. This was not invoked by Anrey in its Answer, but the RTC, in its Decision dated April 15,
+> 2015, nevertheless exempted Amey under Section 184(i) of the IP Code based on its observation that
+> Amey did not charge any additional costs to its customers in respect of the music played in its restaurants.
+> 126 Ponencia, p. 28. ·
+> 127 Rollo, p. 87.
+> 128 Dissent of AJ Lazaro-Javier, pp. I 0-11. Section 184.1 (a) of the IP Code provides:
+> SECTION 184. Limitations on Copyright. -I 84.1. Notwithstanding the provisions of
+> Chapter V, the fol1owing acts shall not constitute infringement of copyright:
+> (a) The recitation or performance of a work, once it has been lawfully
+> made accessible to the public, if done privately and free of charge
+> or if made strictly for a charitable or religious institution or society;
+> XXX
+> Id.
+> 119
+> 130 760 F. Supp. 767 (1991).
+>
+> Separate Concurring Opinion 33 G.R. No. 233918
+> Here, copyright should be limited where to do otherwise would be
+> oppressive to the marginalized and underrepresented, those who cannot
+> afford beyond what the ubiquitous radio could afford. The homestyle
+> exemption in the United States could be adapted to help us define what
+> private means in Section 184(1)(a) of RA 8293.
+> This exemption has been explained thus:
+> The elements of Section 110(5) that Edison must
+> satisfy are (1) that it uses a single receiving apparatus in its
+> stores; (2) that the receiving apparatus is of a kind commonly
+> used in private homes; and (3) that Edison does not further
+> transmit or broadcast to the public the transmission it
+> receives (the "second transmission" restriction). The Court
+> finds that Edison has satisfied each of these elements through
+> its Radio Policy.
+> The first element is satisfied in that each store that
+> Edison owns and operates only uses one radio receiver at a
+> time. The Court finds no merit in BMI' s argument that the
+> Court should focus ori the number of stores, and thereby the
+> total number of radios that Edison operates nationwide,
+> rather than on the number ofradios per store. The homestyle
+> exception makes no sense unless it is applied on a store-by
+> store basis, to see whether each store is operating one set of
+> simple radio equipment without extensive augmentation. It
+> does not matter whether the owner repeats this compliance
+> process for two or more stores.
+> xxxx
+> Edison also satisfies the second factor, in that its
+> Radio Policy requires the use of simple, low grade radio-only
+> receivers, only two speakers may be attached to a radio
+> receiver, and only portable box speakers are allowed.xx x
+> xxxx
+> Lastly, the Cotirt finds that Edison has complied with
+> the "second transmission" restriction of the homestyle
+> exception. What this restriction means is that the homestyle
+> operator may not rebroadcast or secondarily broadcast a
+> radio transmission to the public without liability. A simple
+> example of conduct that would violate this restriction is
+> where the operator tapes a radio broadcast in order to play it
+> later, with or without editing or augmentation. Certain comis
+> have declared that other, less well defined conduct violates
+> the restriction, such as where the speakers are so far from the
+> receiver, or are remotely placed in a room different from the
+> receiver, that the playing of the broadcast through the remote
+> speakers constitutes a second transmission to the public. x x
+> x The Court doubts the validity of an analysis of the
+> distancing of the speakers in various stores, but in any case
+> finds that Edison's policy to place the two speakers no more
+> than fifteen feet from the receiver is well within the range of
+> any modest homestyle setup, and does not violate the second
+>
+> Separate Concurring Opinion 34 G.R. No. 233918
+> transmission of any modest homestyle setup, and does not
+> violate the second transmission restriction.
+> In the context of this case, the above elements should define what
+> the word private means in Section 184(l)(a) of RA 8293. The definition
+> hews closely to how public is described in Section 171.6 of RA 8293 says
+> of what public is - persons outside the normal circle of a family and that
+> family's closest social acquaintances. There is close analogy between the
+> family setting and the homestyle characterization as a copyright limitation.
+> This familiarity between the concepts should not get lost.131 (Emphasis
+> supplied)
+> I respectfully disagree. The "homestyle exemption" materially differs
+> from Section 184.l(a), and thus, there.is no compelling reason for this Court
+> to adopt this foreign doctrine in our jurisdiction.
+> For one, the said "homestyle exemption" entails a very specific set of
+> requirements which do not, at all, appear under Section 184.l(a) of the IP
+> Code. The text of the US Copyright A.ct recognizing this exception, as now
+> appearing as Section 110 (5) (A), 132 provides:
+> Section 110. Limitations on exclusive rights: Exemption of certain
+> performances and displays
+> Notwithstanding the provisions of section 106, the following are not
+> infringements of copyright:
+> xxxx
+> (S)(A) except as provided in subparagraph (B),
+> communication of a transmission embodying a
+> performance or display of a work by the public
+> reception of the transmission on a single receiving
+> apparatus of a kind commonly used in private homes,
+> unless-
+> (i) a direct charge is made to see or hear the
+> transmission; or
+> (ii) the transmission thus received is further
+> transmitted to the public[.]133
+> Notably, the "homestyle exemption" necessitates an inquiry into the
+> type and number of receiving apparatus used in-store, whether the
+> transmission is made free of charge, 134 and the extent to which an audio system
+> 131 Dissent of AJ Lazaro-Javier, pp. 8-11, citing Edison Bros. Stores v. Broad Music, Inc., supra note 130.
+> 132 17 U.S.C. Sec. I J0 , as amended by the Fairness in Music Licensing Act of 1998 (FMLA) of the U.S.
+> Id.
+> 133
+> d .
+> ~ Broa cast Music, Inc. v. Claire's Boutiques, Inc., 949 F.2d 1482, 1489 (1991). The court stated that "the
+> exemption is available only if (1) a single receiving apparatus is used, (2) the receiving apparatus is of a
+> kind commonly used in private homes, (3) the transmission is provided free of charge, and (4) the
+> transmission is not 'further transmitted' to the public."
+>
+> Separate Concurring Opinion 35 G.R. No. 233918
+> is augmented.135 On the other hand, Section 184.1 (a) of the IP Code prescribes
+> a totally different set of requirements for its application, namely that (i) the
+> recitation or performance is done privately and free of charge, or made strictly
+> for a charitable or religious institution or society, and (ii) the work has been
+> lawfully made accessible to the public prior to the recitation or performance.136
+> Certainly, these are two very different exceptions to copyright which, at
+> most, share only one element, i.e., that the performance or recitation is made
+> free of charge. In fact, Section ,110 of the US Copyright Act recognizes other
+> exceptions or limitations on copyright which are more similarly worded with,
+> and thus more likely related to, Section 184.l(a) (and Section 184.l[i]) of the
+> IP Code. Sections 110 ( 4) and 110 ( 10) of the US Copyright Act, for example,
+> respectively provide:
+> Section 110. Limitations on exclusive rights: Exemption of certain
+> performances and displays
+> Notwithstanding the provisions of section l 06, the following are not
+> infringements of copyright:
+> xxxx
+> (4) performance of a nondramatic literary or musical
+> work otherwise than in a transmission to the public,
+> without any purpose of direct or indirect commercial
+> advantage and without payment of any fee or other
+> compensation for the performance to any of its
+> performers, promoters, or organizers, if-
+> (A) there is no direct or indirect admission
+> charge; or
+> (8) the proceeds, after deducting the
+> reasonable costs of producing the
+> performance, are used exclusively for
+> educational, religious, or charitable
+> purposes and not for private financial
+> gain, except where the copyright owner
+> has served notice of objection to the
+> performance under the following
+> conditions:
+> (i) the notice shall be in
+> writing and signed by
+> the copyright owner or
+> such owner's duly
+> ~uthorized agent; and
+> (ii) the notice shall be
+> served on the person
+> responsible for the
+> 135 Cass County Music Company v. !vluedini, 55 F.Jd 263, 268 (7th cir. 1995). Here, the court held that the
+> extent to which an audio system is augmented should be a deciding factor in the outcome of each dispu
+> 136 IP CODE, Sec. 184.1 (a).
+>
+> Separate Concurring Opinion 36 G.R. No. 233918
+> performance at least
+> seven days before the
+> date of the performance,
+> and shall state the
+> reasons for the
+> objection; and
+> (iii) the notice shall comply,
+> in form, content, and
+> manner of service, with
+> requirements that the
+> Register of Copyrights
+> shall prescribe by
+> regulation;
+> xxxx
+> (10) notwithstanding paragraph ( 4), the following is not an
+> infringement of copyright: performance of a nondramatic
+> literary or musical work in the course of a social function
+> which is organized and promoted by a nonprofit veterans'
+> organization or a nonprofit fraternal organization to which
+> the general public is not invited, but not including the invitees
+> of the organizations, if the proceeds from the performance, after
+> deducting the reasonable _costs of producing the performance,
+> are used exclusively for charitable purposes and not for
+> financial gain. For purposes of this section the social functions
+> of any college or university fraternity or sorority shall not be
+> included unless the social function is held solely to raise funds
+> for a specific charitable purpose[.]137 (Emphasis and
+> underscoring supplied)
+> Notably, the foregoing exceptions, like that under Section 184.1 (a) of
+> the IP Code, require the "performance" to be: (i) private or otherwise "non
+> public" in nature (i.e., "otherwise than in a transmission to the public," or
+> "social function x x x to which the general public is not invited"), (ii) free of
+> charge, and (iii) of a charitable, non-profit or religious nature (i.e., "the
+> proceeds x x x are used exclusively for educational, religious, or charitable
+> purposes" or "performance x x x in the course of a social function which is
+> organized and promoted by a nonprofit veterans' organization or a nonprofit
+> fraternal organization"). Clearly, these provisions - and not Section 110(5)
+> (A) of the US Copyright Act-more closely resemble Section 184.l(a) of the
+> IP Code.
+> As such, as Section l 10(5)(A) of the US Copyright Act differs from
+> Section 184.1 ( a) of the IP Code in very material aspects, there is simply no
+> reason for this Court to apply US law in order to aid in interpreting the meaning
+> of "private" or "privately" within the -context of Section 184.1 (a) of the IP
+> Code. 138 Rather, its meaning should simply be construed "in accordance with
+> 137 17 U.S.C. Sec. 110,
+> 138
+> Ruben E. Agpalo, STATUTORY CONSTRUCTION (2009 ed.), p. 187 citing People v. Yadao, 94 Phil. 726
+> (1954).
+>
+> Separate Concurring Opinion 37 G.R. No. 233918
+> the intent of its own makers, as such intent may be deduced from the language
+> of each law and the context of other local legislation related thereto."139
+> For another, as already discussed, while Congress did not assign a
+> specific statutory definition for the term "privately," the latter's antonym, i.e.,
+> "public" or "publicly," is nevertheless given a technical meaning under
+> Section 171.6 of the IP Code. 140 As such, it could either be understood in its
+> plain or general meaning, or construed as the opposite of the IP Code's
+> definition of "public," i.e., that the work is not made "audible at a place or at
+> places where persons outside the normal circle of a family and that family's
+> closest social acquaintances are or can be present." 141
+> Furthermore, Sections 110(4 ) and 110(10) of the US Copyright Act -
+> which, as earlier mentioned, more closely resemble Section 184.l(a) of the IP
+> Code - likewise require a "performance" to be private or non-public in nature
+> in order to be exempt. Yet, in both cases - like in Section 184.l(a) of the IP
+> Code - being "non-public" or•"private" in nature is not specifically defined,
+> and is understood simply as the opposite of the state of being "public" (i.e.,
+> "otherwise than in a transmission to the public," or "social function x x x to
+> which the general public is not invited"). Thus, the term "privately" in Section
+> 184. l(a) should likewise be understood in a similar manner - that is, as the
+> opposite of the technical meaning given by the IP Code to the term "public"
+> or "publicly."
+> Moreover, even assuming arguendo that the "homestyle exemption," as
+> posited by AJ Lazaro-Javier, can be applied by analogy in our jurisdiction, the
+> application of this concept is nevertheless unwarranted based on the facts of
+> this particular case. Here, the radio transmissions were played through two
+> loudspeakers that were set up in the dining areas of Anrey's restaurants, 142 and
+> not near their staff area. As well, Anrey failed to offer evidence - and
+> expectedly so - showing that Anrey simply employed a "modest homestyle
+> setup," i.e., whether the radio devices used were "a kind commonly used in
+> private homes," as the said exception requires. Certainly, the foregoing shows
+> that transmission of the broadcasts by Anrey' s restaurants were made publicly
+> - "at a place or at places where persons outside the nonnal circle of a family
+> and that family's closest social acquaintances are or can be present,"143 such
+> that members of the indiscriminate public who wish to dine at Anrey's
+> restaurants would be able to access and enjoy such musical works.
+> Based on the foregoing, I submit that to apply Section 184.l(a) of the IP
+> Code, and by analogy, the homestyle exemption under the US Copyright Act,
+> would be unwarranted in this case. Like Section 184.l(i), Section 184.l(a) is
+> also inapplicable to the present case.144
+> 139 Procter and Gamble Philippine Manufacturing Corp. v. Commissioner ofC ustoms, 132 Phil. 169, 175
+> (1968).
+> 140 Used in relation to "public performance" See IP CODE, Sec. 171.6.
+> 141 Id.
+> 142 Ponencia, p. 6.
+> 143 IP CODE, Sec. 171.6.
+> 144 Ponencia, p. 27.
+>
+> Separate Concurring Opinion 38 G.R. No. 233918
+> Too, as correctly held by the ponencia, the act of playing copyrighted
+> music in Anrey's restaurants may not he excused under the fair use doctrine.
+> In this regard, in finding Anrey guilty of copyright infringement, it is true that
+> one must first assess whether a performance is made public or is merely
+> incidental. As applied in the instant case, Anrey would likely have been
+> exonerated, had its restaurants only played radio receptions solely for the
+> benefit of its employees, and not for its customers.
+> To be sure, while Anrey does not expressly invoke fair use in this case,
+> its allegations nevertheless seem to make out a case for fair use. Here, Anrey
+> does not deny that it had used FILSCAP's musical compositions in its
+> restaurants, 145 or that it did not obtain any license to play such music from
+> FILSCAP.146 However, it argues that such "use" is nevertheless justified
+> under the circumstances. It alleges that: (i) it simply played the radio for the
+> benefit of its staff, for "the primary purpose of monitoring the weather and not
+> to play music for its customer[s;]"147 (ii) it did not collect any cover charge in
+> relation to the operation of its radios inside its establishments;148 and (iii) the
+> playing of such music was merely "incidental" to their operations.149
+> However, as stated, in order to validly raise fair use as defense, the
+> alleged infringer must not simply allege fair use, but also prove that his or her
+> use is indeed compatible with fair use, based on the four fair use factors. Here,
+> contrary to Anrey's assertion, a "subjective assessment" would necessarily
+> yield a conclusion that the acts of Anrey were by no means "fair."
+> First, the use of said musical works by Anrey's restaurants was
+> primarily commercial in nature or clearly intended for a commercial purpose.
+> For one, as discussed above, the musical works were played through two
+> loudspeakers that were set up on the ceiling above the dining areas of Anrey' s
+> restaurants. For another, the radio devices of Anrey's restaurants were also
+> tuned in to FM and not AM radio.150 Simply put, had Anrey really intended
+> said music to benefit its staff only, then it should have simply placed its
+> speakers in the kitchen/pantry section or cash counter/counter areas, and tuned
+> its radio devices to AM, which is more commonly used by news radio
+> programs. Thus, what is palpably clear-is that Amey' s restaurants played radio
+> music not simply to allow their staff to monitor the news or weather, but
+> rather, and more so, to improve the overall dining experience of Anrey's
+> customers. Applying our discussion on the first fair use factor, that Anrey's
+> use is non-transforrnative and primarily commercial in nature ultimately
+> weighs heavily against fair use.
+> 145 Rollo, pp. 63, 441-442.
+> Id.
+> 146
+> 147 Id. at 420, 578-579.
+> 148 Id. at 420,443, 578-579.
+> 149 Id. at 88.
+> 150 Id. at 442,533.
+>
+> Separate Concurring Opinion 39 G.R. No. 233918
+> Second, Anrey's infringement involved musical compositions, which
+> are creative and not factual works. Thus, as held in Stewart, that the work
+> infringed is more creative than factual, works against the defense of fair use.
+> Third, the "use" performed by Anrey of FILSCAP's musical works
+> were by no means unsubstantial. Based on the facts, FILSCAP's
+> representative found Anrey's restaurants to have played, during her short
+> visits on four separate dates,151 a total of 12 whole songs included in
+> FILSCAP's repertoire.152 Neither was such use "tethered to a x x x
+> transformative purpose."153 More, Anrey also admitted that its stores were
+> open for up to 10 hours per day. 154 Thus, it can reasonably be assumed that
+> Anrey's restaurants played, for around 10 hours on a daily basis, many more
+> songs than what Anrey's representative originally identified.
+> Lastly, said activity, if allowed by the Court unchecked, will
+> indubitably have an adverse effect on the potential market for said musical
+> compositions. At the core of this case is the playing by restaurant chains,
+> without a proper license, during operational hours and for the benefit of their
+> customers, of musical compositions by means of radio receptions.
+> As stated, the fourth fair use factor requires the Court to consider the
+> deleterious effects of a particular conduct on the potential market of the work,
+> if this were to be done not only by the defendant (Anrey, in this case), but
+> also by other potential users, "whether unrestricted and widespread." 155
+> Verily, to allow such an activity"to be done widespread and unrestricted would
+> allow restaurant chains to exploit for free, and benefit from, the labors of the
+> authors of such works.
+> In sum, the acts of Anrey clearly cannot be classified as fair use because
+> all four factors (i.e., The Purpose and Character of Use, Nature of Copyrighted
+> Work, Amount and Substantiality of the Portion Used, The Effect of the Use
+> Upon the Potential Market for or Value of the Copyrighted Work) weigh
+> against this finding. As well, Anrey may not rely on any of the exemptions
+> found under Section 184 of the IP Code. To hold otherwise would be to allow
+> Anrey, as held in Harper & Row, "to profit from exploitation of the
+> copyrighted material without paying the customary price."156
+> II.
+> THE LAW ITSELF DISTINGUISHES THE RIGHT OF "PUBLIC
+> PERFORMANCE" FROM THE RIGHT OF "COMMUNICATION TO
+> 151 Rollo, pp. 371-372; TSN dated February 21, 2011, pp. 15-16. The visits ofFILSCAP's representative
+> took around one (I) hour each.
+> 152 Ponencia, pp. 3-4.
+> 153 Google llC v. Oracle America, Inc., supra note 94.
+> 154 Rollo, p. 398.
+> 155 Campbell v. Acuff-Rose Music, Inc., supra note 43, at 590, citing Nimmer § 13.05[A][ 4], p. 13-
+> 102.61; Harper & Row, Pub/rs. v. Nation Enters., supra note 73, at 569; Senate Report,
+> 65; Folsom v. Marsh, 9 F. Cas. 341 (1841). Emphasis supplied.
+> 156 Harper & Row, Publrs. v. Nation Enters., supra note 73, at 562.
+>
+> Separate Concurring Opinion 40 G.R. No. 233918
+> THE PUBLIC," EITHER RIGHT BEING ENFORCABLE THROUGH
+> FILSCAP.
+> While I agree with the ponencia that the use ofFILSCAP's copyrighted
+> work by Anrey could neither be considered "fair" nor exempt under the IP
+> Code, and that ultimately, Anrey is guilty of copyright infringement, I
+> disagree with respect to how the ponencia deals with the rights of public
+> performance and communication to the public.
+> As it stands, jurisprudence has not yet described the metes and bounds
+> of"communication to the public" or the right to "communicate to the public,"
+> as defined in the IP Code, 157 before or· after its amendment by RA 10372.158
+> This case thus gives the Court an opportunity to finally clarify the scope of
+> this right, particularly as distinguished from the right of public performance.
+> Here, the alleged infringing activity is the playing of radio broadcasts
+> as background music in Anrey's restaurants. The ponencia holds that the
+> playing of radio broadcasts through a loudspeaker amounts to a "public
+> performance" as defined in the IP Code.159 The ponencia also concludes that,
+> based on US jurisprudence, a single radio reception also "creates a
+> copyrightable performance separate from the broadcast[,]"160 and that a radio
+> reception of a sound recording, is, by itself, already a "performance" within
+> the contemplation of the IP Code.161 Fl.)rther, the ponencia submits that Anrey
+> did not violate FILSCAP's right to communicate to the public because the
+> complained acts did not involve "interactive-on-demand systems" like the
+> Internet." 162
+> Notably, the ponencia observes that, based on the deeds of assignment
+> entered into by FILSCAP with its members, as well as on its reciprocal
+> agreements with foreign societies, FILSCAP is duly authorized to enforce
+> both rights on behalf of its members.163
+> While I agree with the ponencia's ruling that FILSCAP is authorized to
+> exercise, on behalf of its members, both economic rights, 164 I disagree with its
+> 157 In ABS-CBN v. PMMSI, 596 Phil. 283 (2009), the Court touched on Subsection 177.7 albeit in a limited
+> way, as the issue in this case was whether a satellite television provider is infringing the broadcasting
+> right of a television station by simply carrying or" simultaneously retransmitting the signals transmitted
+> by the television station in its unaltered form pursuant to the "must-carry rule" imposed by the National
+> Telecommunications Commission (NTC). Under the said must-carry rule, the NTC requires satellite and
+> cable television providers to carry all local stations.
+> 158 AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 8293, OTHERWISE KNOWN AS THE
+> "INTELLECTUAL PROPERTY CODE OF THE PHILIPPINES," AND FOR OTHER PURPOSES, approved February
+> 8, 2013.
+> 159 Ponencia, pp. 15-18.
+> 160 Id. at I 8.
+> 161 Id. at 16.
+> 162 Id. at 26.
+> 163 Id. at 8-10.
+> 164 Id. at 9. Under FILSCAP's Deeds of Assignment with its members, the latter have assigned to FILSCAP
+> as
+> their "Public Performing Rights" in all copyright works which, defined in said Deeds of Assignment,
+> cover both the "right of public performance" and "right of communication to the public" as defined in
+> Sections 171.6 and 171.3 of the IP Code, respectively. The same holds true with respect to FILS CAP' s
+>
+> Separate Concurring Opinion 41 G.R. No. 233918
+> conclusion that this cas~ involves a violation of FILSCAP's right of public
+> performance only. On the contrary, it is my view that Anrey exercised only
+> the right of "communication to the public" as defined under Section 171.3 of
+> the IP Code.
+> My reasons for this conclusion are explained below.
+> A.
+> The right ofp ublic performance and the right to communicate
+> to the public are two separate and distinct rights.
+> To recall, Section 5 of PD 49, the old copyright law enacted in 1972,
+> enumerates the following rights vested exclusively in the copyright owner:
+> Section 5. Copyright shall consist in the exclusive right;
+> (A) To print, reprint, publish, copy, distribute, multiply,
+> sell, and make photographs, photo-engravings, and
+> pictorial illustrations of the works;
+> (B) To make any translation or other version or extracts or
+> arrangements or adaptations thereof; to dramatize it if
+> it be a non-dramatic work; to convert it into a non
+> dramatic work if it be a drama; to complete or execute
+> if it be a model or design;
+> (C) To exhibit, perform, represent, produce, or reproduce,
+> the work in any maimer or by any method whatever for
+> profit or otherwise; it not reproduced in copies for sale,
+> to sell any manuscript or any record whatsoever
+> thereof;
+> (D) To make any other use or disposition of the work
+> consistent with the laws of the land. 165
+> Thereafter, all laws dealing with the protection of intellectual property
+> rights were consolidated into the present IP Code. In this regard, while the
+> same overarching principles governing PD 49 have Ii kewise been reiterated
+> in the IP Code, 166 Section 17 7 thereof has expanded and further specified the
+> bundle of exclusive economic rights accorded to a copyright owner. This
+> section provides:
+> authority to enforce the rights of foreign authors, as stated in FILSCAP's Reciprocal Agreements. See
+> rolio pp. pp. 230, 234, 241, 244, 253, 257, 265, and 271-279. (Note: The Deeds of Assignment in rollo,
+> pp. 248-249 and 261-262 are worded a bit differently but they also expressly grant the right to enforce
+> the author's "right of communication to the public." Likewise, the Deeds of Assignment in rollo pp. 221
+> and 227, which appear to be based on an older template used by FILSCAP (prior to the effectivity of the
+> IP Code), similarly grant the right to enforce the author's "performing rights", including broadcasting
+> and televising.]
+> 165 NB! - Microsoft Corporation & lotus Development Corp. v. Hwang, 499 Phil. 423, 438 (2005), citing
+> PD 49, Sec. 5.
+> 166 See Habana v. Robles, supra note 59, at_775.
+>
+> Separate Concurring Opinion 42 G.R. No. 233918
+> SECTION 177. Copyright or Economic Rights. -Subject to the provisions
+> of Chapter VIII, copyright or economic rights shall consist of the exclusive
+> right to carry out, authorize or prevent the following acts:
+> 177.1 Reproduction of the work or substantial portion of the
+> work;
+> 177.2 Dramatization, translation, adaptation, abridgement,
+> arrangement or other transformation of the work;
+> 177.3 The first public distribution of the original and each
+> copy of the work by sale or other forms of transfer of
+> ownership;
+> 177.4 Rental of the original or a copy of an audiovisual or
+> cinematographic work, a work embodied in a sound
+> recording, a computer program, a compilation of data and
+> other materials or a musical work in graphic form,
+> irrespective of the ownership of the original or the copy
+> which is the subject of the rental;
+> 17 7 .5 Public display of the original or copy of the work;
+> 177 .6. Public performance of the work; and
+> 177.7. Other communication to the public of the work.
+> (Emphasis and underscoring supplied)
+> At the onset, it bears noting that PD 49, under Section S(c) thereof,
+> already recognized the performance right of a copyright owner, i.e., to
+> "perform x x x the work in any manner or by any method whatever for profit
+> or otherwise." However, PD 49, unlike the IP Code, had not yet expressly
+> recognized a separate right to carry out, authorize or prevent any "other
+> communication to the public of the work." In fact, the World Intellectual
+> Property Organization (WIPO) similarly remarked that while the public
+> performance right has expressly been recognized under Section 5 of PD 49,
+> the right to communicate one's work to the public167 "cannot be considered
+> granted" under the said law, viz.:
+> (iv) Performance right
+> This is expressly granted under Section 5( c) .
+> In Filipino Society of Composers, Authors and Publishers, Inc. v.
+> Tan, the court cited with approval American jurisprudence that performance
+> in a restaurant or hotel dining room, by persons employed by the proprietor,
+> of a copyrighted musical composition, for the entertainment of patrons
+> without charge for admission to hear it, infringes the exclusive right of the
+> owner of the copyright.
+> 167 Referred to by the WIPO as the <'broadcasting right." Ignacio S. Sapalo, Background Reading Material
+> on the Intellectual Property System of the Philippines [WIPO Background], WORLD INTELLECTUAL
+> PROPERTY ORGANIZATION (I 994), p. 141, available at <https://www.wipo.int/edocs/pubdocs/en/wipo
+> pub_686_ph.pdf'>. .
+>
+> Separate Concurring Opinion 43 G.R. No. 233918
+> Under the [Berne Convention], authors of dramatic, dramatico
+> musical or musical work have the exclusive right of authorizing the public
+> presentation and public performance of their works. If the musical work is
+> recorded by instruments capable of producing them mechanically, the
+> author of the work has the exclusive right of authorizing the public
+> performance by means of such instruments of the work thus recorded. The
+> same right is enjoyed by auth!)rS with respect to the public presentation and
+> performance of cinematographic adaptation and reproduction of their
+> works.
+> xxxx
+> (vii) Broadcasting right
+> The broadcasting right as defined in the [Berne Convention] and the
+> Rome Convention cannot be considered granted under Section 5(a).
+> Article 11 bis of the [Berne Convention] provides for an express
+> grant to the author of the exclusive right to authorize the communication of
+> his work to the public by means of either radio-diffusion or wireless
+> diffusion of signs, sounds or images; any communication to the public,
+> whether over wire or not, of the radio-diffusion of the work (i.e.,
+> rebroadcasting of the broadcast of work by means of radio-diffusion), when
+> this communication is made by a body other than the original one; and the
+> communication to the public by loudspeaker or any other similar instrument
+> transmitting by signs, sounds or images the radio-diffusion work. 168
+> (Emphasis supplied)
+> In contrast, it can be gleaned from Section 17 7 of the IP Code that the
+> law now recognizes a right to "communicate to the public" separate and
+> distinct from the right of "public performance." In this regard, the right of
+> "public performance" as contemplated under Section 177.6 has been defined
+> under Section 171.6 as follows:
+> 171.6. "Public performance", in the case of a work other than an audiovisual
+> work, is the recitation, playing, dancing, acting or otherwise perfom1ing the
+> work, either directly or by means of any device or process; in the case of an
+> audiovisual work, the showing of its images in sequence and the making of
+> the sounds accompanying it audible; and, in the case of a sound recording,
+> making the recorded sounds audible at a place or at places where
+> persons outside the normal circle of a family and that family's closest
+> social acquaintances are or can be present, irrespective of whether they
+> are or can be present at the same place and at the same time, or at
+> different places and/or at different times, and where the performance
+> can be perceived without. the need for communication within the
+> meaning of Subsection 171.3[.] (Emphasis and underscoring supplied)
+> Meanwhile, the right to "communicate to the public" recognized under
+> Section 177.7 has been defined under Section 171.3, prior to its 2013
+> amendment,169 as follows:
+> 168 Id. at 152-153, citing FILSCA P v. Tan, 232 Phil. 4?.6 ( 1987)
+> 169 RA I 0372, Sec. 4.
+>
+> 44 G.R. No. 233918
+> Separate Concurring Opinion
+> 171.3. "Corrununication to the public" or "corrununicate to the public"
+> means the making of a work available to the public by wire or wireless
+> means in such a way that members of the public may access these works
+> from a place and time individually chosen by them[.] (Emphasis and
+> underscoring supplied)
+> In this connection, Subsection 202. 7 of the IP Code identifies
+> broadcasting as an example of how a work can be communicated to the public
+> by "wireless" means:
+> 202. 7. "Broadcasting" means the transmission bv wireless means for the
+> public reception of sounds or of images or of representations thereof; such
+> transmission by satellite is also "broadcasting" where the means for
+> decrypting are provided to the public by the broadcasting organization or
+> with its consent[. J (Emphasis and underscoring supplied)
+> The foregoing provisions suggest that the public performance right and
+> right to communicate to the public are separate and distinct rights which
+> are available to, and may separately be exploited by the author. This is
+> clear from first, the separate designation of these rights under the "menu" of
+> economic rights under Section 177 of the IP Code, and second, the
+> "exclusionary" definition of "public performance" in Section 171.6, which
+> expressly requires that "the performance x x x be perceived without the need
+> for communication [to the public] within the meaning of Subsection 171.3 [of
+> the IP Code]."
+> In this regard, that the public performance right and the right to
+> communicate to the public are separate and distinct rights is likewise
+> supported by the following provisions of the IP Code involving the rights of
+> performers, producers of sound recordings, and broadcasting organizations.
+> The relevant provisions thereof provide:
+> CHAPTER XII
+> Rights of Performers, Producers of Sounds Recordings and Broadcasting
+> Organizations
+> xxxx
+> SECTION 202.9. "Communication to the public of a performance or a
+> sound recording" means the transmission to the public, by any medium,
+> otherwise than by broadcasting, of sounds of a performance or the
+> representations of sounds fixed in a sound recording. For purposes of
+> Section 209, "corrununication to the public" includes making the sounds or
+> representations of sounds fixed in a sound recording audible to the public.
+> xxxx
+> SECTION 209. Communication to the Public. - If a sound recording
+> published for corrunercial purposes; or a reproduction of such sound
+> recording, is used directly for broadcasting or for other communication
+> to the public, or is publicly performed with the intention of making and
+> enhancing profit, a single equitable remuneration for the performer or
+>
+> Separate Concurring Opinion 45 G.R. No. 233918
+> performers, and the producer of the sound recording shall be paid by the
+> user to both the performers and the producer, who, in the absence of any
+> agreement shall share equally. (Emphasis and underscoring supplied)
+> Notably, under Section 209 of the IP Code, performers and producers of
+> sound recordings are entitled to remuneration whenever (i) a sound recording
+> is published for commercial purposes, or (ii) when reproductions of such
+> sound recordings are (a) "used directly for broadcasting or for other
+> communication to the public" (i.e., right to communicate to the public), or (b)
+> "publicly performed with the intention of making and enhancing profit" (i.e.,
+> right of public perfonnance ). In other words, performers and producers would
+> be entitled to remuneration for three distinct activities, which is clear from the
+> use of the conjunction "or." Otherwise stated, if the intention was to only
+> entitle the performers and pr~ducers to one remuneration for all of these
+> activities combined, then the conjunction "and" should have been used.170 This
+> further underscores that Sections 177 .6 and 177. 7 in relation to Sections 171.3
+> and 171.6 of the IP Code actually recognize two separate and distinct rights
+> that may independently be exploited by an author or copyright owner.
+> B.
+> As a general rule, a single radio reception ofa
+> copyrighted musical work cannot be both a public performance
+> and a communication to the public.
+> Proceeding from the foregoing discussion, it must fu1iher be
+> underscored that the public performance right and right to communicate to the
+> public are not only separate and distinct - they are also ingeniously
+> delineated or segregated by the IP Code based on the means of transmission
+> or making available of the · work, i.e., whether the performance or
+> communication is made by "wire or wireless means." In other words, a single
+> radio reception of a sound recording, made by "wire or wireless means,"
+> would generally not constitute both a "public performance" and a
+> "communication to the public."
+> I expound.
+> First, it should be stressed at the onset that the definition of public
+> performance under Section 17L6 is exclusionary in relation to Section 171.3,
+> i.e., in order to constitute "public performance," the performance must be
+> "perceive[able] without the need for communication within the meaning of
+> Subsection 1 71.3." Conversely, if an aspect of a performance can be perceived
+> by the public by means of "communication" as defined under Section 171.3,
+> i.e., "by wire or wireless means in such a way that members of the public may
+> access these works from a place and time individually chosen by them,"171
+> then this aspect of the performance would only be a "communication to the
+> public" and would not therefore constitute a "public performance."
+> 170 See Neri v. NLRC, 296 Phil. 610,616 (1993).
+> 171 IP CODE, Section 171.3.
+>
+> •
+> Separate Concurring Opinion 46 G.R. No. 233918
+> Second, the foregoing conclusion is also supported by the text of the
+> 172
+> The Berne Convention for the Protection of Literary and Artistic Works
+> (Berne Convention), to which the Philippines is a signatory.173 Articles 11 and
+> I Ibis of the Berne Convention, which recognize the performance right and
+> broadcasting right, respectively, provide:
+> Article 11
+> [Certain Rights in Dramatic and Musical Works: 1. Right of Public
+> Performance and of communication to the public of a performance x x x]
+> (1) Authors of dramatic, drarnatico-musical and musical
+> works shall enjoy the exclusive right of authorizing:
+> (i) the public performance of their works,
+> including such public performance by
+> any means or process;
+> (ii) any communication to the public of the
+> performance of their works. xx x
+> Article llbis
+> [ Broadcasting and Related Rights: 1. Broadcasting and other wireless
+> communications, public communication of broadcast by wire or
+> rebroadcast, public communication of broadcast by loudspeaker or
+> analogous instruments x x x]
+> (I) Authors of literary and artistic works shall enjoy the
+> exclusive right of authorizing:
+> (i) the broadcasting of their works or the
+> communication thereof to the public
+> by any other . means of wireless
+> diffusion of signs, sounds or images;
+> (ii) any communication to the public !!Y
+> wire or by rebroadcasting of the
+> broadcast of the work, when this
+> communication is made by an
+> organization other than the original
+> _Qfil;
+> (iii) the public communication by
+> loudspeaker or any other analogous
+> instrument transmitting, by signs,
+> sounds or images, the broadcast of
+> the work.
+> (2) It shall be a matter for legislation in the countries of the
+> Union to determine the conditions under which the rights
+> mentioned in the preceding paragraph may be exercised,
+> 172 Also known as The Paris Act ofJuly 24, 1971.
+> 173 WJPO-Administered Treaties, Contracting Parties to the Berne Convention, WORLD INTELLECTUAL
+> PROPERTY ORGANIZATION, <available at <https://wipolex.wipo.int'en/treaties/ShowResults?search what=
+> C&treaty_id-15>;ponencia, p. 19. -
+>
+> Separate Concurring Opinion 47 G.R. No. 233918
+> but these conditions shall apply only in the countries
+> where they have been prescribed. They shall not in any
+> circumstances be prejudicial to the moral rights of the
+> author, nor to his right to obtain equitable remuneration
+> which, in the abs~nce of agreement, shall be fixed by
+> competent authority. (Emphasis and underscoring
+> supplied)
+> Thus, under the Berne Convention, public performance and any
+> communication of such perfonnance is covered by A1iicle 11 thereof.
+> However, similar to how the IP Code is worded, if the public communication
+> is via a specific mode or means of transmission, i.e., by means of broadcasting
+> or other "wireless diffusion," by wire or rebroadcasting (if the communication
+> is made by an organization other than the original one), or by loudspeaker or
+> any other analogous instrument of the broadcast of the work, then the same
+> will fall under Article 11 bis.
+> In fact, the foregoing stance is made clear by the WIPO in its
+> explanatory guide to the Berne Convention 174 (WIPO Guide). Anent the
+> difference of Article 11 from A1iicle 11 bis of the Berne Convention, the
+> WIPO remarked as follows:
+> 11.4. However, [Article 11]° goes on to speak of "including such public
+> performance by any means or process", and this covers perfomrnnce by
+> means ofrecordings; there is no difference for this purpose between a dance
+> hall with an orchestra playing the latest tune and the next-door discotheque
+> where the customers use coins to choose their own music. In both, public
+> performance takes place. The. inclusion is general and covers all recordings
+> (discs, cassettes, tapes, videograms, etc.) though public performance by
+> means of cinematographic works is separately covered-see Article
+> 14(1 )(ii).
+> 11.5. The second leg of this right is the communication to the public of
+> a performance of the work. It covers all public communication except
+> broadcasting which is dealt with in Article llbis. For example, a
+> broadcasting organisation broadcasts a chamber concert. Article 11 bis
+> applies. But if it or some other body diffuses the music by landline to
+> subscribers, this is a matter for Article 11.175 (Emphasis and underscoring
+> supplied)
+> Furthermore, the WIPO Guide also states that Article l lbis, which
+> covers the author's right to communicate one's work by means of
+> broadcasting, is "the fourth of the author's exclusive rights x x x, the other
+> three being those of translation, reproduction and public performance."176
+> Anent the "broadcasting right," the WIPO elucidates that this right includes
+> one primary right to authorize the broadcast of one's work via wireless
+> 174 Guide to the Berne Convention for the Protection of literary and Artistic Works (Paris Act, I 971 ),
+> WORLD INTELLECTUAL PROPERTY ORGANIZATION, Geneva ( 1978), available at<https://www.wipo.int/
+> edocs/pubdocs/en/copyright/615/wipo_ pub_ 615.pdf>.
+> 175 Id. at 64-65.
+> 176 Id. at 66.
+>
+> Separate Concurring Opinion 48 G.R. No. 233918
+> means, 177 and two other rights to authorize (i) the subsequent communication
+> of said broadcast, by wire or rebroadcast, by an organization other than the
+> one which originally made the broadcast, and (ii) the communication of the
+> same broadcast vi. a Io ud speak er or a te Ie v1. s1. on screen to a " new pub l.1 c. "178
+> Thus:
+> I Ibis. I. This provision is of particular importance in view of the place now
+> taken by broadcasting (which, it must be remembered, includes both radio
+> and television) in the world of information and entertainment. It is the
+> fourth of the author's exclusive rights to be recognised by the
+> Convention, the other three being those of translation, reproduction
+> and public performance. The Rome Revision (1928) was the first to
+> recognise the right "of authorising the communication ofx xx works to the
+> public by radio and television". Slightly muddled in its terms, the text was
+> like broadcasting itself- in its infancy. It was in Brussels (1948) that the
+> subject was more fully considered and the right broken down into its various
+> facets in order to take account of the various ways and techniques bv
+> which it might be exploited. Neither Stockholm nor Paris made any
+> change, other than to provide a more suitable translation in the newly
+> authentic English text.
+> '
+> xxxx
+> 11 bis .3. The primary right is to authorise the broadcasting of a work and the
+> communication thereof to the public by any other means of wireless
+> diffusion of signs, sounds or images. It applies to both sound and television
+> broadcasts. What matters is the emission of signals; it is immaterial whether
+> or not they are in fact received.
+> I Ibis.4. A secondary right is the subsequent use of this emission: the author
+> has the exclusive right to authorise communication of the broadcast to the
+> public, either by wire (a CATV system) or without, if the communication
+> is made by an organisation other than the original one.
+> 1 lbis.5. Finally the third exclusive right is to authorise the public
+> communication of the broadcast by loudspeaker or on a television screen.
+> xxxx
+> 1 lbis.9. In other words, this paragraph demands that the author shall enjoy
+> the exclusive right to authorise the broadcasting of his work and, once
+> broadcast, the communication to the public, whether by wire or not, if
+> this is done bv an organisation other than that which broadcast it. This
+> act of wire diffusion differs from• that covered in Article 11 (1). The
+> latter covers the case in which the wire diffusion company itself
+> originates the programme, whereas Article llbis deals with the
+> diffusion of someone else's broadcast.
+> llbis.10. For example, a company in a given country, usually for profit,
+> receives the signals sent through the ether by a television station in the same
+> or another country and relays them by wire to its subscribers. This is
+> covered by Article 1 lbis (l)(ii). But if this company sends out programmes
+> which it has itself originated, it is Article 11 which applies. What matters is
+> 177 Id. at 66.
+> 178 Id. at 67.
+>
+> Separate Concurring Opinion 49 G.R. No. 233918
+> whether or not a second organisation takes part in the distribution of the
+> broadcast programmes to the public. (A working party which met in Paris
+> in Jw1e 1977 considered the copyright and neighbouring rights problems
+> caused by the distribution of television programmes by cable.) The task of
+> distinguishing between such a practice and the mere reception of
+> programmes by a community aerial was left to national laws.
+> 11 bis.11. Finally, the third case dealt with in this paragraph is that which
+> the work which has been broadcast is publicly communicated e.g., by
+> loudspeaker or otherwise, to the public. This case is becoming more
+> common. In places where people gather (cafes, restaurants, tea-rooms,
+> hotels, large shops, trains, aircraft, etc.) the practice is growing of providing
+> broadcast programmes. There is also an increasing use of copyright works
+> for advertising purposes in .public places. The question is whether the
+> licence given by the author to the broadcasting station covers, in addition,
+> all the use made of the broadcast, which may or may not be for commercial
+> ends.
+> 11 bis. I 2. The Convention's answer is "no". Just as, in the case of relay of a
+> broadcast by wire, an additional audience is created (paragraph (1) (ii)), so,
+> in this case too, the work is made perceptible to listeners (and perhaps
+> viewers) other than those contemplated by the author when his pem1ission
+> was given. Although, by definition, the number of people receiving a
+> broadcast cannot be ascertained with any certainty, the author thinks of his
+> licence to broadcast as covering only the direct audience receiving the signal
+> within the family circle. Once this reception is done in order to entertain a
+> wider circle, often for profit, an additional section of the public is enabled
+> to enjoy the work and it ceases merely a matter of broadcasting. The author
+> is given control over this new public performance of his work.
+> 11 bis .13. Music has already been used as an example, but the right clearly
+> covers all other works as well - plays, operas, lectures and other oral
+> works. Nor is it confined to ente11ainment; instruction is no less important.
+> What matters is whether the work which has been broadcast is then publicly
+> communicated by loudspeaker or by some analogous instrument e.g., a
+> television screen. 179
+> Parsed, while the communication of a "performance" may fall under
+> Article 11 of the Berne Convention (governing public performance), this is
+> only true if the performance can be perceived without the need for
+> communication within the meaning of Article 11 bis - very much like how
+> Section 171.6 of the IP Code is worded. On the other hand, under the Berne
+> Convention, ift he communication to the public is made either (i) via broadcast
+> or by any other means of wireless diffusion, (ii) whether by wire or not, by an
+> organization other than the one who originally made the broadcast, or (iii)
+> through a broadcast of the work through a loudspeaker, television screen, or
+> other analogous instrument, then Article 11 bis applies. Put simply, one clear
+> similarity between the structure of the Berne Convention and the IP Code
+> is that both categorically separate the concept of "public performance"
+> from "broadcasting," such that a work that is conveyed to the public
+> solely via radio broadcast does not constitute an exercise of the author's
+> right of "public performance," but rather of the author's right of
+> 179 Id. at 66-69.
+>
+> Separate Concurring Opinion 50 G.R. No. 233918
+> "[b]roadcasting and other wireless communications, public
+> communication of broadcast by wire or rebroadcast, public
+> communication of broadcast by loudspeaker or analogous
+> instruments[,]"180 or, as referred to under the IP Code, the author's right
+> to "communicate to the public."
+> Applying the foregoing principles to our jurisdiction, this means that
+> under the IP Code, as under the Berne Convention, the single act of
+> broadcasting of musical compositions contained in sound recordings, either
+> by the original broadcaster or "by an organization other than the original
+> one[,]" or by other business establishments solely "by loudspeaker or any
+> other analogous instrument" (as worded in Article I Ibis of the Berne
+> Convention), is actually an exercise of the author's right to "communicate to
+> the public" his or her work under Section 171.3 of the IP Code. This is clear
+> from the wording of Section 171.3 of the IP Code which specifically defines
+> "communication to the public" as the "making of a work available to the
+> public by wire or wireless means x x x," and from the wording of Section
+> 202.7 of the IP Code which defines "broadcasting" as a mode of
+> "transmission by wireless means for the public reception of sounds[.]" As
+> well, by the wording of Section 171.6 of the IP Code, this may also mean
+> that such act does not constitute an exercise of an author's public
+> performance right.
+> In other words, based on the IP-Code's definition of these two rights,
+> as further clarified by the Berne Convention, broadcasting a musical
+> composition over the radio or communicating the same in some other "wire
+> or wireless means x x x" would simply constitute an exercise of the right to
+> "communicate to the public." On the other hand, playing a sound recording of
+> a musical composition to an audience through other dissimilar or "non
+> broadcast" means, i.e., through a jukebox or CD player, even if the same is
+> ultimately perceived by the audience through a loudspeaker or other
+> analogous instrument, would only constitute "public performance."181 After
+> all, the sound recording in this situation can be perceived by the public without
+> the need of communication by "wire or wireless means in such a way that
+> members of the public may access these works from a place and time
+> individually chosen by them." ·
+> It is noteworthy in this regard that the Philippines formally acceded to
+> the Berne Convention in 1950, which became effective in respect of the
+> Philippines on August 1, 1951.182 The Senate of the Philippines, by its
+> 180 BERNE CONVENTION; Art. 11 bis.
+> 181
+> See WIPO Guide, pp. 64-65, where the WIPO remarks: "[Article 11] goes on to speak of 'including such
+> public performance by any means or process,' and this covers performance by means of recordings; there
+> is no difference for this purpose between a dance hall with an orchestra playing the latest tune and the
+> next-door discotheque where the customers use coins to choose their own music. In both, public
+> performance takes place. The inclusion is general and covers all recordings (discs, cassettes, tapes,
+> vicJeograms, etc.)[.]"
+> 182
+> Proclamation No. 137, MAKING PUBLIC THE ACCESSION OF THE REPUBLIC OF THE PHILIPPINES TO THE
+> BERNE CONVENTION FOR THE PROTECTION OF LITERARY AND ARTISTIC WORKS, REVISED AT BRUSSELS
+> ON JUNE 26, 1948, dated March 15, 1955; See WIPO-Administered Treat:es, Contracting Parties to the
+>
+> Separate Concurring Opinion 51 G.R. No. 233918
+> Resolution No. 21 dated May 16, 1950, likewise concurred in the accession
+> thereto by the Philippines.183 Thereafter, the President, by Proclamation No.
+> 137 dated March 15, 1955, made public the Philippines' accession to the
+> Berne Convention "to the end· that the same, and every article and clause
+> thereof may be observed and fulfilled in good faith by the Republic of the
+> Philippines and the citizens thereof."184
+> Certainly, the legal recognition that the rights of public performance
+> and communication to the public are two separate and distinct rights is not a
+> foreign concept. This is well-recognized under Philippine law - under both
+> the Berne Convention (Articles 11 and l lbis), to which the Philippines is a
+> contracting party, and the IP Code (Sections 177.6 and 177.7 in relation to
+> Sections 1 71.3 and 171.6). This clear distinction should not be lost - despite
+> the ostensible similarity and overlap between the rights of public performance
+> and communication to the public.185
+> To be sure, there are cases where a single performance could constitute
+> both public performance and communication to the public. For instance, if a
+> band performs a musical composition live before a studio audience, and the
+> same performance is either simultaneously or subsequently broadcasted over
+> the radio by a broadcasting station, then the band's performance results in
+> both a public performance and communication to the public. In this example,
+> the act of directly performing the musical composition before the audience is
+> itself a public performance, while the act of broadcasting the performance (not
+> the actual performance itself) is a communication to the public. Thus, while
+> there is only one performance, there are actually two acts which respectively
+> result in the exercise of two separate economic rights.
+> In other words, unless there is a showing that the music being played
+> via radio is not simply a sound recording but rather, being played live before
+> a studio audience, then the playing of a radio broadcast as background music
+> would only constitute a "communication to the public."
+> In this regard, it is worthy to note that Congress, when it amended the
+> IP Code in 2012, saw it fi_t to expressly clarify in RA 103 72 that
+> "broadcasting" and "rebroadcasting" indeed fall within the right to
+> communicate to the public. Thts further underscores that the broadcasting of
+> musical compositions contained in sound recordings, by itself, is an exercise
+> of the author's right to "communicate to the public," and not public
+> performance. The table below compares the wording of Subsection 171.3
+> before and after said amendment:
+> Berne Convention, WORLD INTELLECTUAL PROPERTY ORGANIZATION, available at
+> <https://wipolex. wipo. int/en/treaties/ShowResu lts?search_ what=C&treaty_ id= 15>.
+> 18> Proclamation No. 137, id.
+> Id.
+> 1s4
+> 185 It is noted that under the wording of Section 171.6 of the IP Code, it is implied that an act constituting a
+> "communication to the public" could likewise constitute a performance, had it not been for the "need for
+> communication within the meaning of Subsection 171.3."
+>
+> Separate Concurring Opinion 52 G.R. No. 233918
+> RA 8293 or the IP Code, approved on June 6, RA 8293 or the IP Code, as amended by
+> 1997; took effect on January 1, 1998 RA 10372, approved on February 28, 2013;
+> took effect on March 22, 2013
+> [Applicable law in the instant case]
+> SEC. 171. Definitions.-xx x SEC. 171. Definitions.-xx x
+> 171.3. "Communication to the public" or 171.3. "Communication to the public" or
+> "communicate to the public" means the making- "communicate to the public" means any
+> of a work available to the public by wire or communication to the l!ublic, including
+> wireless means in such a way that members of broadcasting, rebroadcasting,
+> the public may access these works from a place. retransmitting by cable, broadcasting and
+> and time individually chosen by them[.] retransmitting by satellite, and includes the
+> making of a work available to the public by
+> wire or wireless means in such a way that
+> members of the public may access these works
+> from a place and time individually chosen by
+> them[.] (Emphasis and underscoring supplied)
+> The foregoing amended definition, reconciled with the definition of
+> "public performance" under Section 17 1.6 of the IP Code, underscores that
+> broadcasts of sound recordings by "wire or wireless means," i.e., by means of
+> television or radio, indeed constitute only communication to the public, and
+> not public performance.
+> C.
+> Any farther communication to a "new public" beyond the original broadcast
+> is an exercise oft he right to communicate to the public under Section 177. 7
+> in relation to 171. 3 oft he IP Code.
+> Proceeding from the foregoing discussion, I also submit that the
+> communication of a radio broadcast via loudspeaker or a television screen,
+> when done to a "new public," constitutes an exercise of the right of
+> communication to the public separate from the original broadcast.
+> As discussed above, the broadcasting or communication to the public
+> right, under the Berne Convention, includes one primary right to authorize the
+> broadcast of one's work via wireless means, 186 and two other rights to
+> authorize (i) the subsequent communication of said broadcast, by wire or
+> rebroadcast, by an organization other than the one which originally made the
+> broadcast, and (ii) the communication of the same broadcast via loudspeaker
+> or a television screen to a "new public."187 As remarked by the WIPO -
+> which interpretation indeed has "persuasive moral effect in the interpretation
+> of our intellectual property laws"188 this concept of "new pubic" is a
+> -
+> recognition that an author's license for a broadcast of his or her work, as a
+> 186 WIPO Guide, p. 66.
+> 187 Id. at 67.
+> 188 Ponencia, p. 20 (citing Intergovernmental Committee and Intellectual Property and Genetic Resources,
+> Traditional Knowledge and Folklore, 14th Session, Geneva, June 29 to July 2009).
+>
+> Separate Concurring Opinion 53 G.R. No. 233918
+> general rule, only covers a "license to broadcast as covering only the direct
+> audience receiving the signal within the family circle," and not subsequent
+> broadcasts.
+> In other words, the license given by the author to the broadcasting
+> stations does not cover all other uses made of the broadcast, unless otherwise
+> clearly stipulated. Thus, as a general rule, such a license will not authorize
+> third parties other than the broadcasting station to make any further
+> "communication to the public" of the author's work. After all, such third
+> parties other than the author and the broadcasting station are not parties to a
+> license agreement between the latter. It is a basic rule in contract law that
+> contracts take effect only between the immediate parties to the same, unless
+> the contract contains a stipulation which "clearly and deliberately" grants a
+> favor upon a third person, or a stipulation pour atrui.189 Hence, as a general
+> rule, a stranger or third paiiy cannot invoke the contract of another for his or
+> her own interest. 190
+> Thus, any further "communication to the public" made of a broadcast
+> by a party other than the broadcasting station, which is not otherwise
+> analogous to fair use, should be deemed as a separate exercise of an author's
+> right under Section 177. 7 in relation to Section 17 1.3 of the IP Code. This
+> includes, among others, instances where an original broadcast is transmitted
+> by a third party in favor of a "new public."
+> In this regard, I cannot agree with the implication made by Senior
+> Associate Justice Marvic M.V.F. Leonen (SAJ Leonen) that FILSCAP's
+> cause of action should be agai_nst the broadcaster, and not Anrey, since the
+> contract is only between the "composer ( or the composer's representative) and
+> the broadcaster", and that "no privity [o f contract) is alleged, must less
+> established" between "the copyright holder and the recipient of
+> electromagnetic wavelengths[.)"191 SAJ Leonen opines that:
+> We note that FILSC.AP has executed agreements with entities for
+> the collection of royalty payments for the use of its members' works. One
+> such entity is the Kapisanan ng mga Brodkaster ng Pilipinas x x x. The
+> license serves as a form of permission, whereby the broadcaster
+> compensates the composer after being allowed to exercise the composer's
+> rights to exclusively communicate their work to the public.
+> Compensation is determined by the number of compositions played within
+> a certain period of time, with the broadcaster reporting its usage and
+> FILSCAP doing its own monitoring.
+> If the broadcaster's use of the musical compositions is unlicensed,
+> then the broadcaster should be made liable for infringing the composer's
+> right to exclusively communicate their work to the public. Liability may
+> perhaps attach to the members of the public under the Intellectual Property
+> Code, as amended, if they benefited from the broadcaster's direct
+> infringement, provided that they had notice of the infringing activity and
+> 189 CIVIL CODE, Art. 1311; see Sps. Narvaez v. Alciso, 611 Phil. 452 (2009).
+> 190 Integrated Packaging Corporation v. Court of'Appea/s, 388 Phil. 835, 845 (2000).
+> 191 Dissenting Opinion ofSAJ Leonen, pp: 10-11.
+>
+> Separate Concurring Opinion 54 G.R. No. 233918
+> the right and ability to control the. direct infringer's activities and the
+> secondary infringement was committed after the pertinent amendments to
+> the Code.
+> If the broadcaster's use of the musical compositions is with a
+> license, then the license's terms must be examined to determine the metes
+> and bounds of the sanctioned use. If the use exceeds the stipulated bounds,
+> the broadcaster should be made liable for breach of contract, or in the case
+> of a Kapisanan ng mga Brodkaster ng Pilipinas member, memorandum of
+> agreement.
+> xxxx
+> But here, the crux of the matter is the legal tie between the copyright
+> holder and the recipient of electromagnetic wavelengths-radio waves
+> transmitted by the broadcaster. Certainly, it cannot be based on the contract
+> between the composer ( or the composer's representative) and the
+> broadcaster. In our civil law, only parties to a contract are bound thereto,
+> unless privity is proved. Here, no privity is alleged, much less established.
+> There is no claim that any broadcaster exceeded the terms of use of the
+> musical compositions it included in its programming. The broadcaster that
+> facilitated the transmission of the compositions to Anrey, Inc. is not even a
+> party to this case. 192 (Emphasis supplied)
+> Precisely, however, the basic principle of relativity of contracts dictates
+> that the license agreement between FILSCAP and the broadcasting
+> organization is simply irrelevant in this case - unless Anrey is able to allege
+> and prove that a stipulation pour atrui exists therein in the latter's favor. In
+> other words, absent any stipulation pour atrui, the terms of the license
+> agreement between FILSCAP and the broadcasting organization has nothing
+> to do with the commercial use by a third party, i.e., a business establishment
+> such as a restaurant of Anrey, of said musical compositions. After all, what
+> is being alleged in this case - and rightly so - is the direct infringement,
+> and not indirect or secondary infringement, committed by Anrey, which it did
+> by directly communicating to the public, without a license from FILSCAP,
+> works in FILSCAP's repertoire through loud speakers in its commercial
+> establishments.
+> Verily, it would simply be fallacious to sweepingly conclude that a
+> license granted by a composer (or the _composer's representative) in favor of
+> one (such as the broadcaster) precludes the former from requiring licenses
+> from other third parties. To rule otherwise would be an unwarranted
+> derogation of the Philippines' obligations under the Berne Convention, and
+> an unmistakable abridgment of the composer's right under Section 17 7. 7 of
+> the IP Code - which, as SAJ Leonen ~imself describes, consists of the "right
+> to exclusively communicate [the author's] work to the public."193
+> in Id.
+> Id.
+> 193
+>
+> Separate Concurring Opinion 55 G.R. No. 233918
+> To illustrate, in SGAE v. ·Rafael Hoteles, 194 the Court of Justice of the
+> European Union (CJEU) addressed how the right to communicate to the
+> public may be exercised by the broadcasting of works in public places.
+> In this case, Sociedad General de Autores y Editores de Espana (SGAE)
+> filed a copyright infringement action against Rafael Hoteles SA (Rafael)
+> before the courts of Spain, taking the view that the use of television sets and
+> the playing of ambient music within the hotel owned by Rafael involved
+> "communication to the public" of works belonging to the repertoire which it
+> manages. During the pendency of the case, the Spanish court referred the
+> following questions, among others, to the CJEU for a ruling: (i) whether "the
+> installation in hotel rooms of television sets to which a satellite or terrestrial
+> television signal is sent by cable constitute an act of communication to the
+> public;"195 and (ii) whether "communication that is effected through a
+> television set inside a hotel bedroom [ can] be regarded as public because
+> successive viewers have access to the work[.]"196
+> In response, the CJEU agreed with SGAE and held that Rafael's act of
+> placing of television sets in its hotel rooms constituted an act of
+> communication to the public, essentially since the communication did not take
+> place in a "strictly domestic location." In so ruling, it took into account, among
+> others, the "cumulative effects" oft he successive clients occupying the rooms,
+> and that as such, these clients _could be considered overall as being a "new
+> public." The CJEU held, to wit:
+> 3 7 The Court has held that, in the context of this concept, the term
+> 'public' refers to an indeterminate number of potential television viewers
+> (Case C089/04 Mediakabel [2005] ECR 104891, paragraph 30, and Case
+> C-192/04 Lagardere Active Broadcast [2005] ECR 107199, paragraph 31).
+> 38 In a context such as that in the main proceedings, a general approach
+> is required, making it necessary to take into account not only customers in
+> hotel rooms, such customers alone being explicitly mentioned in the
+> questions referred for a preliminary ruling, but also customers who are
+> present in any other area of the hotel and able to make use of a television
+> set installed there. It is also necessary to take into account the fact that,
+> usually, hotel customers quickly succeed each other. As a general rule, a
+> fairly large number of persons are involved, so that they may be considered
+> to be a public, having regard to the principal objective of Directive 2001/29,
+> as referred to in paragraph 36 of this judgment.
+> 39 In view, moreover, of the cumulative effects of making the works
+> available to such potential television viewers, the latter act could
+> become very significant in such a context. It matters little, accordingly,
+> that the only recipients are the occupants of rooms and that, taken
+> separately, they are of limited economic interest for the hotel.
+> 194 Case C-306/05, December 7, 2006, available at <https://curia.europa.eu/juris/showPdfjsf;jsessionid=D
+> 80FA6C7FF9ED9C90DDA33A 193302021 ?text=&docid=66355&pagelndex=0&doclang=EN&mode=l
+> st&dir=&occ=first&part= I &cid= 1744812>.
+> 19s Id.
+> 19<· Id.
+>
+> Separate Concurring Opinion 56 G.R. No. 233918
+> 40 It should also be pointed out that a communication made in
+> circumstances such as those in the main proceedings constitutes,
+> according to Article llbis(l)(iij of the Berne Convention, a
+> communication made by a broadcasting organisation other than the
+> original one. Thus, such a transmission is made to a public different
+> from the public at which the original act of communication of the work
+> is directed, that is, to a new public.
+> 41 As is explained in the Guide to the Berne Convention, an interpretative
+> document drawn up by the WIPO which, without being legally binding,
+> nevertheless assists in interpreting that Convention, when the author
+> authorises the broadcast of his work, he considers onlv direct users,
+> that is, the owners of reception equipment who, either personally or
+> within their own private or family circles, receive the programme.
+> According to the Guide, if reception is for a larger audience, possibly for
+> profit, a new section of the receiving public hears or sees the work and the
+> communication of the programme via a loudspeaker or analogous
+> instrument no longer constitutes simple reception of the programme itself
+> but is an independent act through which the broadcast work is
+> communicated to a new public. As ·the Guide makes clear, such public
+> reception falls within the scope of the author's exclusive authorisation right.
+> 42 The clientele of a hotel forms such a new public. The transmission
+> of the broadcast work to that clientele using television sets is not just a
+> technical means to ensure or improve reception of the original broadcast in
+> the catchment area. On the contrary, the hotel is the organisation which
+> intervenes, in full knowledge of the consequences of its action, to give
+> access to the protected work to its customers. In the absence of that
+> intervention, its customers, although physically within that area, would
+> not, in principle, be able to enjoy the broadcast work.
+> 43 It follows from Article 3(1) of Directive 2001/29 and Article 8 of the
+> WIPO Copyright Treaty that for there to be communication to the public it
+> is sufficient that the work is made available to the public in such a way that
+> the persons forming that public may access it. Therefore, it is not decisive,
+> contrary to the submissions of Rafael and Ireland, that customers who have
+> not switched on the television have not actually had access to the works.197
+> (Emphasis and underscoring supplied)
+> In other words, the CJEU held that acts of retransmitting works- i.e.,
+> by way of a placing televisions in hotel rooms with satellite or terrestrial
+> television signal - are restricted acts insofar as retransmissions reach a "new
+> public," or a public which was not taken into account by the authors when
+> they authorized their use by the communication to "original public." The
+> "original public" contemplated by the authors in this case would "only [be
+> the] direct users, that is, the owners of reception equipment who, either
+> personally or within their own private or family circles, receive the
+> progra[m]."198
+> 197 Id.
+> Id.
+> 19s
+>
+> Separate Concun-ing Opinion 57 G.R. No. 233918
+> Similarly, in a later case, the CJEU, in Stichting Brein v. Ziggo BV, 199
+> held that:
+> in order to be categori[z ]ed as a 'communication to the public', a protected
+> work must be communicated using specific teclmical means, different from
+> those previously used or, failing that, to a "new public", that is to say, to a
+> public that was not already taken into account by the copyright holders
+> when they authori[z]ed the initial communication of their work to the
+> public.200
+> To stress, the "new public" concept - unlike the doctrine of multiple
+> performances under US jurisprudence201 is not a wholly foreign concept
+> -
+> which the Court should simply "adopt" as "persuasive" in the interpretation
+> of the IP Code.202 Rather, it is explicitly recognized under Berne Convention,
+> to which the Philippines is a State Party, and subsumed within the broad
+> definition of "communication to the public" under the IP Code. For one,
+> paragraph (3) of Article I Ibis of the Berne Convention expressly considers as
+> a separate broadcast "the public communication by loudspeaker or any other
+> analogous instrument transmitting, by signs, sounds or images, the broadcast
+> of the work." For another, Section 171.3 of the IP Code broadly defines
+> "communication to the public" as any act of making a copyrighted work
+> "available to the public by wire or wireless means in such a way that
+> members of the public may access these works from a place and time
+> individually chosen by them."203
+> Being a contracting party to the Berne Convention, the Philippines must
+> recognize not only the distinction between the rights of public performance
+> and communication to the public, as already discussed above, but also the
+> scope and nature of the exclusive rights recognized under Article I Ibis of the
+> Berne Convention, namely - (i) the right to authorize the broadcast of one's
+> work via wireless means,204 (ii) the right to authorize the subsequent
+> communication of said broadcast, by wire or rebroadcast, by an organization
+> other than the one which originally made the broadcast, and (iii) the right to
+> authorize the communication of the same broadcast via loudspeaker or a
+> television screen to a "new public."205 This recognition is vital "to the end
+> that the [Berne Convention], and every article and clause thereof may be
+> observed and fulfilled in good faith by the Republic of the Philippines and the
+> citizens thereof. "206
+> In other words, any act of making a work available to the public "by
+> wire or wireless means x xx" - whether by the broadcasting station (to its
+> 199 Case C-610/15, June 14, 2017, availab_le at <https://curia.europa.eu/juris/document/document.jsf?text
+> =&docid= l 91707&pagelndex=0&doclang=en&mode=lst&dir=&occ=first&part= I &cid=2630159>.
+> 200 Id. ·
+> ia, This doctrine is applied in thi;: ponencia. See ponencia, pp. 18-19.
+> 202 See Cu v. Reoublic, 89 Phil. 473,478 (1951).
+> 203 IP CODE, Sec. 171.3.
+> 204 WIPO Guide, pp. 66-67.
+> 205 Id. at 67.
+> 20r, Proclamation No. 137; See WIPO-Adrriinistered Treaties, Contracting Parties to the Berne Convention,
+> WORLD INTELLECTUAL PROPERTY ORGANIZATION, available at <https://wipolex.wipo.int/en/treaties/Show
+> Results?scarch_w hat=C&treaty_ id= 15>.
+>
+> Separate Concurring Opinion 58 G.R. No. 233918
+> original listeners, i.e., the "original" public) and a business establishment (to
+> its customers, i.e., the "new public") - would fall within the IP Code's
+> definition of "communication to the public." Such an interpretation would
+> certainly not be an indiscriminate expansion of a right which is already
+> recognized under Section 171.3 of the IP Code, and would also better
+> harmonize the provisions of the IP Code and the State's obligations under the
+> Berne Convention.
+> In this connection, the term "public," in this sense, should be
+> understood in light of the technical meaning given to it under Part IV (The
+> Law on Copyright) of the IP Code, which entails "making the recorded sounds
+> audible at a place or at places where persons outside the normal circle of a
+> family and that family's closest social acquaintances are or can be present."207
+> Thus, making a radio broadcast audible, via loudspeaker, "at places where
+> persons outside the normal circle of a family and that family's closest social
+> acquaintances are or can be present" should be considered as a separate
+> exercise of the right to communicate to the public, pursuant to the IP Code in
+> relation Article l lbis of the Berne Convention.
+> It is true, as intimated by SAJ Leonen, that paragraph (2) of Article
+> l lbis of the Berne Convention provides that it is up to the signatory countries
+> to legislate as to the conditions . under which the broadcasting or
+> communication to the public right shall be exercised within their respective
+> jurisdictions.208 However, it bears stressing that the leeway given by
+> paragraph (2) of Article 1 lbis of the Berne Convention to contracting parties
+> is simply with respect to the determination of the conditions as to how "the
+> rights mentioned in the preceding paragraph (paragraph (1) of Article l lbis)
+> may be exercised," but not the recognition of such rights. In this regard,
+> Article l lbis even stresses that said conditions, if any, "shall apply only in the
+> countries where they have been prescribed." 209 Needless to state, State Parties
+> to the Berne Convention, such as the Philippines, are duty-bound to recognize
+> the broadcasting or communication to the public right as described and
+> recognized under Article I Ibis of the Berne Convention.
+> In fact, it is apparent from the intent behind the enactment of the IP
+> Code that the rights recognized under the Berne Convention, among others,
+> consist of "minimum norms and standards" that the Philippines must
+> adhere to. In his sponsorship speech, Senator Raul S. Roco notably remarked:
+> The Code and the TRIPS Agreement
+> 207 JP CODE, Sec. 171 .6. .
+> 208 Dissenting Opinion ofSAJ Leaner., p. 17. BERNE CONVENTION, Article I !bis, paragraph 2 provides:
+> (2) It shall be a matter for legislation in the countries of the Union to determine the
+> conditions under which the rights mentioned in the preceding paragraph may be
+> exercised, but these conditions shall apply only in the countries where they have been
+> prescribed. They shall not in any circumstances be prejudicial to the moral rights of
+> the author, nor to his right to obtain equitable remuneration which, in the absence of
+> agreement, shall be fixed by competent authority.
+> 209 BERNE CONVENTION, Article 11 bis, paragraph 2.
+>
+> Separate Concurring Opinion 59 G.R. No. 233918
+> A landmark agreement in the history of intellectual property, to
+> which the Philippines adhered on December 15, 1994, the Agreement on
+> Trade Related Aspects of Intellectual Property Rights (TRIPS) requires that
+> member-countries of the World Trade Organization (WTO) comply with
+> existing international conventions, mainly the Paris and Berne
+> Conventions, and adopt in their respective legislation certain minimum
+> norms and standards of intellectual property right protection.
+> Senate Bill No. 1719 was crafted taking into consideration the
+> country's adherence to the provisions of TRIPS.
+> Despite TRIPS, however, intellectual property protection is still
+> largely left to domestic legislation, as long as consistent with these
+> minimum standards, and always subject to the national treatment and
+> most-favoured-nation clauses. 210
+> It bears stressing that Section 177. 7 in relation to Section 171.3 of the
+> IP Code, expressly gives authors the "exclusive right to carry out, authorize
+> or prevent x x x [the] commur1ication to the public of the work" which, as
+> defined, "means the making of a work available to the public by wire or
+> wireless means in such a way that members of the public may access these
+> works from a place and time individually chosen by them(.]" Other than said
+> definition, the IP Code neither prescribes any other condition on how the right
+> to communicate to the public may be exercised, nor imposes any restriction
+> on the author's "exclusive right" under the Berne Convention, of authorizing
+> "the public communication by loudspeaker or any other analogous instrument
+> transmitting, by signs, sounds or images, the broadcast ofthe work."211
+> It is thus clear - under both the respective texts of the IP Code and the
+> Berne Convention, as well as Congress' deliberations on the matter - that
+> while the Philippines can, indeed, legislate as to the conditions by which said
+> rights may be exercised, it must, at the very least, recognize and protect these
+> rights, as a "minimum standard." This interpretation, to my mind, is
+> undoubtedly more consistent with the general intent of the IP Code's
+> enactment.212
+> On this score, I respectfully disagree with the common assertion of AJ
+> Lazaro-Javier and SAJ Leonen that a business establishment which turns on
+> the radio for its customers - as Anrey's restaurants did - does not exercise
+> the right to communicate to the public.213 In her view, AJ Lazaro-Javier opines
+> that Anrey "did not exercise the right to communicate the work or the sound
+> 210 Full text of Sponsorship of Sen. Raul Roco, S. No. 1719, 11 RECORD, SENATE 1O T" CONGRESS 2No SESSION
+> 132 (October 8, 1996); Article 9(1) of the Agreement on Trade-Related Aspects of Intellectual Property
+> Rights (TRIPS Agreement) expressly refers to the Berne Convention, and requires that "Members shall
+> comply with Articles I through 21 of the Berne Convention ( 1971) and the Appendix thereto."
+> 211 BERNE CONVENTION, Art. 11b is(]).
+> 212 See Philippine international Trading Corporation v. Commission on Audit, 635 Phil. 448, 454 (20 I 0):
+> "It is a rule in statutory construction that every part of the statute must be interpreted with reference to
+> the context, i.e., that every pa11 of the statute must be considered together with the other parts, and kept
+> subseP,ient to the general intent of the whole enactment."
+> 213 Dissent of AJ Lazaro-Javier, p. 8; Dissenting Opinion ofSAJ Leonen, p. I 0.
+>
+> Separate Concurring Opinion 60 G.R. No. 233918
+> recordings to the public[,]"214 simply based on the observation that "[i]t was
+> not the one that transmitted [the sound recordings] to the public,"215 and that
+> rather, it was the radio station, having "possessi[o n] or control[] [o f] the sound
+> recordings[,]"216 which "made [it] possible [for] the sound recordings to be
+> within the hearing of the patrons."217 Similarly, SAJ Leonen asserts that "[i]n
+> this case, the entity that made the musical compositions available to the public
+> in the way described in Subsection 171.3 is not xx x Anrey, Inc., but the radio
+> station or stations - the broadcaster - that transmitted the sound recordings
+> on which the performances were fixed."218 Thus, for SAJ Leonen, Anrey "is
+> more correctly identified as a 'member of the public'" instead.219
+> To the contrary, however, Article l lbis of the Berne Convention, as
+> discussed above, clearly considers as an exercise of the right of
+> communication to the public not only the "broadcasting of [a work] or the
+> communication thereof to the public by any other means of wireless
+> diffusion[,]" but also (i) "any communication to the public by wire or by
+> rebroadcasting of the broadcast of the work, when this communication is
+> made by an organization other than the original one[,]" or " the public
+> communication by loudspeaker or any other analogous instrument
+> transmitting, by signs, sounds or images, the broadcast of the work." This
+> treatment of this exclusive economic tight is likewise embraced by the broad
+> definition of "communication to the public" under Section 17 1.3 of the IP
+> Code, which covers any act of making a work "available to the public by wire
+> or wireless means in such a way that members of the public may access these
+> works from a place and time individually chosen by them."
+> As such, while the radio station is indeed, at the first instance, the
+> "entity [in] possessi[on] or control[] [of] the sound recordings,"220 a person or
+> entity which subsequently plays such broadcasted sound recordings to the
+> public "by loudspeaker or by some analogous instrument e.g., a television
+> screen[,]"221 as Anrey' s restaurants did - separately exercises the authors'
+> -
+> exclusive right of communication to the public apart from the radio station.
+> Too, it simply cannot be concluded, as SAJ Leonen does, that Anrey is
+> a "member of the public" in the context ofthis case. To be sure, ifFILSCAP's
+> music were simply played by Anrey's restaurants for their own or their
+> employees' non-commercial consumption - as Anrey alleged but failed to
+> prove222 then its restaurants could have possibly qualified as part of the
+> -
+> consuming public, and such act could have been justifiable to that extent based
+> on the four "fair use" factors. 223 Here, however, the use ofFILSCAP' s musical
+> 214 Dissent of AJ Lazaro-Javier, p. 7.
+> 21s Id.
+> 216 Id.
+> 211 Id.
+> 218 Dissenting Opinion ofSAJ Leonen, p. 10.
+> 219 Id.
+> 220 Dissent of AJ Lazaro-Javier, p. 7.
+> 221 See WIPO Guide, p. 69.
+> 222
+> Roi/a, pp. 4 I 9-432, 578-579. Anrey alleged in its Answer that it simply played the radio for the benefit
+> of its staff, for "the primary purpose of monitoring the weather and not to play music for its customer[ . "
+> 223
+> See discussions in Part I of this Opinion in relation to fair use and the limitations on copyright.
+>
+> Separate Concurring Opinion 61 G.R. No. 233918
+> works by Anrey was primarily commercial in nature or clearly intended for a
+> commercial purpose, as the songs were played through two loudspeakers that
+> were set up in the ceiling above the dining areas of these restaurants. Anrey,
+> in the context of this case, is undoubtedly not a "member of the public," but a
+> business establishment which, for a commercial purpose, communicated
+> FILSCAP's works to a "new public."
+> Ultimately, I also disagree with SAJ Leonen' s suggestion that the
+> ponencia's recognition of the "new public" concept is "highly irregular," as it
+> abdicates the Court's task and power to interpret Philippine laws to a foreign
+> authority such as the WIPO. 224
+> In the first place, the ponencia resorts to the WIPO's text simply as
+> "persuasive"225 and not conclusive, contrary to what SAJ Leonen suggests
+> -
+> -in the exercise of the Court's task of interpreting the IP Code and the Berne
+> Convention. In the second place, this concept is embraced in the text itself of
+> the Berne Convention - to which the Philippines is a contracting party -
+> which expressly recognizes the author's exclusive right to authorize "the
+> public communication by loudspeaker or any other analogous instrument
+> transmitting, by signs, sounds or images, the broadcast of the work."226 More
+> importantly, the scope and definition of the right of "communication to the
+> public" under Sections 177. 7 in relation to Section 17 1.3227 is broad enough
+> to accommodate and include this right of authorizing "the public
+> communication by loudspeake~ or any other analogous instrument."
+> The foregoing, to my mind, will give effect to both the IP Code and the
+> Philippines' treaty obligations under the Berne Convention. After all, it is one
+> of the well-established rules of statutory construction that endeavor should be
+> made to harmonize the provisions of a law or two laws so that each shall be
+> effective.228
+> ·
+> D.
+> Anrey exercised only the right ofc ommunication to the public, and not the
+> right ofp ublic performance.
+> In view of the foregoing discussion, while I agree with the ponencia's
+> application of the "new public" concept, I disagree with the ponencia's
+> categorization of Anrey's radio reception of copyrighted work and use of
+> 224 Dissenting Opinion of SAJ Leonen, p. 16. SAJ Leonen opines that:
+> Similarly, the use of the texts prod0uced by the World Intellectual Property Organization to
+> interpret provisions of the Intellectual Property Code is highly irregular. In our
+> Cor~stitutional order, the task of interpreting Philippine laws is patt of [the] judicial power
+> vested in the Supreme Cou11 and other courts as may be provided by law. (Id.)
+> 225 Ponencia, p. 20.
+> 226 BERNE CONVENTION, Art I I bis( I).
+> 227 The IP Code defines this right as follows:
+> 171.3. "Communication to the public" or "communicate to the public" means the making
+> of a work available to the public by wire or wireless means in such a way that members of
+> the public may access these works from a place and time individually chosen by them[.]
+> 228 Valera v. Tuason, Jr., 80 Phil. 823, 827 ( 1948).
+>
+> Separate Concurring Opinion 62 G.R. No. 233918
+> loudspeakers as a "performance"229 under Section 177.6 of the IP Code.
+> Corollarily, I disagree with the ponencia's application of the doctrine of
+> multiple performances under US jurisprudence, as this inaccurately assumes
+> that a radio reception done via loudspeaker is a "public performance."
+> In the present case, it is not disputed that Anrey's restaurants played
+> radio broadcasts of copyrighted music.230 Simply put, other than the
+> communication to the public by "wire or wireless means x x x" of musical
+> works in FILSCAP's repertoire,231 Anrey did not commit any other act which
+> could separately qualify as a public performance. Hence, I respectfully submit
+> that it would be a grave mistake to sweepingly conclude that "the act of
+> playing radio broadcasts containing copyrighted music through the use of
+> loudspeakers (radio-over-loudspeakers) is in itself, a performance."232
+> On this score, I submit that the ponencia's reliance on American
+> authorities,233 particularly on the decisions in Broadcast Music, Inc. v.
+> Claire's Boutiques, Inc. 234 (Claire's) and Buck v. Jewell-La Salle Realty Co. 235
+> (Jewell), is misplaced.
+> Noting that the provision of the US Copyright Law defining "public
+> performance," on which Claire's was based, is "similarly worded to our own
+> definition thereof,"236 the ponencia quotes with approval the following
+> discussion in Claire's, viz.:
+> Most relevant to the present case, the Supreme Court in Twentieth
+> Century Music Corp. v. Aiken, dealt with a restaurant owner who played a
+> radio with four speakers in his restaurant. Defendant Aiken owned a fast
+> food restaurant where customers usually stayed no more than ten or fifteen
+> minutes. Following Fortnightly, the Court considered that a contrary ruling
+> would result in practical problems because of the large number of small
+> business establishments in the United States. As an economic matter, the
+> Court felt that a copyright owner has adequately compensated for his work
+> through his license fee with the radio station.
+> If Aiken's rationale were to apply in our case, the radio playing by
+> Claire's store managers would not be performances and BMI would have
+> no case. Congress, however, rejected Aiken's rationale, if not its result, in
+> the Copyright Act of 1976. The drafters defined "perform["] and "perform
+> publicly" broadly in 17 U.S.C. § 101:
+> To "pe,r1o.rm" a work means to· reci.t e, ren de r, play, dance, or
+> act it, either directly or by means of any device or process x
+> xx.
+> xxxx
+> 229 Ponencia, pp. 15-18, 21-26.
+> 230 Id. at 4.
+> 231 ld.at3.
+> 232 Id. at I 6.
+> 233 Id. at 17-18.
+> 234 Supra note 134.
+> 235 283 us 191 (1931).
+> 236 Ponencia, p. 18.
+>
+> Separate Concurring Opinion 63 G.R. No. 233918
+> To perfom1 or display a work "publicly" means -
+> (1) to perform or display it at a place open to
+> the public or at any place where a substantial
+> number of persons outside of a normal circle
+> of a family and its social acquaintances is
+> gathered; or
+> (2) to transmit or otherwise communicate a
+> performance or display of the work to a place
+> specified by clause (1) or to the public, by
+> means of any device or process, whether the
+> members of the public capable of receiving
+> the performance or display receive it in the
+> same place or in separate places and at the
+> same time or at different times.
+> Under these particular definitions, the restaurant owner in Aiken
+> "performed" the works in question by "playing" them on a "device" -- the
+> radio receiver. Furthermore, the performances were "public" because they
+> took place at a restaurant "open to the public." For the same reasons,
+> Claire's, through the actions of its employees, engages in public
+> performances of copyrighted works when it plays the radio during normal
+> business hours.237
+> Proceeding from the foregoing, the ponencia also asserts, based on the
+> "doctrine of multiple performances" - a doctrine which was first conceived
+> in Jewell - that a radio ( or television) transmission or broadcast can create
+> multiple performances at once, such that a radio station owner and a hotel
+> operator can simultaneously "perform" a copyrighted work.
+> However, contrary to the ponencia's assertion, said provision oft he US
+> Copyright Law defining "pub.lie performance" (17 U.S.C. § 101) is not
+> "similarly worded" to the proyision defining the same under the IP Code.
+> Notably, the said provision under the US Copyright Law lumps together under
+> "public performance" the following: (i) the actual performance of a work to
+> the public, and (ii) the "transmis[sion] or otherwise communicat[ion] [o f] a
+> performance x x x of the work x x x to the public, by means of any device or
+> process[.]" Hence, under the US Copyright Law as cited in Claire's and
+> Jewell, "communication to the public" as contemplated under the IP Code is
+> subsumed within the blanket definition of "public performance."
+> In stark contrast however, the IP Code, as discussed above: (i) expressly
+> recognizes a right to "communicate to the public" separate and distinct from
+> "public performance" (IP Code, Sections 177.6 and 177.7); and (ii) explicitly
+> carves out from the scope of "public performance" those performances which
+> require "communication within the meaning of Section 17 1.3" in order to be
+> perceived (IP Code, Section 17 1.6 in relation to Section 171.3 ).
+> 237 Id. at 17-18.
+>
+> Separate Concurring Opinion 64 G.R. No. 233918
+> Indeed, with PD 49 and its predecessor, Act No. 3134 having been
+> modeled after US copyright laws,238 the Court has time and again turned to
+> US jurisprudence to aid in resolving issues involving copyright.239 After all,
+> where local statutes are patterned a:fter or copied from those of another
+> country, the decisions of the courts in such country construing those laws are
+> 240
+> entitled to great weight in the interpretation of such local statutes.
+> However, the foregoing is true only if what is being adopted is
+> reasonable and in harmony with justice, public policy and other local statutes
+> on the subject.241 Thus, where the local law and the foreign statute from which
+> the former was patterned differ in some material aspects, or where the
+> adopting state has given the statute its own interpretation, the presumption
+> that the foreign construction was adopted with the adoption of the statute no
+> longer obtains.242 In the latter case, the local law must perforce be construed
+> "in accordance with the intent of its own makers, as such intent may be
+> deduced from the language of each law and the context of other local
+> legislation related thereto."243
+> Here, as extensively discussed above, Congress expressly (i) carved out
+> from the IP Code's definition of"public performance" other "performances"
+> which cannot be "perceived without the need for communication within the
+> meaning of Section 171.3" and (ii) identified the public performance right and
+> the right to communicate to the public as two separate and distinct economic
+> rights. This distinction, however, is notably absent in the provision of the US
+> Copyright Law cited in Claire's and Jewell. Thus, I submit that the ponencia' s
+> reliance on the same is misplaced.
+> Likewise, I submit that the ponencia's reliance on the doctrine of
+> multiple performances not only is improper, in light of the distinction under
+> the IP Code between public performance and communication to the public,
+> but is also unnecessary. For one, the playing of radio broadcasts via
+> loudspeaker or otherwise by "wire or wireless means x x x" is not a
+> "performance," but a "communication" within the context of Section 17 7. 7 in
+> relation to 171.3 of the IP Code. Contrary to the statement in the ponencia,
+> communication through "wire or wireless means" is not only limited to
+> interactive on-demand systems like the internet.244 While the cited WIPO
+> 238 WIPO Background, p. 141:
+> Act No. 3134 was patterned mainly on the American Copyright Law of 1909. Section 3 of
+> the Act set forth the rights included in copyright. This was reproduced in its entirety in
+> Section S of Presidential Decree No. 49, the current Copyright Law.
+> See also The Intellectual Property System: A Brief History, Intellectual Property Office of the
+> Philippines, INTELLECTUAL PROPERTY OFFICE OF THE PHILIPPINES, available at <https://www.ipophil.gov
+> .ph/news/the-intellectual-property-system-a-brief-history/>.
+> 239 See ABS-CBN v. Gozon, supra note 63; Pearl & Dean (Phil.), Incorporated v. Shoemart, Incorporated,
+> 456 Phil. 474 (2003).
+> 240 Ruben E. Agpalo, STATUTORY CONSTRUCTION 185 (2009 ed.), citing Wise & Co. v. Meer, 73 Phil. 655
+> (1947) and Carolina Industries, Inc. v. CMS Stock Brokerage, Inc., 97 SCRA 7 34 (1980).
+> 241 Id., c'ting Cu v. Republic, 89 Phil. 473 (1951 ).
+> 242 Id. at 187, citing People v. Yadao, 94 Phil. 726 (I 954).
+> 243 Procter and Gamble Philippine Manufacturing Corp. v. Commissioner of Customs, supra note 139, at
+> 175.
+> 244 Ponencia, p. 25.
+>
+> Separate Concurring Opinion 65 G.R. No. 233918
+> Guide in the ponencia indeed explains that "the making available to the public
+> of works in a way that the members of the public may access the work from a
+> place and at a time individually chosen by them" 245 covers, in particular,
+> on-demand, interactive communication through the internet, this
+> clarification is not intended to narrow down the scope of communication to
+> the public to exclude broadcasting, as the ponencia states.246 This is clear
+> from the same cited WIPO Guide which also states that the WIPO Copyright
+> Treaty recognizes "a broader right of communication to the public" apaii
+> from the rights recognized by the Berne Convention.247 In other words, apart
+> from the right of broadcasting - which, as discussed, is included in the right
+> of "communication to the public" - the WIPO Copyright Treaty expanded
+> the coverage of the right by including, in particular, on-demand, interactive
+> communication through the Internet. Verily, the right of communication to the
+> public also covers other wire or wireless channels like the use of a
+> loudspeaker.
+> To be sure, the interpretation proffered by the ponencia that the right of
+> communication to the public is only limited to on-demand, interactive
+> communication through the Internet is directly in conflict with the IP Code,
+> as amended by RA 10372 in 2013. To recall, RA 10372 refined the definition
+> of "communication to the public" to eliminate the misconception that
+> broadcasting, rebroadcasting, · retransmitting by cable, broadcasting and
+> retransmitting by satellite are not included m the definition of
+> "communication to the public.''
+> For another, reliance on this US law doctrine is unnecessary, as the act
+> of transmitting said radio broadcasts by Anrey's restaurants to a "new public,"
+> i.e., the customers dining at these restaurants, is already covered by the
+> definition of "communication to the public" under Section 171.3 the IP Code
+> in relation to Article l lbis of the Berne Convention.
+> To be sure, I agree with the ponencia that "it is immaterial if the
+> broadcasting station has been licensed by the copyright owner,"248 but not
+> "because the reception becomes a new public performance requiring separate
+> protection,"249 under the doctrine of multiple performances.250 Rather, it is
+> immaterial because any communication to a "new public" beyond the original
+> broadcast is a separate exercise of the right to communicate to the public,
+> pursuant to Section 177.7 in relation to 171.3 of the IP Code and Article 11 bis
+> of the Berne Convention.
+> 245 Swnma,y of the WIPO Copyright Treaty (WCT) (/996), WORLD INTELLECTUAL PROF'ERTY OFFICE,
+> available at <https://www.wipo.int/treaties/en/ip/wct/summary_ wct.htm I>.
+> 246 Ponencia, p. 25: "Apparently, the phrase 'the public may access these works from a place and time
+> ir.dividually chosen by them' refers to interactive on-demand systems like the Internet. It does not refer
+> to other traditional forms like broadcasting and transmitting of signals where a transmitter and a receiver
+> are required as discussed in the WIPO Guide to the Berne Convention."
+> 241 ld.
+> 248 Id. at 19.
+> 249 Id.
+> 2su Id.
+>
+> Separate Concurring Opinion 66 G.R. No. 233918
+> In sum, I proffer that absent any showing that the musical pieces played
+> by Amey on the radio were not simply sound recordings, but were likewise
+> being played live before an audience (which could theoretically constitute,
+> separately, as a "performance" in itself), as in this case, it would be improper
+> to hold, as the ponencia does, that "the act of playing radio broadcasts
+> containing copyrighted music through the use of loudspeakers (radio-over
+> loudspeakers) is in itself, a performance."251 I respectfully disagree that the
+> playing of radio broadcasts as background music through a loudspeaker by
+> Amey's restaurants is "public performance." On this score, contrary to the
+> conclusion reached by the ponencia, I submit that such radio broadcasts
+> constitute an infringement only of the right to communicate to the public, and
+> not of the right of public performance.
+> Lest I be misconstrued, however, I stress that I concur with the
+> ponencia that Anrey, by playing radio broadcasts as background music in its
+> restaurants despite not having obtained any license from FILSCAP, is guilty
+> of copyright infringement.
+> III.
+> ANREY MUST PAY FILSCAP ACTUAL DAMAGES.
+> Section 216 of the IP Code enumerates the remedies for infringement.
+> Specifically, paragraph (b) provides how the award to be paid should be
+> computed, viz.:
+> SECTION 216. Remedies for Infringement. -216.1. Any person infringing
+> a right protected under this law shall be liable:
+> xxxx
+> (b) Pay to the copyright proprietor or his assigns or heirs
+> such actual damages, including legal. costs and other
+> expenses, as he may have incurred due to the infringement
+> as well as the profits the infringer may have made due to
+> such infringement, and in proving profits the plaintiff shall
+> be required to prove sales only and the defendant shall be
+> required to prove every element of cost which he claims, or,
+> in lieu of actual damages and profits, such damages which to
+> the court shall appear to be just and shall not be regarded as
+> penalty.
+> As seen in the provision, there are two alternative awards that courts
+> may order the infringer to pay to the copyright proprietor or his assigns,
+> namely:
+> (i) actual damages, including legal costs and other expenses,
+> as he may have incurred due to the infringement as well as
+> the profits the infringer may have made due to such
+> 251 Id. at 16.
+>
+> Separate Concurring Opinion 67 G.R. No. 233918
+> infringement, and in proving profits the plaintiff shall be
+> required to prove sales only and the defendant shall be
+> required to prove every element of cost which he claims;
+> or, in lieu of actual damages and profits,
+> (ii) damages which to the comi shall appear to be just and
+> shall not be regarded as penalty.
+> Notably, Section 216 of the IP Code mirrors the rules on awarding
+> actual damages prescribed under the Civil Code.252 Thus, if the Court were to
+> award a copyright owner actual damages, such damages "must not only be
+> capable of proof, but must actually be proved with reasonable degree of
+> certainty." Further, to be recoverable, the Court "cannot simply rely on
+> speculation, conjecture or g·uesswork in determining the amount of
+> damages[,]" such that there must be "competent proof' of the actual amount
+> ofloss incurred.253 Otherwise, in the absence of such "competent proof', or if
+> the amount of such loss "cannot be proved with certainty[,]" temperate
+> damages which must be "reasonable under the circumstances" should instead
+> be awarded. 254
+> Here, the ponencia orders Anrey to pay FILSCAP: (1) Pl 0,000.00, as
+> "temperate damages; and (2) P50,000.00 as attorney's fees and litigation
+> expenses.255
+> The ponencia recognizes that FILSCAP charges a fixed amount of
+> license fees or royalties based on its rate cards.256 However, the ponencia
+> submits that the annual license fees demanded by FILSCAP appears to be
+> inequitable considering that FILSCAP was only able to prove use by Anrey's
+> restaurants of songs belonging to FILSCAP's repertoire on 12 occasions.257
+> Accordingly, the ponencia de~ms it proper to award temperate damages of
+> Pl 0,000 considering that:
+> 1) the license fees were charged annually and Amey was only shown to
+> have publicly performed FILSCAP's songs on two different days; and 2)
+> the license fees [represent] the use of over 20 million songs of FILSCAP's
+> repertoire and Anrey was· only shown to have publicly performed
+> FILSCAP's 12 songs in total.258
+> I do not agree. Anrey should pay FILSCAP Pl2,600.00, or P6,300.00
+> per store, as actual damages for unpaid public performance license fees for
+> two of the three of Anrey's stores involved in the case.
+> 252 CIVIL CODE, Title XVII.I.
+> 253 Republic v. looy11ko, 788 Phil. I, 16(2016). citing Duenas v. Guce-Africa, 618 Phil. I 0, 20-21 {2009);
+> CIVIL CODE, Art. 2199.
+> 254 See Yamauchi v. SuF1iga, 830 Phil. 122.(2018); CIVIL CODE, Arts. 2224-2225.
+> 255 Ponencia, p. 39.
+> 256 Id. at 41.
+> 251 Id.
+> 25s Id.
+>
+> Separate Concurring Opinion 68 G.R. No. 233918
+> For one, the annual license fee of P6,300.00 was based on FILSCAP's
+> rate cards prevailing at the time for restaurants playing mechanical music
+> only, whose seating capacity is less than a hundred.259 This amount being
+> claimed by FILSCAP corresponds to its annual license fee for the year
+> 2009,260 which should have been paid by Anrey to FILSCAP "[h]ad [Anrey]
+> secured a public performance license"• from the latter.261 As well, as alleged
+> by FILSCAP, [b]y not paying the said amount, [Anrey] was effectively able
+> to 'save' on expenses and accordingly increase its profits at the expense of
+> [FILSCAP]."262
+> For another, FILSCAP was also able to substantiate through monitoring
+> reports that music from FILSCAP's repertoire were layed in Anrey's Sizzling
+> Plate restaurants at (i) 116 Session Road, Baguio City, on July 2 and
+> September 3, 2008, and (ii) 136 Abanao Extension, Baguio City, on July 18
+> and September 17, 2008, respectively.263 Thereafter, FILSCAP sent Anrey's
+> restaurants six demand letters from July 24, 2008 to March 10, 2009,264 but
+> all such demands remained unheeded.265
+> Based on the foregoing, it is clear that FILSCAP's members lost out on
+> license fees for one year when two of Anrey's restaurants played copyrighted
+> work starting July 2008 until 2009. Notably, the license fee that FILSCAP
+> regularly charges "restaurants playing mechanical music only" is computed
+> not based on a daily rate, but is fixed on an annual basis.266 Thus, it would be
+> sufficient for FILSCAP to prove, as it did, that Anrey's restaurants publicly
+> performed or communicated to the public copyrighted work in FILSCAP's
+> repertoire at any time within a one year period (i.e., year 2009) in order to
+> substantiate its claim for actual damages.
+> That FILSCAP was able to prove Anrey's use of songs included in its
+> vast repertoire only on 12 occasions is of no moment, and should not render
+> award of actual damages inequitable. Verily, the annual license fee charged
+> by FILSCAP is a fixed fee and not a variable rate dependent on the number
+> of songs that will be played or used by the establishment. Thus, if Anrey
+> decides to play the songs protected by FILSCAP only on a single occasion,
+> or even on multitude of occasions, FILSCAP would still charge the same
+> fixed annual license fee of P6,300.00 per year for each establishment.
+> As well, I find the ponencia's award of P50,000.00 as attorney's fees
+> as likewise proper pursuant to Sectici_n 216.1 (b) of the IP Code. Here, as
+> 259 ld. at 40. (citing Records Vol. II, p. 549).
+> 260 Rollo, pp. 7 I and 74.
+> 261 Id. at 143.
+> Id.
+> 262
+> 263 Id. at 149-15 and 203-204.
+> 264 Dated July, 24, 2008, August 12, 2008, November 28, 2008, January 7, 2009, March 5, 2009 and March
+> I 0, 2009, respectively.
+> 265 Id. at 204.
+> 266 Ponencia, p. 40 (citing Records Vol. II, p. 549); rollo, pp. 71 and 74; see also FILSCAP Standard Rates
+> Restaurant/Fast Food/Canteen/Cafe/Coffee Shop, available at <https://filscap.org/wp-content/uploads
+> /2018/02/FILSCAP-Standard-Rates-Restaurant-Fast-F ood-Cafe-Coffee-Shop-F ood-Chain. pdt>.
+>
+> Separate Concurring Opinion 69 G.R. No. 233918
+> observed by the ponencia, FILSCAP presented during trial vouchers for the
+> legal expenses it had incurred, and the said amounts were stipulated upon by
+> the parties during triaI.2 6 7
+> In light of the foregoing, °I vote to GRANT the petition.
+> CERTIFIED TRUE COfY
+> t,r 'nr .i\ £TJTS' ~, IH. SAN":TLLA
+> c·· '·
+> L ... · _! I ' (, r l· -. l[t ~ r', :J
+> 267 Ponencia, p. 42 (citing Records, pp. 443-520; TSN dated August 23, 2011, p. 8).

@@ -1,0 +1,594 @@
+# GR-211299-caguioa
+
+**Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: Separate Concurring Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: EN BANC
+- **Type**: Resolution
+- **Date**: October 9, 2019
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2022/11/211299-caguioa.pdf)
+
+---
+
+> EN BANC
+> G.R. No. 211299 .- LIGHT RAIL TRANSIT AUTHORITY, petitioner,
+> versus CITY OF PASAY, Represenfed by the CITY TREASURER and
+> the CITY ASSESSOR, respondent.
+> Promulgated:
+> Ji.re 28, '2fJ22
+> SEPARATE CONCURRING OPINION
+> CAGUIOA, J.:
+> I concur with the ponencia in granting the instant Petition.
+> I submit this Separate Concurring Opinion to expound on the following
+> points:
+> 1. In the 2019 case of Light Rail Transit Authority v. Quezon City1
+> .
+> (2019 LRTA case), the Court, applying the doctrine in Manila
+> International Airport Authority v. Court ofA ppeals,2 (MIAA case),
+> had already ruled that petitioner Light Rail Transit Authority
+> (LRTA) is a government instrumentality exercising corporate
+> powers and not a government-owned and/or controlled corporation
+> (GOCC). As such, the LRTA properties belong to the Republic of
+> the Philippines and are intended for public use. Accordingly, they
+> are exempt from real property taxes (RPT); and
+> 2. The liability to pay RPT on government-owned properties leased to
+> private entities devolves upon the taxable beneficial user.
+> Application oft he MIAA case to LRTA
+> In the landmark MIAA case, the Court En Banc, citing the
+> Administrative Code of 1987 (Administrative Code), distinguished between a
+> GOCC and a government instrumentality and found that petitioner therein·
+> Manila International Airport Authority (MIAA) is a government
+> instrumentality and not a GOCC. The Court explained as follows:
+> Respondents argue that MIAA, being a [GOCC], is not exempt from
+> real estate tax. x x x
+> 1 G.R. No. 221626, October 9, 2019, 922 SCRA 588.
+> 2 528 Phil. 181 (2006).
+>
+> ',
+> Separate Concurring Opinion 2 G.R. No. 211299
+> There is no dispute that a [GOCC] is not exempt from real estate
+> tax. However, MIAA is not a [GOCC]. Section 2(13) of the Introductory
+> Provisions of the Administrative Code of 1987 defines a [GOCC] as
+> follows:
+> SEC. 2. General Terms Defined. - xx x
+> (13) Government-owned or controlled corporation refers to any
+> agency organized as a stock or non-stock corporation, vested with
+> functions relating to public needs whether governmental or proprietary in
+> nature, and owned by the Government directly or through its
+> instrumentalities either wholly, or, where applicable as in the case of stock
+> corporations, to the extent of at least fifty-one ( 51) percent of its capital
+> stock xx x.
+> A [GOCC] must be "organized as a stock or non-stock
+> corporation." MIAA is not organized as a stock or non-stock corporation.
+> MIAA is not a stock corporation because it has no capital stock divided
+> into shares. MIAA has no stockholders or voting shares.xx x
+> xxxx
+> Section 3 of the Corporation Code defines a stock corporation as one
+> whose "capital stock is divided into shares and x x x authorized to
+> distribute to the holders of such shares dividends x x x." MIAA has
+> capital but it is not divided into shares of stock. MIAA has no stockholders
+> or voting shares. Hence, MIAA is not a stock corporation.
+> MIAA is also not a non-stock corporation because it has no
+> members. Section 87 of the Corporation Code defines a non-stock
+> corporation as "one where no part of its income is distributable as dividends
+> to its members, trustees or officers." A non-stock corporation must have
+> members. Even if we assume that the Government is considered as the sole
+> member of MIAA, this will not make MIAA a non-stock corporation. Non
+> stock corporations cannot distribute any part of their income to their
+> members. Section 11 of the MIAA Charter mandates MIAA to remit 20%
+> of its annual gross operating income to the National Treasury. This prevents
+> MIAA from qualifying as a non-stock corporation.
+> Section 88 of the Corporation Code provides that non-stock
+> corporations are "organized for charitable, religious, .e ducational,
+> professional, cultural, recreational, fraternal, literary, scientific, social, civil
+> service, or similar purposes, like trade, industry, agriculture and like
+> chambers." MIAA is not organized for any of these purposes. MIAA, a
+> public utility, is organized to operate an international and domestic airport
+> for public use.
+> Since MIAA is neither a stock nor a non-stock corporation, MIAA
+> does not qualify as a government-owned or controlled corporation. What
+> then is the legal status of MIAA within the National Government?
+> MIAA is a government instrumentality vested with corporate
+> powers to perform efficiently its governmental functions. MIAA is like any
+> other government instrumentality, the only difference is that MIAA is
+> vested with corporate powers. Section 2(10) of the Introductory Provisions
+>
+> Separate Concurring Opinion 3 G.R. No. 211299
+> of the Administrative Code defines a government "instrumentality" as
+> follows:
+> SEC. 2. General Terms Defined. - xx x
+> (10) Instrumentality refers to any agency of the National
+> Government, not integrated within the department framework, vested with
+> special functions or jurisdiction by law, endowed with some if not all
+> corporate powers, administering special funds, and enjoying operational
+> autonomy, usually through a charter. xx x3
+> Applying the parameters laid down in the MIAA case to determine
+> whether a government agency is an instrumentality or a GOCC, the Court
+> thereafter ruled in the 2019 LRTA case that the LRTA is an instrumentality of.
+> the government vested with corporate powers to efficiently perform its
+> governmental functions, and not a GOCC.
+> For context, in the 2019 LRTA case, the local government of Quezon
+> City issued warrants of levy on the LRTA's properties on which realty taxes
+> had not been paid. The subject properties were eventually sold at public
+> auction. But for lack of interested bidders, they were instead sold to Quezon
+> City. Invoking the MIAA case, the LRTA sought to nullify the auction sale,
+> claiming it is a government instrumentality and hence, exempt from RPT. The
+> Court extensively discussed the reasons that led to its finding that the LRTA
+> is a government instrumentality vested with corporate powers and not a
+> GOCC. Consequently, the LRTA was declared exempt from RPT. Pertinent
+> portions of the ruling read:
+> Under their respective Charters, both the LRTA and the MIAA do
+> not have capital stock that is divided into shares. To repeat, Section 3 of the
+> Corporation Code defines a stock corporation as one whose "capital stock
+> is divided into shares and x x x authorized to distribute to the holders of
+> such dividends xx x." The LRTA and the MIAA have capital but it is not a
+> capital stock or share capital, which is not divided into shares of stock.
+> Neither of them has stockholders nor voting shares. Hence, the LRT A - as
+> the MIAA - is not a stock corporation.
+> The LRTA is also not a non[-]stock corporation because it has no
+> members. Section 87 of the Corporation Code defines a non[-]stock
+> corporation as "one where no part of its income is distributable as dividends
+> to its members, trustees or officers." A non[-]stock corporation must have
+> members. Even if we assume that the government is considered as the sole
+> member of the LRTA, this will not make the LRTA a non[-]stock
+> [corporation]. Section 88 of the Corporation Code provides that non-stock
+> corporations are "organized for charitable, religious, educational,
+> professional, cultural, recreational, fraternal, literary, scientific, social, civil
+> service, or similar purposes, like trade, industry, agriculture and like
+> chambers." The LRTA is not organized for any of these purposes. As a
+> public utility, it is organized to operate-the light rail transit system for public
+> use.
+> Id. at 209-212; emphasis and italics in the original, citations omitted.
+>
+> ·,
+> Separate Concurring Opinion 4 G.R. No. 211299
+> xxxx
+> Here, the LRT A bears the elemental characteristics of a government
+> instrumentality vested with corporate powers. Consider:
+> One. The vesture of its corporate powers is found in Article 2 of
+> Executive Order 603 otherwise known as "Creating a Light Rail Transit
+> Authority, Vesting the same with Authority to Construct and Operate the
+> Light Rail Transit (LRT) project and providing funds therefor," viz.:
+> ARTICLE2
+> CORPORATE POWERS
+> SEC. 4. General Powers.-The Authority, through the
+> Board of Directors, may undertake such actions as are
+> expedient for or conducive to the attainment of the purposes
+> and objectives of the Authority, or of any purpose reasonably
+> incidental to or consequential upon any of these purposes. x
+> xx.
+> Two. The LRTAperforms governmental/unctions. It is primarily
+> responsible for the construction, operation, maintenance and/or lease of
+> light rail transit systems in the country, giving due regard to the reasonable
+> requirements of the public transportation system of the country. As
+> explained in more detail below, the LRTA's functions are less commercial
+> than governmental, and more for public use and public welfare than for
+> profit-oriented services. ·
+> Three. The LRTA also enjoys operational autonomy, as it exists by
+> virtue of a Charter, and its powers and functions are vested in and exercised
+> by its Board of Directors.4
+> Further, the nature of the LRTA's properties was already fully threshed
+> out in the 2019 LRTA case. There, the Court determined that the properties
+> registered in the name of the LRTA are for public use and classified as
+> property of public dominion, and thus exempt from RPT under Section 234(a)
+> of the Local Government Code of 1991 (LGC):
+> To be sure, the LRTA and its properties are tasked to establish the
+> light rail transit in the country. To pursue this mandate and purpose, the
+> LRT A pioneered the construction of light rail transit infrastructure, which
+> was financed through foreign loans. The revenues from the LRTA's
+> operations were designed to pay for the loans incurred for its construction.
+> The LRTA's operations were intended as a public utility rather than as a
+> profit-making mechanism. The income which the LRTA generates is being
+> used for its operations, especially.the maintenance of rail tracks and trains.
+> XXX
+> xxxx
+> Given the mandate and purpose of the LRTA, it stands to reason that
+> the LRTA's railroads, carriageways, terminal stations and the lots on which
+> 4 Light Rail Transit Authority v. Quezon City, supra note 1, at 602-61 O; underscoring, emphasis and italic
+> in the original, citation omitted.
+>
+> Separate Concurring Opinion 5 G.R. No. 211299
+> they are found and/or constructed are properties of public dominion
+> intended for public use. As such, they are exempt from real property tax
+> under Section 234(a) of the Local Government Code.
+> xxxx
+> Undoubtedly, the light rail transit performs a crucial role in the lives
+> of the people in Metro Manila. And the fact that by necessary implication,
+> it has to pass through several local government units, the protection
+> accorded to properties of public dominion for public use must be extended
+> to the LRTA and its properties. Taking some or a portion of the railroads,
+> railways, carriageways and terminal. stations will literally hamper the
+> operation of the light rail transit. Trains run on the rail tracks which are
+> fastened to a concrete foundation resting on a prepared subsurface. Like an
+> airport, the light rail transit has a terminal commonly known as the LRT
+> station. It is a hub where passengers converge to buy train tickets and access
+> the train facilities. It is also where the trains regularly stop to load or unload
+> passengers. These properties are essential for the passenger transport and
+> continued operation of the light rail transit, without which this massive
+> transportation system will be paralyzed. 5
+> That there was a 2018 LRTA case6 declaring that the LRTA is a GOCC
+> and not a government instrumentality vested with corporate powers did not
+> prevent the Court from rectifying the error. As it did a year later in the 2019
+> LRTA case, the Court correctly applied prevailing jurisprudence. To be sure,
+> the MIAA case has become the precedent in determining whether a
+> government entity or agency is an instrumentality or agency of the National.
+> Government or a GOCC pursuant to their definitions under the Administrative
+> Code. More importantly, in the 2019 LRTA case, the Court had already
+> determined the LRTA's status as a government instrumentality exercising
+> corporate powers by applying the criteria set in the MIAA case.
+> The beneficial user is the one liable to
+> paytheRPT
+> In ruling that the LRTA properties belong to the Republic of the
+> Philippines and are exempt from RPT, the ponencia clarifies that portions of
+> these properties that the LRTA leases to private entities are not exempt from
+> RPT. The ponencia further cites an example that the land area occupied by
+> private concessionaires in certain LRT lines and terminals should be subject
+> to RPT and explicitly states that itis the taxable person who should pay the
+> RPT.7 Too, the ponencia states in the, dispositive portion that all the RPT
+> assessments, as well as the warrants of levy, issued by the City of Pasay, on
+> the LRTA's properties are void, except the assessment covering the
+> portions that LRTA has leased to private parties, who are liable to pay
+> the corresponding RPT.8
+> 5 Id. at 617-621; citations omitted.
+> 6 Light Rail Transit Authority v. City ofM anila, G.R. No. 212925, June 18, 2018 (Unsigned Resolution).
+> 7 Ponencia, p. 29.
+> Id. at 30.
+>
+> •,
+> Separate Concurring Opinion 6 G.R. No. 211299
+> I agree with the ponencia's ruling. The liability to pay RPT on
+> government-owned properties leased to private entities devolves upon the
+> taxable beneficial user.
+> I expound.
+> Section 234(a) of the LGC provides:
+> SECTION 234. ExemptionsfromReal Property Tax. -The following
+> are exempted from payment of the real property tax:
+> (a) Real property owned by the Republic of the Philippines or any of
+> its political subdivisions except when the beneficial use thereof
+> has been granted, for consideration or otherwise, to a taxable
+> person[.]
+> Based on the foregoing, real property owned by the LRTA is generally
+> exempt from the payment of RPT. However, such exemption ceases when the
+> beneficial use thereof has been granted, for consideration or otherwise, to a
+> taxable person. Beneficial use means that the person or entity has the actual
+> use and possession of the property.9
+> Section 234(a) of the LGC must likewise be read in conjunction with
+> Section 205(d) of the same Code which provides:
+> SECTION 205. Listing ofR eal Property in the Assessment Rolls. -(a)
+> In every province and city, including the municipalities within the Metropolitan
+> Manila Area, there shall be prepared and maintained by the provincial, city or
+> municipal assessor an assessment roll wherein shall be listed all real property,
+> whether taxable or exempt, located within the territorial jurisdiction of the local
+> government unit concerned. Real property shall be listed, valued and
+> assessed in the name of the owner or administrator, or anyone having legal
+> interest in the property.
+> xxxx
+> (d) Real property owned by the Republic of the Philippines, its
+> instrumentalities and political subdivisions, the beneficial use of which
+> has been granted, for consideration or otherwise, to a taxable person,
+> shall be listed, valued and assessed in the name of the possessor, grantee
+> or of the public entity if such property has been acquired or held for resale
+> or lease. (Emphasis and underscoring supplied)
+> Assessment is the act or process of determining the value of the
+> property for purposes of taxation.10 Thus, in mandating that the assessment
+> be made "in the name of the possessor" of the property, the law clearly
+> holds liable for RPT the taxable person or entity which has the beneficial use
+> 9 Herarc Realty Corporation v. Provincial Treasurer ofB atangas, G.R. No. 210736, September 5, 2018,
+> 879 SCRA 317, 326; emphasis supplied, citation omitted.
+> 10 LOCAL GOVERNMENT CODE OF 1991, Title II, Chapter I, Sec. 199(f).
+>
+> Separate Concurring Opinion 7 G.R. No. 211299
+> of the property - and not the Republic of the Philippines, government
+> instrumentality or political subdivision, who owns the property.
+> Sections 234(a) and 205(d) of the LGC had their counterparts in
+> Sections 40 and 8, respectively of Presidential Decree No. 46411 or the 1974
+> Real Property Tax Code, to wit:
+> SECTION 8. Listing of Real Property in the Assessment Rolls. -In
+> every province and city, there shall be prepared and maintained by the
+> provincial or city assessor an assessment roll wherein shall be listed all real
+> property, whether taxable or exempt, located within the province or city.
+> Real property shall be listed and valued in the name of the owner or
+> administrator, or anyone having legal interest in the property.
+> xxxx
+> Real property owned by the Republic of the Philippines, its political
+> subdivisions and any government-owned corporation so exempt by its
+> charter, the beneficial use of which h~s been granted, for consideration or
+> otherwise, to a taxable person, shall be listed for purposes of taxation in the
+> name of the grantee, or of the public entity if such property has been
+> acquired for resale or lease.
+> xxxx
+> SECTION 40. Exemptions from Real Property Tax. - The
+> exemption shall be as follows:
+> (a) Real property owned by the Republic of the Philippines or any
+> of its political subdivisions and any government-owned
+> corporation so exempt by its charter: Provided; however, That
+> this exemption shall not apply to real property of the
+> abovenamed entities the beneficial use of which has been
+> granted, for consideration or otherwise, to a taxable person. 12
+> Imposing the liability to pay RPT on the beneficial user flows from the
+> fundamental principle governing our real estate taxation - that the
+> assessment of real property shall be based on its actual use. Actual use refers
+> to the purpose for which the property is principally or predominantly utilized
+> by the person in possession thereof.13
+> Prior to the 1974 Real Property Tax Code, real property was taxed on
+> the basis of ownership or interest tantamount to ownership.14 Later, the 1974
+> Real Property Tax Code changed the basis of real property taxation by
+> adopting a policy of taxing real property on the. basis of actual use, even if
+> the user is not the owner.15 Thus, Sections 2, 3(a) and 19 thereof provide:
+> 11 ENACTING A REAL PROPERTY TAX CODE, approved on May 20, 1974.
+> 12 The difference between the subject Sections in the LGC and the I 974 Real Property Tax Code is the
+> exclusion of government-owned corporations in the former.
+> 13 LOCAL GOVERNMENT CODE OF 199 I, Title II, Chapter I, Sec. l 99(b) .
+> 14 Province ofN ueva Ecija v. Imperial Mining Co., Inc., 204 Phil. 262, 265 (1982).
+> 15 Id. at 265; emphasis supplied.
+>
+> ,
+> Separate Concurring Opinion 8 G.R. No. 211299 '
+> SECTION 2. Fundamental Principles. - The appraisal and
+> assessment of real property for taxation purposes shall be guided by the
+> following fundamental principles:
+> xxxx
+> 3) Real property shall be classified for assessment purposes on the
+> basis of its actual use;
+> xxxx
+> SECTION 3. Definition of Terms. - When used in this Code -
+> a) Actual use - shall refer to the purpose for which the property is
+> principally or predominantly utilized by the persons in
+> possession of the property.
+> xxxx
+> Special Classes ofR eal Property. -
+> xxxx
+> SECTION 19. Actual Use ofR eal Property as Basis/or Assessment.
+> - Real property shall be assessed on the basis of its actual use regardless of
+> where located and whoever uses it.
+> It bears emphasis that the afore-quoted prov1s10ns were, agam,
+> reproduced in the LGC, to wit:
+> SECTION 198. Fundamental Principles. -The appraisal, assessment,
+> levy and collection of real property tax shall be guided by the following
+> fundamental principles:
+> xxxx
+> (b) Real property shall be classified for assessment purposes on the
+> basis of its actual use;
+> xxxx
+> SECTION 199. Definition a/Terms. - When used in this Title, the
+> term:
+> xxxx
+> (b) "Actual Use" refers to the purpose for which the property is
+> principally or predominantly utilized by the person in
+> possession thereof;
+> xxxx
+> SECTION 217. Actual Use of Real Property as Basis for
+> Assessment. - Real property shall be classified, valued and assessed on the
+>
+> Separate Concurring Opinion 9 G.R. No. 211299
+> basis of its actual use regardless of where located, whoever owns it, and
+> whoever uses it.
+> In addition, jurisprudence is replete with cases following the above
+> consistent provisions of the 1974 Real Property Tax Code and the LGC.
+> The earliest case is the 1980 case of City ofB aguio v. Busuego, 16 where
+> a real property tax collection suit was instituted by the local government unit
+> against the purchaser in installmenf of the property belonging to the
+> Government Service Insurance System (GSIS). The Court found that under_
+> the parties' contract to sell, the beneficial use of the property was transferred
+> to the purchaser. The contract also clearly imposed upon the purchaser the
+> obligation to pay the real property tax even if GSIS, a government corporation,
+> is exempt from real property taxes. According to the Court, such contractual
+> stipulation is valid and binding. It is premised on the principle that "the sole
+> determinative factor for exemption from realty taxes is the 'use' to which
+> the property is devoted[.] And where 'use' is the test, the ownership is
+> immaterial."17 The Court also found that such agreement was in conformity
+> with Section 40(a) of the 1974 Real Property Tax Code. Thus, the Court held
+> that on the strength of the provision of Section 40(a), the said property is not
+> exempt from real property tax. Consequently, the purchaser was made liable
+> to pay the real property taxes from the time the possession of such property
+> was transferred to him, although pending full payment of the purchase price,
+> the seller GSIS retains ownership and title over the property. 18
+> In the 1990 case of Testate Estate of Concordia T. Lim v. City of
+> Manila19 (Testate Estate of Concordia Lim case), the plaintiff therein was.
+> assessed for RPT, which accrued at the time the properties were still in the
+> name of GSIS because, based on the Deed of Absolute Sale, plaintiff allegedly
+> assumed to pay the taxes due. However, during the time GSIS held the titles,
+> the said properties were leased to other persons. Plaintiff nonetheless paid the
+> assessed taxes under protest and later on filed a claim for refund. The Court
+> granted plaintiffs claim and ordered the local government unit to refund the
+> taxes paid under protest. Citing Sections 3 (a) and 19 of the 197 4 Real Property
+> Tax Code, the Court held that "[i]n real estate taxation, the unpaid tax
+> attaches to the property and is chargeable against the taxable person who
+> had actual or beneficial use and possession of it regardless of whether or
+> not he is the owner."20
+> The Court also ruled that not even GSIS can be made liable for the tax
+> on the subject properties leased to other persons because "tax should be based
+> on 'actual use' of the property."21 This.finds support in the clear provision of
+> Section40 of the 1974 Real Property Tax Code. The Court further held that
+> 16 188Phil.218(1980).
+> 17 Id. at 223, citing Martin on the Rev. Adm. Code, 1961, Vol. II, p. 487; emphasis supplied.
+> 18 Id. at 220.
+> 19 261 Phil. 602 (1990).
+> 20 Id. at 607; emphasis supplied, citations omitted.
+> 21 Id.at61I.
+>
+> ',
+> Separate Concurring Opinion 10 G.R. No. 211299
+> "if there is anyone liable [for paymeht of real property tax,] the law and
+> applicable jurisprudence point to ithe lessees of land owned by the
+> [GOCC]."22 The Court, however, did µot rule on the liabilities of the lessees
+> because their identities were not clear a,s they were never impleaded.23
+> I
+> The ratio in the foregoing earlier cases was also applied by the Court in
+> succeeding cases governed by the prt>1 visions. of the LGC. In the cases of
+> Republic of the Philippines v. CitjJ of Kidapawan,24 National Power
+> Corporation v. Province of Quezon, ~t al., 25 (NPC case) and GSJS v. City
+> Treasurer of the City of Manila, 26 where property of the Republic of the
+> Philippines or a government instrumen~ality is leased or transferred to taxable
+> private individuals or entities, the Court: held that liability to pay real property
+> taxes devolves upon the taxable ben~ficial user. The Court explained that
+> while generally, the liability for taxes rests on the owner of the real property
+> at the time the tax accrues owing to th~ necessary consequence that proceeds
+> from the· fact of ownership,27 personial liability for realty taxes may also
+> expressly vest on the entity with the be~eficial use of the real property.28 This
+> situation happens when tax is imp~sed on the property owned by the
+> government but leased to private p:ersons or entities, or when the tax
+> assessment is made on the basis of thJ actual use of the property.29 In either
+> I
+> case, the Court has consistently emphasized that "the unpaid realty tax
+> attaches to the property but is dir~ctly chargeable against the taxable
+> person who has actual and beneficia;l use and possession of the property
+> regardless .of whether or not that petson is the owner."30
+> Furthermore, very recent cases pnbmulgated by the Court reiterate the tax
+> liability of the beneficial user. ·
+> I
+> I
+> In the 2018 case of Herarc Real()! Corporation v. Provincial Treasurer
+> of Batangas,31 the Court stressed 8 I i 'new its ruling in Testate Estate of
+> Concordia Lim case that the liabiiity to pay real property taxes on
+> government-owned property rests on t~I e taxable entity exercising actual and
+> beneficial use thereof, viz.:
+> i
+> xx x As the R TC correctly opined, in real estate taxation, the unpaid
+> tax attaches to the property. The persdrial liability for the tax delinquency is
+> generally on whoever is the owner of the real property at the time the tax
+> accrues. This is a necessary conseqience that proceeds from the fact of
+> ownership. Nonetheless, where th¢ tax liability is imposed on the
+> I
+> 22 Id., citing Province ofN ueva Ecija v. Imperial Mfning Co., Inc., supra note 14; emphasis supplied.
+> 23 Id.
+> I
+> 24 513 Phil. 440 (2005).
+> 25 610 Phil. 456 (2009). .
+> 26 G.R. No. 186242, December 23, 2009, 609 SC}½. 330.
+> 27 National Power Corporation v. Province of Que4on, et al., supra note 25, at 467, citing City of Baguio
+> v. Busuego, supra note 16.
+> i
+> 28 Id., citing Republic oft he Philippines v. City of1 -qidapawan, supra note 24, at 467, also citing Vitug and
+> Acosta, Tax Law and Jurisprudence (2000 ed.),~-490.
+> 29 Id. I
+> 30 Id. at 467-468; emphasis and italics in the origin~!, citations omitted.
+> 31 Supra note 9.
+> !
+>
+> Separate Concurring Opinion 11 G.R. No. 211299
+> beneficial use of the real property, such as those owned but leased to
+> private persons or entities by the government, or when the assessment
+> is made on the basis of the actual use thereof, the personal liability is
+> on any person who has such beneficial or actual use at the time of the
+> accrual of the tax. Beneficial use means that the person or entity has the
+> use and possession of the property. Actual use refers to the purpose for
+> which the property is principally or predominantly utilized by the person in
+> possession thereof.
+> x x x The tax exemption [that] real property owned by the
+> Republic, its political subdivisions, agencies or instrumentalities
+> carries, however, ceases if the beneficial use of the real property has
+> been granted, for a consideration or otherwise, to a taxable person. In
+> such case, the corresponding liability for the payment of the RPT
+> devolves on the taxable beneficial user. As applied in . subsequent
+> cases, it is in this context that our ruling in Testate Estate of Concordia
+> T. Lim should be understood. x x x32
+> In the 2019 case of Privatization and Management Office Court of
+> V.
+> Tax Appeals,33 the Court recognized that the local government unit correctly.
+> assessed for unpaid real property taxes the private entity to whom the
+> government had leased its property. Citing the NPC case, the Court held that
+> the private entity, who was the actual and beneficial user of the subject
+> property, is the one directly charged with the payment of tax and not the
+> government entity who owns the property.34
+> In the same year, the Court decided the 2019 LRTA case in which the
+> Court stated that the liability to pay RPT on government-owned properties
+> falls on the beneficial user:
+> In sum, a government instrumentality though vested with corporate
+> powers [is] exempt from real property tax, but the exemption shall not
+> extend to taxable private entities to whom the beneficial use of the
+> government [instrumentality's] properties has been vested. The taxable
+> private entities are subject to real property tax, but not the government
+> instrumentality they have dealt with, much less, the properties of the
+> government instrumentality subject of such beneficial use.35
+> Thus, in the 2019 LRTA case, the Court declared void all tax
+> assessments and final notices of tax delinquencies issued by Quezon City in
+> the name of the LRTA, as well as the public auction sale of the LRTA's
+> properties and the corresponding certificates of sale issued to Quezon City.
+> The Court further ruled that "[t]he local government of Quezon City may
+> assess and collect real property taxes only from those private parties, if any,
+> to whom the [LRT A] may have leased its real property for use by private
+> parties for their private purpose. "36
+> 32 Id. at 325-328; emphasis and underscoring supplied, citations omitted.
+> 33 G.R.No.211839,March 18,2019,897SCRA231.
+> 34 Id. at 241.
+> 35 Li[?ht Rail Transit Authority v. Quezon City, supra note 1, at 612-613; emphasis and underscoring
+> supplied; italics omitted.
+> 36 Id. at 622; emphasis in the original.
+>
+> ,
+> ,
+> I
+> Separate Concurring Opinion 12 G.R. No. 211299
+> '
+> ii
+> I
+> '
+> In the 2020 case of Philippine Heart Center v. The Local Government
+> of Quezon City37 (Philippine Heart C1nter case), the Court reiterated that the
+> RPT exemption granted by the LGC td a government instrumentality does not
+> extend to taxable private entities to whpm the beneficial use oft he government
+> instrumentality's properties has been )vested. Thus, Section 234 of the LGC
+> allows the imposition of RPT on such: properties and the taxable person with
+> beneficial use bears the burden of paying the RPT due thereon. Any remedy
+> for the assessment and collection of ~T should then be directed against the
+> taxable person. 38
+> '
+> In the 2021 case of Estampado~ v. The City Assessor of Manila,39 the
+> Court was tasked to resolve who between the property owner and the
+> beneficial user the tax liability falls. Citing the Philippine Heart Center case,
+> the Court held that the beneficial uset bears the responsibility of paying the
+> RPT that accrued on the parcel of l~md during the effectivity of the lease
+> agreement. The beneficial user, therefore, is not entitled to claim a refund of
+> the RPT paid under protest. 40
+> .
+> Still further, the Court just this year held in Unimasters
+> Conglomeration, Inc. v, Tacloban City Government41 that the burden of
+> paying the RPT due on the lease of the hotel passed on to the private entity as
+> the beneficial user thereof. Therein, the hotel in question is owned in common
+> by the Province of Leyte (a political subdivision), as well as by the
+> Privatization and Management Office (PMO) and Philippine Tourism
+> Authority, both of which are government instrumentalities exempt from
+> paying RPT. These co-owners entered into a Contract of Lease with the
+> private entity for the hotel. When the private entity stopped paying RPT
+> despite demand, the City Treasurer of Tacloban instituted a collection case
+> against the co-owners and the private entity. The Court of Tax Appeals (CTA)
+> Division and CTA En Banc found the private entity liable to pay the unpaid
+> RPT. When the case reached this Court, it agreed with the CTA En Banc that
+> the private entity, as the lessee of the hotel and the possessor and beneficial
+> user thereof, was liable for RPT.42
+> At the risk of being repetitive, I reiterate that: "the unpaid realty tax
+> attaches to the property but is directly chargeable against the taxable person
+> who has actual and beneficial use and possession of the property regardless of
+> whether or not that person is the owner."43
+> 37 G.R. No. 225409, March 11, 2020.
+> 3& Id.
+> 39 G.R. No. 227288, March 18, 2021 (Unsigned Resolution}.
+> 4o Id.
+> 41 G.R. No. 214195, March 23, 2022.
+> 42 Id.
+> 43 Id., citing MWSS v. Central Board ofA ssessment Appeals, G.R. No. 215955, January 13, 2021.
+>
+> Separate Concurring Opinion 13 G.R. No. 211299
+> Applying the foregoing principles to the present LRTA case, I agree
+> that only portions of the LRTA properties leased to taxable persons like the
+> private concessionaires are subject to RPT by the City of Pasay.
+> While I recognize that the private concessionaires cannot be held liable
+> for RPT in the present case because they were not impleaded as parties, the
+> liability to pay the RPT ultimately falls on them (private concessionaires)
+> because they have been granted actual and beneficial use of the portions of
+> the LRTA properties. In other words, the tax exemption, which the LRTA
+> carries, is withdrawn the moment the private concessionaires are granted
+> beneficial use over the LRTA's real properties. Since then, the tax liability
+> has accrued, and the corresponding duty to pay the RPT has devolved upon
+> the private concessionaires as the taxable beneficial user.
+> Accordingly, I concur that the Petition should be GRANTED.
+> CERTIFIED TRUE CO Y
+> :MARIA L SAM. SM1TILLA
+> of
+> .. Deputy Clerk Court and
+> Executive Officer
+> OCC-En Banc, Supreme Conn

@@ -1,0 +1,935 @@
+# GR-THIRD-DIVISION-G.R.NO_.266371DECISION
+
+**Randy Dela Cruz y Deguero and Ricky Vidanes y Osela Vs. People of the Philippines**
+
+## Metadata
+
+- **Case Title**: Randy Dela Cruz y Deguero and Ricky Vidanes y Osela Vs. People of the Philippines
+- **Ponente**: INTING, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: July 13, 2022
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2026/01/THIRD-DIVISION-G.R.NO_.266371DECISION.pdf)
+
+---
+
+> l\epublit of tbel 3bflfppifl~-'-r:.,-:...t,-LP.+,_-l\ r-="f--r~~("-1v
+> supreme <n:ourt
+> ffla:nHa
+> THIRD DIVISION
+> RANDY DELA CRUZ y G.R. No. 266371
+> DEGUERO and RICKY [Formerly UDK No.17775]
+> VIDANES y OSELA,
+> Petitioners, Present:
+> CAGUIOA, J., Chairperson,
+> INTING,
+> - versus - GAERLAN,
+> DIMAAMPAO, and
+> SINGH,* JJ
+> PEOPLE OF THE Promulgated:
+> PHILIPPINES,
+> r4'n G -~
+> Respondent. .4~U .1 0 I.) i 1 t•i:':fl~ii"Jit..t·'~" O
+> x------------------------------------------------------x
+> DECISION
+> INTING, J.:
+> Before the Court is a Petition for Review on Certiorari1 filed by
+> Randy Dela Cruz y Deguero (Randy) and Ricky Vidanes y Osela (Ricky)
+> ( collectively, petitioners) assailing the Decision2 dated July 13, 2022, of
+> the Court of Appeals (CA) in CA-G.R. CR No. 44960. The assailed CA
+> Decision affirmed, with modification as to the monetary awards, the
+> Decision3 dated February 18, 2020, of Branch 80, Regional Trial Court
+> * On leave.
+> 1 Rollo, pp. 13-30.
+> 2 Id. at 31--45. Penned by Associate Justice Gabriel T. Robeniol and concurred in by Associate
+> Justices Marlene B. Gonzales-Sison and Michael P. Ong of the Seventh Division, Court of Appeals,
+> Manila.
+> RTC records, pp. 503-512. Penned by Presiding Judge Shiela Marie A. Ignacio.
+>
+> Decision 2 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> (RTC), Morong, Rizal in Criminal Case No. 03-6050-M that found
+> petitioners guilty beyond reasonable doubt of Homicide under Article
+> 2494 of the Revised Penal Code.
+> Assailed as well is the Resolution dated January 16, 2023 of the CA
+> which denied petitioners' Motion for Reconsideration.
+> The Antecedents
+> The case stemmed from an Information5 dated June 30, 2003, that
+> charged petitioners with Homicide. The accusatory portion of the
+> Information reads:
+> That on or about the 22nd day of June, 2003, in the Municipality
+> of Pililla, Province of Rizal, Philippines, and within the jurisdiction of
+> this Honorable Court, the above-named accused, conspiring and
+> confederating together and both of them mutually helping and aiding
+> one another, with the use of stone, and with intent to kill, did, then and
+> there willfully, unlawfully and feloniously attack, assault and hit with
+> said stone one ALBERTO VERSOZA y MARTINEZ, hitting him on
+> his head, thereby inflicting upon him mortal wounds which directly
+> caused his death.
+> CONTRARY TO LAW.6
+> Upon arraignment on September 9, 2003, petitioners entered their
+> pleas of "Not Guilty" to the crime charged.7
+> After the pre-trial, trial on the merits ensued.
+> 4 REV. PEN. CODE, art. 249 states:
+> ARTICLE. Homicide. -Any person who, not falling within the provisions of article 246 shall kill
+> another without the attendance of any of the circumstances enumerated in the next preceding
+> article, shall be deemed guilty of homicide and be punished by reclusion temporal.
+> Id. at 1-2.
+> 6 Id. at 1.
+> 7 Id. at 36.
+> (j1
+>
+> Decision 3 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> The Version of the Prosecution
+> The prosecution presented Abigail Garcia (Abigail) and Evangeline
+> Versoza (Evangeline) as its witnesses.
+> Abigail is the niece of the victim, Alberto Versoza y Martinez
+> (Alberto). She testified that on June 22, 2003, while she was in front of
+> their house in San Antonio Street, Quisao, Pililla, Rizal, she witnessed
+> Randy hit Alberto on the head with a stone approximately 3 to 4 inches in
+> diameter. At the time Randy hit Alberto, she was behind the latter. Abigail
+> recalled that Randy struck Alberto once on the top of his head, which
+> caused the latter to lose consciousness. Thereafter, she saw Ricky jump
+> and land on Alberto's stomach. Then, petitioners fled.8
+> Evangeline, Alberto's sister, testified on the medical and burial
+> expenses they incurred due to the incident. She attested that Alberto
+> was initially brought to a hospital for treatment, where they spent
+> about PHP 4,300.00. However, Alberto eventually died on June 25, 2003.
+> Evangeline further asserted that they incurred burial expenses, which
+> include PHP 10,000.00 for the coffin and PHP 3,000.00 for the autopsy.9
+> The Version of the Defense
+> Randy testified that on June 22, 2003, at around 5:00 p.m., he was
+> having a drinking spree at a vacant lot in San Antonio Street, Barangay
+> Quisao, Pililla, Rizal, with 10 of his friends, including Ricky, to celebrate
+> the birthday of a certain Renan. Alberto passed by and had a drink with
+> them that lasted for one and a half hours. After the drinking spree, Randy
+> decided to go home. On his way home, he passed by Alberto's house,
+> where Alberto called him. When Randy turned around, he saw Alberto
+> pointing a knife at him. Randy ran away from Alberto. When he looked
+> back at Alberto, he saw him stumble on a canal while holding the knife.
+> Randy saw Alberto get up; he was bleeding. Randy was uncertain where
+> the blood was coming from.
+> 8 TSN, Abigail Garcia, January 25, 2006, pp. 3-4, 6-8, 10. See also TSN, Abigail Garcia, April 26,
+> 2006, p. 3.
+> 9 TSN, Evangeline Versoza, February 16, 2006, pp. 4-6.
+>
+> Decision 4 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> Randy alleged that he hit Alberto with a stone before fleeing. After
+> a few minutes, he returned to the area of the incident to confront Alberto.
+> However, there was a commotion and he noticed that Alberto was lying
+> on the ground. 10
+> Randy further testified that upon learning that Alberto's family had
+> accused him and Ricky of killing Alberto, they voluntarily went to the
+> Office of the Barangay Captain. 11
+> As for Ricky, he narrated that on June 22, 2003, while they were
+> having a drinking session at 5:00 p.m., Alberto arrived and joined them.
+> After drinking and eating with them, Alberto left without saying a word.
+> When they ended their drinking session, Ricky told Randy to go home
+> first as he had to return the things they borrowed for the drinking spree.
+> When he went out, Randy was ahead ofhim. 12
+> Ricky further narrated that upon reaching the scene of the incident,
+> he saw Alberto already lying on the ground while holding a knife. Alberto
+> is known to carry a bladed weapon often. Priorly, Alberto and Randy did
+> not engage in any heated argument. But by the time he arrived at the scene
+> of the incident, the altercation between Alberto and Randy had already
+> transpired, and people were hovering around. When he was about to
+> approach Alberto, a certain Ariel Amongo brought out a long piece of
+> wood and chased him. 13
+> The Ruling of the RTC
+> In its Decision14 dated February 18, 2020, the RTC convicted
+> petitioners of Homicide. The dispositive portion of the Decision states:
+> WHEREFORE, premises considered, this Court found accused
+> RANDY CRUZ [y] Duguero and RICKYVIDANES y Osela GUILTY
+> beyond reasonable doubt of the crime of Homicide and sentences them
+> 10 TSN, Randy Dela Cruzy Deguero, October 14, 2019, pp. 4-5, 7-9, 15-16.
+> 11 Id. at 17.
+> 12 TSN, Ricky Vidanes y Osela, November 26, 2019, pp. 3-5.
+> 13 Id.at 7, 17-18,20.
+> 14 RTC records, pp. 503-512.
+>
+> Decision 5 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> to suffer the indeterminate penalty of eight (8) years and one (1) day of
+> prision mayor, as minimum, to fourteen (14) years, eight months, and
+> one (1) day of reclusion temporal, as maximum. They are further
+> ordered to pay the heirs of Albe1io Versoza y Martinez the amount of
+> [PHP] 75,000.00 as civil indemnity, [PHP] 75,000.00 as moral
+> damages and [PHP] 75,000.00 as exemplary damages with legal
+> interest at 6% from the date of filing of the [I]nformation until fully
+> paid and the costs of suit.
+> SO ORDERED.15
+> The RTC gave full credence to the testimony of Abigail and ruled
+> that petitioners conspired to kill Alberto. The RTC noted that the
+> Certificate of Death, presented by the prosecution, which indicated the
+> cause of death as "intracranial hemorrhage as a result of traumatic injuries,
+> head," corroborated the testimony of Abigail and Randy's admission that
+> the latter struck Alberto with a stone.16
+> Aggrieved, petitioners appealed to the CA. 17
+> On appeal, petitioners argued that their constitutional right to
+> speedy trial was blatantly violated, as the case remained pending for
+> approximately 17 years before the RTC rendered its final Decision. 18 After
+> their arraignment, the scheduled hearings were repeatedly postponed due
+> to the absence of the public prosecutor assigned, the absence of the
+> Medico Legal Officer and other prosecution witnesses, and other delays
+> not attributable to petitioners. Petitioners further asserted that the RTC
+> erred in convicting them of the crime charged, as the prosecution failed to
+> establish their guilt beyond reasonable doubt.19 Lastly, petitioners argued
+> that the prosecution did not sufficiently prove that they acted in conspiracy
+> to kill Alberto.20
+> The People of the Philippines, through the Office of the Solicitor
+> General (OSG), countered that petitioners' right to speedy trial was not
+> 15 Id. at 512.
+> 16 Id. at 511.
+> 17 CA rollo, pp. 13-14. See Notice of Appeal dated March 4, 2020.
+> 18 Id. at 63-65.
+> 19 Id. at 65, 70-71.
+> 20 Id. at 71.
+> fYl
+>
+> Decision 6 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> violated. The OSG asserted that petitioners failed to invoke their right to
+> speedy trial timely. It further explained that the prosecution was able to
+> establish all the elements of the crime ofHomicide. 21
+> The Ruling of the CA
+> In its Decision22 dated July 13, 2022, the CA affirmed petitioners'
+> conviction but modified the monetary awards, viz.:
+> WHEREFORE, the instant appeal is DENIED. The Decision
+> dated February 18, 2020 of the Regional Trial Court ofMorong, Rizal,
+> Branch 80, in Criminal Case No. 03-6050-M, convicting accused
+> appellants Randy Dela Cruz y Deguero and Ricky Vidanes [y] Osela of
+> Homicide under Article 249 of the Revised Penal Code, as amended,
+> and penalizing them therefor, is AFFIRMED with MODIFICATION
+> that they are ordered to solidarily pay the heirs of victim Alberto
+> Versoza the following reduced amounts: [PHP] 50,000.00 as civil
+> indemnity, [PHP] 50,000.00 as moral damages and [PHP] 50,000.00 as
+> temperate damages. Said award shall earn interest at the rate of six
+> percent (6%) per annum from the date of finality of this Decision until
+> fully paid.
+> SO ORDERED.23
+> The CA held that the right to speedy trial of petitioners was not
+> violated. It reasoned that petitioners failed to show that the causes of the
+> delay in the prosecution of the case were unjust, unreasonable, and
+> oppressive. 24 It further ruled that the prosecution was able to prove beyond
+> a reasonable doubt all the elements of Homicide, and that petitioners
+> conspired in the. killing of Alberto. It gave credence to the testimony of
+> Abigail and her positive identification of petitioners as the perpetrators. 25
+> Undeterred, petitioners filed a Motion for Reconsideration,26 but
+> the CA denied it in the assailed Resolution27 dated January 16, 2023.
+> 21 Id. at 113-116, 120-121.
+> 22 Rollo, pp. 31-45.
+> 23 Id at 44.
+> 24 Id. at 38.
+> 25 Id. at 42.
+> 26 CArollo, pp. 172-175.
+> 27 Rollo, pp. 46-47.
+> (fl
+>
+> Decision 7 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> Thus, the Petition for Review on Certiorari.
+> Petitioners' Argument
+> Petitioners argue that the CA erred in not dismissing the criminal
+> case on the ground of blatant violation of their right to speedy trial.
+> Petitioners highlight various reasons for the undue delay in resolving the
+> criminal case: (1) pending availability of court records; (2) lack of notice
+> to the private complainant and the intended prosecution witness;
+> (3) insufficient time; (4) the Presiding Judge was indisposed and on sick
+> leave; (5) prosecution witnesses did not appear; (6) the Presiding Judge
+> had an unavoidable engagement; (7) the Presiding Judge was on
+> forfeitable leave; and (8) the trial prosecutor was unavailable. 28
+> Petitioners assert that the postponements of hearings were not
+> attributable to them but rather to the prosecution and the lower court.29
+> Further, petitioners argue that the prosecution failed to prove their
+> guilt beyond reasonable doubt. They contend that the testimony of
+> Abigail, the sole eyewitness for the prosecution, was full of
+> inconsistencies. They insist that she is not a credible witness.30
+> In the Comment, the OSG maintains that there was no violation of
+> petitioners' constitutional right to a speedy trial. The OSG contends that
+> petitioners failed to substantiate their bare allegations with competent and
+> specific evidence. In particular, •p etitioners did not provide any factual
+> details as to the causes, extent, or circumstances of the alleged delay;
+> neither did they demonstrate that the same was unjustified, unreasonable,
+> vexatious, or oppressive so as to warrant the dismissal of the case on
+> constitutional grounds. 31
+> Moreover, the OSG posits that the prosecution was able to establish
+> all the essential elements of the crime of Homicide beyond reasonable
+> 28 Id. at 21.
+> 29 Id. at 22.
+> 30 Id. at 22-26.
+> 31 Id. at 111-114. See Comment on the Petition.
+>
+> Decision 8 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> doubt. It underscores that petitioners' defenses of denial and alibi are
+> inherently weak and cannot prevail over the positive and categorical
+> identification by the eyewitness, Abigail, whose testimony was
+> unwavering, straightforward, and c01Toboratedb y material details.32
+> The OSG further asserts that conspiracy among the petitioners was
+> convincingly proven through their concerted acts leading to the victim's
+> death. It was sufficiently established that Randy struck the victim, Alberto,
+> on the head with a stone, causing him to collapse, after which Ricky
+> jumped on the victim's abdomen. Thereafter, both petitioners hastily fled
+> the crime scene. Such concurrent and successive acts, according to the
+> OSG, demonstrate a common design and unity of purpose to kill the
+> victim, thereby rendering them equally liable for the crime charged. 33
+> The Issue
+> The core issue to be resolved by the Court is whether the CA erred
+> in not dismissing the case for violation of petitioners' right to speedy trial.
+> The Ruling of the Court
+> The Petition is meritorious.
+> In a Rule 45 petition, the jurisdiction of the Court is limited only to
+> reviewing errors of law as the Court is not a trier of facts. 34 As a rule, the
+> Court is not duty-bound to analyze and weigh again the evidence
+> considered in the proceedings below. 35 The Court cannot therefore assume
+> the role of trier of facts which, by law and jurisprudence, belongs to the
+> lower courts. However, this rule is not without any exceptions. In the case
+> of Ditiangkin v. Lazada E-Services Philippines, Inc. ,36 the Court
+> enumerated such exceptions:
+> 32 Id. at 114-116.
+> 33 Id. at 117-118.
+> 34 Heirs o_fTeresita Villanueva v. Heirs of Petronila Syquia Mendoza, 810 Phil. 172, 177 (2017).
+> 35 Gatan v. Vinarao, 820 Phil. 257, 266 (2017), citing Diokno v. Hon. Cacdac, 553 Phil. 405, 428
+> (2007).
+> 36 930 Phil. 250 (2022).
+> fYl
+>
+> Decision 9 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> (1) when the factual findings of the Court of Appeals and the trial court
+> are contradictory;
+> (2) when the conclusion is a finding grounded entirely on speculation,
+> surmises, or conjectures;
+> (3) when the inference made by the Court of Appeals from its findings
+> of fact is manifestly mistaken, absurd, or impossible;
+> (4 ) when there is a grave abuse of discretion in the appreciation of facts;
+> (5) when the Appellate Court, in maldng its findings, went beyond the
+> issues of the case and such findings are contrary to the admissions of
+> both appellant and appellee;
+> (6) when the judgment of the Court of Appeals is premised on a
+> misapprehension of facts;
+> (7) when the Court of Appeals failed to notice certain relevant facts
+> which, if properly considered, would justify a different conclusion;
+> (8) when the findings of fact are themselves conflicting;
+> (9) when the findings of fact are conclusions without citation of the
+> specific evidence on which they are based; and
+> (10) when the findings of fact of the Court of Appeals are premised on
+> the absence of evidence but such findings are contradicted by the
+> evidence on record. 37 (Emphasis supplied)
+> It is a well settled rule that the factual findings of the trial court are
+> accorded great weight and respect on appeal, especially when such
+> findings are supported by substantial evidence on record.38 It is only in
+> exceptional circumstances, such as when the trial court overlooked
+> material and relevant matters, that the Court, on review, will re-calibrate
+> and evaluate the factual findings of the court below. 39 This exception
+> applies in the case at bar.
+> The constitutional right to
+> speedy trial of petitioners was
+> blatantly violated; thus, they
+> should be acquitted
+> The right of an accused to '"a speedy, impartial, and public trial" in
+> criminal cases is guaranteed under Article III, Section 14(2)40 of the
+> 37 Id. at 263, citing Visayan Electric Company v. Alfeche, 821 Phil. 971,982 (2017).
+> 38 Sorongon v. People, 904 Phil. 438,445 (2021).
+> 39 People v. Badillos, 832 Phil. 572, 585 (2018), citing People v. Esteban, 735 Phil. 663, 670-671
+> (2014).
+> °
+> 4 CONST. (1987), art. III., sec. 14(2) states:
+> SECTION 14. (I) ...
+>
+> Decision 10 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> Constitution. Its salutary objective is to assure that an innocent person may
+> be free from the anxiety and expense of a court litigation or, if otherwise,
+> of having his or her guilt determined within the shortest possible time
+> compatible with the presentation and consideration of whatsoever defense
+> he or she may interpose.41 The right to speedy trial is deemed violated
+> when the proceedings are attended by vexatious, capricious, and
+> oppressive delays; when unwarranted postponement of the trial are
+> requested and granted; or when, without cause or justifiable reason, an
+> unreasonable period elapses without the case being brought to trial. 42
+> The constitutional right to speedy trial was embodied and enforced
+> through Republic Act No. 8493,43 otherwise known as the "Speedy Trial
+> Act of 1998." Relevantly, Republic Act No. 8493 was instructive when it
+> provided that the time limit for trial in criminal cases, except those subject
+> to the Rules on Summary Procedure, or where the penalty prescribed by
+> law does not exceed six months imprisonment, or a fine of PHP 1,000.00
+> or both, irrespective of other imposable penalties, shall not exceed
+> a period of 180 days from the first day of trial, to wit:
+> SECTION 6. Time Limit for Trial. - In criminal cases involving persons
+> charged of a crime, except those subject to the Rules on Summary
+> Procedure, or where the penalty prescribed by law does not exceed six
+> (6) months imprisonment, or a fine of One thousand pesos (Pl,000.00)
+> or both, irrespective of other imposable penalties, the justice or judge
+> shall, after consultation with the public prosecutor and the counsel for
+> the accused, set the case for continuous trial on a weekly or other short
+> term trial calendar at the earliest possible time so as to ensure speedy
+> trial. In no case shall the entire trial period exceed one hundred eighty
+> (180) days from the first day of trial, except as otherwise authorized by
+> the Chief Justice of the Supreme Court pursuant to Section 3, Rule 22
+> of the Rules of Court.
+> (2) In all criminal prosecutions, the accused shall be presumed innocent until the contrary is proved,
+> and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause
+> of the accusation against him, to have a speedy, impartial, and public trial, to meet the witnesses
+> face to face, and to have compulsory process to secure the attendance of witnesses and the
+> production of evidence in his behalf. However, after arraigmnent, trial may proceed
+> notwithstanding the absence of the accused provided that he has been duly notified and his failure
+> to appear is unjustifiable.
+> 41 Magno v. People, 828 Phil. 453, 462 (2018).
+> 42 Almeda v. Office of the Sandiganbayan (Mindanao), 791 Phil. 129, 143 (2016).
+> 43 Titled, "AN ACT TO ENSURE A SPEEDY TRIAL OF ALL CRIMINAL CASES BEFORE THE
+> SANDIGANBAYAN, REGIONAL TRIAL COURT, METROPOLITAN TRIAL COURT,
+> MUNICIPAL TRIAL COURT, AND MUNICIPAL CIRCUIT TRIAL COURT, APPROPRIATING
+> FUNDS THEREFOR, AND FOR OTHER PURPOSES," approved on February 12, 1998.
+>
+> Decision 11 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> Further, Section 7 of Republic Act No. 8493 provides that the
+> "arraigmnent of an accused shall be held within [30] days from the filing
+> of the information, or from the date the accused has appeared before the
+> justice, judge or court in which the charge is pending, whichever date last
+> occurs," and the "[t]rial shall commence within [30] days from
+> arraignment as fixed by the court. "44 Additionally, the Court incorporated
+> these guidelines into Rule 119 of the Revised Rules on Criminal
+> Procedure, as well as the Revised Guidelines for [the] Continuous Trial of
+> Criminal Cases inA.M. No. 15-06-10-SC.45
+> Notwithstanding, the Court has consistently emphasized that a mere
+> mathematical reckoning of the time involved is not sufficient to rule that
+> an accused's right to speedy trial was violated.46 The conduct of both the
+> prosecution and the defense must be weighed.47 Accordingly, in
+> determining whether this right has been infringed, the Court applies the
+> balancing test, which considers the following factors: (1) the length of the
+> delay; (2) the reasons for the delay; (3) the accused's assertion of the right;
+> and ( 4) the prejudice suffered by the respondent."48
+> Now, to clearly assess the case at bar, the Court takes note of the
+> incidents pertaining to the postponements of the trial:
+> Date of Arrai nment
+> 44 REPUBLICA CTN o. 8493 (1998), sec. 7 states:
+> SECTION 7. Time Limit Between Filing of Information and Arraignment and Between
+> Arraignment and Trial. - The arraignment of an accused shall be held within thirty (30) days from
+> the filing of the infonnation, or from the date the accused has appeared before the justice, judge or
+> court in which the charge is pending, whichever date last occurs. Thereafter, where a plea of not
+> guilty is entered, the accused shall have at least fifteen ( 15) days to prepare for trial. Trial shall
+> commence within thirty (30) days from arraignment as fixed by the court.
+> If the accused pleads not guilty to the crime charged, he/she shall state whether he/she interposes
+> a negative or affirmative defense. A negative defense shall require the prosecution to prove the guilt
+> of the accused beyond reasonable doubt, while an affirmative defense may modify the order of trial
+> and require the accused to prove such defense by clear and convincing evidence.
+> 45 Promulgated April 25, 2017 and took effect on September 1, 2017.
+> 46 See Licaros v. Sandiganbayan, 421 Phil. 1075, 1093 (2001), citing Dela Pena v. Sandiganbayan,
+> 412 Phil. 921, (2001).
+> 47 Villareal v. People, 680 Phil. 527, 552 (2012), citing People v. Tampa!, 314 Phil. 35 (1995).
+> 48 Cagangv. Sandiganbayan, 837 Phil. 815. 855 (2018).
+>
+> Decision 12 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> commenced
+> Scheduled initial trial
+> Scheduled initial trial
+> Scheduled initial trial
+> Scheduled initial trial
+> .;
+> :e
+> .··~·· ..
+> /;:
+> 49 RTC records, p. 101, Order dated February 18, 2004.
+> so Id. at 128, Order dated July 5, 2004.
+> 51 Id at 130.
+> 52 Id. at 135.
+>
+> Decision 13 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> }ttf
+> Scheduled initial trial
+> 1
+> :./E ·.••
+> cross- ::_,
+> examination of ..2.
+> .,C.:,,.'jr,~,;!e•;
+> Evangeline.
+> tlh
+> ,, ,".'
+> examination
+> Evangeline
+> ,..., ., . ,.,.. ,.,.,.C,"o' nclusion of
+> testimony
+> Evangeline. 57
+> Direct Examination
+> l::',;fr;,,,,,::.:.,,.:, ,...,.\, •o
+> of the prosecution's
+> 1"""'"'',.,.,r..•., ,,;,,·,/,t.\"
+> second witness,
+> ·,;::,•:c:,,,,;c:,0,~1":,~:iA bi ail.58
+> Conclusion
+> the testimony
+> Abigail.59
+> Presentation
+> by
+> 53 Id. at 141.
+> 54 Id. at 148.
+> 55 Id. at 168.
+> 56 Id. at 178.
+> 57 Id. at 186.
+> 58 Id. at 20 1.
+> 59 Id. at 226.
+>
+> Decision 14 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> prosecution witnesses, ;
+> PC/Insp. Jose Amel
+> Marquez (PC/Insp.
+> Marquez).
+> prosecution witness,
+> PC/Insp. Marquez
+> Presentation
+> prosecution witness,
+> PC/Insp. Marquez
+> Presentation
+> prosecution witness,
+> PC/Insp. Marquez·
+> prosecution witness,
+> PC/Insp. Marquez.
+> 60 Id. at 241.
+> 61 Id at 246.
+> 62 Id at 254.
+> 63 Id. at 259.
+> 64 Id. at 260.
+> 65 Id. at 263.
+>
+> Decision 15 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> of ','.~~'$yd~}?,)}(:
+> prosecution witness, ;:2008~!/l:,que\.
+> .a:bs~hcg:
+> PC/Insp. Marquez. rf<::'
+> of •R :es·~b':/to'., , -,'
+> ::2oossi)i i6 i ~ry;
+> rosecution witness,
+> C/Insp. Marquez. :2S,:26rjt;«,r -_-_f§ .ted·
+> '.<·~ia::.('; :t,i b~:\v&f~ftxg'
+> c~~=:rj
+> hearing
+> nd presentation of ;2:d◊' >:.'
+> rosecution witness. (fii-i'
+> ·:·;·\'.'.\//
+> -;;
+> hearing _' _q ;: < -
+> , , I• u
+> and presentation of • ',._
+> .,,.,,,,,,,-p,r,,o_s,e-,c,u,.t, ion witness
+> ;;;t~~'&6fiilie~~~r
+> !~!:!!~!~earing~~
+> ,_,.. -- _ ,-,',, .'':.,:·''':·,-:•,--,..,.,.,_,1
+> :h:riav'-,t iirn
+> prosecution witness : !;'.:6-:ri
+> _:''·.•·· ..,. , _ ,. · , t :, , e; ·:- c -·· ''; o.. ;..r ,., ,,. .,, ·:.,:]::'
+> Scheduled hearing and [·,ti,$:~'.i••,'
+> presentation of iY: -O;),,{
+> iim:afJiiil-1:,
+> rosecution witness
+> 66 Id at 267.
+> 67 Id. at 270.
+> 68 Id. at 273.
+> 69 Id. at 279.
+> 70 Id. at 281.
+> 71 Id. at 288.
+> 72 Id. at 292.
+>
+> Decision 16 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> hearing
+> and presentation of
+> prosecution witness
+> hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of
+> rosecution witness.
+> Scheduled hearing
+> and presentation of ,
+> rosecution witness.
+> Scheduled hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of ,:,,,....,,,,,,,,,.,,,,,.,.,
+> , prosecution witness.
+> hearing
+> and presentation of
+> prosecution witness,
+> the mother of the
+> hearing
+> and presentation of
+> rosecution witness.
+> 73 Id. at 293.
+> 74 Id. at 295.
+> 75 Id. at 301.
+> 76 Id. at 307.
+> 77 Id. at 312.
+> 78 ld.at317.
+> 79 Id. at 324.
+> rr
+>
+> Decision 17 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> Scheduled hearing .Reser,:tt(A'Hgilst.:·C7,
+> t11:~i.c~i~tN,(fii}l~:
+> ,h'' •/',,,, ;;tseru~~~:n:::ss. of
+> ,,,,.,,,,·,,,.;.·i
+> :,prosec,t1tibtt:Wftrr.¢sI,e$/•
+> ;dtt~iiait1p¢:•'·'.{::;.';,;v<¾sb'ia,•
+> Ca.n d ·' : · : '~.:.:., ,:arrt. :.·. ,·•·n·'·'•:.'-.·
+> :-:.1·1···•0·
+> J.,V,J: , ':
+> 'aoa', 1ster,
+> "';rrtotller':.
+> ,~iiIti:!!t~ ,;
+> j--,-'--.....,....-,-,,.....,-~-.....-''--~--t-----------/,'--r-;--~~
+> Scheduled hearing :. .l {e~et;> :ttf:',',,]~tb:\T.etj:IEeF,
+> '::'20/i:~·012'/~,%hs:fl ofi·
+> and presentation of
+> ~tai!1•ii •(
+> llc:i'sit
+> prosecution witness.
+> hearing R.~!sff;,~',fb{: l~\:•lfJ • tl~;
+> <;;f
+> ;:ser:~~:n:::s/f
+> i~¥,~~t'{:t?/t'
+> Scheduled hearing
+> and presentation of ;l6~.:i'.2Q),:~,} .\.1.,. ,
+> ~:!ii"jJ; !lf
+> prosecution witness. (
+> :l{esef'.:..tb:Fe. .,·
+> Scheduled hearing
+> and presentation of j~Ol4,}, #-ue,· > h:e'
+> prosecution witness. absence•,:: ;e·:
+> ;a' •• ...
+> <"'risecti.1 _:i 'Jf 8.5
+> ;~~,ri!li~f
+> ;:,e:::o:::~~:~~
+> 80 Id at 331.
+> 81 Id at 341.
+> 82 Id. at 350.
+> 83 Id. at 358.
+> 84 Id. at 367.
+> 85 Id at 377.
+> 86 Id. at 360.
+>
+> Decision 18 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> Fle!<b's-.. ~.,, .
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of
+> prosecution witness.
+> hearing
+> and presentation of
+> prosecution witness.
+> 87 Id at 391.
+> 88 Id at 397.
+> 89 Id at 403.
+> 90 Idat416.
+> 91 Id at 428.
+> 92 Id. at 431.
+>
+> Decision 19 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> ,,,.,_,
+> nd presentation of :.j;Q< ·, 1 , ·: ; i:,, .
+> ahs€uJ·~·:'8::e.
+> rosecution witness.
+> •• '·, ·.•,. ..• '. • ,·.,, ... ,·,,:. ',.,,·3.,,.·, .... ....;,., .
+> . .'. \.'··,/,;:.':.',?'..",.·:,:.-;:,:<,·,_,:
+> h eanng ·'~Jf·:·,;.1',1j.0_i.v,:r;e"t~m,.-, ,·.
+> ',r .
+> 1J}:~dA17.~(o
+> and presentation of i~Gd:;~~~,6.:.;: ' ;t~e
+> prosecution witness. . r;:res1 1ng'i' 1..1 :1. g ~;:::was..
+> on sitk:Ieav:~•:P~;·: ".·:••':•
+> ~1)]?~:ttiit~~}
+> ~~
+> presentation ::
+> prosecution. ,scheduled·,·o .•.
+> ~and&•.·v ra
+> > /
+> l-'--.:.;..:,_.,_...;.~..,;:..,,,......:....~:.....,..:.~4----------1 . ' " .
+> The RTC issued an , •
+> Order96 admitting the
+> formal offer of
+> from the
+> and presentation
+> witness for
+> defense.
+> r
+> it;:
+> t~~:~~?f
+> ~6
+> and prcscntati:;:1 .·
+> witness for the ;·pttblfo,:prb~ecutor,,w,as>
+> ,, . '•.'•·.,·., .•, I
+> defense. .··•·tnats::os~d}~:·'.i,;)/::(•? ':•
+> 93 Id. at 437.
+> 94 Id. at 447.
+> 95 Id. at 453.
+> 96 Id. at 468.
+> 97 Id. at 475.
+> 98 Id. at 477.
+> 99 Id. at 489.
+> (I)
+>
+> Decision 20 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> The RTC rendered its
+> It is appalling that the case took almost 17 years to be resolved by
+> the RTC. While it is settled that the determination of inordinate delay is
+> not susceptible to a mechanical formula, the Court has consistently held
+> that the totality of the circumstances must be considered. These include
+> the volume of evidence, and the simplicity or complexity of the issues
+> raised.103 Even more, the causes of the delays must be properly laid out
+> and evaluated.104 Here, the records reveal a pattern of systematic
+> inefficiencies and prosecutorial lapses that are just inexcusable.
+> The Information against petitioners was filed on June 30, 2003.
+> They were arraigned on September 9, 2003, almost three months later,
+> which already violates Section 7 of Republic Act No. 8493, which
+> mandates that an accused must be arraigned within 3 0 days from the filing
+> of the infonnation or from the date the accused appeared before the court.
+> Even more alarming is the course of the proceedings that followed.
+> The Pre-trial Conference, which was intended to facilitate an expeditious
+> trial, was postponed twice because of the unavailability of the Presiding
+> Judge and the absence of the public prosecutor. The initial trial date was
+> set for July 5, 2004, but was postponed due to the prosecution witnesses'
+> 100 Id. at 495.
+> 101 Id. at 497.
+> 102 Id. at 503-51 l.
+> 103 Chingkoe v. Sandiganbayan, 931 Phil. 62, 78 (2022), citing Cagang v. Sandiganbayan, supra note
+> 48, at 880-882.
+> 104 Id.
+>
+> Decision 21 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> absence. Consequently, trial only commenced on February 16, 2005-
+> about two years after the Information was filed-again violating
+> Section 7 of Republic Act No. 8493. The initial trial was rescheduled three
+> times mainly because of the prosecution's fault.
+> From that point onward, the proceedings were marred by repeated
+> delays, most of which was attributable to the prosecution. In contrast, in
+> all of the postponements of the hearings, petitioners were present.105
+> Notably, it was only on November 23, 2017, or over 14 years since
+> the filing of the Infonnation, that the prosecution finally rested its case.
+> This protracted delay was caused by: (1) the repeated absence of
+> prosecution witness; (2) the unavailability of court records and TSN; and
+> (3) the frequent absences and unavailability of the public prosecutor, the
+> Presiding Judge, and the assigned PAO lawyer. Again, throughout all these
+> delays and resetting of the case, petitioners were present in court. In fact,
+> even on occasions when their assigned PAO lawyer was unavailable,
+> petitioners were present.
+> Given the circumstances, the Court deems it unjust and would be
+> the height of injustice to put the fault on the petitioners for their alleged
+> failure to assert their right to speedy trial at an earlier stage. Generally, the
+> negligence of counsel binds the client, encompassing even mistakes in the
+> application of procedural rules. 106 Albeit, the application of this general
+> rule is contingent upon the surrounding circumstances present in the given
+> case, the Court, thus, recognizes established exceptions: (l) where
+> reckless or gross negligence of counsel deprives the client of due process
+> of law; (2) when its application will result in outright deprivation of the
+> client's liberty or property; or (3) where the interests of justice so
+> require."107 In such instances, the court is obliged to step in and accord
+> relief to a party-litigant. 108
+> The present case squarely falls under these exceptions. The failure
+> of petitioners' counsel to timely invoke their constitutional right to
+> a speedy trial before the RTC constitutes gross negligence, which directly
+> 105 Rollo,p.19.
+> 106 B.E. San Diego, Inc. v. Bernardo, 844 Phil. 980, 985 (2018).
+> 107 Air Phils. Corp. v. Int 'I. Business Aviation Services Phils., Inc., 481 Phil. 366, 381 (2004).
+> 108 Estrella v. SM Prime Holdings, inc., 936 Phil. 388., 408 (2023), citing Multi-Trans Agency Phils.,
+> Inc. v. Oriental Assurance Corp., 608 Phil. 478, 494 (2009).
+>
+> Decision 22 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> led to the prolonged deprivation of petitioners' liberty and fundamental
+> rights. Such negligence cannot be equated to petitioners' mere
+> acquiescence to the delay or a voluntary waiver of the right. Petitioners,
+> being laypersons unfamiliar with the intricacies of the law and court
+> procedures, cannot be expected to assert and protect their legal rights with
+> the same competence and diligence as members of the Bar. Without a final
+> verdict from the court, petitioners remain ordinary citizens seeking justice
+> through the legal system. Thus, to deny them the protection of their
+> constitutional right on the sole basis of their counsel's negligence would
+> be a grave injustice to the very essence of the courts of justice, which are
+> mandated to dispense justice efficiently and fairly.
+> Time and again, this Court has fortified the constitutional guarantee
+> of speedy trial, recognizing it as an indispensable safeguard against the
+> oppressive delays of the justice system.
+> In Luman/aw v. Judge Peralta, Jr., 108 the Court categorically ruled
+> that the right to a speedy trial was violated when the RTC incurred an
+> undue delay of one year, nine months, and four days merely to conduct
+> the 'arraignment of the accused. The Court dismissed the Information,
+> finding the delay unjustified, especially since it was primarily caused by
+> the absence of the accused's counsel de officio and the failure of the jail
+> warden to present the accused in court.109 In so ruling, the Court stressed
+> that "courts must strive to maintain a delicate balance between the
+> demands of due process and the strictures of speedy trial, on the one hand;
+> and, on the other, the right of the State to prosecute crimes and rid society
+> of criminals."110
+> In a similar vein, the Court in the case of Aytona v. Paule111 found
+> it necessary to depart from the conventional rule that the negligence of
+> counsel binds the client, invoking the interests of justice as a higher
+> consideration.112 The Court recognized that the accused's right to a speedy
+> 108 517 Phil. 588 (2006).
+> 109 Id. at 598-604.
+> 110 Id. at 598.
+> m 931 Phil. 681 (2022).
+> 112 Id at 687.
+>
+> ..
+> '
+> Decision 23 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> trial was violated being the five-year delay in the proceedings was clearly
+> attributable to the prosecution. 113
+> In the recent case of Galorio v. People, 114 the Court found that the
+> prolonged delay of approximately 14 years, coupled with the
+> prosecution's lack of diligence and the trial court's repeated procedural
+> lapses, constituted a blatant violation of the accused's right to speedy trial.
+> The Court emphasized that even if the accused did not assert the right at
+> every opportunity, such omission is not fatal where the delay is inordinate
+> and largely attributable to the State and the judiciary.
+> These precedents reinforce the principle that the courts must remain
+> vigilant in ensuring that delays in the criminal justice process do not
+> prejudice the accused, particularly when such delays are rooted in
+> institutional shortcomings or official neglect.
+> Here, to the Court's dismay, petitioners were subjected to an unduly
+> prolonged criminal trial, spanning over 14 years, with the primary causes
+> of delay attributable to the court, its agents-including the public
+> prosecutors and presiding judge-and the broader inefficiencies in the
+> administration of justice. This excessive delay is not only unreasonable
+> but also constitutionally impermissible. It must be emphasized that the
+> prosecution rested its case on November 23, 2017, upon the submission
+> ofits Formal Offer ofEvidence. This inordinate lapse of time, attributable
+> not to petitioners but to repeated procedural lapses, repeated absences of
+> the key court officers, and poor case management, constitutes a clear
+> violation of petitioners' right to a speedy trial as guaranteed under Article
+> III, Section 14(2) of the 1987 Constitution, and reinforced by Section 7 of
+> Republic Act No. 8493. Regrettably, to repeat, the prosecution took more
+> than 14 years to prosecute the case. The unjust delay surely violated
+> petitioners right to a speedy trial.
+> To be sure, while the existence of a violation of the right to speedy
+> trial is not determined solely by the sheer length of delay, the passage of
+> an extraordinarily lengthy period, as in the case, inevitably demands
+> 113 Id. at 693-{)94.
+> 114 951 Phil. 316 (2024).
+>
+> Decision 24 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> heightened scrutiny by the courts. Indeed, such excessive delay cannot be
+> viewed in isolation but must be weighed in conjunction with the reasons
+> for the delay, the accused's assertion of their right, and the prejudice
+> suffered as a result. 115 Absent such scrutiny, the Constitutional guarantee
+> of speedy disposition of cases would be rendered hollow and illusory-an
+> empty promise devoid of substantive protection.116
+> The Court cannot simply close this case without addressing the
+> inordinate delay that have come to light. The nearly 17 years it took the
+> trial court to resolve this criminal case is not a result of the complexity of
+> the issues or the volume of evidence in the case, but the cumulative,
+> persistent neglect and inefficiency of the very officers tasked to ensure the
+> expeditious administration of justice.
+> The records reveal that the public prosecutors assigned to the case
+> repeatedly failed to appear at scheduled hearings, neglected to secure the
+> presence of prosecution witnesses despite due notice, and manifested
+> unpreparedness on multiple occasions. It is evident that the laxity and
+> indifference of the public prosecutors are inexcusable for they directly
+> infringed petitioner's constitutional right to speedy trial and caused the
+> delay of the resolution of the criminal case for 14 years, solely on account
+> of the prosecution.
+> Equally troubling is the conduct of the PAO counsel for petitioners.
+> The frequent absences of petitioners' counsel, whether due to other court
+> engagements or official functions, repeatedly disrupted the continuity of
+> trial. More gravely, the petitioners' counsel failed to timely invoke
+> petitioners' right to a speedy trial despite the multiple and evident
+> breaches of statutory time limits. Verily, the inaction of petitioners'
+> counsel effectively allowed the delay to persist and prejudiced petitioners.
+> The Court stresses that the lapses are not minor procedural missteps
+> but grave derelictions of duty that undennine public trust in the criminal
+> justice system. The right to a speedy trial is a shared responsibility among
+> the prosecution, the defense, and the courts. \Vhen those entrusted with
+> 115 Alarilla v. Sandiganbayan, 895 Phil. 542 (2021). See also Cagang v. Sandiganbayan, supra note
+> 48.
+> 116 Alarilla v. Sandiganbayan, id.
+>
+> Decision G.R. No. 266371
+> [Formerly UDK No. 17775]
+> upholding this constitutional right fail in their obligations-whether by
+> repeated absence, lack of preparation, or disregard for statutory
+> mandates-they not only violate the rights of the accused but also the
+> public's trust and confidence on the administration of justice.
+> FOR THESE REASONS, the Petition for Review on Certiorari is
+> GRANTED. The Decision dated July 13, 2022, and the Resolution dated
+> January 16, 2023, of the Court of Appeals in CA-G.R. CR No. 44960 are
+> REVERSED and SET ASIDE. Petitioners Randy Dela Cruz y Deguero
+> and Ricky Vidanes y Osela are hereby ACQUITTED in Criminal Case
+> No. 03-6050-M filed before Branch 80, Regional Trial Court, Morong,
+> Rizal on the ground of violation of accused's right to speedy trial, without
+> prejudice to any civil action which the private complainant/s may file
+> against them. They are ORDERED immediately RELEASED from
+> confinement unless they are being held for some other legal grounds.
+> Further, the Court directs Hon. Ivfa.T eresa C. Cruz-San Gabriel and
+> Hon. Sheila Marie A. Ignacio, former Presiding Judges of Branch 80,
+> Regional Trial Court, Morong, Rizal; Fiscal Wilfredo G. Oca, Fiscal
+> Beppo Jerome Diloy, Fiscal Ferdinand Arabit, and Fiscal Brend Virgilio
+> Vergara, for the prosecution; and Atty. Michael Perocho, Atty. Allan
+> Catmunan, Atty. Isidro Pedron, and Atty. Janine Prelle Dacanay, for the
+> defense, to SHOW CAUSE why they should not be held administratively
+> liable for the inordinate delay in the resolution of Criminal Case
+> No. 03-6050-M.
+> Let a copy of this. Decision be furnished to the Director General of
+> the Bureau of Corrections for· immediate implementation. The Director
+> General is directed to report the action he has taken to this Court within
+> five days from receipt of this Decision.
+> Let entry of judgment be ISSUED immediately.
+> ------
+> SO ORDERED,
+> JIBN~;;TING
+> • . Associatel(/ustice
+>
+> Decision 26 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> WE CONCUR:
+> ~----...
+> ~ = ~ ' -..~.. ~ ... :::.
+> -~.,.
+> SAMUEL H. GAERLAN
+> Associate Justice ·~
+> (On leave)
+> MARIAFILOMENAD. SINGH
+> Associate Justice
+> ATTESTATION
+> I attest that the conclusions in the above Decision had been reached
+> in consultation before the case was assign to th writer of the opinion
+> of the Court's Division.
+> Justice
+> Chai , . ird Division
+>
+> Decision 27 G.R. No. 266371
+> [Formerly UDK No. 17775]
+> CERTIFICATION
+> Pursuant to Article VIII, Section 13 of the Constitution and the
+> Division Chairperson's Attestation, I certify that the conclusions in the
+> above Decision had been reached in consultation before the case was
+> assigned to the writer of the opinion of the Court's Division .
+> . GESMUNDO
+> ze ustice
+> fY7

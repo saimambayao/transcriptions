@@ -1,0 +1,366 @@
+# GR-250307-MVLOPEZ
+
+**Separate Concurring Opinion: Justice Mario V. Lopez**
+
+## Metadata
+
+- **Case Title**: Separate Concurring Opinion: Justice Mario V. Lopez
+- **Ponente**: [UNKNOWN]
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: February 21, 2023
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/06/250307-MVLOPEZ.pdf)
+
+---
+
+> EN BANC
+> G.R. No. 250307 - PEOPLE OF THE PHILIPPINES, Plaintiff-Appellee,
+> v. ROBERT UY y TING, ONG CHI SENG @ JACKIE ONG or
+> ARCIDE, CO CHING KI@ CHAI ONG, TAN TY SIAO, GO SIAK
+> PING, and JAMES GO ONG @ WILLIAM GAN or WILLIE GAN,
+> Accused, ROBERT UY y TING, Accused-Appellant.
+> Promulgated:
+> February 21, 2023
+> ---
+> x------------------------- ----x
+> SEPARATE CONCURRING OPINION
+> LOPEZ, M., J.:
+> The application and legal consequences of the exacting requirements of
+> the chain of custody rule are not dependent on the quantity and quality of the
+> confiscated da..'lgerous drugs but are contingent on the nature and gravity of
+> the procedural lapses on the part of the law enforcement agencies. The courts
+> must sift through between minor deviations and gross disregard of the rule.
+> The ponencia reversed the conviction of accused-appellant Robert Uy
+> y Ting (accused-appellant) for the crimes of illegal delivery and illegal
+> possession of dangerous drugs for failure of the prosecution to prove the
+> identity of the corpus delicti consisting of 128.4647 kilograms aggregat-c
+> weight of methamphetamine hydrochloride and 111.200 kilograms of
+> chloromethamphetamine hydrochloride. Specifically, the ponencia pointed
+> out that "[t]he seizure of a significant or large amount of dangerous drugs
+> does not detract from the obligatmy nature of proving the corpus delicti,
+> operationalized through strict compliance ·with the requirements ofS ec. 21 o/
+> R.A. No. 9165."1 Here, there is no evidence that the Jaw enforcers complied
+> with the mandatory requirements of iaw. There are material gaps in all links
+> of the chain of custody. ]Vloreover, the prosecution failed to present justifiable
+> reasons for non-compliance and to preserve the integrity and evidentiary value
+> of the seized items.
+> 1 ' concur w · i t h t ' n ese f_i mm,. ngs.
+> Ponenciu, p. 16.
+> I
+>
+> Separate Concuning Opinion 2 G.R. No. 250307
+> Section 21 of Republic Act (RA) No. 91652 outlined the rule on chain
+> of custody which refers to the duly recorded authorized movements and
+> custody of seized drugs or controlled chemicals or plant sources of dangerous
+> drugs or laboratory equipment of each stage, from the time of seizure/
+> confiscation to receipt in the forensic laboratory to safekeeping to presentation
+> in court for destruction. The record of movements and custody of the seized
+> items shall include the identity and signature of the person who held
+> temporary custody of the seized items, the date and time when such transfer
+> of custody were made in the course of safekeeping and use in court as
+> evidence, and the final disposition. The purpose is to authenticate the evidence
+> as exactly the evidence confiscated from the accused that has not been
+> substituted or altered up to its appearance in court.3 The chain of custody rule
+> applies whether the drugs were seized either in a buy-bust operation or
+> pursuant to a search warrant, thus:
+> A plain reading of the law shows that it applies as long as there has
+> been a seizure and confiscation of drugs. There is nothing in the statutory
+> provision which states that it is only applicable when there is a ·
+> warrantless seizure in a buy-bust operation. Thus, it should be applied
+> in every situation when an apprehending team seizes and confiscates drugs
+> from an accused, whether through a buy-bust operation or through a search
+> wan-ant.
+> xxxx
+> Based on verba legis, [Section] 21 of [RA] No. 9165, as amended,
+> operates as long as there is seizure and confiscation of drugs. It does
+> not distinguish between warrantless seizure of the drugs in a buy-bust
+> operation and in the implementation of a search warrant. Accordingly,
+> in every situation where there is a seizure and confiscation of drugs, the
+> presence of the accused, or his/her representative or counsel, a
+> representative from the media and the [Department of Justice (DOJ)], and
+> any elected public official, is required during the physical inventory and
+> taking of photographs of the seized drugs, because they shall be required
+> to sign the copies of the inventory and be given a copy thereof.4 (Emphasis
+> supplied)
+> Corollarily, an unbroken chain of custody of the illegal drugs must be
+> established through the following linkages: first, the seizure and immediate
+> marking of the illegal drugs recovered from the accused by the apprehending
+> officer; second, the turnover of the seized items by the apprehending officer
+> to the investigating officer; third, the investigating officer's transmittal of the
+> illegal drugs to the forensic chemist for laboratory examination; and fourth,
+> the submission of the marked illegal drugs from the forensic chemist to the
+> 2 Entitled "AN ACT lt"TITUTING Tl-IE C0MPREll[NSIVE DANGEROUS DRUGS ACT OF 2002, REPEALING
+> REPUBLIC ACT NO. 6425, OTI--JERWlSE KN0W"N AS I HE DANGEROUS DRUGS ACT OF 1972, AS AMENDED,
+> PROVIDING FUNDS THEREFOR, AND FOR On!ER PUP.POSES," approved on June 7, 2002.
+> See Philippine National Police Standard Operating Procedure No. 2012-004, entitled "'STANDARD
+> OPERATING PROCEDURE ON REC0V~~RFD PERSONAL EFFECT~, OF VICTIMS." approved on December 6,
+> 2012.
+> 4 Tumahini v. People, G.R. No. 224495, Febrnary I 9, 2020, 933 SCRA 60, 77--78 [Per J. Gesmundo. Third
+> Division].
+> r
+>
+> Separate Concurring Opinion 3 G.R. No. 250307
+> court. 5 The prosecution bears the burden of showing that the dangerous drugs
+> seized from the accused are uncompromised as several officers directly
+> handled or had temporary custody of the items. The Implementing Rules and
+> Regulations (IRR) of Section 2l(a) of RA No. 9165 offers flexibility in the
+> chain of custody rule such "that non-compliance with these requirements
+> under justifiable grounds, as long as the integrity and evidentiary value oft he
+> seized items are properly preserved by the apprehending officer/team, shall
+> not render void and invalid such seizures of and custody over said items[]"
+> Later, RA No. 106406 amended Section 21 of RA No. 9165 and expressly
+> incorporated the saving clause as paii of the law which ensures that not every
+> case of non-compliance with the chain of custody rule will permanently
+> prejudice the prosecution of chug offenses. Yet, the prosecution must
+> recognize the procedural lapses and establish as facts the justifiable ground
+> for non-compliance and proof of preservation of the integrity and evidentiary
+> value of the seized items. The comis cannot presume what these grounds are
+> or that they even exist.7
+> On this point, the Court reiterates that the stringent application of
+> Section 21 of RA No. 9165 was not meant to thwart the legitimate efforts of
+> the law enforcers. The procedural lapses in the chain of custody rules are not
+> ipso facto fatal to the prosecution's case so long as the integrity and
+> evidentiary value of the seized items have been preserved. The courts must
+> thoroughly evaluate and differentiate those errors that constitute a simple
+> procedural lapse from those that amount to a gross, systematic, or deliberate
+> disregard of the safeguards drawn by the law,8 viz.:
+> Though we have recognized that "[m]inor deviations from the
+> procedures under [RA No.] 9165 would not automatically exonerate an
+> accused," we have also declared that "when there is gross disregard of
+> the procedural safeguards prescribed in the substantive law {[RA. No.]
+> 9165), serious uncertainty is generated about the identity of the seized
+> items that the prosecution presented in evidence." \1/e then ruled that
+> such donbt "cannot be remedied by simply invoking the presumption of
+> regularity in the performance of official duties, for a gross, systematic, or
+> deliberate disregard of the procedural safeguards effectively produces an
+> irregularity in the performance of official duties." Accordingly, "the_
+> prosecution is deemed to have failed to fully establish the elements of the
+> crimes charged, creating reasonable doubt on the criminal liability of the
+> accused."
+> xxxx
+> People v. Bugtong, 826 Phil. 628, 638--639 (2013) [Per J. Del Castillo, First Division]; ar.d People v.
+> Enad, 780 Phil. 346, 358-359 (20\G) [Per J_ Peralta, Third Divisi<>n].
+> Entitled "AN Acr TO FURTHER STRENGTHEN THE ANTI-DRUG CAMPAIGN OF THE GOVERNMENT,
+> AMENDING FOR 1HE PURPOSE SECTION 21 OF REPUBUC ACT NO. 9l65, OTHERWISE KNOWN AS THE
+> 'COMPREHENSIVE DANGEROUS DRUGS AC r Or 2002' ,"" approved on July 15, 2014.
+> 7 People v. Sitco, 634 Phii. 627, 642-643 (2010) [Per J_ Velasco, Jr., Third Division]; People v. De
+> Guzman, 630 Phil. 637, 648--649 (2010) [Per J. Nachura, Third Division]; and People v. Denoman, 612
+> Phil. 1165, 1175-1176 (2009) [Per J. Brion, Second Division].
+> People v. Umipang, 686 Phil. 1024, 103/ (20'!'.2); ::in<l People v. Ulama, 678 Phil. 861. 876-877 (2011)
+> [Per J. Leonardo-De Castro, first Division].
+>
+> I 1 I ,,
+> Separate Concurring Opinion 4 G.R. No. 250307
+> We reiterate that [RA No.] 9165 has a strict mandate for the arresting
+> officers to comply with the afore-quoted procedural safeguards. We further
+> note that, before the saving clause provided under it can be invoked,
+> Section 21 (a) of the IRR requires the prosecution to prove the twin
+> conditions of (a) existence of justifiable grounds and (b) preservation
+> of the integrity and the evidentiary value of the seized items.9 (Emphasis
+> supplied)
+> Indeed, a survey ofj urisprudence reveals that the Court did not hesitate
+> to acquit the accused given the gravity of the procedural lapses on the part of
+> the law enforcement agencies regardless of the large quantity of the
+> confiscated dangerous drugs. In Amida v. People,10 petitioner was charged
+> with illegal sale of 4.00 kilograms of cocaine but was acquitted because the
+> marking and inventory of the seized items were conducted in a resort which
+> was not the nearest police station or the nearest office of the apprehending
+> officer or team contemplated by the law. The Court likewise rejected the
+> explanation of the law enforcers that they were unfamiliar with the place of
+> arrest and that it was a rebel-infested area. The numerical superiority of the
+> buy-bust team negates the unfounded fear of rebel attack. Furthermore, the
+> prosecution did not offer in evidence the chain of custody report and the
+> turnover of the confiscated evidence report which are essential to confirm how
+> the seized items passed from one person to another. In People v. Enad, 11 the
+> accused was charged with illegal sale of2,722.00 grams of dried marijuana.
+> The Court acquitted the accused because the prosecution utterly failed to
+> prove the identity of the person who actually marked the seized drugs. ~here
+> was also no evidence that the marking happened in the presence of the
+> accused. The prosecution was even unsure who between the two police
+> officers turned over the items to the investigating officer. The identities of the
+> desk officer and investigator who allegedly delivered the items to the forensic
+> chemist remained unknown. The seized dn1gs were not photographed and the
+> law enforcers failed to secure the attendance of a representative from the DOJ
+> during the inventory. In People v. Yusop, 12 the accused was charged with
+> illegal transportation of 1,481.46 grams of shabu but was likewise acquitted
+> due to the absence of a DOJ representative during the inventory and
+> photography of the seized drugs. There was no effort at all on the part of the
+> prosecution to explain the non-compliance or to show that earnest efforts were
+> in fact exerted to secure the presence of t'1e insulating witness. In People v.
+> Sitco, 13 the accused was charged with illegal possession of 887.01 grams of
+> marijuana and 235.84 grams of shabu but was acquitted because of a nwnber
+> of disturbing questions as to the identity and custody of the confiscated drugs.
+> It was unclear who conducted the inventory of the seized items. There were
+> no details as to who received the specimens and brought them to the forensic
+> chemist. Likewise, there is uncertainty as to who took custody of the
+> specimens before they were presented in court. The missing links in the chain
+> 9 People v. Ancheta, 687 Phil. 569, 580--581 (2012:.• LPer J. Se;-eno~ Second Division]; citations omitted.
+> 10 G.R. N0. 254489, January 11, 2021 fNctice, Sec-:-:,nd Division].
+> 11 Supra note 5.
+> 12 G.R. No. 224587, July 28, 2020, 945 SCRA 346 !Per J. Reyes, Jr., First Division].
+> 13 Supra note 7.
+>
+> Separate Concurring Opinion 5 G.R. No. 250307
+> of custody raised doubt as to the identity and evidentiary value of the
+> dangerous drugs.
+> In People v. Ramos, 14 the accused was charged with illegal sale of
+> 47.3752 grams of shabu. The Court acquitted the accused because the
+> physical inventory and photograph of the seized items were conducted in the
+> regional office and not at the place of the buy-bust operation. The alleged
+> commotion at the crime scene was insufficient justification for non
+> compliance given the failure of the prosecution to expound how the inl,ident
+> threatened the safety of the operatives. The prosecution likewise did not
+> explain the absence of the DOJ representative as one of the insulating
+> witnesses. In People v. De Guzman,15 the accused was charged with illegal
+> possession of 41.47 grams of marijuana but was acquitted because the
+> testimonies of the law enforcers were silent on the details regarding the
+> handling and disposition of the seized items. The police officers failed to
+> disclose the identity of the personls who had custody and possession of the
+> confiscated items after their seizure, or that they themselves had retained
+> custody of the drugs from the place of arrest until they reached the police
+> station. Moreover, the identities of the persons who turned over the items to
+> the forensic chemist and who had custody of the specimens after examination
+> and before presentation in court were unknown. Lastly, the crime labo_ratory
+> turned over the custody of the seized items to an unnamed person at the
+> prosecutor's office before they were submitted in evidence to the trial court.
+> The Court noted that prosecutor's office is not a part of the chain of custody
+> and has no business in the handling of dangerous drugs. In People v
+> Lumaya, 16 the accused was charged with illegal possession of 20.44 grams of
+> shabu but was acquitted because of the inconsistency in the number of
+> confiscated sachets. The Information and inventory report indicated 11
+> sachets which is less than the 18 sachets shown in the photographs. However,
+> the prosecution did not explain the disparity. The Court cautioned that the
+> discrepancy, if left unaccounted for, clearly renders suspect the integrity and
+> evidentiary value of the seized drugs. It would not only be difficult to
+> determine the actual identity of the drugs for which the accused was charged
+> but the numerical variance would also arouse suspicions of planting andlor
+> switching the evidence. Also, the police officers did not mark the sachets at
+> the place of confiscation and offered no justification for the deviation.
+> On the other hand, in People v. Vastine, 17 the Court convicted the
+> accused regardless of the large quantity of the confiscated dangerous drugs.
+> The Court noted the minor deviation and held that the prosecution offered a
+> justifiable ground ±or non-compliance and proof of preservation of the
+> integrity and evidentiary value of the seized items. In that case, the accused
+> was charged with illegal sale of 2,000.71 grams of cocaine. The police
+> 14 G.R. No. 236455, February 19. 2020, 933 SCRA 291 [Per C.J. Peralta, First Division].
+> " 825 Phil. 43 (2018) [Per .I. Del Castillo, First Divisior.J.
+> 16 827 Phil. 473 (2018) [Per J. ?crlas-Bemab.e, Se~ond Diyjsion].
+> 17 G.R. No. 258328, November 29, 2022, <hti:ps:.l/s,-;.judidary.gov.µh/258328-peopie-of-the-philippines
+> vs-jose-vastine-y-gibson-jimmy/> [Per J. Zalameda, First Div1sion].
+> J
+>
+> Separate Concuning Opinion 6 G.R. No. 250307
+> officers recognized the procedural lapse and explained that they could not
+> secure the attendance of the DOJ representative despite earnest efforts due to
+> the time-sensitive nature of the buy-bust operation. The authorities
+> immediately conducted the entrapment after the illegal transaction was
+> reported to their office. More importantly, the prosecution established all the
+> links in the chain of custody with t.1-ie presence of the other two insulating
+> witnesses, thus: ·
+> In this case, the police officers recognized the absence of a
+> representative from the DOJ, and provided the explanation that despite
+> earnest efforts, they failed to secure the latter's presence. Moreover. this
+> Court recognizes the time-sensitive nature of the buy-bust operation in this
+> case. The information about the transaction was known on 31 July 2011,
+> and the buy-bust operation was conducted on 01 August 2011.
+> In this line, it should be considered that the presence of the wimesses
+> from the DOJ, media, and from public elective office was intended to
+> protect against the possibility of planting, contamination, or loss of the
+> seized drug. Apart from the absence of a witness from the DOJ, the
+> prosecution established the requirements of the chain of custody rule with
+> the presence of the other two insulating witnesses required under Sec. 21.18
+> In People v. Lacson, 19 the Court convicted the accused of illegal
+> transportation of 4,540.1 grams of shabu and ruled that the law enforcers
+> exemplarily showed how strict compliance with the requirements of Section
+> 21 of RA No. 9165 could easily be done, so that law transgressors will be
+> properly penalized, on the one hand, and the rights of individuals be
+> safeguarded against undue abuses, on the other. In that case, the law enfi.,rcers
+> ensured that the marking, inventory, and photography took place immediately
+> after the arrest of the accused and seizure of the dangerous drugs. The items
+> were then turned over to the forensic chemist who issued the report within 24
+> hours after receipt of the request. Thereafter, the illegal drugs \Vere presented
+> before the trial court. Inarguably, all the links in the chain of custody were
+> duly established which left no doubt as to the integrity and evidentiary value
+> of the seized dangerous drugs, to wit:
+> The apprehending team in this case, through ample
+> preparation, was able to comply with the requirements of Section 21,
+> Article II of [RA No.] 9165, which, to stress, ensures that the corpus
+> delicti remains untampered. x x x
+> xxxx
+> As exemplified in this case, which is decided prior to [RA No.]
+> l 0640, the apprehending officers were able to meet the requirements
+> mandated by law in spite of them having barely 24 hours to plan the
+> entrapment operation. Partkulariy commendable is the fact that they
+> ensured the presence of tlie three insulating witnesses who witnessed
+> " Id.
+> r
+> 19 G.R. No. 229055, July 15, 2020, 943 SCRA 195 [Per J. Caguioa, First Division].
+>
+> Separate Concurring Opinion 7 G.R. No. 250307
+> the marking of the seized prohibited drugs and other seized items, the
+> preparation of the corresponding inventories, and the taking of the
+> photographs. Noteworthy also is the fact that the marking, preparation
+> of the inventory, and taking of the photographs of the seized drugs and
+> items took place immediately after the arrest and seizure. Thereafter,
+> the seized prohibited drugs were turned over by [Intelligence Officer 2]
+> Alarde to Chemist Arcos within 24 hours, and the latter came up with her
+> report ,vithin 24 hours after receipt of the request. Without question,
+> therefore, all the links in the chain of custody in this case were duly·
+> established which leaves no doubt as to the integrity and evidentiary value
+> of the seized prohibited drugs which were later on presented before the
+> trial court.
+> This case is therefore an exemplar of how strict compliance with the
+> requirements of Section 21, Article II of[RA No.] 9165 can easily be done,
+> so that law transgressors will be properly penalized, on the one hand, and
+> the rights of individuals be safeguarded against undue abuses, on t.he other. 20
+> (Emphasis and italics supplied)
+> In this case, the law enforcers exhibited gross lapses in the chain of
+> custody despite large quantities of confiscated drugs involved. Notably,
+> accused-appellant was charged with illegal delivery of 128.4647 kilograms
+> of shabu and illegal possession of 111.200 kilograms of
+> chloromethamphetamine hydrochloride. As regards the alleged illegal
+> delivery of dangerous drugs, it was uncertain when the law officers marked
+> the seized items and if the marking was done in the presence of accused
+> appellant and the three insulating witnesses. There was also no inventory
+> receipt and the photographs were unclear if they were taken at the place of
+> seizure, or if not practicable, at the nearest police station or the nearest office
+> of the apprehending team. Anent the alleged illegal possession of dangerous
+> drugs, the prosecution did not explain the absence of the DOJ representative
+> as one of the insulating witnesses. The inventory receipt and photographs of
+> the seized items were not submitted in evidence. l'vfore telling are the material
+> gaps in the chain of custody rule in both cases. As discussed above, there are
+> serious irregularities in the first link concerning the marking, inventory, and
+> photography of the seized items. With respect to the second link, the
+> investigating officer was unidentified and there was no available testimony as
+> to the turnover of the seized items from the apprehending officer to the
+> investigating officer. The prosecution also did not present details of the third
+> link as to how the investigating officer delivered the specimens to the forensic
+> chemist. Lastly, there is a gap in the fourth link absent any account how the
+> specin1ens were kept until they were presented to the trial court. Worse, the
+> prosecution miserably failed to establish the presence of justifiable grounds
+> and prove that the integrity and evidentiary value of the seized items were
+> preserved. Taken together, the errors of the law enforcers and the prosecution
+> can hardly be considered as simple procedural lapses as they amounted to a
+> systematic and deliberate disregard of the safeguards drawn by law. hence,
+> accused-appellant must be acquitted of the charges against him given the
+> 20 /d.at212-216.
+>
+> t I I }
+> Separate Concurring Opinion 8 G.R. No. 250307
+> prosecution's failure to prove an unbroken chain of custody which in turn gave
+> reasonable doubt 011 the authenticity of the evidence presented in court.21
+> To end, let this case be a powerful constant reminder that the provisions
+> of Section 21 of RA No. 9165 embody the constitutional aim to prevent the
+> imprisonment of an innocent man. The Court cannot tolerate the lax approach
+> of law enforcers in handling the very corpus delicti of the crime. The history
+> of liberty has largely been the history of the observance of procedural
+> safeguards.22 The Judiciary as stalwart protector of the Constitution must
+> ensure that these safeguards are strictly carried out.
+> FOR THESE REASONS, I vote to GRANT the appeal.
+> cc.1u1f1ED TRUE COPY
+> 21 People v. Bautista, 82 Phil. 487, 499--500 ('.?0!'.2) [Per J. Bersamin, First Division].
+> LUISA M. SA.il\ffILL \
+> 22 McNahb v. United Stm es, 3 I 8 U.S ..D 2 ( I lJt\3) ;P"'r l Frankfu11er].
+> Deputy Cle~k of C<?urt and
+> Executive Off1 cer
+> OCC-En Banc, Supreme Cnurt

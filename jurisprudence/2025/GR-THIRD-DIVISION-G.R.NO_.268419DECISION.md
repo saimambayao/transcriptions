@@ -1,0 +1,872 @@
+# GR-THIRD-DIVISION-G.R.NO_.268419DECISION
+
+**People Of The Philippines Vs. Abdul Aziz M. Pangandaman,estelito A. Nierv A, Ruben A. Besmonte, Neofito C. Perilla, Divina Gracia D. Dantes, Cesar L. Bocanog And Mario D. Arias A.k.a. Marlo,**
+
+## Metadata
+
+- **Case Title**: People Of The Philippines Vs. Abdul Aziz M. Pangandaman,estelito A. Nierv A, Ruben A. Besmonte, Neofito C. Perilla, Divina Gracia D. Dantes, Cesar L. Bocanog And Mario D. Arias A.k.a. Marlo,
+- **Ponente**: GAERLAN, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: July 26, 2023
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2026/01/THIRD-DIVISION-G.R.NO_.268419DECISION.pdf)
+
+---
+
+> 31\epnbo{ftt cb e.Jbilippines
+> •~ uptemeeJ :ourt·
+> :ffianila
+> THIRD DIVISION
+> PEOPLE OF THE PHILIPPINES, G.R. No. 268419
+> Plaintiff-appellee,
+> Present:
+> - versus -
+> CAGUIOA, J.,
+> ABDUL AZIZ M. PANGANDAMAN, Chairperson,
+> ESTELITO A. NIERV A, INTING,
+> RUBEN A. BESMONTE, GAERLAN,
+> NEOFITO C. PERILLA, DIMAAMPAO, and
+> DIVINA GRACIA D. DANTES, SINGH,*J J.
+> CESAR L. BOCANOG and
+> MARIO D. ARIAS a.k.a. "Marlo," Promulgated:
+> Accused-appellants. AUG1 3 2025
+> ll\\~.\')~~
+> x-------------------------------------------------------------------------------------------x
+> DECISION
+> GAERLAN, J.:
+> In graft and corruption cases, as with all criminal cases, the evidence for
+> conviction must pass the test of moral certainty. Suspicions of corruption,
+> absent concrete evidence, must never swayjudgment. This is in line with the
+> rudimentary principle that when there is reasonable doubt, the scales of justice
+> shall tilt in favor of the accused.
+> This resolves an appeal from the Decision and Resolution of the
+> Sandiganbayan Seventh Division dated June 9, 20231 and July 26, 2023,2
+> respectively, convicting accused-appellants Abdul Aziz M. Pangandaman
+> (Pangandaman), Estelito A. Nierva (Nierva), Ruben A. Besmonte (Besmonte) ,
+> Neofito C. Perilla (Perilla), Divina Gracia D. Dantes (Dantes), Cesar L.
+> Bocanog (Bocanog) and Mario D. Arias a.k.a. "Marlo" .(Arias) for violations
+> * On leave.
+> 1 Rollo, pp. 41-108. Signed by Associate Justice Ma. Theresa Dolores C. Gomez-Estoesta and concurred
+> in by Zaldy V. Trespeses and Georgina D. Hidalgo.
+> 2 • /d.atll0-117.
+> _/J
+>
+> Decision 2 G.R. No. 268419
+> of Section 3( e) of Republic Act No. 3019, as amended, otherwise known as the
+> Anti-Graft and Corrupt Practices Act.
+> The criminal cases arose from two contracts of procurement awarded by
+> the Philippine National Railway (PNR) for the supply of Yakal wood bridge
+> ties,joint ties and switch ties in the amount of more or less PHP 37,747,832.60
+> andPHP 9,387,148.23. The winning bidder offered and supplied "Larch wood"
+> despite the specification of "Y akal" in the PNR board resolutions and bidding
+> documents.
+> Factual Antecedents
+> In connection with the subject procurements, two Informations were
+> filed against Junio Norberto Mella Ragragio (Ragragio ), Rosendo Cea Calleja
+> (Calleja) and the accused-appellants for violations of Section 3( e) of Republic
+> Act No. 3019. The accusatory portion of the Informations read:
+> Criminal Case No. SB-17-CRM-2140 ["First Procurement']:
+> That on 7 March 2013, or sometime prior or subsequent thereto, in
+> the City of Manila, Philippines, and within the jurisdiction of this Honorable
+> Court, the above-named accused public officers, namely: Junio Norberto
+> Mella Ragragio, then General Manager (SG 29); Estelito Aguila Nierva,
+> Ruben Arsenue Besmonte, then Department Managers (SG 26); Neofito
+> Cuison Perilla, then Attorney V (SG 25); Rosendo Cea Calleja and Abdul
+> Aziz Mapandi Pangandaman, then Division Managers (SG 23 & 24);
+> Divina Gracia Duran Dantes, then Asst. Department Manager (SG 25);
+> Cesar Lasquite Bocanog and Mario a.k.a. Marlo Dator Arias, then Principal
+> Engineers (SG 22), all of the Philippine National Railways (PNR), Manila,
+> while in the performance of their official duties as such and committing the
+> crime in relation to their office and taking advantage thereof, acting with
+> manifest partiality, evident bad faith and/or gross inexcusable negligence,
+> conspiring and confederating with one another, did then and there willfully,
+> unlawfully and criminally give unwarranted benefits, preference or undue
+> advantage to Nil<l<:Tar ading with office address at Unit 1014 City land Herrera
+> Tower, cor. Valero and Rufino streets, Salcedo Village, Bel-Air, Makati City
+> by purchasing from Nikka Trading 9,090 pcs. Larch wood bridge ties, 428
+> pcs. Larch wood joint ties and 25 sets Larch wood switch ties in the amount
+> of TIDRTY SEVEN MILLION SEVEN HUNDRED FORTY SEVEN
+> THOUSAND EIGHT HUNDRED THIRTY TWO 60/100
+> (Php37,747,832.60), more or less, under Disbursement Voucher (DV) No.
+> ENG-2013-02-283 dated March 4, 2013 and Veterans Bank Check No.
+> 20579 dated April 26, 2013, while accused knew fully well that the Board
+> Resolutions and all bidding documents required Yakal wood bridge ties, joint
+> ties and switch ties, to the damage and injury of PNR or the Government in
+> the aforementioned amount.
+> /J
+>
+> Decision 3 G.R. No. 268419
+> CONTRARY TO LAW.3 (Emphasis in the original)
+> Criminal Case No. SB-17-CRM-2141 ["Second Procurement"}:
+> That on 7 March 2013, or sometime prior or subsequent thereto, in
+> the City of Manila, Philippines, and within the jurisdiction of this Honorable
+> Court, the above-named accused public officers, namely: Junio Norberto
+> Mella Ragragio, then General Manager (SG 29); Estelito Aguila Nierva,
+> Ruben Arsenue Besmonte, then Department Managers (SG 26); Neofito
+> Cuison Perilla, then Attorney V (SG 25); Rosendo Cea Calleja and Abdul
+> Aziz Mapandi Pangandaman, then Division Managers (SG 23 & 24);
+> Divina Gracia Duran Dantes, then Asst. Department Manager (SG 25);
+> Cesar Lasquite Bocanog and Mario a.k.a. Marlo Dator Arias, then
+> Principal Engineers (SG 22), all of the Philippine National Railways (PNR),
+> Manila, while in the performance of their official functions as such and
+> committing the crime in relation to their office and taking advantage thereof,
+> acting with manifest partiality, evident bad faith and/or gross inexcusable
+> negligence, conspiring and confederating with one another, did then and there
+> willfully, unlawfully and criminally, give unwarranted benefits, preference or
+> undue advantage to Nikka Trading with office address at Unit 1014 City land
+> Herrera Tower, cor. Valero and Rufino streets, Salcedo Village, Bel-Air,
+> Makati City by purchasing from Nikka Trading 1,040 pcs. Larch wood bridge
+> ties, 514 pcs. Larch wood joint ties and 16 sets Larch wood switch ties in the
+> amount of NINE MILLION THREE HUNDRED EIGHTY SEVEN
+> THOUSAND ONE HUNDRED FORTY EIGHT 23/100 PESOS
+> (Php9,387,148.23), more or less, under Disbursement Voucher (DV) No.
+> ENG-2013-02-284 dated March 4, 2013 and Development Bank of the
+> Philippines (DBP) Check No. 8603215 dated March 7, 2013, while accused
+> knew fully well that the Board Resolutions and all bidding documents
+> required Y akal wood bridge ties, joint ties and switch ties, to the damage and
+> injury of PNR or the Government in the aforementioned amount.
+> CONTRARY TO LA W.4 (Emphasis in the original)
+> A Hold Departure Order was issued against Ragragio, Calleja and the
+> accused-appellants on November 17, 2017. They then posted their respective
+> bonds for their provisional liberty.5
+> All the accused, except for Calleja, filed their respective Motions to
+> Quash which were denied by the Sandiganbayan in a Resolution dated January
+> 8, 2018. On the ground of inordinate delay, Calleja filed a separate Motion to
+> Dismiss dated January. 2, 2018. Calleja's Motion and the Motions for
+> Reconsideration of the other accused were resolved by the Sandiganbayan in a
+> Resolution dated February 26, 2018.6
+> 3 Id. at 42.
+> 4 Id. at 42-43.
+> 5 Id. at 43.
+> 6 Id. at 44.
+>
+> Decision 4 G.R. No. 268419
+> Upon arraignment, all the accused pleaded "not guilty" to the offenses
+> charged.7 At the pre-trial, the parties entered into sti~ulations as reflected in the
+> Pre-trial Order.8 Trial then ensued. .
+> The facts of the case, as culled from the Sandiganbayan Decision, are as
+> follows:
+> At the time material to this case, the accused were public officers
+> employed with the PNR. Ragragio was the General Manager of PNR. Nierva,
+> Besmonte, Pangandaman, Dantes and Perilla were members of PNR-Bids and
+> A wards Committee (BAC) while Bocanog and Arias were members of the
+> PNR-BAC-Technical Working Group (TWG).9 Calleja was the Division
+> Manager of the PNR's Budget and Cash Division.10
+> The procurement of wood ties was authorized under PNR Board
+> Resolution No. 89-2011. The said Board Resolution approved BAC Resolution
+> Nos. 05-2011-Goods-Engineering which fixed the Approved Budget for the
+> Contract (ABC) "for the procurement of Bridge Ties, Joint Ties, and Switch
+> Ties" in the amount of P9,951,132.31 and BAC Resolution No. 06- 2011-
+> Goods-Engineering which fixed the ABC "for the supply of Yakal Wood
+> Bridge Ties and Y akal Wood Switch Ties" in the amount of PHP
+> 43,886,096.85. The Bid Opening for the first procurement was held on
+> November 15, 2011 while the Bid Opening for the second procurement
+> occurred on December 7, 2011. 11
+> Meanwhile, Executive Order No. 23 series of 2011 imposed a
+> moratorium on the cutting and harvesting of timber in the natural and residual
+> forests of the entire country. In view of the log ban, the BAC issued a
+> Supplemental Bid Bulletin allowing offers of other kinds of wood besides
+> Yakal. The impact of the log ban in the subject procurements was discussed in
+> the pre-bid conference of the first procurement.12 During the pre-bid
+> conference, some bidders signified that they would still be able to legally sell
+> and deliver Y akal on the strength of authorizations secured prior to the
+> effectivity of Executive Order No. 23, while others inquired on the possibility
+> of delivering imported wood instead. To resolve the matter, the BAC proposed
+> to amend the tenn "goods" to "Yakal wood or other species or kind of wood as
+> long as it conforms to the mechanical and related properties," which the
+> prospective bidders agreed to.13
+> 1 Id.
+> 8 Id. at 44-46.
+> 9 Id at 44.
+> 10 Id. at 104.
+> 11 Id. at 47.
+> 12 Id. at 48-49.
+> 13 Id. at 71.
+>
+> Decision 5 G.R. No. 268419
+> Two suppliers submitted their bids for the first procurement: Nikka
+> Trading and Integrated Energy Systems and Resources Inc. (IESRI). The TWG
+> submitted its bid evaluation report indicating that IESRI failed to pass and that
+> Nikka Trading submitted the Lowest Calculated Bid.14
+> For the second procurement, only Nikka Trading submitted a bid
+> containing both technical and financial components. Nikka Trading offered
+> Larch Wood originating from China, particularly, "Bridge Ties 8"x8"x8' Larch
+> Wood;" "Joint Ties 5"x10"x7' Larch Wood;" and "Switch Ties 6"x8" with
+> various Larch Wood."15
+> For both procurements, BAC recommended the award to supply "Y akal"
+> wood to Nikka Trading, which the PNR Board of Directors approved. The
+> Notice of Award, the Contract, and the Notice to Proceed likewise indicated
+> the supply of"Yakal" wood.16
+> The Larch Wood ties delivered by Nikka Trading arrived at PNR on July
+> 9, 2012 and August 13, 2012. Prior to the said delivery and after the execution
+> of the contracts, PNR Engr. Gilbert Patulot traveled to China to assess the wood
+> ties and subsequently submitted his report thereon. 17
+> The delivered Larch wood were then subjected to tests by the Forest
+> Products Research and Development Institute of the Department of Science and
+> Technology (FPRDI- DOST).18 Based on the tests done on the Larch wood
+> samples, it was concluded that Larch wood is far inferior in strength and quality
+> compared to Yakal and that it was not suitable for use as railroad ties.19
+> Around June 2013, the PNR Engineering Department received several
+> reports from Naga, Lucena and Hondagua Divisions indicating that cracks or
+> splits were already seen in the larch wood ties only after a year or less of
+> delivery .20
+> In its Technical Evaluation Report dated January 7, 2013, the COA
+> questioned the validity of the contract agreements due to several lapses
+> committed by the agency.21 The COA issued a Notice ofDisallowance for the
+> payments made to Nikka Trading, which it deemed irregular, as defined under
+> COA Circular 2012-003, and in violation of the Implementing Rules and
+> 14 Id at48.
+> 1s Id
+> 16 Id
+> 17 Id. at 50.
+> 18 Id. at 53-55.
+> 19 Id. at 55-58.
+> 20 Id. at 51.
+> 21 Id. at 540.
+>
+> Decision 6 G.R. No. 268419
+> Regulations of Republic Act No. 9184. The Notice of Disallowance was
+> affirmed by COA Decision No. 20 dated October 7, 2014.
+> The following were found liable under the Notice of Disallowance: (a)
+> Ragragio, as signatory to the contract with Nikka Trading and other documents
+> pertaining to the subject procurement; (b) BAC members Nierva, Besmonte,
+> Perilla, Pangandaman, and Dantes, who were responsible for the procurement
+> of Larch wood ties; (c ) TWG members Bocanog and Arias, who issued the Bid
+> Evaluation and Post Qualification Reports; and (d ) Calleja who certified the
+> availability of funds.22
+> After the prosecution rested its case, Ragragio, Calleja, Pangandaman,
+> Arias, Bocanog and Perilla filed their respective Motions for Leave to File
+> Demurrer to Evidence. In a Resolution dated June 3, 2020, the Sandiganbayan
+> denied the motions for leave, finding sufficient evidence to sustain the cases.2 3
+> After the presentation of the witnesses and the offer of exhibits, the
+> Sandiganbayan required the prosecution and the defense to file their respective
+> Memoranda.
+> In its Memorandum before the Sandiganbayan, the prosecution averred
+> that awarding the contract to Nikka Trading-who offered to supply Larch
+> wood when the Board Resolution, bidding docrnnents and contract spoke of
+> Yakal-constituted manifest partiality, evident bad faith, and gross inexcusable
+> negligence. According to the prosecution, the defense of mistake in
+> nomenclature is unacceptable considering the staggering amounts involved.
+> Furthermore, the existence of a log ban and the issuance of the Supplemental
+> Bid Bulletin cannot exculpate the accused from their violations. The
+> prosecution insisted that the accused conspired to award the contract to Nikka
+> Trading. As a result, the government suffered the amount paid to Nikka Trading
+> because the items delivered were different from that intended to be procured.24
+> On the other hand, Pangandaman, Nierva, Arias, Bocanog and Perilla
+> (Pangandaman et al.) argued that manifest partiality, evident bad faith, and
+> gross inexcusable negligence were not proven by the prosecution. They also
+> contend that the prosecution was unable to prove undue injury to the
+> government and the fact that they conspired to commit the crimes charged.
+> Citing that they were not motivated by corrupt intent, Pangandaman et al.
+> insisted that their mistake of indicating "Y akal" instead of "Larch wood" in the
+> 22 Id. at 59-60.
+> 23 Id. at 65.
+> 24 Id. at 80-81.
+> /J
+>
+> Decision 7 G.R. No. 268419
+> bidding documents is not so grave a wrong as to constitute gross inexcusable
+> negligence. 25
+> Besmonte and Dantes, for their part, maintained that as BAC members,
+> they followed the bidding procedure set by Republic Act No. 9184 and its
+> Implementing Rules and Regulation. They also argued that the Supplemental
+> Bid Bulletins expanded the definition of "goods" to include other species of
+> wood that were compliant with the required mechanical and related properties.
+> Hence, Nil<l<:Ta rading' s offer was accepted as it complied with the eligibility
+> and technical requirements. Furthermore, no unwarranted benefits, advantage
+> or preference was given to Nikka Trading since there was no allegation or proof
+> of overpricing, shortage of delivery, or fraud. They also emphasized that while
+> the prosecution offered evidence to show damage to the delivered wood ties,
+> they failed to allege and prove the extent of the actual damage suffered by the
+> government. 26
+> For his defense, Ragragio asserted that the allegations in the Information
+> pertained to irregularities in the procurement process which he did not take part
+> in. He also claimed that he had no participation in the preparation of the bid
+> bulletins. Moreover, he could not be faulted for signing the contracts, Notices
+> of Awards, and Notices to Proceed because these acts were purely ministerial
+> as he did so only upon the directive of the PNR Board. As for the disbursement
+> vouchers, he signed the same after the other concerned agencies had already
+> made the necessary certifications. 27
+> Calleja similarly averred that he merely performed his ministerial duty
+> when he certified the availability of funds. He also argued that the prosecution
+> failed to prove that he conspired with his co-accused. 28
+> Ruling of the Sandiganbayan
+> The Sandiganbayan promulgated its Decision dated June 9, 2023,
+> acquitting Ragragio and Calleja while finding the accused-appellants guilty
+> beyond reasonable doubt. The dispositive portion reads:
+> WHEREFORE, in SB-17-CRM-2140, accused ABDUL AZIZ M.
+> PANGANDAMAN, ESTELITO A. NIERV A, RUBEN A. BESMONTE,
+> NEOFITO C. PERILLA, DIVINA GRACIA D. DANTES, CESAR L.
+> BOCANOG, and MARIO a.k.a. "MARLO" D. ARIAS are found
+> GUILTY beyond reasonable doubt of violation of Sec. 3(e ) of R.A. 3019 and
+> 25 Id at 81-82.
+> 26 Id. at 82.
+> 27 Id. at 82-83.
+> 28 Id. at 83.
+> jJ
+>
+> Decision 8 G.R. No. 268419
+> are sentenced to suffer the indeterminate penalty of IMPRISONMENT of
+> SIX (6) YEARS and ONE (1) MONTH as minimum to TEN (10) YEARS as
+> maximum with perpetual disqualification to hold public office.
+> For failure of the prosecution to prove the guilt beyond reasonable
+> doubt of accused JUNIO NORBERTO M. RAGRAGIO and ROSENDO
+> C. CALLEJA, they are ACQUITTED of the crime of Violation of Sec. 3(e )
+> of R.A. 3019.
+> Likewise, in SB-17-CRM-2141, accused ABDUL AZIZ M.
+> PANGANDAMAN, ESTELITO A. NIERV A, RUBEN A. BESMONTE,
+> NEOFITO C. PERILLA, DIVINA GRACIA D. DANTES, CESAR L.
+> BOCANOG, and MARIO a.k.a. "MARLO" D. ARIAS are found
+> GUILTY beyond reasonable doubt of violation of Sec. 3( e) ofR.A. 3019 and
+> are sentenced to suffer the indetenninate penalty of IMPRISONMENT of
+> SIX (6) years and ONE (1) MONTH as minimum to TEN (10) YEARS as
+> maximum with perpetual disqualification to hold public office.
+> For failure of the prosecution to prove the guilt beyond reasonable doubt of
+> accused JUNIO NORBERTO M. RAGRAGIO and ROSENDO C.
+> CALLEJA, they are ACQUITTED of the crime of Violation of Sec. 3(e) of
+> R.A. 3019.
+> The bail bonds posted by the accused Ragragio and Calleja are ordered
+> released subject to the usual accounting procedures. The Hold Departure
+> Order issued by this Court on November 17, 2017 is set aside and the Order
+> issued by the Bureau of Immigration incorporating the names of the accused
+> in the Hold Departure List is ordered recalled and cancelled.
+> SO ORDERED.29 (Emphasis supplied)
+> The Sandiganbayan ruled that the prosecution was able to prove, beyond
+> reasonable doubt, all the elements of Section 3(e) of Republic Act No. 3019.
+> First, the public position of all the accused were stipulated upon during pre
+> trial.30 Second, in so far as the BAC and TWG members are concerned, the
+> categorical specification of "Yakal" during the award and post-qualification
+> became detenninative of their gross inexcusable negligence. According to the
+> Sandiganbayan, while the Supplemental Bid Bulletins struck out the elements
+> of evident bad faith and manifest partiality, it emphasized the accused's gross
+> inexcusable negligence for their careless disregard of their duties.31 The
+> Sandiganbayan also opined that, at the very least, it behooved the BAC and
+> TWG members to determine during post-qualification that Larch wood
+> confonned to the mechanical and related properties of Philippine woods.32
+> Finally, as to the third element, Sandiganbayan held that because of "brazen
+> 29 Id at 106-107.
+> 30 Id. at 85-86.
+> 31 Id at 86-96.
+> 32 Id. at 99.
+>
+> Decision 9 G.R. No. 268419
+> defiance of procurement law," Nikka Trading derived unwarranted benefit,
+> advantage, and preference :fromt he subject transactions.33
+> In its Decision, the Sandiganbayan also noted that due to lack of
+> quantifiable proof :from the prosecution, the element of damage cannot be
+> considered in this case. Other than the checks issued as payment for the goods
+> procured, the prosecution had shown no other numerical value to gauge the
+> amount of damage in these charges.34
+> As to their respective liability, the Sandiganbayan ruled that for the BAC
+> and TWG members, their clear disregard of the process of post-qualification,
+> after Larch wood has been considered, converted their oversight to gross
+> inexcusable negligence. 35 Hence, on the ground of gross inexcusable
+> negligence resulting in the discrepancy in the goods named in the procurement
+> documents and the goods actually delivered, they were found liable under
+> Section 3(e) of Republic Act No. 3019, as amended. As for accused Ragragio
+> and Calleja, they were acquitted for the prosecution's failure to prove their
+> participation in the conspiracy to award the contract to Nikka Trading.3 6
+> Aggrieved by the Decision of the Sandiganbayan, separate Motions for
+> Reconsideration were filed by Besmonte and Dantes and by Pangandaman et
+> . al. On July 26, 2023, the Sandiganbayan promulgated its Resolution37 denying
+> their Motions for Reconsideration.
+> Hence, this appeal.
+> On August 15, 2023, the records of the case were transmitted to the Court
+> for its review. 38 The Court directed the parties to file their respective briefs on
+> December 6, 2023.39 Besmonte and Dantes filed a separate Appellants' Brief1°
+> on June 21, 2024, while Pangandaman et al. filed their Appellants' Brief 1 on
+> July 8, 2024. The Office of the Ombudsman (0MB), through the OSP,
+> submitted its Consolidated Plantiff-Appellee's Brief 2 on September 6, 2024.
+> 33 Id. at 96-101.
+> 34 Id. at 101.
+> 35 Id. at 102-103.
+> 36 Id. at 101-105.
+> 37 Id. at 110-117.
+> 38 Id. at 1-3. Signed by Executive Clerk of Court Atty. Isobel MPT. Solis.
+> 39 Id. at 120-121.
+> 40 Id at 134-170.
+> 41 Id. at 355-448.
+> 42 Id. at 532-561.
+> /J
+>
+> Decision
+> G.R. No. 268419
+> Issue
+> The sole issue for the Court's resolution is whether or not the accused
+> appellants, by conspiring and confederating with one another, violated Section
+> 3(e) ofRepublic Act No. 3019, as amended.
+> Ruling of the Court
+> The appeal is meritorious.
+> It is settled that the violation of procurement laws does not ipso facto
+> give rise to violation of Republic Act No. 3019. Even granting that there may
+> be violations of the applicable procurement laws, this does not mean that the
+> elements of Section 3(e) of Republic Act No. 3019 are already present as a
+> matter of course. 43 These are separate offenses whose distinct elements must be
+> proven beyond reasonable doubt to warrant a conviction.
+> This is not to say, however, that a violation of procurement laws cannot
+> result in an indictment for Section 3(e) of Republic Act No. 3019. This was
+> made clear in Our ruling in Martel v. People:44
+> Thus, in order to successfully prosecute the accused under Section 3
+> (e) ofR.A. 3019 based on a violation of procurement laws, the prosecution
+> cannot solely rely on the fact that a violation of procurement laws has been
+> committed. The prosecution must prove beyond reasonable doubt that: (1)
+> the violation of procurement laws caused undue iajury to any party, including
+> the government, or gave any private party unwarranted benefits, advantage
+> or preference, and (2) the accused acted with evident bad faith, manifest
+> partiality, or gross inexcusable negligence.45 (Emphasis in the original)
+> In other words, for a violation of procurement laws to give rise to a
+> conviction for Section 3(e) of Republic Act No. 3019, such violation should
+> have caused undue injury or have resulted in giving any private party
+> unwarranted benefits, advantage or preference. Necessarily, evident bad faith,
+> manifest partiality, or gross inexcusable negligence should also be proven.
+> Here, the Sandiganbayan held that the BAC and TWG' s violation of
+> procurement law amounted to gross inexcusable negligence which allowed
+> Nikka Trading to derive unwarranted benefit, advantage, and preference from
+> the subject transactions. In this regard, Pangandaman et al. maintain that the
+> 43 Sabaldan, Jr. v. Office of the Ombudsman for Mindanao, et al., 874 Phil. 144, 157 (2020) [Per J. J.C.
+> Reyes, Jr., First Division].
+> 44 895 Phil. 270 (2021) [Per J. Caguioa, En Banc].
+> 45 Id at 296.
+> /J
+>
+> Decision 11 G.R. No. 268419
+> justifications used by the Sandiganbayan in concluding their commission of
+> "gross inexcusable negligence" pertain to violations of Republic Act No. 9184
+> and not the anti-graft law per se. They believe that the violation of procurement
+> laws was taken as the means by which they allegedly violated Section 3( e) of
+> Republic Act No. 3019. However, since such violation of procurement laws
+> was not specifically alleged in the Informations, they fault the assailed Decision
+> for violating their right to due process. Furthermore, they argue that a violation
+> of Republic Act No. 9184 does not necessarily translate to unwarranted benefit,
+> advantage and preference as to constitute a violation of Section 3( e) of Republic
+> Act No. 3019.46
+> While We agree that a conviction for violating Section 3( e) of Republic
+> Act No. 3019 cannot be anchored solely on a violation of procurement laws,
+> We cannot sustain the allegation that the accused-appellants' right to due
+> process was violated.
+> In criminal cases, where the life and liberty of the accused is at stake,
+> due process demands that the accused be informed of the nature and cause of
+> the accusation against them. An accused cannot be convicted of an offense
+> unless it is clearly charged in the Complaint or Infonnation. The Information
+> must describe the act with sufficient certainty in order that the accused may be
+> apprised of the nature of the charge against him or her and to avoid any possible
+> surprise that may lead to injustice.47
+> In People v. Lab-eo,48 We explained that the test of sufficiency of
+> Information is whether it enables a person of common understanding to know
+> the charge against him, and the court to render judgment properly. The purpose
+> is to allow the accused to fully prepare for his or her defense, precluding
+> surprises during the trial. Hence, to successfully state the acts or omissions that
+> constitute the offense, they must be described in intelligible terms with such
+> particularity as to apprise the accused, with reasonable certainty, of the offense
+> charged. For this purpose, the use of derivatives or synonyms or allegations of
+> basic facts constituting the offense charged is sufficient.49
+> In this case, the Sandiganbayan found that the accused-appellants'
+> violation of procurement laws amounted gross inexcusable negligence,
+> warranting their conviction for Section 3(e) of Republic Act No. 3019. While
+> there was no specific allegation for the violation of procurement laws in the
+> Informations, this does not mean that such violation cannot serve as basis for a
+> conviction of the anti-graft law.
+> 46 Rollo, pp. 378-382.
+> 47 People v. Yap, 947 Phil. 680, 713-714 (2023) [Per J. Lazaro-Javier, Second Division].
+> 48 424 Phil. 482 (2002) [Per J. Carpio, Third Division].
+> 49 Villarba v. Court of Appeals, et al., 874 Phil. 84, 105 (2020) [Per J. Leonen, Third Division].
+>
+> Decision 12 G.R. No. 268419
+> The Rules of Court only require that the Information allege the ultimate
+> facts constituting the elements of the crime charged. Hence, details that do not
+> go into the core of the crime, while may be presented during trial, need not be
+> included in the Information.50 In other words, an Information is adequate as
+> long as the same sufficiently alleges the ultimate facts constituting the
+> offense.51 This is satisfied if the narration of facts and circumstances adequately
+> depict the crime and sufficiently apprise the accused of the nature and cause of
+> the accusation against them.
+> Here, a plain reading of the Information shows that the allegations stated
+> therein sufficiently apprised the accused-appellants that the crime charged
+> against them was for violation of Section 3(e) of Republic Act No. 3019. The
+> Informations clearly describe the acts constituting the crime charged-that the
+> accused-appellants were public officers, who in the performance of their duties,
+> acted with manifest partiality, evident bad faith and/or gross inexcusable
+> negligence in giving unwarranted benefits to Nikka Trading by purchasing
+> Larch wood ties despite knowing that the Board Resolutions and bidding
+> documents required Y akal wood ties, to the damage and injury of the PNR or
+> the government. Thus, while the violation of procurement laws may have been
+> the basis for the finding of gross inexcusable negligence, there is no ambiguity
+> in the allegations which prevented the accused-appellants from preparing their
+> defense in relation to the violation of Section 3(e) of Republic Act No. 3019.
+> Again, as long as the accused were able to prepare their defense and evidence
+> based on the Information, the constitutional right to be informed of the nature
+> and cause of accusation is satisfied.
+> To emphasize, the accused-appellants here were neither prosecuted nor
+> indicted for offense other than that charged in the Informations. They were also
+> given ample opportunity to present their case and to controvert the evidence of
+> the prosecution. Furthermore, even assuming that there were averments of
+> violations of procurement laws, this does not mean that the accused-appellants
+> should be tried for violation of Republic Act No. 9184 and no other, especially
+> if they are charged of an entirely different offense.
+> Therefore, since the accused-appellants were sufficiently appraised that
+> they were charged for violation of Section 3(e) of Republic Act No. 3019, We
+> find no violation of their right to due process.
+> With the above issue settled, We now detennine whether there was
+> indeed a violation of Section 3(e) of Republic Act No. 3019.
+> 50 People v. Sandiganbayan (Fourth Division), et al., 769 Phil. 378, 382 (2015) [Per J. Jardeleza, Third
+> Division].
+> 51 People v. Lala, 948 Phil. 305, 316 (2023) [Per J. Gaerlan, Third Division].
+>
+> ..
+> Decision 13 G.R. No. 268419
+> For an accused to be convicted under Section 3(e) of Republic Act No.
+> 3019, the following elements must be established: (1) the accused must be a
+> public officer discharging administrative, judicial, or official functions or a
+> private individual acting in conspiracy with such public officers; (2) the
+> accused acted with manifest partiality, evident bad faith, or gross inexcusable
+> negligence; and (3) the action caused any undue injury to any party, including
+> the government, or gave any private party unwarranted benefits, advantage, or
+> preference in the discharge of his or her functions.52
+> Here, there is no question as to the presence of the first element. The fact
+> that the accused-appellants were public officers employed with the PNR was
+> stipulated during pre-trial. 53
+> As to the second element, jurisprudence instructs that Section 3( e) of
+> Republic Act No. 3019 may be committed by means of dolo, that is through
+> bad faith or manifest partiality, or by means of culpa, or through gross
+> inexcusable negligence. 54 These three modes are distinct from one another and
+> the existence of any of them suffices to support a conviction.5 5
+> In this case, the Sandiganbayan found the accused-appellants liable on
+> the ground of gross inexcusable. For their failure to meet the post-qualification
+> requirements of the procurement law, the Sandiganbayan held that the accused
+> appellants acted in careless disregard of their duties.56 In so ruling, it rejected
+> the contention that the continued referenceto "Y akal" in the bidding documents
+> is an honest oversight and a rookie mistake on the part of the accused
+> appellants.5 7
+> We disagree.
+> The acts of the accused-appellants do not demonstrate, beyond
+> reasonable doubt, a level of negligence that can be characterized as "gross
+> inexcusable negligence."
+> "Gross inexcusable negligence" refers to negligence characterized by the
+> want of even the slightest care, acting or omitting to act in a situation where
+> there is a duty to act, not inadvertently but willfully and intentionally, with
+> conscious indifference to consequences insofar as other persons may be
+> 52 Id.
+> 53 Rollo, p. 44.
+> 54 Feliciano v. People, 899 Phil. 138, 148 (2021) [Per J. Gaerlan, First Division].
+> 55 People v. Marrero, G.R. No. 268342, May 15, 2024 [Per J. Lazaro-Javier, Second Division] at 18. This
+> pinpoint citation refers to the copy of the Decision uploaded to the Supreme Court website.
+> 56 Rollo, pp. 91-100.
+> 57 Id. at 100-101.
+> /J
+>
+> Decision 14 G.R. No. 268419
+> affected.58 Under Section 3(e) of Republic Act No. 3019, gross inexcusable
+> negligence does not require fraudulent intent or ill-will. A public officer is
+> guilty of gross inexcusable negligence when there is a breach of duty that is
+> committed flagrantly, palpably, and with willful indifference. In committing
+> said breach, it must be proven that the public officer was inattentive,
+> thoughtless, and careless.5 9
+> As applied here, while the PNR board resolutions and bidding
+> documents indeed specified "Y akal," there is merit to the contention that the
+> accused-appellants believed that Supplemental Bid Bulletins had the effect of
+> enlarging the scope of classification of the wood subject of the procurement.
+> The Supplemental Bid Bulletins60 are worded as follows:
+> 08 November 2011 29 November 2011
+> (First Procurement) (Second Procurement)
+> SECTION III. BID DATA SHEET SECTION III. BID DATA SHEET
+> 1.1 -page 9 1.1 - page 9 of the Instruction to
+> Bidders
+> NOTE: The "Goods" referred herein
+> shall mean Yakal Wood or other NOTE: The "Goods" referred herein
+> species or kind of wood as long as it shall mean Yakal Wood or other
+> conforms to the mechanical and species or kind of wood as long as it
+> related properties of Philippine conforms to the mechanical and
+> woods incorporated in Section VII. related properties of Philippine
+> Technical Specifications, page 64 of woods attached hereto as ANNEX
+> the Bidding Document. "A".
+> Under the 2009 Implementing Rules and Regulations of Republic Act
+> No. 9184, the law applicable to the present case, supplemental/bid bulletins
+> may be issued for purposes of clarifying or modifying any provision of the
+> bidding documents:
+> 22.5.2. Supplemental/Bid Bulletins may be issued upon the procuring entity's
+> initiative for purposes of clarifying or modifying any provision of the Bidding
+> Documents at least seven (7) calendar days before the deadline for the
+> submission and receipt of bids. Any modification to the Bidding Documents
+> shall be identified as an amendment.
+> 58 People v. Estregan, G.R. No. 248699, February 5, 2025 [Per J. Rosario, First Division] at 12. This
+> pinpoint citation refers to the copy of the Decision uploaded to the Supreme Court website.
+> 59 Martelv. People, 895 Phil. 270,305 (2021) [Per J. Caguioa, En Banc].
+> 60 Rollo, p. 89.
+>
+> Decision 15 G.R. No. 268419
+> At the time the biddings were conducted, Section 2 of Executive Order
+> No. 23 imposed a moratorium on the cutting and harvesting of timber in the
+> natural and residual forests of the entire country. Included in this ban was the
+> cutting and harvesting of Y akal. Executive Order No. 23 was already in effect
+> before the pre-bid conference of the first procurement. This prompted the BAC
+> to issue a Supplemental Bid Bulletin allowing offers of other kinds of wood
+> besides Y akal. This is why Nikka Trading offered only "Larch wood" in its bids.
+> In view of the Supplemental Bid Bulletins issued for the first and the
+> second procurement, there is no mistake that Y akal will not be the only specie
+> of wood that would be accepted for bidding. The accused-appellants thus have
+> basis to believe that they can accept bids for other species of wood as long as
+> they meet the criteria in the bidding documents. The Sandiganbayan, in its
+> Decision, even recognized that "[t]he Supplemental Bulletins would have
+> sufficiently induced the [accused-appellants] to ente1iain "other species or kind
+> of wood as long as it conforms to the mechanical and related properties of
+> Philippine woods, not just Yakal."61 In light of these circumstances, it is clear
+> that Nil<l<aT rading' s offer of Larch wood matched the bid. Hence, the accused
+> appellants cannot be faulted for considering Larch wood in the bidding process.
+> The Sandiganbayan also faults the BAC and TWG members for not
+> conducting the testing of the goods during post-qualification. According to the
+> Sandiganbayan, even without a determination that indeed the offered Larch
+> wood conformed to the mechanical and related properties of Philippine woods,
+> particularly Yakal, Nikka Trading's bid easily passed the post-qualification and
+> was declared the lowest calculated responsive bid for both procurements.62
+> Section 34 of Republic Act No. 9184 defines the process of post
+> qualification as the stage where the bidder with the Lowest Calculated Bid, in
+> the case of Goods and Infrastructure Projects, or the Highest Rated Bid, in the
+> case of Consulting Services, undergoes verification and validation whether the
+> bidder has passed all the requirements and conditions as specified in the
+> Bidding Documents.
+> Section 34.3(b )(iii) of the Implementing Rules and Regulations of
+> Republic Act No. 9184 provides for the testing of the goods for procurement
+> "in applicable cases." The provision reads:
+> 34.3. The post-qualification shall verify, validate, and ascertain all
+> statements made and docun1ents submitted by the bidder with the Lmvest
+> Calculated Bid/Highest Rated Bid, using non-discretionary criteria, as stated
+> in the Bidding Documents. These criteria shall consider, but shall not be
+> limited to, the follmving:
+> Id
+> 61
+> 62 Id at 91.
+>
+> Decision 16 G.R. No. 268419
+> b) Technical Requirements. To determine compliance of the goods,
+> infrastructure projects, or consulting services offered with the requirements
+> specified in the Bidding Documents, including, where applicable:
+> iii) Verification and/or inspection and testing of the goods/product,
+> aftersales and/or maintenance capabilities, in applicable cases, for the
+> procurement of goods ... (Emphasis supplied)
+> The Government Procurement Policy Board (GPPB) NPM No. 114-
+> 2013 clarified the conduct of post-qualification pursuant to Section 34 of the
+> Implementing Rules and Regulations of Republic Act No. 9184. It provides
+> that since the manner of verifying, validating, and ascertaining the statements
+> made and documents submitted by the bidder is not prescribed in detail in
+> Republic Act No. 9184 and its Implementing Rules and Regulations, the
+> procuring entity may adopt internal procedures on how it will conduct the post
+> qualification in a manner that it deems effective in establishing the
+> responsiveness of the bidder with the requirements. Thus, the adoption of an
+> internal procedure on conducting post-qualification is within the discretion and
+> accountability of the procuring entity to undertake.
+> In this case, it was admitted that testing was not conducted during the
+> post-qualification of Larch wood offered by Nikka Trading. However, as
+> testified to by accused-appellant Perilla, the General Conditions of the Contract
+> provide that testing can be done prior to delivery or during delivery at the option
+> of the procuring entity. According to Perilla, testing was not done during post
+> qualification because the BAC had no expertise or capability to do so.63
+> Furthermore, as pointed out by the accused-appellants, in case the wood
+> delivered by the supplier is substandard, the PNR is not without any protection
+> because the end-user has the right to reject the delivery.64 Believing that testing
+> could be done upon delivery, the BAC through the TWG thus conducted post
+> qualification by checking and verifying documents but delegated the testing to
+> the end-users.
+> Given the considerable latitude provided by law on how post
+> qualification could be conducted by the procuring entity, the accused
+> appellants may very we11b e wrong that testing can be done during delivery.
+> Nevertheless, in making such mistake, they cannot be held grossly negligent.
+> While they may have committed lapses in the post-qualification process, their
+> actions and omissions cannot be characterized as a flagrant breach of duty
+> bereft of even the slightest care.
+> 63 Id at 161-162.
+> 64 Id. at 164.
+>
+> Decision 17 G.R. No. 268419
+> The accused-appellants also sufficiently explained why, despite the
+> issuance of the Supplemental Bid Bulletins, the bidding documents still
+> indicated "Yakal." Atty. Tareeq Yahya Timbal A. Radjaie (Radjaie), the Head
+> of the BAC Secretariat, testified that the BAC Resolutions indicated that the
+> award was for the supply of ''Y akal" because in preparing the draft, the BAC
+> Secretariat merely copy-pasted earlier files pertaining to "Yakal." He attributed
+> this to an oversight and called it a rookie mistake considering the BAC and its
+> Secretariat then had no prior experience in actual bidding. 65 It is also undisputed
+> that it was the BAC Secretariat who prepared and finalized all the necessary
+> documentation arising from the bidding process for the signature of the BAC.66
+> Proceeding therefrom, while the accused-appellants may have been
+> negligent in signing the bidding documents that specified "Y akal," it is clear
+> that they were not the direct cause of the error. More importantly, it was not
+> established, beyond reasonable doubt, that they willfully and intentionally
+> signed the erroneous documents, with conscious indifference to the
+> consequences.
+> As it stands, there is doubt as to whether the appearance of the term
+> "Y akal" in the bidding documents was intentional or a mere product of
+> inadvertence, inexperience and honest mistake of the part of the accused
+> appellants. This doubt justifies the application of the pro reo principle and the
+> equipoise rule. Where the evidence on an issue of fact is in question or there is
+> doubt on which side the evidence weighs, the doubt should be resolved in favor
+> of the accused. In the same vein, if inculpatory facts and circumstances are
+> capable of two or more explanations, one consistent with the im1ocence of the
+> accused and the other consistent with his guilt, then the evidence does not fulfill
+> the test of moral certainty and will not justify a conviction. 67
+> Finally, as to the third element-that the action caused undue injury or
+> gave any private party unwarranted benefits, advantage, or preference-We
+> rule that this was also not established.
+> The third element refers to two separate acts that qualify as a violation
+> of Section 3(e) of Republic Act No. 3019: undue injury and unwarranted
+> benefits. In Cabrera v. People,68 We explained that an accused may be charged
+> with the commission of either or both because the use of the disjunctive term
+> "or" connotes that either act qualifies as a violation of the law.69
+> 65 Id. at 72.
+> 66 Id. at 45-46.
+> 67 Amanquiton v. People, 612 Phil. 1253, 1264 (2009) IP er J. Cormia, First Division].
+> 68 922 Phil. 178 (2019) [Per J. J.C. Reyes, Jr., Second Division].
+> 69 Id.at187.
+>
+> Decision l 8 G.R. No. 268419
+> For the first mode, an accused is said to have caused undue injury to the
+> government or any party when the latter sustains actual loss or damage, which
+> must exist as a fact and cannot be based on speculations or conjectures.70 On
+> the other hand, in order to be found guilty under the second mode, it suffices
+> that the accused has given unjustified favor or benefit to another in the exercise
+> of his official, administrative or judicial functions.71
+> The words "unwarranted," "advantage'' and "preference" have been
+> defined by the Court in this wise:
+> The word "unwarranted" means lacking adequate or official support;
+> unjustified; unauthorized or without justification or adequate reason.
+> "Advantage" means a more favorable or improved position or condition;
+> benefit, profit or gain of any kind; benefit from some course of action.
+> "Preference" signifies priority or higher evaluation or desirability; choice or
+> estimation above another.72
+> Here, the Sandiganbayan held that the element of damage cannot be
+> considered due to the lack of quantifiable proof tiom the prosecution.
+> Nonetheless, it concluded that the gross inexcusable negligence of the BAC and
+> TWG members allowed Nikka Trading to derive unwarranted benefits from the
+> subject procurements.73
+> We find no basis to sustain the Sandiganbayan' s conclusion.
+> Public biddings are intended to minimize occasions for corruption and
+> temptations to abuse discretion on the part of government authorities in
+> awarding contracts. They are designed to ensure that the People get maximum
+> benefits and quality services from the contracts entered into by the
+> govennnent. 74
+> In this case, it was not proven that Nikka Trading was awarded the
+> procurement contract without the benefit of a fair bidding system. To recall, the
+> mode of procurement for both transactions was an open and public bidding. For
+> the first procurement, the only other supplier who submitted a bid failed to pass.
+> For the second procurement, only Nikka Trading submitted a bid containing
+> both technical and financial components. Based on the evidence on record,
+> there is also no showing that they derived pecuniary benefit from
+> recommending for approval the bid of Nikka Trading. Thus, for both
+> 70 Abubakar v. People, 834 Phil. 43 5, 4 72 (2018) [Per J. l eone n, Third Division].
+> 71 Sison v. People, 628 Phil. 573,586 (2010) [Per J. Corona, Third Division]-
+> 72 Id.
+> 73 Rollo, pp. 96-101.
+> 74 Rena/es v. People, 904 Phil. 456,473 (2021) [Per J. Carandang, First Division].
+> /)
+>
+> Decision 1.9 G.R. No. 268419
+> procurements, it cannot be said that the accused-appellants intentionally
+> favored Nikka Trading over any other bidder.
+> To clarify, in the case ofMacairan v. People,75 We held that the acts
+> constituting the elements of a violation of Republic Act No. 3019 must be
+> effected with corrupt intent, a dishonest design, or some unethical interest. In
+> the present case, however, it was not necessary fot the prosecution to prove the
+> same. It is well to remember that in Macairan, the accused were charged of
+> violating Republic Act No. 3019 through evident bad faith and manifest
+> partiality. Thus, We ruled that it must be proven that the accused was motivated
+> by malicious and corrupt intent to defraud the government. 76
+> In contrast, the basis of the accused-appellants' conviction here is their
+> purported "gross inexcusable negligence." When a violation of Section 3( e) of
+> Republic Act No. 3019 is committed by means of culpa, no proof of malice is
+> required. Stated differently, if the accused purportedly committed the crime
+> through "gross inexcusable negligence," what the prosecution needs to prove
+> is not malice per se but the fact the negligence of the accused is so gross that it
+> borders on malice. The actions or omissions of the accused must evidence want
+> of even the slightest care. Further, it must be proven that even without
+> fraudulent intent, the accused committed the breach of duty flagrantly,
+> palpably, and with willful indifference to consequences insofar as other persons
+> may be affected. 77
+> This is what the prosecution miserably failed to do. The prosecution
+> failed to prove that in the conduct of the bidding process, the accused-appellants
+> acted with gross inexcusable negligence resulting in the grant of unwarranted
+> benefits, advantage or preference to Nikka Trading. The evidence in this case
+> supports the probability that the accused-appellants acted based on their honest
+> belief that the Supplemental Bid Bulletins expanded the definition of "goods"
+> and as a result, Nikka Trading' s offer complied with the eligibility and technical
+> requirements. Therefore, in simply performing their duties, accused-appellants
+> cam1ot be said to have given unwarranted benefits, advantage or preference to
+> Nikka Trading.
+> Aside from failing to establish the elements of Section 3(e) of Republic
+> Act No. 3019, the existence of a conspiracy vvas also not proven.
+> According to the Sandiganbayan, it is the elernerrt of conspiracy in the
+> Informations which ties all the accused together, As earlier mentioned, the
+> Sandiganbayan held that for the BAC and TWG members, their disregard of
+> 75 899 Phil. 75 (2021) [Per J. Caguioa, First Division].
+> 76 Id at 120.
+> 77 Martel v. People, 895 Phil. 270, 305 (2021) [Per J. Caguioa, En Banc].
+> JJ
+>
+> Decision 20 G.R. No. 268419
+> the process of post-qualification after Larch wood has been considered
+> converted their perceived oversight to gross inexcusable negligence. 78
+> We are not convinced.
+> Plainly, there is no proof in this case that the accused-appellants took
+> part in a conscious community of design to commit the offenses charged.
+> While direct proof is not necessary to establish conspiracy, the prosecution
+> must show, with proof beyond reasonable doubt, that all participants perfom1ed
+> overt acts with such closeness and coordination as to indicate a common
+> purpose or design to commit the felony.79
+> The indiscriminate use of the conspiracy theory may sweep into jail those
+> who were not even aware that there was a plan to commit a crime. Thus, even
+> if the conspiracy were one of silence and inaction arising from gross
+> inexcusable negligence, it is essential that the prosecution proves that the
+> breach of duty borders on malice and is characterized by flagrant, palpable and
+> willful indifference to consequences insofar as other persons may be affected. 80
+> Without mincing words, the accused-appellants' conviction cannot be
+> based on an unsubstantiated allegation of conspiracy. The totality of the facts
+> and circrunstances here do not demonstrate, beyond reasonable doubt, that the
+> accused-appellants were animated by a united purpose to defraud the
+> govenllilent. To begin with, their actions or inactions do not even amount to
+> gross inexcusable negligence so as to incriminate them in the alleged scheme
+> to award the contract to Nikka Trading. In the absence of a well-grounded and
+> reasonable belief that the accused-appellants aimed their acts towards the
+> accomplishment of the same unlawful purpose, they cannot be found liable as
+> conspirators.
+> All told, there is no basis to sustain the conviction.
+> ACCORDINGLY, the Appeal is GRANTED. The Decision dated June
+> 9, 2023, and the Resolution dated July 26, 2023, issued by the Sandiganbayan
+> in Criminal Case Nos. SB-17-CRM-2140 and SB-17-CRM-2141, are hereby
+> REVERSED and SET ASIDE. Accordingly, accused-appellants Abdul Aziz
+> M. Pangandaman, Estelito A. Nierva, Ruben A. Besmonte, Neofito C. Perilla,
+> Divina Gracia D. Dantes, Cesar L. Bocanog and Mario D. Arias a.k.a. "Marlo"
+> are ACQUITTED for failure of the prosecution to prove their guilt beyond
+> reasonable doubt.
+> 78 Rollo, pp. 102-103.
+> 79 Macairan v. People, 899 Phil. 75, 120 (202]) [Per J. Caguioa, First Division].
+> 80 Sistoza v. Desierto, 437 PhiL 117, 139 (2002) [Per J. Bellosillo, Second Division].
+> jJ
+>
+> Decision 21 G.R. No. 268419
+> SO ORDERED.
+> =··
+> S •• N
+> Associate Justice
+> WECONClJR:
+> .
+> AL INS. CAGUIOA
+> ustice
+> 1
+> ,,,.,,..--
+> HENR~TJNG B. DIMAAlVIP
+> Associate· Justice
+> (On leave)
+> MARIA FILOMENA D. SINGH
+> Associate Justice
+>
+> Decision 22 G.R. No. 268419
+> ATTESTATION
+> I attest that the conclusions in the above Decision had been reached in
+> consultation before the case was assigned to the writer of the opinion of the
+> Court's Division.
+> N.J - S. CAGUIOA
+> sbciate Justice
+> Chairperson, Third Division
+> CERTIFICATION
+> Pursuant to Section 13, Article VllI of the Constitution and the Division
+> Chairperson's Attestation, I certify that the conclusions in the above Decision
+> had been reached in consultation before the case was assigned to the writer of
+> the opinion of the Court's Division.

@@ -1,0 +1,351 @@
+# GR-242366-CAGUIOA
+
+**Concurring Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: Concurring Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: April 8, 2016
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2025/07/242366-CAGUIOA.pdf)
+
+---
+
+> THIRD DIVISION
+> G.R. No. 242366 - VENUSTRIANO B. CHAVEZ, JR., MARIA
+> CARMITA C. CERTEZA, VENERANDO B. CHAVEZ, CYNTHIA C.
+> CHAN, CAROLINA C. GERSTMAYR, CARINA B. CHAVEZ,
+> VERNON B. CHAVEZ, VICENZO B. CHAVEZ, BENJAMIN L.
+> PALOMIQUE, JAIME C. PALOMIQUE and MARIAN CELINA C.
+> PALO MI QUE, and VIRGILIO B. CHAVEZ, Petitioners, v. SPOUSES
+> JOSELITO AND ADRIANA GOPEZ, Respondents.
+> x- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M, ~~ q4 -- - - - - - - -
+> X
+> CONCURRING OPINION
+> CAGUIOA, J.:
+> The ponencia in the above-captioned case grants the petition and
+> reinstates the Decision dated April 8, 2016 of the Regional Trial Court in Civil
+> Case No. Q-13-72713. 1 The ponencia rules that petitioners-vendors Chavez,
+> et al. were well within their rights when they terminated their sale agreement
+> with respondents-vendees Spouses Joselito and Adriana Gopez (Spouses
+> Gopez), evidenced by an Acknowledgment Receipt dated October 21, 2011,
+> on the basis of the latter's failure to fulfill the conditions under the agreement, 2
+> including the delivery of PHP 5,000,000.00 as downpayment3
+> The Acknowledgment Receipt reads:
+> This is to acknowledge receipt [o f] Check No. 0157934[,] dated
+> October 21, 2011 [,] amounting to [PHP 200,000.00] only[] as earnest money
+> for the purchase of the property located at Mauban St. ... for the amount of
+> [PHP 31.5 million], (sic)[] with TCT [No.] RT-59039 & TCTNo. 58821[,]
+> 4
+> Contract to Sell, Deed of Absolute Sale & Extrajudicial Settlement ofEstate.
+> In arriving at its conclusion, the ponencia characterizes the agreement
+> between the parties as a contract to sell. The ponencia observes that the
+> Acknowledgment Receipt lacks any undertaking on the part of the vendors to
+> transfer the properties to Spouses Gopez. Moreover, the Acknowledgment
+> Receipt evidences certain conditions to be fulfilled by Spouses Gopez, i.e.,
+> the preparation of the contract to sell, deed of absolute sale, and extraj udicial
+> settlement of estate-in addition to the payment of the purchase price. 5
+> 1 Ponenda, p. 13.
+> 2 Id. at 12.
+> 3 Id.
+> 4 Id. at 8.
+> 5 Id. at 10.
+>
+> Concurring Opinion 2 G.R. No. 242366'
+> I concur in the ponencia and find it fitting to reiterate the view I
+> espoused in Spouses Kaw v. Heirs of Nodalo, et al. 6 on the introduction and
+> evolution of the concept of a contract to sell in Philippine jurisprudence-a
+> concept which, though lacking direct statutory foundation, has nonetheless
+> taken firm root in our prevailing judicial framework.
+> Contract ofS ale under the Civil Code
+> If one were to adhere strictly to the provisions of the Civil Code on
+> Sales and on Obligations and Contracts, what jurisprudence has come to
+> recognize as a "contract to sell" would, in fact, constitute a perfected contract
+> of sale under Article 1458 of the Civil Code:
+> ARTICLE 1458. By the contract of sale one of the contracting parties
+> obligates himself to transfer the ownership of and to deliver a determinate
+> thing, and the other to pay therefor a price certain in money or its equivalent.
+> A contract of sale may be absolute or conditional.
+> Complementing this, Article 1475 of the Civil Code states that "[a]
+> contract of sale is perfected at the moment there is a meeting of minds upon
+> the thing which is the object oft he contract and upon the price."7
+> Consistent with the above provisions of the Civil Code, the Court has
+> repeatedly emphasized that "the nature of a sale is a consensual contract
+> because it is perfected by mere consent. "8 A contract of sale, thus, consists of
+> the following essential elements:
+> (i) Consent or meeting of the minds, that is, consent to transfer
+> ownership in exchange for the price;
+> (ii) Determinate subject matter; and
+> (iii) Price certain in money or its equivalent.9
+> As applied in this case, and as indeed found by the Court of Appeals, 10
+> all the elements of a perfected contract of sale are present in the agreement
+> between the parties-(i) petitioners and Spouses Gopez consented to the
+> transfer of (ii) two adjacent lots in Quezon City for (iii) the purchase price of
+> PHP 31,500,000.00.11
+> Further, owing to the consensual nature of a contract of sale, a
+> stipulation that the buyer must first comply with his obligation to pay before
+> the seller shall comply with his obligation to cause the transfer of the
+> ownership of the thing, would not divest an agreement of its character as a
+> 6 G.R. No. 263047, November 27, 2024 [Per J. Inting, Third Division].
+> 7 Emphasis supplied.
+> 8 The Heirs a/Zenaida H Gonzales v, Spouses Dominador and Estefania Basas, 923 Phil. 95, 108 (2022)
+> [Per J. Hernando, First Division]. (Emphasis supplied)
+> 9 Pasco v, Cuenca, 889 Phil. 68, 78 (2020) [Per J. Inting, Third Division].
+> 10 Ponencia, p. 6.
+> 11 Id
+>
+> Concurring Opinion 3 G.R. No. 242366
+> contract of sale. After all, Article 14 78 of the Civil Code expressly allows
+> parties in a contract of sale to stipulate that ownership shall not pass until the
+> purchaser has fully paid the price, viz.:
+> ARTICLE 1478. The parties may stipulate that ownership in the
+> thing shall not pass to the purchaser until he has fully paid the price.
+> Professor Araceli Bav i era, a noted civil law professor, distinguished the
+> definition of a contract of sale under Article 144512 of the Spanish Civil Code
+> and Article 145813 of the New Civil Code, advancing the view that the latter
+> now contemplates a contract of sale where reservation of ownership may be
+> made by the seller despite delivery of the property to the buyer:
+> The Spanish Civil Code defined a contract of purchase and sale as
+> one where a contracting party obligates himself to deliver a determinate
+> thing and the other to pay a certain price therefor in money or in something
+> representing it. The New Civil Code defines a contract ofs ale as a contract
+> where one oft he parties obligates himselft o transfer tfte owners/tip ofa nd
+> to deliver a determinate thing, and the other party to pay therefor a price
+> certain in money or its equivalent. The Uniform Sales Act defines a sale of
+> goods as an agreement whereby the seller transfers the property in goods
+> to the buyer for a consideration called the price, while a contract to sell
+> goods is a contract whereby the seller agrees to transfer the property in
+> goods to the buyer for a consideration called the price. Under the Uniform
+> Commercial Code, a "contract for sale" includes both a present sale of
+> goods and a contract to sell goods at a future time, and a "sale" consists in
+> the passing of title from seller to the buyer for a price.
+> The Spanish Civil Code followed the Roman law definition
+> imposing a duty on the seller to deliver, but the seller was not bound to make
+> the buyer owner immediately and directly. According to the Code
+> Commission, the definition in the Spanish Civil Code is unsatisfactory
+> because even if the seller is not the owner of the thing sold, he may validly
+> sell, subject to the warranty against eviction. The present definition is
+> similar to the definition in the German Civil Code imposing two obligations
+> on the seller. The implication oft liese separate obligations is that the seller
+> may reserve ownership over the thing sold, notwithstanding delivery to the
+> buyer. 14 (Citations omitted; emphasis supplied)
+> Despite the foregoing, the ponencia's characterization of the agreement
+> as a contract to sell, i.e., an agreement where the "seller does not yet agree or
+> consent to transfer ownership until the happening of an event, usually the full
+> payment of the purchase price,"15 is in accord with prevailing jurisprudence.
+> 12 ARTICLE 1445. By the contract of purchase and sale one of the contracting parties binds himself to
+> deliver a determinate thing and the other to pay a certain price therefor in money or in something
+> representing the same. (Emphasis supplied)
+> 13 ARTICLE 1458. By the contract of sale one of the contracting parties obligates himself to transfer the
+> ownership of and to deliver a determinate thing, and the other to pay therefor a price certain in money
+> or its equivalent.
+> A contract of sale may be absolute or conditional. (Emphasis supplied)
+> 14 Heirs of Corazon Villeza v. Aliangan, 891 Phil. 443, 459-460 (2020) [Per J. Caguioa, First Division],
+> citing ARACELI T. BAV IERA, SALES 3-4 (2005).
+> 15 Ponencia, p. 8.
+>
+> Concuning Opinion 4 G.R. No. 242366'
+> Contract to Sell-a jurisprudential concept
+> The concept of a contract to sell-one where title remains with the
+> vendor until full payment of the price-was first articulated in the 1960 case
+> of Manuel v. Rodriguez, Sr. 16 penned by esteemed civilist Associate Justice J.
+> B. L. Reyes:
+> Plaintiff-appellant, however, argues (Enors I-IV; VI; VIII) that the Payatas
+> Subdivision had no right to cancel the contract, as there was no demand by
+> suit or notarial act, as provided by Article 1504 of the Old Code (Art. 1592,
+> N.C.C.). This is without merit, because Article 1504 requiring demand by
+> suit or notarial act in case the vendor of realty wants to rescind, does not
+> apply to a contract to sell or promise to sell, where title remains with the
+> vendor until fulfillment to a positive suspensive condition, such as full
+> payment oft he price, .. 17 (Citations omitted; emphasis supplied)
+> Such characterization of a contract to sell in Manuel found footing in
+> earlier rulings, the earliest of which is the 1940 case of The Caridad Estates,
+> Inc. v. Santero.18 In Caridad Estates, the Court held that Article 150419 of the
+> Spanish Civil Code-which allows a vendee in default of payment to still
+> proceed to pay, as long as there is no judicial or notarial demand for resolution
+> by the vendor-does not apply to an agreement where the parties expressly
+> stipulate that non-payment warrants the cancellation of the contract and
+> repossession upon demand. Notably, however, the Court still consistently
+> referred to the agreement as a contract of sale, with its ruling anchored on the
+> parties' freedom to stipulate, rather than a reclassification of the contract's
+> nature.
+> The 1950 case of Albea v. lnquimboy2° marked the first time the Court
+> expressly denominated the agreement in Caridad Estates as a "contract to
+> sell." While Albea also involved a contract of sale on installment-with a
+> stipulation that failure to timely pay the first installment would automatically
+> cancel the sale21-the Court emphasized a notable difference between the two
+> cases. The Albea contract contained a provision requiring the vendee to
+> "execute and give the corresponding deed of cancellation and rescission"22 in
+> case of default, which the Court interpreted as indicative of an absolute sale
+> i.e., ownership had already passed to the vendee, hence the need to reconvey
+> title. In contrast, the Court characterized Caridad Estates contract as one
+> where "title had not passed to [the vendee],"23 and classified it as a "mere
+> contract to sell," viz.:
+> 16 109 Phil. 1 (1960) [Per J, Reyes, J, B. L,, Second Division],
+> 17 Id at 9.
+> 18 71 Phil. 114 (1940) [Per J, Laurel, En Banc],
+> 19 ARTICLE 1504. In the sale ofreal property, even though it may have been stipulated that in default of
+> the payment of the price within the time agreed upon, the resolution of the contract shall take place ipso
+> Jure, the purchaser may pay even after the expiration of the period, at any time before demand has been
+> made upon him either by suit or by notarial act. After such demand has been made the judge cannot grant
+> him further time.
+> 20 86 Phil. 477 (1950) [Per J, Ozaeta, Second Division].
+> 21 Id at 482.
+> z2 Id
+> 23 Id at 483.
+>
+> Concurring Opinion 5 G.R. No. 242366
+> The contract Exhibit A involved in the present case, was one of
+> absolute sale whereby the vendor Inquimboy transferred and conveyed his
+> title to the land in question to the vehdee[.] ... In a separate document
+> (Exhibit B) he agreed to pay that price as follows: [PHP] 2,500(.00] on or
+> about November 15, 1941, and [PHP] 500[.00] in May, 1942, with the
+> proviso that should he fail to pay the said sum of [PHP] 2,500[.00] on or
+> before November 15, 1941, the deed of absolute sale Exhibit A "shall ipso
+> facto be deemed cancelled and rescinded and that I shall execute and give
+> the corresponding deed of cancellation and rescission." In other words, the
+> vendee agreed to retransfer or reconvey the property to the vendor should
+> the former fail to pay the first sum of [PHP] 2,500[.00] on the date
+> stipulated.
+> That contract is different fi·om the one involved in the Caridad
+> Estates case, in that the latter was not an absolute deed ofs ale but a mere
+> contract to sell whereby the vendee agreed to pay the purchase price in
+> various installments with the stipulation that, upon failure to pay any
+> installment within 60 days after due date, the vendor may, at his option,
+> recover possession of the property and consider any and all amounts already
+> paid as rental for the use and occupancy of the property. In that case there
+> was no need for the vendee to execute any deed of reconveyance to the
+> vendor because by the said contract to sell the title had not passed to him.
+> The contract involved in the present case is similar to that involved
+> in Villaruel vs. Tan King, in that both contracts were absolute sales which
+> passed title to the vendee, although the purchase price was not fully paid.
+> ... 24 (Emphases supplied)
+> Albea, thus, introduced the defining feature of what is now understood
+> in jurisprudence as a contract to sell-the vendor's reservation of ownership
+> until the fulfillment of a positive suspensive condition, such as full payment
+> of the price. This characteristic was later adopted in formulating the definition
+> of a contract to sell in Manuel, and has since been recognized in case law as
+> the hallmark of a contract to sell.
+> It is worth emphasizing, however, that the subject contracts in Caridad
+> Estates, Albea, and Manuel were all executed before August 30, 1950 or
+> before the New Civil Code came into effect.25 As such, the subject contracts
+> were governed by, and interpreted in the context of the Spanish Civil Code.
+> Accordingly, the Court, in these cases, had no occasion to consider: (i) the
+> revised definition of a contract of sale under Article 1458 of the New Civil
+> Code; and (ii) Article 1478-a new provision in the New Civil Code-which
+> expressly allows contracting parties to "stipulate that ownership in the thing
+> shall not pass to the purchaser until he has fully paid the price," without
+> divesting the agreement of its nature as a contract of sale.
+> Contract of Sale vis-ii-vis Contract to Sell
+> 24 Id at 482-483.
+> 25 Lara v. Del Rosario, Jr., 94 Phil. 778, 783 (1954) [Per J. Montemayor, En Banc].
+>
+> Concurring Opinion 6 G.R. No. 242366
+> Since its introduction to Philippine jurisprudence, the concept of a
+> "contract to sell"-where ownership of the property is retained by the owner
+> vendor until full payment of the purchase price by the vendee-has been
+> upheld even in subsequent cases involving contracts governed by the New
+> Civil Code. 26 By definition, pivotal in the Court's determination that an
+> agreement is a contract to sell-and verily distinguishing it from a contract of
+> sale-is the finding of an evident intent of the parties to reserve the seller's
+> ownership of the property pending the buyer's payment. So it must be, for as
+> a general rule, with the seller's delivery or tradition of the object, ownership
+> is acquired by the buyer, i.e., satisfying the obligations of the seller in a
+> contract of sale as set forth in Article 149527 of the Civil Code.
+> In this connection, it must be remembered that under Article 71228 of
+> the Civil Code, ownership and other real rights over property are acquired and
+> transmitted by tradition, in consequence of certain contracts, such as sale.
+> Specifically, Articles 1477 and 1496 of the Civil Code on Sales state that:
+> ART I CLE 14 77. The ownership of the thing sold shall be
+> transferred to the vendee upon the actual or constructive delivery thereof.
+> ARTICLE 1496. The ownership of the thing sold is acquired by the
+> vendee from the moment it is delivered to him in any of the ways specified
+> in articles 1497 to 1501, or in any other maimer signifying an agreement
+> that the possession is transferred from the vendor to the vendee.
+> Furthermore, Article 1498 of the Civil Code provides that the execution
+> of a public instrument is equivalent to the delivery of the object of the sale:
+> "[w]hen the sale is made through a public instrument, the execution thereof
+> shall be equivalent to the delivery of the thing which is the object of the
+> contract, if from the deed the contrary does not appear or cannot clearly be
+> inferred. "29
+> From the foregoing, to take an agreement out of the ambit of a contract
+> of sale-which is perfected by mere consent and under which the seller's
+> prestation is performed by either actual or constructive delivery-the
+> reservation of ownership pending full payment must be expressly provided
+> for, or should be capable of being clearly construed from the terms of the
+> agreement.
+> 26 See Visayan Sawmill Company, Inc. v. Court of Appeals, 292 Phil. 382 (I 993) [Per J. Davide, Jr., En
+> Banc]; Ang Yu Asuncion v. Court ofA ppeals, 308 Phil. 624 (1994) [Per J. Vitug, En Banc].
+> 27 ARTICLE 1495. The vendor is bound to transfer the ownership of and deliver, as well as warrant the
+> thing which is the object ofthe sale.
+> 28 ARTICLE 712. Ownership is acquired by occupation and by intellectual creation.
+> Ownership and other real rights over property are acquired and transmitted by law, by donation, by
+> testate and intestate succession, and in consequence of certain contracts, by tradition.
+> They may also be acquired by means of prescription.
+> 29 Emphasis supplied.
+>
+> Concurring Opinion 7 G.R. No. 242366
+> Harmonizing the provisions of the Civil Code on contracts of sale with
+> the decades-long body of jurisprudence on contracts to sell, it appears that as
+> a general rule, where an agreement contains all the essential elements of a
+> contract of sale under Article 1475 30 of the Civil Code (i.e., consent,
+> determinate subject matter, price certain), such agreement is a contract of sale.
+> Jurisprudence, however, establishes an exception: if the contracting parties
+> further stipulate that the transfer of ownership to the buyer is conditioned upon
+> the full payment of the purchase price-which arrangement may be instituted
+> through an express provision or may be clearly inferred from the other terms
+> of the agreement-the deed takes the nature of a contract to sell.
+> In the absence of an express stipulation on reservation of ownership,
+> the most commonly recognized indicator in jurisprudence of a contract to sell
+> is a provision requiring the execution of a separate deed of absolute sale upon
+> full payment of the purchase price. In Diego v. Diego,31 the Court pronounced
+> such stipulation as "a unique and distinguishing characteristic of a contract to
+> sell,"32 evidently implying the reservation of title in the vendor until the
+> vendee has completed the payment.
+> As applied in the present case, I concur that the subject agreement falls
+> within the jurisprudential exception and is indeed contracts to sell. To recall,
+> no contract has yet been executed by the parties. However, from the language
+> of the Acknowledgment Receipt-the only documentary evidence as to the
+> parties' agreement-it can be clearly inferred that the petitioners did not
+> intend to immediately transfer ownership over the subject properties. The
+> Acknowledgment Receipt indicates that the following must be provided by
+> Spouses Gopez for the purchase of the subject properties: [i] PHP
+> 31,500,00.00; [ii] contract to sell; [iii] deed of absolute sale; and [iv]
+> extrajudicial settlement of estate. The necessity of crafting these documents,
+> particularly a separate deed of absolute sale, for purposes of conveying
+> ownership implies that no such transfer is yet intended by the parties,
+> consistent with the cmTent understanding of a contract to sell.
+> However, I must underscore a deeper jurisprudential concern as I have
+> advanced in my Concurring Opinion in Spouses Kaw:33 the "general rule
+> exception" framework on contracts of sale vis-a-vis contacts to sell is largely
+> the product of judicial construction, rather than legislative design.
+> As demonstrated herein, the concept of a contract to sell built upon
+> judicial foundations governed by the Spanish Civil Code-may warrant a
+> reassessment within the legal architecture introduced by the New Civil Code.
+> To reiterate, a strict application of the latter reveals that any meeting of the
+> minds as to the delivery and the transfer of ownership of a determinate thing
+> 30 ARTICLE 1475. The contract of sale is perfected at the moment there is a meeting of minds upon the
+> thing which is the object of the contract and upon the price.
+> 31 704 Phil. 373 (2013) [Per J. Del Castillo, Second Division].
+> 32 Id. at 384.
+> 33 Supra note 6.
+>
+> Concurring Opinion 8 G.R. No. 242366
+> in exchange for a price certain is defined as a contract of sale, 34 and any
+> stipulation that ownership shall not pass unless the price has been fully paid35
+> should not negate its character as such.
+> Admittedly, however, the concept of a contract to sell now forms part
+> of the underpinning of Philippine sales law, and recalibrating this construct
+> may carry far-reaching implications for the broad body of jurisprudence that
+> has been built around it.
+> ACCORDINGLY, I CONCUR with the ponencia and vote to
+> GRANT the Petition.
+> 34 See Art. 1458 of the Civil Code, the relevant portion of which provides:
+> ARTICLE 1458. By the contract of sale one of the contracting parties obligates himself to transfer the
+> ownership of and to deliver a detenninate thing, and the other to pay therefor a price certain in money
+> or its equivalent.
+> 35 See Art. 1478 of the Civil Code, which provides:
+> ARTICLE 1478. The parties may stipulate that ownership in the thing shall not pass to the purchaser
+> until he has fully paid the price.

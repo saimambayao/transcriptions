@@ -255,6 +255,38 @@ Agent teams are expensive (roughly 3x token cost per agent) and should be reserv
 
 **The takeaway**: Use agent teams for complex parallel implementation where feedback loops between specialists (frontend, backend, QA) add genuine value -- not as a default for every task.
 
+## The Overnight Loop: When the Terminal Belongs to the Agents
+
+Agent teams, as described above, are session-bound: a developer opens Claude Code, orchestrates the agents, and waits for results. The next evolution removes the human from the terminal entirely. The pattern that emerged from the claw code incident illustrates what a truly closed development loop looks like in practice. [^28]
+
+> **Key insight**: "A person opens a Discord on their phone, types in a sentence, and puts the phone down. They might go make coffee. They might go to sleep. The agents read the message, break the work into tasks, assign roles amongst themselves, write code, test it, argue over it, fix what fails, and push. When everything passes, the person checks back in the morning. The port is done." [^28]
+
+The architecture requires three components working in concert: an **agent coordination layer** (in the claw code case, Oh My Codex / OMX — built on OpenAI's open-source Codex) that handles multi-agent orchestration logic; a **notification and event router** (ClawWhip — a background daemon that watches git commits, GitHub issues, and other signals) that keeps monitoring work *outside* agents' context windows; and a **human interface** that is deliberately not a terminal. The terminal sessions belong to the agents. The developer's interface is a chat channel — a text box and a send button. [^28]
+
+The architectural significance of keeping monitoring outside agent context windows cannot be overstated. This is the same principle driving the Playwright CLI vs. MCP token efficiency gap: every byte of infrastructure state pushed into an agent's context window is a byte not available for the actual work. ClawWhip's job is to hold the environmental awareness that would otherwise crowd out task context. [^22][^28]
+
+The clean room rewrite of Claude Code's entire harness in two hours — reaching 50,000 GitHub stars in two hours after publication — was the output of this loop. The developer typed approximately ten sentences into Discord. The code was a byproduct. The system that produced it was the point. [^28]
+
+### What Stays Scarce
+
+This pattern raises the natural question: if agents can port an entire codebase overnight, what requires human judgment? The answer is precise: **architectural clarity, task decomposition, and coordination design**. [^28]
+
+> **Key insight**: "A faster agent does not reduce the need for clear thinking. It increases it." [^28]
+
+Three activities become *more* valuable, not less, as agent speed increases:
+
+- **Knowing what to build and why** — agents execute decomposed tasks; they do not generate strategic direction
+- **Decomposing architecture into agent-executable units** — the quality of the task breakdown determines everything about the overnight run's output
+- **Setting up coordination** so multiple agents stay productive in parallel — this is the OMX + ClawWhip role; designing this system is the skill, not implementing it
+
+The four job types predicted to survive in technical organizations follow from this logic: vibe coders who think in product terms, security and infrastructure engineers, client-facing humans who provide judgment and accountability, and domain experts with conviction about what is worth building. None of these roles center on writing code. [^28]
+
+The lesson for agent workflow design: a developer who spends all their time writing prompts and accepting results is optimizing at the wrong layer. The compounding leverage is in the *coordination system* — the skills, task decomposition frameworks, and agent routing logic that let the overnight loop run reliably.
+
+**The takeaway**: The terminal is increasingly the agent's workspace, not the developer's — the human interface is moving to higher-abstraction channels (chat, Discord, voice), and the skill that matters is the one that designs the system doing the work, not the one doing the work itself.
+
+---
+
 ## Parallel Browser Testing: Fan-Out Agents for UI Validation
 
 Browser testing is one of the highest-leverage applications of parallel sub-agents. The pattern: dispatch three agents simultaneously, each attacking the same UI from a different angle -- edge cases, validation errors, and the happy path -- rather than testing scenarios sequentially. The result is faster coverage and higher confidence in a single pass. [^22]
@@ -530,6 +562,11 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 - **Microsoft Council pattern for /research-pipeline** -- your existing pipeline (NotebookLM generates → Claude validates) already uses a two-model architecture; Microsoft's Council (parallel generation + third-model synthesis of disagreements) suggests extending /deep-research to run Claude and another model in parallel, synthesizing where they agree and disagree for higher-confidence policy research [^27]
 - **e-Bangsamoro data feeds** -- scrape BARMM government portals for budget releases, legislative updates, and appointment announcements; Firecrawl's crawl action can systematically traverse entire government sites rather than one-page-at-a-time fetching [^26]
 - **CLAUDE.md "lab notes" meta-prompt** -- Add a single line to e-Bangsamoro and transcriptions CLAUDE.md files: "when you make a mistake, update this CLAUDE.md with what not to try next time under a Lab Notes section" -- this automates the failure log component of the update loop without manual intervention [^25]
+- **Overnight loop design for e-Bangsamoro** -- The claw code incident demonstrates the pattern: a developer types a task in Discord, agents decompose, implement, test, and push while the developer is asleep. Your existing parallel agent skills (`superpowers:dispatching-parallel-agents`, `/devwork`) are the task decomposition layer. The missing piece is the monitoring/routing layer (ClawWhip equivalent) — a background daemon watching git, issues, and test results that keeps environmental state out of agent context windows. This is the gap between your current workflow (session-bound parallelism) and the overnight loop. Worth designing explicitly rather than discovering accidentally. [^28]
+- **`/schedule` as the overnight loop trigger** -- Your cloud-based `/schedule` skill already enables agents to work while the laptop is closed. Pair it with the overnight loop architecture: task defined via Discord/voice → scheduled agent picks it up → decomposition → parallel subagents → verification → push. The full pattern is now achievable with existing tools. [^18][^28]
+- **Architectural clarity as the scarcest skill in your solo dev stack** -- The claw code article's thesis applies directly: as Claude Code gets faster, the bottleneck shifts further toward the quality of your decomposition. Your `/prompter` → `/superpowers:writing-plans` → `/superpowers:dispatching-parallel-agents` chain is exactly the right workflow — each step improves the task structure before agents touch it. The value compounds as agent speed increases. [^28]
+- **New skill opportunity: `/overnight-dev`** -- A skill that formalizes the closed agent development loop: (1) decompose a task into agent-executable chunks with file ownership assignments, (2) design monitoring triggers (what signals gate the next stage), (3) define verification gates (what must pass before push), (4) specify morning review format. This is session-independent by design, distinct from `/devwork` which is session-bound. [^28]
+- **Claw Code as a model-agnostic harness option** -- Claude Code's harness is now open-source (MIT license, accepts any model). For MoroTech and e-Bangsamoro cost management: the harness infrastructure is no longer the moat; it can be self-hosted and model-switched. Monitor the claw code project as a potential lower-cost fallback harness. [^28]
 - **Stochastic consensus for bill drafting** -- Before drafting with /bill-drafter, spawn 5+ agents with different analytical framings (Shari'ah compliance, gender mainstreaming, fiscal impact, BOL consistency, comparative legislation) to independently assess the policy question; synthesize consensus + outliers into a brief that feeds the actual drafting [^25]
 - **Fan-out/fan-in for /deep-research and /research-pipeline** -- Route research phases through Sonnet sub-agents (cheaper, faster) and reserve Opus for synthesis; this single change could cut research token costs by 40-60% without quality loss [^25]
 - **Model diversification insurance** -- Install Codex CLI as fallback (`npm i -g @openai/codex`); maintain AGENTS.md alongside CLAUDE.md in key workspaces; keep skills-bucket repo agent-agnostic for portability across Claude, Codex, and Gemini [^25]
@@ -565,6 +602,9 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 22. **This month**: replace web fetch calls in `/legal-researcher` with Firecrawl scrape/search for government portals; benchmark token savings and speed improvement against current web fetch approach [^26]
 23. **This week**: enable auto mode in e-Bangsamoro workspace for frontend sprint work; test on a non-critical module first to calibrate the safety classifier's behavior with your codebase [^27]
 24. **This month**: install the Codex plugin inside Claude Code; test adversarial review mode on an existing bill draft to evaluate cross-model challenge quality before integrating into /bill-drafter pipeline [^27]
+25. **This week**: design the monitoring/routing layer for an e-Bangsamoro overnight loop — what signals (git commit, test pass, issue label) would gate agent handoffs between stages, and which existing skills map to each stage [^28]
+26. **This month**: create `/overnight-dev` skill formalizing the closed agent loop pattern: task decomposition → file ownership → monitoring triggers → verification gates → morning review format [^28]
+27. **This quarter**: prototype a `/schedule`-triggered overnight build for a medium-complexity e-Bangsamoro feature: task input via notes → scheduled agent decomposition → parallel subagents → verification → push; treat it as a proof-of-concept for the fully automated pipeline [^18][^28]
 
 ---
 
@@ -686,3 +726,7 @@ The patterns above map directly to your multi-role operation spanning OOBC consu
 [^27]: Universe of AI. "DeepSeek V4 Benchmarks LEAKED + Claude Code Computer Use + OpenAI's Codex Plugin!"
       *Universe of AI*, 10:08. YouTube, March 2026.
       https://youtube.com/watch?v=nAZdk1d_QzU
+
+[^28]: Roth, Wes. "Claude Code Cloned in 2 hours...."
+      *Wes Roth*, 24:52. YouTube, April 2026.
+      https://youtube.com/watch?v=eR167BCL-4g

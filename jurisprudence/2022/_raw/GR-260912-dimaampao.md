@@ -1,0 +1,524 @@
+# GR-260912-dimaampao
+
+**Dissenting Opinion: Justice Japar B. Dimaampao**
+
+## Metadata
+
+- **Case Title**: Dissenting Opinion: Justice Japar B. Dimaampao
+- **Ponente**: DIMAAMPAO, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: August 17, 2022
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2022/11/260912-dimaampao.pdf)
+
+---
+
+> THIRD DIVISION
+> G.R. No. 260912 (The Department ofE nergy v. Court of Tax Appeals)
+> Promulgated: August 17, 2022
+> µ;
+> \;;J.ljc.$..\f
+> x-----------·------------'-"'-':..::..::=-"----x
+> DISSENTING OPINION
+> DIMAAMPAO, J.:
+> At the pith of this controversy lies the seemingly innocuous question:
+> does the Court of Tax Appeals (CTA) have exclusive appellate jurisdiction
+> over tax controversies involving government agencies and offices?
+> The ponencia answers this in the negative based on a straight
+> application of the Court's doctrine in Power Sector Assets and Liabilities
+> Management Corporation (PSALM) v. Commissioner of Internal Revenue. 1
+> The ponencia clarifies that the pronouncement in PSALM did not limit the
+> application of the provisions of Presidential Decree (PD) No. 242 to instances
+> where there is an agreement or contract between opposing government bodies.
+> Resultingly, the ponencia dismisses the present Petition and upholds the
+> CTA's own dismissal of the case before it for lack of jurisdiction.
+> While I agree with how the PSALM doctrine was applied by the
+> ponencia, I must nevertheless register my disagreement to the disposition of
+> this case. I laud the prudence of the majority in upholding this doctrine as it is
+> concededly based on defensible logic and reasoning. Nevertheless, I offer my
+> humble dissent with the hope that perhaps the Court may re-examine this
+> interpretation of PD No. 242 in the future.
+> In my considered opinion, the Court should revisit the PSALM ruling
+> and revert to its earlier pronouncement in Philippine National Oil Co. (PNOC)
+> v. Court ofA ppeals,2 where We held that Section 7 of Republic Act (RA) No.
+> 1125, as amended, constitutes an exception to PD No. 242, such that the
+> resolution of disputes included in the enumerated circumstances under Section
+> 7 solely among government offices, agencies, and instrumentalities, including
+> government-owned and controlled corporations, remains within the exclusive
+> appellate jurisdiction of the CTA.
+> I expound on my position with the aid of a narration of the historical
+> evolution of this doctrine.
+> In 1973, then President Ferdinand E. l\,farcos, in the exercise of his
+> extraordinary legislative powers, issued PD No. 242, entitled "Prescribing the
+> 815 Phil. 966-1035 (2017).
+> ' 496 Phil. 506-636 (2005).
+>
+> Dissenting Opinion 2 G.R. No. 260912
+> Procedure for Administrative Settlement or Adjudication of Disputes, Claims
+> and Controversies Between or Among Government Offices, Agencies and
+> Instrumentalities, including Government-Owned or Controlled Corporations,
+> and for Other Purposes."3 The thrust of the law was to avoid court litigation
+> between and among different government entities where there was only one
+> real party in interest, i.e., the Government itself. Thus, Section 1 thereof
+> provided:
+> SECTION 1. Provisions oflaw to the contrary notwithstanding, all
+> disputes, claims and controversies solely between or among the
+> departments, bureaus, offices, agencies and instrumentalities of the
+> National Government, including government-owned or controlled
+> corporations but excluding constitutional offices or agencies, arising from
+> the interpretation and application of statutes, contracts or agreements, shall
+> henceforth be administratively settled or adjudicated as provided
+> hereinafter: Provided, That this shall not apply to cases already pending in
+> court at the time of the effectivity of this decree.
+> The statute itself, however, provides no further detail as to the nature of
+> "the disputes, claims and controversies" which fell under its coverage. Its
+> implementing rules and regulations (IRR), i.e., Department of Justice (DOJ)
+> Administrative Order No. 121,4 was likewise silent in this regard.
+> Eventually, PD No. 242 was incorporated into Book IV, Chapter 14 of
+> Executive Order (EO) No. 292 or the Revised Administrative Code of 1987.
+> Section 66 of the latter mirrored Section 1 of the former law, viz.:
+> SECTION 66. How Settled. - All disputes, claims and
+> controversies, solely between or among the departments, bureaus, offices,
+> agencies and instrumentalities of the National Government, including
+> government-owned or controlled corporations, such as those arising from
+> the interpretation and application of statutes, contracts or agreements, shall
+> be administratively settled or adjudicated in the manner provided in this
+> Chapter. This Chapter shall, however, not apply to disputes involving the
+> Congress, the Supreme Court, the Constitutional Commissions, and local
+> governments.
+> Still, EO No. 292 did not define what constituted "disputes, claims and
+> controversies" and whether it applied to tax assessments against, or refund
+> claims of, government entities.
+> This question was not resolved until the case of Development Bank of
+> the Phils. (DBP) v. Court ofAppeals,5 which involved a claim for refund of
+> Issued on 9 July 1973.
+> 4 Entitled "RULES IMPLEMENTING PRESIDENTIAL DECREE NO. 242 "PRESCRIBING THE
+> PROCEDURE FOR ADMINISTRATIVE SETTLEMENT OR ADJUDICATION OF DISPUTES,
+> CLAIMS AND CONTROVERSIES BETWEEN OR AMONG GOVERNMENT OFFICES,
+> AGENCIES AND INSTRUMENTALITIES, INCLUDING GOVERNMENT-OWNED OR
+> CONTROLLED CORPORA TJONS, AND FOR OTHER PURPOSES." Issued on 25 July 1973.
+> 5 259 Phil. l 096-1104 (1989).
+>
+> Dissenting Opinion 3 G.R. No. 260912
+> the custom duties, taxes, and processing fees that petitioner DBP paid to the
+> Bureau of Customs (BOC) for importing some computer equipment. The
+> Customs Commissioner argued that the CTA should not have taken
+> cognizance ofDBP's claim considering the provisions of PD No. 242. This
+> issue on jurisdiction was then elevated for the Court's consideration which
+> held that "that there is an 'irreconcilable repugnancy ... between Section 7(2)
+> ofR.A. No. 1125 and P.D. No. 242,' and hence, that the later enactment (P.D.
+> No. 242), being the latest expression of the legislative will, should prevail
+> over the earlier."6
+> Despite the Court En Banc' s pronouncement in DBP, in 1990, the Court
+> promulgated National Power Corp. (NAPOCOR) v. Presiding Judge, RTC,
+> 10th Judicial Region, Br. XXV, Cagayan De Oro City,7 which involved a real
+> property tax assessment by a local government unit against petitioner
+> NAPOCOR. In this case, the Court held that as between PD No. 242 and PD
+> No. 464, or the Real Property Tax Code, the latter should prevail against the
+> former:
+> An examination of these two decrees shows that P.D. 242 is a
+> general law which deals with administrative settlement or adjudication of
+> disputes, claims and controversies between or among government offices,
+> agencies and instrumentalities, including government-owned or controlled
+> corporations. The coverage is broad and sweeping, encompassing all
+> disputes, claims and controversies.
+> P.D. 464 on the other hand, governs the appraisal and assessment of
+> real property for purposes of taxation by provinces, cities and
+> municipalities, as well as the levy, collection and administration of real
+> property tax. It is a special law which deals specifically with real property
+> taxes.
+> It is a basic tenet in statutory construction that between a general
+> Jaw and a special law, the special law prevails. GENERALIA SPE CIALIB US
+> NON DEROGANT.
+> Where a later special law on a particular subject is repugnant to, or
+> inconsistent with, a prior general law on the same subject, a partial repeal
+> of the latter will be implied to the extent of the repugnancy or an exception
+> grafted upon the general law.
+> A special law must be intended to constitute an exception to the
+> general law in the absence of special circumstances forcing a contrary
+> conclusion.
+> The conflict in the provisions on jurisdiction between P.D. 242 and
+> p .D. 464 should be resolved in favor of the latter law, since it is a special
+> law and oflater enactment. P.D. 242 must yield to P.D. 464 on the matter
+> of who or which tribunal or agency has jurisdiction over the enforcement
+> 6 Id.
+> 7 268 Phil. 507-516 (1990).
+>
+> Dissenting Opinion 4 G.R. No. 260912
+> and collection of real property taxes. Therefore, respondent court has
+> jurisdiction to hear and decide Civil Case No. 9901.
+> A year later, the Court was tasked to rule on the constitutionality of PD
+> No. 242 in the case of Philippine Veterans Investment Development Corp.
+> (PHIVIDEC) v. Velez.8 Petitioners asserted that PD No. 242 was
+> unconstitutional for emasculating and impairing the judicial power of review
+> of the courts under the 1987 Constitution. In rejecting this contention, the First
+> Division of the Court simply held that PD No. 242 did not diminish the
+> jurisdiction of the courts but only prescribed an administrative procedure for
+> the settlement of certain types of disputes between or among government
+> bodies. The Court likened the procedure therein to arbitration proceedings.
+> On 30 March 2004, RA No. 92829 was passed which amended RA No.
+> 1125 by elevating the status of the CTA to a collegiate court with special
+> jurisdiction and further expanding its jurisdiction over tax matters.
+> Several years after, the Court En Banc would again re-examine the
+> import of PD No. 242 in the case of PNOC.10 The controversy in PNOC
+> centered on the attempts of the Bureau of Internal Revenue (BIR) to recover
+> the final income taxes due on PNO C' s interest earnings arising from its money
+> placements with Philippine National Bank (PNB). Both PNOC and PNB
+> insisted that the CTA had no jurisdiction over their case and sought to have it
+> dismissed. Before the CTA could render its decision, however, the parties
+> elevated the BIR's assessment to the DOJ pursuant to PD No. 242. They then
+> filed a Motion to Suspend Proceedings before the CTA pending the DOJ's
+> resolution of their appeal. Eventually, the CTA ruled that it had jurisdiction
+> over the case and declared the parties liable for the assessments issued against
+> them. When the matter was elevated to this Court, the Banc upheld the CT A's
+> jurisdiction over the case and again reconciled RA No. 1125 with PD No. 242:
+> The PNB and DOJ are of the same position that P.D. No. 242, the
+> more recent law, repealed Section 7(1) of Rep. Act No. 1125, based on the
+> pronouncement of this Court in Development Bank of the Philippines v.
+> Court ofA ppeals, et al., quoted below:
+> xxxx
+> 1n the said case, it was expressly declared that P.D. No. 242 repealed
+> Section 7(2) ofRep. Act No. 1125, which provides for the exclusive
+> appellate jurisdiction of the CTA over decisions of the Commissioner of
+> Customs. PNB contends that P.D. No. 242 should be deemed to have
+> 8 276 Phil. 439-444 (1991).
+> Entitled "AN ACT EXPANDING THE JURISDICTION OF THE COURT OF TAX APPEALS (CTA),
+> ELEVATING ITS RANK TO THE LEVEL OF A COLLEGIATE COURT WITH SPECIAL
+> JURISDICTION AND ENLARGING ITS MEMBERSHIP, AMENDING FOR THE PURPOSE
+> CERTAIN SECTIONS OR REPUBLIC ACT NO. 1125, AS AMENDED, OTHERWISE KNOWN AS
+> rJ .
+> THE LAW CREATING THE COURT OF TAX APPEALS, AND FOR OTHER PURPOSES,"
+> Approved on 30 March 2004.
+> 10 Supra note 2.
+>
+> Dissenting Opinion 5 G.R. No. 260912
+> likewise repealed Section 7(1) of Rep. Act No. 1125, which provides for the
+> exclusive appellate jurisdiction of the CTA over decisions of the BIR
+> Commissioner.
+> After re-examining the provisions on jurisdiction of Rep. Act No.
+> 1125 and P.D. No. 242, this Court finds itself in disagreement with the
+> pronouncement made in Development Bank of the Philippines v. Court of
+> Appeals. et al.,
+> XX X
+> xxxx
+> It has, thus, become an established rule of statutory construction that
+> between a general law and a special law, the special law prevails
+> - Generalia specialibus non derogant.
+> Sustained herein is the contention of private respondent Savellano
+> that P.D. No. 242 is a general law that deals with administrative settlement
+> or adjudication of disputes, claims and controversies between or among
+> government offices, agencies and instrumentalities, including government
+> owned or controlled corporations. Its coverage is broad and sweeping,
+> encompassing all disputes, claims and controversies. It has been
+> incorporated as Chapter 14, Book IV ofE.O. No. 29?, otherwise known as
+> the Revised Administrative Code of the Philippines. On the other
+> hand, Rep. Act No. 1125 is a special law dealing with a specific subject
+> matter - the creation of the CTA, which shall exercise exclusive appellate
+> jurisdiction over the tax disputes and controversies enumerated therein.
+> Following the rule on statutory construction involving a general and
+> a special law previously discussed, then P .D. No. 242 should not affect Rep.
+> Act No. I 125. Rep. Act No. 1125, specifically Section 7 thereof on the
+> jurisdiction of the CTA, constitutes an exception to P.D. No. 242. Disputes,
+> claims and controversies, falling under Section 7 of Rep. Act No. 1125,
+> even though solely among government offices, agencies, and
+> instrumentalities, including government-owned and controlled
+> corporations, remain in the exclusive appellate jurisdiction of the CTA.
+> Such a construction resolves the alleged inconsistency or conflict between
+> the two statutes, and the fact that P.D. No. 242 is the more recent law is no
+> longer significant.
+> Notably, the Court in PNOC, also held that assuming arguendo that PD
+> No. 242 would prevail over RA No. 1125, the dispute therein would still not
+> be covered by PD No. 242. The Court emphasized that Section 1 thereof
+> explicitly limited the procedure to resolving disputes solely between
+> government bodies. In this case, respondent Savellano was a private citizen
+> whose claims for his informer's reward was also at issue before the CTA.
+> In 2016, the Court rendered the decision in Orion Water District v.
+> Government Service Insurance System, 11 which herein petitioner Department
+> of Energy (DOE) relies upon to justify its resort to the CTA. There, the
+> Government Service Insurance System (GSIS) instituted a claim for sum of
+> n G.R. No. 195382 (Resolution), 15 June 2016.
+>
+> Dissenting Opinion 6 G.R. No. 260912
+> money against Orion Water District (OWD) to recover unremitted premium
+> contributions that the latter, as an employer, should have paid to the former.
+> On the other hand, OWD asserted that the administrative settlement procedure
+> under Book IV, Chapter 14 ofEO No. 292 should have applied. The Court
+> rejected the OWD's contention and echoed PHIVIDEC in its ratio. It held that
+> the Book IV, Chapter 14 ofEO No. 292, and its precursor PD No. 242, only
+> prescribed an administrative procedure for the settlement of certain types of
+> disputes among government entities arising from the interpretation and
+> application of statutes, contracts, or agreements. Since GSIS' complaint in
+> this case was for sum of money and did not involve an obscure question of
+> law or ambiguous provision of contract, it did not fall within the coverage of
+> the cited provisions in EO No. 292. Citing PNOC, the Court therein
+> ratiocinated that even assuming arguendo that the dispute fell within the
+> enumerated circumstances in Book IV, Chapter 14 of EO No. 292, the
+> administrative procedure would still not apply since the present case also
+> involved the officials ofOWD.
+> In the same year, the Court ruled on Commissioner ofI nternal Revenue
+> v. Secretary of Justice,12 which involved tax deficiency assessments issued
+> against the Philippine Amusement and Gaming Corporation (P AGCOR). In
+> the course of its administrative protest, PAGCOR eventually elevated the
+> matter to the Secretary of Justice who declared P AGCOR exempt from all
+> taxes except the five percent (5%) franchise tax provided in its charter. The
+> Commissioner of Internal Revenue (CIR) filed a petition for certiorari before
+> Us questioning the actions of the Secretary of Justice, essentially arguing that
+> it was the CTA that had appellate jurisdiction in this case, and not the
+> Secretary of Justice. The Court therein agreed with the CIR and held that the
+> Secretary of Justice erred in insisting to exercise jurisdiction on PAGCOR's
+> appeal instead of referring the case to the CTA per Court's pronouncement in
+> PNOC. The Court elucidated that "doctrine of stare decisis required him to
+> adhere to the ruling of the Court, which by tradition and conformably with our
+> system of judicial administration speaks the last word on what the law is, and
+> stands as the final arbiter of any justiciable controversy."
+> Finally, in 2017, the Court ruled on PSALM 13 This case involved a
+> deficiency value-added tax (VAT) assessment issued against PSALM for its
+> sale of two power plants which it was constrained to pay under protest.
+> PSALM disputed its assessment before the DOJ which ruled in its favor. The
+> BIR moved for reconsideration insisting that the DOJ did not have jurisdiction
+> over the case and that PSALM should have filed instead its petition before the
+> CTA. The DOJ rejected this contention. The BIR then filed a pet;ition for
+> certiorari with the CA which found its petition meritorious and annulled the
+> decision of the Secretary of Justice. PSALM then elevated the matter to this
+> Court. In granting its petition, the Court En Banc, speaking through the
+> 12 799 Phil. 13-46 (2016).
+> '
+> 13 Supra note 1.
+> 7
+>
+> Dissenting Opinion 7 G.R. No. 260912
+> esteemed retired Senior Associate Justice Antonio Carpio, upheld the
+> Secretary of Justice's jurisdiction to adjudicate the claims of competing
+> government bodies pursuant to the mandatory tenor of PD No. 242. In
+> reconciling this case with the Court's earlier pronouncements, the ponencia
+> therein observed that PNOC, in particular, was grounded on a different factual
+> circumstance, i.e., that it involved a private citizen. "Clearly, PD 242 is not
+> applicable to the case of PNOC v. CA. Even the ponencia in PNOC v. CA
+> stated that the dispute in that case is not covered by PD 242." The Court
+> emphasized that it was only proper for inter-governmental disputes to be
+> settled administratively considering that all these entities are under the
+> President's executive control and supervision which is a power vested by the
+> Constitution and cannot be diminished by law. Likewise, the judiciary cannot
+> substitute its decision over that of the President. Additionally, the Court
+> emphasized that PD No. 242 provided a relief that must be availed of before
+> going to court pursuant to the doctrine of exhaustion of administrative
+> remedies. The Court also reconciled PD No. 242 with Section 414 of the 1997
+> National Internal Revenue Code (NIRC) which vests appellate jurisdiction
+> over tax matters with the CTA in this wise:
+> To harmonize Section 4 of the 1997 NIRC with PD 242, the
+> following interpretation should be adopted: (1) As regards private entities
+> and the BIR, the power to decide disputed assessments, refunds of internal
+> revenue taxes, fees or other charges, penalties in relation thereto, or other
+> matters arising under the NIRC or other laws administered by the BIR is
+> vested in the CIR subject to the exclusive appellate jurisdiction of the CTA ,
+> in accordance with Section 4 of the NIRC; and (2) Where the disputing
+> parties are all public entities ( covers disputes between the BIR and other
+> government entities), the case shall be governed by PD 242.
+> In arriving at this conclusion, the Court noted that "1997 NlRC is a
+> general law governing the imposition of national internal revenue taxes, fees,
+> and charges. On the other hand, PD 242 is a special law that applies only to
+> disputes involving solely government offices, agencies, or instrumentalities."
+> The doctrine in PSALM on the Secretary of Justice's jurisdiction over
+> tax disputes between government bodies was again reiterated in
+> Commissioner ofI nternal Revenue v. Secretary ofJ ustice.15
+> After a careful consideration of the foregoing, and with all due
+> respect, it is my modest assertion that the doctrine in PSALM is erroneous.
+> 14 Section 4. Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases. - The power to
+> inte:-pret the provisions of this Code and other tax laws shall be under the exclusive and original
+> jurisdiction of the Commissioner, subject to review by the Secretary of Finance.
+> The power to decide disputed assessments, refunds of internal revenue taxes, fees or other charges,
+> penalties imposed in relation thereto, or other matters arising under this Code or other laws or port10ns
+> thereof administered by the Bureau of Internal Revenue is vested in the Commissioner, subject to the
+> exclusive appellate jurisdiction of the Court of Tax Appeals. d
+> 15 G.R. No. 209289, 9 July 2018.
+>
+> Dissenting Opinion 8 G.R. No. 260912
+> At the outset, I would like to clarify that despite the Court's attempt to
+> allow PSALM and PNOC to co-exist by claiming that they rest on different
+> circumstances, it is clear that they are repugnant to each other.
+> PNOC's resolution was hinged on the proper interpretation of PD No.
+> 242 vis-a-vis RA No. 1125 anent the Secretary of Justice's jurisdiction over
+> tax disputes. There, the Court in no uncertain terms abandoned the DBP ruling
+> and declared that RA No. 1125 should be construed as an exception to PD No.
+> 242, the former being a special law on the jurisdiction of the CTA whereas
+> the latter is a general statute encompassing the settlement of all disputes,
+> claims, and controversies between government agencies. On the other hand,
+> PSALM recognized that appellate jurisdiction over tax disputes rested with the
+> Secretary of Justice and even construed PD No. 242 as the more specialized
+> law, albeit as juxtaposed with the NIRC. These two interpretations
+> undoubtedly cannot stand side by side. Thus, PSALM operated to overturn
+> PNOC.
+> Now, with regard to my concerns on the doctrine itself espoused by
+> PSALM, I rest my arguments on the very nature of tax disputes and the basic
+> rules on statutory construction.
+> One. It must be stressed that my pos1t1on is not derived from an
+> assertion of superiority of jurisdiction by the Judiciary over the Executive
+> Department. Rather, it stems from a recognition that there are clear lines that
+> separate the functions of the three great branches of government.
+> It is well-established that the power to tax is legislative in nature and is
+> vested exclusively in Congress. 16 Moreover, the power to tax carries with it
+> the power to collect tax,17 which Congress may validly delegate to the
+> Executive branch. Thus, in exercising their mandate of collecting taxes and
+> duties, the BIR and the BOC are merely enforcing the Legislative's will by
+> applying the pertinent tax laws. To interpret PD No. 242 as to include tax
+> disputes would result in situations where the Secretary of Justice would be
+> able to supplant the actions of the taxing agencies and effectively thwart the
+> power of collecting taxes delegated by Congress. This would be an overreach
+> into the Legislative sphere, especially when considered in light of the "final
+> and binding" nature of the Secretary of Justice's decision on the parties
+> involved pursuant to Sections 518 and 619 of PD No. 242. Thus, contrary to the
+> 16 See Purisima v. lazatin, 801 Phil. 395-427 (2016).
+> 17 See Churchill v. Rafferty, 32 Phil. 580-618 (1915).
+> 18 SECTION 5. The decisions of the Secretary of Justice, as well as those of the Solicitor General or the
+> Government Corporate Counsel, when approved by the Secretary of Justice, shall be final and binding
+> upon the parties involved. Appeals may be taken to and entertained by the Office of the President only
+> in cases wherein the amount of the claim or value of the property exceeds Pl million. The decisions of
+> the Office of the President on appealed cases shall be final.
+> 11"
+> 19 SECTION 6. The final decisions rendered in the settlement or adjudication of all such disputes, claims /
+> or controversies shall have the same force and effect as fmal decisions of the courts ofj ustice.
+>
+> Dissenting Opinion 9 G.R. No. 260912
+> Court's position in PSALM, the settlement of tax disputes is not a matter that
+> can be justified by the President's power of control and supervision since the
+> power to collect taxes, even as against certain taxable government bodies,
+> resides ultimately with Congress.
+> In contrast, the CTA's exercise of appellate jurisdiction over such
+> controversies would not be an overstep into legislative power since judicial
+> review in such instances would merely ensure that the enforcement of the law
+> by the duly delegated agency is within the bounds intended by Congress.
+> Indeed, the CTA is a highly specialized court "specifically created for the
+> purpose of reviewing tax and customs cases" and "is dedicated exclusively to
+> the study and consideration of revenue-related problems, and has necessarily
+> developed an expertise on the subject."20 It was in recognition of Congress'
+> intent to have the CTA exercise exclusive jurisdiction to resolve all tax
+> problems that the Court declared in the landmark case of Banco De Oro v.
+> Republic,21 that the CTA had the authority to "take cognizance of cases
+> directly challenging the constitutionality or validity of a tax law or regulation
+> or administrative issuance (revenue orders, revenue memorandum circulars,
+> rulings)."
+> Two. A plain reading of the pertinent provisions in either PD No. 242
+> or Book IV, Chapter 14 of EO No. 292 does not necessarily support the
+> position that the same should cover tax disputes. As earlier intimated, neither
+> law provides any further definition to the phrase "disputes, claims, and
+> controversies." Therefore, the phrase should be understood in its most
+> common and general sense. However, taxes are not in the nature of ordinary
+> civil debt, demand, or contract which may be the subject of setting off or
+> recoupment.22 The primacy of tax matters, as opposed to all other civil
+> disputes, claim, controversies, is an offshoot the simple truism that taxes are
+> the lifeblood of the government as whole, 23 not just of the Executive. Its
+> collection cannot be left to the will of the taxpayers lest it hamper government
+> operations. 24
+> Even assuming that tax disputes are necessarily included under this
+> broader tenn, the application of the basic rules of statutory construction would
+> yield the same conclusion as found in NAPOCOR,25 PNOC, 26 and
+> Commissioner ofI nternal Revenue v. Secretary ofJ ustice. 27
+> 20 Bureau ofC ustoms v. Devanadera, 769 Phil. 231-278 (2015).
+> 21 G.R. No. l 98756 (Resolution), 16 August 2016.
+> 22 See Republic v. Mambulao Lumber Co., I 14 PHIL 549-555 (1962).
+> 23 See Roman Catholic Archbishop ofC ebu v. Collector ofI nternal Revenue, 114 PHIL 219-225 (I 962f).
+> 24 See Film Development Council oft he Philippines v. Colon Heritage Realty Corp., G.R. Nos. 203754 &
+> 204418 (Resolution), 15 October 2019.
+> 25
+> Supra note 7.
+> 26 Supra note 2.
+> 27 Supra note 12.
+>
+> Dissenting Opinion 10 G.R. No. 260912
+> Prefatorily, it should be emphasized that PSALM erroneously
+> characterized PD No. 242 as the more specialized law. However, it is
+> evidently meant to have more general application since it is intended to apply
+> in all kinds of "disputes, claims and controversies" between government
+> entities. By its express terms, all claims, regardless of the nature thereof,
+> would call for PD No. 242's application in determining the appropriate
+> appellate jurisdiction. In contrast, RA No. 1125, as well as the provisions of
+> the NIRC which echo the exclusive appellate jurisdiction of the CTA, describe
+> a more particular form of claim, i.e., tax claims. Indeed, the appellate
+> jurisdiction contemplated in these two laws only apply to tax matters. Thus,
+> by no stretch of the imagination can it be said that either RA No. 1125 or the
+> NIRC is the more general law at least when it comes to determining
+> appellate jurisdiction.
+> Generalia specialibus non derogant. "Where there is in the same statute
+> a particular enactment and also a general one which in its most comprehensive
+> sense would include what is embraced in the former, the particular enactment
+> must be operative, and the general enactment must be taken to affect only such
+> cases within its general language as are not within the provisions of the
+> particular enactment."28
+> As the Court correctly held in PNOC, "[f]ollowing the rule on statutory
+> construction involving a general and a special law previously discussed, then
+> P.D. No. 242 should not affect Rep. Act No. 1125. Rep. Act No. 1125,
+> specifically Section 7 thereof on the jurisdiction of the CTA , constitutes an
+> exception to P.D. No. 242. Disputes, claims and controversies, falling under
+> Section 7 of Rep. Act No. 1125, even though solely among government
+> offices, agencies, and instrumentalities, including government-owned and
+> controlled corporations, remain in the exclusive appellate jurisdiction of the
+> CTA . Such a construction resolves the alleged inconsistency or conflict
+> between the two statutes, and the fact that P.D. No. 242 is the more recent law
+> is no longer significant."
+> Furthermore, it should be pointed out that RA No. 1125 was amended
+> by RA No. 9282 which, as above-discussed, further expanded its jurisdiction.
+> RA No. 8424 or the 1997 NIRC also contained a provision reiterating that
+> disputed assessments were subject to the exclusive appellate jurisdiction of
+> the CTA.29 Both laws came much later than either PD No. 242 or EO No. 292.
+> Legis posteriores priores contraries abrogant. "The rationale is simple:
+> a later law repeals an earlier one because it is the later legislative will. It is to
+> be presumed that the lawmakers knew the older law and intended to change
+> j
+> 28 Commissioner ofI nternal Revenue v. Yumex Philippines Corp., G.R. No. 222476, 5 May 2021. 3/
+> 29 Section 4, RA No. 8424.
+> 1
+>
+> Dissenting Opinion 11 G.R. No. 260912
+> it. In enacting the older law, the legislators could not have known the newer
+> one and hence could not have intended to change what they did not know."30
+> Armed with these two aids in statutory construction, the result should
+> be clear: Section 7 ofR A No. 1125, as amended by RA No. 9282, should be
+> taken as an exception to PD No. 242 and Book IV, Chapter 14 of EO No.
+> 292 as enunciated in the case ofP NOC.
+> Incidentally, the doctrines in PHIVIDEC and Orion Water District that
+> PD No. 242 were not repugnant to judicial power, as it merely described an
+> administrative procedure akin to arbitration proceedings, should likewise be
+> abandoned at least insofar as tax disputes are concerned. Similarly, the portion
+> of PSALM which declared that PD No. 242 dictates a relief that must be
+> availed of before going to court pursuant to the doctrine of exhaustion of
+> administrative remedies, should also be cast aside. The disquisition above
+> already explains excruciatingly that tax disputes are not covered by the said
+> law and/or operates as an exception thereto. Necessarily, there is no need to
+> "exhaust administrative remedies" so to speak.
+> It bears stressing that in the passage of statutes, it is presumed that
+> Congress acted "with full knowledge of all existing ones on the subject."31 At
+> the time that RA No. 9282 was enacted in 2004, both PD No. 242 and EO No.
+> 292 were already in existence. Moreover, the Court's prevailing interpretation
+> at that time for PD No. 242 in relation to tax disputes would have been the
+> doctrines in DBP32 and P HJVIDEC. 33 Since judicial decisions interpreting the
+> law forms part of Our legal system,34 the Legislature would have been aware
+> that PD No. 242 was viewed as an exception to RA No. 1125 and that it merely
+> added an administrative procedure for the settlement of disputes between
+> government entities, but did not diminish the CTA' s jurisdiction. If Congress
+> really intended to allow PD No. 242 and EO No. 292 to continue operating
+> for tax disputes among government entities as an additional administrative
+> process, then it would have been a simple matter to incorporate the same under
+> the amendments introduced to Section 7 of RA No. 1125. Nonetheless, there
+> is no mention of decisions of the Secretary of Justice, or even the Office of
+> the President, from among the cases subject to the CTA's widely expanded
+> appellate jurisdiction. This finds special significance when considered in light
+> of the aforementioned "final and binding" nature of the Secretary of Justice's
+> decision on such tax disputes. 35 Since the decision would be final, it would
+> only theoretically be reviewable by the CTA on a writ of certiorari, and only
+> for grave abuse of discretion. Conspicuously, no such special mode of review
+> was incorporated in the provisions of RA No. 9282.
+> 30 David v. Commission on Elections, 337 Phil. 534-554 (] 997).
+> 31 See Mecano v. Commission on Audit, 290-A Phil. 272,283 (1992).
+> 32 Supra note 5.
+> 33 Supra note 8.
+> 34 See Article 8 of Republic Act No. 386, or the Civil Code of the Philippines.
+> 35 See Sections 5 and 6 of Presidential Decree No. 242.
+>
+> ·-
+> Dissenting Opinion 12 G.R. No. 260912
+> To my mind, this only further bolsters the argument that it was never
+> Congress' intent to continue allowing tax disputes to remain within the
+> jurisdiction of the Secretary of Justice.
+> All in all, I vote to grant the Petition and to set aside the Resolutions of
+> the CTA En Banc and the CTA Second Division.
+> ARB.DIMAAMPAO

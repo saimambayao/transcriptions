@@ -1,0 +1,818 @@
+# GR-215650-CAGUIOA
+
+**215650/215653/215703/215704/216735 Concurring and Dissenting Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: 215650/215653/215703/215704/216735 Concurring and Dissenting Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: May 23, 2016
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/11/215650-CAGUIOA.pdf)
+
+---
+
+> EN BANC
+> G.R. No. 215650 - AUGUSTO L. SYJUCO, JR., petitioner, versus
+> JOSEPH EMILIO A.ABAYA, in his capacity as SECRETARY OF THE
+> DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS;
+> HONORITO D. CHANECO, in his capacity as ADMINISTRATOR OF
+> LIGHT RAIL TRANSIT AUTHORITY; and RENATO Z. SAN JOSE,
+> in his capacity as Officer-in-Charge of the METRO RAIL TRANSPORT
+> 3 OFFICE, respondents;
+> G.R. No. 215653 - BAGONG ALYANSANG MAKABAYAN,
+> represented by its SECRETARY GENERAL, RENATO REYES, JR.;
+> TEODORO CASINO; MELQUIADES A. ROBLES; ELMER C.
+> LABOG; SA.lVIMY T. MALUNES; FERDINAND R. GAITE; VENCER
+> CRISOSTOMO; JOSSEL I. EBESATE; GLORIA G. ARELLANO;
+> HERMAN TIU LAUREL; MYRLEON E. PERALTA; AMORSOLO L.
+> COMPETENTE; ELVIRA Y. MEDINA; MARIA DONNA GREY
+> MIRANDA; ANGELO VILLANUEVA SUAREZ; JOSE SONNY G.
+> MATULA; DAVID L. DIWA; JAMES BERNARD E. RELATIVO; and
+> GIOVANNI A. TAPANG, petitioners, versus JOSEPH EMILIO A.
+> ABAYA, in his capacity as SECRETARY OF THE DEPARTMENT OF
+> TRANSPORTATION AND COMMUNICATIONS; RENATO Z. SAN
+> JOSE, in his capacity as OFFICER-IN-CHARGE OF METRO RAIL
+> TRANSPORT 3 OFFICE; LIGHT RAIL TRANSIT AUTHORITY,
+> represented by HONORITO D. CHANECO as ADMINISTRATOR;
+> METRO RAIL TRANSIT CORPORATION; and LIGHT RAIL
+> MANILA CORPORATION, respondents;
+> G.R. No. 215703 - UNITED FILIPINO CONSUMERS AND
+> COMMUTERS, INC., represented by its PRESIDENT RODOLFO B.
+> JAVELLANA, JR., petitioner, versus JOSEPH EMILIO A. ABAYA, in
+> his capacity as SECRETARY OF THE DEPARTMENT OF
+> TRANSPORTATION AND COMMUNICATIONS; METRO RAIL
+> TRANSIT CORPORATION; and LIGHT RAIL TRANSIT
+> AUTHORITY, respondents;
+> G.R. No. 215704 - BAYAN MUNA REPRESENTATIVE NE~
+> JAVIER COLMENARES; BAYAN MUNA REPRESENTATIVE
+> CARLOS ISAGANI ZARATE; ANTHONY IAN CRUZ; IMELDA, V.
+> LUNA; and CARL ANTHONY ALA, petitioners, versus JOSEPH
+> EMILIO A. ABAYA, in his capacity as SECRETARY OE' THE
+> DEPARTMENT OF TRANSPORTATION AND
+> COMMUNICATIONS; LIGHT RAIL TRANSIT AUTHORITY; and
+> RENATO Z. SAN JOSE, in his capacity as OFFICER-IN-CHARGE OF
+> METRO RAIL TRANSIT 3 OFFICE, respondents;
+> M
+> G.R. No. 216735 - JOSEPH VICTOR G. EJERCITO, JOSE L.
+> ATIENZA, JR., IRWIN C. TIENG, MARIANO MICHAEL DEL
+> MONTE VELARDE, JR., LEAH D. PAQUIZ, GUSTAV O
+>
+> Concurring and 2 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> TAMBUNTING, JESUS CRISPIN C. REMULLA, ALAN A.
+> TANJUSAY, ALLAN S. MONTANO, LEODY Q. DE GUZMAN,
+> RENATO B. MAGTUBO, and ANNIE E. GERON, petitioners, versus
+> WINSTON M. GINEZ, in his capacity as CHAIRPERSON OF THE
+> LAND TRANSPORTATION FRANCHISING AND REGULATORY
+> BOARD; JOSEPH EMILIO A. ABAYA, in his capacity as SECRETARY
+> OF THE DEPARTMENT OF TRANSPORTATION AND
+> COMMUNICATIONS; RENATO Z. SAN JOSE, in his capacity as
+> OFFICER-IN--CHARGE OF METRO RAIL TRANSIT 3 OFFICE;
+> LIGHT RAIL TRANSIT AUTHORITY; METRO RAIL TRANSPORT
+> CORPORATION; and LIGHT RAIL MANILA CORPORATION,
+> respondents.
+> Promulgated:
+> -Macrch 28, ~2023 ,
+> X . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ~ £_
+> ~f .'
+> CONCURRING AND DISSENTING OPINION
+> CAGUIOA, J.:
+> These consolidated petitions challenge the validity of Department of
+> Transportation and Communications1 (DOTC) Department Order (DO) Np.
+> 2014-014,2 which adopted a uniform distance-based fare scheme for the Light
+> Rail Transit(LRT) Lines 1 (LRT-1) and 2 (LRT-2), and the Metro Rail Transit
+> (MRT) Line 3 (MRT-3).3 Petitioners claim, among others, that the DOTC
+> Secretary and the Light Rail Transit Authority (LRTA) do not have the
+> authority to impose a fare increase for the LRT and the MRT. In addition, they
+> posit that DO No. 2014-014 was issued without the requisite notice and
+> hearing, in violation of the due process clause of the Constitution. Thus, they
+> filed the present petitions before the Court to nullify DO No. 2014-014 and to
+> enjoin respondents from further implementing the fare increase.4
+> The ponencia dismisses the petitions and upholds the validity of DO
+> No. 2014-014 for substantially complying with the requirements of notice and
+> hearing. The notice and hearing requirement for fixing rates is applicable in
+> this case, despite the quasi-legislative nature of the issuance, following
+> Manila International Airport Authority v. Airspan Corporation5 (MIAA),
+> where the Court held that attached agencies to the DOTC should comply with
+> 1 Following the creation of the Department of Information and Communications Technology (DICT) by
+> virtue of Republic Act No. 10844 (AN ACT CREATING THE DEPARTMENT OF INFORMATION_ AND
+> COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS APPROPRIATING FUNDS
+> THEREFOR, AND FOR OTHER PURPOSES, dated May 23, 2016), the DOTC is now the Department of
+> Transportation (DOTr),
+> 2 Light Rail Transit (LRT) Lines I & 2 and Metro Rail Transit (MRT) Line 3 Fare Adjustment, dated
+> December 18, 2014.
+> 3 Ponencia, p. 4.
+> 4 Id. at 12.
+> 5 486 Phil. 1136 (2004), cited in the ponencia, p, 5 I.
+>
+> Concurring and 3 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> the requisite public consultation under Executive Order No. 292 or the
+> Administrative Code of 1987 (Administrative Code).6
+> As for the substantive due process requirements, the ponencia finds that
+> the fares were reasonable and just, as these were determined in consideration
+> of a number of factors affecting the operations and status of the rail lines.7
+> I concur as to the result. However, I respectfully maintain my dissent
+> from the holding by the majority that the assailed issuance is a rate-fixing
+> regulation.
+> The threshold issue here is the reduction of the subsidies to the
+> passenger fares for the LRT-1, the LRT-2, and the MRT-3, which alone
+> resulted in the concomitant increase of fares. While the issue of subsidy
+> reduction, as a policy decision, is relevant to the procedural issue of
+> justiciability, it is also significant in determining whether notice and hearing
+> are required in th.e first place. The Court should therefore make a prior
+> determination that the assailed Department Order was indeed an exercise of
+> the rate-fixing authority before going into the merits of the notice and hearing
+> requirements.
+> Thus, I respectfully submit this Concurring and Dissenting Opinion to
+> expound on my position that the challenged regulation does not involve rate
+> fixing. Rather, it only implements the executive policy of reducing the
+> subsidies allotted for the expenses of operating the railway system. For this
+> reason, there is no legal requirement for the DOTC and the LRTA to hold any
+> public consultation before its implementation, the consequent adjustment in
+> the fares having resulted only froin the decreased subsidy.
+> That being said, if the Court were to assume that the subject regulation
+> is in the nature of a rate-fixing function, I agree with the ponencia that the
+> DOTC and the LRTA complied with the notice and hearing requirements
+> under the Administrative Code. The exercise of a quasi-legislative or rate
+> fixing power is not as stringent as those required for quasi-judicial
+> proceedings. To this point, the records clearly establish that the DOTC and
+> the LRTA held public consultations for the new fare scheme that comply with
+> the notice and requirement hearing in the Administrative Code. The adjusted
+> fare scheme, brought about by the reduction in government subsidy, ts
+> likewise reasonable and just.
+> I.
+> Respondents in these consolidated petitions, particularly the Light Rail
+> Manila Corporation and the Metro Rail Transit Corporation, argue that DO
+> No. 2014-014 was merely a reduction in government subsidy As such, the
+> challenged regulation is not an exercise of a rate-fixing authority by the LRTA
+> ' Id. at 1145
+> 7 Ponencia, pp. 61-63.
+> •
+>
+> Concurring and 4 G.R. Nos. 215650, 215653,
+> Dissenting Opinion · 215703,215704,216735
+> and the DOTC, which requires prior notice and hearing. 8 Relatedly, the DOTC
+> points out that the fare adjustment was made pursuant to legitimate policy
+> objectives, which include the "[r]eallocation of government resources to other
+> priority infrastructure and social services projects," as well as to "[reduceJthe
+> government subsidies to the LRT lines and cross-subsidies to Metro Manila
+> commuters by all taxpayers."9 For these reasons, respondents collectively
+> argue that the requirement of prior public consultation should not apply.
+> The ponencia does not. discuss the merits of this argument, and
+> immediately proceeds instead to rule on the respective authority of the DOTC
+> and the LRTA to increase the fare for the MRT-3, and for the LRT-1 and LRT-
+> 2. The DOTC and the LRTA are ultimately found to have acted within the
+> bounds of their authority in providing for higher rates for transit commuters.10
+> While the challenged regulation is deemed to have been validly issued, the
+> ponencia's ruling is premised on the conclusion that DO No. 2014-014 was
+> in the nature of a rate-fixing regulation, which in turn, must comply with the
+> notice and hearing requirements of the Administrative Code.
+> I respectfully disagree.
+> "Rates" refer to the:
+> "charge to the public for a service open to all and upon the same tenns, .
+> including individual or joint rates, toJJs, classifications, or schedules
+> thereof, _as well as commutation, mileage, kilometrage and other special
+> rates which shall be imposed by law or regulation to be observed and
+> followed by any person."11
+> Since a fare represents the price applicable to commuters using public
+> transport, if may be reasonably inferred that setting or adjusting fares may
+> constitute as "rat~-fixing."
+> Hc,wever, the revision of the fare schedule by virtue of DO No. 2014-
+> 014 was not an exercise of the regulatory power to fix rates. In order to come
+> within the purview of.the regulatory function of "rate-fixing," the rates must
+> be for purposes of not only covering the costs of operation, but also of
+> providing the public utility with a reasonable return on investment.
+> In Republic v. Manila Electric Co., 12 the Court explained the
+> considerations in prescribing or adjusting rates for the services of a public
+> utility:
+> in ·regulati.!1g rates charged by public utilities, the> State protects the
+> pul;,lic against <1rbiti;ary and excessive rates while maintai!1ing the efficiency
+> and quality _of services rendered. However, the power to regulate rates
+> Rollo (G.R. No. 2156.50), Vol. ·3, pp. i 171-1179, 1232-1239, Memorandum for Public Reipondents
+> dated November 3;2016.-
+> 9 Rollo (G.R. No. 2 I 5650), Vol. 2, p. 986, Memorandum for Public Respondents dated November 3, 2016.
+> 10 Ponencia, pp. 35-46.
+> 11 ADMINISTRATIVE CODE of :987, Book Vii, Chapter L Sec. 2(3).
+> 12 440 Phil. 389 (2002).
+>
+> Concurring and 5 G.R. Nos. 215650, 215653,
+> Dissenting Opi_nioh 215703,215704,216735
+> does not give.the State the right to prescribe rates which are so low as
+> to deprive th_c public utility of a reasonable return ou investment. Thus,
+> the rates prescribed by the State must be [ones] that [yield] a fair return
+> on the public utility upon the value of the property performing the
+> service and one that is reasonable to the public for the services
+> rendered. The fixing of just and reasonable rates involves a balancing of
+> the investor and the consumer interests.
+> In his famous dissenting opinion in the 1923 case of Southwestern
+> . Bell Tel. Co. v. Public Service Commission, Mr. Justice Brandeis wrote:
+> The thing devoted by the investor to the public use is
+> not ,specific property, tangible and intangible, but capital
+> embarked in an enterprise. Upon the capital so invested, the
+> Federal Constitution guarantees to the utility the opportunity
+> to earn a fair return x x x. The Constiturion does not
+> guarantee to the utjlity the opportunity to earn a return on the
+> value of all items of property used by the utility, or of any of
+> them.
+> xxxx
+> TI1e investor agrees, by embarking capital in a utility,
+> that its charges tot.lie public shall be reasonable. His [or her]
+> compai1y is the substitute for the State in the performance of
+> the. public service, thus becoming a public servant. The
+> compensation which the Constitution guarantees an
+> . .
+> opportunity to earn is the reasonable cost of conducting
+> the business.
+> xxxx
+> In detennining the just and reasonable rates to be charged by a
+> public utility, three major factors are considered by the regulating agency:
+> a) rate ofreturn; b) rate base; and c) the returi1 itself or the computed revenue
+> to be earned by the· public utility based on the rate of return and rate base.
+> The rate of return is a judgment percentage which, if multiplied with the
+> rate base, provides a fair retu,."!1 on the public utility for the use ofi.ts property
+> for service to the public. The rate of return of a public utility is not
+> prescribed by statute but by administrative and judicial pronouncements.
+> This Court has consistently adopted a 12% rate ofreturn for public utilities.
+> The rate base, on the other hand, is an evaluation of the property devoted by
+> the utility to the public service or the value of invested capital or property
+> which the utility is entitled to a return. 13 (Emphasis supplied)
+> As well, in Kflusang A1ayo Uno Labor Center v. Garcia, Jr., 14 the Court
+> discussed the nature of rate-fixing in this wise: .
+> Moreover, rate making or rate fixing is not an easy task. It is a
+> delicate and sensitive government function that requires dexterity of
+> judgment and sound discretion with the settled goal of arriving at a just and
+> reasonable rate acceptable to both the public utility and the public. Several
+> factors, in fa:t, have to be taken into consideration before a balance could
+> 13 Id. at 397-400.
+> 14 309 Phil. 358 (1994).
+>
+> Concuning and 6 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> be achieved. A rate should not be confiscatory as would place an operator
+> in a situation where he [o r she] will continue to operate at a loss. Hence,
+> the rate should enable public utilities to generate revenues sufficient to
+> cover operational costs and provide reasonable return on tlte
+> investments. On the other hand, a rate which is too high becomes
+> discriminatory. It is contrary to public interest. A rate, therefore, must be
+> reasonable and fair and must be affordable to the end user who will utilize
+> the services.15 (Emphasis supplied)
+> While administrative agencies engaged in rate fixing should balance
+> 0
+> the interests of the public with the public utility rendering the service,
+> ultimately, a "public utility is entitled to a just compensation and a fair return
+> upon the value of its property while it is being used by the public."16
+> From the foregoing, it may easily be gleaned that the function of fixing
+> rates necessarily involves a determination of a reasonable return on the
+> investment on the part of the public utility.
+> The significance of this purpose should not be lost to the Court. Here,
+> the DOTC and the- LRTA did not issue DO No. 2-014-014 to increase the
+> earnings and in tum, recoup the investments made in the railway systems. It
+> was issued in response to the President's fiscal policy, a policy which the
+> President had every authority to impos·e, of reducing the government subsidy
+> on these railway transit systems. The ponencia itself recognizes this, citing
+> former President Benigno Simeon Aquino Ill's State of.the Nation Address
+> on July 22, 2013, in which "he reiterated the need to adjust the LRT's and
+> MRT's fares so that the government subsidy xx x can be used for other social
+> services."17
+> As a matter of policy, the government rriay subsidize social. and
+> economic progrnm3 for the general welfare of the public. These subsidies are
+> often more apparent in targeted assistance programs such as the Fu.el Subsidy
+> Program, where identified beneficiaries are directly provided .with cash to
+> lessen the impact of the increase in oil prices.18 Also illustrative of the direct
+> targeted assistance programs is the Pantawid Pasada Program where certain
+> franchise holders of public utility jeepneys nationwide were provided with a
+> fuel card for a certain amount.19 Other.subsidy programs also come in the form
+> of discounts for a specified class of persons, as in the case of senior citizens,
+> who are granted 20% discounts in commodities, to improve their welfare as
+> they are "less likely to be gainfully employed, more prone to illnesses and
+> 15 . Id. a\ 378.·
+> 16 PAetropoli£an· Wazer District v. JY.ublic Service Commission, 58 Phil. 397,400 (l 933).
+> 17 Poner.cia, p. 57. ·
+> 18 Dep&:tment of Budg:~t and Mmiagernent, DB!vf Releas~s P3 . 0 Billion for Fuel Subsidy a.•?d Discount
+> Progran1s, avai iab 1e at <https:/iwww .dbm.gov. ph/index. php/secretary-s-comer/press-rcleases.'!ist-of
+> press-releases/21 02-dbin-releases-p3-0-bil lion-for-fuel-subsidy-and..:discount-programs#>; See also
+> Republic Act No. l 1639, -2022· General Appropriations· Act, Volume ·1-B, XXV, Depactrneni of
+> Transportation, available at <https:!/www dbrn.gov.ph/wp-content/uploads/GAA/GAA2022/Volumel
+> /DOTr/DOTr.pdf>, where an appropriation for the Fuel Subsidy P:ogram is allotted fo1 public utility
+> vehicle (PUV), taxi, tricycle, and full-time ride-hailing and delivery s0rvice drivers nationwide, when
+> the average crude oil price reaches a certain thres!i.uld (Special Provision P.O. 8).
+> r9 L TFRB, Pantmvid Pasada Fuel Card Processes and ReqEirements_ available at
+> <https://Itfrb.gov.ph/?p~3938>. .
+>
+> Concurring and 7 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> other disabilities and, thus, m need of subsidy in purchasing basic
+> commodities."20
+> · In the case of public transport systems, the government may likewise
+> subsidize the costs for the operation of a public transit. This ensures that
+> majority of its users are able to afford the fare, which in tum, increases
+> mobility. A recent example is the EDSA Bus Carrousel, which was fully
+> subsidized by the government and provided road-based transport at no cost to
+> commuters along the route.21
+> ·
+> For the niajor urban public railways such as the LRT-1, the LRT-2, and
+> the MRT-3, the government subsidy is not as direct because commuters still
+> pay for the fare in order to use the train. The government, however, bears a
+> significant pmtion of the costs to operate these transit systems. 22 The
+> l'v1emorandum23 dated October 27, 2010 by the Secretary of Finance, the
+> Secretary of Budget and Management, the Secretary of Transportation and
+> Communications, and the Socio-Economic Planning -Secretary showed that
+> the govem1'nent subsidized more than half of the fares for each passenger as
+> t.1-ie farebox reven:ie for these railways cannot fully cover the total operating
+> and maintenance expenses. The relevant figures in the October 27, 20 I 0
+> J\,Iemorandum may be sunm1arized in this wise:
+> Percentage of
+> Full-Cost Government
+> Average Fare Government
+> Fare (2010) Subsidy_
+> Subsidv
+> LRT-1 Pl4.20 P35.77 P21.57 60%
+> LRT-2 l."13.51 l"60.75 l."47.24·· 78%
+> MRT-3 1"12.30 P60.03 P47.73 80"/c,
+> Immediately preceding· the i-ssuance of DO No. 2014-014, the actual
+> cost per passengef for the LRT-1 and LRT-2 was P34.74 as of December 12,
+> 2013. Since the passenger pays an average ofl."14.28, the difference of P20.46
+> or 59% of the actual cost was shouldered by the goven1m_ent. For the MRT-3,
+> the actual cost was ¥53.96 and the average fare was l.".12.30. The difference of
+> 1"4 l .66, which represents 77% of the actual cost, was likewise assumed by the
+> govemment.24
+> 20 lv/anila /vfemorial Park, Inc. v. Secretary (~{Social Welfare and Develcpment, 722 Phil. 538, 578(2013).
+> 21 ,1\/.B. 'fhis was fundep thr9ugh, R.A. No. 11494,, AN ACT PROYIDlNG FOR Covu~-19, RESPONSE AND
+> RECOVERY INTERV~NT!ONS AND PROV!DlNG MECHANISMS To Accr,I_.ElZA-;'E THE RECOVERY AND
+> BOLSTER THE R.ES1L1G~CY OF THE PHILIPPINE ECONOMY, PROVID!NG FUNDS THEFEFOR: AND FOR
+> O'IHER PURPOSES, or thE- B_ayanihan to Recover as One Act, dated September 11 :· 2020, Secs. 4(fff) and
+> I O(g)(2). . . _
+> 22 Andra Charis' Mijares, Madan B. Regmi, Tetsuo Ya!, Enhancing the.sustainability and inclusivenes5 of
+> the Metro Manila's urban transportation systems: Proposed fare and policy reforms, lTN ECONOMIC
+> AND SOCIAL COMMlSSION FOR ASIA AND THE PACIFIC (ESCAP), Transp•:)rt and Communications Bulletin
+> for Asi2;. and the P~cific (No. 84, 2014), available at <https://www.unescap.orgisites/defau1t/files/Bulletin%
+> 2084%20-%20Article%20J _ O.pdf.?.
+> 21 Rollo (G.R. No. 215650), Vol. 1. pp. 105-108.
+> 24 Id. at 218; Andra Charis Mijares, Madan B. Regmi, Tetsuo Yai, £11.hancing the sustainability and
+> inclusiveness-oft he lvfetro /1/anila 's urban transpcirtution systems: Proposed fare and policy re/Orms,
+> supra note 22.
+>
+> Concurring and 8 G.R. r:ros. 215650, 215653,
+> Dissenting Opinioli 215703,215704,216735
+> Unlike the targeted subsidies in which financial assistance is readily
+> handed out to identified beneficiaries, the subsidy for these railway systems
+> indirectly benefits the public by keeping the fare down. Be that as it may,
+> much in same way that the government cannot be precluded from reducing
+> these direct financial subsidies, eit.1-ier by decreasing the amount or cutting
+> down the number of beneficiaries, the Court cannot bar the government from
+> substantially decreasing the subsidies extended to the commuting public. To
+> my mind, these are matters of Executive wisdom that the Court cannot
+> ing uire into.
+> A careful reading of DO No. 2014-014 would reveal that its issuance
+> was predicated on the "user-pays" principle in the Medium-Term Philippine
+> Development Plan, with the end view of "an equitable distribution of
+> government funds currently dedicated to subsidizing the operations of the
+> [LRT-1, the LRT-2, and the MRT-3] in Metro Manila to much-needed
+> development projects and relief operations in other parts of Luzon, Visayas,
+> and Mindanao."25The tenor of the chalienged regulation, therefore, was not
+> to increase the fares for the solitary purpose· of generating more revenue for
+> theserai!ways - rather, it implement~ the reduction of subsidies allotted for
+> the operation and maintenance expenses of the LRT and the l\1RT, in line with
+> the fiscal policy of the Executive to realloca1e these funds for other
+> worthwhile government projects.
+> ln this light, prior noti,:;e and hearing are not required, as this is not a
+> rate-fixing function within the purview of the Administrative Code. At the
+> risk of being repetitive, .the rates were not adjusted to allow the railway
+> operators to profit from the operation of the public .utility, or to recoup their
+> capital expenditures. The fares were inevitably. affected because the
+> government subsidy to .cover the deficit between the cost and the farebox
+> revenue was reduced. 26 Stated differently, had the .subsidy been granted
+> thrrmgh direct monetary transfer to each passengerin order to cover a portion
+> of his or her fare, tl1e subsequent reduction or withdrawal of the subsidy,
+> which results in the payment of an increased or adjusted fare, cannot be
+> characterized as a rate-fixing function.
+> On this point, it bears noting that the preparation of the government
+> budget is an Executive function, conferred by the· Constitution an the
+> President. Section 22, Article VII of the 1987 Constitution states:
+> Section 22. The President shall submit to Congre3s within ·thirty
+> days from the opening of every regular session, as the \-,~sis of the general
+> appropriations bill, a budget of expenditures and sources of financin.g,
+> includfr1g receipts frCm.1 existir:ig a.."'1.d proposed.revenue ri1casures.
+> While no public funJs may be paid out of the Treasury except in
+> pursuance of an appropriation made by law, Congress may not increase the
+> 25 DO No.. 2014-014 dated December 18, 2014.
+> 26 See Andra Charis Mijares, Madan B. Regmi, Tetsuo Yai, Enhancing the sustainability and inclusiveness
+> of the Metro lvfanila's urban transportation systems· Proposed fare and policy reforms, supra note 22.
+>
+> Concurring and 9 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> appropriation recommended _b y the President. 27 This is founded on the
+> principle that fiscal matters relating to the preparation and execution of the
+> government budget are functions of the Executive. The Court's ruling in
+> Guingona, Jr. v. Carague28 emphasizes the discretion granted to the President
+> in the preparation of the budget:
+> The Government budgetary process has been graphically described
+> to consist of four major phases as aptly discussed by the Solicitor General:
+> The Government budgeting process consists of four
+> major phases:
+> I. Budget preparation. The first step
+> is essentially tasked upon the Executive
+> Branch and covers the estimation of
+> government revenues, the determination of
+> · · budgetary priorities and activities within
+> the constraints imposed by available
+> revenues and by borrowing limits, and the
+> translation of desired · priorities· and
+> activities into expenditure levels.
+> Budget prepm:ation starts with the
+> budget call issued by the Department of
+> Budget and Management. Each agency · is
+> required to submit agency budget estimates
+> in line with the requirements consistent with
+> the generai ceilings set by the Development
+> Budget Coordinating Council (DBCC).
+> · ' · With regard to debt servicing; the
+> DBCC staff, based on the macroeconomic
+> projections of interest rates (e.g. LIBOR rate)
+> and estimated sources of domestic and
+> foreign financing, estim.ates debt servi1;e
+> ie·✓eJs: Upon issuance of budget cail, the
+> Bureau of Treasury computes for the interest
+> an.d principal payments for the year for all
+> direct national gove;-nment bonowings and
+> other liabilities assumed by the same.
+> 2. Legislative authorization. At this
+> stage, Congress enters the picture and
+> deliberates or acts on the budget proposals of
+> the President; and Congress in the exercise of
+> its own judgment and wisdom formulates an
+> appropriation act precisely following the
+> process established by the Constitution,
+> vchich specifies that no money may be paid
+> froJn the Treasury except in acco1dance with
+> an appropriation made by law. 29 (Emphasis
+> suppied)
+> 27 CONSTITUT[ON, Art. Vf, Sec. 25(1).
+> 28 273 Phil. 443 (1991).
+> 29 Id. at 460.
+>
+> Concurring and 10 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> Evidently, any grant or withdrawal of financial assistance has a
+> corresponding item ih the appropriations bill, the amount of which is left to
+> the discretion of the President. The consequence of expanding or contracting
+> subsidies, while felt as an increase or decrease in the prices of goods or, as in
+> this case, the fares for public transit, is only an effect of the Executive's
+> exercise of its authority to determine the budget. The Court certainly has no
+> business in questioning the extent of these subsidies. Neither should the Court
+> unduly burden the authority of the Executive by subjecting to public
+> consultation any concomitant withdrawal or reduction of subsidies.
+> In Citizens' Alliance for Consumer Protection v. Energy Regulatory
+> Board,30 the Court was confronted with a challenge on the constitutionality of
+> the Oil Price Stabilization Fund (OPSF), or the trust account established to
+> minimize the frequent price changes brought about by the adjustments in
+> prices for crude oil and petroleum products. In rejecting the challenge that the
+> same was oppressive and arbitrary, the Court recognized that the OPSF "is in
+> effeet a device through which the domestic prices of petroleum ,products are
+> subsidized in part." 3 Any question as ·to its propriety were deemed as
+> !
+> questions that go into "the wisdom, justice and expediency of the
+> establishment of the OPSF, issues which are not properly addressed to this
+> Court and which this Court may not constitutionally pass upon."32
+> Fuiiher, in Garcia v. Executive Secretary,33 the Comi did not give due
+> course to the challenge on the constitutionality of the law deregulating the oil
+> industry. The Court emphasized that any ruling deciding on when and to what
+> extent the deregulation should take place would necessarily pass upon the
+> wisdom of the policy of deregulation. 34
+> Verily, issljes on the extent of a government subsidy, much less the
+> grant thereof, are matters of policy that are left for the determination of the
+> Executive. With the increasing ridership in the LRT and the MRT, and
+> considering the inevitable depreciation of the railways over time, the burden
+> of continuously covering the operation · and maintenance expense would
+> likewise increase. In this regard, any adjustment to the subsidy, or even.the
+> non-adjustment thereof, would unavoidably have an effect on the fares. Such
+> effect, by itself, does not immediately trigger the. requirements for public
+> consultation. To rule that the policy decision to subsidize a public transit
+> system is an exercise of rate-fixing would inevitably bind the President to
+> requirements of notice and. hearing under the Administrative Code. This is a
+> delimitation on the power of the President not only to prescribe the
+> _!,udget, but it likewise imposes a heavv fiscal burden to be carried by each
+> succeeding administration.
+> 30 245 Phil. 467 (! 988).·
+> 31 !d. at 485.
+> 32 Id. at 436.
+> 33 602 Phil. 64 (2009).
+> 34 ld.at75.
+>
+> Concurring and 11 G.R. Nos. 2!5650,215653,
+> Dissenting Opinion 215703,215704.216735
+> . In sum, DO No.2014-014 was only issued pursuant to the fiscal policy
+> of withdrawing or reducing the subsidies on the operation and maintenance of
+> these railways. By issuing the challenged regulation, the DOTC and the LRTA
+> were not engaged in the exercise of a rate-fixing function, for which the
+> requisite public consultation must be observed. Ultimately, the President's
+> exercise of his or her power to propose the budget for the administration of
+> government includes the concomitant power to make adjustments in the
+> subsidies for the government's programs.
+> II.
+> At any rate, even on the assumption that DO No. 2014-014 is an
+> exercise of the DOTC's and LRTA's rate-fixing authority, I submit that the
+> requisites of prior notice and hearing were complied with and that the adjusted
+> fares are just and reasonable.
+> lexpound.
+> The question as to whether notice and hearing is required in the exercise
+> of an administrat1ve agency's quasi-legislative power is not novel. As the
+> ponencia aptly discussed, this issue was initially settled in Vigan Electric
+> Light Company Jr,c. v. The Public Service Commission35 (Vigan Electric),
+> where the Court held that when the rules or rates .arc· meant to apply to all
+> without distinction,. then the rate-fixing function partakes of a legislative
+> character that does .not require prior notice and hearing. However, if the rates
+> apply exclusively to one party, grounded upon a finding of fact, the function
+> partakes of a. quasi-judicial character, the exercise of which demands prior
+> notice and hearing.36
+> ·
+> This doctrine was reiterated in Central Bank of the Philippines v.
+> Cloribel37 (Central Bank). The Court, however, further clarified that previous
+> notice and hearing are not essential to the validity of rules and regulations that
+> impose rates for the general public, unless there is a statutory requirement to
+> this effect:
+> Then, too, the Central Bank is supposed to gather relevant data and
+> make the necessary study, but has no legal obligation to notify and hear
+> anybody, before exercising its power to fix the maximum rates of interest
+> that banks may pay on deposits or any other obligations. Previous notice
+> and hearing, as elements of due process, are constitutionally required for the
+> protection of life -or vested property-rights, as well as of liberty, when its
+> limitation or loss takes place in consequence of a judicial or quasi-judicial
+> proceedir,g, generally dependent upon a past act or ev<or,t which has to be
+> H
+> established or ascertained. is not essential to the validity of general
+> rules or regulations promulgated to govern future conduct of a class of
+> persons or enterprises, uniess the law provides otherwise, and there is
+> 35 119Phil.304{1964).
+> 36 Id. at 312.
+> " 150-A Phil. 86 (1972).
+>
+> Concurring and 12 G.R. Nos. 215650, 215653,
+> Dissenting Opinion
+> 215703,215704,216735
+> no statutory requirement to this effect, insofar as the fixing of maximwn
+> rates of interest payable by banks is concemed.38 (Emphasis supplied)
+> Thus, while Vigan Electric indeed dispensed with the requirement of
+> prior notice and hearing in the adn1inistrative agency's exercise of its rate
+> fixing authority, this is not a hard-and-fast rule. If the governing law requires
+> the conduct of notice and hearing before the adjustment or imposition of rates,
+> there should be c0mpliance v,1ith these t,vin requirements even if the rates
+> appiy to all enterprises, without distinction. This rule was concisely
+> summarized in Association ofI nternational Shipping Lines, Inc. v. Philippine
+> Ports Authority39 (Association of International Shipping .Lines), where the
+> Court held as follows:
+> Where the rules and/or rates imposed by an administrative agency
+> apply exclusively to a particular party, predicated upon a finding of fact,
+> the agency performs a fllilction paitaking of a quasi-judicial character and
+> prior notice and hearing are essential to the validity thereof. ·
+> · If the agency is in the exercise of its legislative functions or where
+> the rates are n1eant to a·pply to all enterprises of .a given kind
+> throughout the c-ountry, however,-the grant of prior notke and hearing
+> to the affccie<l parties is not a requicement of due process except where
+> the legisllltu~e itself requires it.40 (Emphasis and unde~scoring supplied)
+> In Francisco, Jr. v. Toll Regulatory Board,41 the Court was confronted
+> with the validity of the provisions in the Supplemental Toll Operation
+> Agreements that supposedly tied the hands of the Toll Regulatory Board
+> (TRB) by allowing automatic adjustments in toll rates according to a fixed
+> formula. These provisions, petitioners therein claimed, negated the public
+> hearing requirement.42 The Court rejected this argument, declaring that the
+> plain langua,ge of Presidential Decree (PD) No. 1112:3 ,and PD No. 189444
+> should apply, which ailow ~nly the imposition ofinitja! toll rates without any
+> public hearing. For subsequent toll rate adjustments, .the Court pronounced
+> that the tollway operators and the TRB are statutorily required to undergo the
+> requirements of public hearing and publication.45
+> Parenthetically, in MIA.A, the Court was confronted with the validity of
+> the revised fees, charges, and rates for th.e use of the facilities of the Manila
+> International Airport Authority (MIAA). Respondents therein aileged that the
+> new rates lack prior notice and hearing, as these were imposed without
+> complying.with the requirements of the Administrative Code.46 The MIAA
+> countered that its charter-authorizes it to increase fees without need of public
+> 38 Id. at IOI.
+> 39 494 Phil. 664 (2005 Jc
+> 4 " Id. at 676-677.
+> 41 648 Phil. 54 (20 .OJ.
+> 41 ld. at 125-126.
+> 43 Titled TOLL OPERATION DECREE, dated March 31, I 977.
+> 44 Titled AMENDJNG THE FRANCHJSE OF TI-IC PHiLIPPINE NATlONAL CONSTRUCTION CORPORATION, dared
+> December 22, I 983.
+> 45 Francisco, Jr. v. Toll Regulatory Board, supra note 41, at 139.
+> 46 Manila fntenwtional Airport Authority v. Airspan Corpo;·ation, ~upra note 5, at 1140.
+>
+> Concun-:ing and 13 G.R. Nos. 215650, 215653,
+> Disser,ting Opinion 215703,215704,216735
+> an
+> hearing. 47 However, the Court ruled that since the MIAA is attached
+> agency of the DOTC (now, the DOTr), it is likewise governed by Section 9(2),
+> Chapter 2, Book VII of the Administrative Code; which requires notice and
+> public hearing in the fixing of rates. 48 The MIAA failed to comply with this
+> requirement, and as a result, the rate increases were declared invalid.
+> Based on the foregoing, it i~ evident that Vigan Elzctric was effectively
+> modified by the Court's succeeding pronouncements in Central Bank,
+> Association of international Shipping Lines, and MIAA. Accordingly, when
+> the governing law imposes the requirement of notice and hearing even for
+> rules and rates promulgated pursuant to. an agency's ·rule-making power,
+> compliance with this requirement is essential to the validity thereof In other
+> words, despite the quasi-legislative character of rate-fixing, the administrative
+> agency may not necessarily dispense with the requirement of public
+> consultation when the governing statute explicitly requires the conduct of
+> notice and hearing. In such instances, the administrative agency should notify
+> the public and provide it an opportunity to be heard before imposing the new
+> rates.
+> III.
+> Having established that the Court should likewise inquire whether the
+> governing law requires notice and. hearing, I submit that even assuming
+> arguendo that these requisites are required in the iss1ance of DO No. 2014-
+> 1
+> 014, the same were duly observed.
+> The twin requirements on notice and hearing are pertinently provided
+> under the Administrative Code, to wit:
+> SECTION 9. Public Participation.~ (I) If not otherwise required
+> by law, an agency shall, as far as practicable, publish or c:irculate notices of
+> proposed rules and afford interested parties the opportunity to submit their
+> views prior to the adoption of any rule.
+> (2) In the fixing of rates, no rule or final order shall be valid unless the
+> proposed rates shall have been published in a newspaper of general
+> circulation at least two (2) weeks before the first hearing thereon.
+> (3) In case of opposition, the rules on contested cases shall be observed.49
+> (Emphasis supplied)
+> As earlier Inentioned, the Court already recogni~ed in }vlJAA that the
+> DOTC (hereinafter, the DOTr) · is governed by .this provision of the
+> Administrative Code. Thus, it cannot unilaterally impose new rates, even if
+> such rates apply to the general public, without the required notice and hearing.
+> Otherwise, the regulation will be declared void for violating the due process
+> requirements of the Administrative Code.
+> 47 Id. at I !42.
+> 48 Id. at 1145.
+> 49
+> ADMINISTRATIVE CODE of I 987, Book VII. Chapter 2 (Rules and Regulations).
+>
+> Concurring and 14 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> 50
+> Be that as it may, the JvJJAA ruling does not squarely apply in this c~e.
+> Unlike the factual circumstances of l\11AA where there was a complete
+> absence of notice and hearing, the DOTr in this case did not unilaterally
+> impose the new fare scheme for the public railways. On the contrary, the
+> records show that it sufficiently complied with the requirements of the
+> Administrative Code before issuing DO No. 2014-014.
+> The ponencia itself establishes that there were three separate ·dates for
+> public consultation preceding DO No. 2014-014: on February 4 and 5, 2011,
+> and on December 12, 2013.51 The records further establish that Notices of
+> Public Consultation were published in two newspapers of general ci;-culation
+> for each date, as required under Section 9(2), Chapter 2, Book VII of the
+> Administrative Code:
+> (1) The Notice of Public Consultation for February 4 and 5,
+> 2011 was published in the Philippine Daily Inquirer and
+> Manila Bulletin on January 20 and 27,2011,52 respectively;
+> (2) The Notice of Public Consultation for December 12, 2013
+> was li...~e,vise published in the Philippine Daily Inquirer and
+> l\1anila Bulletin on December 5, 2013.53
+> As the ponencia now recognizes, the clear conduct of notice . and
+> hearing through these public consultations constitutes sufficient compliance
+> with the Administrative Code. Petitioners argue, however, that publi~
+> consultations should have been conducted anew, since the factual
+> circumstances obtaining during the hearings conducted in 2011 and 2013 no
+> longer apply when the fare adjustment was subsequently enacted in 2014. In
+> other words, the public consultation should have been conducted immediately
+> prior or contemporaneous to the issuance of DO No_ 2014-014 in order to be
+> valid.
+> Petitioners' arguments are untenable.
+> The prior notice and hearing requirements are undoubtedly anchored on
+> due process considerations. Due process, however, is not a rigid and inflexible
+> concept. It depends on the circumstances and "varies .with the subject matter
+> and necessities of the situation." 54 For administrative proceedings, due
+> process should not _b e tantamount to the requirements for judicial or
+> adjudicatory processes. In the exercise of a quasi--legislative po,ver, the
+> administrative agency does not dete1mine the rights and liabilities of
+> particular parties before the tribunal. it also docs not require the administrative
+> agency to consider conflicting evidence, or to assess the credibility of
+> 50 Ponencia, pp. 51-54 . .
+> 51 ld.at8-9. -
+> 52 , Rollo(G.R. No. 215650), Vol. I, p. 120.
+> 53 id. at 131-132.
+> 54 See Rubi v. Provincial Board ofM indoro, 39 Phil. 660, 707 ( 1919); See also Saunar v. Ermiia, 822 Phil.
+> 536, 546(2017). - . -
+>
+> Concurring and 15 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> witnesses. In the end, when an administrative agency is exercising its quasi
+> legislative power, it is called to make a judgment on a matter of policy within
+> its mandate and expertise that would apply to all persons without distinction.
+> Thus, in Association of International Shipping Lines, the Court held
+> that it is within the sound discretion of the Philippine Ports Authority to
+> increase the stevedoring and arrastre charges in its ports. 55 \Vhile such
+> regulation was initi.ally deemed as an exercise of its rule-making power, the
+> Court ruled in the alternative that even if prior notice and hearing were
+> required, this was adequately complied with by the public hearing held on
+> November 8, 2000 with the stakeholders.56 As in this case, the public hearing
+> in Association ofI nternational Shipping Lines was held more than a year prior
+> to the issuance of the challenged regulation on December 21, 2001, but the
+> Court upheld the regulation nonetheless.
+> Likewise, in Republic v. Maria Basa, 57 herein ponente upheld the
+> DOTC's issuance that increased the fines for traffic violations, even if the
+> public consultations were held in 2002, or six years prior to . the
+> implementation thereof This issuance was eventually superseded by another,
+> for which consultations were indeed conducted several months prior. That the
+> proximity of the consultations to either regulation was not issue in this case is
+> precisely the point. The number of public consultations or the period it took
+> to notify the public did not affect the validity of these issuances.
+> Here, while the most recent public consultation was held a year pri.or t_o
+> the issuance of DO No. 2014-014, the fare scheme did not deviate from the
+> proposal previously consulted with the public. DO No. 2014-014 still adhered
+> to the distance-based fare computation with Pl 1.00 as the base fare and an
+> additional Pl .00 per kilometer. To be sure, the implementation of the new fare
+> scheme was merely deferred. There was no material change in the proposal,
+> and as such, the consultations held in February 2011 and December 2.013
+> should suffice. Bearing in mind the nature of DO No. 2014-014 as a quasi
+> legislative issuance, the DOTr complied with the requirement of notice and
+> hearing, consistent with the spirit of public participation and transparency
+> enshrined in the Administrative Code.
+> In all, the essence of due process is to afford the public an opportunity
+> to be heard, or to grant it a fair and reasonable opportunity to explain its side.58
+> This ensures responsiveness in policy-making, which in turn,· allows for a
+> more effective government administration. If the Court were to hold
+> otherwise, the distinction betvveen an administrative agency's adjudicatory
+> and regulatory functions is rendered nugatory. \Vorse, this can seriously
+> hamper the discharge ofan administrative agency's regulatory functions, as
+> this effectively requires the agency to adhere to the same standards of due
+> 55 Association of International Shippmg lines, Inc. v. Philippine Ports Authority, supra note 39, at 674.
+> 56 Id. at 677.
+> 57 G.R. 1'os. 206486, 212604, 212682, and 212800. August 16, 2022, available at <l1ttps://elibrary.judicia,y,
+> gov.ph/thebookshelf/showdocs/l /6857 I>. ·
+> 58 See Association C!f International .~hipping lines, Inc. v. Philippine Po."fs Authority, supra note 39, at 679.
+>
+> Concurring and 16 G.R. Nos. 215650, 215653,
+> Dissenting Opinion 215703,215704,216735
+> process as in quasi-judicial cases. The Court should not bind the hands of
+> administrative agencies in the exercise of their regulatory functions by
+> imposing a restrictive interpretation of the public consultation requirement in
+> the Administrative Code.
+> IV.
+> Furthermore, I respectfully submit that the fare increase under DO No.
+> 2014-014 is, in any case, just and reasonable. ·
+> In the fixing of rates, the only standard which the legislature is required
+> to prescribe for the guidance ofthe administrative authority is that the rate be
+> reasonable and just.59 What is a just and reasonable rate is a question ef fact
+> calling for the exercise of discretion, good sense, and a fair, enlightened, and
+> independent judgment. The requirement of reasonableness comprehends such
+> rates which must not be so low as to be confiscatory, or too high as to be
+> oppressive. In determining whether a rate is confiscatory, it is essential also
+> to consider the given situation, requirements, ·and opportunities of the utility. 60
+> Here, given the long years since the fares in the subject public utilities
+> have been increased, it cannot be gainsaid that the herein adjustments made
+> are just and reasonable.
+> Prior to the implementation of the present -increase, the last time the
+> LRT-1 ticket prices were even increased was in 2003. On the other hand, as
+> for the LRT-2 and the MRT-3, this was the first time that their ticket prices
+> were increased since their first operations in 2003 and 2000, respectively. As
+> shown in the Memorandum to the President dated October 27, 2010 on the
+> key decision points about the LRT Fare Adjustment submitted by the then
+> Administration's economi;; managers, the LRT fares in 2010. have fallen
+> below the fare . levels. of l\1etro 1v12.nila buses and jeepneys. s: The
+> Memorandum indeed demonstrated that an average 8.25-kilometer trip
+> charged 1'14.20 for LRT-1, 1'13.51 for LRT-2, and Pl2.30 for MRT-3.
+> Meanwhile, the same trip. charged an average of Pl 1.55, Pl5.01, and J'.18.15
+> for jeepneys, reguiar bt.ises, and aircon buses, respectively.62
+> As such, the then LRT and MRT fares were shown to have been no
+> longer aligned with those of road-based public utility. vehicles, and thus
+> necessitated an increase. 63
+> .~1oreover, the iv1emorandum significantly provided that to keep the
+> LRT fares at-their then current rates would increase the total goverr1ment
+> subsidy from P13.85 billion in 20l0 to Pl 7.06 billion in 2011 because the
+> 59 Republic v. 1\1anila Electric Company, supra not~ 12, at 398.
+> Id.
+> 6r)
+> 61 Rollo (G.R. No. 215650), V,,L I, p. 105, Annex'.' of the Public Respondent LRTA's Comment
+> Id.
+> 62
+> 63 Id. at 89, LRTA Fare Restructuring S:udy.
+>
+> Concun-ing and 17 G.R. Nos. 215650, 215653,
+> Dissenting Opinion ·. 215703,215704,216735
+> farebox ratio or net retail revenue of the LRTA lines was projected to fall
+> below 1.0, which meant higher operating and maintenance costs.64
+> Finally, as aptly raised by the LRTA, the fare adjustment was needed
+> m order for it to have the capacity to utilize its revenues not solely on
+> maintenance and operation costs, but also for the improvement of its facilities
+> and for its continuous provision of better services with its investment in
+> rehabilitation and upgrading ofihe system.65 The reduction in the subsidy was
+> likewise intended for repurposing these funds for other development projects
+> and relief operations in other parts of the coumry.66
+> All these foregoing reasons show that incontrovertibly, the fare
+> adjustments were just and reasonable policy detenninations of the Executive.
+> It should not escape the attention of the Court that petitioners, in essence,
+> dispute the wisdom and the justification for the reduction of subsidies, and the
+> consequent effect on the rail lines' fares. These are matters beyond the
+> purview of the Court's power of judicial review as it is not equipped with the
+> authority to weigh the competing values of subsidizing public transit and a
+> sound .fiscal policy. In the final analysis, the questions presented in these
+> consolidated · cases are best addressed to the · political departments of
+> government.
+> Based on these pretnises, I CONCUR in the result. I DISSENT insofar
+> as DO No. 2014-014 is deemed to be a rate- xing regulation.
+> " Id. Rollo (G.R. No. 215650). Vol. 2, p. 1009. LRTA Memorandum.
+> 65 Rollo (G.R. No. 215650), Vol. 2, pp. 1011-1012. LRTA Memorandum.
+> 66 Rollo (G.R. No. 215650), Vol. 1, p. 133, DO No. 2014-014.

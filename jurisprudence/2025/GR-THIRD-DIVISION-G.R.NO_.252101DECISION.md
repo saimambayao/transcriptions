@@ -1,0 +1,626 @@
+# GR-THIRD-DIVISION-G.R.NO_.252101DECISION
+
+**Guagua National Colleges vs. Guagua National Colleges Faculty Labor Union and Guagua National Colleges Non-teaching and Maintenance Labor Union**
+
+## Metadata
+
+- **Case Title**: Guagua National Colleges vs. Guagua National Colleges Faculty Labor Union and Guagua National Colleges Non-teaching and Maintenance Labor Union
+- **Ponente**: DIMAAMPAO, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: February 4, 2025
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2025/07/THIRD-DIVISION-G.R.NO_.252101DECISION.pdf)
+
+---
+
+> T OF THE PHILIPPINES
+> SUPREME oO MATION OFFICE
+>
+> Republic of the Philippines
+>
+> Supreme Court “~ SF
+> filanita
+> THIRD DIVISION
+> GUAGUA NATIONAL G.R. No. 252101
+> COLLEGES,
+> Petitioner, Present:
+> CAGUIOA, JU, Chairperson,
+> - versus - — GAERLAN,
+>
+> LOPEZ, J.,*
+>
+> DIMAAMPAO, and
+> GUAGUA NATIONAL SINGH,”* J.
+> COLLEGES FACULTY LABOR
+> UNION, and GUAGUA
+> NATIONAL COLLEGES NON- .
+> TEACHING AND Promulgated:
+> MAINTENANCE LABOR UNION, ean Ae G09
+>
+> Respondents. MAR 05 cleo.
+> _ _ DMERDCBO
+> a ee
+> DECISION
+> DIMAAMPAO, J.:
+>
+> This Petition for Review on Certiorari! seeks to overturn the Decision?
+>
+> and the Amended Decision? of the Court of Appeals (CA) in CA-G.R. SP No.
+> 152938. The CA partially upheld the Writ of Execution* issued by the
+> National Labor Relations Commission (NLRC) in favor of respondents
+> Guagua National Colleges Faculty Labor Union (GNCFLU) and Guagua
+> National Colleges Non-Teaching and Maintenance Labor Union
+> (GNCNTMLU), and directed petitioner Guagua National Colleges (GNC) to
+> pay its covered employees the unimplemented economic benefits such as rice
+>
+> Designated additional Member vice Associate Justice Henri Jean Paul B. Inting per Raffle dated
+> February 4, 2025.
+>
+> ** On leave.
+>
+> ' Rollo, pp. 9-37. |
+>
+> 2 Id. at 42-55. The October 10, 2019 Decision was penned by Associate Justice Ronaldo Roberto B.
+>
+> _ Martin, with the concurrence of Associate Justices Fernanda Lampas Peralta and Danton Q. Bueser of
+>
+> the Second Division, Court of Appeals, Manila.
+>
+> 3 Jd. at 57-60. Dated February 21, 2020.
+>
+> 4 Id. at 99-100.
+>
+>
+> _ Decision | 2 G.R. No. 252101
+>
+> subsidy, longevity pay, and emergency relief allowance in accordance with
+> the parties’ collective bargaining agreement (CBA).
+>
+> GNC is an educational institution in Sta. Filomena, Guagua, Pampanga,
+> wherein GNCFLU and GNCNTMLU (collectively, the unions) with
+> designated as the bargaining agents of the school’s teaching and non-teaching
+> personnel. Between 1994 and 2009, the parties entered into three CBAs that
+> covered both unions. Aside from economic provisions, the very first CBA had
+> a “no-strike, no lock-out” clause that was deemed carried over in all
+> subsequent CBAs.
+>
+> On April 3, 2009, the unions signified their intent to negotiate the
+> renewal of the CBA which was then in effect, and set to expire on May 31,
+> 2009. They attached their proposal to their letter to GNC, which was received
+> by the latter on the very same day. Instead of submitting a reply or a
+> counterproposal, GNC called for a meeting on May 15, 2009 for negotiations.
+> On even date, no agreement was reached and they agreed to set another
+> meeting. However, what the unions received next was not a notice for the next
+> meeting, but a letter dated May 27, 2009 from GNC stating that the school’s
+> management was not inclined to grant the monetary proposals submitted by
+> the unions. Despite this, the unions requested for another meeting, which was
+> set on June 11, 2009. In the said meeting, the representatives of GNC were
+> non-committal, but the unions still reckoned that meeting as the start of the
+> negotiation proper.®
+>
+> Thereafter, the parties engaged in several meetings. On August 24,
+> 2009, the representative of GNC confirmed the benefits to be included in the
+> new CBA: loyalty pay, cash gift, rice subsidy, birthday gift, and clothing
+> allowance, but did not accede to the unions’ demand for an increased signing
+> bonus.’ Subsequently, on October 9, 2009, the same GNC representative
+> signified that the signing of the benefits agreed upon may occur in the
+> following meeting.® Despite this, no signing took place and the parties no
+> longer came to an agreement in the succeeding meetings. Hence, the unions
+> filed a preventive mediation case before the National Conciliation and
+> Mediation Board (NCMB). During mediation, the parties purportedly agreed
+> to compose the final draft of the 2009-2014 CBA and settled to sign it on May
+> 28, 2010 before the NCMB. On the said date, Atty. Sabino Jose M. Padilla III
+> appeared instead and asked for 10 days to afford GNC the opportunity to
+> submit its counterproposal.’ On their next scheduled meeting, no one appeared
+> on behalf of GNC. Fed up, the unions filed their notice of strike, charging
+> GNC with bad faith bargaining, violation of its duty to bargain, gross
+>
+> > Id. at 43.
+>
+> 6 Id. at 43-44.
+>
+> 7 Id. at 106; see also Guagua National Colleges v. Guagua National Colleges Faculty Labor Union, 790
+> Phil. 106, 113 (2016) [Per J. Del Castillo, Second Division].
+>
+> 8 Id.
+> 9 Id. at 44. yy
+>
+>
+> Decision 3 G.R. No. 252101
+>
+> violations of the CBA, and gross and blatant diminution of benefits given that
+> GNC supposedly stopped granting certain benefits to its employees.!”
+>
+> Nonetheless, the strike was averted after the Secretary of Labor and
+> Employment assumed jurisdiction over the case and certified the same to the
+> NLRC for compulsory arbitration.!' The case was docketed as LCC No. 07-
+> 000005-10.!7
+>
+> In due course, the NLRC rendered its Decision}? dated March 31, 2011,
+> finding GNC to have committed unfair labor practice by not bargaining in
+> good faith. The NLRC declared the final draft of the CBA as the actual CBA
+> between the parties effective June 1, 2009 to May 31, 2014, with the benefits
+> agreed upon as of August 24, 2009 to be given retroactive effect as of June 1,
+> 2009—
+>
+> WHEREFORE, considering Our foregoing disquisitions, We find
+> [GNC] to have committed an unfair labor practice by violating the statutory
+> duty to bargain collectively in good faith. We Order that the final CBA draft
+> submitted by the unions to GNC and NCMB will be the [CBA] between the
+> parties for the period June 1, 2009 to May 31, 2014 with the parties free to
+> renegotiate the economic provisions not later than May 31, 2012 in
+> accordance with Article 253-A of the Labor Code. Lastly, We further Order
+> that the benefits agreed on by the parties as of August 24, 2009 be given
+> retroactive effect to June 1, 2009. .
+>
+> SO ORDERED." (Emphasis in the original)
+>
+> The entry of judgment! for LCC No. 07-000005-10 was recorded on
+> June 22, 2011 after the March 31, 2011 Decision became final and
+> _ executory.!® Still, GNC challenged the foregoing ruling all the way to this
+> Court. The case was docketed as G.R. No. 204693 entitled, Guagua National
+> Colleges v. Guagua National Colleges Faculty Labor Union,'’ and was —
+> resolved on July 13, 2016. There, the Court held that based on the collective
+> acts of GNC, it indeed engaged in bad faith bargaining.!® The minutes of the
+> parties’ October 9, 2009 meeting reflected how it was evident that GNC
+> already agreed to the benefits to be given by the school in accordance with the
+> 2009-2014 CBA, and that all that was left was to discuss the same with the
+> GNC President before the parties would sign the same.'? Similarly, the
+>
+> 10 Td.
+>
+> MN Td. at 45.
+>
+> 12 Td. at 133.
+>
+> 13. Jd. at 133-157. The March 31, 2011 Decision of the NLRC in LCC Case No. 07-000005-10 was rendered
+> by Commissioner Nieves E. Vivar-De Castro, with the concurrence of Presiding Commissioner
+> Benedicto R. Palacol and Commissioner Isabel G. Panganiban-Ortiguerra of the Sixth Division, NLRC.
+>
+> 4 Id. at 156-157.
+>
+> 1S Id. at 162.
+>
+> 16 Id. at 32.
+>
+> 17 790 Phil. 106 (2016) [Per J. Del Castillo, Second Division].
+>
+> 18 Rollo, p. 123. Y
+>
+> 9 Id.
+>
+>
+> Decision 4 G.R. No. 252101
+>
+> minutes of the conciliation proceedings before the NCMB clearly revealed
+> that the parties agreed to come up with the “final draft.” But again, GNC later
+> denied that it had reached an agreement with the unions.”° Its failure to follow
+> through and to belatedly raise the issue on financial incapacity to delay the
+> execution of the CBA were anathema to good faith bargaining.”' Ineluctably,
+> the Court affirmed the NLRC in declaring that the final draft submitted to the
+> NCMB should serve as the parties’ CBA for June 1, 2009 to May 31, 2014.”
+>
+> Ensuingly, the Court’s July 13, 2016 Decision in G.R. No. 204693
+> became final and executory on October 18, 2016.” Following their receipt of
+> the notice of entry of judgment in G.R. No. 204693, the unions moved to
+> execute the NLRC judgment on March 22, 2017.”
+>
+> In its Order,?> the NLRC directed the immediate issuance of a writ of
+> execution to collect from GNC the monetary award of PHP 4,676,288.32,
+> covering the unimplemented economic benefits under the parties’ CBA, Le.,
+> rice subsidy, longevity pay, emergency relief allowance, and signing bonus.”°
+>
+> GNC moved for reconsideration,*’ but the same was rebuffed by the
+> NLRC in its Resolution.** GNC then sought recourse before the CA.”
+>
+> In the impugned Decision, the CA partly granted the petition and
+> excluded the signing bonus from the monetary award granted by the NLRC.
+> However, it maintained the award for rice subsidy, longevity pay, and
+> emergency relief allowance in favor of the unions.*® The CA held that in G.R.
+> No. 204693, this Court affirmed the implementation of the final draft of the
+> CBA as the parties’ actual CBA for the years 2009-2014. It follows that the
+> NLRC has the authority to implement the same in favor of the unions.°!
+> Notably, the awards granted by the NLRC are based on the terms of the CBA
+> itself. GNC was afforded the opportunity to present its own accounting in the
+> pre-execution conference, but it failed to do so, thus constituting a waiver to
+> submit the same.°** Hence, no grave abuse of discretion may be attributed to
+> the labor tribunal in issuing the writ of execution?’ The foregoing
+>
+> 20 Id. at 125.
+>
+> 1 Id. at 124-125.
+>
+> 22 Id. at 126.
+>
+> 23 Id. at 131, Entry of Judgment dated October 18, 2016.
+>
+> 24 Id. at 163-172, Motion for Execution.
+>
+> 2 Id. at 85-94. The August 31, 2017 Order in LCC Case No. 07-000005-10 was rendered by Commissioner
+> Nieves E. Vivar-De Castro, with the concurrence of Presiding Commissioner Joseph Gerard E. Mabilog
+> and Commissioner Isabel G. Panganiban-Ortiguerra of the Sixth Division, NLRC.
+>
+> 26 Id. at 93-94,
+>
+> 27 Id. at 220-223. :
+>
+> *8 Id. at 96-98. Dated September 29, 2017.
+>
+> 29 Id. at 61-81, Petition for Certiorari with Urgent Motion for Issuance of Temporary Restraining Order
+> and/or Writ of Preliminary Injunction.
+>
+> 30 Id. at 54.
+>
+> 31 Jd. at 49.
+> 32 Td. at 52.
+> 33 Id. at 48.
+>
+>
+> Decision 5 | G.R. No. 252101
+>
+> _ notwithstanding, the grant of a signing bonus must be reversed in obeisance
+> to prevailing jurisprudence.**
+>
+> Dissatisfied, both parties moved for partial reconsideration.** In the
+> oppugned Amended Decision, the CA still maintained the modified award in
+> favor of the unions, but nevertheless clarified that they are not required to
+> reimburse any amount to GNC received as “signing bonus,” considering that
+> the latter denied ever giving such bonus to the former.*®
+>
+> Aggrieved, GNC filed the present Petition. On the main, it argues that
+> the NLRC gravely abused its discretion in issuing the writ of execution
+> notwithstanding the fact that the Decision it sought to execute did not contain
+> a judgment for any monetary award, and despite the Court’s categorical
+> pronouncement in G.R. No. 204693 that the unions’ “charge of unilateral
+> withdrawal of benefits against GNC [is] without basis.”°”7 GNC maintains that
+> the enforcement of the parties’ rights under the CBA is an economic issue that
+> should have undergone voluntary arbitration.*° Likewise, it charges the unions
+> with sleeping on their rights as LCC No. 07-000005-10 had already become
+> final and executory on June 22, 2011, but they did nothing to enforce the same
+> until six years later.°?
+>
+> issue
+> Did the CA errin upholding the writ of execution issued against GNC?
+> The Court’s Ruling
+>
+> At the outset, the Court resolves to dispense with the filing of the
+> comment on the Petition, owing to the unions’ failure to do so within the
+> period provided in the Court’s September 14, 2020 Resolution.””
+>
+> After a judicious rumination of the records of this case, the Court
+> resolves to partly grant the Petition.
+>
+> At the core of the controversy is the extent of the NLRC’s jurisdiction
+> to enforce the March 31, 2011 Decision in LCC Case No. 07-000005-10,
+> which declared the final draft of the CBA as the actual CBA between the
+> parties effective June 1, 2009 up to May 31, 2014.
+>
+> 34 Td. at 53.
+>
+> 35 Jd. at 538-542, Motion for Partial Reconsideration filed by GNC; 538-542, Partial Motion for
+> Reconsideration filed by the unions.
+>
+> 36 Id. at 58.
+>
+> 37 Td. at 20-21.
+>
+> 38 Id. at 33-34.
+>
+> 39 Id. at 32. 4
+>
+> 40 Id. at 631.
+>
+>
+> Decision 6 G.R. No. 252101
+>
+> GNC adamantly espouses the view that since neither the March 31,
+> 2011 Decision of the NLRC in LCC Case No. 07-000005-10 nor the July 13,
+> 2016 Decision of the Court in G.R. No. 204693 contained a monetary award
+> in their fallo, the NLRC could not grant the same by way of a writ of execution
+> as doing so would effectively alter an otherwise final and executory
+> judgment."!
+>
+> This contention cannot pass judicial muster.
+>
+> The jurisdiction of the NLRC is enshrined under Article 224 of the
+> Labor Code and includes complaints for “unfair labor practice cases” and
+> cases involving violations to the duty to bargain collectively under Article
+> 264.” It likewise may take cognizance of labor disputes certified by the
+> Secretary of Labor and Employment for compulsory arbitration cases.”
+> However, cases arising from the interpretation or implementation of a CBA
+> must be referred to the grievance machinery and voluntary arbitration per the
+> terms of the said agreement.”
+>
+> Given the foregoing, the question becomes whether or not the NLRC
+> may execute the provisions of a CBA if the nature of the action it proceeds
+> from is a certified compulsory arbitration stemming from alleged unfair labor
+> practice and violations to the duty to bargain collectively under Article 264.
+>
+> Upon due consideration, the Court answers in the affirmative in this
+>
+> 41 Td. at 10-11.
+>
+> 42 LABOR CODE, as renumbered in 2015, art. 224, which reads:
+> Jurisdiction of the Labor Arbiters and the Commission. — (a) Except as otherwise provided under this
+> Code, the Labor Arbiters shall have original and exclusive jurisdiction to hear and decide, within thirty
+> (30) calendar days after the submission of the case by the parties for decision without extension, even in
+> the absence of stenographic notes, the following cases involving all workers, whether agricultural or
+> non-agricultural:
+> (1) Unfair labor practice cases;
+>
+> (5) Cases arising from any violation of Article 264 of this Code, including questions involving the
+> legality of strikes and lockouts[.]
+>
+> 43 LABOR CODE, as renumbered in 2015, art. 278, which reads:
+> Strikes, Picketing, and Lockouts. — ...
+>
+> (g) When, in his opinion, there exists a labor dispute causing or likely to cause a strike or lockout in an
+> industry indispensable to the national interest, the Secretary of Labor and Employment may assume
+> jurisdiction over the dispute and decide it or certify the same to the Commission for compulsory
+> arbitration. Such assumption or certification shall have the effect of automatically enjoining the intended
+> or impending strike or lockout as specified in the assumption or certification order. If one has already
+> taken place at the time of assumption or certification, all striking or locked out employees shall
+> immediately return to work and the employer shall immediately resume operations and readmit all
+> workers under the same terms and conditions prevailing before the strike or lockout. The Secretary of
+> Labor and Employment or the Commission may seek the assistance of law enforcement agencies to
+> ensure compliance with this provision as well as with such orders as he may issue to enforce the same.
+> 44 LABOR CODE, as renumbered in 2015, art. 224(c), which reads:
+>
+> (c) Cases arising from the interpretation or implementation of collective bargaining agreements and
+> those arising from the interpretation or enforcement of company personnel policies shall be disposed of
+> by the Labor Arbiter by referring the same to the grievance machinery and voluntary arbitration as may
+> be provided in said agreements.
+>
+>
+> Decision | 7 G.R. No. 252101
+>
+> particular instance.
+>
+> Preliminarily, it must be clarified that the power to enforce the terms of
+> the CBA, including the redress of perceived violations thereof, does not reside
+> exclusively with the voluntary arbitrators. The Labor Code itself recognizes
+> that the NLRC may exercise jurisdiction when it involves gross violations of
+> CBAs as to amount to unfair labor practice:
+>
+> ARTICLE 274. [261] Jurisdiction of Voluntary Arbitrators and
+> Panel of Voluntary Arbitrators. — The Voluntary Arbitrator or panel of
+> Voluntary Arbitrators shall have original and exclusive jurisdiction to hear
+> and decide all unresolved grievances arising from the interpretation or
+> implementation of the Collective Bargaining Agreement and those arising
+> from the interpretation or enforcement of company personnel policies
+> referred to in the immediately preceding article. Accordingly, violations of
+> a Collective Bargaining Agreement, except those which are-gross in
+> character, shall no longer be treated as unfair labor practice and shall be
+> resolved as grievances under the Collective Bargaining Agreement. For
+> purposes of this article, gross violations of Collective Bargaining
+> Agreement shall mean flagrant and/or malicious refusal to comply with the
+> economic provisions of such agreement. (Emphasis supplied)
+>
+> It is likewise a basic principle that a grant of jurisdiction, barring
+> prohibitive legislation, “implies the necessary and usual incidental powers
+> essential to effectuate it—also referred to as ‘incidental jurisdiction.’””° This
+> attaches to the tribunal upon conferment of jurisdiction over the main case and
+> “includes the power and authority of an office or tribunal to do all things
+> reasonably necessary for the administration of justice within the scope of its
+> jurisdiction, and for the enforcement of its judgment and mandates.””°
+>
+> As above-recounted, LCC Case No. 07-000005-10 is a compulsory
+> arbitration case borne of the breakdown of negotiations between the parties
+> which would have resulted in a strike had the Secretary of Labor and
+> Employment not assumed jurisdiction over the dispute.*” There, the NLRC
+> found GNC guilty of unfair labor practices in bargaining in bad faith with the
+> unions and held that the final draft of the CBA presented before the NCMB
+> would become the final governing CBA between the parties for years 2009 to
+> 2014.48 In so deciding, the NLRC necessarily assessed the terms of the CBA
+> and whether it was just and equitable for both parties. Therefore, it stands to
+> reason that it would be in the best position to enforce the same since the
+> relationship between the parties had already soured from the lengthy legal
+> dispute over the increase in economic benefits. To adopt the stance of GNC
+> that the parties should engage the grievance machinery and submit the case
+>
+> 45 University of the Immaculate Conception v. Office of the Secretary of Labor and Employment, 769 Phil.
+> 630, 648 (2015) [Per J. Jardeleza, Third Division]. (Citation omitted)
+>
+> 46 Jd. (Emphasis supplied)
+>
+> 47 Rollo, pp. 133-134.
+>
+> 48 Jd. at 156-157.
+>
+>
+> Decision § G.R. No. 252101
+>
+> before a voluntary arbitrator to implement the terms of the CBA would only
+> promote multiplicity of suits and further proiong the settlement of rights and
+> obligations between the parties.
+>
+> Indeed, the power of the NLRC to execute its rulings is not a blind
+> ministerial act. In fact, its power “carries with it the right to look into the
+> correctness of the execution of the decision and to consider supervening
+> events that may affect such execution.” Necessarily, it would better promote
+> the ends of justice to recognize the authority of the NLRC to continue to
+> enforce the provisions of the CBA which GNC has been reticent to adhere to.
+>
+> Nonetheless, the Court must clarify that the NLRC acted in excess of
+> its jurisdiction on two counts: first, it could not enforce the signing bonus
+> against GNC;°° and second, it erred in its computation as it awarded the
+> “unimplemented CBA benefits since June [1,| 2009 up to the present
+> date[.]”>!
+>
+> On the first point, the CA correctly held that the signing bonus could
+> not be granted to the employees for lack of goodwill between. the parties.
+>
+> A signing bonus is a grant motivated by the goodwill generated when a
+> CBA is successfully negotiated and signed between the employer and the
+> union. In the instant case, no CBA was successfully negotiated by the
+> parties.°?
+>
+> While the potential signing bonus is part and parcel of the terms of the
+> CBA, it cannot be awarded in this instance. Considering that the negotiations
+> between the parties were unsuccessful and the CBA itself was only imposed
+> by the NLRC, no signing bonus can be awarded to the unions given its nature
+> as a “sign of goodwill” between the parties.
+>
+> On the second point, the NLRC accepted the computation submitted by
+> the unions for the unimplemented CBA benefits, which were reckoned since
+> June 1, 2009 up to the present date, which, at the time, was 2017.
+>
+> However, it should be borne in mind that the March 31, 2011 Decision
+> which the NLRC was executing implemented a CBA that was intended to
+> govern the relationship of the parties between June 1, 2009 and May 31,
+> 2014.°>
+>
+> 49 Sampaguita Garments Corp. v. NLRC, 303 Phil. 276, 281 (1994) [Per J. Cruz, First Division]. (Citation
+> omitted)
+>
+> 90 - Rollo, p. 94.
+>
+> 5! Jd. at 87.
+>
+> 92 Id. at 53.
+>
+> 53 University of Sto. Tomas v. Samahang Manggagawa ng UST (SM-UST), 616 Phil. 474, 497 (2009) [Per
+> J. Ynares-Santiago, Third Division]. (Citation omitted)
+>
+> °* ‘Rollo, p. 87.
+>
+> °° Jd. at 157.
+>
+>
+> Decision 9 G.R. No. 252101
+>
+> In applying the provisions of this CBA beyond the period of May 31,
+> 2014, the NLRC inadvertently altered the terms of its own final and executory
+> decision. As above-stated, while the NLRC has incidental jurisdiction to give
+> effect to its rulings and may consider the supervening events that may affect
+> the execution thereof, it cannot alter the metes and bounds of a final and
+> executory decision. Invariably, the doctrine of immutability of judgment
+> applies just the same to the NLRC and is based on sound public policy.”
+> While there are exceptions to this principle,°’ none are applicable to the case
+> at bench. :
+>
+> In the case of General Milling Corporation-Independent Labor Union
+> (GMC-ILU) v. General Milling Corporation,** the Court upheld the NLRC’s
+> grant of a monetary award in favor of employees during the execution stage
+> of a decision instituting a CBA between the parties, but limited the sum to the
+> remaining two-year duration of the original CBA as provided in the NLRC’s
+> original decision:
+>
+> Consequently, insofar as the execution of the 30 January 1998
+> decision is concerned, the Union is out on a limb in espousing a computation
+> which extends the benefits of the imposed CBA beyond the remaining two-
+> year duration of the original CBA. The rule is, after all, settled that an order
+> of execution which varies-the tenor of the judgment.or exceeds the terms
+> thereof is a nullity. Since execution not in harmony with the judgment is
+> bereft of validity, it must conform, more particularly, to that ordained or
+> decreed in the dispositive portion of the decision sought to be enforced.
+> Considering that the decision sought to be enforced pertains to the
+> period 1 December 1991 to 30 November 1993, it necessarily follows
+> that the computation of benefits under the imposed CBA should be
+> limited to covered employees who were in GMC’s employ during said
+> period of time. While it is true that the provisions of the imposed CBA
+> extend beyond said remaining two-year duration of the original CBA in
+> view of the parties’ admitted failure to conclude a new CBA, the
+> corresponding computation of the benefits accruing in favor of GMC’s
+> covered employees after the term of the original CBA was correctly
+> excluded in the aforesaid 27 October 2005 order issued in RAB VII-06-
+> 0475-1992. Rather than the abbreviated pre-execution proceedings before
+> Executive Labor Arbiter Violeta Ortiz-Bantug, the computation of the same
+> benefits beyond 30 November 1993 should, instead, be threshed out by
+> GMC and the Union in accordance with the Grievance Procedure outlined
+> as follows under Article XII of the imposed CBA[.]°’ (Emphasis supplied;
+> citations omitted)
+>
+> Applied to the case at bench, the NLRC should confine its computation
+> of benefits up to May 31, 2014 only. Any dispute as to the economic benefits
+> awardable after said date, including the covered employees thereof, should
+>
+> 56 See Toledo Construction Corp. Employees’ Association-ADLO-KMU y. Toledo Construction Corp., 932
+> Phil. 239, 273 (2022) [Per J. Leonen, Second Division]. (Citations omitted)
+>
+> 7 See id. at 274.
+>
+> 58 667 Phil. 371 (2011) [Per J. Perez, First Division].
+>
+> 9 Id. at 388-389. 4
+>
+>
+> Decision 10 G.R. No. 252101
+>
+> undergo the usual grievance machinery and referral to voluntary arbitration as
+> contained in the parties’ CBA.°°
+>
+> Corollary thereto, there is no merit in GNC’s contention that the writ of
+> execution contradicts the Court’s pronouncement in G.R. No. 204693 that the
+> unions’ “charge of unilateral withdrawal of benefits against GNC [is] without
+> basis.”©! Evidently, GNC has misconstrued the Court’s ruling. The charge of
+> unilateral withdrawal was supposedly committed during a specific period
+> between 2009 and 2011. But the unions’ failure to prove that there was
+> withdrawal of benefits during the said period does not mean that GNC was
+> able to pay the increased benefits for the entire effectivity period of June 1,
+> 2009 to May 31, 2014. In fact, the Court, in G.R. No. 204693, expressly stated
+> that while the charge of unilateral withdrawal of benefits was without basis,
+> “Jet it be made clear that this does not have any effect and therefore does not
+> change the finding that GNC committed a violation of its duty to bargain as
+> extensively discussed above.”
+>
+> GNC’s argument that the unions slept on their rights is equally
+> unavailing. The unions may not be faulted for awaiting the finality of the
+> Court’s Decision in G.R. No. 204693 before moving to execute the NLRC’s
+> ruling. This exercise of caution and respect shown to the Court’s processes
+> shall not work to its prejudice.
+>
+> ACCORDINGLY, the Petition for Review on Certiorari is PARTLY
+> GRANTED. The October 10, 2019 Decision and the February 21, 2020
+> Amended Decision of the Court of Appeals in CA-G.R. SP No. 152938 are
+> SET ASIDE insofar as they uphold the computation of award of economic
+> benefits to respondents Guagua National Colleges Faculty Labor Union and
+> Guagua National Colleges Non-Teaching and Maintenance Labor Union
+> beyond the May 31, 2014 effectivity period of their Collective Bargaining
+> Agreement with petitioner Guagua National Colleges.
+>
+> The case is REMANDED to the National Labor Relations Commission
+> for the execution of the award in accordance with this Decision.
+>
+> SO ORDERED.
+>
+> 6 Rollo, pp. 182-185, CBA.
+>
+> 61 fd. at 20-21.
+>
+> 62 Guagua National Colleges v. Guagua National Colleges Faculty Labor Union, 790 Phil. 106, 140 (2016)
+> [Per J. Del Castillo, Second Division].
+>
+>
+> Decision 11 G.R. No. 252101
+>
+> WE CONCUR:
+>
+> BENJAMIN S. CAGUIOA
+>
+> 4 skocia e Justice
+>
+> Associate Justice Associate Justice
+>
+> On leave
+> MARIA FILOMENA D. SINGH
+> Associate Justice
+>
+> ATTESTATION
+>
+> I attest that the conclusions in the a othe wrlter, had been reached in
+> consultation before the case was assigned tof Ahe wri ter of the opinion of the
+> Court’s Division. a :
+>
+> : frlocted Justice
+> Chairperson, Third Division
+>
+> CERTIFICATION
+>
+> Pursuant to Article VIT, Section 13 of the Constitution and the Division
+> Chairperson’s Attestation, I certify that the conclusions in the above Decision
+> had been reached in consultation before the case was assigned to the writer of
+> the opinion of this Court.
+>
+> REESE . CESMUNDO
+> ° ay Justice

@@ -1,0 +1,562 @@
+# GR-222957-CAGUIOA
+
+**Separate Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: Separate Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: THIRD DIVISION
+- **Type**: Decision
+- **Date**: March 29, 2023
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2023/07/222957-CAGUIOA.pdf)
+
+---
+
+> THIRD DIVISION
+> G.R. No. 222957 -ATTY. ROGELIO B. DE GUZMAN,petitioner versus
+> SPOUSES BARTOLOME AND SUSAN SANTOS, respondents.
+> Promulgated:
+> March 29, 2023
+> x- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -':A-~~~~'§~~ - - - - - - - - - - -x
+> SEPARATE OPINION
+> CAGUIOA, J.:
+> The ponencia in the above-captioned case grants the Petition I and
+> reverses and sets aside the assailed Decision2 dated December 18, 2014 and
+> Resolution3 dated February 18, 2016 of the Court of Appeals (CA) in CA
+> G .R. CV No. 100706 finding that the Contract between the parties is a contract
+> to sell and cannot be rescinded. While I agree with the grant of the Petition, I
+> arrive at a different conclusion on the nature of the contract in this case.
+> To recall, respondents-spouses Bartolome and Susan Santos
+> (respondents) agreed to purchase the property covered by Transfer Certificate
+> of Title (TCT) No. 5788 registered under the name of petitioner Atty. Rogelio
+> B. De Guzman (petitioner) for the price of Pl,500,000.00 with a
+> downpayment of P250,000.00 and monthly installment of P15,000.00.4 Thus,
+> they entered into a Contract to Sell dated November 2000. However, after
+> paying the downpayment, respondents changed their mind and sought the
+> refund of ?208,500.00 deducting therefrom what they considered as the
+> reasonable amount of rent for their stay in the property as well as commission
+> paid to the agent. 5 Respondents filed a complaint for rescission, recovery of
+> down payment plus damages against petitioner.6
+> The Regional Trial Court (RT C) initially dismissed respondents'
+> complaint for lack of cause of action and ordered them to pay the balance of
+> the house and lot with 9% interest. 7 Respondents then filed a motion for new
+> trial on the basis of their discovery that petitioner had sold the property to
+> another person while the case was pending before the court.8 The RTC granted
+> the motion. After trial, it issued an Order dated January 31, 2013 setting aside
+> Rollo, pp. 8-36.
+> Id. at 38-49. Penned by Associate Justice Vicente S.E. Veloso, with Associate Justices Jane Aurora C.
+> Lantion and Nina G. Antonio-Valenzuela concWTing.
+> Id. at 57-58. Penned by Associate Justice Jane Aurora C. Lantion, with Associate Justices Amy C.
+> Lazaro-Javier (now a member of this Court) and Nina G. Antonio-Valenzuela concurring.
+> Id. at 14-15, Petition.
+> Id. at 45, CA Decision.
+> Id.
+> 7 Ponencia, pp. 2-3.
+> Id. at 3.
+>
+> Separate Opinion 2 G.R. No. 222957
+> its earlier decision and declared the Contract to Sell as rescinded. Petitioner
+> was ordered to return the downpayment of respondents, less reasonable rent.9
+> On appeal, the CA affirmed the RTC's Order. The CA found that
+> petitioner was guilty of bad· faith, deception, and fraud when it sold the
+> property to a third person during the pendency of the case without notifying
+> the court and respondents.10 Such transfer rendered the enforcement of the
+> Contract to Sell between the parties moot and academic. 11 The CA upheld the
+> RTC' s grant of new trial and held that its order of rescission and refund against
+> petitioner was justified in the broader interest of justice and equity. 12
+> Petitioner filed the instant Petition before the Court arguing that the
+> remedy of rescission is not applicable to a contract to sell. Respondents'
+> failure to pay the monthly installments rendered the contract ineffective.13
+> Moreover, the Contract to Sell provides for the automatic cancellation of the
+> contract and forfeiture of all payments made upon default in three monthly
+> installment payments.14
+> The ponencia grants the Petition and makes the following findings:
+> 1. The contract between the parties is a contract to sell. Prevailing
+> jurisprudence defines a contract to sell as a bilateral contract
+> whereby a prospective seller, while expressly reserving the
+> ownership of the subject property despite delivery thereof to the
+> prospective buyer, binds himself or herself to sell the said property
+> exclusively to the prospective buyer upon fulfillment of the
+> condition agreed upon, that is, full payment of the purchase price.15
+> In a contract to sell, full payment is a positive suspensive condition,
+> the non-fulfillment of which does not constitute a breach of contract,
+> but merely an event which prevents the seller from conveying title
+> to the buyer. Thus, the remedies of specific performance or
+> rescission is not available. The buyer's non-payment only renders
+> the contract to sell ineffective and without force and effect.16
+> 2. In a contract to sell, the seller has no obligation to transfer ownership
+> over the property to the intending buyer until they execute a contract
+> of sale after full payment of the purchase price, even if they have
+> already entered into a contract to sell. The seller retains freedom and
+> legal right to sell the property to a third person before the intending
+> buyer's full payment of the purchase price. In such a situation, there
+> is no defect in the seller's title per se.17
+> 9 Id.
+> 10 Id. at 5.
+> 11 Id. at 5-6.
+> 12 Id. at 6.
+> 13 Id.
+> 14 Id.
+> 15 Id. at 7.
+> 16 Id.
+> 17 Id. at 8.
+>
+> Separate Opinion 3 G.R. No. 222957
+> 3. Based on the foregoing, the CA erred in affirming the rescission of
+> the Contract to Sell and ordering petitioner to reimburse
+> respondents. Petitioner's sale to a third party was legal because there
+> was still no defect in his title at the time since respondents failed to
+> pay the purchase price. Although petitioner may have acted in bad
+> faith when he sold the property to another pending litigation, this
+> was not a legal ground for rescission under Article 1381 of the New
+> Civil Code (Code). Necessarily, the order of reimbursement is also
+> erroneous.18
+> 4. The parties first in bad faith were respondents as they failed to
+> comply with the Contract to Sell when they occupied the property
+> for four months and deliberately did not pay a single installment
+> agreed upon. They then abandoned the property. Meanwhile,
+> petitioner was similarly at fault when he sold the property to another
+> buyer during the trial stage without any judicial authorization
+> making the enforcement of the contract moot and academic. Since
+> petitioner was also a lawyer, the unauthorized sale likewise
+> constituted a violation of his duties to the court. Consequently, the
+> parties are not entitled to seek protection from the courts as parties
+> who come to court with unclean hands must not be allowed to profit
+> from their own wrongdoings. 19
+> 5. The Contract to Sell provides that the dishonor of three checks
+> covering payments of the installments due shall result in the
+> automatic cancellation of the contract and forfeiture of all payments
+> made. By clear provision of the contract and respondents' admission
+> of default for four months, the Contract to Sell was automatically
+> cancelled and the down payment made by them was forfeited. 20
+> Again, while I agree with the application of the cancellation provision
+> in the Contract, I believe the parties herein did not enter into a contract to sell.
+> Contrary to the ponencia's finding, the contract herein is one of sale.
+> The contract between the parties
+> is a contract ofs ale not a contract
+> to sell.
+> The contract denominated as a "Contract to Sell" provides the
+> following stipulations:
+> "WHEREAS, the Vendee is willing to purchase the afore-cited
+> house and lot in installment in view of the flooding of their house and the
+> consequential financial difficulties encountered therefrom.
+> WHEREAS, the Vendor took into consideration the reasons and
+> immediate need of the Vendees."
+> 18 Id. at 9.
+> 19 Id. at 9-10.
+> 20 Id. at 10-11.
+>
+> Separate Opinion 4 G.R. No. 222957
+> NOW, THEREFORE, for and in consideration of the foregoing
+> premises, the Vendor hereby agrees to sell to the Vendees the above
+> described parcel of land, with all the improvements thereon, under the
+> following terms and conditions:
+> 1. The purchase price of the house and lot is ONE MILLION
+> FIVE HUNDRED THOUSAND PESOS (Pl,500,000.00), Philippine
+> Currency, payable by the Vendees as follows:
+> a. Two Hundred Fifty Thousand Pesos (P250,000.00) upon the signing
+> of this Contract;
+> b. The balance of One Million Two Hundred Fifty Thousand Pesos
+> (Pl,250,000.00) shall be paid in equal installment of FIFTEEN
+> THOUSAND PESOS (Pl 5,000.00) Philippine Currency, every month with
+> an interest of Nine Percent (9%) per annum the total amount of which shall
+> be computed and paid after full payment of the principal amount hereof;
+> c. The Vendees shall issue upon signing hereof twelve (12) checks as
+> payment for every year installment of twelve (12) months encashable every
+> last day of the month and every year thereafter until the total amount hereof
+> is actually and fully paid;
+> d. The Vendees shall avoid dishonor of any of the checks they will
+> issue in payment of the house and lot of the Vendor, otherwise, any three
+> (3) successive dishonor of the said checks shall be a ground for automatic
+> cancellation of this Contract and forfeiture of all payment made to the
+> Vendor[;]
+> 2. The Vendees can take immediate physical and peaceful possession
+> of the property subject hereof upon signing of this Contract[;]
+> 3. The Vendor warrants that the property subject hereof is free from
+> any lien or encumbrance;
+> 4. The Vendees shall comply with all laws and Municipal ordinances
+> and all regulations of the Homeowner' s Association of the subdivision;
+> 5. Upon full payment of the agreed considerations hereof, the Vendor
+> hereby warrants to transfer and convey title in fee simple over the property
+> subject hereof in the name of the Vendees." x x x21 (Emphasis and citation
+> omitted)
+> The ponencia is accurate in describing current jurisprudence as
+> defining a contract to sell as a bilateral contract whereby the prospective
+> seller, while expressly reserving the ownership of the subject property despite
+> its delivery to the prospective buyer, commits to sell the prope1iy
+> exclusively to the prospective buyer upon full payment of the purchase
+> price.22 Full payment is deemed a positive suspensive condition.23 In Coronel
+> v. CA, 24 the Court provides an extensive discussion of the nature of a contract
+> to sell as follows:
+> 21 Rollo, pp. 22-23, Petition.
+> 22 Ponencia, p. 7.
+> 23 Platinum Plans Phil. Inc. v. Cucueco, 522 Phil. 133, 144 (2006).
+> 24 331 Phil. 294 ( 1996).
+>
+> Separate Opinion 5 G.R. No. 222957
+> A contract to sell may thus be defined as a bilateral contract whereby
+> the prospective seller, while expressly reserving the ownership of the
+> subject property despite delivery thereof to the prospective buyer, binds
+> himself to sell the said property exclusively to the prospective buyer upon
+> fulfillment of the condition agreed upon, that is, full payment of the
+> purchase price.
+> A contract to sell as defined hereinabove, may not even be
+> considered as a conditional contract of sale where the seller may likewise
+> reserve title to the property subject of the sale until the fulfillment of a
+> suspensive condition, because in a conditional contract of sale, the first
+> element of consent is present, although it is conditioned upon the
+> happening of a contingent event which may or may not occur. If the
+> suspensive condition is not fulfilled, the perfection of the contract of sale is
+> completely abated ( cf. Homesite and Housing Corp. vs. Court ofA ppeals,
+> 133 SCRA 777 [J 984)). However, if the suspensive condition is fulfilled,
+> the contract of sale is thereby perfected, such that if there had already been
+> previous delivery of the property subject of the sale to the buyer, ownership
+> thereto automatically transfers to the buyer by operation of law without any
+> further act having to be performed by the seller.
+> In a contract to sell, upon the fulfillment of the suspensive condition
+> which is the full payment of the purchase price, ownership will not
+> automatically transfer to the buyer although the property may have been
+> previously delivered to him. The prospective seller still has to convey title
+> to the prospective buyer by entering into a contract of absolute sale.25
+> (Italics in the original)
+> Applying the foregoing discussion, the contract between the parties
+> herein indeed falls under the current jurisprudential definition of a contract to
+> sell. However, I believe that it is high time for the Court to revisit the concept
+> of a contract to sell as it is presently understood.
+> According to Article 1458 of the Code, "[b] y the contract of sale, one
+> of the contracting parties obligates himself to transfer the ownership of and to
+> deliver a determinate thing, and the other to pay therefor a price certain in
+> money or its equivalent. A contract of sale may be absolute or conditional."
+> In determining the true nature of a contract, the denomination given by the
+> parties is not controlling.26
+> As to the perfection of a contract of sale, Article 14 7 5 of the Code
+> provides:
+> Art. 1475. The contract of sale is perfected at the moment there is a
+> meeting of minds upon the thing which is the object of the contract and upon
+> the price.
+> From that moment, the parties may reciprocally demand
+> performance, subject to the provisions of the law governing the form of
+> contracts. (1450a)
+> 25 Id. at 310-311.
+> 26 Romero v. CA, 320 Phil. 269,280 (1995).
+>
+> Separate Opinion 6 G.R. No. 222957
+> Based on the above-mentioned provision of law, contracts of sale are
+> perfected as soon as the parties agree upon the object of the contract and the
+> price thereof. These two codal provisions find their root in the Spanish Civil
+> Code provisions on Purchase and Sale. Specifically, Articles 1458 and 1475
+> of the Code were adopted from Articles 1445 and 1450 of the Spanish Civil
+> Code, respectively, to wit:
+> ARTICLE 1445. By the contract of purchase and sale one of the
+> contracting parties binds himself to deliver a determinate thing and the other
+> to pay a certain price therefor in money or in something representing the
+> same.
+> xxxx
+> ARTICLE 1450. The sale shall be perfected between vendor and
+> purchaser and shall be binding upon both of them if they have agreed upon
+> the thing which is the subject-matter of the contract and upon the price, even
+> if neither has been delivered.
+> Thus, a contract of sale in both the Spanish Civil Code and the present
+> Code is consensual in nature.27 It is perfected at the moment there is a meeting
+> of the minds upon the thing which is the object of the contract and upon the
+> price.28 The seller is not even required to have the right to transfer ownership
+> of the object of the sale at the time of its perfection.29 What is required is that
+> the owner must have a right to transfer the ownership thereof at the time it is
+> delivered.30
+> Applying Articles 1458 and 1475 of the Code to the present case, and
+> mindful of their Spanish origins, all the elements of a perfected contract of
+> sale are present. Here, the parties consented to the transfer of a house and lot
+> under TCT No. 5788 registered in the name of petitioner for the purchase price
+> of Pl,500,000.00. Clearly, there is already a meeting of the minds of the
+> parties as to the thing which is the object of the contract as well as the price
+> thereof. The provision on transfer of ownership until full payment did not
+> make the contract anything less than a sale. After all, Article 1478 of the Code
+> allows parties in a contract of sale to stipulate that ownership shall not pass
+> until the purchaser has fully paid the price, viz.:
+> Art. 1478. The parties may stipulate that ownership in the thing
+> shall not pass to the purchaser until he has fully paid the price. (n)
+> Thus, the stipulation providing for transfer of title only after full payment
+> did not make the contract anything other than a contract of sale as defined by
+> the foregoing provisions. I therefore question the current understanding of a
+> contract to sell. For one, as mentioned, perfection of a contract of sale does
+> 27 See Heirs of Villeza v. Aliangan, G.R. No. 244667-69 (formerly UDK 16373-75), December 2, 2020,
+> accessed at <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/67034>; see also J. Barredo,
+> Dissenting Opinion in Luzon Brokerage Co., Inc. v. Maritime Building Co., Inc., 150-8 Phil. 264, 349-
+> 350 (1972).
+> 28 Heirs of Villeza v. Aliangan, id.
+> 29 Id.
+> 30 NEW CIVIL CODE, Art. 1459.
+>
+> Separate Opinion 7 G.R. No. 222957
+> not require the transfer of ownership. Moreover, how can payment of the price
+> be deemed a positive suspensive condition in the perfection of a contract of
+> sale when it is the very prestation of the buyer?
+> The proposition pushed forth herein is not new as this was the very
+> argument of Justice Antonio Barredo (Justice Barredo) in his Dissenting
+> Opinion in Luzon Brokerage Co., Inc. v. Maritime Building Co., Jnc.31 (Luzon
+> Brokerage). In the said case, what was involved was a contract, denominated
+> as a "Deed of Conditional Sale," for the sale of property paid in installment
+> with reservation of title until full payment of the purchase price, and with
+> automatic cancellation in case of non-payment of any installment. The Court
+> therein, speaking through Justice Benedicto Luis L. "J.B.L." Reyes,
+> determined that the agreement between the parties was a contract to sell.
+> However, contrary to the majority, Justice Barredo, with concurrence from
+> Justice Calixto 0. Zaldivar and Justice Felix Q. Antonio, believed that the
+> contract was one of sale.32 Justice Barredo likewise put into issue the
+> conceptualization of a contract to sell, viz.:
+> The stipulation providing for
+> transfer of title only after full
+> payment did not stamp the
+> transaction with the character
+> ofa mere promise to sell -full
+> payment was a suspensive
+> condition for the execution of
+> the final deed as the form of
+> tradition of title while non
+> payment was a resolutory
+> condition with confiscation as a
+> penalty clause.
+> I must state at this juncture that what makes the case at bar difficult
+> and seemingly complicated is the long line of decisions We have to
+> reexamine if We must straighten out once and for all the juridical
+> conceptualization We have attached to the nature of the agreement
+> embodied in the "Deed" in question. At least inferentially, if not directly,
+> We refer to it as "a promise to sell immovable property, where title remains
+> with the vendor until fulfillment to a positive suspensive condition, such as
+> the full payment of the price," citing apparently in support of such
+> conceptualization the cases of Santero and Inquimboy, supra, and Jocson vs.
+> Capitol, G.R. No. L-6573, February 28, 1955; Miranda vs. Caridad, G.R.
+> No. L-2077 and Aspuria vs. Caridad, G.R. No. L-2721, both of October 3,
+> 1950.
+> As I have said, I have read and studied all these decisions, for no
+> other reason than that I have always been intrigued by what is meant by a
+> promise to sell an immovable with reservation of title and I naturally
+> checked if the cited decisions have indeed formulated such a rather vague
+> juridical concept which to my mind implies a juridically inconceivable
+> 31 See supra note 27.
+> 32 Note that the case was later the subject of a second motion for reconsideration (2nd MR) under a 15-
+> Member Court (with four remaining Members who originally voted on the case). The denial of the 2nd
+> MR was penned by Justice Claudio 0. Teehankee, but with a divided Court (seven voting to grant the
+> 2nd MR, including Justice Barredo).
+>
+> Separate Opinion 8 G.R. No. 222957
+> notion. What I mean is simply that when one talks of a promise to sell
+> with reservation of title, it is as if it were possible to have a promise to
+> sell with delivery of title. Unless I am gravely mistaken, I am afraid that
+> juridically it is quite absurd to think of a promise to sell with the title of the
+> property promised to be sold being delivered immediately. It is very
+> common to come across promises to sell where possession is transferred
+> simultaneously upon the perfection or execution of the agreement, but I
+> have yet to know of a case where title itself is so transferred.
+> What renders the idea of a promise to sell with reservation more
+> perplexing to me is that in the Spanish law on sales, as
+> contradistinguished from the concept of sales in American law, a
+> contract of sale is purely consensual and does not necessarily involve
+> the transfer of title except when it is so stipulated or when the sale is
+> made in a public instrument, since the latter is in itself a form of
+> delivery or tradition of title over immovable property. Very explicit in
+> this respect are the provisions of Article 1450 of the Old Civil
+> Code which says: "The sale shall be perfected between vendor and
+> vendee and shall be binding on both of them if they have agreed upon
+> the thing which is the subject matter of the contract and upon the
+> price, even if neither has been delivered." Perhaps, the Spanish text is even
+> more emphatic as to non-delivery of the thing and the non-payment of the
+> price, as it provides: "La venta se perfeccionara entre comprador y
+> vendedor, y sera obligatoria para ambos, si hubieren convenido en la cosa
+> objeto del contrato, y en el precio, aunque ni una ni el otro se hayan
+> entregado." And to bring out the point in bolder relief, I would add the
+> pertinent comment of Manresa to the following effect:
+> "Expresamente dice el articulo que comentamos, que
+> no es menester que se hayan entregado ni la cosa ni el precio
+> para que el contrato de compra y venta se tenga por perfecta.
+> Si alguno de esos requisitos fuese preciso, la compra y venta
+> seria un contrato real en vez de consensual.
+> "Desde que se consiente, y sin necesidad de ninguna
+> otra circunstancia, el contrato, repetimos, esta perfecta y
+> nacen las obligaciones; pero la transmision de la propiedad
+> no existe hasta que la cosa no ha sido entregada. La entrega
+> de la cosa se refiere al periodo de consumacion; en el articulo
+> que estudiamos se trata tan solo de fijar el momento de la
+> perfeccion." (10 Manresa 56, id.)
+> XX X
+> x33
+> To fully comprehend the point under discussion, from a point of
+> view which is not Manresa's, We only have to read the pertinent portion of
+> the Report of the Code Commission on the Proposed Civil Code of the
+> Philippines:
+> "The name of Title VI has been simplified by calling
+> it 'sales', and the name of the contract has been changed, for
+> the same reason, to 'contract of sale.'
+> 33 The omitted portion from Justice Barredo's Dissenting Opinion cites Jose Maria Manresa's
+> Commentarios Al Codigo Civil Espanol which is in the Spanish language and excluded for lack of
+> official translation.
+>
+> Separate Opinion 9 · G.R. No. 222957
+> "It is required in the proposed Code that the seller
+> transfer the ownership of the thing sold (arts. 1478, 1479,
+> 1515, 1567). In the present Code (art. 1445), his obligation
+> is merely to deliver the thing, so that even if the seller is not
+> the owner, he may validly sell, subject to the warranty (art.
+> 14 7 4) to maintain the buyer in the legal and peaceful
+> possession of the thing sold. The Commission considers the
+> theory of the present law unsatisfactory from the moral point
+> of view." (At p. 141)
+> and consider that Article 1478, a new provision of the New Civil Code,
+> specifically authorizes the parties to stipulate "that the ownership in the
+> thing shall not pass to the purchaser until he has fully paid the price", which
+> makes the sale what Laurent calls a "venta a la romana", and which
+> precisely is the nature of the contract We have before us in this case. Thus,
+> it is my humble view that, contrary to what seems to be implied from the
+> portion of Manuel quoted in Our decision and resolution of denial in this
+> case, the reservation of the title does not strip or divest the agreement
+> of its character as a sale and much less does it make it a promise to sell.
+> I reiterate, the reservation of title is irrelevant in a promise to sell for
+> the simple reason that it is in its very nature that transfer of title is not
+> involved and cannot even be contemplated.34 (Emphasis supplied; italics
+> in the original)
+> Justice Barredo likewise argued that the suspensive condition (i.e., full
+> payment of the purchase price) affecting the transfer of the sale does not affect
+> the character of the contract as a perfected contract of sale.35 In fact, the
+> delivery of possession of the property to the buyer in the Luzon Brokerage
+> shows that it was a partially consummated sale. 36 He also argued that it was
+> only in the Second Division case of Manuel v. Rodriguez37 that the Court
+> created the concept of a "contract to sell or promise to sell," where title
+> remains with the vendor until fulfillment of a positive suspensive condition,
+> such as full payment of the price, viz. :
+> It was only in Manuel vs.
+> Rodriguez, I 09 Phil. I, that this
+> Court "created" the concept of
+> a "a contract to sell or promise
+> to sell", where title remains with
+> the vendor until .fulfillment to a
+> positive suspensive condition,
+> such as.full payment o.fthe price.
+> I have taken pains to analyze all the decisions cited in Manuel, to
+> verify whether or not there is really in the earlier jurisprudence such a
+> concept of a promise to sell wherein title is reserved by the vendor. The
+> result of the foregoing discussion, as can be seen, is that it was only in
+> Manuel that this Court spoke first of such a concept, which it is suggested
+> We should apply in the case at bar. I regret I cannot accede to the suggestion.
+> The concept proposed does not conform with my studies of the juridical
+> 34 J. Barredo, Dissenting Opinion in Luzon Brokerage Co., Inc. v. Maritime Building Co., Inc., supra note
+> 27, at 348-354.
+> 35 Id. at 358.
+> 36 Id.
+> 37 109 Phil. I, 9 (1960).
+>
+> Separate Opinion G.R. No. 222957
+> nature of a promise to sell as distinguished from a contract of sale. I insist
+> that the so-called suspensive condition affecting the transfer of title only
+> after full payment of the price, an admittedly licit one, does not detract from
+> the character of the contract here in question as a perfected contract of sale
+> - indeed, partially consummated by the delivery of possession of "the
+> thing" (per Manresa), if We may borrow the characterization made by
+> Justice Imperial of the contract in the Ah Sing case, supra. For that matter,
+> neither does the condition that upon failure of Maritime to pay any
+> installment, the contract would be cancelled, all past payments forfeited and
+> Myers would be entitled to recover possession - vary a bit the real nature
+> of the contract. In fact, it is my considered view that it is this condition as
+> to breach that is determinative of the rights of the parties in this case, since
+> what is in issue here, as I see it, is not the right of Maritime to compel
+> delivery of title, but only whether or not the whole contract should be held
+> to have been properly and legally cancelled by Myers, thus
+> depriving Maritime of further opportunity to continue paying the balance of
+> the stipulated purchase price.
+> My understanding of the contract of sale, known before the New
+> Civil Code as "Purchase and Sale", is that it is a bilateral contract which is
+> a composite of various obligations, depending on the terms agreed upon by
+> the parties regarding the payment of the price, on the one hand, and the
+> delivery of the thing sold and the title thereto, all of which are reciprocal, as
+> distinguished from correlative ones. Thus, once the parties have agreed
+> upon the thing and the price, the contract of sale comes juridically into being
+> as fully as any other perfected contract, without prejudice to the parties
+> laying down as they may agree the terms of payment, on the one hand, and
+> the delivery of the thing and the title thereof, on the other. Of course, these
+> conditions are reciprocally obligatory or binding; the sale is consummated
+> upon fulfillment by both parties of their respective obligations; but, pending
+> such consummation, in the event of breach by anyone of them, the
+> corresponding rules established by law come into play, among them, Article
+> 1234 (new), as applied in Javier, supra, and Article 1124, as applied to sales
+> of movables, and, of course, Article 1504 which is the variant of Article
+> 1124 applicable to sales of immovables (per Justice J.B.L. Reyes in
+> Gabuya vs. Cui, 38 SCRA 85, at p. 97).38 (Italics in the original)
+> I believe there is merit in the comprehensive arguments of Justice
+> Barredo. Thus, similar to his finding, the contract subject of the present case
+> is a contract of sale as it has all the attributes of a perfected contract of sale
+> under the Code. It appears too that petitioner, a lawyer, treated the contract as
+> one of sale considering that in his Answer with Counterclaim, he prayed that
+> respondents be adjudged to pay Pl ,250,000.00 to him as unpaid balance of
+> the purchase price of the property with 9% interest as stipulated in the
+> contract.39 In fact, the RTC had initially ruled in his favor ordering
+> respondents to pay the remaining balance with interest. Later, when
+> respondents' motion for new trial was granted, and in order to escape liability
+> for the subsequent sale of the property, he asserted that what he and
+> respondents entered into was merely a contract to sell wherein he had no
+> obligation to transfer ownership until full payment of the purchase price and
+> for which reason, the remedy of rescission was unavailable.
+> 38 J. Barredo, Dissenting Opinion in Luzon Brokerage Co., Inc. v. Maritime Building Co., Inc., supra note
+> 27, at 357-359.
+> 39 Rollo, p. 42, CA Decision citing RTC Order.
+>
+> Separate Opinion 11 G.R. No. 222957
+> Respondents are not entitled to
+> rescind the Contract.
+> Since the contract herein is a one of sale, the remedy of rescission is
+> available. Under Articles 1191 and 1192 of the Code, the right of resolution
+> of a party to an obligation is predicated on a breach of faith by the other party
+> which violates the reciprocity between them, viz.:
+> Art. 1191. The power to rescind obligations is implied in reciprocal
+> ones, in case one of the obligors should not comply with what is incumbent
+> upon him.
+> The injured party may choose between the fulfillment and the
+> rescission of the obligation, with the payment of damages in either case. He
+> may also seek rescission, even after he has chosen fulfillment, if the latter
+> should become impossible.
+> The court shall decree the rescission claimed, unless there be just
+> cause authorizing the fixing of a period.
+> This is understood to be without prejudice to the rights of third
+> persons who have acquired the thing, in accordance with articles 13 85 and
+> 1388 and the Mortgage Law. (1124)
+> Art. 1192. In case both parties have committed a breach of the
+> obligation, the liability of the first infractor shall be equitably tempered by
+> the courts. If it cannot be determined which of the parties first violated the
+> contract, the same shall be deemed extinguished, and each shall bear his
+> own damages. (n)
+> It is also noted that Article 1592 expressly provides that even if it has
+> been stipulated by the parties that rescission of the contract shall take place
+> upon failure to pay the price at the time agreed upon, the vendee may still pay
+> even after the expiration of the period as long as there is no judicial or notarial
+> demand for rescission made by the vendor, viz.:
+> Art. 1592. In the sale of immovable property, even though it may
+> have been stipulated that upon failure to pay the price at the time agreed
+> upon the rescission of the contract shall ofright take place, the vendee may
+> pay, even after the expiration of the period, as long as no demand for
+> rescission of the contract has been made upon him either judicially or by a
+> notarial act. After the demand, the court may not grant him a new
+> term. (1504a)
+> In the present case it is the vendees who first sought the rescission of the
+> contract. Thus, Article 1592 cannot be applied as it is clear that they no longer
+> wished to pay any of the installments and were in fact demanding the refund
+> of their downpayment. Likewise, respondents are the first infractors in this
+> case and cannot be deemed the injured party under Article 1191 to whom the
+> choice of fulfillment or rescission of the contract is given. To be sure,
+> respondents unilaterally abandoned the property and failed to pay any of the
+> installment payments. Meanwhile, petitioner is equally at fault when he sold
+> the property to a third person without informing the court or respondents while
+>
+> Separate Opinion 12 G.R. No. 222957
+> the case was pending litigation. To stress, petitioner prayed that the RTC order
+> respondents to pay the balance of the purchase price in accordance with their
+> agreement. Thus, he acted in bad faith in negotiating the sale of the property
+> while the case was being litigated in court.
+> Considering that the contract between the parties provides for the
+> automatic cancellation thereof and forfeiture of all payments made in case of
+> three successive dishonors of the post-dated checks representing monthly
+> installments, the ponencia correctly rules that the said stipulation shall apply
+> to the parties. Since respondents themselves admitted that they failed to pay
+> four monthly installments and have no intentions of pursuing the sale
+> whatsoever, then the contract is deemed cancelled and all previous payments
+> made are to be forfeited. In other words, by reason of respondents' default in
+> three successive installment payments, the contract was ipso facto rescinded.40
+> 40 See Torralba v. De las Angeles, 185 Phil. 40 ( 1980).

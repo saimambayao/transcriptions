@@ -1,6 +1,6 @@
 # Philippine Supreme Court Jurisprudence Index
 
-Total: 38857 decisions + 1 administrative matter (1987-2026)
+Total: ~39,957 decisions (1987-2026, SC website scrape complete for 2021-2026)
 
 ## Administrative Matters (2026)
 
@@ -12,7 +12,7 @@ Total: 38857 decisions + 1 administrative matter (1987-2026)
 
 | Period | Decisions | Index |
 |--------|-----------|-------|
-| 2021-2025 | 2649 | [INDEX-2021-2025.md](INDEX-2021-2025.md) |
+| 2021-2026 | 3860 | [INDEX-2021-2025.md](INDEX-2021-2025.md) |
 | 2016-2020 | 5145 | [INDEX-2016-2020.md](INDEX-2016-2020.md) |
 | 2011-2015 | 4868 | [INDEX-2011-2015.md](INDEX-2011-2015.md) |
 | 2006-2010 | 6911 | [INDEX-2006-2010.md](INDEX-2006-2010.md) |
@@ -25,11 +25,12 @@ Total: 38857 decisions + 1 administrative matter (1987-2026)
 
 | Year | Decisions |
 |------|-----------|
-| [2025](2025/INDEX.md) | 178 |
-| [2024](2024/INDEX.md) | 319 |
-| [2023](2023/INDEX.md) | 591 |
-| [2022](2022/INDEX.md) | 554 |
-| [2021](2021/INDEX.md) | 1007 |
+| [2026](2026/INDEX.md) | 9 |
+| [2025](2025/INDEX.md) | 564 |
+| [2024](2024/INDEX.md) | 594 |
+| [2023](2023/INDEX.md) | 889 |
+| [2022](2022/INDEX.md) | 754 |
+| [2021](2021/INDEX.md) | 1050 |
 | [2020](2020/INDEX.md) | 982 |
 | [2019](2019/INDEX.md) | 1054 |
 | [2018](2018/INDEX.md) | 1079 |

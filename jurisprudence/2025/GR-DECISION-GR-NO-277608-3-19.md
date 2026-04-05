@@ -1,0 +1,657 @@
+# GR-DECISION-GR-NO-277608-3-19
+
+**Edgar R. Erice vs. Commission on Elections and Raymond D.C. Salipot**
+
+## Metadata
+
+- **Case Title**: Edgar R. Erice vs. Commission on Elections and Raymond D.C. Salipot
+- **Ponente**: INTING, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: December 27, 2024
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2025/10/DECISION-GR-NO-277608-3-19.pdf)
+
+---
+
+> SupremeC ourto f the Philippines
+> OFFICEO F THE SPOKESPERSON
+> RECEIVED
+> ~• Y<A
+> b;: 111-N-e+: T,ime:_ ,z,!...::ii:___
+> DoeumeatC ontrolH o.
+> lliepubHto f tbe t'lbiHppint~
+> ~upreme <!Court
+> ;ffianila:
+> ENBANC
+> EDGAR R. ERICE, G.R. No. 277608
+> Petitioner,
+> Present:
+> GESMUNDO, CJ,
+> LEONEN,
+> CAGUIOA,
+> HERNANDO,
+> LAZARO-JAVIER,
+> INTING,
+> - versus - ZALAMEDA,
+> GAERLAN,
+> ROSARIO,*
+> LOPEZ,
+> DIMAAMPAO,
+> MARQUEZ,
+> KHO, JR.,
+> SINGH,**a nd
+> VILLANUEVA, JJ.
+> COMMISSION ON
+> ELECTIONS and RAYMOND Promulgated:
+> D.C. SALIPOT,
+> Respondents.
+> x-----------------------------------------
+> DECISION
+> INTING, J.:
+> Before the Court is a Petition for Certiorari (with Application
+> for the Issuance of a Temporary Restraining Order and/or Writ of
+> Preliminary Injunction)1 filed by petitioner Edgar R. Erice (Erice) assailing
+> On ·wellnes.; !Jave.
+> ** On leave.
+> 1 Rollo, pp. 3-23.
+>
+> Decision 2 G.R. No. 277608
+> the Resolution2 dated December 27, 2024, of the Commission on Elections
+> (COMELEC) En Banc in SPA Case No. 24-210 (DC). The COMELEC En
+> Banc affirmed the Resolution3 dated November 26, 2024, of the COMELEC
+> Second Division which disqualified Erice as a candidate for the position of
+> Member of the House of Representatives for the Second District of Caloocan
+> City in the May 12, 2025 National and Local Elections (2025 NLE).4
+> The Antecedents
+> • On August 15, 2024, respondent Raymond D.C. Salipot (Salipot) and
+> Benjamin B. Balatbat (Balatbat) filed a Joint Complaint-Affidavit5 against
+> Erice for violation of Section 26l(z)(l 1) of Batas Pambansa Blg. 881 or the
+> Omnibus Election Code. The complaint is based on the statements made by
+> Erice in various interviews that the contract of the COMELEC with Miru
+> Systems (Miru) is highly anomalous and that the bidding process which
+> preceded it was rigged. For example, in his interview with DWPM Radyo 630
+> on April 15, 2024, Erice said: "May propaganda kase ang COMELEC eh, na
+> mi-mislead yung mga taong bayan na maganda yung [S]istema. Pero po yung
+> itong [s] istema na ito masasabi ko ng tapat na ito ay isang P 18B, one time
+> big time scam." In addition, Erice asserted that the automated counting
+> machines (ACM) to be provided by Miru have never been used in any
+> previous election in other countries; thus, the Philippines will serve as its
+> guinea pig in the 2025 NLE. Salipot and Balatbat argued that Brice's
+> statements lacked verification and supporting evidence.6
+> On October 7, 2024, Erice filed his Certificate of Candidacy7 (COC)
+> for the position of Member of the House of Representatives for the Second
+> District of Caloocan City for the 2025 NLE. 8
+> On October 28, 2024, Salipot filed a Petition for Disqualification9
+> against Erice for violation of Section 261(z)(ll) of the Omnibus Election
+> Code in relation to Section l(c)(3)(viii) of COMELEC Resolution No.
+> 2 Id at 37-66. Approved by Chairman George Erwin M. Garcia (buttook no part), Commissioners Socorro
+> B. Inting, Marlon S. Casquejo, Aimee P. Ferolino, Rey E. Bulay, Ernesto Ferdinand P. Maceda, Jr., and
+> Nelson J. Celis.
+> 3
+> Id at 24--34. Approved by Presiding Commissioner Marlon S. Casquejo and Commissioners Rey E.
+> Bulay and Nelson J. Celis.
+> 4 Id at 33.
+> 5 Id at93-lll.
+> 6 Id at 25-26, 38-39.
+> 7 Id at 90-91.
+> 8 Id at 38.
+> 9 Id. at 71-88.
+>
+> Decision 3 G.R. No. 277608
+> 11046.10 The COMELEC Second Division issued sununons ordering Erice to
+> file his Answer cum Memorandmn within a nonextendible period of five days
+> from receipt of the sU111monEs.r ice did not file the required pleading.11
+> The COMELEC Second Division Ruling
+> The COMELEC Second Division granted the Petition m its
+> Resolution12 dated November 26, 2024, thefallo of which provides:
+> WHEREFORE, premises considered, the Petition is GRANTED.
+> Respondent EDGAR R. ERICE is DISQUALIFIED as a candidate for the
+> position of Member, House of Representatives in the Second (2nd
+> )
+> District
+> of Caloocan City for the 12 May 2025 National and Local Elections ["2025
+> NLE"].
+> Let the records of the case be forwarded to the Law Department of
+> this Commission relative to the election offense aspect of this case.
+> SO ORDERED. 13
+> The COMELEC Second Division found that the evidence submitted by
+> Salipot substantially proved that Erice violated Section 26l(z)(ll) of the
+> Omnibus Election Code. Erice repeatedly made the following statements:
+> first, the Philippines will serve as a guinea pig in the 2025 NLE. The
+> ACMs and systems procured from Miru have never been utilized in any
+> election worldwide; second, the PHP 18 billion contract with Miru was highly
+> anomalous, the bidding process was rigged, and the custom-made
+> specifications were used to justify price inflation; and finally, he received
+> evidence of offshore accounts of COMELEC officials, particularly
+> COMELEC Chairperson George Erwin M. Garcia (Chairperson Garcia),
+> suggesting suspicious transactions with Miru.14
+> The COMELEC Second Division ruled that the statements, which
+> relate to the general conduct of elections, are unverified and unsupported by
+> evidence and, therefore, false. It held that Brice's act of propagating false
+> 10 Titled, "RULES OF PROCEDURE ON THE FILING OF: (1) PETITION TO DENY DUE COURSE
+> TO OR CANCEL CERTIFICATE OF CANDIDACY; (2) PETITION TO DECLARE A NUISANCE
+> CANDIDATE; AND (3) PETITION FOR DISQUALIFICATION IN CONNECTION WITH THE 2025
+> NATIONAL AND LOCAL ELECTIONS INCLUDING THE BANGSAMORO AUTONOMOUS
+> REGION IN MUSLIM MINDANAO PARLIAMENTARY ELECTIONS." Approved on August 28,
+> 2024.
+> 11 Rollo, pp. 39-40.
+> 12 Id. at 24-34.
+> 13 Id. at 33-34.
+> 14 Id. at 32-33.
+>
+> Decision 4 G.R. No. 277608
+> information across multiple platforms shows his deliberate intent to disrupt
+> elections rather than offer legitimate criticism. It also found that his statements
+> may cause public alarm and voter confusion as well as damage the integrity
+> of the electoral system of the Philippines. In accordance with COMELEC
+> Resolution No. 11046, the COMELEC Second Division disqualified Erice.15
+> On November 27, 2024, Chairperson Garcia inhibited himself from
+> handling or participating in any case involving Erice to "preserve the
+> principles of fairness and impartiality, ensuring the integrity of the
+> proceedings under my jurisdiction and avoiding any potential perception qf
+> bias or conflict of interest. "16
+> On December 2, 2024, Erice filed a Motion for Reconsideration 17
+> wherein he alleged that Salipot did not send a copy of the petition to him but
+> only its annexes. He also asserted that he was not guilty of violation of Section
+> 26l(z)(ll) of the Omnibus Election Code.18
+> The COMELEC En Banc Ruling
+> In its Resolution19 dated December 27, 2024, the COMELEC En Banc
+> affirmed the ruling of the COMELEC Second Division, thus:
+> WHEREFORE, premises considered, the Commission (En Banc)
+> AFFIRMS the Commission (Second Division)'s Resolution dated 26
+> November 2024 insofar as it declared Respondent EDGAR R. ERICE as
+> DISQUALIFIED as a candidate for the position of Member, House of
+> Representatives in the 2nd District of Caloocan City for the 12 May 2025
+> National and Local Elections.
+> Let the records of the case be forwarded to the Law Department of
+> this Commission relative to the election offense_a spect of this case.
+> SO ORDERED.20 (Emphasis in the original)
+> The COMELEC En Banc held that Erice was served a copy of the
+> petition via the email address that he provided in his COC. This is supported
+> by the Affidavit of Electronic Service21 executed by Paquito Eleazar Joaquin
+> 1s Id.
+> 16 Id. at 159.
+> 17 Id. at 160-173.
+> 18 Id. at 40---41,1 63-164.
+> 19 Id. at 37-66.
+> 20 Id. at 65-66.
+> 21 Id. at 156.
+>
+> Decision 5 G.R. No. 277608
+> (Joaquin). The COMELEC Second Division also served him summons
+> together with a copy of the petition. Hence, the COMELEC En Banc ruled
+> that Erice was given the opportunity to be heard but did not file an answer. In
+> any event, Erice presented his arguments through his motion for
+> reconsideration which failed to invoke the required grounds of insufficient
+> evidence or contrariness to law.22
+> The COMELEC En Banc clarified that Erice is mistaken in asserting
+> that for Section 261(z)(ll) of the Omnibus Election Code to apply, the
+> statements must be made around voting centers based on ABS-CBN v.
+> COMELEC,23 as said case did not discuss the elements of Section 26l(z)(l l).
+> The COMELEC En Banc also ruled that contrary to Brice's contention,
+> Section 26l(z)(l l) does not require the conduct of an actual election.24
+> The COMELEC En Banc upheld the ruling of the COMELEC Second
+> Division that Erice violated Section 261 (z) (11) of the Omnibus Election Code.
+> The COMELEC En Banc held that Brice's statements refer to the general
+> conduct of the elections because they involve the very machines to be used
+> for the elections. The COMELEC En Banc found Brice's statements to be
+> beyond the bounds of propriety and protected free speech; and his accusations
+> of corruption were baseless, unsubstantiated, and coupled with calls to revert
+> to the usage of unserviceable machines. According to the COMELEC En
+> Banc, these statements were intended to cause confusion among the voters,
+> disrupt the orderly conduct of elections, and underrnine the framework for the
+> protection of our electoral processes. Hence, the COMELEC En Banc found
+> that Brice's disqualification is called for under COMELEC Resolution No.
+> 11046.25
+> On January 14, 2025, the Court issued a temporary restraining order
+> (TRO) prohibiting the COMELEC from implementing its resolutions
+> disqualifying Erice as candidate for representative of the 2nd District of
+> Caloocan in the 2025 NLE.26
+> 22 Id. at 46-48.
+> 23 380 Phil. 780 (2000) [Per J. Panagniban, En Banc].
+> 24 Rollo, pp. 50--56.
+> 25 Id. at 57-65.
+> 26 Id. at 277-278, 279-280.
+>
+> Decision 6 G.R. No. 277608
+> The Issue
+> The issue for the resolution of the Court is whether the COMELEC En
+> Banc erred in affirming that Erice should be disqualified for violation of
+> Section 26l(z)(l l) of the Omnibus Election Code.
+> Petitioner's Arguments
+> First, respondent COMELEC should have dismissed respondent
+> Salipot's petition for disqualification for failure to comply with jurisdictional
+> requirements, specifically, to furnish petitioner Erice with a copy of said
+> petition and its annexes. Respondent Salipot only sent a copy of the annexes
+> through email but not the petition itself, in violation of petitioner Brice's right
+> to due process. Respondent Salipot is not even a registered voter of Caloocan
+> but of Rizal and has a deactivated status.27
+> Second, respondent Salipot failed to prove that petitioner Erice violated
+> Section 26l(z)(ll) of the Omnibus Election Code. Petitioner Erice stresses
+> that the disruptive behavior penalized under that provision must have been
+> done around the voting centers. However, petitioner Erice made his
+> statements in restaurants and media stations. In addition, the statements
+> should have been made during the conduct of an election, which is not the
+> case here. More, petitioner Brice's statements do not pertain to the printing of
+> official ballots, postponement of election, transfer of polling place, or general
+> conduct of election but to respondent COMELEC' s violation of Republic Act
+> No. 9369, which is currently the subject of his pending Petition before the
+> Court docketed as G.R. No. 272887, and Republic Act No. 3019, or the
+> Anti-Graft and Corrupt Practices Act, which is the subject of his complaint
+> affidavit pending before the Office of the Ombudsman. The statements were
+> consistent with petitioner Erice's right to free speech and in line with his duty
+> as a citizen of this country.28
+> Third, petitioner Erice's statements are covered by his right to freedom
+> of expression. The statements do not present a clear and present danger to
+> warrant the suppression of his right and cause his disqualification.29
+> 27 Id at 8--10.
+> 28 Id. at 10-16.
+> 29 Jd. at 16.
+>
+> Decision 7 G.R. No. 277608
+> Respondent COMELEC 's Arguments
+> First, respondent Sa!ipot was able to prove that he sent a copy of his
+> petition to petitioner Erice through the Affidavit of Electronic Service of
+> Joaquin. In any event, respondent COMELEC has the discretion to summarily
+> dismiss the petition under Section 4, paragraph 7 of COMELEC Resolution
+> No. 11046 for failure to submit proof of service of the petition and its annexes
+> to respondent. Notably, petitioner Erice did not deny receiving the notice of
+> summons, summons, and a copy of the petition sent to his email by the
+> COMELEC Second Division. As for respondent Salipot's standing,
+> COMELEC Resolution No. 11046 only requires that the one filing the
+> complaint is a registered voter. It is silent as to the voter's status.30
+> Second, Section 261(z)(ll) of the Omnibus Election Code does not
+> require that the act must be committed at voting centers and during the actual
+> conduct of elections.31
+> Third, all the elements for violation of Section 26l(z)(ll) of the
+> Omnibus Election Code were established in the case. Petitioner Erice
+> repetitively proclaimed on different social media platforms and radio stations
+> that the Philippines would become Miru's guinea pig for the technology to be
+> used in the 2025 NLE. This claim refers to the integrity of the ACM; thus, the
+> subject matter is the general conduct of the election. Petitioner Brice's intent
+> to disrupt the election process was shown through his overt act of consistently
+> making unfounded and libelous statements which caused confusion and
+> disruption of the election process. His statements go beyond what is protected
+> under the Constitution.32
+> Fourth, there is no basis to grant the prayer for a writ of preliminary
+> injunction. For one, petitioner Erice has no clear and unmistakable right to
+> seek election to a public elective office. For another, he did not suffer any
+> irreparable injury.33
+> 30 Id. at 348-353.
+> 31 Id. at 356.
+> 32 Id. at 356-362.
+> 33 Id. at 362-366.
+>
+> Decision 8 G.R. No. 277608
+> Salipot's Arguments
+> First, petitioner Erice was given the opportunity to be heard before the
+> respondent 'COMELEC. He was served a copy of the petition through his
+> official email address in his COC.34
+> Second, petitioner Erice failed to show that the respondent COMELEC
+> acted with grave abuse of discretion in disqualifying him. The findings of
+> respondent COMELEC have factual and legal basis.35
+> Third, the TRO should be lifted because petitioner Erice is not entitled
+> to it. He did not establish that he has a clear and unmistakable right to
+> injunctive relief.36
+> The Ruling of the Court
+> The Petition is meritorious.
+> Petitioner Erice 's right to due
+> process was not violated.
+> Petitioner Erice avers that respondent COMELEC should have
+> dismissed respondent Salipot's petition outright due to the latter's failure to
+> give him a copy of the Petition. Respondent COMELEC correctly pointed out
+> that the language of Section4, paragraph 7(vii)37 of COMELEC Resolution
+> No. 11046 gives it the discretion to s11mmarilyd ismiss a petition for failure to
+> submit proof of service of the petition with complete annexes to the
+> respondent or failure to execute an affidavit of service. The dismissal is not
+> mandatory. Here, respondent COMELEC cannot be faulted for not dismissing
+> the petition considering that respondent Salipot submitted the Affidavit of
+> Electronic Service of Joaquin to attest that he served a copy of the petition and
+> its annexes to petitioner Erice.
+> 34 Id. at 291-302.
+> 35 Id at 303-312.
+> 36 Id at 312-317.
+> 37 SECTION 4. Procedures to be Observed. - Both parties shall observe the following procedures:
+> 7. The Commission may summarily dismiss the Petition on any of the following grounds:
+> vii. The petitioner failed to submit proof of service of the Petition with complete annexes to the
+> respondent or failed to execute an affidavit of service[.]
+> of)
+>
+> Decision 9 G.R. No. 277608
+> Further, the Court is not convinced that petitioner Erice did not receive
+> a copy of the petition. Petitioner Erice submitted the printed copy38 of the
+> email sent by the counsel of respondent Salipot to prove that he did not receive
+> a copy of the petition. The printed copy of the email states that it contains 11
+> attachments but only the title of 10 attachments is shown, which incidentally
+> does not include the petition. Thus, the printed copy of the email alone is
+> insufficient proof that the Petition was not attached to the email sent to
+> petitioner Erice. Moreover, respondent Salipot submitted a copy of the same
+> email showing that the petition was attached thereto. 39 In any event,
+> respondent COMELEC duly considered the merits of Brice's arguments,
+> including his allegation of lack of due process, when he filed his motion for
+> reconsideration.40
+> The COMELEC gravely abused
+> its discretion in disqualifying
+> petitioner Erice for violation of
+> Section 261 (z)(l l) of the
+> Omnibus Election Code.
+> Section 1( c) of COMELEC Resolution No. 11046 provides in full:
+> SECTION 1. Grounds.
+> c. Disqualification of Candidates. -A registered voter or a duly registered
+> political party, organization or coalition of political parties may file a
+> verified Petition for Disqualification against any candidate for any of
+> the following grounds: •
+> 1. For lack of qualifications or possessing any of the grounds for
+> disqualification provided by law or the Constitution;
+> 2. For failure to file Statement of Contributions and Expenditures
+> (SOCE) for two elections pursuant to Section 14 of Republic Act
+> No. 7166; and
+> 3. In an action or protest in which he or she is a party, for having been
+> declared by final decision of a competent court, guilty of, or found
+> by the Commission of, having:
+> 1. Given money or material consideration to influence, induce to
+> com1pt vot.::rs or public officials pe1forming electoral
+> functions;
+> 11. Committed acts of terrorism to enhance his or her candidacy;
+> 38 Rollo, p. 157.
+> 39 Id at 206-207.
+> 40 See Prescott v. Bureau of Immigration, 949 Phil. 919 (2023) [Per J. Lazaro-Javier, En Banc].
+>
+> Decision 10 G.R. No. 277608
+> iii. Spent in his or her election campaign an amount in excess of
+> that allowed by law;
+> iv. Solicited, received, or made any contribution prohibited under
+> Sections 89, 95, 96, 97, and 104 of the Omnibus Election
+> Code;
+> v. Violated any of Sections 80, 83, 85, 86, and 261, paragraphs d,
+> e, k, v, and cc sub-paragraph 6 of the Omnibus Election Code;
+> vi. Acquired permanent residency or immigrant status in a foreign
+> country, unless waiver of status as permanent resident or
+> immigrant of a foreign country is made in accordance with the
+> residence requirement provided for in election laws;
+> vii. Violated any of Section 40 (a), (b), and (c) of the Local
+> Government Code (LGC) of 1991; or
+> viii.Violated all other grounds under the LGC and the OEC.
+> The disqualification of petitioner Erice is based on Section 1( c )(3)(viii)
+> of COMELEC Resolution No. 11046, or that he has "[v]iolated all other
+> grounds under the [Local Govenunent Code] and the [Omnibus Election
+> Code]." He allegedly violated Section 261(z)(ll) of the Omnibus Election
+> Code which provides:
+> SECTION 261. Prohibited Acts. - The following shall be guilty of an
+> election offense:
+> (z) On voting:
+> (11) Any person who, for the purpose of disrupting or obstructing the
+> election process or causing confusion among the voters, propagates false
+> and alarming reports or information or transmits or circulates false orders,
+> directives or messages regarding any matter relating to the printing of
+> official ballots, the postponement of the election, the transfer of polling
+> place or the general conduct of the election[.]
+> Under Section l(c)(3) of COMELEC Resolution No. 11046, the
+> disqualification for violation of all other grounds under the Local Government
+> Code and the Omnibus Election Code requires that the person subject of the
+> disqualification was declared guilty of said violation by final decision of a
+> competent court in an action or protest in which they are a party. Simply put,
+> it is the final decision finding the party guilty of a violation of the Local
+> Government Code or the Omnibus Election Code that shall serve as the basis
+> for their disqualification. This means that the finding of guilt was done in a
+> prior proceeding separate from the disqualification case itself. This is
+>
+> Decision 11 G.R. No. 277608
+> consistent with Section 26541 of the Omnibus Election Code, as amended by
+> Republic Act No. 9369,42 which vests respondent COMELEC with the duty
+> to conduct the preliminary investigation for election offenses; and Section
+> 268,43 of the Omnibus Election Code which grants the Regional Trial Court
+> the exclusive original jurisdiction to try and decide on whether an election
+> offense was committed. Incidentally, Section 26444 of the Omnibus Election
+> Code imposes disqualification as a penalty for the commission of an election
+> offense.
+> Instead of following the foregoing procedure, it appears that respondent
+> COMELEC decided to directly rule on whether petitioner Erice is guilty of
+> violation of Section 26l(z)(1 l ), an election offense, and after having done so,
+> imposed the penalty of disqualification. This cannot be permitted. The
+> COMELEC cannot skip the processes laid down in our laws, no matter how
+> noble the cause of protecting the integrity of the elections may be.
+> More importantly, Section 261 (z)(ll) is not listed as a ground for
+> disqualification under the Omnibus Election Code, specifically Section 68
+> thereof:
+> SECTION 68. Disqualifications. - Any candidate who, in an action or
+> protest in which he is a party is declared by final decision of a competent
+> court guilty of, or found by the Commission of having (a) given money or
+> other material consideration to influence, induce or corrupt the voters or
+> 41 SECTION 265. Prosecution. - The Commission shall, through its duly authorized legal officers, have
+> the power, concurrent with the other prosecuting arm_so f the government, to conduct preliminary
+> investigation of all election offenses punishable und~r this Code, and to prosecute the same.
+> 42 Amendment to Republic Act No. 8436 (Election Modernization Act), Approved on January 23, 2007.
+> 43 SECTION 268. Jurisdiction of courts. - The regional trial court shall have the exclusive original
+> jurisdiction to try and decide any criminal action or proc~~dings for violation of this Code, except those
+> relating to the offense of failure to register or failure to vote which shall be under the jurisdiction of the
+> metropolitan or municipal trial courts. From the decision of the courts, appeal will lie as in other criminal
+> cases[.]
+> 44 SECTION 264. Penalties. -Any person found guilty of any election offense under this Code shall be
+> punished with imprisonment ofnot less than one year but not more than six years and shall not be subject
+> to probation. In addition, the guilty party shall be sentenced to suffer disqualification to hold public
+> office and deprivation of the right of suffrage. If he is a foreigner, he shall be sentenced to deportation
+> which shall be enforced after the prison term has been served. Any political party found guilty shall be
+> sentenced to pay a fine of not less 'drnnt en thousand pesos, which shall be imposed upon such party after
+> criminal action has been instituted in wllich their corresponding officials have been found guilty[.]
+> In case of prisoner or prisoners illegally released from any penitentia1y or jail during the prohibited
+> period as provided in Section 261, paragraph (n) of this Code, the director of prisons, provincial warden,
+> keeper of the jail or prison, or persons who are required by law to keep said prisoner in their custody
+> shall, if convicted by a competent court, be sentenced to suffer the penalty of prisi6n mayor in its
+> maximum period if the prisoner or prisoners so iliegally released commit any act of intimidation,
+> terrorism of interference in the election[.] •
+> Any person found guilty of the offense of failure to register or failure to vote shall, upon conviction,
+> be fined one hundred pesos. In addition, he shall suffer disqualification to run for public office in the
+> next succeeding election following his conviction or be appointed to a public office for a period of one
+> year following his conviction[.]
+>
+> Decision 12 G.R. No. 277608
+> public officials performing electoral functions; (b) committed acts of
+> terrorism to enhance his candidacy; (c) spent in his election campaign an
+> amount in excess of that allowed by this Code; (d ) solicited, received or
+> made any contribution prohibited under Sections 89, 95, 96, 97 and 104; or
+> (e) violated any ofSeclions 80, 83, 85, 86 and 261, paragraphs d, e, k, v, and
+> cc, sub-paragraph 6, shall be disqualified from continuing as a candidate, or
+> if he has been elected, from holding the office. Any person who is a
+> permanent resident of or an immigrant to a foreign country shall not be
+> qualified to run for any elective office under this Code, unless said person
+> has waived his status as permanent resident or immigrant of a foreign
+> country in accordance with the residence requirement provided for in the
+> election laws[.]
+> Aside from Section 68, the other grounds for disqualification can be
+> found in Section 1245 of the Omnibus Election Code, Sections 3946 and 4047
+> of the Local Government Code in relation to Section 6548 of the Omnibus
+> 45 SECTION 12. Disqualifications. -Any person who has been declared by competent authority insane or
+> incompetent, or has been sentenced by final judgment for subversion, insurrection, rebellion or for any
+> offense for which he has been sentenced to a penalty of more than eighteen months or for a crime
+> involving moral turpitude, shall be disqualified to be a candidate and to hold any office, unless he has
+> been given plenary pardon or granted amnesty.
+> This disqualifications to be a candidate herein provided shall be deemed removed upon the
+> declaration by competent authority that said insanity or incompetence had been removed or after the
+> expiration of a period of five years from his service of sentence, unless within the same period he again
+> becomes disqualified.
+> 46 SECTION 39. Qualifications. -
+> (a) An elective local official must be a citizen of the Philippines; a registered voter in the barangay,
+> municipality) city, or province or, in the case of a member of the sangguniang panlalawigan,
+> sangguniang panlungsod, or sangguniang bayan, the district where he intends to be elected; a
+> resident therein for at least one (1) year immediately preceding the day of the election; and able to
+> read and write Filipino or any other local language or dialect.
+> (b) Candidates for the position of governor, vice-governor, or member of the sangguniang panlalawigan,
+> or mayor, vice-mayor or member of the sangguniang panlungsod of highly urbanized cities must be
+> at least twenty-three (23) years of age on election day.
+> (c ) Candidates for the position of mayor or vice-mayor of independent component cities, component
+> cities, or municipalities must be at least twenty-one (2 i) years of age on election day.
+> (d) Candidates forthe·position of member of the sangguniang panlungsod or sangguniang bayan must
+> be at least eighteen(l8) years of age on election day.
+> (e ) Candidates for the position of pimong barangay or to ember of the sangguniang barangay must be at
+> least eighteen (18) years of age on election day.
+> (f) Candidates for the sangguniang kabataan must be at least fifteen (I 5) years of age but not more than
+> twenty-one (21) years of age on election day.
+> 47
+> SECTION 40. Disqualifications. - The following persons are disqualified from running for any elective
+> local position:
+> (a) Those sentenced by final judgment for an offense involving moral turpitude or for an offense
+> punishable by one(!) year or more of imprisonment, within two (2) years after serving sentence;
+> (b) Those removed from office as a result of an administrative case;
+> (c ) Those convicted by final judgment for violating the oath of allegiance to the Republic;
+> (d) Those with dual citizenship;
+> (e ) Fugitives from justice in ·criminal or non-political cases here or abroad;
+> (f) Permanent residents in a foreign country or those who have acquired the right to reside abroad and
+> continue to avail of the same right after the effectivity of this Code; and
+> (g) The insane or feeble-minded.
+> 48 SECTION 65. Qualifications of elective local officials. - The qualifications for elective provincial, city,
+> municipal and barangay officials shall be those provided for in the Local Government Code.
+>
+> Decision 13 G.R. No. 277608
+> Election Code, and Section 449 of Republic Act No. 8295.50
+> In Codilla, Sr. v. De Venecia,51t he Court held that "the jurisdiction of
+> the COMELEC to disqualify candidates is limited to those enumerated in
+> Section 68 of the Omnibus Election Code. All other election offenses are
+> beyond the mnbit of COMELEC jurisdiction. They are criminal and not
+> administrative in nature."52 The Court reiterated this ruling in Atty. Francisco
+> v. Commission on Elections,53 Gov. Javier v. Commission on Elections,54 and
+> Aratea v. Commission on Elections.55
+> Hence, respondent COMELEC cannot expand the grounds for
+> disqualification under our laws using COMELEC Resolution No. 11046 as its
+> basis. The powers of respondent COMELEC under the 1987 Constitution do
+> not include the power to mnend laws passed by the legislature.56 Therefore,
+> 49 SECTION 4. Disqualification. - In addition to the disqualifications mentioned in Sections 12 and 68 of
+> the Omnibus Election Code and Section 40 of Republic Act No. 7160, otherwise known as the Local
+> Government Code, whenever the evidence of guilt is strong, the following persons are disqualified to
+> run in a special election called to fill the vacancy in an elective office, to wit:
+> a) Any elective official who has resigned from his office by accepting an appointive office or for
+> whatever reason which he previously occupied but has caused to become vacant due to his
+> resignation;a nd
+> b) Any person who, d.ir6ct1yo r indirectly, coerces, bribes, threatens, harasses, intimidates or actually
+> causes, inflicts or produces any violence, injury,p unishment,t orture,d amage, loss or disadvantage
+> to any person or persons aspiring to become a candidate or that of the immediate member of his
+> family, his honor or property that is meant to eliminate all other potential candidate.
+> 50 "AN ACT PROVIDING FOR THE PROCLAMATION OF A LONE CANDIDATE FOR ANY
+> ELECTIVE OFFICE IN A SPECIAL ELECTION, AND FOR OTHER PURPOSES." Approved on June
+> 6, 1997.
+> 51 442 Phil. 139 (2002)[Per J. Puno, En Banc].
+> 52 Rollo, pp. 177-178.
+> 53 831 Phil. 106, 125 (2018) [Per J. Velasco, Jr., En Banc].
+> 54 777 Phil. 700, 728--729 (2016) [Per J. Brion, En Banc].
+> 55 696 Phil. 700, 724-725 (2012) [Per J. Carpio, En Banc].
+> 56 ARTICLE IX. Constitutional Commission.
+> C. The Commission on Elections
+> SECTION 2. The Commission on Elections shall exercise the following powers and functions:
+> (1) Enforce and administer all laws and regulations relative to the conduct of an election, plebiscite,
+> initiative, referendum, and recall.
+> (2) Exercise exclusive original jurisdiction over all contests relating to the elections, returns, and
+> qualifications of all elective regional, provincial, and city officials, and appellate jurisdiction over
+> all contests involving elective municipal officials decided by trial com1s of general jurisdiction, or
+> involving elective barangay officials decided by trial courts of limited jurisdiction.
+> Decisions, final orders, or rulings of the Commiss10n on Elections contests involving elective
+> municipal and barangay offices shall be final, ex·ecutory,a nd not appealable.
+> (3) Decide, except those involving the right to vote, all questions affecting elections, including
+> determination of the number and location of polling places, appointment of election officials and
+> inspectors, and registrationo f voters.
+> (4) Deputize, with the concurrenceo f the Presidentlaw enforcement agencies and instrumentalitieso f
+> 1
+> the Government, inciuding the Armed Forces of the Philippines, for the exclusive purpose of
+> ensuring free, orderly, honest, peaceful., and credible elections.
+> (5) Register, after sutficient publicstion, political parties, organizations, or coalitions which, in addition
+> fl)
+>
+> Decision G.R. No. 277608
+> respondent COMELEC went beyond its jurisdiction in disqualifying
+> petitioner Erice for violation of Section 26 J (z)(l 1) of the Omnibus Election
+> Code.
+> Considering that respondent COMELEC had no power in the first place
+> to disqualify a candidate on the ground of violation of Section 26l(z)(l 1) of
+> the Omnibus Election Code, the Court shall refrain from determining whether
+> petitioner Erice violated this provision. To reiterate, the determination of
+> petitioner Brice's guilt for this election offense should be made in the proper
+> forum through an appropriate action. Notably, respondent COMELEC already
+> ordered that the records of the case be forwarded to its Law Department to
+> study its election offense aspect.
+> Nonetheless, the Court deems it proper to clarify the elements of
+> Section 261(z)(l 1) for the guidance ofthe bench and the bar. These are:
+> First, a person propagates false and alarming reports or information; or
+> transmits or circulates false orde.rs, directives or messages.
+> Second, the foregoing must be regarding any matter relating to the
+> printing of official ballots, the postponement of the election, the transfer of
+> polling place, or the general conduct of the election.
+> Finally, it must be done for the purpose of disrupting or obstructing the
+> election process or causing confusion among the voters.
+> to other requirements, must present their platform or program of government; and accredit citizens'
+> arms· of the Commission on Elections. Religious denominations and sects shall not be registered.
+> Those which seek to ,achieve their goals through violence or unlawful means, or refuse to uphold
+> and adhere to this Constitution, ot which are supported by any foreign government shall likewise be
+> refused registration.
+> Financial contributions from foreign governments and their agell)Cies to political parties,
+> organizations, coalitions, or candidatesr elated to elections constitute interferencei n national affairs,
+> and, when accepted, shall be an additional ground for the cancellation of their registration with the
+> Commission, in addition to other penalties that may be prescribed by law.
+> (6) File, upon a verified complaint, mon its own initiative, petitions in court for inclusion or exclusion
+> of voters; investigate and, where appropriate, prosecute cases of violations of election laws,
+> including acts or omissions constituting election frauds, offenses, and malpractices.
+> (7) Recommend to the Congress effective measures tn minimize election spending, including limitation
+> of places where propaganda materials shall be posted, and to prevent and penalize all forms of
+> election frauds, offenses, malpractices, and nuisance candidacies.
+> (8) Recommend to the President the removal of any officer or employee it has deputized, or the
+> imposition of any other disciplinary action, for violation or disregard of, or disobedience to its
+> directive, order, or decision.
+> (9) Submit to the President and the Congress a comprehensive report on the conduct of each election,
+> plebiscite, initiitive, referendum,o r recall.
+> f);
+>
+> Decision 15 G.R. No. 277608
+> Contrary to petitioner Erice's understanding, Section 261(z)(ll) does
+> not require that the act be done near the polling place. There is nothing in the
+> text of Section 26l(z)(l l) that would suggest this. As to whether the violation
+> must take place during the conduct of the election, Section 26l(z) refers to
+> acts "On voting." This would imply that the punishable acts all relate to
+> voting, which of course would only take place during the conduct of an
+> election. Even so, there being no clear statement in Section 26l(z)(ll) itself
+> that it must take place during an election, the Court cannot agree with
+> petitioner Erice that this is required.
+> In prosecuting violations of Section 26l(z)(ll), due consideration must
+> be given to the right to freedom of speech under Article III, Section 4 of the
+> 1987 Constitution. As eloquently put in United States v. Bustos:57
+> [O]f course, criticism does not authorize defamation. Nevertheless, as the
+> individual is less than the State, so must expected criticism be born for the
+> common good. Rising superior to any official, or set of officials, to the Chief
+> Executive, to the Legislature, to the Judiciary-to any or all the agencies of
+> Government-public opinion should be the constant source of liberty and
+> democracy[.]58
+> All told, while the vigilance ofrespondent COMELEC in safeguarding
+> the elections is laudable, it cannot excuse noncompliance with our laws.
+> ACCORDINGLY, the Petition for Certiorari is GRANTED. The
+> Resolution dated Dccen1½er 27, 2024, of the Commission on Elections En
+> Banc in SPA Case No. 24-210 (DC) is REVERSED and SET ASIDE. The
+> Petition for Disqualification filed by respondent Raymond D.C. Salipot
+> against petitioner Edgar R: Erice .is DISl\llISSED.
+> SO ORDERED.
+> 57 3 7 Phil. 731 (I 918) [Per J. Malcolm].
+> 58 Rollo, p. 741.
+>
+> Decision 16 G.R. No. 277608
+> WE CONCUR:
+> q.
+> UJV4A.f u;~ ~
+> ~;o
+> ARO-JAVIER
+> Associate Justice
+> Associate Justice
+> --·. "'~~~r::-::----- ._
+> ;:
+> .E DA SAJV[UELH . GAERLAN •••
+> Associate Justice
+> On wtsllness l·tsJ!V" _
+> RICARDO R. ROSARIO JHOSEmOPEZ
+> Associate Justice Associate Justice
+>
+> Decision 17 G.R. No. 277608
+> ~~~ -:;;-_ On leave
+> -------~ ;(N'TONIO T. KHO, JR. .....__M__A RIA FILOMENA D. SINGH
+> Associate Justice Associate Justice
+> RAUB B. VILLANUEVA
+> Associate Justice
+> CERTIFICATION
+> Pursuant to Article VIII, Section 13 of the Constitution, I certify that
+> the conclusions in the above Decision had been reached in consultation before
+> the case was assigned to the writer of the opinion of the Court .
+> . GESMUNDO

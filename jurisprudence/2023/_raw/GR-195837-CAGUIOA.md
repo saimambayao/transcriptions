@@ -1,0 +1,2784 @@
+# GR-195837-CAGUIOA
+
+**195837/198221/198974/203592 Concurring and Dissenting Opinion: Justice Alfredo Benjamin S. Caguioa**
+
+## Metadata
+
+- **Case Title**: 195837/198221/198974/203592 Concurring and Dissenting Opinion: Justice Alfredo Benjamin S. Caguioa
+- **Ponente**: CAGUIOA, J.
+- **Division**: EN BANC
+- **Type**: Decision
+- **Date**: October 3, 2023
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2025/07/195837-CAGUIOA.pdf)
+
+---
+
+> EN BANC
+> G.R. No. 195837 - REPUBLIC OF THE PHILIPPINES, petitioner,
+> versus HONORABLE SANDIGANBAYAN DIVISION, DON
+> 5TH
+> FERRY, and CESAR ZALAMEA, respondents.
+> G.R. No. 198221 - REPUBLIC OF THE PHILIPPINES, petitioner,
+> versus HONORABLE SANDIGANBA YAN DIVISION, LUCIO
+> 5TH
+> C. TAN, ESTATE OF FERDINAND E. MARCOS
+> (REPRESENTED. BY IMELDA R. MARCOS, IMEE M.
+> MANOTOC, IRENE M. ARANETA AND FERDINAND R.
+> MARCOS, JR.), IMELDA R. MARCOS, CARMEN KHAO TAN,
+> FLORENCIO T. SANTOS, NATIVIDAD P. SANTOS, DOMINGO
+> CHUA, TAN HUI NEE, MARIANO TAN ENG LIAN, ESTATE OF
+> BENITO TAN KEE HIONG (REPRESENTED BY TARCIANA C.
+> TAN), FLORENCIO N. SANTOS, JR., HARRY C. TAN, TAN ENG
+> CHAN, CHUNG POE KEE, MARIANO KHOO, MANUEL KHOO,
+> MIGUEL KHOO, JAMIE KHOO, ELIZABETH KHOO, CELSO
+> C. RANOLA, WILLIAM T. WONG, ERNESTO B. LIM,
+> BENJAMIN T. ALBACITA, DON FERRY, WILLY CO,
+> FEDERICO MORENO, PANFILO 0. DOMINGO, HEIRS OF
+> GREGORIO LICAROS, CESAR ZALAMEA, SHAREHOLDINGS
+> INC., ALLIED BANKING CORP., FOREMOST FARMS INC.,
+> FORTUNE TOBACCO CORP., MARANA W HOTELS AND
+> RESORTS CORP., VIRGINIA TOBACCO REDRYING PLANT,
+> NORTHERN TOBACCO REDRYING PLANT, ASIA BREWERY
+> INC., SIPALAY TRADING CORP., HIMMEL INDUSTRIES,
+> GRANDSPAN DEVELOPMENT CORP., BASIC HOLDINGS
+> CORP., PROGRESSIVE FARMS, INC., MANUFACTURING
+> SERVICES AND TRADE CORP., ALLIED LEASING &
+> FINANCE CORP., JEWEL HOLDINGS INC., IRIS HOLDINGS
+> AND DEVELOPMENT CORP., and VIRGO HOLDINGS AND
+> DEVELOPMENT CORP., respondents.
+> G.R. No. 198974 - REPUBLIC OF THE PHILIPPINES, petitioner,
+> versus HONORABLE SANDIGANBAYAN DIVISION, LUCIO
+> 5TH
+> C. TAN, ESTATE OF FERDINAND E. MARCOS
+> (REPRESENTED BY IMELDA R. MARCOS, IMEE M.
+> MANOTOC, IRENE M. ARANETA AND FERDINAND R.
+> MARCOS, JR.), IMELDA R. MARCOS, CARMEN KHAO TAN,
+> FLORENCIO T. SANTOS, NATIVIDAD P. SANTOS, DOMINGO
+> CHUA, TAN HUI NEE, MARIANO TAN ENG LIAN, ESTATE OF
+> BENITO TAN KEE HIONG (REPRESENTED BY TARCIANA C.
+> TAN), FLORENCIO N. SANTOS, JR., HARRY C. TAN, TAN ENG
+> CHAN, CHUNG POE KEE, MARIANO KHOO, MANUEL KHOO,
+> MIGUEL KHOO, JAMIE KHOO, ELIZABETH KHOO, CELSO
+> C. RANOLA, WILLIAM T. WONG, ERNESTO B. LIM,
+> BENJAMIN T. ALBACITA, DON FERRY, WILLY CO,
+> FEDERICO MORENO, PANFILO 0. DOMINGO, HEIRS OF
+>
+> Concurring and Dissenting Opinion · 2 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> GREGORIO LICAROS, C~SAR ZALAMEA, SHAREHOLDINGS
+> INC., ALLIED BANKlNG CORP.,' FOREMOST FARMS INC.,
+> FORTUNE .TOBACCO CORP., MARANAW HOTELS AND
+> RESORTS CORP., VIRGINIA TOBACCO REDRYING PLANT,
+> NORTHERN TOBACCO REDRYING PLANT, ASIA BREWERY
+> INC., SIPALAY TRADING CORP., HIMMEL INDUSTRIES,
+> GRANDSPAN DEVELOPMENT CORP., BASIC HOLDINGS
+> CORP., PROGRESSIVE FARMS, INC., MANUFACTURING
+> SERVICES AND TRADE CORP., ALLIED LEASING &
+> FINANCE CORP., JEWEL HOLDINGS INC., IRIS HOLDINGS
+> AND DEVELOPMENT CORP., and VIRGO HOLDINGS AND
+> DEVELOPMENT CORP., respondents.
+> G.R. No. 203592 - REPUBLIC OF THE PHILIPPINES, petitioner,
+> versus SANDIGANBAYAN DIVISION, LUCIO C. TAN,
+> 5TH
+> ESTATE OF FERDINAND E. MARCOS (REPRESENTED BY
+> IMELDA R. MARCOS, IMEE M. MANOTOC, IRENE M.
+> ARANETA AND FERDINAND R. MARCOS, JR.), IMELDA R.
+> MARCOS, CARMEN KHAO TAN, FLORENCIO T. SANTOS,
+> NATIVIDAD P. SANTOS, DOMINGO CHUA, TAN HUI NEE,
+> MARIANO TAN ENG LIAN, ESTATE OF BENITO TAN KEE
+> HIONG (REPRESENTED BY TARCIANA C. TAN), FLORENCIO
+> N. SANTOS, JR., HARRY C. TAN, TAN ENG CHAN, CHUNG
+> POE KEE, MARIANO KHOO, MANUEL KHOO, MIGUEL
+> KHOO, JAMIE KHOO, ELIZABETH KHOO, CELSO C.
+> RANOLA, WILLIAM T. WONG, ERNESTO B. LIM, BENJAMIN
+> T. ALBACITA, DON FERRY, WILLY CO, FEDERICO
+> MORENO, PANFILO 0. DOMINGO, HEIRS OF GREGORIO
+> LICAROS, CESAR ZALAMEA, SHAREHOLDINGS INC.,
+> ALLIED BANKING CORP., FOREMOST FARMS INC.,
+> FORTUNE TOBACCO CORP., MARANAW HOTELS AND
+> RESORTS CORP., VIRGINIA TOBACCO REDRYING PLANT,
+> NORTHERN TOBACCO REDRYING PLANT, ASIA BREWERY
+> INC., SIPA LA Y TRADING CORP., HIMMEL INDUSTRIES,
+> GRANDSPAN DEVELOPMENT CORP., BASIC HOLDINGS
+> CORP., PROGRESSIVE FARMS, INC., MANUFACTURING
+> SERVICES AND TRADE CORP., ALLIED LEASING &
+> FINANCE CORP., JEWEL HOLDINGS INC., IRIS HOLDINGS
+> AND DEVELOPMENT CORP., and VIRGO HOLDINGS AND
+> DEVELOPMENT CORP., respondents.
+> Promulgated:
+> October 3, 2023
+> ~
+> X- - - - - - - - - - - - - - - - - - - - - - - - - - - -~ -~ - - X
+> CONCURRING AND DISSENTING OPINION
+>
+> Concurring and Dissenting Opinion 3 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> CAGUIOA, J.:
+> On July 17, 1987, the Republic of the Philippines (Republic) filed a
+> civil action for reversion, reconveyance, restitution, accounting, and
+> damages (Complaint) against the late President Ferdinand E. Marcos
+> (President FM), Imelda R. Marcos (Imelda), Ferdinand "Bongbong" R.
+> Marcos, Jr. (BBM), Lucio C. Tan (Tan), as well as the officers, directors,
+> and individual stockholders1 (respondent-stockholders) of Tan's alleged
+> dummy corporations.2
+> The Republic subsequently filed a Second Amended Complaint to
+> implead additional defendants, including the corporations (respondent
+> corporations )3 which were allegedly granted concessions by President FM
+> and Imelda.
+> The consolidated petitions now pending before the Court stem from
+> the proceedings that transpired before the Sandiganbayan in relation to the
+> Second Amended Complaint. These are:
+> l. The Sandiganbayan's Resolutions dated December 22, 2010 and
+> February 25, 2011 which granted the separate motions to
+> dismiss/demurrer to evidence filed by respondents Don Fen)' (Fen)')
+> and Cesar Zalamea (Zalamea), and resulted in the dismissal of the
+> Second Amended Complaint as against them. These resolutions are
+> the subject of the Petition for Review on Certiorari docketed as G.R.
+> No. 195837;4
+> 2. The Sandiganbayan's Order dated June 9, 2011 and Resolution dated
+> August 2, 2011 excluding from the evidence the testimonies of
+> Joselito Yujuico (Joselito) and Aderito Yujuico (Aderito ),5 as well as
+> the Sandiganbayan's Resolutions dated May 3, 2011 and July 4, 2011
+> dismissing the Republic's Motion for Voluntary Inhibition. These
+> issuances are the subject of the Petition for Certiorari docketed as
+> G.R. No. 198221;6
+> Namely, Cannen Khao Tan, Florencio T. Santos, Natividad P. Santos, Domingo Chua, Tan Hui Nee,
+> Mariano Tan Eng Lian, Estate of Benito Tan Kee Hiong represented by Tarciana C. Tan, Florencio N.
+> Santos, Jr., Harry C. Tan, Tan Eng Chan, Chung Poe Kee, Mariano Khoo, Manuel Khoo, Miguel
+> Khoo, Jamie Khoo, Elizabeth Khoo, Celso C. Ranola, William T. Wong, Ernesto B. Lim, Benjamin T.
+> Albacita, Don Ferry, Willy Co, and Federico Moreno. See also rollo (G.R. No. 203592) (Vol. IV), p.
+> 2631.
+> Id. at 2631-2632.
+> Namely, (a) Shareholdings, Inc.; (b) Asia Brewery, Inc.; (c) Allied Banking Corporation; (d) Fortune
+> Tobacco; (e) Marailaw Hotels; (f) Virginia Tobacco; (g) Northern Tobacco; (h) Foremost Farms; (i)
+> Sipalay Trading, (j) Himmel Industries; (k) Grandspan Development Corp.; (I) Basic Holdings Corp.;
+> (m) Progressive Farms, Inc.; (n) Manufacturing Services and Trade Corp.; (o) Allied Leasing and
+> Finance Corp.; (p) Jewel Holdings, Inc.; (q) Iris Holdings and Development Corp.; and (r) Virgo
+> Holdings and Development Corp.
+> See ponencia, p. 11.
+> Id. at 61.
+> Id. at 11- 13.
+>
+> Concurring and Dissenting Opinion 4 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> 3. The Sandiganbayan's Resolutions dated July 13, 2011 and August 23,
+> 2011 denying the Republic's Motion to Admit Third Amended
+> Complaint for the purpose of impleading PMFTC, Inc. as a party.
+> These resolutions are the subject of the Petition for Certiorari
+> docketed as G.R. No. 198974;7 and
+> 4. The Sandiganbayan's Decision (Assailed Decision) dated June 11,
+> 2012 and Resolution (Assailed Resolution) dated September 26, 2012
+> dismissing the Republic's Second Amended Complaint. These
+> issuances are the subject of the Petition for Review on Certiorari
+> docketed as G.R. No. 203592.8
+> The ponencia resolves the consolidated petitions, as follows:
+> WHEREFORE, premises considered, this Court rules on the
+> present consolidated petitions as follows:
+> (1) In G.R. No. 195837, the Petition for Review on
+> Certiorari filed by the Republic is DENIED, and
+> the Sandiganbayan's Resolutions dated 22
+> December 2010 and 25 February 2011 are
+> AFFIRMED. The Sandiganbayan's dismissal of
+> the complaint against respondents [Ferry] and
+> [Zalamea] is declared valid.
+> (2) In G.R. No. 198221, the Petition for Certiorari filed
+> by the Republic is DISMISSED, and the
+> Sandiganbayan's Order dated 9 June 2011 and
+> Resolution dated 2 August 2011 are AFFIRMED.
+> The Court holds that the testimonies of [Joselito]
+> and [Aderito] were correctly excluded from
+> evidence by the Sandiganbayan.
+> The Sandiganbayan Resolutions dated 3 May 2011 and 4
+> July 2011 dismissing the Republic's Motion for Voluntary
+> Inhibition are likewise AFFIRMED.
+> (3) In G.R. No. 198974, the Petition for Certiorari filed
+> by the Republic is DISMISSED, and the
+> Sandiganbayan Resolutions dated 13 July 2011 and
+> 23 August 2011, which denied the Republic's
+> Motion to Admit Third Amended Complaint, are
+> AFFIRMED.
+> (4) In G.R. No. 203592, the Sandiganbayan Decision
+> dated 11 June 2012 and Resolution dated 26
+> September 2012 dismissing the Republic's Second
+> Amended Complaint for reversion, reconveyance,
+> restitution, accounting and damages are
+> 7 Id. at 14.
+> 8 Id. at 16.
+>
+> Concurring and Dissenting Opinion 5 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> AFFIRMED. Consequently, the Petition for
+> Review on Certiorari of the Republic of the
+> Philippines is DENIED for lack of merit.9
+> •I concur with the disposition of the petitions docketed as G.R. Nos.
+> 195837, 198221, 198974 in paragraphs (1), (2), and (3), respectively.
+> However, I disagree with the disposition to affirm the Assailed Decision
+> and Assailed Resolution in paragraph ( 4).
+> At the outset, I agree with the holding of the ponencia that it was a
+> mistaken notion on the part of the Sandiganbayan that ill-gotten wealth
+> must originate from the vast resources of the government in order to be
+> deemed as such. As I will also explain below, assets and properties
+> illegally acquired by President FM, Imelda, their close relatives,
+> subordinates, business associates, dummies, agents, or nominees, even if
+> private in nature, still fall within the concept of ill-gotten wealth as
+> contemplated under prevailing law and jurisprudence.
+> Moreover, as opposed to the ponencia, I find the evidence, offered
+> by the Republic thus far, sufficiently establish that Tan was able to secure a
+> brewery license for his corporation, Asia Brewery, Inc. (Asia Brewery),
+> because of his close business relationship with President FM. The chief
+> evidence proffered by the Republic to prove this was Tan's own Written
+> Disclosure which contained admissions. This was bolstered by the other
+> pieces of evidence adduced by the Republic, specifically, Imelda's
+> Amended Answer with Counterclaim and Compulsory Cross-Claim
+> (Amended Answer), BBM's Testimony, and the Sworn Statement of
+> President FM's financial executor, Rolando Gapud (Gapud).10
+> Under prevailing law and jurisprudence, the grant of the brewery
+> license on account of President FM and Tan's close business relationship
+> sufficiently gives rise to the Republic's right of recovery. It should be
+> stressed, however, that since the brewery license is the only benefit
+> shown to have been granted by President FM in favor of Tan, the
+> Republic's right of recovery in this case is premised solely on the grant
+> of said license. Accordingly, the amount that may be recovered by the
+> Republic must be measured based on the ill-gotten wealth derived
+> therefrom. It cannot include any income or wealth that pertains to
+> Allied Banking Corporation (Allied Bank), Fortune Tobacco
+> Corporation (Fortune Tobacco), Foremost Farms, Inc. (Foremost
+> Farms), Himmel Industries, Inc. (Himmel Industries), Silangan
+> Holdings, Inc. (Silangan Holdings), Dominium Realty and
+> Construction Corporation (Dominium Realty), or Grandspan
+> Development Corporation (Grandspan).
+> Strikingly however, there is nothing in the records which would
+> allow the reasonable quantification of such ill-gotten wealth. For this
+> 9 Id at 61-{52.
+> 10 Id at 21.
+>
+> Concurring and Dissenting Opinion 6 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> reason, I submit that the Second Amended Complaint should be remanded
+> to the Sandiganbayan to: (i) allow the Republic to present additional
+> evidence that will permit the proper assessment of such ill-gotten wealth
+> with reasonable certainty; and (ii) afford Tan the opportunity to present
+> controverting evidence, if any.
+> To this end, I submit this Opinion to explain the foregoing
+> submissions in greater detail.
+> The concept of ill-gotten wealth
+> The resolution of G.R. No. 203592 centers on the concept of ill
+> gotten wealth under prevailing law and jurisprudence. Hence, as a starting
+> point, it is apt to discuss its scope and nuances.
+> The Court has long acknowledged that one of the foremost and
+> pressing concerns of the Aquino government in February 1986 was the
+> recovery of the unexplained or ill-gotten wealth amassed by former
+> President FM and Imelda, their relatives, friends, and business associates.11
+> The Court, in Republic v. Lobregat, 12 succinctly described this undertaking
+> as an enterprise "of great pith and moment," and was attended by "great
+> expectations." At the same time, the Court realized that the task of
+> recovering ill-gotten wealth was "initiated not only out of considerations of
+> simple justice but also out of sheer necessity - the national coffers were
+> empty, or nearly so."13 For indeed, when President FM was ousted in 1986,
+> the country's debt was over a staggering amount of $26 billion, while his
+> "illegally acquired wealth" alone, not counting that of his relatives and
+> cronies, was then already estimated to be in the aggregate amount of five to
+> ten billion U.S. dollars, 14 an undoubtedly significant disproportion from his
+> income as a public servant.
+> As the Court found in the much later case of Republic v.
+> Sandiganbayan, 15 while President FM made it appear that he had an
+> extremely profitable legal practice before he became President and that,
+> incredibly, he was still receiving payments almost 20 years after, his first
+> income tax return in 1965 belied all of these claims because no such
+> receivables from any client were indicated at all. As to how his and
+> Imelda's joint income had ballooned over the years, therefore, the Court
+> concurred with the Office of the Solicitor General's (OSG) conclusion in
+> said case that President FM's and Imelda's joint income tax returns from
+> 1965 to 1984 failed to conceal the skeletons of their kleptocracy .16
+> It is likewise c01mnon knowledge that crony capitalism during the
+> administration of President FM thrived. It was a system that allowed certain
+> 11 See Republic v. Sandiganbayan, G.R. No. 152154, July 15, 2003, 406 SCRA 190,219.
+> 12 G.R. No. 96073, January 23, 1995, 240 SCRA 376.
+> Id.
+> 13
+> 14 See id.
+> 15 Supra note 11.
+> 16 See Republic v. Sandiganbayan, id. at 223, citing the Office of the Solicitor General's findings.
+>
+> Concurring and Dissenting Opinion 7 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> friends and relatives of his and Imelda's to acquire great wealth and
+> economic power through special favors and privileges extended by the
+> government. 17 Repmiedly, there were more than 100 companies owned by
+> friends of the Marcos family that failed in the early 80's. Many of these
+> firms were taken over by the State when they were unable to repay loans
+> guaranteed by the government, but the favoritism continued to benefit some
+> cronies through government bailouts even after their firms went belly up.18
+> This is why, evidently, the definition of ill-gotten wealth is not only limited
+> to President FM and Imelda, but extends as well to their close relatives,
+> subordinates, business associates, dummies, agents or nominees who also
+> acquired ill-gotten wealth directly or indirectly, through or as a result of the
+> improper or illegal use of funds or properties of the government or by
+> taking undue advantage of their office, authority, influence, connections or
+> relationship with President FM. Whether ill-gotten wealth was acquired by
+> President FM, Imelda or their family on one hand, or their cronies on the
+> other, the same results of unjust enrichment, and grave damage and
+> prejudice to the Filipino people and the Republic of the Philippines were
+> the common denominator.
+> Verily, just three days after her inauguration in 1986, former
+> President Corazon C. Aquino (President Aquino) issued her very first
+> executive order, Executive Order (EO) No. 1. 19
+> EO No. 1 created the Presidential Commission on Good Government
+> (PCGG), and charged it with the task of assisting President Aquino in the
+> "recovery of all ill-gotten wealth accumulated by [President FM], his
+> immediate family, relatives, subordinates and close associates, whether
+> located in the Philippines or abroad, including the takeover or sequestration
+> of all business enterprises and entities owned or controlled by them, during
+> his administration, directly or through nominees, by taking undue
+> advantage of their public office and/or using their powers, authority,
+> influence, connections or relationship."20
+> Subsequently, President Aquino issued EO No. 2,21 further
+> authorizing the PCGG to freeze or otherwise prevent the transfer,
+> conveyance, encumbrance, concealment, or dissipation of assets and
+> properties pertaining to fonner President FM and/or his wife Imelda, their
+> close relatives, subordinates, business associates, dummies, agents, or
+> nommees.
+> As clearly reflected in their respective "whereas clauses," the
+> aforesaid EOs were premised on the need to recover the assets and
+> 17 See William, B. ( 1984, August 16). 'Crony Capitalism' Blamed for Economic Crisis. Last accessed on
+> June 6, 2023, from <https://www.washingtonpost.com/archive/politics/l 984/08/16/crony-capitalism
+> blamed-for-economic-crisis/d99e8760--087d-4d25-ad66-3d324150dc4d/>.
+> IS Id.
+> 19 Creating the Presidential Commission on Good Government, signed on February 28, 1986.
+> 20 See id. Sec. 2(a), EO No. I.
+> 21 Regarding the Funds, Moneys, Assets, and Properties Illegally Acquired or Misappropriated by Former
+> President Ferdinand Marcos, Mrs. Imelda Romualdez Marcos, their Close Relatives, Subordinates
+> Business Associates, Dummies, Agents, or Nominees, signed on March 12, 1986.
+>
+> Concurring and Dissenting Opinion 8 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> properties amassed by President FM, his immediate family, relatives, and
+> close associates illegally acquired during the Marcos regime. To quote:
+> EO No.1
+> WHEREAS, vast resources of the government have been amassed by
+> former [President FM], his immediate family, relatives, and close
+> associates both here and abroad;
+> WHEREAS, there is an urgent need to recover all ill-gotten wealth[.]
+> EO No. 2
+> WHEREAS, the Government of the Philippines is in possession of
+> evidence showing that there are assets and properties purportedly
+> pertaining to former [President FM], and/or his wife, [Imelda], their close
+> relatives, subordinates, business associates, dummies, agents or nominees
+> which had been or were acquired by them directly or indirectly, through or
+> as a result of the improper or illegal use of funds or properties owned by
+> the Government of the Philippines or any of its branches,
+> instrumentalities, enterprises, banks or financial institutions, or by taking
+> undue advantage of their office, authority, influence, connections or
+> relationship, resulting in their unjust enrichment and causing grave
+> damage and prejudice to the Filipino people and the Republic of the
+> Philippines;
+> WHEREAS, said assets and properties are in the form of bank accounts,
+> deposits, trust accounts, shares of stocks, buildings, shopping centers,
+> condominiums, mansions, residences, estates, and other kinds of real and
+> personal properties in the Philippines and in various countries of the
+> world[.] (Emphasis supplied)
+> On April 11, 1986, the PCGG issued the Rules and Regulations
+> (PCGG Rules) implementing EO Nos. 1 and 2. Drawing from the modes of
+> acquisition of ill-gotten wealth detailed in EO Nos. 1 and 2, the PCGG Rules
+> explicitly defined ill-gotten wealth, as follows:
+> SEC. 1. Definition. - (A) "Ill-gotten wealth" is hereby defined as
+> any asset, property, business enterprise or material possession of persons
+> within the purview of [EO Nos. 1 and 2], acquired by them directly, or
+> indirectly thru dummies, nominees, agents, subordinates and/or business
+> associates by any of the following means or similar schemes:
+> (1) Through misappropriation, conversion, misuse or
+> malversation of public funds or raids on the public
+> treasury;
+> (2) Through the receipt, directly or indirectly, of any
+> commission, gift, share, percentage, kickbacks or any
+> other form of pecuniary benefit from any person and/or
+> entity in connection with any government contract or
+> project or by reason of the office or position of the
+> official concerned[;]
+> (3) By the illegal or fraudulent conveyance or disposition
+> of assets belonging to the government or any of its
+>
+> Concurring and Dissenting Opinion 9 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> subdivisions, agencies or instrumentalities or
+> government-owned or controlled corporations;
+> (4) By obtaining, receiving or accepting directly or
+> indirectly any shares of stocks, equity or any other form
+> of interest or participation in any business enterprise or
+> undertaking;
+> (5) Through the establishment of agricultural, industrial or
+> commercial monopolies or other combination and/or by
+> the issuance, promulgation and/or implementation of
+> decrees and orders intended to benefit particular
+> persons or special interest; and
+> (6) By taking undue advantage of official pos1t10n,
+> authority, relationship or influence for personal gain or
+> benefit.
+> Thereafter, EO No. 14 was issued on May 7, 1986, empowering the
+> PCGG to file and prosecute all cases investigated by it under EO Nos. 1 and
+> 2 before the Sandiganbayan.22
+> In Bataan Shipyard & Engineering Co., Inc. (Baseco) v. Presidential
+> Commission on Good Government,23 the Court further clarified the scope of
+> the concept of ill-gotten wealth by detailing the specific situations
+> contemplated under the aforesaid EO Nos., hence:
+> The situations envisaged and sought to be governed are self-evident,
+> these being:
+> 1) that "(i)ll-gotten properties (were) amassed by the
+> leaders and suppo1iers of the previous regime";
+> a) more particularly, that (i)ll-gotten
+> wealth (was) accumulated by former
+> [President FM], his immediate family,
+> relatives, subordinates and close
+> associates, * * located in the Philippines
+> or abroad, * * ( and) business enterprises
+> and entities ( came to be) owned or
+> controlled by them, during * * (the
+> Marcos) administration, directly or
+> through nominees, by taking undue
+> advantage of their public office and/or
+> using their powers, authority, influence,
+> [c ]01mections or relationship;"
+> b) otherwise stated, that "there are
+> assets and properties purportedly
+> pertaining to former [President FM],
+> and/or his wife [Imelda], their close
+> 22 Sec. I, EO No. 14.
+> 23 G.R. No. L-75885, May 27, 1987, 150 SCRA 181.
+>
+> Concurring and Dissenting Opinion G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> relatives, subordinates, business
+> associates, dummies, agents or
+> nominees which had been or were
+> acquired by them directly or
+> indirectly, through or as a result of
+> the improper or illegal use of funds or
+> properties owned by the Government
+> of the Philippines or any of its
+> branches, instrumentalities,
+> enterprises, banks or financial
+> institutions, or by taking undue
+> advantage of their office, authority,
+> influence, connections or relationship,
+> resulting in their unjust enrichment
+> and causing grave damage and
+> prejudice to the Filipino people and
+> the Republic of the Philippines";
+> c) that "said assets and properties are in
+> the form of bank accounts, deposits,
+> trust accounts, shares of stocks,
+> buildings, shopping centers,
+> condominiums, mansions, residences,
+> estates, and other kinds of real and
+> personal properties in the Philippines
+> and in various countries of the
+> world;" and
+> 2) that certain "business enterprises and properties (were)
+> taken over by the government of the Marcos
+> Administration or by entities or persons close to former
+> [President FM]. "24 (Emphasis and underscoring
+> supplied)
+> From the foregoing, two fundamental points become apparent.
+> Foremost, ill-gotten wealth does not only pertain to assets and
+> properties illegally acquired by President FM himself. Ill-gotten wealth also
+> pertains to assets and properties illegally acquired by other individuals,
+> particularly, President FM's wife Imelda, their close relatives, subordinates,
+> business associates, dummies, agents, or nominees.
+> As well, the Court affirmed in several cases25 that ill-gotten wealth
+> may be acquired through either of two means:first, "through or as a result of
+> the improper or illegal use of funds or properties owned by the government
+> of the Philippines or any of its branches, instrumentalities, enterprises,
+> banks, or financial institutions" (first mode of acquisition), or second, "by
+> taking undue advantage of their office, authority, influence, connections or
+> relationship [for personal gain or benefit] resulting in their unjust enrichment
+> and causing grave damage and prejudice to the Filipino people and the
+> 24 Id. at 205-206.
+> 25 Ponencia, p. 42.
+>
+> Concurring and Dissenting Opinion 11 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Republic of the Philippines" (second mode of acquisition).
+> As keenly observed by the ponencia, the second mode of acquisition
+> does not require that the assets and properties in question be government
+> owned in order to be deemed ill-gotten.26 Stated otherwise, assets and
+> properties which are private in nature may still fall within the concept of ill
+> gotten wealth if they have been acquired by President FM, Imelda, their
+> close relatives, subordinates, business associates, dummies, agents, or
+> nominees by taking undue advantage of their office, "authority, influence,
+> connections or relationship"27 for personal gain or benefit28 "resulting in
+> their unjust enrichment and causing grave damage and prejudice to the
+> Filipino people and the Republic of the Philippines."29
+> On this score, I agree that the Sandiganbayan unduly restricted the
+> concept of ill-gotten wealth when it held that such " [does] not include all the
+> properties of [President FM], his immediate family, relatives, and close
+> associates[,] but only the part that originated from the ['vast resources of the
+> government. ']"30 To restrict the definition of ill-gotten wealth in such
+> manner, as did the Sandiganbayan, would be to ignore the plain construction
+> of the definition found in the relevant laws, which, to repeat, contemplate
+> two (2) things: (i) assets and properties originating from government funds
+> and obtained through the first mode of acquiring ill-gotten wealth; or (ii)
+> private assets and properties acquired through the second mode of acquiring
+> ill-gotten wealth. The Sandiganbayan's narrow interpretation would set a
+> dangerous precedent, as it would effectively remove private assets and
+> properties which were unlawfully acquired by President FM, his immediate
+> family, relatives, or close associates from the scope ofEO Nos. 1, 2, and 14.
+> The broad construction of ill-gotten wealth is reinforced by
+> jurisprudence.
+> In Silverio v. Presidential Commission on Good Government31
+> (Silverio), the OSG filed with PCGG a complaint for graft and corrupt
+> practices and other crimes related to public service. Therein petitioner
+> Ricardo Silverio (Ricardo) was imp leaded as one of several defendants.
+> During the proceedings, PCGG issued several writs of sequestration against
+> Ricardo's properties. Ricardo filed a motion to quash the complaint and lift
+> the writs of sequestration, claiming that no probable cause had been shown
+> to justify the sequestration of his properties. However, PCGG did not act on
+> the motion. Aggrieved, Ricardo filed a Rule 65 petition before the Court,
+> imputing grave abuse of discretion on the part of PCGG.
+> 26 Id. at 41-43.
+> 27 Whereas Clause, EO No. 2.
+> 28 Sec. I, PCGG Rules.
+> 29 Supra note 27.
+> 30 Rollo (G.R. No. 203592, Vol. l), p. 145.
+> 31 G.R. No. L-77645, October 26, 1987, 155 SCRA 60.
+>
+> ConcmTing and Dissenting Opinion 12 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> The Court dismissed Ricardo's petition for lack of merit. In so ruling,
+> the Court held that under EO Nos. 1, 2, and 14, the PCGG is empowered to
+> issue writs of sequestration and similar orders in furtherance of its duty of
+> recovering illegally-acquired wealth. The Comi explained:
+> Under [EO Nos.] 1, 2 and 14, the respondent PCGG is empowered
+> to issue writs of sequestration, and similar orders so as to accomplish its
+> duty of recovering illegally-acquired wealth. The power to sequester
+> property means to place or cause to be placed under its possession or
+> control said property, or any building or office wherein any such property
+> or any records pertaining thereto may be found, including business
+> enterprises and entities - for the purpose of preventing the destruction,
+> concealment or dissipation of, and otherwise conserving and preserving,
+> the same - until it can be determined, through appropriate, judicial
+> proceedings, whether the property was in truth "ill-gotten," i.e., acquired
+> through or as a result of improper or illegal use of or the conversion
+> of funds belonging to the Government or any of its branches,
+> instrumentalities, enterprises, banks or financial institutions, or by
+> taking undue advantage of official position, authority, relationship,
+> connection or influence, resulting in unjust enrichment of the
+> ostensible owner and grave damage and prejudice to the State.32
+> (Emphasis and underscoring supplied)
+> While Silverio primarily involved a motion to lift the provisional
+> sequestration orders of the PCGG, it is well to note that the properties
+> involved therein were private in nature, and owned by therein petitioner
+> Ricardo, a businessman who was charged before the PCGG due to his close
+> relationship with President FM. Thus, in dismissing Ricardo's Petition for
+> Certiorari, the Court held that "the record of the case shows prima facie that
+> the various business interests of [Ricardo] have enjoyed considerable
+> privileges obtained from former President [FM] during his tenure as Chief
+> Executive in violation of existing laws; privileges which could not have been
+> so obtained were it not for the close association of the petitioner with the
+> former President. "33
+> As well, in Republic v. Tuvera34 (Tuvera), Juan Tuvera (Juan), as
+> Presidential Executive Assistant of President FM, was charged with taking
+> advantage of his relationship and connection with the latter by engaging in a
+> scheme to unjustly enrich himself at the expense of the Republic and of the
+> Filipino people. This was allegedly accomplished on his part by securing a
+> Timber Licensing Agreement (TLA) on behalf of Twin Peaks, a private
+> corporation owned by his son, Victor Tuvera (Victor), despite Twin Peaks'
+> lack of qualification to be a grantee thereof. The Republic, through PCGG,
+> sought the reconveyance of the revenues earned by Twin Peaks in an
+> approximate amount of P45 million.35
+> 32 Id. at 64--65. Citations omitted.
+> 33 Id. at 65--66.
+> 34 G.R. No. 148246, February 16, 2007, 516 SCRA 113.
+> 35 See id. at 120-121.
+>
+> Concurring and Dissenting Opinion 13 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> The Court agreed with the Republic that Juan, Victor, and Twin Peaks
+> had amassed ill-gotten wealth in the form of assets and properties derived
+> through the latter's operations.36 Similar to Silverio, the assets and properties
+> found to be ill-gotten in Tuvera were also private in nature.
+> More recently, in the case of Disini v. Republic37 (Disini), the
+> Republic filed an action for recovery of ill-gotten wealth against Herminio
+> Disini (Henninio ), a close associate of President FM. The Republic claimed
+> that contractor Westinghouse Electric Corporation (Westinghouse) and
+> architectural firm Burns & Roe, Inc. (B&R) solicited the influence of
+> Herminio for the purpose of ensuring their appointment as the main
+> contractor and architect-engineer for the government's Bataan Nuclear
+> Power Plant Project (BNPP). In exchange, Herminio received commissions
+> equivalent to a percentage of the price of Westinghouse's and B&R's
+> awarded contracts. The Republic further alleged that Henninio unduly took
+> advantage of his close association with President FM to obtain favorable
+> terms for Westinghouse by requesting the latter to issue orders and directives
+> to the National Power Corporation (NPC) to accept Westinghouse's
+> proposals.
+> For his part, Herminio argued, among others, that the Republic had no
+> cause of action against him as it failed to present proof that the alleged
+> commissions he received were part of the purchase price paid by the
+> Republic to Westinghouse and B&R. In other words, the Republic failed to
+> adduce proof that the alleged commissions had been derived from
+> government funds. This argument was strongly rejected by the Court, thus:
+> [C]ontrary to the contention of Disini, ill-gotten wealth also en com passes
+> those that are derived indirectly from government funds or properties
+> through the use of power, influence, or relationship resulting in unjust
+> enrichment and causing grave damage and prejudice to the Filipino
+> people and the Republic. The alleged subject commissions may not
+> have been sourced directly from the public funds but it is beyond cavil
+> that Disini would not have amassed these commissions had he not
+> exerted undue influence on [President FM).38 (Emphasis and
+> underscoring supplied)
+> The Com1 notably added that "the Republic may recover ill-gotten
+> wealth not only from [President FM], Imelda and his immediate family, but
+> also from his dummies, nominees, agents, subordinates and/or business
+> associates whether or not [President FM] is also found liable together
+> with them."39
+> To repeat, the concept of ill-gotten wealth, as properly understood in
+> 36 See id.
+> 37 G .R. No. 205172, June 15, 2021, accessed at <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs
+> /1/67468>.
+> 38 Jd.
+> 39 Id.
+>
+> Concurring and Dissenting Opinion 14 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Silverio, Tuvera, and Disini, can be broken down as follows:
+> 1. Ill-gotten wealth does not only pertain to assets and properties
+> illegally acquired by President FM himself, but also to assets and
+> properties illegally acquired by other individuals, particularly,
+> President FM' s wife Imelda, their close relatives, subordinates,
+> business associates, dummies, agents, or nominees. For this reason,
+> the Republic may recover ill-gotten wealth not only from President
+> FM, but also directly from said individuals, whether or not President
+> FM is found liable together with any of them.
+> 2. Ill-gotten wealth may be acquired either "through or as a result of the
+> improper or illegal use of funds or properties owned by the
+> government of the Philippines or any of its branches,
+> instrumentalities, enterprises, banks, or financial institutions" ( first
+> mode of acquisition), or "by taking undue advantage of their office,
+> authority, influence, connections or relationship, resulting in their
+> unjust enrichment and causing grave damage and prejudice to the
+> Filipino people and the Republic of the Philippines" (second mode of
+> acquisition). Under the second mode of acquiring ill-gotten wealth,
+> the assets and properties in question need not emanate from the vast
+> resources of the government in order to be deemed ill-gotten and
+> recovered by the Republic.
+> Furthermore, Section 3 of EO No. 14, as amended, expressly provides
+> that all civil suits for restitution, reparation of damages, or indemnification
+> for consequential damages, forfeiture proceedings, or any other civil actions
+> in connection with EO Nos. 1 and 2 may proceed independently of any
+> criminal proceedings, and may be proved by preponderance of evidence.
+> Thus:
+> SEC. 3. The civil suits to recover unlawfully acquired property
+> under Republic Act No. 1379 or for restitution, reparation of damages, or
+> indemnification for consequential and other damages or any other civil
+> actions under the Civil Code or other existing laws filed with the
+> Sandiganbayan against [President FM], [Imelda], members of their
+> immediate family, close relatives, subordinates, close and/or business
+> associates, dummies, agents and nominees, may proceed independently of
+> any criminal proceedings and may be proved by a preponderance of
+> evidence.
+> As often defined, preponderance of evidence is meant that the
+> evidence adduced by one side is, as a whole, superior to that of the other
+> side. Essentially, it refers to the comparative weight of the evidence
+> presented by the opposing parties and is usually considered to be
+> synonymous with the term greater weight of the evidence or greater weight
+> of the credible evidence. Preponderance of evidence is proof that is more
+> convincing to the court as worthy of belief than that which is offered in
+> opposition thereto.40
+> 40 See Republic v. Reyes-Bakunawa, G :R. No. 180418, August 28, 20 I 3, 704 SCRA 163, 177- 178. (ff
+>
+> Concurring and Dissenting Opinion 15 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> In this case, the Republic's claim for reconveyance of 60% of the
+> shares of Shareholdings, Inc. (SHI) is anchored on the following premises:
+> (i) President FM and Tan entered into a 60-40 sharing agreement concerning
+> Tan's corporations; (ii) the umbrella corporation SHI, and the three primary
+> holding corporations Basic Holdings Corp. (Basic), Falcon Holdings Corp.
+> (Falcon), and Supreme Holdings Inc. (Supreme) were formed in order to
+> implement said 60-40 arrangement; (iii) President FM had been given
+> beneficial ownership of 60% of the shares of SHI; and (iv) such 60%
+> beneficial interest is presently held by respondent-stockholders as mere
+> dummies of President FM. On this basis, the Republic asserts that said 60%
+> interest should be reconveyed in favor of the Republic as it constitutes ill
+> gotten wealth.
+> As I had stated at the outset, I find that the Republic failed to establish
+> that President FM beneficially owned 60% of SHI and that respondent
+> stockholders merely stand as his dummies. Nevertheless, applying the
+> definition of ill-gotten wealth under prevailing law and jurisprudence, I find
+> that the Republic has preponderantly established that Tan had secured Asia
+> Brewery's license through his close business relationship with President FM.
+> Since this brewery license is the only undue benefit shown to have been
+> granted by President FM in favor of Tan, the extent of the Republic's right
+> of recovery in this case must be measured solely on the basis of the ill-gotten
+> wealth derived by Tan from said brewery license. It cannot be measured on
+> the basis of any wealth derived from the other operating companies whose
+> shares of stocks are also held by SHI, to wit: Allied Bank, Fortune Tobacco,
+> Foremost Farms, Himmel Industries, Silangan Holdings, Dominium Realty,
+> or Grands pan. Accordingly, I submit that it is improper, if not unjust, to use
+> 60% of the shares of SHI as a metric for recovery in this case.
+> I expound.
+> The pieces of evidence relied
+> upon and formally offered by the
+> Republic are admissible and
+> should be duly considered
+> To recall, the Republic's Second Amended Complaint alleged,
+> among others, that:
+> Tan was a business partner of [President FM]. [President FM] and
+> [Tan] had agreed that the former would own 60% of [SHI] which, in turn,
+> beneficially held and/or controlled substantial shares of Fortune Tobacco,
+> [Asia Brewery], [Allied Bank], and Foremost Farms and other
+> corporations here and abroad. Apart from [the] said 60% beneficial
+> interest of [President FM], [Tan] yearly paid the former sums of money
+> from 1980 to 1986, in exchange for privileges and concessions which
+> [President FM] gave [Tan] . . .4 1
+> 41 Rollo (G.R. No. 203592) (Vol. JV), p. 2634.
+>
+> Concurring and Dissenting Opinion 16 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> In support, the Republic presented as evidence, among others,
+> Imelda's Amended Answer filed before the Sandiganbayan, BBM's
+> Testimony before the Sandiganbayan, the Sworn Statement of Gapud, and
+> Tan's Written Disclosure. However, the Sandiganbayan, in its Assailed
+> Decision and Assailed Resolution, did not give credence to the first three
+> (3) pieces of evidence based on inadmissibility.
+> The Sandiganbayan held that Imelda's Amended Answer was, in
+> fact, disallowed,42 and treated BBM's Testimony regarding President FM
+> and Tan's discussions as mere hearsay as he was not privy to those
+> discussions.43 Similarly, the Sandiganbayan also found Gapud's Sworn
+> Statement as hearsay because he did not take the witness stand and was not
+> cross-examined by the defense.44
+> As regards Tan's Written Disclosure, the Sandiganbayan gave it
+> short shrift, ruling that there was no proof that Tan's requests were
+> implemented or that the corporations benefited from President FM. It
+> further ruled that there is no showing that President FM' s grant of favors
+> and privileges to a corporation results in the government's ownership of its
+> shares, assets, and properties that may be recovered as ill-gotten wealth.45
+> The respondents, for their part, also have issues as to the inadmissibility of
+> Tan's Written Disclosure. They averred that it was presented by Senator
+> Jovito Salonga (Senator Salonga), whose direct examination on the matter
+> was not completed and who was also not cross-examined by the defense.46
+> The ponencia agrees with the findings of the Sandiganbayan that the
+> above-cited pieces of evidence are either inadmissible in evidence or
+> lacking in probative value and hence, are not proof that the assets and
+> prope11ies subject of this case were acquired by Tan by taking advantage of
+> his connections with the Marcos family.47 I hold otherwise. I submit that
+> the above-cited pieces of evidence are admissible in evidence and should
+> have been duly considered by the Sandiganbayan. I submit further that they
+> preponderantly establish the Republic's right of recovery against Tan.
+> IMELDA'S AMENDED ANSWER
+> While it can be conceded that Imelda's Amended Answer was
+> disallowed by the Sandiganbayan on the ground that her cross-claims did
+> not involve the same transactions or acts as that of the principal cause of
+> action in the Republic's case, said pleading, however, was formally offered
+> as documentary evidence by the Republic. Thus, the statements contained
+> therein may be considered as extrajudicial admissions pursuant to Section
+> 2648 (now Section 27), Rule 130 of the Rules of Court, which states that
+> 42 See ponencia, pp. 44-45.
+> 43 See id. at 16.
+> 44 See id.
+> 45 Rollo (G.R. No. 203592) (Vol. I), p. 151.
+> 46 See ponencia, p. 23.
+> 47 See id. at 43-45.
+> 48 Now, 20 I 9 REVISED RULES ON EVIDENCE, Rule 130, approved on October 8, 2019.
+>
+> Concu1Ting and Dissenting Opinion 17 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> "[t]he act, declaration or omission of a party as to a relevant fact may be
+> given in evidence against him or her." As held in Bon v. People,49 this rule
+> is based upon the truism that no man [o r woman] would make any
+> declaration against himself [o r herself], unless it is true. 50
+> By analogy, the disallowed pleading of Imelda is akin to an original
+> pleading that was amended or superseded and hence, had disappeared from
+> the record, lost its status as a pleading, and ceased to be a judicial
+> admission which would have required no proof. 51 That said, such pleading
+> may still be utilized against the pleader as an extrajudicial admission,
+> subject to it being first formally offered in evidence.52 Since Imelda's
+> Amended Answer had been formally offered in this case, there should be
+> no reason, therefore, to render it ineffective.
+> The ponencia points out however, that Imelda was not cross
+> examined on her statements in the Amended Answer. 53
+> Certainly, Imelda's Amended Answer is in the nature of a private
+> document. Lacking the official or sovereign character of a public document,
+> or the solemnities prescribed by law, a private document requires
+> authentication in the manner allowed by law or the Rules of Court before
+> its acceptance as evidence in court. However, in four ( 4) instances, the
+> requirement of authentication of a private document is excused, to wit: (a)
+> when the document is an ancient one within the context of Section 21, Rule
+> 132 of the Rules of Court; (b) when the genuineness and authenticity of an
+> actionable document have not been specifically denied under oath by the
+> adverse party; ( c) when the genuineness and authenticity of the document
+> have been admitted; or ( d) when the document is not being offered as
+> genuine.54 I submit that Imelda's Amended Answer falls within the third
+> exception.
+> It is beyond cavil that Imelda fought for the admission of her
+> Amended Answer before the Sandiganbayan. After the graft court denied
+> its admission, Imelda moved for reconsideration, but the same was denied
+> by the Sandiganbayan via a minute resolution.55 She then appealed said
+> denial before the Court, which, however, affirmed the Sandiganbayan.56
+> These acts, to my mind, are clear affirmations on her part that her Amended
+> Answer is genuine and authentic. Consequently, it was not imperative
+> anymore for the Republic to authenticate the Amended Answer through the
+> testimony of Imelda.
+> Furthermore, given the genumeness and due execution of the
+> 49 G.R. No. 152160, January 13, 2004, 419 SCRA 101.
+> 50 See id. at I I I.
+> 51 See Chingv. Court ofA ppeals, G.R. No. 110844, April 27, 2000, 331 SCRA 16, 34.
+> 52 See id.
+> f
+> 3 Ponencia, p. 47.
+> 54 Patula v. People, G.R. No. 164457, April 11, 2012, 669 SCRA 135, 156.
+> 1:
+> Rollo (G.R. No. 203592) (Vol. I), p. 154.
+> Id.
+>
+> Concurring and Dissenting Opinion 18 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Amended Answer, the statements contained therein should be considered as
+> admissions against Imelda's interest. Admissions against [one's] interest
+> are those made by a party to a litigation or by one in privity with or
+> identified in legal interest with such paiiy and are admissible whether or
+> not the declarant is available as a witness.57
+> So, too, notwithstanding the application of the res inter alias acta
+> rule, Imelda's Amended Answer is high quality evidence58 that cannot
+> simply be brushed aside. In the first place, the Sandiganbayan should not
+> have bound itself by the technical rules of procedure, taking its cue from
+> the adopted liberal approach of the Court regarding technical rules of
+> procedure in cases involving recovery of ill-gotten wealth. 59 As previously
+> elaborated by the Court in Republic v. Gimenez60 (Gimenez):
+> In all the alleged ill-gotten wealth cases filed by the PCGG, this
+> Court has seen fit to set aside technicalities and formalities that merely
+> serve to delay or impede judicious resolution. This Court prefers to have
+> such cases resolved on the merits at the Sandiganbayan. But substantial
+> justice to the Filipino people and to all parties concerned, not mere
+> legalisms or perfection of form, should now be relentlessly and firmly
+> pursued. Almost two decades have passed since the government initiated
+> its search for and reversion of such ill-gotten wealth. The definitive
+> resolution of such cases on the merits is thus long overdue. If there is
+> proof of illegal acquisition, accumulation, misappropriation, fraud or illicit
+> conduct, let it be brought out now. Let the ownership of these funds and
+> other assets be finally determined and resolved with dispatch, free from all
+> the delaying technicalities and annoying procedural sidetracks. 61 (Italics in
+> the original)
+> Thus, here, even if it is assumed that the rule on res inter alias acta
+> were to apply, the treatment of the extraj udicial admission as hearsay is
+> bound by the exception on independently relevant statements.62 Under the
+> doctrine of independently relevant statements, regardless of their truth or
+> falsity, the fact that such statements have been made is relevant. The
+> hearsay rule does not apply, and the statements are admissible as evidence.
+> Evidence as to the making of such statement is not secondary but primary,
+> for the statement itself may constitute a fact in issue or be circumstantially
+> relevant as to the existence of such a fact. 63
+> The statements in Imelda's Amended Answer, being extrajudicial
+> admissions against her interest, are independently relevant to prove the
+> arrangement between President FM and Tan. As the Republic emphasized,
+> Imelda maintained in her Amended Answer that their family owns at least
+> 60% of Tan's businesses by vi1iue of the said arrangement. According to
+> the Republic, Imelda's claim validates its theory that, indeed, President FM
+> 57 See Lazaro v. Agustin, G.R. No. 152364, April 15, 2010, 618 SCRA 298,308.
+> 58 See People v. Buntag, G.R. No. 123070, April 14, 2004, 427 SCRA 180.
+> 59 Republic v. Gimenez, G.R. No. 174673, January 11, 2016, 778 SCRA 261.
+> 60 Id.
+> 61 Id. Citation omitted.
+> 62 See Buenaflor Car Services, Inc., v. David, Jr., G.R. No. 222730, November 7, 2016, 807 SCRA 191.
+> 63 Id.
+>
+> Concurring and Dissenting Opinion 19 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> unlawfully entered into a business arrangement with Tan and then used his
+> position and power to grant numerous concessions and privileges to these
+> corporations in violation of the Constitution and anti-graft laws.64
+> The Republic quoted the following telling narration in Imelda's
+> Amended Answer:
+> 42. Way before and continuing through 1985, former [President
+> FM] had beneficial ownership, together with [Tan], his family and
+> associates, in the following operating companies, as well as the
+> subsidiaries and companies which these operating companies have
+> acquired, or in tum invested in, to wit:
+> 1. [Himmel Industries]
+> 2. [Fortune Tobacco]
+> 3. [Foremost Farms]
+> 4. [A sia Brewery]
+> 5. [Grandspan]
+> 6. [Silangan Holding(s)]
+> 7. [Domini um Realty]
+> 43. [President FM] had a sixty percent (60%) beneficial
+> ownership in said companies, which beneficial interests were held in
+> trust by [Tan] personally and through his family members and
+> business associates who appeared as the recorded stockholders of said
+> companies.
+> 44. Sometime in late 1980, [President FM] and [Tan] agreed to
+> consolidate their ownership interests in the various businesses, in one
+> holding company organized under the name [SHI].
+> [44.1] To implement such consolidation, the record (or nominee)
+> stockholders of the above-named seven (7) operating companies
+> transferred their stockholdings in said companies to defendant [SHI]
+> through separate Deeds of Sale of Shares of Stock.
+> [44.2] In consideration, and in exchange, for such transfer of
+> shares of the operating companies, [SHI] in tum, issued its shares of stock
+> to the record (nominee) stockholders of the above-named operating
+> companies.
+> [44.3] In fine, the transferring record (nominee) stockholders of the
+> operating companies became likewise the record (nominee) stockholders
+> of the holding company, [SHI].
+> 45. Having achieved the consolidation of their beneficial
+> ownership interests, through the organization of the holding
+> company, [SHI], [President FM] and [Tan] then agreed to structure
+> the segregation of their beneficial ownership interest[s] in the
+> proportion of sixty percent (60%) for [President FM] and forty
+> percent (40%) for [Tan].
+> 45.1 For this purpose, three ultimate holding companies were
+> organized in the middle of 1984: [Basic], [Supreme], and [Falcon], with
+> 64 See rollo (G.R. No. 203592) (Vol. VII), p. 3995.
+>
+> Concurring and Dissenting Opinion 20 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> the intention of having Basic as the record owner of the beneficial interests
+> of [Tan] and his group (40%) and Supreme and Falcon, as the record
+> owners of the aggregate beneficial interest[s] of [President FM] (60%).
+> 45.2 In express acknowledgment of the fact that they merely held
+> their recorded interest in [SHI] in trust for [President FM] and [Tan], in
+> the ratio of 60%-40%, respectively, the record (nominee) stockholders of
+> [SHI] then assigned their stockholdings in [SHI] to the newly organized
+> ultimate holding companies as follows:
+> Stockholders No. of Shares % of Holdings
+> [Basic] 61,617,500 [49.0]%
+> [Supreme] 31,437,500 25.0%
+> [Falcon] 31,437,500 25.0%
+> [Tan] 628,750 0.5%
+> [Mariano 628,750 0.5%
+> Tan Eng Lian]
+> TOTAL 125,750,000 100.0%
+> 45.3 To make the shareholdings of Basic confonn to the agreed 60%-
+> 40% ratio, Basic executed a Deed of Sale of Shares of Stock in favor of
+> Supreme, transferring 9% of [SHI] shares held by the former in favor of
+> the latter.
+> 45.[4] After Basic transferred 9% of its 49% stock ownership m
+> [SHI], the stock ownership in [SHI] became as follows:
+> Stockholders No. of Shares % of Holdings
+> [Basic] 50,300,000 40.0%
+> [Supreme] 42,755,000 34.0%
+> [Falcon] 31,437,500 25.0%
+> [Tan] 628,750 0.5%
+> [Tan Eng Lian] 628,750 0.5%
+> TOTAL 125,750,000 100.0%
+> 46. In express recognition of the beneficial ownership of [President
+> FM], the incorporators of both Falcon and Supreme executed and
+> delivered to [President FM] blank Deeds of Assignment.
+> 4 7. The assignment by the defendants record-stockholders of [SHI]
+> of sixty percent ( 60%) of that company's then outstanding capital stock to
+> Falcon and Supreme which are, in turn, beneficially owned entirely by
+> [President FM], is an express acknowledgment by such defendants,
+> including defendant [Tan], that they held such interests in trust for, and for
+> the benefit of [President FM].
+> 48. Defendant [Imelda] as surviving spouse and heir of [President
+> FM] and the Estate of [President FM], the latter being the legal successor
+> in-interest of [President FM], repeatedly demanded from defendant [Tan]
+> and the other defendant-record stockholders of [SHI] that they perform or
+> enforce the trust by delivering and recording the ownership of sixty
+> percent (60%) of [SHI]'s outstanding capital stock to [the] Estate of
+> [President FM], thru Falcon and Supreme, in accordance with the Deeds
+>
+> Concurring and Dissenting Opinion 21 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> of Assignment.
+> 49. Despite and notwithstanding such repeated demands, defendants
+> [Tan] and record (nominee) stockholders of [SHI] failed and refused to
+> comply with said demands.65 (Emphasis and italics supplied)
+> Apart from the foregoing admissions, it is well to note at this juncture
+> that the Republic likewise touched on the alleged public declarations of
+> Imelda about the Marcoses' wealth. One such "critical public declaration"
+> was nan-ated by the late Senator Salonga:
+> Imelda: "We own practically everything in the Philippines ... "
+> Many people did not realize how much had been accomplished by
+> the PCGG through sequestration until [Imelda] came out with a series of
+> "bombshell" revelations as published from day to day in the December
+> issues of Philippine Daily Inquirer (December 5, 6, 7, 8 and 9)[.] Without
+> realizing its far-reaching implication, [Imelda] declared:
+> We practically own everything in the Philippines,
+> from electricity, telecommunication, airlines, banking, beer
+> and tobacco, newspaper publishing, television stations,
+> shipping, oil, mining, hotels, and health resorts, down to
+> coconut mills, small fisheries, real estates and insurance.
+> [Imelda] said she would reclaim an estimated 500 billion pesos
+> ( around $13 billion 1999), now in the hands of the Marcos cronies. The
+> prominent Marcos cronies, whom she called "trustees" were, by her
+> own account, merely holding many of the sequestered properties for
+> her own account, merely holding many of the sequestered properties
+> for and in the name of her husband, [President FM]. This was
+> precisely what the PCGG had maintained since 1986 except that the
+> Marcoses are not the real owners - it is the Filipino people. Among
+> the trustees she named were [Tan], Eduardo "Danding" Cojuangco, the
+> late Ramon Cojuangco and his son, Antonio "Tonyboy" Cojuangco,
+> Imelda Cojuangco, Herminia D[i]sini, [Gapud], Jose Yao Campos,
+> Roberto Benedicto and many others.66 (Emphasis in the original)
+> The Republic highlighted another supposed public declaration made
+> by Imelda through the testimony of Christine Hen-era (Hen-era), a former
+> reporter from the Philippine Daily Inquirer to whom Imelda granted an
+> interview on the alleged wealth of the Marcoses based on various deeds of
+> sales of shares of stocks and blank deeds of assignments.67 The pertinent
+> portions of the testimony of Hen-era were quoted by the Republic in its
+> Memorandum as follows:
+> Atty. Generillo:
+> Q: Ms. Witness in Exhibit "VVVVVVVVVVV" a
+> statement attributed to [Imelda] appears, and I would like to
+> read for the record, as follows:
+> 65 Rollo (G.R. No. 203592) (Vol. VII), pp. 3997-4000.
+> 66 Id. at 4003-4004. Citation omitted.
+> 67 Id. at 3865.
+>
+> Concurring and Dissenting Opinion 22 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> "Among the biggest companies
+> held by Tan for [President FM) according
+> to the former First Lady were: [Fortune
+> Tobacco], [Allied Bank), [Asia Brewery),
+> [Foremost Farms) and the Flagship
+> Company [SHI). According to [Imelda)
+> all the shares and stock up to 60% to
+> 100% held by Tan were for [President
+> FM). Tan, whom she called '[ang
+> magboboteJ' (bottle peddler) gammg
+> substantial concession in specific taxes,
+> stamp duties for a cigarette Fortune
+> Tobacco and here Asia Brewery
+> Operations' she said, we gave Tan and
+> [others ..." )
+> INTERRUPTED -
+> (TSN dated July 2, 2008, pp. 24-25)
+> Atty. Generillo:
+> Another statement, Your Honor, was on page 1 is as
+> follows:
+> "[Imelda] said she met Tan through
+> her cousin Herminia [D isini]."
+> May we request, Your Honor, that this pos1t10n be
+> bracketed and marked as Exhibit "VVVVVVVVVVV-
+> 3 [?"] ...
+> Atty. Generillo:
+> Another statement found on page 2, read[s] as
+> follows:
+> "She explained that Tan was a
+> small[-]time businessman before he
+> became member of [President FM] 's
+> inner circle, she said Tan was into
+> bottling and filter manufacturing, but
+> that, these were just small businesses[.")
+> May we request that this portion be bracketed and
+> marked as Exhibit "VVVVVVVVVVV-4[?]"
+> (TSN dated July 2, 2008, pp. 26-27)
+> Atty. Generillo:
+> On page 18, Your Honor, of this issue marked as
+> Exhibit ["]WWWWWWWWWWW-1" there appears a
+> statement, which read, as follows:
+> "The next thing [President FM) did,
+> [Imelda] said, was to assign trustees who
+>
+> Concurring and Dissenting Opinion 23 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> belo11g to [Preside11t FM] 's i1111er circle to
+> various companies[."]
+> May we request, Your Honor, that this portion be
+> bracketed and marked as Exhibit
+> "WWWWWWWWWWW-2[?"]
+> Atty. Generillo:
+> There is also a statement appearing on page 18, and
+> it reads:
+> "Eduardo Danding Cojuangco was
+> brought in by Ramon Cojuangco, to
+> [Tan] was brought in by [Imelda]'s
+> cousin-in-law Herminio [Disini], [Gapud],
+> former Security Bank and Trust
+> Company President was brought in by
+> Jose Yao-Campos, owner of the United
+> Laboratories, Roberto Benedicto, Manuel
+> Nieto, and 25 others would be cronies
+> were also top because they were there at
+> the right place at the right time, [Imelda]
+> said[."]
+> May we request, Your Honor that this portion be
+> bracketed and marked as Exhibit
+> "WWWWWWWWWWW-3 [?"]
+> (TSN dated July 2, 2008, pp. 28-30)
+> Atty. Generillo:
+> Another statement appearing on page 18 reads as
+> follow[s]:
+> "She said 'since her husband was
+> President at that time, he could not sit as
+> President and Chairman of all the
+> companies he had acquired, so he instead
+> chose his [dummies] who fully agreed to
+> manage the company on his behalf[_. "]
+> May we request, Your Honor, that this portion be
+> bracketed and marked as Exhibit
+> "WWWWWWWWWWW-5 [?]"
+> Atty Generillo:
+> Another statement appearing on page 18 reads, as
+> follow[s]:
+> "lkaw a11g assig11 dito, ikaw dito,
+> hi11di yu11g ako a11g Presidente 11ito, ako
+>
+> Concurring and Dissenting Opinion 24 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> ang Presidente noon kasi Presidente na
+> ako ng bayan[.J" [T]ranslation in English,
+> Your Honor[:) "[Y) ou are assigned here,
+> you are assigned there, I won't to (sic) be
+> President of any company because I am
+> already the President of the
+> Philippines[,]" she said. All of them
+> willingly signed Deeds of Trust, this way,
+> they became his close associates, [Imelda)
+> said[.")
+> May we request, Your Honor, that this portion be
+> bracketed and marked as Exhibit
+> "WWWWWWWWWWW-6[?"]
+> (TSN dated July 2, 2008, pp. 31-32)68 (Emphasis and italics m the
+> original)
+> The foregoing evidently shows that Imelda has been consistent with
+> her claims about the arrangement between her husband, President FM, and
+> Tan. These public declarations, taken together with her Amended Answer,
+> should therefore be weighed and evaluated by the Sandiganbayan more
+> carefully and closely.
+> BBM'S TESTIMONY
+> As to BBM's Testimony, the ponencia holds that it is hearsay
+> because he was not privy to the alleged 60-40 arrangement of the share
+> transfers between and among the various corporations.69
+> I strongly disagree.
+> Any evidence - whether oral or documentary - is hearsay if its
+> probative value is not based on the personal knowledge of the witness, but
+> on that of some other person who is not on the witness stand. Hence,
+> information that is relayed to the former by the latter before it reaches the
+> court is considered hearsay.70 In other words, hearsay evidence is defined
+> as "evidence not of what the witness knows himself [o r herself] but of what
+> he [o r she] has heard from others;" and the hearsay rule bars the testimony
+> of a witness who merely recites what someone else has told him or her,
+> whether orally or in writing.71 This is certainly not the case here. BBM
+> testified on his own conversations with his father and on his own meetings
+> with Tan and Gapud that both pertain to his own orientation and eventual
+> involvement with the business interests of his family in Tan's companies.
+> Ineluctably, these are facts which he knows of his own personal knowledge
+> and specifically derived from his own perception and experience. 72
+> 68 Id. at 4005-4007.
+> 69 Ponencia, p. 53.
+> 70 Bon v. People, supra note 49, at I 09.
+> 71 Calicdan v. Cendana, G.R. No. 155080, February 5, 2004, 422 SCRA 272, 278.
+> 72 See Sec. 22, 2019 REVISED RULES ON EVIDENCE, supra note 48.
+>
+> Concurring and Dissenting Opinion 25 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> The equally telling testimony of BBM was quoted by the Republic in
+> this wise:
+> Q: "When was the first time that you saw [Tan]?"
+> WITNESS CONG. MARCOS, JR.
+> A: I could not give you the specific date but I know it was in
+> the early '70s. As I said, the first time I saw him was in the
+> area of the Palace that we call the "Study Room[,]" which is
+> the area next to my father's office.
+> A TTY. GENERILLO
+> Q: Did you have opportunity to talk to [Tan]?
+> A: Yes, several times after we have been introduced. We
+> would say "hello" to each other when we cross each other's
+> paths. And on a couple of occasions, we actually had an
+> opportunity to have substantive conversations aside from
+> meetings.
+> Q: What do you mean "substantive meetings" or
+> discussions?
+> A: Well, I remember that at one point, I was summoned by
+> my father to his office and so I went. And he was there with
+> [Tan] in the discussion.
+> And he at that point told me that he would like me to
+> familiarize myself with the operations of some of the
+> enterprises that we have interests in and that [Tan] was going
+> to help me to be more familiar with the said operations.
+> Q: Why did your father summon you to his office to
+> familiarize yourself with the business interests of the Marcoses?
+> A: It was part of a larger effort on the part of the family to
+> really clarify and to conduct an inventory and legal audit of all
+> those business interest that we have.
+> My sister Imee, who has legal training, was given the
+> job of conducting the legal audit, and I was given the job to go
+> to as many of these enterprises as I could and as I said, learn
+> the operations and meet the people who were running them so
+> that when the time comes that we would take over, we would
+> know how to manage these different interests.
+> Q: And what was the condition of your father when he
+> sF1nm0ned you to his cffice?
+> A: At that time, he was still quite strong. But then, he was
+> starting to feel the effect of his kidney disease. So perhaps, even
+> that has a factor in his wanting us to know the family's interests.
+> Q: What happened after that meeting with your father and
+>
+> Concurring and Dissenting Opinion 26 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> defendant [Tan]?
+> A: Well, at the end of the meeting, [Tan] and I talked and
+> discussed the possibility of having a meeting, just the two of us.
+> And if I am not mistaken, he was leaving for abroad and so
+> he said that he will contact me as to when we will have that
+> meeting.
+> Q: Was there any occasion for your father to show proof of the
+> family's interests in [Tan]?
+> A: Well, when we first began this whole effort, he had me
+> and my sister, we met and we sat down and showed us some
+> documents which are essentially Deeds of Assignment, Shares
+> of Stock, Titles to properties, and all these kinds of things. And
+> he tried to give us a sketch of exactly how the structures were.
+> And then his instructions to us were - we go out and
+> make sure that first, all documentations were in place because
+> maybe the documents or something were in some persons, the
+> documents or something were in another person, to really
+> reorganize them and collate everything. So, that was the gist of
+> - We had several of those meetings, and that was then I saw
+> these documents.
+> Q: Now, let us go back to the instance where you had
+> substantial discussion with defendant [Tan].
+> Where did it take place?
+> A: Well, as I have mentioned, the first time that we actually
+> sat down and talked of anything substantive was in my father's
+> office.
+> Subsequently, I received a message from [Tan]'s office
+> that he would ask me to meet him at his office in Allied Bank.
+> That is about I think a week or fortnight after I was
+> summoned by my father.
+> Q: And you meet him at his office?
+> A: Yes, at his office in Allied Bank.
+> Q: And what did you discuss with him in that meeting?
+> A: He laid out the ownership structure of the different
+> corporations that we had an interest in.
+> Q: Did he tell you what those corporations are?
+> A: Yes, he actually drew out a diagram, a piece of paper,
+> explaining that there was a company, (SHI], which was a
+> holding corporation for several other corporations.
+> I will try to remember them all - Foremost Farms,
+>
+> Concurring and Dissenting Opinion 27 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> Fortune Tobacco, Asia Brewery, Himmel Industries,
+> Grandspan, Dominion - I might be missing some but
+> basically, [SID] was the holding corporation for all those other
+> corporations.
+> Q: Aside from that meeting in Allied Bank, where else did
+> you meet defendant [Tan]?
+> A: I think a couple of months after that, I flew to the
+> bottling plant of Asia Brewery in Laguna, by helicopter.
+> I remember clearly the visit because there was a
+> difficulty landing in the Asia Brewery Compound itself. We
+> nearly had an accident and so we had to land on the next
+> compound, then took a car to Asia Brewery.
+> Q: What happened in that plant visit?
+> A: At the plant visit, [Tan] [t]ook me around and basically
+> explained to me what they did in the bottling plant, how the bottles
+> were made, the different sizes that they made, the different kinds
+> of beer, how they fill out the bottles, how they package them, the
+> general operations of the plant.
+> MR. SANCHEZ
+> Q: You mentioned [SHI].
+> What is the relationship of [SHI] with the other
+> corporations that you mentioned earlier?
+> ATTY. MENDOZA
+> The best evidence are the corporate documents, Your Honors.
+> J. ESTRADA
+> Witness may answer!
+> WITNESS CONG. MARCOS
+> [SHI] was the holding company for the other companies
+> that I mentioned. And the ownership of the [SHI] was divided
+> at least initially, between three other companies.
+> This explanation (sic) that [Tan] gave me while we were
+> at his office in Allied Bank.
+> A TTY. GENERILLO
+> Could you name the three other companies holding shares
+> in the [SHI]?
+> A: Yes. The three compames that own [SHI] were Basic,
+> Supreme and Falcon.
+>
+> Concuning and Dissenting Opinion 28 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> Initially, Basic own 50% of [SHI]; Falcon had 25%, and
+> Supreme had 25%.
+> This changed I think in early 1985 when some shares of
+> Basic were sold to Supreme, the net effect of which, Supreme
+> owned 34% of [SHI].
+> A TTY. GENERILLO
+> Mr. Witness, do you have proof that [Supreme] and
+> [Falcon] have interests in [SHI]?
+> WITNESS CONG. MARCOS
+> Well, there are documents that show Deeds of Sale of
+> [SHI] to the three companies - Basic, Falcon and Supreme. There
+> are also Deeds of Sale of certain percentage of Basic to Supreme.
+> This was relevant to us because we held the shares of stock
+> in Falcon and in Supreme which were with us, endorsed in blank.73
+> (Emphasis in the original)
+> Even assuming arguendo that the testimony of BBM may not be
+> admitted as proof of the veracity or truth of the statements he attributed to
+> President FM, Tan, and Gapud, the same may still be admitted for the
+> purpose of placing on record the fact that those statements or the tenor of
+> such statements were indeed made. In other words, again, the doctrine of
+> independently relevant statements finds application, such that regardless of
+> the truth or falsity of a statement, when what is relevant is the fact that such
+> statement has been made, the hearsay rule does not apply and the statement
+> may be shown.74 The ponencia concedes just as much - that BBM's
+> Testimony is admissible as an independently relevant statement as to the
+> fact that he had conversations with President FM, Tan, and Gapud.75
+> Thus, here, as the Republic correctly pointed out, BBM' s direct and
+> personal testimony elaborated on the complex fonnation of SHI, Falcon,
+> Supreme, and Basic to hold the beneficial ownership of President FM and
+> Tan, and the multifarious rigodon of shares and deeds of assignments
+> endorsed in blank.76 According to the Republic, BBM's Testimony
+> corroborated the statement of his own mother Imelda, to the effect that the
+> Marcoses were asserting a claim on certain shares of stocks in Tan's
+> companies. The Republic stressed that while BBM testified that President
+> FM did not perform any act reflective of his interests in these corporations,
+> he nonetheless knew that Tan was depositing money in Security Bank,
+> which represented the Marcoses' share in the income of the corporations. 77
+> 73 Rollo (G.R. No. 203592)(Vol. VII), pp. 40I3-4017.
+> 74 See People v. Umapas, G.R. No. 215742, March 22, 2017, 821 SCRA 42 I.
+> 75 See ponencia, p. 54.
+> 76 See rollo (G .R. No. 203592) (Vol. VII), p. 4017.
+> 77 See id. at 4018.
+>
+> Concurring and Dissenting Opinion 29 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> The Republic added that the testimony of BBM dovetailed with
+> Gapud's Sworn Statement. BBM testified that he knew Gapud was his
+> father's financial manager who regularly came to Malacafiang Palace to
+> discuss certain aspects of the cases that he was handling with President FM
+> and later, with him, his mother Imelda, and his sister Imee.78 Gapud's
+> Sworn Statement recounts, in part, the purported 60-40 arrangement
+> between President FM and Tan, to wit:
+> With particular reference, for example, to [Tan], I know that
+> [President FM] and [Tan] had [an] understanding that [President
+> FM] owns 60% of [SHI], (sic) which owns shares of Fortune Tobacco,
+> Asia Brewery, Allied Bank, and Foremost Farms. I was asked
+> sometime in 1985 to formalize this arrangement. I went to [Tan] for that
+> purpose. He tried to bargain by reducing the equity of [President FM]
+> to 50%. I told him that I was merely carrying out the instructions of
+> [President FM] and that if he wanted to bargain, he should take up the
+> matter directly with [President FM]. As a matter of fact, [Tan], apart from
+> the 60% equity of [President FM] had been regularly paying, through
+> Security Bank, Sixty Million Pesos [P60 Million] to One Hundred Million
+> Pesos [Pl 00 million] to [President FM], in exchange for privileges and
+> concessions [President FM] had been giving him in relation to the
+> businesses managed by [Tan]. As I said on p. 7 of Annex "A", [Tan]
+> gained substantial concessions in specific taxes and stamp duties for
+> his cigarette (Fortune Tobacco) and beer (Asia Brewery) operations.
+> He belongs to the group that could get presidential decrees and letters
+> on (sic) instruction from [President FM] for their joint benefit. I
+> understand that [Tan] asserted that he was the victim of extortion,
+> and that he outwitted [President FM] by issuing to [him] his 60%
+> equity in fake certificate of stock. This is not accurate. [President FM]
+> and [Tan] were in partnership, and they derived great material
+> benefits from the relationship. As far as I know, [Tan] was not in a
+> position to outwit and outmaneuver [President FM]. I do not know
+> that there is a crony or business associate of [President FM] who
+> could have done that.79 (Emphasis in the original)
+> GAPUD'S SWORN STATEMENT
+> Like BBM's Testimony, Gapud's Sworn Statement should not be
+> hastily dismissed as mere hearsay. Though it was merely presented by
+> Senator Salonga, whose testimony was not completed, it also offers
+> independently relevant statements that corroborate the close business
+> relationship described by BBM in his testimony, as well as by Imelda in her
+> Amended Answer and by Tan in his Written Disclosure. To be specific,
+> Gapud's Sworn Statement bolstered the described structured arrangement
+> between Tan and President FM on the latter's purported shares of stocks in
+> Fortune Tobacco, Asia Brewery, Allied Bank, and Foremost Farms.
+> Furthermore, it naiTated the regular bank deposits being made by Tan in the
+> amounts of P60-Pl 00 million in favor of President FM in exchange for the
+> concessions and favors the former president granted him for his businesses.
+> 1s Id.
+> 79 Id. at 4020-4021.
+>
+> Concurring and Dissenting Opinion 30 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> It must be borne in mind that it was an undisputed fact that Gapud was
+> the financial executor of President FM and Imelda and at times, acted as
+> their financial advisor who carried out their instructions. Gapud's Sworn
+> Statement, therefore, should be given consideration as the statements
+> contained therein are, at the very least, circumstantially relevant to the issue
+> at hand. Again, under the doctrine of independently relevant statements,
+> only the fact that Gapud made said statements is relevant, and the truth or
+> falsity thereof is immaterial. Evidence as to the making of such statements is
+> primary, for the statements themselves may constitute a fact in issue or be
+> circumstantially relevant as to the existence of such a fact.80
+> Moreover, it is my considered view that Gapud's Sworn Statement is
+> a public document. Significantly, it was subscribed and sworn to (notarized)
+> before Consul General Vicente G. Reyes in the Philippine Consulate General
+> in Hong Kong. It also contained the seal of his office ( authenticated). In this
+> regard, Teoco v. Metropolitan Bank and Trust Company81 quoting Lopez v.
+> Court ofA ppeals82 is instructive:
+> From the foregoing provision, when the special power of attorney is
+> executed and acknowledged before a notary public or other competent
+> official in a foreign country, it cannot be admitted in evidence unless it is
+> certified as such in accordance with the foregoing provision of the rules by
+> a secretary of embassy or legation, consul general, consul, vice consul, or
+> consular agent or by any officer in the foreign service of the Philippines
+> stationed in the foreign country in which the record is kept of said public
+> document and authenticated by the seal of his office. A city judge-notary
+> who notarized the document, as in this case, cannot issue such
+> certification. 83
+> Consequently, Gapud's Sworn Statement had been converted into a
+> public document which renders it admissible as evidence of the fact which
+> gave rise to their execution, even against a third person, 84 without need for
+> further proof of its authenticity.
+> Even on the assumption that Gapud's Sworn Statement remains a
+> private document, its due execution and authenticity were sufficiently
+> established through the testimony of Senator Salonga who witnessed its
+> execution, typed the statement, and signed it as witness. This is in
+> accordance with Section 20, Rule 132 of the Rules of Court, which provides:
+> SEC. 20. Proof of private document. - Before any private document
+> offered as authentic is received in evidence, its due execution and
+> authenticity must be proved either:
+> 80 See People v. Umapas, G.R. No. 215742, March 22,2017, 821 SCRA 421.
+> 81 G.R. No. 162333, December 23, 2008, 575 SCRA 82.
+> 82 G.R. No. 77008, December 29, 1987, 156 SCRA 838.
+> 83 /d.at841-842.
+> 84 Sec. 23, Rule 132 provides:
+> Public Documents as Evidence. - Documents consisting of entries in public records
+> made in the performance of a duty by a public officer are prima facie evidence of the
+> facts therein stated. All other public documents are evidence, even against a third
+> person, of the fact which gave rise to their execution and of the date of the latter.
+>
+> ConcmTing and Dissenting Opinion 31 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> (a) By anyone who saw the document executed or written;
+> or
+> (b) By evidence of the genuineness of the signature or
+> handwriting of the maker.
+> Any other private document need only be identified as that which
+> it is claimed to be.
+> TAN'S WRITTEN DISCLOSURE
+> As well, the Republic banked on Tan's Written Disclosure which
+> purportedly provided a detailed naiTation of his 60-40 arrangement with
+> President FM, the specifics of which the Republic characterized as
+> "impossible to fabricate with unparalleled consistency."85 Thus:
+> 255. Respondent [Tan] confirmed [President FM]'s beneficial
+> interests in his various businesses which they cloaked under an umbrella
+> company - [SHI]. To segregate their unlawful business partnership, three
+> (3) holding companies, namely, Basic, Falcon and Supreme, were formed.
+> Thus:
+> SHI was incorporated on November 11, 1979. The
+> original intention for setting up this company was for it to
+> purchase and hold at least 99% of the shares of stock from
+> existing stockholders of the following companies:
+> 1. [Fortune Tobacco]
+> 2. [A sia Brewery]
+> 3. [Foremost Farms]
+> 4. [Himmel Industries]
+> 5. [Grandspan]
+> 6. •[ Dominium Realty]
+> This set up is necessary in order to systematize the
+> stock ownership in the various corporations. Also, since the
+> group of companies was getting quite big, [Tan] felt and
+> wanted to [ensure] that the various companies would stay
+> under one umbrella in the event that anything should
+> happen to him - [Tan] wanted to ensure continuity of the
+> companies which he had worked so hard to build up.
+> By the end of [1980], it became imperative for SHI
+> to close the purchase of the aforementioned shares in order
+> to avail of the minimal transfer tax of [one-fourth] of 1%
+> which became unavailable starting 1981. On October 19,
+> 1981, SHI also acquired all the shares of stock of
+> [Domini um Realty], a realty firm which owns vast tracts of
+> land in Cabuyao, Laguna upon which [A sia Brewery]' s
+> plant stands.
+> 85 Rollo (G.R. No. 203592) (Vol. VII), p. 3946.
+>
+> Concurring and Dissenting Opinion 32 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> On July 20, [1983], three holding companies were
+> incorporated as follows:
+> 1. [Basic]
+> 2. [Falcon]
+> 3. [Supreme]
+> On the same day, the incorporators of [Falcon]
+> and [Supreme] after paying their subscription in full,
+> sold and transferred 100% of their shares to a new
+> group led by [Tan]. In the meantime, [President FM]
+> thru [Gapud] persisted in his demand for 50, then 51 %,
+> then 60% share in SHI.
+> On July 16, 1984, the three holding companies
+> purchased 99% of the shares of the stockholders of SHI,
+> with the exception of [Tan] and [Tan Eng Lian] who
+> retained 0.5% each. On the same day, the said three
+> holdings companies borrowed from the stockholders
+> vendors of [SHI] amounts equivalents to the respective
+> purchase prices of the aforementioned shares on [a] 30-day
+> term. Unable to pay the loan at maturity, the three
+> companies sold back (on August 22, 1984) the said shares
+> to the original vendors-stockholders in the same proportion
+> as when purchased. 86 (Emphasis in the original)
+> As with the Amended Answer of Imelda, however, the ponencia
+> posits that as documentary evidence, the Written Disclosure should have
+> been authenticated as genuine and duly executed either by a person who
+> had witnessed its execution or by any other evidence showing its
+> genuineness and due execution. Tan, however, was not presented on direct
+> to authenticate his Written Disclosure and was not cross-examined on the
+> statements he allegedly made. 87
+> In the same vein, according to the ponencia, the testimony of Senator
+> Salonga on direct examination about Tan's Written Disclosure cannot serve
+> as authentication thereof based on the preceding reasons as well. 88
+> Hence, the ponencia concludes, the Written Disclosure is hearsay,
+> lacks probative weight, and cannot sustain the Republic's allegations.89
+> Again, I disagree.
+> While indeed, Tan's Written Disclosure was offered in connection
+> with the testimony of Senator Salonga which had not been completed, it is
+> noteworthy that Tan and the other respondents did not deny that it was
+> properly presented as documentary evidence.90 They also failed to deny its
+> 86 Id. at 3947-3948.
+> 87 Ponencia, pp. 49-50.
+> 88 Id. at 50.
+> 89 Id. at 52.
+> 90 Rollo (G.R. No. 203592) (Vol. IV), p. 3495.
+>
+> Concurring and Dissenting Opinion 33 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> execution. In fact, it must be emphasized that Tan relied on this Written
+> Disclosure in his own Memorandum,91 albeit on the premise that his
+> arrangement with President FM was reached under duress and was
+> ultimately thwarted. Still, as in the case of Imelda's Amended Answer, this
+> essentially affirms the genuineness and authenticity of the Written
+> Disclosure and thereby excepts such from the requirement of authentication
+> of a private document. 92
+> Tan, in particular, should be estopped from discrediting his Written
+> Disclosure or from excluding it as evidence, when, for all intents and
+> purposes, his own treatment thereof is a deliberate indication that he is
+> lending it full faith and credence. It is incongruous for a party to pray for
+> the exclusion of an adversary's evidence which he or she has nonetheless
+> openly relied upon.
+> In sum, I submit that the admissions against Imelda's interest in her
+> Amended Answer, the Written Disclosure of Tan, and the Sworn Statement
+> of Gapud are uncannily identical and corroborative of BBM's Testimony.
+> All these pieces of evidence, to stress, were all made without collusion.
+> Hence, they are akin to interlocking extrajudicial confessions which
+> constitute an exception to the general rule that extrajudicial
+> confessions/admissions are admissible in evidence only against the
+> declarants thereof. 93
+> I find it a grievous error, therefore, for the Sandiganbayan to have
+> rejected and ignored the above-discussed pieces of evidence presented by
+> the Republic. As I have expressed earlier, there should be some measure of
+> forbearance with regard to the application of rules of evidence in the
+> prosecution of ill-gotten wealth cases. Indeed, the difference between
+> the admissibility of evidence and the determination of its probative weight
+> is canonical.94 Admissibility of evidence refers to the question of whether
+> or not the circumstance or evidence is to be considered at all. On the other
+> hand, the probative value of evidence refers to the question of whether or
+> not it proves an issue.95 But as the Court cautioned in Gimenez, it is better
+> to admit and consider evidence for determination of its probative value than
+> to outright reject it based on very rigid and technical grounds. 96 The
+> Republic, in tum, cited Atienza v. Board of Medicine, et al,97 where the
+> Court relevantly held:
+> Although trial courts are enjoined to observe strict enforcement of the
+> rules of evidence, in connection with evidence which may appear to be
+> of doubtful relevancy, incompetency, or admissibility, we have held
+> that:
+> 91 Id. at 3498-3499.
+> 92 See Patula v. People, supra note 54.
+> 93 See also People v. Encipido, G.R. No. L-7009 l, December 29, 1986, 146 SCRA 478,492.
+> 94 Republic v. Gimenez, supra note 59.
+> Id.
+> 9s
+> 96 Id.
+> 97 657 Phil. 536 (2011 ).
+>
+> Concurring and Dissenting Opinion 34 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> [I]t is the safest policy to be liberal, not rejecting them on
+> doubtful or technical grounds, but admitting them unless
+> plainly irrelevant, immaterial or incompetent, for the reason
+> that their rejection places them beyond the consideration of
+> the court, if they are thereafter found relevant or competent;
+> on the other hand, their admission, if they turn out later to
+> be irrelevant or incompetent, can easily be remedied by
+> completely discarding them or ignoring them.98 (Emphasis
+> and underscoring supplied)
+> The liberal and prudent approach in ill-gotten wealth cases is not
+> hard to fathom. The Court has always been mindful of the difficulty in
+> gathering voluminous documentary evidence in cases of forfeiture of ill
+> gotten wealth acquired throughout the years.99 This undoubtedly holds true
+> with regard to testimonial evidence, especially of those who fled the
+> country - more so in the present political climate. To be sure, it is never
+> easy to prosecute corruption and take back what rightfully belongs to the
+> government and the people of the Republic, 100 most especially of such
+> magnitude as was rampant in the administration of then President FM. The
+> Court must also bear in mind that corruption or plunder is done stealthily
+> and cleverly, so much so that direct evidence is sometimes nil. This is not a
+> valid reason, however, for the Republic and the courts, as well, not to
+> remain steadfast and soldier on.
+> President FM's alleged
+> beneficial ownership over 60%
+> of the shares of SHI has not
+> been established
+> In its Memorandum filed before the Court, the Republic, drawing
+> heavily from Imelda's Amended Answer, BBM's Testimony, Gapud's
+> Sworn Statement, and Tan's Written Disclosure, detailed how the alleged
+> sharing agreement had been implemented through the incorporation of SHI:
+> 76. Respondent [Tan] later embarked on consolidating ownership
+> interests in the various businesses in one umbrella company - [SHI].
+> 77. On November 14, 1979, [SHI] was incorporated to purchase
+> and hold 99% of the shares of stocks from the existing stockholders of:
+> [Himmel Industries], [Fortune Tobacco], [Foremost Farms], [Asia
+> Brewery], [Grandspan], [Silangan Holdings], [and Dominium Realty].
+> 78. The incorporators were Estrella Uy, Juanita Tan Lee, Harry
+> Tan, Jaime Qua and Manuel Khoo. [SHI] was incorporated with an
+> authorized capital stock of Five Million Pesos (P5,000,000.00), One
+> Million Pesos (Pl,000,000.00) of which was subscribed and paid-up.
+> 79. The consolidation gave . . . [President FM] beneficial
+> 98 Id. at 542. Citations omitted.
+> 99 See Republic v. Gimenez, supra note 59, at 294.
+> 100 Id. at 294-295.
+>
+> Concurring and Dissenting Opinion 35 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> ownership, together with . . . [Tan], his family and associates, in the
+> following companies (as well as its subsidiaries and acquired companies
+> or in turn invested in), to wit:
+> a) [Himmel Industries]
+> b) [Fortune Tobacco]
+> c) [Foremost Farms]
+> d) [A sia Brewery]
+> e) [G rands pan]
+> f) [Silangan Holdings]
+> g) [Domini um Realty]
+> 80. . . . [President FM]'s 60% beneficial ownership in said
+> companies was held in trust by [Tan], personally and through his family
+> members and business associates, who appeared as stockholders-on-record
+> of said companies.
+> 81. To implement the Marcos-Tan consolidation, the record (o r
+> nominee) stockholders of the seven (7) companies . . . transferred their
+> stockholdings in said companies to [SHI], through separate Deeds of Sales
+> of Shares of Stocks.
+> 82. Thereafter, . . . [President FM] and [Tan] structured the
+> segregation of their beneficial ownership interests in the propo1tion of
+> 60% for ... [President FM] and 40% for ... [Tan].
+> 83. To segregate . . . [President FM]'s and [Tan]'s beneficial
+> ownership interests, three (3) primary holding companies were organized:
+> [Basic], [Supreme], and [Falcon].
+> 84. Basic was the owner on record of the beneficial interests of ...
+> [Tan] (40%), while Supreme and Falcon were the owners on record of the
+> aggregate beneficial interests of ... [President FM] (60%). These three (3)
+> holding companies were incorporated on July 20, 1983.
+> 85. Acknowledging that they were merely holding their interest in
+> [SHI] in trust for ... [President FM] and [Tan], in the ratio of 60-40%,
+> respectively, the stockholders of [SHI] executed deeds assigning their
+> stockholdings/shares therein to the three (3) newly organized ultimate
+> holding companies, Basic, Supreme, and Falcon.
+> 86. On July 16, 1984, the three (3) holding companies purchased
+> 99% of the shares of the stockholders of [SHI] with the exception of
+> respondents [Tan] and [Tan Eng Lian] who retained 0.5% each.
+> 87. To make Basie's shareholdings conform to the agreed [60-40]
+> ratio, shareholders of Basic executed a Deed of Sale of Shares of Stock in
+> favor of Supreme, transfe1Ting 9% of [SHI]'s shares held by the fmmer in
+> favor of the latter.
+> 88. After Basic transferred 9% of stock ownership in [SHI], the
+> stock ownership in [SHI] became as follows:
+> Stockholders No. of shares % of Holdings
+>
+> Concurring and Dissenting Opinion 36 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> [Basic] 50,300,000 40.0%
+> [Supreme] 42,755,000 34.0%
+> [Falcon] 31,437,500 25.0%
+> [Tan] 628,750 0.5%
+> [Tan Eng Lian] 628,750 0.5%
+> TOTAL 125,750,000 100.0%
+> 89. In express recognition of the beneficial ownership of [President
+> FM], the incorporators of both Falcon and Supreme executed and
+> delivered to ... [President FM] blank [d]eeds of [a]ssignment, comprising
+> of a total of 60% majority control of the mentioned corporations. 101
+> From the foregoing, the Republic thus posited that 60% of the shares
+> in SHI are held by respondent-stockholders for and on behalf of President
+> FM as nominees, and that such 60% interest constitutes ill-gotten wealth
+> precisely for this reason. Further, as proof of President FM' s beneficial
+> interest in the shares in question, the Republic relied on twelve deeds of
+> assignment of shares (blank deeds), the particulars of which are summarized
+> as follows:
+> Document Assh?:nors Assi2:nee/Subiect Consideration
+> Five undated and I. Soolim Co Unnamed assignee for an Unspecified
+> unnotarized deeds of (signed) unspecified number of
+> assignment102 (Falcon 2. William C. Lee shares in [Falcon]
+> deeds) (signed)
+> 3. Andy Y. Li
+> (signed)
+> 4. Jimmy C. Chua
+> (signed)
+> 5. Antonio Choa
+> (illegible)
+> Five undated and l. Florentina Tan Unnamed assignee for an Unspecified
+> unnotarized deeds of (signed) unspecified number of
+> assignment103 2. Eduardo C. Chua shares in [Supreme]
+> (Supreme deeds) (signed)
+> 3. William T. Wong
+> (illegible)
+> 4. Nelson C. Tan
+> (signed)
+> 5. Peter Soo (signed)
+> Undated and Tan (signed) Unnamed assignee for P628,750.00
+> unnotarized Deed of 628,750 shares of stock in
+> Sale of Shares of SHI
+> Stock104 (Tan deed)
+> Undated and Tan Eng Lian (signed) Unnamed assignee for P628,750.00
+> unnotarized Deed of 628,750 shares of stock in
+> 101 Rollo (G.R. No. 203592) (Vol. VII), pp. 3846-3851.
+> 102 Rollo (G.R. No. 203592) (Vol. II), pp. 1421-1425.
+> 103 Id. at 1426- 1430.
+> 104 Id. at 1431- 1432.
+>
+> Concurring and Dissenting Opinion 37 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Sale of Shares of SHI
+> Stock105 (Tan Eng
+> Lian deed)
+> I diverge from the above position of the Republic. My conclusion is
+> that President FM' s alleged beneficial ownership over 60% of the shares of
+> SHI has not been established. I submit that a holistic appreciation of the
+> evidence merely shows that: (i) Tan might have been forced to agree to the
+> 60-40 arrangement proposed by President FM; (ii) Tan made it appear that
+> the 60-40 arrangement had been implemented through the formation of SHI
+> and the three primary holding corporations Basic, Supreme, and Falcon; and
+> (iii) Tan had taken steps to preclude the implementation of the 60-40
+> arrangement by transferring the 60% interest claimed by President FM
+> to legitimate stockholders before the execution of the blank deeds in the
+> latter's favor.
+> a. The blank deeds of assignment are
+> sham documents
+> Tan's Written Disclosure detailed the 60-40 arrangement and the
+> context within which it had been forged, as follows:
+> For the duration of martial law which had effectively negated any
+> opposition to [President FM], [Tan] and his enterprises were not spared by
+> the various forms of intimidation and harassment that had plagued other
+> successful businessmen. Details of the Marcos exercise are further
+> described. Perhaps owing to sheer perseverance, ... [Tan's] enterprises
+> have managed to [survive] the pressure and in the Marial Law era, two
+> major [Tan] companies were organized namely: a) [Allied Bank] which
+> was granted by the Central Bank (CB) a new commercial banking license
+> in May 1977; and b) [A sia Brewery] which had succeeded in proving the
+> misnomer in [the] [b ]rewery [i]ndustry being classified as an overcrowded
+> industry for the last two decades in spite of the monopoly's continued
+> expansion projects.
+> ASIA BREWERY
+> By hindsight, we can now conclude that [President FM], from
+> the very beginning wanted to acquire the San Miguel Corporation
+> (SMC). However, it was impossible to acquire SMC because it was
+> tightly controlled by the Soriano and Ayala families. The only way is
+> to give SMC a competitor, to bring down the market price of SMC
+> shares and · to create conflicts within and among the SMC
+> stockholders.
+> 105 Id. at 1433-1434.
+>
+> Concurring and Dissenting Opinion 38 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> [President FM] then started to say publicly that SMC was a
+> monopoly, that there should be free enterprise. Meanwhile, the GSIS and
+> SSS were ordered to buy SMC shares to a point that Roman Cruz, Jr.
+> became a director of SMC.
+> The ambition of John Gokongwei in becoming a director of SMC
+> resulted in a proxy fight and court battle, which in turn resulted in a lot of
+> revelations on the very high profitability of a brewery. Before that, every
+> year, SMC would make it of record with the BOI that the market demand
+> will always be met and that therefore, no new brewery should be approved
+> for establishment. It was also on record that SMC had continually been
+> increasing its brewery and bottling facilities.
+> Preparations went underway for the establishment of the second
+> brewery. Discussions with the BOI were steadfastly maintained and
+> supported SMC's stand on the industry being overcrowded [despite] its
+> continued approval of SMC's expansion projects reached a stalemate.
+> The issue of (Asia Brewery]'s petition of being the second
+> brewery was broached to [President FM] and nothing seemed to
+> please him more than to provide SMC with competition to realize his
+> obsession of gaining control of SMC. Upon his instruction, B01
+> approved the application of [Asia Brewery] to establish the second
+> brewery and immediately, the market value of SMC's shares declined
+> from P48 to P25 per share. At this point, Danding Cojuangco started to
+> buy SMC shares. Eventually[,] he was able to buy Gokongwei's and
+> Enrique Zobel's block of shares which gave him a substantial holding.
+> Finally, Andres Soriano sold out to Cojuangco. Thus[,] full control went to
+> Cojuangco.
+> [President FM] however also took special interest in [Asia
+> Brewery]. As a condition to the grant of a brewery license, [President
+> FM] demanded that 25% of [Asia Brewery] be given to him.
+> In compliance with the said condition, [Silangan Holdings] was
+> incorporated on October 9, 1979. Twenty five percent (25%) of [Asia
+> Brewery]' s shares of stock or fifty million shares was then transferred to
+> [Silangan Holdings]. Upon [President FM]'s insistence, a fake certificate
+> of stocks (sic) purportedly representing 100% of the total shares of
+> [Silangan Holdings] were delivered to him, endorsed in blank. In truth[,]
+> however, the [genuine] book of certificates of stock of [Silangan
+> Holdings] remained intact and remains so [to date]. Not a single certificate
+> of stock of [Silangan Holdings] has as yet been issued as none of the
+> subscriptions to the capital stock have been fully paid.
+> As insurance versus a possible claim by [President FM] or any
+> assignee upon the shares of [Silangan Holdings] purportedly evidenced by
+> the fake certificate of sto~ks (sic) issued and delivered to him in blank, all
+> stockholders of [Silangan Holdings] sold 100% of their shares to [SHI] on
+> December 19, 1980. Moreover, on December 22, 1980, [Silangan
+> Holdings] sold 49.5 million shares of [Asia Brewery] to SHI (retaining
+> only 500,000 shares).
+>
+> Concurring and Dissenting Opinion 39 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> SHI was incorporated on November 11, 1979. The original
+> intention for setting up this company was for it to purchase and hold at
+> least 99% of the shares of stock from existing stockholders of the
+> following companies:
+> 1. [Fortune Tobacco]
+> 2. [A sia Brewery]
+> 3. [Foremost Farms]
+> 4. [Himmel Industries]
+> 5. [G randspan]
+> 6. [Dominium Realty]
+> This set up is necessary in order to systematize the stock
+> ownership in the various corporations. Also, since the group of companies
+> was getting quite big, [Tan] felt and wanted to [ensure] that the various
+> companies would stay under one umbrella in the event that anything
+> should happen to him - [Tan] wanted to ensure continuity of the
+> companies which he had worked so hard to build up.
+> After the collapse of the mega-business[es] of his closest cronies
+> (DISINI, SILVERIO AND CUENCA), upon the rapid deterioration of
+> his health, and perhaps also on account of the inability of [Asia
+> Brewery] to generate satisfactory income, [President FM] began to
+> press that he be given a share in SHI. [Tan] attempted to evade the
+> unconscionable demand of [President FM] by spending most of his time
+> outside of the Philippines. From 1983 to the start of 1986, [Tan] spent
+> most of his time abroad. Despite [Tan]' s absence, [President FM] kept up
+> the pressure threatening the issuance of various tax decrees designed at
+> crippling [Fortune Tobacco]. ..
+> On July 20, 1983, three holding companies were incorporated
+> as follows:
+> 1. [Basic]
+> 2. [Falcon]
+> 3. [Supreme]
+> On the same day, the incorporators of [Falcon] and [Supreme]
+> after paying their subscription in full, sold and transferred 100% of
+> their shares to a new group led by [Tan]. In the meantime, [President
+> FM] thru [Gapud] persisted in his demand for a share in SHI.
+> On July 16, 1984, the three holding companies purchased 99% of
+> the shares of the stockholders of SHI, with the exception of [Tan] and
+> [Tan Eng Lian] who retained 0.5% each. On the same day, the said three
+> holding companies borrowed from the stockholders-vendors of SHI
+> amounts equivalent to the respective purchase prices of the
+> aforementioned shares on a 30-day term. Unable to pay the loan at
+> maturity, the three companies sold back (on August 22, 1984) the said
+>
+> Concurring and Dissenting Opinion 40 G.R. Nos. 195837,
+> 198221, 19897 4, and 203 592
+> shares to the original vendors-stockholders in the same proportion as
+> when purchased.
+> When the pressure became too heavy to bear and with [President
+> FM] already displaying fangs of anger, deeds of assignment signed in
+> blank (without issuing much less surrendering the corresponding stock
+> certificates) by the original incorporators of [Falcon] and [Supreme] as
+> well as by [Tan] and [Tan Eng Lian] for their respective shares which all
+> together were supposed to have accounted for 51 % of [SHI]'s shares were
+> delivered to Gapud without revealing that:
+> 1. The original incorporators had already much
+> earlier transferred and assigned their shares to the
+> new group led by [Tan] who were then the genuine
+> and registered owners of the shares with the sole
+> and exclusive authority to transfer the same;
+> 2. [Falcon] and [Supreme] had already previously
+> divested themselves of SHl's shares having resold
+> the same to the original owners;
+> 3. There could be no valid transfer of [Tan] and [Tan Eng
+> Lian's] shares in [SHI] as their respective subscriptions
+> had not been fully paid and to date remains unpaid.
+> Thereafter, [President FM] demanded for an additional 9% to give
+> himself supposedly a 60% control over [SHI]. To give the semblance of
+> compliance with said demand, it was made to appear that on
+> [February] 28, 1985, [Basic] transferred the equivalent of 9% of SHl's
+> total shares to [Supreme] without revealing that:
+> 1. [Basic] had in fact already divested itself of all its
+> SHI's shares (as of August 22, 1984) in favor of its
+> original owners;
+> 2. At any rate, no transfer could legally be effected since
+> the subscriptions thereon have to date not yet been
+> fully paid; and
+> 3. Moreover, the transfer document itself was ineffective
+> because:
+> a. What was transferred were 11,317,500
+> shares of [Basic] (not SHI) when
+> [Basic] only had a total of 1,000,000
+> paid up shares ... ;
+> b. [T]he document was executed by some
+> persons who are not stockholders of
+> [Basic]. 106 (Emphasis and
+> underscoring supplied)
+> 106 Rollo (G.R. No. 203592) (Vol. JV), pp. 3496-3502.
+>
+> Concurring and Dissenting Opinion 41 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> If Tan's statements were to be taken as fact, they would entail that
+> Tan had been pressured into ceding 60% interest in the various businesses
+> placed under the umbrella corporation, SHI. To secure his businesses, Tan
+> made it appear that he had complied with President FM' s demands by
+> incorporating three holding companies to consolidate their respective 60%
+> and 40% interests in SHI. Thereafter, Tan made it appear that Falcon and
+> Supreme had been incorporated to hold President FM's 60% of the shares in
+> SHI. Later still, Tan caused the execution of blank deeds purportedly
+> transferring 100% of the shares of Falcon and Supreme in President FM's
+> favor in compliance with the latter's demands.
+> However, unbeknownst to President FM, 100% of the shares of
+> Falcon and Supreme had been previously transferred by the incorporators to
+> respondent-stockholders. Thus, these incorporators, who stood as signatories
+> of the blank Falcon and Supreme deeds, were no longer stockholders of
+> Falcon and Supreme at the time the blank deeds were executed. Thus, based
+> on Tan's Written Disclosure, which, to repeat, the Republic itself
+> offered as evidence, the signatories of the blank Falcon and Supreme
+> deeds no longer had any capacity to convey, transfer, or assign any
+> interest in said holding companies at the time the blank deeds were
+> executed.
+> Strikingly, the Republic did not dispute the veracity of Tan's
+> narration. While it asserted, in general terms, that "exculpatory statements
+> ... [w hich are] entirely barren of factual support ... ought to be regarded as
+> nothing but feigned defenses, 107 it nevertheless quoted these "defenses" to
+> elaborate on President FM' s modus operandi in its Memorandum:
+> 255. Respondent [Tan] confirmed [President FM]'s beneficial
+> interests in his various businesses which they cloaked under an umbrella
+> company - [SHI]. To segregate their unlawful business partnership, three
+> (3) holding companies namely, Basic, Falcon and Supreme, were formed.
+> Thus:
+> On July 20, 1[ 9]83, three holding companies were
+> incorporated as follows:
+> 1. [Basic]
+> 2. [Falcon]
+> 3. [Supreme]
+> On the same day, the incorporators of [Falcon] and
+> [Supreme] after paying their subscription in full, sold
+> and transferred 100% of their shares to a new group led
+> by [Tan]. In the meantime, [President FM] thru
+> 107 Rollo (G.R. No. 203592) (Vol. VII), p. 3940.
+>
+> Concurring and Dissenting Opinion 42 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> [Gapud] persisted in his demand for [a] ... share in
+> [SHI].
+> On July 16, 1984, the three holding companies
+> purchased 99% of the shares of the stockholders of [SHI]
+> with the exception of [Tan] and [Tan Eng Lian] who
+> retained 0.5% each. On the same day, the said three holding
+> companies borrowed from the stockholders-vendors of
+> [SHI] amounts [equivalent] to the respective purchase
+> prices of the aforementioned shares on [a] 30-day term.
+> Unable to pay the loan at maturity, the three companies
+> sold back ( on August 22, 1984) the said shares to the
+> original vendors-stockholders in the same proportion as
+> when purchased.
+> 256. Indeed, respondent [Tan] and former [President FM]'s
+> unlawful business partnership is manifested from [Tan]'s act of organizing
+> holding corporations, the structure of which he made known to [President
+> FM] through Gapud; and [Tan]'s execution of deeds of assignments to
+> conceal [President FM] 's proprietary and financial interests in these
+> holding corporations.
+> 257. [Tan] explains that [SHI] was intended to purchase and hold
+> at least 99% of the shares of stocks from existing stockholders of
+> respondent corporations ... Thereafter, three holding companies, namely,
+> Basic, Falcon, and Supreme, were incorporated to structure the
+> segregation of respondents [President FM] and [Tan]'s 60%-40%
+> ownership interest.
+> 258. The three holding companies purchased 99% of the shares of
+> stocks in [SHI] with the exception of respondents [Tan] and [Tan Eng
+> Lian] who retained 0.5% each. Falcon and Supreme, representing 60% of
+> [SHI] belong to respondent [President FM], while Basic, which holds the
+> remaining 40% interest, belongs to respondent [Tan].
+> 259. The formed layers of holding corporations (Basic, Falcon,
+> Supreme) under the umbrella [SHI], and [Tan's group of companies]
+> execution of blank deeds of assignments (sic), clearly disclose that
+> respondents [Tan, et al.] implemented former [President FM]'s modus
+> operandi in hiding and concealing the Marcoses' proprietary interest in
+> [Tan's group of companies]. 108 (Emphasis supplied)
+> Having relied on the afore-quoted statements in Tan's Written
+> Disclosure, the Republic cannot be permitted to cherry-pick the portions
+> thereof that support its cause, and conveniently disregard those which do
+> not. Taken in its entirety, Tan's Written Disclosure confirms that the
+> blank deeds of assignment were nothing but sham deeds without any
+> legal effect, drawn specifically to mislead President FM into believing
+> that his extortionate demands had been complied with.
+> 108 Rollo (G.R. No. 203592) (Vol. VII), pp. 3947-3949.
+>
+> Conctming and Dissenting Opinion 43 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> b. The blank deeds are inadmissible as
+> evidence
+> Assuming arguendo that the blank deeds could be accorded legal
+> effect, they nevertheless remain inadmissible and bereft of any evidentiary
+> value.
+> The copies of the blank deeds presented as evidence by the Republic
+> and made part of the records of the case are plain photocopies, for while the
+> originals had been turned over by the U.S. government to PCGG, they were
+> later misplaced while in the latter's custody. As revealed during BBM's
+> cross-examination, the Republic, through PCGG, acknowledged such fact
+> and cited this as basis to present secondary evidence, thus:
+> Atty. Generillo [(PCGG)]:
+> Q: Now Mr. Witness, where are the original copies of these
+> documents?
+> A: As far as I know[,] the originals are with the [U.S.] Customs.
+> Q: Now in your previous testimony, you testified that your counsel in
+> the United States was trying to secure these documents from the
+> [U.S.] government?
+> A: Yes, sir.
+> Q: Was your counsel m the United States able to secure these
+> documents?
+> A: No, sir he was not. In fact, he went [to] us in preparation for my
+> appearance today, he wrote me a letter explaining that Mr.
+> [Gabriel,] who was appointed by the District Court in Hawaii to
+> look for the record was unable to locate those documents, the
+> originals of those documents.
+> Atty. Mendoza [counsel for BBM]:
+> Your Honors, please because of the non-production of these
+> records has been the reason of the testimony of [BBM] was deferred (sic)
+> for several months. I would like to read from the letter now presented by
+> the witness the following statement. This is a letter as manifested
+> addressed to [BBM] from lawyers Bartko, Sandel, Tarant Miller; and the
+> second paragraph of the letter read[s] as follows: "As you know based on
+> the information we received as well as the attached letter from Chief
+> Counsel of the [U.S.] Customs Service Michael V. Smiths to PCGG
+> Commiss10ner Parlade certified copies of various documents including
+> those involving [Tan] were already given to the PCGG last 27 December
+>
+> Concurring and Dissenting Opinion 44 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> 1990. I am cunous as to why these have not been presented to the
+> Philippine Courts[."] ...
+> CHAIRPERSON:
+> The PCGG according to the Letter should be in possession of the
+> certified true copies of those documents.
+> Atty. Generillo:
+> We respectfully submit, Your Honor that these documents are very
+> much relevant to the proof of the allegations in the Complaint, Your
+> Honors, especially with respect to the status of condition of the documents
+> that were seized by the [U.S.] government when the Marcoses landed in
+> Hawaii. Another thing, Your Honor, in the past we have tried to subpoena
+> former Commissioner Cesar Parlade, Your Honors. But the records will
+> show that the attempt of the Honorable Court to subpoena Commissioner
+> Parlade was unsuccessful, Your Honor. But we again issued a subpoena
+> for the testimony of Cesar Parlade on this point ... But we would like to
+> point out Your Honor that this will lay the basis for the presentation of
+> secondru-y evidence is (sic) that is necessary ... 109
+> However, even if the photocopies of the blank deeds are treated as
+> secondary evidence on account of the unavailability of the original
+> documents, they remain inadmissible. To be sure, all twelve blank deeds are
+> unnotarized and are thus in the nature of private documents.110 At the time
+> these blank deeds were presented by the Republic as evidence, the prevailing
+> rule on proof of private documents was found in Section 20, Rule 132 of the
+> Revised Rules on Evidence which reads:
+> SEC. 20. Proof of private documents. - Before any private document
+> offered as authentic is received in evidence, its due execution and
+> authenticity must be proved by any of the following means:
+> (a) By anyone who saw the document executed or written;
+> (b) By evidence of the genuineness of the signature or
+> handwriting of the maker; or
+> ( c) By other evidence showing its due execution and
+> authenticity.
+> Any other private document need only be identified as that
+> which it is claimed to be.
+> No witnesses were presented to attest to the execution and authenticity
+> of the blank deeds. As well, no other evidence had been presented to
+> establish the genuineness of the signatures appearing thereon. Verily, the
+> Republic's failure to properly authenticate the blank deeds in question in
+> 109 Rollo (G.R. No. 203592) (Vol. III), pp. 1669-1675.
+> 110 See Sec. 19, Rule 132 of the REVISED RULES ON EVIDENCE, supra note 48.
+>
+> Concurring and Dissenting Opinion 45 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> accordance with Section 20, Rule 132 rendered them inadmissible in
+> evidence, thus:
+> In the case of Chua v. Court of Appeals, it was held that before
+> private documents can be received in evidence, proof of their due
+> execution and authenticity must be presented. This may require the
+> presentation and examination of witnesses to testify as to the due
+> execution and authenticity of such private documents. When there is no
+> proof as to the authenticity of the writer's signature appearing in a
+> private document, such private document may be excluded.111
+> (Emphasis supplied)
+> In stark contrast with the earlier discussion about Imelda's Amended
+> Answer and Tan's Written Disclosure, none of the exceptions to the rule on
+> authentication of private documents are present in the case of these blank
+> deeds. Again, these exceptions are: (a) when the document is an ancient one
+> within the context of Section 21, Rule 132 of the Rules of Court; (b) when
+> the genuineness and authenticity of an actionable document have not been
+> specifically denied under oath by the adverse party; ( c) when the
+> genuineness and authenticity of the document have been admitted; or ( d)
+> when the document is not being offered as genuine.112 V~rily, these blank
+> deeds are palpably inadmissible in evidence.
+> c. The other documentary evidence
+> presented in support of the
+> Republic's claim over 60% of SHI's
+> are likewise inadmissible
+> Finally, it bears to mention that the Republic attempted to bolster its
+> claim to 60% of the shares of SHI by presenting documents to show that
+> the other corporations under the SHI umbrella, particularly, Fortune
+> Tobacco and Allied Bank, had been granted undue concessions by
+> President FM. As summarized by the ponencia:
+> Additionally, the Republic presented voluminous documentary
+> evidence in support of its allegations ... :
+> l. Documents relating to Fortune Tobacco. There
+> are documents which show that numerous requests for
+> import quotas were made to the Philippine Virginia
+> Tobacco Administration or directly to [President FM],
+> bearing the latter's signature with the words "approved."
+> There are also those showing that respondent Tan, as
+> chairperson of Fortune Tobacco, wrote requests to
+> [President FM] which were favorably acted upon by the
+> latter. Likewise, several documents issued by the Office of
+> the President granting Fortune Tobacco's requests for
+> import quotas were submitted, which state that [President
+> 111 Young Builders Corporation v. Benson Industries, Inc., G.R. No. 198998, June 19, 2019, 904 SCRA
+> 485, 502. Citations omitted.
+> 112 Patula v. People, supra note 54, at 156-157.
+>
+> Concun-ing and Dissenting Opinion 46 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> FM] approved the request for the import quota.
+> 2. Documents relating to Allied Bank. The Republic
+> presented documents which show that respondent Tan
+> wrote direct requests to [President FM] on behalf of Allied
+> Bank. These were likewise approved or granted by
+> [President FM] as shown by notations or issuances by the
+> Office of the President.' 13
+> I agree with the ponencia in upholding the Sandiganbayan's correct
+> observation that the aforesaid documents pertaining to the alleged
+> concessions granted in favor of Fortune Tobacco and Allied Bank are
+> inadmissible and incompetent. The voluminous documentary evidence
+> were mere photocopies, and the witnesses who testified on these
+> documents had no direct participation in the preparation and execution
+> thereof.114
+> In sum, without any evidence to prove President FM' s beneficial
+> interest in 60% of the shares in SHI, the Republic's claim over said interest
+> crumbles. The Court is left with absolutely no basis to order the
+> reconveyance of said interest in favor of the Republic. To my mind, such
+> 60% interest as a metric for recovery in the absence of preponderant
+> evidence to show that it constitutes ill-gotten wealth would be improper,
+> iniquitous, and extremely unjust.
+> The grant of the brewery license
+> due to President FM and Tan's
+> close business relationship gives
+> rise to the Republic's right of
+> recovery
+> Notwithstanding the foregoing, I find that the Republic nevertheless
+> established that Tan did, in fact, take advantage of his close business
+> relationship with President FM to secure an undue benefit, specifically, the
+> brewery license granted in favor of Asia Brewery.
+> This has been established through the Written Disclosure of Tan,
+> which, to reiterate, he similarly relied upon and even quoted in full in his
+> own Memorandum. To restate:
+> ASIA BREWERY
+> By hindsight, we c2n now conclude that [President FM], from the
+> very beginr.ing wanted :o acquire the San Miguel Corporation (SMC).
+> However, it was impossible to acquire SMC because it was tightly
+> controlled by the Sorian,:.i and Ayala families. The only way is to give
+> 113 Ponencia, pp. 57-58.
+> 114 Rollo (G.R. 203592) (Vol. I), pp. 157-161.
+>
+> Concurring and·Di~senting Opiriio.n 47 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> SMC a competitor, to bring down the market price of SMC shares and to
+> create conflicts within and among the SMC stockholders.
+> [President FM] then started to say publicly that SMC was a
+> monopoly, that there should be free enterprise. Meanwhile, the GSIS and
+> SSS were ordered to buy SMC shares to a point that Roman Cruz, Jr.
+> became a director of SMC.
+> Preparations went underway for the establishment of the second
+> brewery. Discussions with the BOI were steadfastly maintained and
+> supported SMC's stand on the industry being overcrowded [despite] of its
+> continued approval of SMC's expansion projects reached a stalemate.
+> The issue of [Asia Brewery]'s petition of being the second
+> brewery was broached to [President FM] and nothing seem[s] to
+> please him more than to provide SMC with competition to realize his
+> obsession of gaining control of SMC. Upon his instruction, BOI
+> approved the application of [Asia Brewery) to establish the second
+> brewery and immediately, the market value of SMC's shares declined
+> from P48 to P25 per share. At this point, Danding Cojuangco started to
+> buy SMC shares. Eventually, he was able to buy Gokongwei's and
+> Emique Zobel's block of shares which gave him a substantial holding.
+> Finally, Andres Soriano sold out to Cojuangco. Thus full control went to
+> Cojuangco.115 (Emphasis and underscoring supplied)
+> Through the foregoing statements, Tan significantly concedes that: (i)
+> he was aware of President FM's specific interest to gain control of SMC; (ii)
+> he capitalized on President FM's interest in SMC by broaching to President
+> FM the establishment of Asia Brewery to give SMC a competitor and
+> disrupt the latter's dominant position in the market; and (iii) Asia Brewery's
+> license was thereafter granted by the Board of Investments (BOI) upon
+> President FM's instruction. Clearly, the grant of Asia Brewery's license was
+> a benefit granted by President FM in favor of Tan on account of their close
+> business relationship, inasmuch as Tan likewise concedes that he would not
+> have been able to secure the Asia Brewery's license had he not pitched the
+> idea to President FM. In so doing, Tan can be said to have acquired ill
+> gotten wealth through Asia Brewery in accordance with the second mcde of
+> acquisition - by taking undue advantage of his close business relationship
+> with President FM.
+> At this juncture, it bears stressing that in actions for recovery of ill
+> gotten wealth, evidentiary substantiation of the allegations as to how the
+> wealth in question had illegally been acquired and by whom is necessary.
+> Prevailing jurisprudence thus instructs that the mere holding of a
+> goven1ment rosition during President FM' s administration does not
+> necessarily make a party a close associate within the context of EO No. 1.116
+> 115 Rollo (G.R. No. 203592) (Vol. IV), p. 3498.
+> 116 See Repuhfic v. R~yes-Bakunawa, supra note 40, at 187.
+>
+> Concurring and Dissenting Opinion 48 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> In Republic v. Reyes-Bakunawa, 117 the Court notably construed the
+> term "subordinate" as used in EO Nos. 1 and 2 to refer to a person who
+> enjoyed a close association with President FM and/or his wife, Imelda,
+> "similar to that of an immediate family member, relative, and close
+> associate, or to that of a close relative, business associate, dummy, agent, or
+> nominee."118 Indeed, a prima facie showing must be made to show that one
+> unlawfully accumulated wealth by virtue of a close association or relation
+> with President FM and/or his wife.119
+> Here, there can be no gainsaying that Tan enjoyed such close
+> association as a business associate of President FM. Imelda's Amended
+> Answer and BBM's Testimony consistently painted Tan as a close business
+> associate of President FM. The relevant portions of said evidence bear
+> repeating here:
+> Imelda's Amended Answer
+> 42. Way before and continuing through 1985, former
+> [President FM] had beneficial ownership, together with [Tan], his
+> family and associates, in the following operating companies, as well as
+> the subsidiaries and companies which these operating companies have
+> acquired[,] or in turn invested in, to wit:
+> 1. [Himmel Industries]
+> 2. [Fortune Tobacco]
+> 3. [Foremost Farms]
+> 4. [A sia Brewery]
+> 5. [G randspan]
+> 6. [Silangan Holdings]
+> 7. [Dominium Realty]
+> 43. [President FM] had a sixty percent (60%) beneficial
+> ownership in said companies, which beneficial interests were held in
+> trust by [Tan] personally and through his family members and
+> business associates who appeared as the recorded stockholders of said
+> companies.120 (Emphasis and underscoring supplied)
+> BBM~s Testimony:
+> Q: "When was the first time that you saw [Tan]?"
+> WITNESS CONG. MARCOS, JR.
+> A: I cou!d not give you the specific date but I know it was in the
+> early '70s. As I said, the first time I saw him was in the area of the
+> Palace that we call the "Study Room", which is the area next to my
+> father's office.
+> ATTY. GENERILLO
+> I 17 Id.
+> 118 Id. citing Republic v. Migrino, G.R. No. 89483, August 30, 1990, 189 SCRA 289, 297-298.
+> I 19 Id.
+> 120 Rollo (G.R. No. 203592) (Vol. VI,), p. 3997.
+>
+> Concurring and Dissenting Opinion 49 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Q: Did you have opportunity to talk to [Tan]?
+> A: Yes, several times after we have been introduced. We would
+> say "hello" to each other when we cross each other's paths. And on a
+> couple of occasions, we actually had an opportunity to have
+> substantive conversations aside from meetings.
+> Q: What do you mean "substantive meetings" or discussions?
+> A: Well, I remember that at one point, I was summoned by my
+> father to his office and so I went. And he was there with [Tan] in the
+> discussion.
+> And he at that point told me that he would like me to
+> familiarize myself with the operations of some of the enterprises that
+> we have interests in and that [Tan] was going to help me to be more
+> familiar with the said operations.
+> Q: Why did your father summon you to his office to familiarize
+> yourself with the business interests of the Marcoses?
+> A: It was part of a larger effort on the part of the family to really
+> clarify and to conduct an inventory and legal audit of all those
+> business interest that we have.
+> My sister Imee, who has legal training, was given the job of
+> conducting the legal audit, and I was given the job to go to as many of
+> these enterprises as I could and as I said, learn the operations and
+> meet the people who were running them so that when the time comes
+> that we would take over, we would know how to manage these
+> different interests.
+> Q: Was there any occasion for your father to show proof of the
+> family's interests in [Tan]?
+> A: Well, when we first began this whole effort, he had me and my
+> sister, we met and we sat down and showed us some documents which
+> are essentially Deeds of Assignment, Shares of Stock, Titles to
+> properties, and all these kinds of things. And he tried to give us a
+> sketch of exactly how the structures were.
+> And then his instructions to us were - we go out and make
+> sure that first, all documentations were in place because maybe the
+> documents or something were in some persons, the documents or
+> something were in another person, to really reorganize them and
+> collate everything. So, that was the gist of- \Ve had several of those
+> meetings, and that was then I saw these documents. 121 (Underscoring
+> supplied; emphasis in the original)
+> 121 Id. at 4013--4015.
+>
+> Concurring and Dissenting Opinion 50 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Tan, on the other hand, was conspicuously evasive and guarded by the
+> way he depicted his acquaintance with President FM. He presented himself
+> as a victim of the former President's intimidation, yet, offered no
+> explanation on how this was so or came about. As it stands, there were
+> apparent gaping holes in his story and attempts to understate his relationship
+> with President FM. But as aptly laid down by the Republic in its
+> Memorandum, in so many words, there were far too many pieces of
+> information relayed in Tan's Written Disclosure that only a business
+> associate would be privy to.
+> In particular, citing the excerpt from Tan's Written Disclosure anent
+> Asia Brewery, the Republic observed:
+> [I]t is clear that respondent [Tan] viewed the Marcos-[Tan] partnership as
+> mutually beneficial. Respondent [Tan] utilized [President FM]'s stem
+> intervention in organizing Asia Brewery which, in turn, paved the way for
+> Marcos to penetrate SMC.
+> 245. Further, the [Written Disclosure] reveals respondent
+> [Tan]'s close personal relationship with [President FM] such that: (a)
+> he knew of [President FM]'s interest in SMC; (b) he broached the idea
+> of having a second brewery - respondent Asia Brewery - to former
+> [President FM] to compete with SMC and this pleased the former
+> President because it gave him the opportunity to gain control of SMC;
+> and (c) he had unrestricted access to [President FM] so that when the
+> [BOI] supported SMC's position that the industry was overcrowded,
+> he automatically went directly to [President FM] and sought his help
+> in the organization of a second brewery, the Asia Brewery.
+> 246. Respondents [Tan] and [President FM]'s close personal
+> relations is made more manifest by respondent [Tan]'s knowledge that
+> former [President FM] ordered GSIS and SSS to buy SMC shares on the
+> occasion of which Ramon Cruz, Jr. became a Director of SMC.
+> Eventually, when the B01 approved [Asia Brewery]'s application, upon
+> former [President FM]'s directives, the latter eventually obtained full
+> control of Siv1C through Danding Cojuangco. Respondent [Tan] had
+> knowledge also of the mega-businesses of former [President FM]'s closest
+> cronies whom he named to be Disini, Silverio and Cuenca.122 (Emphasis
+> supplied)
+> Indeed, Tan's Written Disclosure, no matter how craftily drafted,
+> gives away crucial details of his business relationship with President FM that
+> dovetail with the narrations of Imelda and BBM in their Amended Answer
+> and Testimony, respectively. Whether it was true that he was merely
+> intimidated or coerced into forging a business partnership with President FM
+> is, as regards this issue, beside the point - neither does it matter if he later
+> succeeded in misleading him. The fact remains that under the language of
+> the law, it can legitimately be said that Tan was able to unduly benefit from
+> his close business relationship with President FM. Stated differently, the
+> procurement of such undue benefit would appear to fall squarely within the
+> scope of the second mode of acquiring ill-gotten wealth and gives basis to
+> 122 Id at 3942-3943.
+>
+> Concurring and Dissenting Opinion 51 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> the Republic's right of recovery under EO Nos. 1 and 2.
+> The case must be remanded
+> for determination of the
+> amount to be recovered by the
+> Republic
+> As the Republic's right of recovery in this particular case solely
+> proceeds from the grant of Asia Brewery's license on account of President
+> FM' s close business relationship with Tan, the amount which the Republic
+> may recover herein must be based on the amount of ill-gotten wealth derived
+> therefrom.
+> Here, the records are bereft of any evidence which would allow the
+> Court to determine the precise amount of said ill-gotten wealth so acquired.
+> Despite this, the Civil Code123 permits the Republic to recover
+> temperate and exemplary damages. Specifically, Article 2224 of the Civil
+> Code provides that temperate damages may be recovered "when the court
+> finds that some pecuniary loss has been suffered but its amount cannot, from
+> the nature of the case, be provided with certainty." On the other hand,
+> Article 2229 of the same statute permits the recovery of exemplary damages
+> "by way of example or correction for the public good", when either moral,
+> temperate, liquidated, or compensatory damages are awarded.
+> The award of temperate and exemplary damages in actions for
+> recovery of ill-gotten wealth is not novel.
+> In Tuvera, the Court recognized that while the Republic therein failed
+> to prove the exact amount to be recovered, it was nevertheless entitled to
+> temperate and exemplary damages. The Court held:
+> If only the Court's outrage were quantifiable in sums of money,
+> respondents are due for significant pecuniary hurt. Instead, the Court is
+> forced to explain in the next few paragraphs why respondents could not be
+> forced to [compensate] the Filipino people in appropriate financial terms.
+> The fault lies with those engaged by the government to litigate this case in
+> behalf of the State.
+> It bears to the most primitive of reasons that an action for recovery
+> of sum of money must prove the amount sought to be recovered. In the
+> case at bar, the Republic rested its case without presenting any evidence,
+> documentary or testimonial, to establish the amount that should be
+> restituted to the State by reason of the illegal acts committed by the
+> respondents. There is the bare allegation in the complaint that the State is
+> entitled to [P48 million] by way of actual damages, but no single proof
+> presented as to why the State i3 entitled to such amount.
+> 123 Republic Act No. 386 also known as "An Act to Ordain and Institute the Civil Code of the Philippines,"
+> approved on June 18, l 949.
+>
+> Concurring and Dissenting Opinion 52 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Actual damages must be proven, not presumed. The Republic
+> failed to prove damages. It is not enough for the Republic to have
+> established, as it did, the legal travesty that led to the wrongful
+> obtention by Twin Peaks of the TLA. It should have established the
+> degree of injury sustained by the State by reason of such wrongful act.
+> [T]here is sufficient basis for an award of temperate damages, also sought
+> by the Republic notwithstanding the fact that a claim for both actual and
+> temperate damages is internally inconsistent. Temperate or moderate
+> damages avail when "the court finds that some pecuniary loss has been
+> suffered but its amount cannot from the nature of the case, be proved with
+> certainty." The textual language might betray an intent that temperate
+> damages do not avail when the case, by its nature, is susceptible to proof
+> of pecuniary loss; and certainly the Republic could have proved pecuniary
+> loss herein. Still, jurisprudence applying Article 2224 is clear that
+> temperate damages may be awarded even in instances where pecuniary
+> loss could theoretically have been proved with certainty.
+> In a host of criminal cases, the Court has awarded temperate
+> damages to the heirs of the victim in cases where the amount of actual
+> damages was not proven due to the inadequacy of the evidence presented
+> by the prose.::ution. These cases include People v. Oliano, People v.
+> Suplito, People v. De la Tongga, People v. Briones, and People v. Plaza.
+> In Viron Transportation Co., Inc. v. Delos Santos, a civil action for
+> damages involving a vehicular collision, temperate damages were awarded
+> for the resulting damage sustained by a cargo truck, after the plaintiff had
+> failed to submit competent proof of actual damages.
+> We caimot discount the heavy influence of common law, and its
+> reliance on judicial precedents, in our law on tort and damages.
+> Notwithstanding the language of Article 2224, a line of jurisprudence has
+> emerged authorizing the award of temperate damages even in cases where
+> the amount of pecuniary loss could have been proven with certainty, if no
+> such adequat~ proof was presented. The allowance of temperate damages
+> when actual damages were not adequately proven is ultimately a rule
+> drawn from equity, the principle affording relief to those definitely injured
+> who are unable to prove how definite the injmy. There is no impediment
+> to apply this doctrine to the case at bar, which involves one of the
+> most daunting and noble undertakings of our young democracy - the
+> recovery of ill-gotten wealth salted away during the Marcos years. If
+> the doctrine can be justified to answer for the unlawful damage to a
+> cargo truck, it is a compounded wrath if it cannot answer for the
+> unlawful exploitation of our forests, to the injury of the Filipino
+> people. The amount of [Pl,000,000.00] as temperate damages is
+> proper.
+> The allowance of temperate damages also paves the way for the
+> award of exemplary damages. Under Article 2234 of the Civil Code, a
+> showing that the plaintiff is entitled to temperate damages allows for the
+> award of exe1'.lplary damagc-s. Even as exemplary damages cannot be
+> recovered as a matter of rigtt, ~he courts are empowered to decide whether
+> or not they should be adjudicated. Ill-gotten wealth cases are hornbook
+> demonstrations where damages by way of example or correction for
+> the public good should be awarded. Fewer causes of action deserve the
+> stigma left by exemplary damages, which "serve as a deterrent against
+>
+> Concurring and Dissenting Opinion • 53 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> or as a negative incentive to curb socially deleterious actions." The
+> obtention of the [Timber License Agreement] by Twin Peaks through
+> fraudulent and illegal means was highlighted by Juan Tuvera's abuse of
+> his position as Presidential Executive Assistant. The consequent
+> exploitation of 26 hectares of forest land benefiting all respondents is a
+> grave case of unjust enrichment at the expense of the Filipino people and
+> of the environment which should never be countenanced. Considering the
+> expanse of forest land exploited by respondents, the volume of timber that
+> was necessarily cut by virtue of their abuse and the estimated wealth
+> acquired by respondents through grave abuse of trust and public office, it
+> is only reasonable that petitioner be granted the amount of
+> [Pl,000,000.00] as exemplary damages.
+> The imposition of exemplary damages is a means by which the
+> State, through its judicial arm, can send the clear and unequivocal
+> signal best expressed in the pithy but immutable phrase, "never
+> again." It is severely unfortunate that the Republic did not exert its best
+> efforts in the full recovery of the actual damages caused by the illegal
+> grant of the Twin Peaks TLA. To the best of our ability, through the
+> appropriate vehicle of exemplary damages, the Court will try to fill in that
+> deficiency. For if there is a lesson that should be learned from the national
+> trauma of the rule of Marcos, it is that kleptocracy cannot pay. As those
+> dark years fade into the backburner of the collective memory, and a new
+> generation emerges without proximate knowledge of how bad it was then,
+> it is useful that the Court serves a reminder here and now.124 (Emphasis
+> and underscoring supplied)
+> As well, in the more recent case of Disini, the Court resolved to award
+> temperate and exemplary damages in favor of the Republic, notwithstanding
+> its failure to prove the total amount of ill-gotten wealth acquired by
+> respondent therein in the form of commissions arising from the BNPP,
+> hence:
+> Despite the failure of the Republic to prove the total amount of
+> commissions received by [Herminio], the Court fully recognizes its
+> right to recover the ill-gotten wealth. [Herminio] is not at all entitled
+> to these commissions as he illegally acquired them through the use of
+> his influenre and close relationship with [President FM] without
+> rendering any service for the benefit of the Republic's BNPP project.
+> Evidently, [Herminia] unjustly enriched himself by receiving
+> substantial commissions from Westinghouse and B&R and acting as the
+> SSR in order to ensure the award of the [BNPP] project to the said
+> companies by taking undue advantage of his close relationship with
+> [President FM]. Article 22 of the Civil Code provides that "(e ]very person
+> who through an act or perfonnance by another, or any other means,
+> acquires or comes ·into possession of something at the expense of the latter
+> without jmt or legal ground, shaJl return the same to him."
+> There is unj'.1ste:1.'."ichment 'Nr.en a person unjustly retains a benefit
+> to the loss of another, or when a person retains money or prope1ty of
+> another against the fundamental principles of justice, equity and good
+> conscience. The principle of unjust enrichment essentially contemplates
+> 24 Republic v. Tuvera, supra note 34, at 149- 153. Citations omitted.
+> !
+>
+> Concurring and Dissenting Opinion 54 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> payment when there is no duty to pay, and the person who receives the
+> payment has no right to receive it.
+> In fine, the Republic's failure to particularly prove the actual
+> amount of commissions received by [Herminio] should not override its
+> right to recover the illegally-acquired commissions considering the
+> fact that it has satisfactorily established, by preponderance of
+> evidence, [Herminio]'s receipt thereof. Necessarily, public funds were
+> released for the construction of the BNPP project. [Herminion] indirectly
+> amassed a portion of these public funds through commissions paid by
+> Westinghouse and B&R. These commissions or "kickbacks" are not only
+> illegal or fraudulent but detrimental to the Republic and highly unfair and
+> prejudicial to ordinary Filipino taxpayers.
+> However, actual damages to be recoverable must be supported by
+> evidence on record and cannot be left merely to the discretion of the court.
+> While We affirm the Republic's entitlement to recover [Herminia]' s ill
+> gotten wealth, no other evidence was presented to show the definite
+> amount thereof. The Republic failed to substantiate its claim for actual
+> pecuniary loss or damages sustained by reason of [Herminia]' s acquisition
+> of ill-gotten wealth.
+> \Vhile it is true that the Republic failed to prove the amount of
+> commissions received, this does not mean, however, that [Herminio] is
+> free from any liability under this civil action for reconveyance,
+> reversion, accounting, restitution and damages. Thus, under the
+> principle of unjust enrichment, We uphold the Republic's right to
+> recover these commissions in favor of the Filipino people. No one
+> should unjustly enrich himself by receiving commissions in connection
+> with a government project when clearly he has no right for it nor
+> entitled to retain the same.
+> Nonetheless, since recovery thereof cannot be effected due to the
+> absence of a definite amount, We deem it proper to award the Republic
+> temperate damages for the pecuniary loss and the Filipino people suffered
+> on account •Of [Herminia]' s illegal acquisitions of substantial commissions
+> from Westinghouse and B&R, albeit the amount thereof not being proven
+> with certainty. Under Article 2224 of the Civil Code, temperate or
+> moderate damages, which are more than nominal but less than
+> compensatory damages, may be recovered when the court finds that some
+> pecuniary loss has been suffered but its amount cannot, from the nature of
+> the case, be determined with certainty ...
+> Here, the Republic is entitled to recover temperate damages as
+> there is no doubt that [Herminio) trampled on the rights of the
+> Filipino people to benefit from, and make good use of, these ill-gotten
+> wealth, i.e. . substantial commissions or kickbacks he acquired; and
+> that the whole nation significantly suffered pecuniary loss due to
+> [Herminio] 's illegal acquisition of these public funds.
+> Considering the relevant circumstances of this case, the
+>
+> Concurring and Dissenting Opinion 55 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> amount of One Billion Pesos [(Pl,000,000,000.00)] as temperate
+> damages is reasonable and justified. It bears stressing that this is not just
+> an ordinary civil action for recovery of property and damages. This is an
+> action for recovery of ill-gotten wealth which is imbued with public
+> interest and concerns not only the government but every Filipino citizen,
+> then and now. As part of the healing process of this nation, the Freedom
+> Constitution specifically mandates the President to prioritize the recovery
+> of these ill-gotten wealth. Hence, the loss or injury suffered by every
+> Filipino due to [Herminia ]'s acquisition of ill-gotten wealth must be duly
+> recognized and compensated.
+> Further, We note that the Filipino people have not at all benefited
+> from the BNPP as it has remained inoperable as of this writing, a
+> proverbial White Elephant. Obviously, a considerable amount of public
+> funds had been invested and allocated for the construction of the BNPP,
+> which funds came from the blood, sweat and tears of the Filipino
+> taxpayers. The ill-gotten wealth should have been used and spent for and
+> by the rightful owner thereof and not just by one person or a select group
+> of people in power.
+> Also, the Republic was unduly deprived of its rights over these
+> substantial commissions as part of public funds, and was compelled to
+> litigate for their recovery for more than three decades. We cannot
+> overemphasize that [Herminia] received these ill-gotten wealth stai1ing in
+> 1976 when the construction of the BNPP began. Consequently, he had
+> profited immensely from these commissions for a significant portion of his
+> lifetime at the expense of the Filipinos.
+> Taking into consideration the inflation rate and the Philippine
+> Peso's purchasing power at that time, these substantial commissions, if
+> recovered, would have been greatly valued now and could have been used
+> for the betterment of the Philippines. In addition, the Republic would have
+> been entitled to recover legal interest on the total amount of commissions
+> received had it proved such.
+> Undeniably, the recovery of these illegally acquired public
+> funds, properties and assets has great impact on every Filipino's life.
+> Hence, the award of One Billion Pesos [(Pl,000,000,000.00)]
+> temperate damages is reasonable under the circumstances taking into
+> consideration the rights of all Filipino citizens encroached upon by
+> [Herminio]'s acquisition of ill-gotten wealth and the damage caused to
+> the Republic for its failure to make good use of the same.
+> With the grant of temperate damages, this allows the imposition of
+> exemplary damages by way of example or correction for the public good.
+> Exemplary damages cannot be recovered as a matter of right and are only
+> considered when moral, temperate, liquidated or compensatory damages
+> are granted. "Exemplary damages are designed by our civil law to permit
+> the com1s to reshape behavior that is socially deleterious in its
+> consequence by creating negative incentives or deterrents against such
+> behavior." Its purpose is to serve as a deterrent to serious wrong doings
+> and as a vindication of u:,duc sufferings and wanton invasion of the rights
+> of an injured or a punishment for those guilty of outrageous conduct.
+> There is no doubt that [Herminio]'s receipt of [these] substantial
+> commissions from Westinghouse and B&R is illegal and despicable which
+> is no less than abh01Ted by our Freedom Constitution as its mandate
+>
+> Concurring and Dissenting Opinion 56 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> includes eradication of graft and corruption, punishment of those guilty
+> thereof and recovery of ill-gotten wealth. Verily, [Herminio]'s conduct
+> should be corrected and deterred as his use of influence or power for his
+> own personal benefit to the detriment of the Republic caused substantial
+> injury not only to public funds but to the morale, trust and confidence of
+> Filipinos in the government and its projects. Hence, this Court finds it
+> reasonable under the circumstances to award One Million Pesos
+> [(Pl,000,000.00)] as exemplary damagesY5 (Emphasis and underscoring
+> supplied)
+> It bears noting, however, that in the foregoing cases, the Court's
+> award for temperate and exemplary damages had been based on specific
+> monetary values. In Tuvera, the Pl ,000,000.00 award for temperate and
+> exemplary damages drew upon the assertion that the undue award of a TLA
+> in favor of therein respondents Juan, Victor, and Twin Peaks resulted in
+> revenues amounting to "approximately P45,000,000.00." On the other hand,
+> in Disini, the Court based its award of temperate and exemplary damages on
+> the price of the government contracts established to have been awarded in
+> favor of contractors Westinghouse and B&R through Herminio's influence.
+> In this case, no similar metric exists.
+> To reiterate, the 60-40 arrangement cannot serve as the Court's basis
+> to determine the damages which may be assessed in favor of the Republic as
+> its right to recover in this case is anchored not on said arrangement, but on
+> the undue influence exerted by Tan in order to secure Asia Brewery's
+> license. Thus, the damages due the Republic must be assessed based on the
+> portion of the latter's revenue which may be deemed ill-gotten.
+> In the absence of proof respecting these material facts, the Court is
+> precluded from making a reasonable determination as to the monetary
+> damage sustained by the Republic and its people on account of the undue
+> benefit granted in favor of Tan. Thus, the Court cannot assess damages,
+> whether temperate or exemplary, in favor of the Republic at this stage in the
+> proceedings, considering that these damages have not been reasonably
+> established in appropriate financial terms.126 To do otherwise would
+> inequitably and unfairly disregard the reality that the growth and
+> success of Asia Brewery did not rest solely on the undue benefit granted
+> by President FM in the form of its license.
+> The Court can surely take judicial notice of the fact that it has been 40
+> years since Asia Brewery was established following the grant of its BOI
+> license, and that it has since continued to operate 3 7 years after President
+> FM' s ouster.
+> As Tan's Written Disclosure reveals, he managed to secure Asia
+> Brewery's license by pitching it as a possible competitor for SMC. In turn,
+> m Disini v. Republic, supra note 37. Citations omitted.
+> 126 See Tuvera v. Republic, supra note 34.
+>
+> Concurring and Dissenting Opin1on. 57 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> President FM' s motive in allowing for the establishment of Asia Brewery
+> was in order that a competitor would disrupt SMC's monopoly and drive
+> down the prices of its shares to allow his then ally, Danding Coiuangco,
+> to gain control.127
+> Notably, the records of the case are bereft of any evidence to show
+> that President FM granted Asia Brewery any other benefit or
+> concession apart from its initial brewery license. In fact, Tan's Written
+> Disclosure indicates that President FM was not satisfied with Asia
+> Brewery's profitability. It was precisely Asia Brewery's unsatisfactory
+> performance which prompted President FM to demand a 60% share in all
+> corporations 128 under the SHI umbrella, in addition to the 25% share in Asia
+> Brewery which he initially asked for.129 It would thus appear that instead of
+> enjoying additional benefits or concessions to augment its profitability, Asia
+> Brewery had been placed at a disadvantage due to President FM' s
+> subsequent takeover threats.
+> More, at the time Asia Brewery began its operations in 1982, the beer
+> market was monopolized by industry giant SMC.130 In tum, competing with
+> SMC proved to be difficult for Asia Brewery, as SMC appeared to have
+> exerted efforts to maintain its dominance in the local beer market. In 1988,
+> SMC filed a complaint against Asia Brewery for infringement of trademark
+> and unfair competition on account of the latter's Beer Pale Pilsen or Beer na
+> Beer product which competed with SMC's San Miguel Pale Pilsen for a
+> share in the local beer market. In a 1993 Decision rendered in Asia Brewery,
+> Inc. v. Court of Appeals,131 the Court found no basis to support SMC's
+> assertions and held that Asia Brewery neither infringed SMC's trademark
+> nor committed unfair competition with respect to the latter's San Miguel
+> Pale Pilsen product.132
+> As well, the Court can take judicial notice of the fact that Asia
+> Brewery filed an action against SMC in 1997, claiming that the latter
+> committed "unfair trade practices" by hoarding, smashing, and illegally
+> removing Asia Brewery's empty beer bottles and plastic crates from
+> circulation. 133 The CA later directed SMC to pay Asia Brewery
+> P68,000,000.00 in damages to compensate the latter for its unfair trade
+> practices. 134
+> 127 See rollo (G.R. No. 203592, Vol. IV), p. 3498.
+> 128 Fortune Tobacco, Foremost Farms, Himmel Industries, Grandspan Development, and Dominium
+> Realty.
+> 119 See rollo (G.R. No. 203592) (Vol. IV), pp. 3496-3502.
+> 130 See About Us. (n.d.). Asia Brewery [website]. Last accessed October 14, 2023, from
+> <https ://asiabre·»ery .com/pages/about-u ~>.
+> 131 G.R. No. 103543, July 5, 1993, 224 SCRA 437.
+> 132 See id. at 456.
+> 133 ABS-CBN News. (2008, Noven1ber 24). Asia Bre1ivery Wins First Round in UnfClir Trade Practices
+> Case Vs San Miguel. Last accessed October 14, 2023, from <htq,s://news.abs-
+> cbr. .com/business/ I 1/ 24/08/asia-brewery-w ins-first-round-unfair-trade-practices-case-vs-san-m iguel>.
+> 134 Philippine Daily Inquirer. (2011, October 5). Asia Brewery Wins Bottle Case Vs San Miguel Corp. Last
+> accessed October 14, 2023, from <https://business.inquirer.net/23021/asia-brewery-wins-bottle-case-
+>
+> Concurring and Dissenting Opinion 58 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> Despite such heavy political and market pressure, Asia Brewery
+> thrived through the years and has managed to remain in business due in large
+> part to the industry of its own officers and employees. It bears noting that
+> beyond sustaining its business operations, Asia Brewery has since managed
+> to raise its share in the Philippine beer market to 38% as of2013.135 Despite
+> being known as a beer company, Asia Brewery now dominates the drinking
+> water, soy milk, energy drink, and alco-mix categories.I36 The company has
+> also been a reliable contributor to the net profit of the Lucio Tan Group, Inc.
+> (LT Group), albeit in a comparatively smaller way than the other big
+> companies in the LT Group. For the first half of 2023, Asia Brewery rep01iedly
+> accounted for P340 million or 3% of the total net income of the LT Group. This
+> is 16% higher than the P294 million last year, as revenues were 3% higher at
+> P8.41 billion from P8.14 billion.137
+> As such, the peg from which the damages to be awarded here must not
+> carelessly include income that has been honestly and legitimately earned by
+> Asia Brewery. To borrow the words of Justice Jose P. Laurel, "the
+> administration of justice is not a matter of guess work."138
+> On this basis, I submit, as I did at the outset, that the remand of the
+> Petition docketed as G.R. No. 203592 is necessary so that the temperate and
+> exemplary damages due the Republic may be assessed and determined with
+> some measure of certainty.
+> Indeed, as what has been emphasized by the Court in the past, the
+> factual premises of the EOs governing the recovery of ill-gotten wealth
+> cannot simply be assumed. They will have to be duly established by
+> adequate proof in each case, in a proper judicial proceeding, so that the
+> recovery of the ill-gotten wealth may be validly and properly adjudged and
+> consummated.139 The desire to be less than this methodical may be all too
+> real, considering that it is a matter of "extensive notoriety" that "an immense
+> fortune" and "vast resources of the government have been amassed by
+> former [President FM], his immediate family, relatives, and close associates
+> both here and abroad" through "all sorts of clever schemes and
+> manipulations to disguise and hide their illicit acquisitions," and hence, may
+> already be well within the realm of judicial notice as to dispense with proof
+> thereof.I40 Be this as it may, the requirement of evidentiary substantiation
+> has been expressly acknowledged, and the procedure to be followed
+> explicitly laid down, in EO No. 14.141
+> vs-san-miguel-corp>: There is no publicly available data confim1ing that a subsequer.t appeal had been
+> !edged.
+> 135 Philippine Daily fnquirer.(2013, fanuary 28). Asia Brewery to Expand Throughout Asia. Last accessed
+> June 8, 2023, from <https:/.fbusiness.inquirer.net/104639/asia-brewery-to-expand-throughout-asia>.
+> Id.
+> 136
+> 137 Manila Bulletirc. (2023, Augast 11). LT Group's Profits Decline to PJJB. Last accessed October 14,
+> 2023, from < https://mb.com.ph/2023/8/! l /!t-grc;up-s-profits-decline-to-p 13-b>.
+> 138 Go Deco & Co. v. l)e La Costa, 63 Phil. 445, 449 (1936).
+> 139 See Republic v. Reyes-Bakunawa, supra note 40, citing Bataan Shipyard & Engineering Co., Inc.
+> (Baseco) v. Presidential Commission on Good Government, supra note 23.
+> 140 See Republic v. Reyes--Bakunawa, id. at 187.
+> Id. •
+> 141
+>
+> Concurring and Dissenting Opinion 59 G.R. Nos. 195837,
+> 198221, 198974, and 203592
+> While my submission to remand here seems, at first blush, a backslide
+> from Tuvera and Disini, this is but an imperative one to be taken in step with
+> the rule of law. While the long-running remedial efforts of the Republic to
+> recover ill-gotten wealth _frOill: the Marcoses and their cronies should never
+> be brought to naught, especialiy in the face of an alarmingly proliferating
+> historical denialism of late, these efforts must be done fairly and judiciously.
+> Inasmuch as the injustice that the former regime of kleptocracy had inflicted
+> on our nation should be fought relentlessly, it should not be through means
+> that are_ as_ equa~ly_ unjust._ _
+> In view of the foregoing, I vote that the Court:
+> 1. AFFIRM the Sandiganbayan's Resolutions dated December
+> 22, 2010 and February 25,201 lin G.R. No. 195837;
+> . . . . •. . ., . .. .. .
+> 2. AFFIRl\l[ the Sandiganbayan's Order dated June 9, 2011
+> and Resolution dated August 2, 2011 in G.R. No. 198221;
+> as well as the Sandiganbayan's Resolutions dated May 3,
+> 2011 and July 4, 2011 dismissing the Republic's Motion for
+> Voluntary Inhibition; • - •-
+> 3. AFFIRM the Sandiganbayan's Resolutions dated July 8,
+> 2011 and August 23, 2011 in G.R. No. 198974 which
+> denied the Republic's Motion to Admit Third .AJ;nended
+> Cornplaint;·artd • •
+> 4. REVERSE the Sandiganbayan's Decision dated June 11,
+> 2012 and Resolution dated September 26, 2012 in G.R. No.
+> 203592.
+> Further, I vote that the case be REMANDED to the Sandiganbayan to
+> (i) allow the Republic to present additional evidence that will permit the
+> proper assessment of such ill-gotten wealth with some measure of certainty;
+> and (ii) afford Tan the opportunity to present controverting evidence, if any,
+> as _to the proper quantification of damages.

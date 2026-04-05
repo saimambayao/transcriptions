@@ -1,0 +1,1436 @@
+# GR-260374-gaerlan
+
+**/ 260426 Concurring Opinion: Justice Samuel H. Gaerlan**
+
+## Metadata
+
+- **Case Title**: / 260426 Concurring Opinion: Justice Samuel H. Gaerlan
+- **Ponente**: GAERLAN, J.
+- **Division**: [UNKNOWN]
+- **Type**: Decision
+- **Date**: November 3, 1982
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2022/11/260374-gaerlan.pdf)
+
+---
+
+> G.R. No. 260374 - FR. CHRISTIA B. BUENAFE, FIDES M. LIM,
+> MA. EDELIZA P. HERNANDEZ, CELIA LAGMAN SEVILLA,
+> ROLAND C. VIBAL, AND JOSEPHI E LASCANO, petitioners, versus
+> COMMISSION ON . ELECTIONS, FERDINAND ROMUALDEZ
+> MARCOS, JR., THE SENATE OF T E PHILIPPINES, represented by
+> the Senate President, THE HOU E OF REPRESENTATIVES,
+> represented by the Speaker of the Hous of Representatives, respondents. .
+> G.R. No. 260426 - BONIFACIO P~-........." -......... UAC ILAGAN, SATURNINO
+> CUNANAN OCAMPO, MARIA CAR LINA PAGADUAN ARAULLO,
+> TRINIDAD GERILLA REPUNO, J ANNA KINTANAR CARINO,
+> ELISA TITA PEREZ LUBI, LIZA LARGOZA MAZA, DANILO
+> MALLARI DELA FUENTE, CARMENCITA MENDOZA
+> FLORENTINO, DOROTEO CUBA UB ABAYA, JR., ERLINDA
+> NABLE SENTURIAS, SR. ARABEL A CAMMAGAY BALINGAO,
+> SR., CHERRY M. IBARDOLAZA, CSSJB, SR., SUSAN SANTOS
+> ESMILE, SFIC, HOMAR RUBERT ROCA DISTAJO, POLYNNE
+> ESPINEDA DIRA, JAMES CAR YN CANDILA, and JONAS
+> ANGELO LOP ENA ABADILLA, petit ners, versus COMMISSION ON
+> ELECTIONS, FERDINAND ROMU LDEZ MARCOS, JR., THE
+> SENATE OF THE PHILIPPINES, rep esented by the Senate President,
+> THE HOUSE OF REPRESENTATJY S, represented by the Speaker of
+> the House of Representatives, responden s.
+> Promulga ed: J..re 28, '2fJ22.
+> ----~-<]-,~• -~
+> x-------------------------------------------------- -~---x
+> CONCURRING PINION
+> GAERLAN, J.:
+> I join the ponencia's denial of the p sent petitions. I write separately to
+> elaborate on the concept of moral turpitud , and its application to tax crimes,
+> particularly to the present case, which inv Ives a conviction for the crime of
+> failure to file a tax return.
+> I. Recapitulation oft he facts
+> Respondent Ferdinand R. Marcos, Jr. (Marcos, Jr.) was an elected
+> official of the province of !locos Norte fro November 3, 1982 to March 31;
+> 1986. 1 When his father, then President Ferdinand E. Marcos (President
+> Marcos), was ousted from power through the first People Power Revolution
+> the previous February, the Marcos fami y, Marcos, Jr. included, fled the
+> 1 Ponencia, p. 6.
+>
+> Concurring Opinion 2 G.R. Nos. 260374 & 260426
+> Philippines.2 On September 28, 1989,. esident Marcos died in Honolulu,
+> Hawaii. 3 On June 27, 1990, the Burea of Internal Revenue conducted a
+> special investigation into the possible t x liabilities of President Marcos'·
+> estate, his family, and his close associa es. 4 Acting on the findings of the
+> special investigation, then-Bureau of Int rnal Revenue (BIR) Commissioner
+> Jose U. Ong filed a complaint with the S retary of Justice on July 25, 1991.5
+> This led to Marcos, Jr. being criminally c arged with violation of the National
+> Internal Revenue Code (NIRC) for fail re to pay income tax, and to file
+> income tax returns for the years 1982, 1983, 1984, and 1985, before the
+> Quezon City Regional Trial Court (R C). 6 On July 27, 1995, the RTC
+> rendered a judgment disposing thus:
+> WHEREFORE, the Court finds accused Ferdinand Romualdez
+> Marcos II guilty beyond reasonable do bt [of violation of] the National
+> Internal Revenue Code of 1977, as amend d, and sentences him as follows:
+> 1. To serve imprisonment of six (6) mon s and pay a fine of P2,000.00 for
+> each charge in Criminal Cases Nos. Q-9 -29213, Q-92-29212, and Q-92-
+> 29217 for failure to file income tax tetur s for the years 1982, 1983, and
+> 1984;
+> 2. To serve imprisonment of six (6) mont s and pay a fine of P2,000.00 for
+> each charge in Criminal Cases Nos. Q-9 -29216, Q-92-29215, and Q-92-
+> 29214 for failure to pay income taxes for tl e years 1982, 1983, and 1984;
+> 3. To serve imprisonment of three (3) year and pay a fine of P30,000.00 in
+> Criminal Case No. ·Q-91-24391 for failur to file income tax return for the
+> year 1985; and
+> 4. To serve imprisomnent of three (3) year and pay a fine of P30,000.00 in
+> Criminal Case No. Q-91-24390 for failur to pay income tax for the year
+> 1985; and,
+> 5. To pay the Bureau of Internal Revenu the taxes due, including such
+> other penalties, interests, and surcharges.
+> SO ORDERED.7
+> Marcos, Jr. appealed the judgment t the Court of Appeals (CA). His
+> appeal was docketed as CA-G.R. CR No. 8569. In a decision promulgated
+> on October 31, 1997,8 the CA reversed the TC, and ruled that the BIR failed
+> to give prior notice to Marcos, Jr. in acco dance with the provisions of the
+> NIRC; thus, he cannot be held criminally li ble for failing to pay income tax.
+> 2 Marcos v. Manglapus, 258 Phil. 479,491 (1989), and arcos v. Manglapus (Resolution), 258-A Phil.
+> 547 (1989).
+> Marcos v. Manglapus (Resolution), supra at 551.
+> 4 Ponencia, p. 6.
+> 5 Id.
+> 6 Id.
+> Id. at 7.
+> Hereinafter referred to as the 1997 CA Decision.
+>
+> Concurring Opinion 3 G.R. Nos. 260374 & 260426
+> However, the CA sustained the RTC r ling with respect to failure to file
+> income tax returns; and ordered Marco , Jr. to pay the deficiency income
+> taxes since his acquittal did not extinguis his tax liability.9 The CA disposed
+> of the case thus:
+> WHEREFORE, the Decision oft e trial cowt is hereby MODIFIED
+> as follows:
+> 1. ACQUITTING the accused-ap ellant of the charges for violation
+> of Section 50 of the NIRC for non-pa ment of deficiency taxes for the
+> taxable years 1982 to 1985 in Crimin 1 Cases Nos. Q-02-29216, Q-92-
+> 29215, Q-92-29214, and Q-91-24390; d FINDING him guilty beyond
+> reasonable doubt of violation of Section 45 of the NIRC for failw-e to file
+> income tax returns for the taxable year 1982 to 1985 in Criminal Cases
+> Nos. Q-91-24391, Q-92-29212, Q-92-29 13, and Q-92-29217;
+> 2. Ordering the appellant to pay o the BIR the deficiency income
+> taxes with interest at the legal rate until lly paid;
+> 3. Ordering the appellant to pay fine of P2,000.00 for each charge
+> in Criminal Cases Nos. Q-92-29213, Q- 2-29212 and Q-29217 for failure
+> to file income tax returns for the years 19 2, 1983, and 1984; and the fine of
+> P30,000.00 in Criminal Case No. Q-91-2 391 for failure to file income tax
+> return for 1985, with surcharges.
+> so ORDERED.10
+> Marcos, Jr. moved for an extension of time to file a petition for review
+> before this Court; but later sought to ithdrew said motion. The Court
+> allowed the withdrawal, paving the way £ r the 1997 CA Decision to become
+> final and executory on August 31, 2001, pon the Court's entry of judgment
+> thereon.11
+> In the present petition for cancell tion or denial of due course to a
+> certificate of candidacy filed on Nov mber 2, 2021, and petition fot
+> disqualification filed on November 20, 20 1, both filed with the Commission
+> on Elections (CO:MELEC), herein petiti ners cite the final and executory
+> 1997 CA Decision as basis for assertin that Marcos, Jr.: 1) committed a
+> crime involving moral turpitude, and is t erefore disqualified from being a
+> candidate for, or holding, any public of ce, pursuant to Section 12 of the
+> Omnibus Election Code (OEC); a d 2) committed a material
+> misrepresentation in his certificate of can idacy (COC) for President of the
+> Republic of the Philippines when he stated therein that "he has not been found
+> liable for an offense which carries with it the accessory penalty of perpetual
+> disqualification to hold public office, whic has become final and executory,"
+> when he has been meted the penalty of pe etual disqualification from public
+> 9 Ponencia, p. 7-8.
+> 10 Id. at 8.
+> II Id.
+>
+> Concurring Opinion 4 G.R. Nos. 260374 & 260426
+> office, thereby nullifying said COC purs ant to Section 78 of the OEC. The
+> present petitions thus, turn on a very n ·owly-defined question: Does the
+> 1997 CA Decision disqualify Ferdinand . Marcos, Jr. from running for or
+> holding public office?
+> 11. The concept ofm oral turpitude
+> The two words in the term "mar 1 turpitude" also embody the two
+> components of the concept. The concept nd definition of what is "moral" is
+> in itself a stupendously deep and diverse 1eld of study.12 Lexicographers, for
+> their part, state that the word came to En lish ultimately from the Latin mos;
+> or custom, which in turn became mora ·s, and later moral.13 Moral, as an
+> adjective has been defined as "of or relati g to principles or considerations of
+> right and wrong action or good and bad c aracter"; "expressing or teaching a
+> conception of right behavior"; and "co forming to or proceeding from a
+> standard of what is good or right."14
+> The term turpitude also comes fro Latin as turpitudo, from the root
+> turpis, which means vile, foul, or base; th s, turpitude is defined as "inherent
+> baseness of vileness of principle, words, o actions."15 Taking these two terms
+> together, moral turpitude has been defined as "an act or behavior that gravely
+> violates the moral sentiment or ac epted moral standards of the
+> community"; 16 as "conduct that is contra to justice, honesty, or morality"17
+> and as "the morally culpable quality he d to be present in some criminal
+> offenses as distinguished from others."18
+> The use of moral turpitude as a le al standard has been held up as a
+> textbook example of the classically pr blematized relationship between
+> morals and law:
+> Whether one adheres to the view that the reservation of morality is not the
+> law's concern, or to [the view] that what is immoral is illegal and should,
+> therefore, be punished, the problem, first of all, lies in a determination of
+> what is immoral.
+> Society is morally a plmal society co a number of different
+> mutually tolerant moralities. Bentham elieved that "the good of the
+> community cannot require that any act sho d be made an offense, which is
+> not liable, in some way or the other, to b detrimental to the community."
+> 12 See, e.g., the Introduction in Teresita J. Herbosa a d Corazon P. Paredes, Comments on Crime
+> Involving Moral Turpitude, 51 PHIL. L. J. 124, 124-1 6 (I 976); Bernard Gert and Joshua Gert, "The
+> Definition of Morality," The Stanford Encyclopedia if Philosophy (Fall 2020 Edition), Edward N.
+> Zalta (ed.), accessed at https://plato.stanford.edu/archiv s/fall2020/entries/morality-definition/.
+> 13 WEBSTER'S THIRD NEW [NTERNATIONAL DICTIONARY FTHE ENGLISH LANGUAGE, UNABRIDGED 1468
+> (1993).
+> 14 Id.
+> 15 Id. at 2469.
+> 16 Id. at 1469.
+> 17 BLACK'S LAW DICTIONARY (9nl ED.) 1101 (2009).
+> 18 WEBSTER'S THIRD NEW INTERNATIONAL DICTIONARY, upra note 13, at 1469.
+> j
+>
+> Concurring Opinion 5 G.R. Nos. 260374 & 260426
+> Stephen, on the other hand, stressed th criminal law should not be used
+> unless it was supported by an "overwhe ·ng moral majority". Lord Devlin
+> in speaking of how the collective judgn ent of society is to be ascertained
+> stated:
+> It is that of the reasonable man. He is not to be confused
+> with the rational man He is not expected to reason about
+> everything and his judgment m y be largely a matter of
+> feeling.
+> Immorality then, in its simplest sense a d for the purpose of law, is that
+> species of conduct which is likely to harm specific individuals (Lord
+> Devlin's "reasonable man") or an in efinite number of unidentifiable
+> individuals which is capable of sufficie tly precise definition (Bentham's
+> "community" or Stephen's "overwhelmin moral majority"). Thus, criminal
+> law becomes a mere fonnal embod· ent of the moral values of the
+> dominant group in society. But, then, thi dominant group is not precluded
+> from prohibiting or pwlishing any act w ·c h they would like to prohibit or
+> pwtish regardless of the morality or i orality of said act. Ih the end,
+> therefore, the mere fact that a given act i made punishable by law does not
+> settle the question of immorality of th prohibited conduct, it does not
+> preclude the people from passing moral judgments on the rightfulness or
+> wrongfulness of the behavior.
+> At this point, it is submitted that the term "crime involving moral turpitude"
+> aptly demonstrates what has so far beens id. Why so? The word "crime" by
+> itself refers to an act or omission prohi ited by public law. When such is
+> qualified by the words "moral turpitu e", it can only mean an act or
+> omission which is against both law a morals. This is, of course, an
+> oversimplification of what the term mean .19
+> In a concurring opinion, Justice uro D. Brion, citing American legal
+> studies and jurisprudence, proffered the following criticisms of the use of
+> moral turpitude as a legal standard:
+> First, the current definition of the term is broad. It can be stretched
+> to include most kinds of wrongs in soci y - a result that the Legislature
+> could not have intended. This Court itsel concluded in IRRI v. NLRC that
+> moral tw-pitude "is somewhat a vague d indefinite term, the meaning of
+> which must be left to the process of jud cial inclusion or exclusion as the
+> cases are reached" - once again confi ing, as late as 1993 in IRRI, our
+> case-by-case approach in determining the rimes involving moral turpitude.
+> Second, the definition also assun es the existence of a universally
+> recognized code for socially acceptable b havior - the "private and social
+> duties which man owes to his fellow m , or to society in general"; moral
+> tw-pitude is an act violating these duties. he problem is that the definition
+> does not state what these duties are, or provide examples of acts which
+> violate them. Instead, it provides tenns s ch as "baseness," "vileness," and
+> "depravity," which better describe mora reactions to an act than the act
+> itself. In essence, they are "conclusory bu non-descriptive." To be sure, the
+> use of morality as a norm cannot be avoi ed, as the te1m "moral turpitude"
+> 19 Herbosa & Paredes, supra note 12 at 125-126. Citatio s omitted.
+>
+> Concurring Opinion 6 G.R. Nos. 260374 & 260426
+> contains the word "moral" and its direc connotation of right and wrong.
+> "Turpitude," on the other hand, directly eans "depravity" which cannot be
+> appreciated without considering an act' degree of being right or wrong.
+> Thus, the law, in adopting the term "mor 1 turpitude," necessarily adopted a
+> concept involving notions of morality standards that involve a good
+> measure of subjective consideration and, n terms of ce1tainty and fixity, are
+> far from the usual measures used in law.
+> Third, as a legal standard, moral urpitude fails to inform anyone of
+> what it requires. It has been said that the loose terminology of moral
+> turpitude hampers uniformity since . . . i]t is hardly to be expected that a
+> word which baffle judges will be more asily interpreted by laymen. This
+> led Justice Jackson to conclude in Jor an that "moral turpitude offered
+> judges no clearer guideline than their o n consciences, inviting them to
+> condemn all that we personally disapprov and for no better reason than that
+> we disapprove it." This trait, however, c ot be taken lightly, given that
+> the consequences of committing a crime involving moral turpitude can be
+> severe.20
+> II.A. Moral turpitude zn American
+> jurisprudence
+> Moral turpitude as a legal concept as been utilized primarily in terms
+> of its definition of being a quality inherent in certain acts, crimes, or classes of
+> persons. The application of moral turpitu e to law is a singularly American
+> invention,21 which is based on a set of "c re honor norms" prevalent among
+> the political and intellectual classes of the nited States (US) during the early
+> years of its independence.22 These "core h nor norms" emphasized the values
+> of integrity, honesty, and fealty to one's word for men, and the values of
+> chastity and sexual purity for women.23 C nversely, deception (especially in
+> financial matters), disloyalty (e.g., oat breaking), "failure to contribute
+> productively to society," and sexual misco duct were considered hallmarks of
+> moral turpitude.24 As a legal standard, mo al turpitude was first applied in the
+> state of New York to determine whether a utterance is slanderous per se.25 In
+> 1809, the New York Supreme Court deci ed the case of Brooker v. Coffin26
+> (Brooker), which involved an action for sl nder filed by a woman accused of
+> being a prostitute. The court ruled that be g accused as such would amount
+> to an imputation of moral turpitude, and th refore slanderous: ·
+> It has been supposed that, therefore, to charge a woman with being a
+> common prostitute, was charging her with uch an offence as would give an
+> 20 Brion, J., concurring in Teves v. COMELEC, infra note 111, at 738-740. Citations omitted.
+> 21 See Julia Ann Simon-Kerr, Moral Turpitude, 2012 TAI-IL. REV. 1001, 1008-1016 (2012); Crimes
+> Involving Moral Turpitude, 43 HARV ARD L. REV. (No. l) 118 ( 1929); Brion, J., concurring in Teves v.
+> COMELEC, infra note 111 at 734, citing Brian C. Har s, Redefining "Crimes of Moral Turpitude": A
+> Proposal to Congress, 15 GEO. IMMIGR. L.J. 259, 261 00 I).
+> 22 Simon-Kerr, supra.
+> 23 Simon-Kerr, id. at 1011-1014.
+> 24 Simon-Kerr, id.
+> 25 Simon-Kerr, id. at IO I 0.
+> 26 5 Johns. 188 (N.Y. Sup. Ct. 1809). Accessed on June 2 , 2022 at https://cite.case.law/johns/5/188/.
+>
+> Concurring Opinion 7 G.R. Nos. 260374 & 260426
+> action for the slander. The same statut which authorises the infliction of
+> imprisonment on common prostitutes, s disorderly persons, inflicts the
+> same punishment for a great variety f acts, the commission of which
+> renders persons liable to be considered ·sorderly; and to sustain this action
+> would be going the whole length of sayi g, that every one charged with any
+> of the acts prohibited by that statute, wo Id be entitled to maintain an action
+> for defamation. Among others, to charg a person with pretending to have
+> skill in physiognomy, palmistry, or prete ding to tell fortunes, would, if this
+> action is sustained, be actionable. Upo the fullest consideration, we are
+> inclined to adopt this as the safest rul , and one which, as we think, is
+> warranted by the cases: In case the cha e if true will sub· ect the ar
+> char ed to an indictment for a crim involvin moral tur itude or
+> sub·ect him to an infamous unish ent then the words will be in
+> themselves actionable x x x.27 (Emphasi and underscoring supplied)
+> Brooker has been credited for ntroducing the concept of moral
+> turpitude into law, as a standard for de rmining the actionably slanderous
+> nature of utterances, as laid down in t e last sentence of the aforequoted
+> paragraph.28 It has been noted, however, hat even as Brooker lays down the
+> imputation of an act involving moral tu itude as the standard for slander, it
+> does not even define the term moral turpi ude. This is because the term had a
+> latent social meaning as reflected in the en-prevailing core honor no1ms of
+> early American society.29 Thus, it has be n noted that 19th-century American
+> courts have often ruled imputations o dishonesty and unchastity to be
+> slanderous per se; 30 but excluded viole crimes from the ambit of moral
+> turpitude, on the ground that the preva· ling cultural nonns often excused
+> violence when grounded upon certain ex enuating circumstances relating to
+> the violation of a person's honor (e.g., killing committed in the heat of
+> passion).31 Eventually, the moral turpitud standard came to be used as basis
+> for excluding or disqualifying a person fi om acquiring or exercising certain
+> rights. Thus, it has been used in the impe chment of witnesses;32 disbarment
+> cases; 33 and, with the inclusion of the tandard in the provisions of the
+> Immigration Act of 1891, to the exclusion· nd deportation of aliens.34
+> Problems with moral turpitude as a legal standard began to emerge as
+> states tried to apply the original "core ho or norms" which gave rise to the
+> standard as a means to disenfranchise B ack voters. 35 Likewise, difficulties
+> emerged in the application of the mor turpitude standard to "marginal
+> 27 Id. at 191.
+> 28 Simon-Kerr, supra note 21, at IO 16; Rob Doersam, Punishing Harmless Conduct: Toward a New
+> Definition of "Moral Turpitude" in Immigration Law, 9 OHIO ST. L. J. (No. 3) 547, 564-565(2018).
+> 29 Simon-Kerr, id. at 1017.
+> 30 Simon-Kerr, id. at 1017-1019, citing I FRANCIS HILL ARD, THE LAW OF TORTS OR PRIVATE WRONGS
+> 277 (2d ed. 1861 ).
+> 31 Simon-Ken·, id. at 1018. Doersam, supra note 28, at 56 -567.
+> 32 Simon-Kerr, id. at 1025-1039; Herbosa & Paredes, sup a note 12, at 127.
+> 33 John S. Bradway, Moral Turpitude as the Criterion Offenses That Justify Disbarment, 24 CAL. L.
+> REV. (No. I) 9 (1935).
+> 34 Simon-Kerr, supra note 21, at 1039-1068.
+> 35 Simon-Kerr, id. at I 040-1044.
+>
+> Concurring Opinion 8 G.R. Nos. 260374&260426
+> cases"36 which cannot be easily categori ed as falling under the "core honor
+> norms," pai1icularly, in immigration cases involving exclusion and
+> deportation of non-citizens37 due to varie offenses such as defamation of the
+> English monarch through accusation o bigamy, 38 assault upon a police
+> officer,39 possession of stolen bus transfe s,40 failure to pay liquor sales tax,41
+> violation of the prohibition on the man facture, sale, and transportation of
+> intoxicatfog liquors, 42 and cockfightin . 43 In response, courts began to
+> correlate the moral turpitude standard· w th existing common-law concepts44
+> such as mala in se45 and scienter.46 To etermine whether a crime involved
+> moral turpitude, courts began looking a whether the elements of the crime
+> involved evil or fraudulent intent, 47 o whether the crime was deemed
+> inherently immoral at common law. 48 o this day, American courts and
+> agencies continue to use both approaches rather inconsistently, leading a legal
+> scholar to conclude that:
+> Despite its failings, the allure f moral turpitude is undeniable.
+> Historically, it offered the promise of at easy proxy for reputational harm,
+> and then more simply, for a bad repu ation with attendant assumptions
+> about character. Still later, the country found itself in need of a way to
+> identify persons who should be pro "bited from entry. In 1985, the
+> California Supreme Court proved that m ral turpitude is not a relic when it
+> elected to retain the standard, despite it flaws, as a test for impeachment
+> evidence. It may be that the persistence f the standard- beyond a story of
+> congressional disinterest and judicial avoidance-reflects a continuing
+> longing for legal standards that invok our common conscience. Codes
+> cannot fill all of the gaps, nor do we w 1t them to. At the saine time, this
+> Article suggests that we must be wary f the path we take to accomplish
+> that goal.
+> Viewed in the context of its 1 ger history, the moral turpitude
+> standard provides a powerful counterpoi t to the claim, made frequently in
+> recent years, that judges are eager to ·u dge based on their own moral
+> 36 Simon-Kerr, id. at 1039.
+> 37 Simon-Kerr, id. at 1044, 1055-1067.
+> 38 UnitedStatesexrel.Myliusv. Uhl,203F.152, 153( .D.N.Y. 1913);210F.860(19I4).
+> 39 Ciambelli ex rel. Maranci v. Johnson, 12 F.2d 465, 66 (D. Mass. 1926), which states in part: "If one
+> ordinarily law-abiding, in the heat of anger, strikes another, that act would not reveal such inherent
+> baseness or depravity as to suggest the idea of mora turpitude. lf, on the other hand, one deliberately
+> assaulted an officer of the law with a dangerous we pon and with felonious intent, or for the purpose
+> of interfering with the officer in the performance of his duty, the attendant circumstances showing an
+> inclination toward lawlessness, the act might well e considered as one involving moral turpitude."
+> https:// law. j ustia.com/cases/federal/district-courts/F2 12/465/ 1490244/.
+> 40 Michel v. INS, 206 F.3d 253, 263 (2000).
+> 41 Jordan v. De George, 341 U.S. 223 ( 1951 ).
+> 42 United States ex rel. Iorio v. Day, 34 F.2d 920 (1929 .
+> 43 Ortega-Lopez v. Lynch, 834 F .3d 1015 (2016). ·
+> 44 Simon-Kerr, supra note 21, at 1023-1024; Herbosa & Paredes, supra note 12, at 127.
+> 45 Mala in se is used here in its common law denotat on, as acts criminalized by the common law, as
+> opposed to ma/a prohibita, or acts criminalized by st tute. Simon-Kerr, fn. at I 61, id. at I 023.
+> 46 A degree of knowledge that makes a person legally esponsible for the consequences of his or her act
+> or omission; the fact of an act's having been done nowingly, esp. as a ground for civil damages or
+> criminal punishment. BLACK'S LAW DICTIONARY (911 ed.) 1463 (2009).
+> 47 Simon-Kerr, supra note 21, at I 059-J 068.
+> 48 Simon-Ke1T, id. at 1023.
+> j
+>
+> Concurring Opinion 9 G.R. Nos. 260374 & 260426
+> intuitions rather than the law. Paradoxi ally, the very standard that would
+> provide most leeway for judges to be ctivist in the service of their own
+> values has instead produced judgmen s so rigid in their adherence to
+> precedent that nineteenth-century honor orms are still the best predictor of
+> their outcomes. Courts seem more likel to reason about community moral
+> beliefs or absolute right and wrong if t ey are adjudicating disputes over
+> speeding tickets than if they are deter ining whether a particular crime
+> involved moral turpitude.49
+> JIB. Moral turpitude in Philippine
+> jurisprudence
+> The American conception of mor turpitude was also introduced into
+> Philippine law. The 1938 case of Peop e v. Raagas50 applied the Brooker
+> standard in an action for oral defamatio . The accused claimed that he was
+> fired from his job because he refused t contribute to the offended paiiy's
+> collection of one peso from their co-wo ers to defray the cost of hiring an
+> orchestra to welcome the offended pa 's daughter, who had just returned
+> from a beauty pageant. The offended part took offense at the claim and filed
+> a criminal action. In sustaining the trial c urt's grant of accused's demurrer to
+> evidence, we found that the collection s voluntary, and was therefore not
+> "reproachable nor an act invoking vice, d feet or moral turpitude, and cannot
+> therefore be harmful to the honor and rep tation of anybody."51
+> The moral tw-pitude standard also ound its way into our statutes, such
+> as Section·21 of the Code of Civil Proced re,52 which provided:
+> SECTION 21. Disbarments. - A mem er of the bar may be removed or
+> suspended from his office as lawyer by he Supreme Court for any deceit,
+> malpractice or other gross misconduct · such office, or by reason of his
+> conviction of a crime involving moral rpitude or for any violation of
+> either of the oaths aforesaid, or for the illful disobedience of any lawful
+> order of the Supreme Court or Courts o First Instance, or for corruptly or
+> willfully appearing as a lawyer for a arty to an action or proceeding
+> without authority so to do.
+> Thus, the earliest Philippine rulings on m ral turpitude arose from disbarment
+> cases. 53 Unlike American courts, t e Philippine Supreme Court's
+> determination of moral turpitude therein as applied the same norms to both
+> men and women. The Court has prono ced crimes of sexual misconduct
+> such as Abduction with Consent,54 Cone binage,55 and Bigamy56 to involve
+> 49 Simon-Kerr, id. at 1068.
+> 50 65 Phil. 630 (1938).
+> 51 Id. at 632.
+> 52 Act No. 190; effective on September 190 I.
+> 53 See footnotes 54 to 56, infra.
+> 54 In re Basa, 41 Phil. 275 (1920).
+> 55 Jn relsada,60Phil.915(1934).
+> 56 In re Lontok, 43 Phi I. 293 ( 1922).
+>
+> Concurring Opinion 10 G.R. Nos. 260374 & 260426
+> moral turpitude, regardless of the offend r's sexual orientation,57 holding that
+> "it cannot admit of doubt that crime of this character involve moral
+> turpitude. The inherent nature oft he act such that it is against good morals
+> and the accepted rule of right conduc ." 58 Likewise, early decisions also
+> adhere to the American principle that cr·mes which violate the "core honor
+> nonns" involve moral turpitude. In Peo le v. Carillo, 59 the Court refused to
+> give credence to the testimony of a wi ness60 partly because he had been
+> previously convicted of robbery, which t e Court held to be a crime involving
+> moral turpitude. We also refused to gra t Philippine citizenship to an alien
+> who had been convicted of perjury, hich we held to involve moral
+> turpitude.61
+> Still consistent with the original s ope of the "core honor norms," the
+> Supreme Court has recommended the i position of a lesser penalty for two
+> men who have been convicted of p?,rri ide, on the ground that the men,
+> although guilty of parricide, have not xhibited "such moral turpitude as
+> requires life imprisonment."62 However, later case held that murder involves
+> moral turpitude.63
+> JIB. I. Category-based approach
+> Later cases have employed a cate ory-based approach to determining
+> moral turpitude, which involve the c tegorization of certain crimes as
+> involving moral turpitude, 64 based on revailing moral standards usually
+> 57 In fact, most of the decisions involving crimes of se ual misconduct as moral turpitude involve male
+> lawyers sought to be disbarred for said offenses. See ases in footnotes 53 to 55, supra and footnote 63,
+> infra.
+> 58 In re Basa, supra note 54 at 276. Citations omitted.
+> 59 85 Phil. 6 I I (1950).
+> 60 However, in Cordial v. People, 248 Phil. 247, 255-2 6 (1988), the Court expressed its reservations on
+> the use of moral turpitude as a standard for impeach ng witnesses: "Moral turpitude or depravity as a
+> reason for exclusion of a witness is legally frowned upon mainly for the reason that any attempt to
+> establish such an incapacity is met by two objection . One is that in rational experience, no class of
+> persons can safely be asserted to be so thoroughly acking in a sense of moral responsibility or so
+> callous to the ordinary motives or veracity as not to tell the truth (as they see it) in a large or larger
+> proportion of instances. The second objection is that, even if such a defect existed and were
+> ascertainable, its operation is so uncertain and elusiv that any general rule of exclusion would be as
+> likely in a given instance to exclude the truth as to ex lude falsities." Citation omitted.
+> 61 In Re: Guy v. Guy, 200 Phil. 636, 648 (1982).
+> 62 People v. Castaneda, 60 Phil. 604, 609 ( 1934); Peopl v. Formigones, 87 Phil. 658, 665 ( 1950).
+> 63 In re Gutierrez, 115 Phil. 647, 648-649 (1962).
+> 64 The following crimes/offenses have been held to inv Ive moral turpitude: Intriguing against honor in
+> Betguen v. Masangcay, 308 Phil. 500 (1994); Rape d Concubinage in Mondano v. Silvosa, 97 Phil.
+> 143 (1955); Estafa in Medina v. Bautista, 120 Phil. 7 7 (1964), in re Jaramillo, IOI Phil. 323 (1957),
+> In re Vinzon, 126 Phil. 96 (1967), and Moreno v. Ara eta, 496 Phil. 788 (2005); Falsification of Public
+> Documents in In re Avancena, 127 Phil. 426 ( 1967), In re Pajo, 203 Phil. 79 ( 1983), In re Pactolin,
+> 686 Phil. 351 (2012), and Pagaduan v. Civil Service ommission, 747 Phil. 590 (2014), because it is a
+> "violation of the public faith and the destruction of ruth as therein solemnly proclaimed"; use of an
+> unsealed meter stick in Ao Lin v. Republic, 119 Ph l. 284 ( 1964), because use of measuring sticks
+> without government seals constitutes fraud; Concubi 1age in Laguitan v. Tinio, 259 Phil. 322 ( 1989);
+> Bigamy in Villas anta v. Peralta, lO I Phil. 313 (1957) Smuggling in /11 re Rovero, 92 Phil. 128 ( 1952);
+> Bribery and Direct bribery under Art. 210 of the Rev sed Penal Code, in Re: Joselito C. Barrozo, 764
+> Phil. 310 (2015), Magno v. COMELEC, 439 Phil. 3 9 (2002), and In re De los Angeles, 106 Phil. I
+> (1959); Swindling in Bron v. Delis, 178 Phil. 347 (1 79); Attempted Rape in People v. Torrefranca,
+>
+> Concurring Opinion 11 G.R. Nos. 260374 & 260426
+> traceable to the core honor nonns, prim rily honesty, integrity, truthfulness,
+> and sexual virtue. In De Jesus-Paras v. iloces,65 we disbarred a lawyer who
+> was convicted of falsification of publi documents for forging a will. We
+> explained that "embezzlement, forgery, bbery, [and] swindling are crimes,
+> which denote moral turpitude and, as general rule, all crimes of which
+> fraud is an element are looked on as inv lving moral turpitude."66 The Court
+> has gone so far as to generally state that "[d]eceitful conduct involves moral
+> · turpitude and includes anything done c ntrary to justice, modesty or good
+> morals."67
+> With respect to violent crimes, ear decisions adopt the American rule,
+> but later ones generally hold that violent crimes involve moral turpitude.68 In
+> an early obiter dictum which sought to reconcile two provisions of the old.
+> Election Code on the enumeration of pe ons not qualified to vote, the Court
+> held:
+> But, it would be asked, why hould paragraph (b) discriminate
+> against crimes against property? And w y should it confine itself to crimes
+> pw1ishable with less than one year impri nment?
+> The answer is that major crime always involve a high degree of
+> moral turpitude. When it comes to lesser rimes, or rather crimes punishable
+> with lighter penalty, the concept is reve sed. Petty thefts and petty deceits
+> and embezzlement always involve disho esty. and a.re reprehensible, while
+> assaults and battery, calumnies, violat ons of mwucipal ordinance and
+> traffic regulations, are, more likely than ot, the products of violent passion
+> or emotion, negligence or ignorance of la .6 9
+> The Court therein does not explain wh t it meant by "major" or "lesser"
+> crimes, but it seems to suggest a correlati n between harshness of penalty and
+> moral turpitude. The Court was more cate orical in People v. Jamero,70 where
+> 235 Phil. 143 (1987); Forgery in Campi/an v. C npilan, Jr., 431 Phil. 223 (2002); and Sale of
+> Dangerous Drugs in Office oft he Court Administrato -v. Librada, 329 Phil. 432 (1996); The following
+> offenses have been held to not involve moral turpit de: slight physical injuries in Ochate v. Deling,
+> I 05 Phil. 384 (1959); and Intoxication as an admi 1istrative offense under the rules of the former
+> Integrated National Police in Jaculina v. Natiohal Po ice Commission, 277 Phil. 559 ( 1991 ).
+> 65 111 Phil. 569 (1961).
+> 66 Id. at 571.
+> 61 Yamon-Leach v. Astorga, A.C. No. 5987, August 2 , 2019; Suarez v. Maravilla-Ona, 796 Phil. 27
+> (2016); San Juan v. Venida, A.C. No. 11317, Augu t 23, 2016. In accordance with this general rule,
+> violation of Batas Pambansa Big. 22 has been hel to involve moral turpitude. People v. Tuanda
+> (Resolution), 260 Phil. 572 (1990); Barrios v. Martin z, 485 Phil. I (2004); Vitor v. Zafra, 749 Phil. 74
+> (2014); Re: Imelda B. Fortus, 500 Phil. 23 (2005); :llaber v. COMELEC, 420 Phil. 930 (200 I). This
+> general rule is congruent with the principle laid do n in the landmark case of Jordan v. DeGeorge,
+> supra note 41, at 227-229, that "a crime in which frau is an ingredient involves moral turpitude. xx x.
+> [F]raud has ordinarily been the test to determine wh ther crimes not of the gravest character involve
+> moral turpitude. In every deportation case where fra d has been proved, federal courts have held that
+> the crime in issue involved moral turpitude. x x x [ Jraud has consistently been regarded as such a
+> contaminating component in any crime that Americ n courts have, without exception, i.ncluded such
+> crimes within the scope of moral turpitude."
+> 68 See supra notes 62 and 63.
+> 69 Pendon v. Diasnes, 91 Phil. 848, 853 (1952), involvi g quo warranto against a municipal mayor wh9
+> had been previously convicted ofEstafa.
+> 70 133 Phil. 127 (1968).
+> J
+>
+> Concurring Opinion 12 G.R. Nos. 260374 & 260426
+> appellants questioned the trial court's di charge of one of their co-accused as
+> a state witness on the ground of a previo s conviction for malicious mischief.
+> In sustaining the trial court, we held:
+> Moral turpitude has been described as an act of baseness, vileness and
+> depravity in the private and social duty hich a man owes to his fellowmen
+> a
+> or to society in general, done out of s irit of crnelty, hostility or revenge,
+> but there is also authority to the effect t at an act is not so done when it is
+> prompted by the sudden resentment o an injury calculated in no slight
+> degree to awaken passion. In the li t of these authorities, We have
+> . searched the record of the case in an e ort to ascertain the gravity of the
+> nature of the crime of malicious mischie allegedly committed by Retirado,
+> but We found the evidence wanting in his respect. What appears to have
+> been established by the defense were th facts that Cresencio Retirado was
+> convicted of the crime of malicious mi chief by the Justice of the Peace
+> Court of Sagay, Negros Occidental, an that the said accused was therein
+> sentenced to five (5) days imprisonmen. In the absence, therefore, of any
+> evidence to show the gravity and the nature of the malicious mischief
+> committed, We are constrained to decl e that We are not in a position to
+> say whether or not the previous convicti n referred to, assuming Cresencio
+> Retirado and Inocencio Retirado are on and the same person, proves that
+> Retirado had displayed the baseness, th vileness and the depravity which
+> constitute moral turpitude. And consid ring that under paragraph 3 of
+> Article 329 of the Revised Penal Code, y deliberate act (not constituting
+> arson or other crimes involving destructi n) causing damage to the property
+> of another, may constitute the crime.of alicious mischief, We should not
+> make haste in declaring that such crime involves moral turpitude without
+> determining, at least, the value of th property destroyed and/or the
+> circwnstances w1der which the act of des roying was committed. Moreover,
+> it appears that after the lower court issued the order of discharge
+> complained of, the defense ventilated efore this Court the issue as to
+> whether or not the crime of malicious mi chief involves moral turpitude by
+> questioning the legality of the said ord r in a petition for certiorari and
+> prohibition. The fact that this Court did n t give due course to their petition
+> (Jamero, et al. vs. Judge Enriquez, et al., L-15552) should have been
+> sufficient warning that the theory advance by them is not meritorious.71
+> Years later, Can v. Galing72 deviated fro n the American rule and held that
+> attempts on another person's life involve oral turpitude:
+> In In re Gutierrez, the crime of murder was considered a crime
+> involving moral turpitude. Certainly, a empted murder, for which the
+> accused Daria was found guilty, belong to the same classification. The
+> premeditated attempt to take a human l' e is decidedly a base, vile, and
+> depraved act contrary to moral standards fright and wrong. Coupled with
+> the other crimes for which the accused D ia had been previously convicted,
+> the latter's disqualification to be discharg d from the infonnation to become
+> a state witness should have been obvious. 7
+> 71 Id. at 169-170. Citations omitted.
+> 72 239 Phil. 629 (1987).
+> 73 Id. at 634. Citation omitted.
+>
+> Concurring Opinion• 13 G.R. Nos. 260374 & 260426
+> A line of cases stemming from the ate 1980s denies separation pay as a
+> social justice measure to workers who ere validly dismissed for "offenses
+> involving moral turpitude." In Philippi e Long Distance Telephone Co. v.
+> National Labor Relations Commissi n, 74 Philippine Long Distance
+> Telephone, Co. questioned the award of eparation pay as financial assistance
+> to an employee it had validly dismissed £ r demanding bribes from customers
+> to facilitate telephone installation. The ajority agreed, and essentially held
+> 1
+> that it would be unjust to award sepa tion pay to employees who have
+> violated the "core honor norms":
+> But where the cause of the sep ration is more serious than mere
+> inefficiency, the generosity of the law m st be more discerning. There is no
+> doubt it is compassionate to give sep ation pay to a salesman if he is
+> dismissed for his inability to fill his qu ta but surely he does not deserve
+> such generosity if his offense is misappro riation of the receipts of his sales.
+> This is no longer mere incompetence but clear dishonesty. A security guard
+> found sleeping on the job is doubtless subject to dismissal but may be
+> allowed separation pay since his conduct while inept, is not depraved. But
+> if he was in fact not really sleeping but s eping with a prostitute during his
+> tom of duty and in the company· pr mises, the situation is changed
+> completely. This is not only inefficienc but immorality and the grant of
+> separation pay would be entirely unjustifi d.
+> We hold that henceforth sepru· tion pay shall be allowed as a
+> measure of social justice only in those instances where the employee is
+> validly dismissed for causes other th serious misconduct or those
+> reflecting on his moral character. W ere the reason for the valid
+> dismissal is for exam le habitual into ication or an offense involvin
+> moral tur itude like theft or illicit sexual relations with a fellow
+> not be e uired to ive the dismissed
+> name it is called on the round of social ·ustice. 75 (Emphasis and
+> underscoring supplied)
+> Subsequent cases have invoked t is moral turpitude rule to deny
+> separation pay to employees dismissed for the following causes: dishonesty; 76
+> embezzlement and serious misconduct; 7 theft or pilfering of company
+> property; 78 tampering of documents to cov r up unliquidated cash advances; 79
+> 74 247 Phil. 641 (1988).
+> 75 ld. at 649.
+> 16 Philippine National Construction Corp. v. National L bor Relations Commission, 252 Phil. 211,214
+> ( 1989).
+> 11 Osias Academy v. Department ofL abor and Employm nt, 254 Phil. 468 ( 1989).
+> 18 Philippine Airlines, Inc. v. National Labor Relations ommission, 347 Phil. 215 (1997); United South
+> Dockhandlers, Inc. v. National Labor Relations C mmission, 335 Phil. 76 (1997); Sampaguita
+> Garments Corp. v. National Labor Relations Commis ion, 303 Phil. 276 (1994); Del Monte Phil., Inc.
+> v. National Labor Relations Commission, 266 Phil. 4 5 ( 1990); Pacana v. National Labor Relations
+> Commission, 254 Phil. 473 (1989).
+> 19 Baguio Counhy Club Corp. v. National labor Relatio s Commission, 288 Phil. 560 ( 1992).
+>
+> Concurring Opinion 14 G.R. Nos. 260374 & 260426
+> misappropriation of company funds;80 nd having an affair with a married
+> colleague.81
+> Interestingly, early decisions hod that libel "does not necessarily
+> involve moral turpitude." 82 As will e demonstrated below, equivocal
+> pronouncements like this created "mar inal cases" 83 that necessitated the
+> development of new approaches to deten ining moral turpitude.
+> IIB.2. Mala in se approach
+> At least one case employs the m la in se-mala prohibita distinction,
+> and limits crimes involving moral turpi de to ma/a in se offenses. In Court
+> Administrator v. San Andres84 (San And es), illegal recruitment was held to
+> not involve moral turpitude:
+> Anent his conviction for illegal recruit ent, We find no cogent reason to
+> modify or disturb the submission f the investigating judge that
+> notwithstanding respondents' conviction it should not be held against him
+> because the crime committed is not on involving moral turpitude. Moral
+> Turpitude "implies something immoral i itself regardless of the fact that it
+> is punishable by law or not. It must not erely be mala prohibita, but the act
+> itself must be inherently immoral. The oing of the act itself, and not its
+> prohibition by statute, fixes the moral itude. Moral turpitude does not,
+> however, include such acts as are not f themselves inunoral but whose
+> illegality lies in the fact of their bein positively prohibited." (Zari vs.
+> Flores, Adm. Matter No. ([2170-MC P-1356, 94 SCRA 323). The
+> undisputed fact that herein respondent as a volunteer employee of the
+> recruitment agency, receiving no compen ation, and had only hoped that he
+> would be deployed for overseas employ ent readily shows that he himself
+> was a victim of the unscrupulous acts of others who had capitalized on his
+> service, not aware that he would be rejudiced at the end. From the
+> documents on file in this administrativ case and considering the report
+> submitted by the Judge tasked to inv~stig te, We are inclined to resolve this
+> case in favor of the respondent. 85
+> However, it may be argued that i egal recruitment, although ma/um
+> prohibitum, essentially involves decei l recruitment practices, 86 and
+> therefore involves fraudulent or deceitful onduct, moreso considering that "a
+> person who commits acts constituting ill al recruitment may be held liable
+> not only for the crin1e of illegal rec1uit ent but also for estafa,"87 which
+> indisputably involves moral turpitude. lso, the resort to a ma/a in se
+> 80 San Miguel Corp. v. National labor Relations Cammi sion, 325 Phil. 940 (1996).
+> 81 Santos, Jr. v. National Labor Relations Commission 350 Phil. 560 ( 1998). The offender was also
+> married.
+> 82 Burguete v. Mayor, 94 Phil. 930, 932 (1954); Lacson Roque, 92 Phil. 456 ( 1953).
+> 83 Simon-Kerr, supra note 36.
+> 84 (Resolution), 274 Phil. 990 (1991).
+> 85 Id. at 997.
+> 86 Republic Act No. 8042, Sec. 6; Toston y Hular v. Peo e, G.R. No. 232049, March 3, 2021.
+> 87 Toston y Hular v. People, supra.
+>
+> Concurring Opinion 15 G.R. Nos. 260374 & 260426
+> approach was not necessary, in view of the finding that the respondent was
+> not guilty of any fraud, but was actually victim of fraud himself.
+> ILB.3. Fact- and element-based
+> approaches
+> As earlier discussed, the origin 1 category-based approach easily
+> becomes unworkable when applied t cases which cannot be easily
+> categorized as falling under the "core ho or norms." Likewise, the aforecited
+> San Andres case highlights the failure ·of the mala in se approach to take into
+> account possible nuances of moral turpi ude in malum prohibitum offenses.
+> Thus, the Supreme Court has adopted ct-based88 approaches to determine
+> moral turpitude, where the facts of the case are applied to a certain legal,
+> moral, or social standard. In other cases, he Court examined the elements of
+> an offense to see if any of them involves violation of the core honor nonns.
+> These approaches were first em loyed in immigration proceedings,
+> where the Court primarily considered the. social effects of the acts claimed to
+> be morally turpitudinous. In Ng Teng Lin . Republic,89 we granted citizenship
+> to the applicant despite his admission th t he had been previously cited for
+> speeding, for which he was sentenced to ay a fine. We held the offense to be
+> a mere minor transgression, which d es not involve moral turpitude,
+> considering the glowing testimonies of he witnesses as to the applicant's
+> character. However, in Tak Ng v. Republi ,90 we denied citizenship to an alien
+> who had been convicted of profiteering be
+> an offense which is severely and heavil penalized with imprisomnent of
+> not more than 10 years, or by a fine of ot more than Pl 0,000.00, or by
+> both, involves moral turpitude, inasmuc as it affects the price of prime
+> commodities and goes to the life of the itizens, especially those who are
+> poor and with hardly the means to sustain emselves.91
+> The Court has also used the fact- ased approach to detennine moral
+> turpitude in disbannent, judicial discipl ne, and bar matters. In Velez v.
+> Locsin,92 a lawyer was accused of using t e name of a religious organization,
+> the Barangay Sang Virgen, to avoid custo s duties and taxes on an imported
+> car. During the proceedings, it was found hat the car was actually consigned
+> to the Barangay Sang Virgen, who then llowed the lawyer to use the car
+> 88 ln the United States, this approach is referred to as a" nodified categorical inquiry," whereby the cou11
+> examines the record of conviction to determine if t e circumstances of the offense involve moral
+> turpitude. Pooja R. Dadhania, The Categorical Appro ch for Crimes Involving Moral Turpitude ;jfier
+> Silva-Trevino, 111 COLUMBIA L. REV. 3 I 3, 329-332 336-340 (2011 ); Patrick J. Campbell, Crimes
+> Involving Moral Turpitude: In Search ofa Mora,l App oach to Immoral Crimes, 88 ST. JOHN'S L. REV.
+> (No. 1) 147, 165, 171-173. (2014); Sara Salem, Shou They Stay or Should They Go: Rethinking the
+> Use of Crimes Involving Moral Turpitude in Immigrat, n Law, 70 FLA. L. REV. 225, 237-238(2018).
+> 89 103 Phil. 484 (1958).
+> 90 I 06 Phil. 727 (1959).
+> 91 Id. at 730-73 I. Citations omitted.
+> 92 (Resolution) 154 Phil. 133 ( I 974).
+>
+> Concurring Opinion 16 G.R. Nos. 260374 & 260426
+> because he was the chief legal counsel of the organization. When the non
+> payment of the duties and taxes on the ca was discovered, the Barangay Sang
+> Virgen and the lawyer's other institution l client paid the same, so that the car
+> may be released from impounding. In abs lving the lawyer, we held:
+> Under these facts one is hard ut to impute moral turpitude on
+> respondent's part. Pmsuant to Republic ct No. 1916, the car was exempt
+> from payment of all taxes and duties. T at it was respondent who has been
+> using the car, is of no moment in the fac of the certification of the religious
+> organization to which it was donated, t at respondent was its Chief Legal
+> Counsel and that it had assigned th car to him for his use in the
+> performance of his duties as such leg I officer. In any event, thru the
+> insistence of the military authorities, d to prevent further 103s and
+> damage to the car by its continued impo ding, the Barangay Sang Virgen
+> and the Roman Catholic Bishop of Ba olod were constrained to pay the
+> taxes due thereon under Presidential De ee No. 52 so that the car could be
+> released.93
+> In Zari v. Flores94 (Zari), a judge sked the Supreme Court to dismiss
+> his clerk of court, in part because the latt r had been convicted of libel, which
+> the judge claims to be morally turpitudin us. We refused to categorically rule
+> on the moral turpitude of libel;95 rather, we used the fact of conviction in
+> conjunction with other evidence,96 to co elude that the clerk was unfit for
+> judicial ·office. Despite Zari 's lack 'of a categorical ruling on the moral
+> turpitude of libel, Ty-Delgado v. R use of Representatives Electoral
+> Tribunal97 (Ty-Delgado), which is a disq alification case against a candidate
+> for the House of Representatives, cites it t that effect. Essentially, the citation
+> was unnecessary in view of the Court's alysis, which used the elements of
+> the crime to determine that libel involves alice or bad faith, and is therefore
+> a violation of a core honor norm. Since th candidate sought to be disqualified
+> I
+> had been found guilty of publishing four rticles which are libelous per se, he
+> was disqualified for conviction of a crime ·n volving moral turpitude.
+> Garcia v. De Vera98 involved a p tition to disqualify a lawyer from
+> being elected governor of the Integrated Bar of the Philippines for Eastern
+> Mindanao, in part because he had been £ und guilty of indirect contempt for
+> publishing statements calculated to influe ce the Supreme Court's ruling in a
+> particular case. We held that the lawyer's ·tatements, while contemptuous, did
+> not involve moral turpitude because
+> 93 Id. at 140.
+> 94 I 83 Phil. 27 ( 1979).
+> 95 We admitted that the fact of the clerk's conviction "alone is not sufficient to warrant disciplinary
+> action," and that "conviction for libel does not autom. tically justify removal of a public officer." Id. at
+> 38.
+> 96 The clerk had written a defamatory letter to anotl er judge, was shown to have exercised undue
+> influence in the judge's disposition of cases, and lie about his criminal record in an affidavit. Id. at
+> 33-34.
+> 97 779 Phil. 268 (20 I 6).
+> 98 463 Phil. 385 (2003).
+>
+> Concurring Opinion 17 G.R. Nos. 260374 & 260426
+> it cannot be said that the act of expressin one's opinion on a public interest
+> issue can be considered as an act of baseness, vileness or depravity.
+> Respondent De Vera did not bring sufferi g nor cause undue injury or harm
+> to the public when he voiced his views o the Plunder Law. Consequently,
+> there is no basis for petitioner to invoke t e administrative case as evidence
+> ofrespondent De Vera's alleged imrnorali y.99
+> Veering away from generalizations about violent crime, the Court has
+> also used .a fact-based approach in d ermining the moral turpitude of
+> homicide and its stages of execution. In /; ternational Rice Research Institute
+> v. National Labor Relations Commissio 100 (IR.RI), the Inte1national Rice
+> Research Institute (IRRI) dismissed a l borer after he was convicted of
+> homicide, for an incident which occurred off-duty. The laborer contested his
+> dismissal all the way to this Court, whe e IRRI argued that "the crime of
+> homicide committed by [the employee] in olves moral turpitude as the killing
+> of a man is conclusively an act against ju tice and is immoral in itself[,] not
+> merely prohibited by law."I0I The Supre1 e Court rejected IRRI's argument,
+> and took the factual background of the aborer' s homicide conviction into
+> account:
+> IRRI failed to comprehend the ignificance of the facts in their
+> totality. The facts on record show that M cosa was then urinating and had
+> his back turned when the victim drove hi fist unto Micosa's face; that the
+> victim then forcibly rubbed Micosa's face ·nto the filthy urinal; that Micosa
+> pleaded to the victim to stop the attack but was ignored and that it was while
+> Micosa was in that position that he drew fan knife from the left pocket of
+> his shirt and desperately swung it at the ictim who released his hold on
+> Micosa only after the latter had stabbed hi1 several times. These facts show
+> that Micosa's intention was not to slay t e victim but only to defend his
+> person. The appreciation in his favor of the mitigating circumstances of
+> self-defense and voluntary surrender, lus the total absence of any
+> aggravating circumstance demonstrate that Micosa's character and
+> intentions were not inherently vile, i1mnor l or unjust.102
+> Crucially, the Court categorically reject d intent-based and mala in se
+> approaches, and held that moral turpitude s ould be defined essentially on the
+> basis of factual circumstances:
+> This is not to say that all convicti ns of the crime of homicide do
+> not involve moral turpitude. Homicide ay or may not involve moral
+> turpitude depending on the degree of the crime. Moral turpitude is not
+> involved in eve criminal act and is n t shown b eve known and
+> intentional violation of statute, but w ether any particular conviction
+> involves moral turpitude may be a questio of fact and frequently depends
+> on all the surrounding circumstances. Whil x x x generally but not always,
+> crimes mala in se involve moral turpitude, while crimes ma/a prohibita do
+> not, it cannot alwa s be ascertained wh ther moral tur itude does or
+> 99 Jd. at 415. Citation omitted.
+> 100 293 Phil. 823 (1993).
+> 101 ld. at. 834.
+> 102 Id.
+>
+> Concurring Opinion 18 G.R. Nos. 260374 & 260426
+> does not exist b a crim as malum in se or as ma/um
+> roltibitum since there are crimes w ich are ma/a in se and et but
+> rarel involve moral tur itude and here are crimes which involve
+> moral tur itude and are ma/a roltib ta onl . It follows therefore, that
+> moral turpitude is somewhat a vague a indefinite term, the meaning of
+> which must be left to the process of jud cial inclusion or exclusion as the
+> cases are reached. 103 (Emphasis and underscoring supplied; citations
+> omitted)
+> Expressly relying on IRR!, Co rt followed the same fact-based
+> approach in Soriano v. Dizon104 (Sorian ), where a lawyer's conviction for
+> frustrated homicide was invoked as gro nds for his disbarment. The Court
+> found that the factual background of e lawyer's crime evinced moral
+> turpitude. Comparing the circumstances o the lawyer's attack with that of the
+> laborer in IRR!, the Com1 concluded that:
+> The present case is totally differe t. As the IBP correctly found, the
+> circumstances clearly evince the moral turpitude of respondent and his
+> unworthiness to practice law.
+> Atty. Dizon was definitely the a gressor, as he pursued and shot
+> complainant when the latter least expecte it. The act of aggression shown
+> by respondent will not be mitigated by th fact that he was hit once and his
+> ann twisted by complainant. Under he circumstances, those were
+> reasonable actions clearly intended to fen off the lawyer's assault.
+> We also consider the trial comt's finding of treachery as a further
+> indication of the skewed morals of respon ent. He shot the victim when the
+> latter was not in a position to defend him elf. In fact, under the impression
+> that the assault was already over, the armed complainant was merely
+> returning the eyeglasses of Atty. Dizon hen the latter unexpectedly shot
+> him. To make matters worse, responden wrapped the handle of his gun
+> with a handkerchief so as not to leave fin rprints. In so doing, he betrayed
+> his sly intention to escape punishment for s crime.
+> The totality of the facts umnistak bly bears the earmarks of moral
+> turpitude. By his conduct, respondent rev aled his extreme arrogance and
+> feeling of self-impo1tance. As it were, he cted like a god on the road, who
+> deserved to be venerated and never to be slighted. Clearly, his inordinate
+> reaction to a simple traffic incident reflec ed poorly on his fitness to be a
+> member of the legal profession. H s overreaction also evinced
+> vindictiveness, which was definitely an ur desirable trait in any individual,
+> more so in a lawyer. In the tenacity with w 'ch he pursued complainant, we
+> see not the persistence of a person who h s been grievously wronged, but
+> the obstinacy of one trying to assert a false sense of superiority and to exact
+> revenge. 105
+> 103 Id. at 834-835.
+> 104 515 Phil. 635 (2006).
+> 105 Id. at 643-644.
+>
+> Concurring Opinion 19 G.R. Nos. 260374 & 260426
+> In Garcia v. Sesbrefio, 106 a convic ion of homicide was again invoked
+> to disbar a lawyer, who replied that So iano should not apply to his case.
+> Again, the Court reviewed the factual ba kground of the homicide and found
+> it morally turpitudinous:
+> The Decision showed that 1e victim Luciano Amparado
+> (Amparado) and his companion Christ pher Y apchangco (Yapchangco)
+> were walking and just passed by Sesbre~ 's house when the latter, without
+> any provocation from the former, went o t of his house, aimed his rifle, and
+> struted firing at them. According to Y pchangco, they were about five
+> meters, more or less, from the gate o Sesbrefio when they heard the
+> screeching sound of the gate and wh they turned around, they saw
+> Sesbrefio aiming his rifle at them. Yapch gco and Amparado ran away but
+> Alnparado was hit. Al1 eyewitness, Riz ldy Rabanes (Rabanes), recalled
+> that he heard shots and opened the indow of his house. He saw
+> Yapchangco ru1d Alnparado rwming aw y while Sesbrefi.o was firing his
+> firearm rapidly, hitting Rabanes' house in the process. Al1other witness,
+> Edwin Parune, saw Amparado fall d wn after being shot, then saw
+> Sesbrefio in the middle of the street, car ing a long firearm, and walking
+> back towards the gate of his house. T e IBP-CBD correctly stated that
+> Amparado and Yapchangco were just at t e wrong place and time. They did
+> not do anything that justified the indiscri inate firing done by Sesbrefio that
+> eventually led to the death of Amparado. 1 7
+> In assessing the moral turpitude o violations of special penal laws,
+> some decisions use, or at least invoke, o approaches in conjunction with
+> each other. The test begins with a searc for a violation of the core honor
+> norms in the elements of the offense, and i complemented by an examination
+> of the factual background of the convicti n, when deemed necessary by the.
+> Court.
+> In Dela Torre v. COMELEC, 108 am yoralty candidate was sought to be
+> disqualified on the basis of his previ us conviction for fencing under
+> Presidential Decree (P.D.) No. 1612. The ourt dispensed with the review of
+> the factual background of the conviction, on the ground that the candidate
+> "does not assail his conviction."109 Thus, the Court used the element-based
+> approach in Ty-Delgado; and held that fen ing involves moral turpitude:
+> Moral turpitude is deducible from he third element [of fencing, i.e.,
+> the accused knows or should have known that the said article, item, object
+> or anything of value has been derived fr m the proceeds of the crime of
+> robbery or theft]. Actual knowledge by th "fence" of the fact that property
+> received is stolen displays the same de ree of malicious deprivation of
+> one's rightful property as that which ruu ated the robbery or theft which,
+> by their very nature, are crimes of mo al turpitude. A11d although the
+> participation of each felon in the unlawful · g differs in point in time and
+> in degree, both the "fence" and the actu perpetrator/s of the robbery or
+> 106 752 Phil. 463 (2015).
+> 107 Id. at 470-471.
+> 108 (Resolution) 327 Phil. 1144 (1996).
+> io 9 Id. at I 152.
+> j
+>
+> Concurring Opinion 20 G.R. Nos. 260374 & 260426
+> theft invaded one's peaceful dominion fo gain - thus deliberately reneging
+> in the process ''private duties" they owe heir ''fellowmen" or "society" in a
+> manner "contrary to xx x accepted and c stomary rule ofr ight and duty x x
+> x, justice, honesty x x x or good mora(s.' The duty not to appropriate, or to
+> return, anything acquired either by mist e or with malice is so basic it finds
+> expression [in Articles 19 to 22 and 21 4) of the Civil Code on "Human
+> Relations" and "Solutia Indebiti[.]"
+> xxxx
+> The same underlying reason hol even if the "fence" did not have
+> actual knowledge, but merely "should have known" the origin of the
+> property received. In this regard, the Co held:
+> "When knowledge of the existen e of a particular fact is an
+> element of the offense, such kn wledge is established if a
+> person is aware of the high proba ility of its existence unless
+> he actually believes that it does n t exist. On the other hand,
+> the words 'should know' denote the fact that a person of
+> reasonable prudence and intelli nee would ascertain the
+> fact in the performance of his uty to another or would
+> govern his conduct upon assumpti n that such fact exists."
+> Verily, circumstances normally xist to forewarn, for instance, a
+> reasonably vigilant buyer that the object f the sale may have been derived
+> from the proceeds of robbery or theft. Su h circumstances include the time
+> and place of the sale, both of which ma not be in accord with the usual
+> practices of commerce. The nature and co dition of the goods sold, and the
+> fact that the seller is not regularly engage in the business of selling goods
+> may likewise suggest the illegality of t eir source, and therefore should
+> caution the buyer. This justifies the presw 1ption found in Section 5 of P.D.
+> No 1612 that "mere possession of any g ods, ..., object or anything of
+> value which has been the subject of robbe y or thievery shall be prima facie
+> evidence of fencing" - a presumption at is, according to the Court,"
+> reasonable for no other natural or logi al inference can arise from the
+> established fact of ... possession of the p ceeds of the crime of robbery or
+> theft." All told, the COMELEC did not er in disqualifying the petitioner on
+> the ground that the offense of fencing o which he had been previously
+> convicted by final judgment was one inv ol ing moral turpitude. 110
+> Teves v. Commission on Elections 111 was a disqualification case against
+> Teves, a candidate for the House of Repre entatives who had been previously
+> convicted of possession of prohibited fin cial interest under Section 3(h) of
+> Republic Act No. 3019, for having a fin cial interest in a cockpit while he
+> was mayor. The Court examined the factua background ofTeves' conviction;
+> and found that: I) he did not use his positi n as mayor to gain said interest; 2)
+> the transfer of said interest to his wife was ot made to conceal such; 3) mere
+> possession of financial interest in a cockpit was not prohibited under previous
+> laws; 4) the maximum sentence was not imposed on him because he was
+> 110 Id. at l 153-1155. Citations omitted.
+> Ill 604 Phil. 717 (2009).
+>
+> Concurring Opinion 21 G.R. Nos. 260374 & 260426
+> "[p] resumably x x x not yet very much ware of the prohibition," 112 having·
+> been charged therewith shortly after _the prohibition took effect; and 5) the
+> immorality of cockfighting per se, and i s use as a vehicle for gambling, is
+> debatable. In view of these findings, the Court ruled that Teves' conviction
+> did not involve moral turpitude.·113
+> In his concU1Ting opinion, Justice rion endorsed the ponencia's fact
+> based determination of moral turpitude. e also applied the category-based
+> (referred to in the opinion as the objecti e approach) and the element-based
+> approaches to Teves' conviction. First, h noted that the moral gravamen of
+> the offense is the abetting of gambling, a d such act is not "per se immoral"
+> "by contemporary community standards,' 114 considering that possession of
+> pecuniary interest in a cockpit by a p lie officer was not penalized by
+> previous laws. He also analyzed the ele ents of the offense to determine if
+> any of these involve a violation of the cor
+> The essential elements of the of ense of possession of prohibited
+> interest (Section 3 (h) of the Anti-Graft aw) for which the petitioner was
+> convicted are:
+> 1. The accused is a public officer;
+> 2. He has a direct or indirect fin cial or pecuniary interest in any
+> business, contract or transaction; and
+> 3. He is prohibited from having s ch interest by the Constitution or
+> any law.
+> From the perspective of moral itude, the third element of the
+> crime is the critical element. An analysis o this element, significantly using
+> the objective norms of the first approach, hows that the holding of interest
+> a
+> that the law covers is not conduct clear! contrary to the accepted rules of
+> right and duty, justice, honesty and good r orals; it is illegal solely because
+> of the prohibition that exists in law o in the Constitution. Thus, no
+> depravity immediately leaps up or . sug ests itself based solely on the
+> elements of the crime committed.115
+> Significant in Justice Brion's appr ach is the use of "contemporary
+> community standards" as an alternative t the core honor norms, which is
+> essentially rooted in 18th-century America culture; although his concurrence
+> does not offer much clarification on wha these "contempora1y community
+> standards" should be. At any rate, based n the foregoing cases, Philippine
+> jurisprudence does not seem to reject the original notion that moral virtue
+> includes, at the very least, the values of h nesty, integrity, truthfulness, and
+> sexual virtue; and crimes that violate the e norms involve moral turpitude.
+> The fact-based approach that has been d veloped for homicide and bodily
+> 112 Id. at 732.
+> 113 Supra note 11 I
+> 114 Id. at 750.
+> 115 Id. at 751.
+>
+> Concurring Opinion 22 G.R. Nos. 260374 & 260426
+> injury also hews closely to the original i ea that violence, although criminal,
+> does not involve moral turpitude when "justified" by the circumstances, 116
+> despite subsequent cases that deem the a.king or injuring of human life as
+> categorically immoral. Crucially, unli e early American jurisprudence,
+> Philippine jurisprudence has demande these virtues from all persons
+> regardless of gender or sexual orientation
+> II. C. Moral turpitude in tax offenses
+> In light of the foregoing ssion, we now proceed to the
+> determination of moral turpitude in tax fenses, particularly, the offense for
+> which Marcos, Jr. was convicted: failu;e t file a tax return.
+> "The power of taxation is an in erent attribute of sovereignty; the
+> government chiefly relies on taxation t obtain the means to carry on its
+> operations. Taxes are essential to its ve existence; hence, the dictum that
+> 'taxes are the lifeblood oft he government.'" 117 To this end, Chapter II, Title X
+> of the NIRC defines and penalizes certai acts which are detrimental to the
+> tax collection effort of the government. "Tax laws imposing penalties for
+> delinquencies, so we have long held, are ·ntended to hasten tax payments by
+> punishing evasions or neglect ofdutv in espect thereo/"118 Tax evasion has
+> been defined as a scheme to reduce or av id taxes outside of lawful means. 119
+> Tax evasion "connotes fraud thru the.u se ofp retenses and forbidden devices
+> to lessen or defeat taxes."120 Thus, tax cri es, as defined and penalized in the
+> NIRC, offend not only the legal norms w ich underpin the power of taxation,
+> but also the core honor norms of hones , truthfulness, and contribution to
+> society. In determining whether these offe ses involve moral turpitude, courts
+> must therefore, inquire into the circl,llns ances of the offense or offenses
+> involved in every case. If the circumstanc s of the case show that the offense
+> was committed through mere omission o neglect, then the same cannot be
+> considered as involving moral turpitude; b t if the circumstances evince fraud
+> or willful intent to avoid payment of taxes, moral turpitude exists.
+> The determination of moral turpi ude in tax offenses in the US
+> essentially centers on the existence of fra d. The doctrinal divergence lies in
+> the issue of the proper approach: some ca es use a category-based approach
+> and hold that tax evasion is inherently fr udulent; 121 while some cases hold
+> that it is not, and a fact-based approach mu t be used to detennine whether the
+> 116 Simon-KelT, supra note 21 at I 029; supra note 3 1.
+> 117 Commissioner of Internal Revenue v. Eastern Teleco nmunications Philippines, Inc., 638 Phil. 334,
+> 351 (2010).
+> 118 Philippine Refining Co. v. Court ofA ppeals, 326 Phil. 680, 691 ( 1996). Emphasis, underscoring, and
+> italics supplied.
+> 119 Commissioner of Internal Revenue v. The Hongkon Shanghai Banking Corp. Limited-Philippine
+> Branch, G.R. No. 227121, December 9, 2020. ,
+> 120 Id.
+> 121 Kawashima v. Holder, 565 U.S. 478 (2012); Tseung u v. Cornell, 247 F.2d 929 (1957); Maryland
+> St. Bar Ass'n v. Agnew, 318 A. 2d 811, 271 Md. 543 ( I 74).
+>
+> Concurring Opinion 23 G.R. Nos. 260374 & 260426
+> circumstances of the offense involve fr ud.122 For example, the CA of the
+> District of Columbia found no moral turp tude in a lawyer's conviction for tax
+> evasion because
+> [i]t is not obvious that he ever affirmativ ly lied in dealing with the IRS; he
+> merely gave them the information they r quested, and nothing more. He had
+> organized his finances in such a W<J.Y that his available resources were
+> difficult to trace, but honestly reported his income in yearly tax returns.
+> Because we do not know whether the j predicated his conviction of tax
+> evasion on any affirmative act more d plicitous than "placing his funds
+> beyond the service of process," and be ause we cannot establish that he
+> actually took steps to conceal informat on or made false statements, we
+> cannot say that he practiced deception.123
+> Cases on failure to file a return have generally followed the same
+> trend. 124 Notably, the offense involved · most of the US cases is willful
+> failure to file a return, as defined and penalized under the US Internal
+> Revenue Code.125 Given the wording oft e statute, courts have considered the
+> element of willfulness as an indicator fraudulent intent. 126 However, in
+> Attorney Grievance Commission of Ma and v. Walman, the Maryland CA
+> expressly rejected the category-based a proach in favor of the fact-based
+> approach:
+> The question whether failure to file tax r turns is per se a crime involving
+> moral turpitude has been considered in a ast number of disciplinary cases
+> and the courts have divided on the issue. hose courts which have held that
+> every conviction of failure to file is pe se an offense involving moral
+> turpitude have done so by baldly arrivin at that conclusion or by simply
+> refusing to distinguish that crime from the § 7201 offense of making a false
+> and fraudulent return, i.e., willful tax evas on, see, e.g., In re Macleod, 479
+> S.W.2d 443, 445 (Mo.), cert. denied, 409 .S. 979 (1972); In re Kline, 156
+> Mont. 177, 477 P.2d 881, 882 (1970); tale Bd of Law Examiners v.
+> Holland, 494 P .2d 196, 197 (Wyo. 1972) a distinction which, as we have
+> suggested, even the federal courts make.
+> Most courts, however, hold that failure to le is not a crime involving moral
+> turpitude per se, and that the issue turns o the facts of the pa1ticular case.
+> They rest the proposition that not every such conviction involves moral
+> turpitude either on the distinction between the two federal crimes or on the
+> absence of fraudulent intent and further mi conduct, or both, See, e.g., In re
+> Fahey, 8 Cal.3d 842, 505 P.2d 1369, 137 -75, 106 Cal. Rptr. 313 (1973);
+> 122 In the Matter ofS horter, 570 A. 2d 760 (1990). Justice ichard Posner points out that the 2015 United
+> States Department of State Foreign Affairs Manual ex licitly classifies tax evasion as involving moral
+> turpitude if willful, and not involving moral 'turpit de if without intent to defraud. Posner, J.,
+> concurring in Arias v. Lynch, 834 F. 3d 823, 832-833 (2 16).
+> 123 Id. at 767.
+> 124 See Attorney Grievance Commission of Maryland v. a/man, 374 A. 2d 354 (1977); In re Hallinan,
+> 272 P. 2d 768 (1954); Carty v. Ashcroft, 395 F. 3d 108 (2005), fn. 3., stating that "intent to defraud is
+> implicit in willfully failing to file a tax return with the intent to evade taxes"; and the dissent arguing
+> that fraud is not presumed, and must be proven in o der for tax evasion to be considered morally
+> turpitudinous.
+> 12s Id.
+> 126 Td.
+>
+> Concurring Opinion 24 G.R. Nos. 260374 & 260426
+> Kentucky State Bar Association v. Mc ee, 301 S.W.2d 899 (Ky. 1957);
+> Matter o/Cochrane, 549 P.2d 328,329 ev. 1976); In re Ford's Case, 102
+> N.H. 24, 149 A.2d 863, 864 (1959);' ·ncinnati Bar Assn. v. Leroux, 16
+> Ohio St.2d 10, 242 N.E.2d 347, 348 (19 8); In re Walker, 240 Ore. 65, 399
+> P.2d 1015, 1016 (1965); In re Weise ee, 224 N.W.2d 830, 831 (S.D.
+> 1975); In re McShane, 122 Vt. 442, 1 5 A.2d 508 (1961); Committee of
+> Legal Ethics v. Scherr, 143 S.E.2d at 1 5; State v. Roggensack, 19 Wis.2d
+> 8, 119 N.W.2d 412, 416 (1963). See al o In re O'Hallaren, 64 Ill.2d 426,
+> 356 N.E.2d 520, 523, 1 Ill. Dec. 332 (19 6).
+> There is a third line of cases in which th courts, though presented with the
+> issue of whether failure to file was a cri e involving moral turpitude, have
+> found it unnecessary to decide the question, but nevertheless have
+> proceeded to impose disciplinary sanctio s. See, e.g., People v. Fenton, 165
+> Colo. 131, 437 P.2d 350, 351 (1968); In I e Schub, 54 Ill.2d 277, 296 N.E.2d
+> 738, 740 (1973), Iowa State Bar Assoc ation v. Kraschel, 148 N.W.2d at
+> 628; In re Bunker, 294 Minn. 47, 199 N. .2d 628, 631-32 (1972); In re De
+> Luca, 112 R.I. 909, 308 A.2d 826, 827 ( 973); In re Calhoun, 127 Vt. 220,
+> 245 A.2d 560 (1968).
+> We think the better view is re
+> eve conviction of failure to file is.a rime involvin moral tur itucle
+> but that the issue de ends on the arti ular facts of the individual case.
+> As we have stressed, the federal cases ha e eliminated fraud and dishonesty,
+> the very conduct by which we identify m ral turpitude, as elements of the §
+> 7203 crime. Consequently, such a convi tion does not on its face establish
+> moral turpitude. In the final analysis, the , whether failure to file is a crime
+> involving moral tmpitude hinges on the acts present in the individual case
+> at hand. We tum then to the question w ther the circumstances prevailing
+> here reflect such conduct.
+> Here, as we have intimated, no evidenc has been presented to show that
+> respondent's failure to file the returns w s accompanied by a fraudulent or
+> dishonest intent. Nor does the record refl ct an intent to avoid the ultimate
+> payment of taxes. There is no suggesti n, for example, that respondent
+> falsified records, made deceptive state1 ents to Internal Revenue agents,
+> testified untruthfully, committed any oth r act of dishonesty, or was guilty
+> of further misconduct. No evidence has ver been uncovered by either the
+> l.R.S. or petitioner to refute respondent's xplanation for his conduct: that it
+> resulted from his inability to pay. In s ort, there is no further showing,
+> beyond the bare fact of conviction for f; ·1ure to file his returns, to indicate
+> that respondent's conduct was infecfed ith moral tmpitude, as we have
+> defined that term.
+> Nothing we have said is intended in th slightest degree to diminish the
+> gravity of the crime involved here. It i , as we shall demonstrate, such
+> condµct as may result in the impositi n of any one of the sanctions
+> prescribed by Rule BVl 1 a 1, that is, repr mand, suspension, or disbain1ent.
+> The consequence of our holding is s·mply that disbatU1ent does not
+> automatically follow from every convicti n for failure to file a federal tax
+> return.127
+> 127 Attorney Grievance Commission of Maryland v. Wal ian, id. at 461-463. Emphasis and underscoring
+> supplied. The dissent, also using a fact-based approa h, holds that the record sufficiently proved the
+> moral turpitude of the lawyer's offense.
+>
+> Concurring Opinion 25 G.R. Nos. 260374 & 260426
+> Similarly, the Supreme Court of C lifornia reversed the suspension of a
+> lawyer despite his conviction for willful failure to file an income tax return
+> because
+> x x x [i]t is established that not only f: ilure to file a tax return but also
+> failure to pay a tax does not necessari y involve moral turpitude. (In re
+> Higbie, supra, 6 Cal.3d 562, 571.) There must be more than mere repetition
+> of the same acts to differentiate the of ending attorney who is guilty of
+> moral turpitude from the one who is n t. No other basis is shown in the
+> instant case for concluding that· resp ndent's offense involved moral
+> turpitude. The record shows no intent o his part to avoid ultimately filing
+> his return or paying his taxes with penalt es and interest. He is not shown to
+> have falsified records, made deceptiv statements to revenue agents,
+> testified untruthfully, or committed any ther act of dishonesty. There is no
+> showing that his income tax delinquen ies or his accompanying state of
+> mind impaired his performance of pro£ ssional duties to his clients in an
+> honest and faithful manner.128
+> II C. I. Moral turpitude of failure to
+> file tax return under the NIRC and its
+> amendments
+> Following the foregoing precedent , we employ both the element- and
+> fact-based approaches to the case at bar. The final and executory 1997 CA
+> Decision pronounced Marcos, Jr. "gu -Zty beyond reasonable doubt of
+> violation of Section 45 of the [1977] . RC for failure to file income tax
+> returns for the taxable years 1982 to 19 5." Section 45 of the 1977 NIRC
+> required the filing of an income tax retu and provided for the parameters
+> thereof. Violation of said provision de tes failure to the return required
+> thereby. As originally worded in the 1977 NIRC, the provision penalizing the
+> failure to file a return required thereby stat s:
+> SECTION 73. Penalty for failure to file eturn or to pay tax. - Any one
+> liable to pay the tax, to make a return r to supply infonnation required
+> under this Code, who refuses or ne lee s to pay such tax, to make such
+> return or to supply such information at tl time or times herein specified in
+> each year, shall be punished by a fine of ot more than two thousand pesos
+> or by imprisonment for not more than si months, or both. (Emphasis and
+> underscoring supplied)
+> xxxx
+> In 1981, Batas Pambansa Blg. 135 nended the provision to read:
+> Sec. 73. Penalty for failure to file return o to pay tax. -Any one liable to
+> pay the tax, to make a return or to supp y information required under this
+> Code, who refuses or neglects to pay su h tax, to make such return or to
+> supply such information at the time or ti es herein specified in each year,
+> shall be punished by a fine of not more than Two thousand pesos or by
+> 128 in re Fahey, 8 Cal.3d 842, 851-852 (I 973).
+>
+> Concurring Opinion 26 G.R. Nos. 260374 & 260426
+> imprisonment for not more than six m nths, or both: Provided, however,
+> That an individual with com ensation income taxable under Section 21
+> a of this Code and where the tax w thheld from such com ensation
+> tax on such com ensation income an to file a return thereon at the
+> designated period. (Emphasis and under coring supplied)
+> xxxx
+> In 1985, the NIRC was overhauled y P.D. No. 1994, which introduced
+> major changes to the structure and the. in ividual provisions of the tax code.
+> Accordingly, the penal provision on failu to file tax returns was renumbered
+> and amended to include the modifier "wil lly":
+> Sec. 288. Failure to file return, supply · ormation, pay tax, withhold and
+> remit tax. - An erson re uired un er this Code or b re ulations
+> promulgated thereunder to pay any tax, make a return, keep any
+> records, or supply any infonnation, wh wilJfull fails to pay such tax,
+> make such return, keep such records or supply such information, or
+> withhold or remit taxes withheld, at the time or times required by law or
+> regulations, shall, in addition to other enalties provided by law, upon
+> conviction thereof, be fined not less than 1ve thousand pesos nor more than
+> fifty thousand pesos, or imprisoned for no less than six months and one day
+> but not more than five years, or both.
+> Any person who attempts to make it a pear for any reason that he or
+> another has in fact filed a return or state ent, or actually files a return or
+> statement and subsequently withdraws tl e same return or statement after
+> securing the official receiving seal or stam of receipt of an internal revenue
+> office wherein the same was actually filed shall, upon conviction therefor be
+> fined not less than three thousand pesos or imprisoned for not more than one
+> year, or both. (Emphasis and underscoring supplied)
+> The modifier "willfully" was retain din the next major amendment of
+> the NIRC in 1997:
+> SECTION 255. Failure to File Return Supply Correct and Accurate
+> Information, Pay Tax, Withhold and Rem t Tax and Refund Excess Taxes
+> Withheld on Compensation.- An erso re uired under this Code or
+> b rules and re ulations romul ated t ereunder to pay any tax, make
+> a return, keep any record, or supply corre t and accurate information, who
+> willfully fails to pay such tax, make su h return, keep such record, or
+> supply such correct and accurate infonn ion, or with.hold or remit taxes
+> withheld, or refund excess taxes withheld on compensation, at the time or
+> times required by law or rules and regul tions shall, in addition to other
+> penalties provided by law, upon conviction thereof, be punished by a fine of
+> not less than Ten thousand pesos (P 10,000 and suffer imprisonment of not
+> less than one (1) year but not more than ten (10) years.
+> Any person who attempts to make it ap ear for any reason that he or
+> another has in fact filed a return or state ent, or actually files a return or
+> statement and subsequently withdraws th same return or statement after
+> securing the official receiving seal or stam of receipt of an internal revenue
+>
+> Concurring Opinion 27 G.R. Nos. 260374 & 260426
+> office wherein the same was actually fil1 d shall, upon conviction therefor,
+> be punished by a fine of not less than Ter thousand pesos (P 10,000) but not
+> more than Twenty thousand pesos (P20,0 10) and suffer imprisonment of not
+> less than one (1) year but not more than three (3) years. (Emphasis and
+> underscoring supplied)
+> The first element of the offense has remained constant throughout the
+> amendments: the offender must be a pers< n required to file a return under the.
+> NIRC or regulations promulgated thereunder. The second element of the
+> offense, as originally worded, contemplates both refusal and neglect to file a
+> return. Notably, the 1981 version expre~sly exempts compensation income
+> earners from liability thereunder. The intnduction of the modifier "willfully"
+> in the 1985 version puts it in line with t 1e US Internal Revenue Code, and
+> appears to limit the scope of the provision to intentional failure to file a
+> return, effectively decriminalizing neglect fo file.
+> As applied to Marcos, Jr. 's case, w 1ich covers his returns for the years
+> his 1982 to 1985, the applicable laws and ~lements of the offense of failure to
+> file return may be summarized as follows:
+> Year Deadline for filing Law applicab e to filing Essential element of the
+> return ofretu n offense under applicable
+> law
+> 1982 March 15, 1983 NIRC 1977 Refusal or neglect to file
+> return
+> 1983 March 18, 1984 NIRC, as an ended m Refusal or neglect to file
+> 1981129 return, compensation
+> income earners exempted
+> 1984 March 18, 1985 NIRC, as amenc ed in 1981 Refusal or neglect to file
+> return, compensation
+> income earners exempted
+> 1985 March 18, 1986 NIRC, as arr erided 111 Willful failure to file
+> 1985130 return
+> In fine, the offense, as originally defined ar d made applicable to Marcos, Jr. 's
+> case, makes no distinction as to the intent< f the offender. The mere failure to
+> file a return is penalized, whether it be b01ne of neglect or of refusal.
+> Moreover, under the applicable law for the years 1983 and 1984, failure to file
+> a return is not penalized when the perso :1 is a pure compensation income
+> earner. Under the 1985 amendment, only willful failure to file is penalized.
+> Thus, based on the textual evolution of the provision alone, it may already be
+> concluded that failure to file tax return is not fraudulent per se. As early as
+> 1974, the Supreme Court has alr.eady helc that the provisions of the NIRC
+> distinguish between fraud and omission w th respect to the the non-filing of
+> 129 Batas Pambansa Big. 135 provided for its effectivity c n January I, 1982; but was published only on
+> May 2, 1983.
+> 130 Presidential Decree No. I 984 was published on December 2, 1985, and had an effectivity date of
+> January I, 1986.
+>
+> Concurring Opinion 28 G.R. Nos. 260374 & 260426
+> tax returns. In a case involving the app ication of Section 332 of the 1933
+> NIRC, as amended, 131 the Supreme Court held that:
+> x x x the proper and reasonable interpr tation of said provision should be
+> that in the three different cases of (1) fal e return, (2) fraudulent return with
+> intent to evade tax, (3) failure to file a r ·n, the tax may be assessed, or a
+> proceeding in court for the collection o such tax may be begun without
+> assessment, at any time within ten ye s after the discovery of the (1)
+> falsity, (2) fraud, (3) omission. Our stan that the law should be interpreted
+> to mean a separation of the three di ferent situations of false return,
+> fraudulent return with intent to evade t , and failure to file a return is
+> strengthened immeasurably by the last portion of the provision which
+> aggregates the situations into three di erent classes, namely "falsity",
+> "fraud" and "omission". That there is a difference between "false return"
+> and "fraudulent return" cannot be denie . While the first merely implies
+> deviation from the truth, whether inten ional or not, the second implies
+> intentional or deceitful entry with intent t evade the taxes due. 132
+> Crucially, this distinction between fraud and omission in the NIRC's
+> rules on tax returns has already been ited by the Court to support the
+> conclusion that failure to file tax return does not involve moral turpitude,
+> since it does not necessarily involve frau . That case,133 serendipitously, also'
+> involves Marcos, Jr., who was then sou to be disqualified from serving as
+> executor of his father's estate on the b sis of the moral turpitude of his
+> conviction under the 1997 CA Decision:
+> Therefore, since respondent Ferdi and Marcos II has appealed his
+> conviction relating to four violations of Section 45 of the NIRC, the san1e
+> should not serve as a basis to disqualify m to be appointed as an executor
+> of the will of his father. More importantly even assuming arguendo that his
+> conviction is later on affirmed, the same is still insufficient to disqualify
+> him as the "failure to file an income tax return" is not a crime involving
+> moral turpitude.
+> xxxx
+> The "failure to file an incom tax return" is not a crime
+> involvin moral tur itude as the mere mission is alread a violation
+> re ardless of the fraudulent intent or w llfulness of the individual. This
+> conclusion is supported by the provisions f the NIRC as well as previous
+> Court decisions which show that with reg d to the filing of an income tax
+> return, the NIRC considers three distinct v olations: (1) a false return, (2) a
+> fraudulent return with intent to evade tax, a d (3) failure to file a return.
+> The same is illustrated in Section 5 (b) of the NIRC which reads:
+> (b) Assessment and payment of defi iency tax - x x x
+> 131 This provision has essentially been retained in the I 97 N !RC as Section 3 19 thereof; and as Section
+> 222 under the amendments introduced by Presidential ecree No. 1994.
+> 132 Aznar v. Court of Tax Appeals, 157 Phil. 510,523. (197 )
+> 133 Republic v. Marcos II, 612 Phil. 355 (2009).
+>
+> Concurring Opinion 29 G.R. Nos. 260374 & 260426 ·
+> In case a person fails to make d file a return or list at the time
+> prescribed by law, or makes willfully or therwise, false or fraudulent return
+> or list . ... (Emphasis Supplied)
+> Likewise, in Aznar v. Court ofT a Appeals, this Court observed:
+> To our minds we can dispens with these controversial
+> arguments on facts, although e do not deny that the
+> findings of facts by the Court of ax Appeals, suppo1ted as
+> they are by very substantial evide ce, carry great weight, by
+> resorting to a proper interpretati n of Section 332 of the
+> NIRC. We believe that the proper and reasonable
+> interpretation of said provision s ould be that in the three
+> different cases of (1) false return, (2) fraudulent return with
+> intent to evade tax, (3) failure to le a return, the tax may be
+> assessed, or a proceeding in co for the collection of such
+> tax may be begun without assess ent, at any time within ten
+> years after the discovery of the (1 falsity, (2) fraud, and (3)
+> omission. Our stand that the la should be interpreted to
+> mean a separation of the three d fferent situations of false
+> return, fraudulent return with inte t to evade tax, and failure
+> to file a return is strengthened · easurably by the last
+> portion of the provision which se regates the situations into
+> three different classes, namely "falsity", "fraud" and
+> "omission". (Emphasis Supplied)
+> Applying the foregoing considerat ons to the case at bar, the filing
+> of a "fraudulent return with intent to vade tax" is a crime involvin
+> moral tur itude as it entails willfulnes and fraudulent intent on the
+> art of the individual. The same howev r cannot be said for "failure to
+> file a return" where the mere omission alread constitutes a violation.
+> Thus, this Court holds that even if the con iction of respondent Marcos II is
+> affirmed, the same not being a crime invol ing moral turpitude cannot serve
+> as a ground for his disqualification.134
+> Fm1hermore, it must be noted that nder the 1981 amendments to the
+> NIRC, which govern the filing of Marcos Jr.'s income tax returns for 1983
+> and 1984, failure to file a return is not ev penalized if the taxpayer earned
+> purely compensation income. As the onencia and Justice Japar B.
+> Dimaampao (Justice Dimaampao) point out, this is because under the
+> withholding tax collection regime, the re ponsibilities of collecting the tax
+> and complying with the requirements oft e tax code, including the filing of
+> the income tax return, are vested in the wi hholding agent, which in Marcos,
+> Jr. 's case, is the provincial government of locos N011e.135 The ponencia and
+> Justice Dimaampao again correctly point out that, under the amendments
+> introduced by the TRAIN Law, the NIRC as now enshrined into statute the
+> withholding system of collecting income ta from pure compensation income
+> 134 Id. at 375-377. Emphasis and underscoring supplied; cit tions omitted.
+> 135 Ponencia, pp. 53-54. NIRC, as amended up to Batas P mbansa Big. 135, Section 9 I (a), and Annex A
+> thereof; NIRC, as amended up to Presidential Deer e No. 1994, Section 82(g). With respect to
+> government employees, the unit or agency concerned is responsible for withholding. 1977 NIRC,
+> Sections 90(c), 91, and 94. ·
+>
+> Concurring Opinion 30 G.R. Nos. 260374 & 260426
+> earners, which is complemented by a pr vision on substituted filing.136 Here,
+> it has been established that Marcos, Jr. w an elected official of !locos Norte
+> during the period in question, and ea ed compensation income as such.
+> There is likewise no proof within the records of this case that he earned any
+> other form of income during said period.
+> A fact-based approach also suppo s the conclusion that Marcos, Jr. 's
+> conviction under the 1997 CA Decisio does not involve moral turpitude,
+> primarily because the appellate court did ot find any circumstance or indicia
+> that Marcos, Jr.'s failure to file income ax returns from 1982 to 1985 was
+> motivated by a fraudulent intent to evade ayment of income tax. First, it has·
+> been established in the COMELEC proce dings, through a certification issued
+> by the Local Finance Committee of the rovince of !locos Norte, that taxes
+> were withheld from Marcos, Jr.'s cm pensation from 1982 to 1985-. 137
+> Second, it is judicially recognized that t e Marcoses fled the Philippines in
+> February 1986, and were able to re only in 1991, 138 when the
+> investigation into their tax liabilities was lready ongoing. Finally, the record
+> shows that Marcos, Jr. eventually desis ed from contesting his conviction
+> before this Court, and paid the tax liabili as imposed upon him in the 1997
+> CA Decision.139 These circumstances indi ate the lack of fraudulent intent to
+> evade income tax liability on the part of
+> For the foregoing reasons, I concur · the ponencia.
+> s
+> Associate Justice
+> 136 Ponencia, p. 55.
+> 137 Id. at 84.
+> 138 Marcos v. Manglapus, supra note 2; Republic v. Sandig nbayan, 309 Phil. 488, 490 (1994).
+> 139 Ponencia, pp. 8, 82-84.

@@ -1,11 +1,11 @@
 # Video Transcript Index
 
-**Total**: 147 transcripts
-**Updated**: 2026-04-01
+**Total**: 152 transcripts
+**Updated**: 2026-04-03
 
 ---
 
-## ai-claude-code/ (29)
+## ai-claude-code/ (31)
 
 | Video ID | Title | File |
 |----------|-------|------|
@@ -37,9 +37,11 @@
 | UPtmKh1vMN8 | CLAUDE CODE ADVANCED COURSE — 3 HOURS | 260329-1510-claude-code-advanced-course-3-hours.md |
 | phuyYL0L7AA | Claude Code + Firecrawl = UNLIMITED Web Scraping | 260330-1509-claude-code-firecrawl-unlimited-web-scraping.md |
 | nAZdk1d_QzU | DeepSeek V4 Benchmarks LEAKED + Claude Code Computer Use + OpenAI's Codex Plugin! | 260331-1231-deepseek-v4-benchmarks-leaked-claude-code-computer-use-openai-codex-plugin.md |
+| 2COkMJPHINY | The AI System Most People Aren't Building (Claude Code + Obsidian) | 260403-0923-the-ai-system-most-people-arent-building-claude-code-obsidian.md |
+| eR167BCL-4g | Claude Code Cloned in 2 hours.... | 260403-1357-claude-code-cloned-in-2-hours.md |
 | n/a | Claude Code -- Application Guide | AI-Claude-Code-GUIDE.md |
 
-## ai-claude-cowork/ (12)
+## ai-claude-cowork/ (13)
 
 | Video ID | Title | File |
 |----------|-------|------|
@@ -54,6 +56,7 @@
 | NF10evwkefM | Claude Dispatch Just Dropped, And It Kills OpenClaw | 260329-2003-claude-dispatch-just-dropped-and-it-kills-openclaw.md |
 | bC_0h1C7or4 | Claude DESTROYS OpenClaw, Here's Why... | 260329-2003-claude-destroys-openclaw-heres-why.md |
 | pC_GpRbDQJ4 | Claude Dispatch Just Killed OpenClaw! (FULL GUIDE) | 260329-2003-claude-dispatch-just-killed-openclaw-full-guide.md |
+| Dl36TDBFUdo | Claude Can Control Your Computer - Everything You Need To Know | 260403-1106-claude-can-control-your-computer-everything-you-need-to-know.md |
 | n/a | Claude Cowork -- Application Guide | AI-Claude-Cowork-GUIDE.md |
 
 ## ai-design/ (7)
@@ -203,3 +206,11 @@
 | U2za4uy3cgc | The 90-Day Startup Launch Blueprint | The-90-Day-Startup-Launch-Blueprint.md |
 | 7JE2yRy2UW4 | The Ultimate 7 Step Startup Framework For 2026 | The-Ultimate-7-Step-Startup-Framework-For-2026.md |
 
+
+## programming/python/ (2)
+
+| Video ID | Title | File |
+|----------|-------|------|
+| K5KVEU3aaeQ | Python Full Course for Beginners | 260403-1118-python-full-course-for-beginners.md |
+| ix9cRaBkVe0 | Python Full Course for free (12 hours) | 260403-1142-python-full-course-for-free.md |
+| n/a | Python -- Application Guide | Python-GUIDE.md |

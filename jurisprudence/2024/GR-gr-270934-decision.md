@@ -1,0 +1,549 @@
+# GR-gr-270934-decision
+
+**People of the Philippines vs. Joemarie Ubanon y Man-an alias Jomare Francesco alias Alex [D-BJMP-V]**
+
+## Metadata
+
+- **Case Title**: People of the Philippines vs. Joemarie Ubanon y Man-an alias Jomare Francesco alias Alex [D-BJMP-V]
+- **Ponente**: [UNKNOWN]
+- **Division**: SECOND DIVISION
+- **Type**: Decision
+- **Date**: OCT 30 2024
+- **Source**: [sc.judiciary.gov.ph](https://sc.judiciary.gov.ph/wp-content/uploads/2025/04/gr-270934-decision.pdf)
+
+---
+
+> Republic of the Philippines
+> Supreme Court
+> ftlanila
+>
+> SECOND DIVISION
+>
+> PEOPLE OF THE PHILIPPINES,
+>
+> Plaintiff-appellee, G.R. No. 270934
+>
+> -versus-
+>
+> JOEMARIE UBANON y MAN-AN Present:
+> alias “JOMARE FRANCESCO”
+>
+> alias “ALEX” [D-BJMP-V], LEONEN, Chairperson
+> Accused-appellant. LAZARO-JAVIER,
+> LOPEZ, Me,
+> LOPEZ, J., and
+> KHO, JR., J”
+>
+> Promulgated:
+>
+> OCT 30 2024 1 /fuanc h
+>
+> DECISION
+>
+> LOPEZ, M., J.:
+>
+> The present appeal assails the August 25, 2023 Decision! of the Court of
+> Appeals (CA) in CA-G.R. CR-HC No. 03063-MIN which affirmed the
+>
+> On leave
+> ' — Rollo, pp. 10-24. Penned by Associate Justice Evalyn M. Arellano-Morales and concurred in by Associate
+> Justices Anisah B. Amanodin-Umpa and John Z. Lee of the Twenty-Second Division, Court of Appeals,
+>
+>
+> i)
+>
+> Decision G.R. No. 270934
+>
+> conviction of Joemarie Ubanon y Man-an alias “Jomare Francesco” alias “Alex”
+> (Joemarie) for qualified trafficking in persons under Section 4, in relation to
+> Section 6(a) and Section 10(c) of Republic Act No. 9208, as amended by Republic
+> Act No. 10364.
+>
+> Facts
+>
+> Joemarie and Amirah Macadatar (Amirah) were charged with qualified
+> trafficking in persons under the following information:
+>
+> [Criminal Case No. 25601-14val]
+>
+> On April 13, 2014 at about 12:00 noon in front Nie ara.
+> Re crn a Bukidnon, Philippines, within the jurisdiction of this
+> Honorable Court, the above-named accused, JOEMARIE UBANON Y MAN-
+> AN Alias JOEMARIE FRANCESCO alias Alex and AMIRAH MACADATAR
+> Alias OMERA, conspiring, confederating and mutually helping one another, did
+> then and there willfully, unlawfully and criminally recruit, transport, transfer,
+> harbor and provide [complainants [AAA270934], 14 years old, [BBB270934]
+> 14 years old and [CCC270934], 15 years old, under the pretext of domestic
+> employment for the purpose of forced labor, slavery or involuntary servitude to
+> the damage and prejudice of Complainants in such amount as maybe allowed by
+> law.
+>
+> Contrary to and in violation of Section 4(a), [Republic Act No.] 9208 in
+> relation to Section 6(a) and Section 10(c), [Republic Act No.] 9208.7
+>
+> When arraigned, Joemarie pleaded “not guilty.” Trial then ensued.
+>
+> The prosecution offered as evidence the birth certificates and testimonies*
+>
+> of private complainants AAA270934, BBB270934, and CCC270934."
+>
+> Private complainants testified that on April 14, 2014, they were watching a
+> Manny Pacquiao (ht : err;
+> taking a break in a motorela, a person who introduced himself as Joemarie,
+> approached them and offered them work as onion peelers in
+> with a monthly wage of PHP 2,500.00. AAA270934 expressed her desire to i
+> and told Joemarie that they would go home first to ask permission from their
+>
+> Cagayan de Oro City.
+>
+> > CA rollo, p. 8.
+> 3 Rollo, p. 27.
+> + See Section 7 of Republic Act No. 9208, which provides:
+> Section 7. Confidentiality. — At any stage of the investigation, prosecution and trial of an offense under this
+>
+> Act, law enforcement officers, prosecutors, judges, court personnel and medical practitioners, as well as
+> parties to the case, shall recognize the right to privacy of the trafficked person and the accused. Towards this
+> end, law enforcement officers, prosecutors and judges to whom the complaint has been referred may,
+> whenever necessary to ensure a fair and impartial proceeding, and after considering all circumstances for the
+> best interest of the parties, order a closed-door investigation, prosecution or trial. The name and personal
+> circumstances of the trafficked person or of the accused, or any other information tending to establish their
+> identities and such circumstances or information shall not be disclosed to the public. (Emphasis supplied)
+>
+>
+> G.R. No. 270934
+>
+> Lo
+>
+> Decision
+>
+> parents. However, Joemarie insisted that the employer was already waiting for
+> them. Joemarie instructed AAA270934’s brother to inform their parents about
+> their employment, then brought private complainants to UREN.
+>
+> Joemarie accompanied private complainants to the house of Amirah’s
+> daughter, DDD.° He told them to watch television while waiting for DDD. Soon
+> after, DDD arrived. Joemarie turned up the television volume and had a private
+> conversation with DDD. Then, they all took a motorela to the bus terminal at
+>
+> At the terminal, Joemarie instructed private
+> complainants to board the bus with DDD. After reaching Ba knee private
+> complainants wanted to get off the bus but DDD stopped them. Private
+> complainants and DDD arrived at Iligan City and took a van to Marawi City. By
+> the time the van reached Marawi City, private complainants were already afraid
+> and hungry. They had dinner and rested at Amirah’s house. The next day, private
+> complainants were brought to different homes.’
+>
+> AAA270934 was taken to Talyugon, Lanao del Sur where she worked as a
+> domestic helper to a Maranao family. While AAA270934 was fetching water at a
+> common faucet, she met BBB270934 and discovered that the latter also
+> performed domestic work. After two weeks, AAA270934 tearfully told her
+> employer that she was homesick. AAA270934’s employer comforted her and
+> assured her that she would contact Amirah, AAA270934 then learned from her
+> employer that her mother already received PHP 2,000.00 and that she would be
+> given an additional PHP 2,000.000 before going home. However, AAA270934
+> did not receive the money. AAA270934 was eventually reunited with
+> BBB270934 and CCC270934.°
+>
+> BBB270934 was also brought to Talyugon, Lanao del Sur where she
+> worked as a domestic helper to a Maranao family for two weeks. She was not paid
+> for her service. Meanwhile, CCC270934 was brought to Iligan City, where she
+> worked as a house helper. Like AAA270934 and BBB270934, CCC270934 was
+> not paid for her labor.’
+>
+> Amirah subsequently took private i] to SES and
+>
+> turned them over to AAA270934’s father at the Police Station. She then
+> returned to Marawi City.'”
+>
+> Joemarie denied the accusations. He asserted that Amirah used to be his
+> wife’s employer. Joemarie claimed that on April 13, 2014, at 12:00 p.m., he was
+> at the jeepney terminal bound for San Fernando, Bukidnon. There, three girls and
+> a boy approached him and asked if he knew someone who could provide them
+>
+> Rollo, p. 27.
+>
+> The Records are bereft of the identity of the daughter of Amirah Macadatar.
+> Rollo, p. 28.
+>
+> Id.
+>
+> Id.
+>
+> 10 1d.
+>
+> o a ~~ > a
+>
+>
+> Decision 4 G.R. No. 270934
+>
+> with work. Joemarie referred them to Amirah and took them to her house. Before
+> leaving, Joemarie reminded private complainants to ask permission from their
+> parents. He maintained that he just wanted to help private complainants, who are
+> his fellow indigenous people.
+>
+> On June 24, 2021, the Regional Trial Court (RTC) convicted Joemarie for
+> qualified trafficking in persons:!”
+>
+> WHEREFORE, premises considered, the Court finds Joemarie Ubanon
+> alias Jomarie Francisco alias Alex guilty beyond reasonable doubt for Qualified
+> Trafficking and sentences him to life imprisonment and pay a fine of [PHP
+> 2,000,000.00] without eligibility for parole. He is also directed to pay
+> [AAA270934], [BBB270934] and [CCC270934] the sum of [PHP] 200,000.00
+> as moral damages and [PHP] 100,000.00 as exemplary damages with interest at
+> 6% per annum until full payment.
+>
+> Joemarie Ubanon alias Jomarie Francisco alias Alex shall serve sentence
+> at Davao Penal Farm and Prison, Dujali, Davao del Norte. His preventive
+> suspension at BJMP eae is fully credited in the service of his sentence.
+>
+> The charge against Amirah Macadatar alias Omera is archived pending
+> her arrest. Let alias warrant of arrest issue against her.
+>
+> SO ORDERED.'*
+>
+> The RTC found all the elements of trafficking in persons present. Through
+> deception and moral ascendancy, Joemarie recruited private complainants to work
+> in a distant place as house helpers without their consent and without receiving
+> compensation for their labor."
+>
+> Joemarie elevated the case to the CA.'? Joemarie lamented that the
+> prosecution failed to prove his involvement in the crime. Specifically, there was
+> insufficient evidence to show that he had taken part in transporting the victims to
+> Marawi City for forced labor.'®
+>
+> In its Brief, the People of the Philippines, through the Office of the Solicitor
+> General, submitted that Joemarie’s false offer of employment, refusal to let the
+> victims seek permission from their parents, and instruction to accompany
+> Amirah’s daughter to Marawi City, showed a unity of action and purpose with
+>
+> "1 Td. at 29.
+> 2 Id. at 26-33. Penned by Presiding Judge Mirabeaus A. Undalok of Branch | Regional Trial Court,
+> , Bukidnon.
+>
+> S/d. at 32-33.
+>
+> 4 Id. at 26-33.
+>
+> 'S  Docketed as CA—G.R. CR--HC No. 03063-MIN.
+>
+> '© CA rollo, pp. 31-40. Accused-appellant raised this lone error: THE TRIAL COURT GRAVELY ERRED IN
+> FINDING THE APPELLANT GUILTY OF THE CRIME CHARGED DESPITE THE FAILURE OF THE
+> PROSECUTION TO ESTABLISH HIS GUILT BEYOND REASONABLE DOUBT.
+>
+>
+> Decision 5 G.R. No. 270934
+>
+> Amirah to recruit and transport the victims as house helpers and subject them to
+> forced labor.'”
+>
+> On August 25, 2023, the CA affirmed Joemarie’s conviction for qualified
+> trafficking in persons but deleted the phrase “without eligibility for parole”,
+> thus:!®
+>
+> WHEREFORE, the Appeal is DENIED. The Judgment of the Regional
+> Trial Court, 10" Judicial Region, Branch Rage Bukidnon, dated
+> 24 June 2021, in Criminal Case No. 25601-14val, is hereby AFFIRMED with
+> MODIFICATION that the phrase “without eligibility for parole” in the
+>
+> dispositive portion is DELETED.
+>
+> SO ORDERED." (Emphasis in the original)
+>
+> Hence, this recourse.2” Joemarie now challenges his conviction by
+> reiterating that the prosecution failed to establish his participation in recruiting
+> and transporting the victims to Marawi City for forced labor.”!
+>
+> Ruling
+>
+> The appeal lacks merit.
+>
+> In criminal cases, an appeal throws the entire case wide open for review
+> and the reviewing tribunal can correct errors, though unassigned in the appealed
+> judgment, or even reverse the trial court’s decision based on grounds other than
+> those that the parties raised as errors. The appeal confers the appellate court full
+> jurisdiction over the case and renders such court competent to examine records,
+> revise the judgment appealed from, increase the penalty, and cite the proper
+> provision of the penal law.*?
+>
+> Guided by these precepts, the Court will now determine whether the CA
+> and the RTC correctly found the accused-appellant Joemarie Ubanon y Man-an
+> guilty, including the appropriate penalty and damages.
+>
+> Accused-appellant is guilty of qualified trafficking in persons
+>
+> Section 3(a) of Republic Act No. 9208, as amended, defines “trafficking in
+> persons” as:
+>
+> 17 Id. at 66-79.
+> '8— Rollo, pp. 10-24.
+>
+> 19 Id. at 23-24.
+> 20 CA rollo, p. 18.
+> a id
+>
+> 22 Manansala v. People, 775 Phil. 514, 520 (2015) [Per. J. Perlas-Bernabe, First Division].
+>
+> A
+>
+>
+> Decision 6 G.R. No. 270934
+>
+> (a) Trafficking in Persons — refers to the recruitment, transportation, transfer or
+> harboring, or receipt of persons with or without the victim's consent or
+> knowledge, within or across national borders by means of threat or use of force,
+> or other forms of coercion, abduction, fraud, deception, abuse of power or of
+> position, taking advantage of the vulnerability of the persons, or, the giving or
+> receiving of payments or benefits to achieve the consent of a person having
+> control over another person for the purpose of exploitation which includes at a
+> minimum, the exploitation or the prostitution of others or other forms of sexual
+> exploitation, forced labor or services, slavery, servitude or the removal or sale
+> of organs.
+>
+> The elements of trafficking in persons, which consist of the acts
+> performed, the means employed, and the purpose of the accused, are as follows:
+> (1) The act of recruitment, transportation, transfer or harbouring, or receipt of
+> persons with or without the victim’s consent or knowledge, within or across
+> national borders; (2) the means used, which include threat or use of force, or other
+> forms of coercion, abduction, fraud, deception, abuse of power or of position,
+> taking advantage of the vulnerability of the person, or the giving or receiving of
+> payments or benefits to achieve the consent of a person having control over
+> another; and (3) the purpose of trafficking being for exploitation which includes
+> exploitation or the prostitution of others or other forms of sexual exploitation,
+> forced labor or services, slavery, servitude or the removal or sale of organs.”°
+>
+> Section 3(d) of Republic Act No. 9208 defines the term “forced labor and
+> slavery” as “the extraction of work or services from any person by means of
+> enticement, violence, intimidation or threat, use of force or coercion, including
+> deprivation of freedom, abuse of authority or moral ascendancy, debt-bondage or
+> deception.”
+>
+> Trafficking is qualified when the trafficked person is a child.”° Section 3(b)
+> of Republic Act No. 9208, as amended, defines “child” as “a person below 18
+> years of age or one who is over 18 but is unable to fully take care of or protect
+> [themself] from abuse, neglect, cruelty, exploitation, or discrimination because of
+> a physical or mental disability or condition.” The crime is also qualified if
+> committed on a large scale or against three or more persons, individually or as a
+>
+> group.”°
+>
+> 3 People v. Craste, 925 Phil. 495, 517 (2022) [Per J. M. Lopez, Second Division] citing People v. Casio, 749
+> Phil. 458, 472-473 (2014) [Per J. Leonen, Second Division].
+>
+> “4 Republic Act No. 9208, sec. 3(d) states:
+> Section 3. Definition of Terms. - As used in this Act:
+>
+> (d) Forced Labor and Slavery - refer to the extraction of work or services from any person by means of
+> enticement, violence, intimidation or threat, use of force or coercion, including deprivation of freedom, abuse
+> of authority or moral ascendancy, debt-bondage or deception.
+>
+> 25 See Republic Act No. 9208 (2003), sec. 6(a)
+>
+> ® See Republic Act No. 9208 (2003), sec. 6(c)
+>
+> Ww
+>
+>
+> Decision 7 G.R. No. 270934
+>
+> The prosecution established all these elements beyond reasonable doubt.
+> AAA270934, BBB270934, and CCC270934 positively testified that Accused-
+> appellant convinced them to work as onion peelers in a nearby town. He
+> introduced the victims to DDD and accompanied them to the bus terminal. He
+> directed the victims to board the bus with DDD, who subsequently brought them
+> to Amirah in Marawi City. There, private complainants were deployed to work
+> as domestic helpers without compensation.’ The three victims were all minors
+> under Section 3(b) of Republic Act No. 9208, as proven by their birth certificates.
+> Accused-appellant took advantage of the victims’ vulnerability as minors and
+> their eagerness to earn money. CCC270934 testified:
+>
+> 6 i [CCC270934], do you know Joemarie Ubanon?
+>
+> A: No.
+>
+> Q: When he talked to you whether you want to work as onion peeler, you
+> agreed, am I correct?
+>
+> A: Yes, because Joemarie said that and [sic] were there.
+>
+> Q: You agreed because you yourselves wanted to work?
+>
+> A: Yes, because I know [sic], Ma’am.
+>
+> Q: You went with him because you wanted to work, am I correct?
+>
+> A: Yes.”8
+>
+> Accused-appellant inveighed that he simply accompanied AAA270934,
+> BBB270934, and CCC270934 to DDD’s house. There is no direct evidence that
+> he participated in transporting the victims to Marawi City to render forced labor.
+>
+> We disagree.
+>
+> In Aquino v. Paiste,’ the Court declared that conspiracy need not be
+> proven by direct evidence of prior agreement to commit the crime. It can be
+> proven by evidence of a chain of circumstances. Conspiracy may be inferred from
+> the acts of the accused before, during, and after the commission of the crime
+> which unmistakably indicate a joint purpose, concerted action, and community of
+> interest, thus:
+>
+> Conspiracy is deemed to arise when two or more persons come to an
+> agreement concerning the commission of a felony and decide to commit it.
+> Conspiracy need not be proven by direct evidence of prior agreement to commit
+> the crime. In criminal law, where the quantum of evidence required is proof
+> beyond reasonable doubt, direct proof is not essential to show conspiracy — it
+> may be deduced from the mode, method, and manner by which the offense was
+> perpetrated, or inferred from the acts of the accused themselves when such acts
+> point to a joint purpose and design, concerted action, and community of interest.
+>
+> 2? CA rollo, p. 77. TSN dated March 10, 2017.
+> 78 Id. at 76.
+> 29-578 Phil. 244 (2008) [Per J. Velasco, Jr., Second Division),
+>
+>
+> Decision 8, G.R. No. 270934
+>
+> It is common design which is the essence of conspiracy — conspirators
+> may act separately or together, in different manners but always leading to the
+> same unlawful result. The character and effect of conspiracy are not to be
+> adjudged by dismembering it and viewing its separate parts but only by looking
+> at it as a whole — acts done to give effect to conspiracy may be, in fact, wholly
+> innocent acts. Once proved, the act of one becomes the act of all. All the
+> conspirators are answetenle as cO-principals regardless of the extent or degree
+> of their participation.*° (Citations omitted)
+>
+> In Ferrer v. People,’' we dismissed petitioners’ defense that they did not
+> conspire with their co-accused as they simply “accompanied” the minor victims.
+> The concerted actions of recruiting the victims, funding their transport, briefing
+> them about their work, and supervising their movements, speak volumes of a
+> common criminal cee, that is, to facilitate the transport of the victims for
+> purposes of prostitution.°?
+>
+> Similarly, in People v. Leocadio,**? the Court found that conspiracy
+>
+> existed among accused-appellants who together and, at times, individually,
+> recruited the victims to work in an internet café, gave them instructions, and
+> bought their tickets to go to Manila.*4
+>
+> Under Rule 133, Section 4 of the Rules of Court, circumstantial evidence
+> is sufficient for conviction if: (a) there is more than one circumstance; (b) the
+> facts from which the inferences are derived are proven; and (c) the combination
+> of all these circumstances is such as to produce a conviction beyond reasonable
+> doubt. Thus, to justify a conviction based on circumstantial evidence, the pieces
+> of evidence presented before the trial court must provide a sufficient combination
+> of circumstances to produce a conviction beyond reasonable doubt.*°
+>
+> As in the foregoing cases, the confluence of the following circumstances
+> constitutes conspiracy: (1) accused-appellant approached private complainants
+> and offered them a job as onion peelers; (2) he hurriedly took private
+> complainants to DDD’s house without allowing them to secure their parents’
+> consent; (3) when private complainants arrived at DDD’s house, accused-
+>
+> appellant and DDD talked privately; (4) he accompanied DDD and private
+> complainants to a bus terminal at Rg aD ANDERS, and (5) accused-
+> appellant instructed private complainants to board the bus with DDD. To be sure,
+> accused-appellant actively recruited the victims to facilitate their transport to
+>
+> Marawi City. While there is no direct evidence of previous agreements between
+> him and Amirah, the chain of circumstances leads to no other conclusion than
+>
+> 30 Id. at 259-260.
+>
+> 4 925 Phil. 97 (2022) [Per J. Lazaro-Javier, Second Division].
+>
+> 32 Id. at 120.
+>
+> 33 877 Phil. 819 (2020) [Per C.J. Peralta, First Division].
+>
+> “4 Id. at 845. ’
+>
+> People v. Maglinas, G.R. No. 255496, August 14, 2022 [Per C.J. Gesmundo, First Division].
+>
+>
+> Decision 9 G.R. No. 270934
+>
+> that accused-appellant and Amirah conspired to ultimately subject the minor
+> victims to forced labor.
+>
+> All told, we affirm accused-appellant’s conviction for qualified trafficking
+> in persons.
+>
+> Penalty and Damages
+>
+> Under Section 10(e) of Republic Act No. 9208, as amended, any person
+> found guilty of qualified trafficking shall suffer the penalty of life imprisonment
+> and a fine of not less than PHP 2,000,000.00 but not more than PHP
+> 5,000,000.00.°° Hence, the CA and the RTC correctly imposed the penalty of life
+> imprisonment and fine of PHP 2,000,000.00.
+>
+> To conform with prevailing jurisprudence, we award each minor victim
+> moral and exemplary damages of PHP 500,000.00 and PHP 100,000.00,
+> respectively.*’ Finally, all damages awarded shall earn interest of 6% per
+> annum from the finality of this judgment until full payment.*®
+>
+> ACCORDINGLY, the appeal is DENIED. The Decision dated August
+> 25, 2023 of the Court of Appeals in CA-G.R. CR-HC No. 03063-MIN is
+> AFFIRMED with MODIFICATION. Accused-appellant Joemarie Ubanon y
+> Man-an is GUILTY beyond reasonable doubt of Qualified Trafficking in Persons
+> under Section 4, in relation to Section 6(a) and Section 10(c) of Republic Act No.
+> 9208, as amended by Republic Act No. 10364, and is sentenced to suffer the
+> penalty of life imprisonment. He is ORDERED to pay a fine of PHP
+> 2,000,000.00, and is ORDERED to pay moral damages of PHP 500,000.00 and
+> exemplary damages of PHP 100,000.00 to each of the minor victim, AAA270934,
+> BBB270934, and CCC270934. The damages awarded shall earn interest at the
+> rate of 6% per annum from the date of finality of this Decision until full payment.
+>
+> SO ORDERED.”
+>
+> oN
+>
+> Hf
+>
+> ff
+> Up \]
+>
+> 46 Republic Act No. 9208 (2003), sec. 10, as amended by Republic Act No. 10364 (2012), reads as follows:
+> SEC. 10. Penalties and Sanctions. -- The following penalties and sanctions are hereby established for the
+> offenses enumerated in this Act:
+>
+> (e) Any person found guilty of qualified trafticking under Section 6 shall suffer the penalty of life
+> imprisonment and a fine of not less than Two million pesos (P2,000,000.00) but not more than Five million
+> pesos (P5,000,000.00)[.]
+>
+> 7 Arambullo y. People, 857 Phil. 828, 841 (2019) [Per J. Perlas-Bernabe, Second Division].
+>
+> 38 Nacar v. Gallery Frames, 716 Phil. 267, 282-283 (2013) [Per C.J. Peralta, En Banc].
+>
+>
+> Decision 10 G.R. No. 270934
+>
+> WE CONCUR:
+>
+> MARV Vet. NEN
+> Senior Associate Justice
+> Chairperson
+> AMY Gd. LAZARO-JA VIER most? omer
+> Associate Justice Associate Justice
+> On leave
+>
+> ANTONIO T. KHO, JR.
+> Associate Justice
+>
+> ATTESTATION
+>
+> I attest that the conclusions in the above Decision had been reached in
+> consultation before the case was assigned to the writer of the opinion of the
+> Court’s Division.
+>
+> MARVIC MLV. F. LEQXEN
+> Senior Associate Justice
+> Chairperson
+>
+> CERTIFICATION
+>
+> Pursuant to Section 13, Article VII of the Constitution and the Division
+> Chairperson’s Attestation, I certify that the conclusions in the above Decision had
+> been reached in consultation before the case was assigned to the writer of the
+> opinion of the Court’s Division.
+>
+> G. GESMUNDO
+> hief Justice
